@@ -1,0 +1,3 @@
+# Artículo 87
+
+Los asegurados pensionados por invalidez e incapacidad permanente están obligados a someterse a los tratamientos de rehabilitación física y psíquica, lo mismo que a la readaptación profesional. Los empleadores están obligados a restablecer en su ocupación al trabajador que haya sufrido invalidez o incapacidad permanente en cuanto esté capacitado o rehabilitado. Si no puede desempeñar su trabajo primitivo deberá reubicarlo en la actividad más adecuada a sus calificaciones y aptitudes, siempre que solicite su reincorporación dentro de tres meses de haber sido autorizado por el médico tratante para trabajar. Esta obligación será vigilada en coordinación con el Ministerio del Trabajo.
