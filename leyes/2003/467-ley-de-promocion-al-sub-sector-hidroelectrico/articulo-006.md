@@ -1,0 +1,3 @@
+# Artículo 6
+
+Se autoriza al Ministerio de Fomento, Industria y Comercio (MIFIC) a otorgar permisos de Aprovechamiento de Agua a personas naturales o jurídicas, públicas o privadas para la generación de energía hidráulica de más de un megavatio hasta un máximo de cinco megavatios, en una cuenca específica y previa consulta con los municipios afectados. En el caso de permiso de aprovechamiento de agua ubicados en las Regiones Autónomas, el MIFIC deberá solicitar la autorización del Consejo Regional Autónomo correspondiente. Las plantas de menos de un megavatio no necesitan permiso, todo de acuerdo a la Ley No. 272 “Ley de la Industria Eléctrica”.
