@@ -1,0 +1,3 @@
+# Artículo 1
+
+Créase la Comisión Nacional de Revisión, la cual estará integrada por el Procurador General de Justicia y por cuatro personas designadas directamente por el Presidente de la República entre personas de reconocida honestidad, integridad y solvencia moral, quienes tomarán posesión ante el mismo. Esta Comisión queda facultada para proceder a la revisión de todas las confiscaciones ejecutadas por el gobierno anterior bajo las leyes y decretos confiscatorios, expropiatorios o de reforma agraria y los que de una u otra forma privaron de sus bienes, derechos y acciones a personas naturales o jurídicas, respetando los derechos de los campesinos, de las cooperativas que cumplan su función social y económica y de las personas menos privilegiadas.

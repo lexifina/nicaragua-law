@@ -1,0 +1,3 @@
+# Artículo 13
+
+Tanto el monto de la indemnización como los créditos que deban reconocerse al Estado por diferencias del valor de los activos, se establecerán en córdobas oro. En caso de que el crédito al Estado resulte de deudas contraídas con anterioridad a la confiscación o intervención y que afecten directamente a la propiedad, el monto deudor se establecerá en córdoba oro, en base al principal mas los intereses adeudados hasta el momento del acto confiscatorio o de intervención, conforme a la tabla de conversión que al efecto determinará el Consejo Directivo del Banco Central de Nicaragua.

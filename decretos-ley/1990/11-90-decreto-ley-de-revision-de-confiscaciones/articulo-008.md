@@ -1,0 +1,3 @@
+# Artículo 8
+
+Cuando se tratare de empresas, la resolución se notificará a la Junta General de Corporaciones del Sector Público adscrita al Ministerio de la Presidencia para que esta proceda al paso ordenado de los bienes con la asesoría necesaria. La diferencia entre los activos declarados en el último periodo fiscal anterior a la confiscación o intervención y el que tenga la empresa a la fecha de la resolución se reconocerá a favor del Estado en la forma que éste indique tomando como base las condiciones y plazos que el Banco Central de Nicaragua establezca para crédito comerciales e industriales. El sistema bancario otorgará el financiamiento necesario siempre y cuando la empresa o negocio sean estables y rentables.
