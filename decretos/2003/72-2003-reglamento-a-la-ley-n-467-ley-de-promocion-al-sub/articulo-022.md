@@ -1,0 +1,5 @@
+# Artículo 22
+
+El Consejo Regional respectivo, deberá resolver en un plazo no mayor de sesenta días hábiles a partir de la fecha de acuso de recibo de la solicitud para su aprobación o denegación. Las AlcaldÍas, tendrán cuarenta y cinco días hábiles a partir de la fecha de acuso de recibo de la solicitud para emitir opinión, pudiendo durante este plazo llamar al solicitante para presentar su proyecto. Dichas autoridades deberán emitir certificación del acta donde fue considerada y resuelta la solicitud. En caso de no existir pronunciamiento en el plazo señalado, operará el silencio positivo a favor del solicitante.
+
+El Municipio o el Consejo Regional, antes de emitir la opinión o aprobación respectiva, deberán consultar con las Comunidades Indígenas en donde se encuentre ubicado el punto de extracción o la toma del recurso hídrico, de conformidad a los artos. 12 y 16 de la Ley No. 445, Ley de Régimen de Propiedad Comunal de los Pueblos Indígenas y Comunidades Étnicas de las Regiones Autónomas de la Costa Atlántica de Nicaragua y de los Ríos Bocay, Coco, Indio y Maíz, publicada en La Gaceta, Diario Oficial No. 16 del 23 de Enero de 2003.
