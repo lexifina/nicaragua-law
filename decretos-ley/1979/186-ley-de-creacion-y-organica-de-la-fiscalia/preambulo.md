@@ -1,0 +1,15 @@
+LEY DE CREACIÓN Y ORGÁNICA DE LA FISCALÍA ESPECIAL DE JUSTICIA
+
+DECRETO-LEY N°. 186, aprobado el 29 de noviembre de 1979
+
+Publicado en La Gaceta, Diario Oficial N°. 75 del 05 de diciembre de 1979
+
+LA JUNTA DE GOBIERNO DE RECONSTRUCCIÓN NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+en uso de sus facultades,
+
+Decreta:
+
+La siguiente Ley:
+
+CREACIÓN Y LEY ORGÁNICA DE LA FISCALÍA ESPECIAL DE JUSTICIA
