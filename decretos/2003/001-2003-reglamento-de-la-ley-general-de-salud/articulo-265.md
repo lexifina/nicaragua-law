@@ -1,0 +1,3 @@
+# Artículo 265
+
+El dueño poseedor de animales enfermos, o sospechosos de estarlo, deberá someterlos a observación, aislamiento y cuidado en la forma que la autoridad de salud determine. Igual medida se aplicará a los animales de sangre caliente que hayan mordido o rasguñado a una persona, facilitando además el tratamiento, captura o decomiso de animales enfermos o sospechoso de estarlo. En casos de animales enfermos por rabia quedan en la obligación de sacrificarlos siguiendo las instrucciones de la autoridad sanitaria o de entregarlos a la unidad de salud para su sacrificio, cuando así lo ordene el MINSA.
