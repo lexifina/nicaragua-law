@@ -1,0 +1,3 @@
+# Artículo 5
+
+Dirimidos los conflictos que ocurran entre diferentes obras, ó no habiéndose presentado, y resueltas las oposiciones que hicieren los interesados, á quienes se hubiere citado conforme al artículo 3º de esta ley, ó no habiéndose hecho ninguna, la autoridad que conoce de las diligencias de expropiación, dentro de cinco días hará la declaración de ser indispensable ó necesaria al objeto la ocupación y enajenación de la propiedad particular, municipal ó nacional á que se concrete el plano, y la declaración del ingeniero ó arquitecto contratista, concesionario ó constructor de la obra.

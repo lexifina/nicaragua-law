@@ -1,0 +1,3 @@
+# Artículo 9
+
+Para los fines del artículo 7º de la ley de expropiación, la autoridad respectiva, en términos generales, citará á cuantos se creyeren dueños de la propiedad que se va á ocupar, para que concurran con sus títulos a la oficina, señalando fecha y hora, con diez días de anticipación y por lo menos, por medio de carteles que se fijarán en tres lugares públicos de la localidad, é insertando un ejemplar en un periódico del departamento respectivo, y en su defecto en la Gaceta Oficial. El arreglo podrá ejecutarse por uno ó varios interesados, y valdrá solamente respecto de ellos. En cuanto á los que no se avinieren ó no concurrieren, se procederá como se dispone en el artículo 8º de la ley de expropiación.

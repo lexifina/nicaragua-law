@@ -1,0 +1,5 @@
+# Artículo 15
+
+No podrá ocurrirse de amparo con arreglo al artículo 617 C, y á la Ley de Amparo, sino después de notificarse la última providencia en las diligencias. Y será improcedente el amparo, si el interesado no hubiere interpuesto en tiempo los recursos ordinarios que la Ley de Expropiación le concede contra las providencias que sean el objeto de la solicitud de amparo, ni podrá fundarse ésta en otras causas que en la omisión de los requisitos de que habla el artículo 1º de la Ley de Expropiación, expresándose en la solicitud, la causal que la motiva. Las irregularidades de procedimiento no las tomará en cuenta la Corte Suprema de Justicia, sino cuando éstas importen la omisión de alguno de los requisitos á que se contrae el artículo 1° de la citada Ley de Expropiación.
+
+Si los interesados no interpusieren el recurso de amparo, en tiempo y forma, la expropiación quedará firme, se reputará purgada de todo vicio de nulidad, y en consecuencia no podrá ser invalidada á favor de terceros, á quienes se les deja su derecho á salvo de repetir contra los que se hubiesen aprovechado del producto de la expropiación.

@@ -1,0 +1,5 @@
+# Artículo 14
+
+Para los fines del artículo 19, de la Ley de Expropiación, la ocupación se hará por medio de la colocación de mojones por un perito agrimensor designado por la autoridad que conoce, conformándose al plano y declaración jurada del ingeniero constructor de la obra. Si la autoridad que la ordena no pudiere concurrir al acto, delegará sus funciones en el agrimensor.
+
+Del acto de amojonamiento y ocupación se levantará una acta que la autorizarán, la autoridad respectiva, el agrimensor, el encargado de ejecutar la obra, dos testigos idóneos y el Secretario. Si del auto que ordene la ocupación, no compareciere á apelar ó protestar ningún interesado, dentro de las veinticuatro horas siguientes al tercero día de notificados, á quienes pudiere perjudicar, por medio de carteles fijados en tres lugares públicos de la localidad, é insertándose por una vez en la Gaceta Oficial, ó en cualquier periódico diario de la misma localidad, la providencia quedará firme de derechos; pero no se podrá ejecutar sin entregar previamente el valor de la indemnización.

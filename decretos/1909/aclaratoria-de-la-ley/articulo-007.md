@@ -1,0 +1,3 @@
+# Artículo 7
+
+Para los efectos del artículo 6º de la Ley de 17 de Septiembre de 1883, los dueños de la propiedad, objeto de la expropiación, podrán apelar, alegando en su escrito de apelación exclusivamente alguna de estas causas: 1a, falta de declaratoria de utilidad pública de la obra; 2a, falta de permiso competente para ejecutarla; 3a, falta de citación por carteles en la forma y tiempo que prescribe el artículo 3º de esta ley; 4a, ocupación excesiva de la propiedad; y 5a, ocupación de la propiedad sin previa indemnización. La apelación que no se interpusiere en tiempo y forma, con legítima personería, será desechada de plano.
