@@ -1,0 +1,5 @@
+# Artículo 20
+
+Ministerio de Hacienda y Crédito Público. El Ministerio de Hacienda y Crédito Público, además de las atribuciones que le confiere la Ley No. 290 y su Reglamento, es el órgano rector responsable de autorizar políticas, normas y procedimientos relativos a la administración y desarrollo de los recursos humanos de la administración del Estado, en consulta con la Comisión Nacional del Servicio Civil, implantar el régimen del Servicio Civil a través de la Dirección General de la Función Pública y monitorear a través de la Comisión Nacional del Servicio Civil la aplicación de la presente Ley y su Reglamento; recibir, analizar y dictaminar propuestas que sobre la materia someta la Comisión Nacional del Servicio Civil; informar a la Comisión Nacional del Servicio Civil los resultados de las evaluaciones realizadas en el proceso de implantación de la presente Ley.
+
+Las actuaciones del Ministerio de Hacienda y Crédito Público, en materia de Servicio Civil, no interferirán ni afectarán las funciones propias de los Poderes y otras Instituciones del Estado.

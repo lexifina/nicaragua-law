@@ -1,0 +1,3 @@
+# Artículo 88
+
+Integración del Comité de Selección. Este Comité estará integrado por un representante de la Instancia de Recursos Humanos, un representante del área donde se ubica la plaza a proveer y un funcionario o empleado del área con suficiente calificación técnica, conocimiento amplio de las funciones y particularidades del puesto, y nivel de responsabilidad igual o superior al de la vacante a cubrir y un delegado del sindicato o representante de los funcionarios y empleados para garantizar la objetividad y aplicación de criterios técnicos en la evaluación de los requerimientos exigidos para el desempeño del puesto.

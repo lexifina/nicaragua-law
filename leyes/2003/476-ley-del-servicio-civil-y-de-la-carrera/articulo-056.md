@@ -1,0 +1,3 @@
+# Artículo 56
+
+Comisión de Faltas. Cuando un servidor público incurre en una acción tipificada como falta grave o muy grave conforme lo establecido en los artículos precedentes, el jefe inmediato donde labore el servidor público afectado, deberá, dentro de los diez días hábiles siguientes de haber tenido conocimiento del hecho, enviar a la Instancia de Recursos Humanos de la institución, un informe escrito que denuncie los hechos acontecidos indicando los medios de prueba y el criterio de por qué el hecho constituye falta y por lo tanto solicita el inicio de un proceso disciplinario enviando copia al servidor público.
