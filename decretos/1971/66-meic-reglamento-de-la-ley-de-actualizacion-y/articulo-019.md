@@ -1,0 +1,3 @@
+# Artículo 19
+
+La Dirección General de Cartografía, para extender el Certificado Catastral, exigirá que el interesado o solicitante suministre los nombres, domicilio y direcciones completas de las partes, en el traspaso total o parcial o modificación del inmueble, y acompañará el título correspondiente o una certificación del Registrador Público en que conste: El nombre del titular del derecho inscrito, linderos, descripción, ubicación y superficie de la finca, si esta última apareciese y en el caso de que ésta no aparezca, ni conste en los asientos registrales respectivos, deberá expresarse tal circunstancia.
