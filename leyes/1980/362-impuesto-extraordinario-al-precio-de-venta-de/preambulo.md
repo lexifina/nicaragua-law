@@ -1,0 +1,11 @@
+IMPUESTO EXTRAORDINARIO AL PRECIO DE VENTA DE AZÚCAR AL CONSUMIDOR INDUSTRIAL
+
+LEY N°. 362, aprobada el 11 de abril de 1980
+
+Publicada en La Gaceta, Diario Oficial N°. 82 del 14 de abril de 1980
+
+LA JUNTA DE GOBIERNO DE RECONSTRUCCIÓN NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+en uso de sus facultades,
+
+Decreta:
