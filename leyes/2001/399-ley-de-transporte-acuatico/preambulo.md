@@ -1,0 +1,31 @@
+LEY N°. 399, LEY DE TRANSPORTE ACUÁTICO
+
+Aprobada el 04 de julio de 2001
+
+Publicada en la Gaceta, Diario Oficial N°. 166 del 03 de septiembre de 2001
+
+LEY No. 399
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPUBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+La siguiente:
+
+LEY DE TRANSPORTE ACUÁTICO
+
+TITULO I
+
+DISPOSICIONES GENERALES
+
+CAPITULO I
+
+OBJETO DE LA LEY
+
+OBJETO DE LA LEY

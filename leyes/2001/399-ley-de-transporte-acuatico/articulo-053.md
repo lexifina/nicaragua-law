@@ -1,0 +1,5 @@
+# Artículo 53
+
+Los armadores extranjeros que presten servicios de tráfico regular internacional deberán hacerlo observando los principios de libre y leal competencia de modo que no perturben gravemente la estructura de la ruta del tráfico correspondiente y no causen perjuicios importantes a los armadores nacionales. A tal efecto, en situaciones de grave atentado contra los principios de libre competencia o de libertad comercial o contra aquellos en que se fundamenta el transporte marítimo internacional y que afecten a buques o armadores nacionales, la Autoridad Marítima podrá adoptar cuantas medidas y disposiciones resulten necesarias para la defensa de los intereses nicaragüenses en conflicto.
+
+Asimismo, la DGTA, con respecto a los convenios o acuerdos internacionales aplicables y con carácter excepcional, podrá reservar, total o parcialmente ciertos tráficos internacionales a armadores nacionales y a buques mercantes nacionales o centroamericanos si así lo exigiese la debida tutela de los intereses generales de la economía o de la defensa nacional. En dichos casos, esta reserva de carga no podrá ser cedida, vendida o transferida.
