@@ -1,0 +1,3 @@
+# Artículo 1
+
+Se da por aprobada la Enmienda al Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala) al Tratado General de Integración Económica Centroamericana, suscrito en la ciudad de Managua, Nicaragua el 27 de febrero del 2002, por el Presidente de la República de Costa Rica, Miguel Ángel Rodríguez; el Presidente de la República de El Salvador, Francisco Guillermo Flores Pérez; el Presidente de la República de Guatemala, Alfonso Portillo Cabrera; el Presidente de la República de Honduras, Ricardo Maduro Joest y el Presidente de la República de Nicaragua, Enrique Bolaños Geyer.
