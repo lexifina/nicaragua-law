@@ -1,0 +1,3 @@
+# Artículo 27
+
+El sistema de permisos y evaluación de impacto ambiental será administrado por el Ministerio del Ambiente y Recursos Naturales, en coordinación con las instituciones que corresponda. El MARENA estará obligado a consultar el estudio con los organismos sectoriales competentes así como con los Gobiernos Municipales. En el caso de las Regiones Autónomas de la Costa Atlántica el sistema será administrado por el Consejo Regional respectivo, y en coordinación con la autoridad que administra o autoriza la actividad, obra o proyecto en base a las disposiciones reglamentarias, respetándose la participación ciudadana y garantizándose la difusión correspondiente.
