@@ -1,0 +1,5 @@
+# Artículo 12
+
+Los testimonios de poderes se consignarán por lo regular en papel que corresponda al valor del negocio acto, contrato ú obligación que lo motiva, en la proporción de los artículos anteriores; pero si fueren poderes generales ó especiales ú otras escrituras públicas cuyo valor no pudiere determinarse por documento público ó privado, ó de cualquiera manera directa ó indirecta, se escribirá en papel de doce pesos, lo mismo que las cubiertas de testamentos cerrados.
+
+Exceptúanse de estas disposición, los testimonios de poderes que se otorguen para el efecto de rendir cuentas, seguir y fenecer los juicios de glosa de las mismas ante la Contaduría Mayor y Jefes Políticos, que podrán extenderse en el papel de un peso cuando fueren de Tesoreros, Comisarios ó Habilitados militares en campaña, y otros responsables civiles que hayan servido ad honores, ó que el valor de su cargo general no llegue á mil pesos; y en papel sellado de seis pesos los de cualquier otro cuenta-dante ya sea fiscal y particular.

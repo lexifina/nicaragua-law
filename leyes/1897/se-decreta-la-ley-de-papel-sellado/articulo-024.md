@@ -1,0 +1,3 @@
+# Artículo 24
+
+La habilitación de sello de los documentos á que se refiere el artículo precedente, lo mismo que la de los diplomas académicos y profesionales, sólo podrán extenderse por la Tesorería General, previas las tomas de razón en las oficinas principales respectivas á que esté sujeto cada documento; salvo, su embargo, la de los libros de cuentas, la de pólizas de seguro y de aduana, la de manifiestos y conocimientos de carga, la de matrículas de buques, ó la de cualquier otro documento, concedida en virtud de órdenes especiales del Ministerio de Hacienda, que podrá ser extendida también por las Administraciones terrestres ó marítimas.

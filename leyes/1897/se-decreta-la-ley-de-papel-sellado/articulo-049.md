@@ -1,0 +1,3 @@
+# Artículo 49
+
+La Tesorería General formará minutas del papel que cada oficina devuelva, y las remitirá sin de mora á la Dirección de Contabilidad para la debida confrontación; y una vez recogida toda la emisión retirada, se procederá á la incineración del papel sellado fenecido, ante el Contador Mayor, Director de Contabilidad y Tesorero, lo cual consiste en la inutilización de sellos, previa acta que se extenderá de la formalidad, expresando las cantidades, series y números incinerados. Esta acta será extendida en el mismo registro de que habla el artículo 38, el cual conservará la Contaduría; y la copia de ella será el comprobante natural de descargo en la cuenta del Tesorero.

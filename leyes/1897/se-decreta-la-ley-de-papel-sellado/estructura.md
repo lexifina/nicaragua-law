@@ -1,0 +1,5 @@
+- SECCIÓN I (antes del artículo 1)
+- SECCIÓN II (antes del artículo 17)
+- SECCIÓN III (antes del artículo 27)
+- SECCIÓN IV (antes del artículo 28)
+- SECCIÓN V (antes del artículo 36)
