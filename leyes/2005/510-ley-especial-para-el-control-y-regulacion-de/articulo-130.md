@@ -1,0 +1,9 @@
+# Artículo 130
+
+Delito de fabricación ilegal.
+
+Las personas que fabriquen de forma ilegal partes, componentes, artefactos o accesorios para armas químicas, biológicas, radioactivas o sustancias y materiales destinadas a la elaboración de éstas; miras de visión nocturna, miras telescópicas que no sean de cacería o deportiva, miras láser de uso exclusivo del Ejército de Nicaragua o de la Policía Nacional, silenciadores y en general cualquier artefacto, dispositivos o accesorios que reduzcan la detonación de armas de fuego, así como la de los tanques, granadas de cualquier tipo y la munición empleada para su propulsión; mecanismos de conversión de armas de fuego a funcionamiento automático; artificios para disparar el arma en forma oculta como maletines, estuches, lapiceros, libros y cualquier otro subterfugio; armas de guerra; y que usen o fabriquen granadas de gases lacrimógenos, serán sancionados con una pena principal de ocho a doce años de prisión, más una pena accesoria del pago de cincuenta salarios mínimos promedios y el decomiso de todos los medios y bienes materiales, muebles e inmuebles utilizados para la fabricación.
+
+Las personas que incurran en la fabricación ilegal de armas de fuego que utilicen proyectiles de armas de fuego de uso restringido o de uso civil, tales como revólveres, pistolas, escopetas, fusiles o sus componentes y accesorios, serán sancionadas con una pena principal de uno a tres años de privación de libertad, más una pena accesoria de cinco salarios mínimos y el decomiso de todos los materiales y medios incautados.
+
+En los casos de las personas que fabriquen municiones envenenadas con productos químicos o naturales o cualquier sustancia tóxica, será sancionado con una pena principal de tres a cinco años de privación de libertad, y una pena accesoria del pago de diez salarios mínimos y el decomiso de todos los bienes utilizados para la preparación y transporte de las municiones.
