@@ -1,0 +1,13 @@
+REFORMA A LA LEY DE ARANCELES DEL REGISTRO PÚBLICO EN GENERAL
+
+DECRETO EJECUTIVO Nº. 475, aprobado el 20 de noviembre de 1989
+
+Publicado en La Gaceta, Diario Oficial Nº. 246 de 28 de diciembre de 1989
+
+REFORMA A LA LEY DE ARANCELES DEL REGISTRO PÚBLICO EN GENERAL
+
+Decreto No. 475
+
+EL PRESIDENTE DE LA REPUBLICA DE NICARAGUA
+
+En uso de sus facultades,
