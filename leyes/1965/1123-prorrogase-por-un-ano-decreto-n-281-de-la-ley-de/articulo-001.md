@@ -1,0 +1,3 @@
+# Artículo 1
+
+Prorrogase por el término de un año, a partir de la fecha de su vencimiento, las disposiciones del Decreto Legislativo No. 28, que comprende la Ley de Inquilinato, publicado en “La Gaceta”, Diario Oficial No. 248 del 1 de Noviembre de 1957, prorrogado por Decretos números: 362, publicado en La Gaceta no. 248 del 29 de Octubre de 1958; 441, publicado en “La Gaceta” No. 203 del 7 de Septiembre de 1959; 546, publicado en “La Gaceta” no. 293 del 22 de Diciembre de 1960; 642, publicado en “La Gaceta” No. 287 del 18 de Diciembre de 1961; 774, publicado en La Gaceta no. 261 del 15 de noviembre de 1962; 878, publicado en “La Gaceta” No. 263 del 16 de Noviembre de 1963; y 1029 publicado en “La Gaceta” No. 258 del 11 de noviembre de 1964.
