@@ -1,0 +1,3 @@
+# Artículo 4
+
+Tan pronto como el Ministerio de hacienda haya recibido y completado tal información hará publicar en dos periódicos de la capital avisos en que se haga del conocimiento de los interesados la lista de personas que los exportadores señalaren como productores del café exportadores señalaren como productores del café exportado de la cosecha 1858 - 1959, y la cantidad correspondiente a cada uno; excitando a los productores que se creyeren omitidos o que puedan demostrar que su cantidad respectiva es diferente, a que hagan ante el mismo Ministerio el reclamo del caso, a más tardar dentro del término de quince días de la publicación. Los reclamos que fueren recibidos después de los quince días señalados no serán tomados en cuenta.
