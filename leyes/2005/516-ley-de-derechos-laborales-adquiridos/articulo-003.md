@@ -1,0 +1,3 @@
+# Artículo 3
+
+Ninguna ley, convención, tratados nacionales e internacionales, pactos o acuerdos de carácter económico o comercial, regionales o de otro tipo, con el pretexto de mejorar la competitividad comercial para empresas nacionales o extranjeras que estén operando o comiencen a operar en nuestro país, podrá menoscabar, disminuir, alterar, o diferir los derechos adquiridos de los trabajadores consignados al tenor de los artículos 1 y 2 de esta Ley, ni contrariar las disposiciones tutelares laborales definidas en la Constitución Política, el Código del Trabajo, leyes especiales, reglamentos ministeriales y convenios colectivos.
