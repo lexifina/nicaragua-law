@@ -1,0 +1,3 @@
+# Artículo 52
+
+El Práctico Oficial que se encuentre prestando Servicio de Practicaje, no podrá retirarse del buque en caso de varada, abordaje o cualquier otra clase de accidente hasta tanto no resulten agotados todos los recursos de salvamento, se haya decidido el abandono o se haya dado por finalizada la necesidad de su permanencia a bordo. Inmediatamente de ocurrido el accidente, el Práctico presentará a la Dirección y a la Administración Portuaria su versión de cómo ocurrió el mismo, y sus descargos correspondientes en un Acta firmada por él y con el visto bueno y los criterios del Práctico Mayor, si lo hubiere.

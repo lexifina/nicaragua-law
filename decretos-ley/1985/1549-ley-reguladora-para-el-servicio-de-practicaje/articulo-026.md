@@ -1,0 +1,3 @@
+# Artículo 26
+
+Cuando por cualquier accidente marítimo, condiciones adversas del estado del tiempo o cualquier otra circunstancia especial, el Capitán de un buque solicite los servicios permanente de un Práctico Oficial a bordo, dicha solicitud podrá ser autorizada por la Administración Portuaria, siempre que con ello no se afecte la buena marcha del Servicio de Practicaje en el Puerto en cuestión. En este caso, el servicio de practicaje se cobrará por acuerdo especial entre la Administración Portuaria y el capitán del buque, tomándose en consideración el último párrafo del Artículo anterior y el pago extraordinario correspondiente al práctico.
