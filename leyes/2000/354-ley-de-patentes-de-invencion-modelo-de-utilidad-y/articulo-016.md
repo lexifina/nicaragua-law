@@ -1,0 +1,5 @@
+# Artículo 16
+
+Invenciones Efectuadas por un Empleado no Contratado para Inventar. Cuando un empleado que no esté obligado por su contrato de trabajo a ejercer una actividad inventiva, efectúe una invención en su campo de actividades laborales, mediante la utilización de datos o medios a los que tenga acceso por razón de su empleo, deberá comunicar este hecho a su empleador por escrito, acompañando las informaciones necesarias para comprender la invención. El empleador dentro del plazo de dos meses a partir de la fecha en que hubiese recibido la comunicación del empleado, o conozca de la invención por cualquier otro medio, notificará por escrito al empleado su interés en la invención. En este caso el derecho a la patente pertenecerá al empleador, en caso contrario pertenecerá al empleado.
+
+En caso que el empleador notifique su interés por la invención, el empleado tendrá derecho a una remuneración equitativa teniendo en cuenta el valor económico estimado de la invención. En defecto de acuerdo entre las partes, la remuneración será fijada por la autoridad judicial competente.
