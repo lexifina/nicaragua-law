@@ -1,0 +1,3 @@
+# Artículo 5
+
+Créase un nuevo Juzgado de Distrito para la comprensión territorial del Departamento de Nueva Segovia, con asiento en la ciudad de Ocotal, que se llamará Juzgado de Distrito de lo Criminal de Nueva Segovia, y que conocerá de los asuntos de materia penal en su jurisdicción, inclusive aquellos que al entrar en ejecución la presente Ley se estuvieren sustanciando en el Juzgado de Distrito Único de Nueva Segovia, el que únicamente conocerá de los asuntos de materia civil y se denominará Juzgado Civil de Distrito de Nueva Segovia. Bajo la supervigilancia del Presidente de la Corte de Apelaciones de Estelí, el actual Juzgado de Distrito pasará todas las causas criminales al Juzgado que se está creando.
