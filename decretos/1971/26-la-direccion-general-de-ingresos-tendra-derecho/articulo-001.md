@@ -1,0 +1,7 @@
+# Artículo 1
+
+El Artículo 4 del Decreto Ejecutivo No. 11 del 5 de abril de 1963, publicado en "La Gaceta" No 117 del 28 de mayo de 1963, se leerá así:
+
+"Artículo 4.- La Dirección General de Ingresos tendrá derecho de fiscalizar las cantidades gravables por el impuesto de consumo a que se refiere este Reglamento, a cuyo fin podrá: Por medio de Delegados - Inspectores, debidamente autorizados visitar la Refinería, observando en este caso las medidas de seguridad que hayan sido puestas en vigencia, conocer los datos de calibración de los tanques de almacenamiento y demás depósitos, revisar la lectura de los metros contadores; básculas y sus medidas si se usare el sistema de peso convertible a volumen (litros) de los productos de petróleo, especialmente gases y combustibles licuados como Propano y Butano.
+
+Cualquiera que fuere el sistema usado para el control de ventas de los productos elaborados del petróleo, el pago de los impuestos que los afectan, deberá ser calculado y liquidado, de acuerdo con la Tabla de Conversión para medidas de petróleo, elaborada por la Asociación Americana para Pruebas y Materiales (A.S.T.M.-I-P), de esta manera dichos impuestos, serán siempre pagados en litros a temperatura ambiente. En cualquier tiempo que la Dirección General de Ingresos comprobare que ha habido infracción fraudulenta, se aplicará al infractor, las sanciones establecidas en el Artículo 10 del Decreto que se adiciona, sin perjuicio de las disposiciones aplicables al caso en el Reglamento de Defraudación Fiscal".
