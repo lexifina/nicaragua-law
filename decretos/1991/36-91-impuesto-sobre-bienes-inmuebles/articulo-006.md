@@ -1,0 +1,3 @@
+# Artículo 6
+
+Los inmuebles con un área construida mayor de 100 metros cuadrados, trasmitidos originariamente del Estado, de alguna de sus Instituciones o de las Municipalidades de conformidad de la mencionada Ley 85, y que ya pertenezcan por adquisición a título singular a personas distintas de las beneficiadas por dicha Ley, estarán también afectos a un impuesto igual al 100% de su valor catastral actualizado a la fecha en que se efectúe el pago. Este impuesto será exigible por una sola vez, con los mismos efectos y condiciones y en los mismos casos señalados en los artículos 2, 3, 4 y 5 que anteceden.
