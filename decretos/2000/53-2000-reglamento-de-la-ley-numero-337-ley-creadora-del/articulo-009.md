@@ -1,0 +1,3 @@
+# Artículo 9
+
+Secretaría Ejecutiva. La Secretaría Ejecutiva será la instancia de apoyo administrativo y de ejecución de las funciones que le corresponden dentro del Sistema Nacional de Prevención, Mitigación y Atención de Desastres. El Secretario Ejecutivo será nombrado por el Presidente de la República, correspondiéndole garantizar el cumplimiento de las funciones que la Ley y el presente Reglamento asignan a la Secretaría Ejecutiva, así como de ejecutar los mandatos que el Comité Nacional, en el ejercicio de sus competencias, le confiera. El Secretario Ejecutivo o su representante participará en todas las sesiones del Comité Nacional, con voz pero sin voto.

@@ -1,0 +1,17 @@
+REGLAMENTO DE LA LEY NÚMERO 337, LEY CREADORA DEL SISTEMA NACIONAL PARA LA PREVENCIÓN, MITIGACIÓN Y ATENCIÓN DE DESASTRES
+
+DECRETO EJECUTIVO N°. 53-2000, aprobado el 12 de junio de 2000
+
+Publicado en La Gaceta, Diario Oficial N°. 122 del 28 de junio de 2000
+
+DECRETO No. 53-2000
+
+El Presiente de la República
+
+En uso de sus facultades que le confiere la Constitución Política,
+
+HA DICTADO
+
+El siguiente:
+
+REGLAMENTO DE LA LEY NÚMERO 337, LEY CREADORA DEL SISTEMA NACIONAL PARA LA PREVENCIÓN, MITIGACIÓN Y ATENCIÓN DE DESASTRES
