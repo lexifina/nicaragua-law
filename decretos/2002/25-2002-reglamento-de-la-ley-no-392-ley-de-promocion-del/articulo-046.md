@@ -1,0 +1,3 @@
+# Artículo 46
+
+La Comisión sesionará mensualmente, pero podrá citar a reuniones extraordinarias atendiendo especiales motivos de sus actividades y será convocada por el Presidente de la misma o a solicitud de la tercera parte de sus miembros. El quórum se establecerá con la mitad más uno del total de sus miembros y las decisiones, acuerdos o resoluciones se adoptarán por mayoría simple de los miembros presentes. Se exceptúan aquellas decisiones que contengan propuestas de reformas de leyes relacionadas con el ámbito del desarrollo de la juventud, para lo cual se requiere al menos el voto de los dos tercios de los integrantes de la comisión.
