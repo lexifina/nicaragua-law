@@ -1,0 +1,3 @@
+# Artículo 12
+
+La Dirección administrativa, esto es, la administración del Patrimonio Universitario, la llevará el Patronato que se menciona en el Art. 7°. de este Decreto, que estará integrada por un Presidente, un Vice-Presidente, un Secretario, un Tesorero, y dos Vocales. El Secretario de Educación Pública, Presidente del Patronato; Primer Vocal, el Rector de la Universidad; y el nombramiento del Secretario, del Tesorero y de los otros dos Vocales, será hecho por el Presidente de la República y recaerá sobre personas destacadas en la vida nacional y que desempeñen funciones de gran responsabilidad en organismo de tipo cultural, benéfico, económico o judicial.
