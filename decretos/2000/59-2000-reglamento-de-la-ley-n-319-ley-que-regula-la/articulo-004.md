@@ -1,0 +1,3 @@
+# Artículo 4
+
+Suspensión de la concesión de exploración. Salvo por caso fortuito o fuerza mayor podrá declararse la suspensión de la concesión de exploración únicamente cuando haya sido otorgado este y habiendo transcurrido tres años sin que el concesionario presente el estudio de impacto ambiental. En el contrato a que hace referencia el Arto. 21 de la Ley podrá otorgársele al concesionario el derecho de haber solicitado prórroga al menos con sesenta días de anticipación a la fecha de cumplimiento del plazo establecido anteriormente; todo sin perjuicio a lo establecido en el Arto.36 de la Ley.
