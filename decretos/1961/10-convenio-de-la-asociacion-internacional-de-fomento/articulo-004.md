@@ -1,0 +1,3 @@
+# Artículo 4
+
+El Banco Central de Nicaragua podrá otorgar las garantías requeridas como condición de los préstamos que la Asociación Internacional de Fomento pudiere acordar a favor de entidades públicas o privadas que operen dentro del territorio de la República, o como condición de las garantías extendidas por dicha Asociación sobre otros préstamos a favor de las mismas. Estas garantías serán otorgadas por decisión del Consejo Directivo del Banco Central de Nicaragua, después de consultar las entidades interesadas y de obtener de ellas todos los datos, garantías o informes que fueren necesarios.
