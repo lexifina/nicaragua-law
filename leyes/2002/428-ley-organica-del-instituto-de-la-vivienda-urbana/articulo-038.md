@@ -1,0 +1,3 @@
+# Artículo 38
+
+Facultad de Donar a Entes Públicos y Sujetos Privados. Se faculta a todas las entidades públicas, para que puedan realizar toda clase de donaciones al FOSOVI, previo cumplimiento de los requisitos y procedimientos de ley establecidos. Asimismo, las personas físicas o jurídicas, públicas o privadas, nacionales o extranjeras estarán autorizadas para realizar donaciones, herencias y legados al FOSOVI, y otras transferencias a título gratuito y éste para recibirlas, pudiendo declararse tales donaciones herencias o legados como gastos para los efectos del pago del impuesto sobre la renta.

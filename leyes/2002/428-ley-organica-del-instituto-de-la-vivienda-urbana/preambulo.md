@@ -1,0 +1,25 @@
+LEY N°. 428, LEY ORGÁNICA DEL INSTITUTO DE LA VIVIENDA URBANA Y RURAL (INVUR)
+
+Aprobada el 02 de mayo de 2002
+
+Publicada en La Gaceta, Diario Oficial N°. 109 del 12 de junio de 2002
+
+LEY No. 428
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+La siguiente:
+
+«LEY ORGÁNICA DEL INSTITUTO DE LA VIVIENDA URBANA Y RURAL” (INVUR)
+
+CAPITULO I
+
+FORMACIÓN Y NATURALEZA

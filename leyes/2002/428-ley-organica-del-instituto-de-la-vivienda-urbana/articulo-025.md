@@ -1,0 +1,3 @@
+# Artículo 25
+
+Requisitos Para Obtener la Condición de Entidad Auxiliar. Para obtener la condición de Entidad Auxiliar, las instituciones que tengan interés deben solicitarla por escrito al INVUR. Antes de otorgar la autorización solicitada, la Junta Directiva del INVUR deberá analizar la constitución legal, la situación financiera y la sujeción de las instituciones solicitantes a las disposiciones de sus leyes orgánicas, a sus contratos sociales a los acuerdos, resoluciones y dictámenes de la Junta Directiva y a las demás condiciones que se dispongan en el Reglamento de la presente Ley para estos casos.
