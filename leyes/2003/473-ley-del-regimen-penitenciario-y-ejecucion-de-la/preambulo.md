@@ -1,0 +1,25 @@
+LEY N°. 473, LEY DEL RÉGIMEN PENITENCIARIO Y EJECUCIÓN DE LA PENA
+
+Aprobada el 11 de septiembre de 2003
+
+Publicada en La Gaceta Diario Oficial N°. 222 del 21 de noviembre de 2003
+
+LEY No. 473
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA,
+
+Hace saber al pueblo Nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de las facultades;
+
+HA DICTADO:
+
+La siguiente:
+
+LEY DEL REGIMEN PENITENCIARIO Y EJECUCIÓN DE LA PENA
+
+CAPÍTULO I
+
+DEL OBJETO, EJERCICIO Y NATURALEZA DEL SISTEMA PENITENCIARIO
