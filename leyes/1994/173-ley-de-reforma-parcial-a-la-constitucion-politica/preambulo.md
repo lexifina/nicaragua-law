@@ -1,0 +1,21 @@
+LEY N°. 173, LEY DE REFORMA PARCIAL A LA CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE NICARAGUA
+
+Aprobada el 23 de febrero de 1994
+
+Publicada en La Tribuna, edición N°. 425 del 06 de septiembre de 1994
+
+LEY No. 173
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+La siguiente:
+
+LEY DE REFORMA PARCIAL A LA CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE NICARAGUA
