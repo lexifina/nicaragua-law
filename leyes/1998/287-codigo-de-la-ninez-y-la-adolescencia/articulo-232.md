@@ -1,0 +1,3 @@
+# Artículo 232
+
+Derógase la Ley Tutelar de Menores, Decreto No. 107, del diecisiete de Marzo de mil novecientos setenta y tres, publicada en La Gaceta, Número 83, del trece de Abril de mil novecientos setenta y tres y su reforma; Decreto No. 107, del treinta de Agosto de mil novecientos setenta y cuatro, publicada en La Gaceta, 214, del veinte de Septiembre de mil novecientos setenta y cuatro, y su Reglamento del treinta de Agosto de mil novecientos setenta y cinco. Los numerales 2 y 3 del Artículo 28 del Código Penal vigente; Suprimase del Título XVII, del Código de Instrucción Criminal toda alusión a procedimientos para juzgar a un menor y cualquier disposición que se oponga al presente Código.
