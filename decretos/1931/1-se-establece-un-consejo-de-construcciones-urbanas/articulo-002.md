@@ -1,0 +1,3 @@
+# Artículo 2
+
+El Consejo hará cumplir las leyes vigentes sobre ornato y dictará los reglamentos que sean necesarios para cumplir su encargo y estará integrado por el Director General de Obras Públicas, como jefe de la oficina, por un ingeniero designado por el Poder Ejecutivo en el ramo de Policía y por el tercero que será designado por el Comité Ejecutivo del Distrito Nacional, los cuales serán nombrados por el Ministerio de Fomento ante el cual tomarán posesión de sus cargos, y devengarán el sueldo que oportunamente se les asigne, excepto el Director General de Obras Públicas que lo tiene fijado en el Presupuesto.
