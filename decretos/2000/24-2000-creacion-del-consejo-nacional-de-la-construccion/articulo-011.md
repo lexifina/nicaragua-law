@@ -1,0 +1,3 @@
+# Artículo 11
+
+El Consejo tendrá como patrimonio los aportes que hagan sus miembros al mismo así como cualquier otra contribución que provenga de fuentes externas al mismo. El Consejo no podrá por sí contraer obligaciones financieras que impliquen endeudamiento. Los representantes y sus suplentes no devengarán dieta o pago alguno proveniente de Fondos del Consejo, a menos que los miembros decidan hacer aportes específicos para este propósito. El Consejo fijará en este caso la modalidad a aplicarse para tal fin. En caso de disolución del Consejo, éste decidirá previamente cómo se distribuirán los activos con que cuente en ese momento y nombrará a uno o varios representantes para que lleven a cabo dicha tarea.
