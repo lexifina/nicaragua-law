@@ -1,0 +1,17 @@
+REGLAMENTO DE LA LEY N°. 274, LEY BÁSICA PARA LA REGULACIÓN Y CONTROL DE PLAGUICIDAS, SUSTANCIAS TÓXICAS, PELIGROSAS Y OTRAS SIMILARES
+
+DECRETO EJECUTIVO N°. 49-98, aprobado el 26 de junio de 1998
+
+Publicado en La Gaceta, Diario Oficial N°. 142 del 30 de julio 1998
+
+El Presidente de la República de Nicaragua, En uso de sus facultades que le confiere la Constitución Política,
+
+HA DICTADO:
+
+El siguiente Decreto de:
+
+REGLAMENTO DE LA LEY No. 274, LEY BASICA PARA LA REGULACION Y CONTROL DE PLAGUICIDAS, SUSTANCIAS TOXICAS, PELIGROSAS Y OTRAS SIMILARES
+
+CAPITULO I
+
+DISPOSICIONES GENERALES

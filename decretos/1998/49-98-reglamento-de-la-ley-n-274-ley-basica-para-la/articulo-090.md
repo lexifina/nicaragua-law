@@ -1,0 +1,3 @@
+# Artículo 90
+
+Las personas naturales o jurídicas que fabriquen, formulen, reempaquen, reenvasen, almacenen, transporten, distribuyan, comercialicen, manipulen, apliquen o utilicen productos y sustancias objeto del control y la regulación de la Ley y el presente Reglamento, deben de notificar e informar a la Autoridad de Aplicación acerca de los productos, sustancias y/o envases que sea necesario destruir y serán responsables de la recolección de los derrames, destrucción de remanentes, envases vacíos y desechos de éstos de conformidad a las normativas técnicas que al respecto establezca la Autoridad de Aplicación.
