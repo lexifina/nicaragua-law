@@ -1,0 +1,12 @@
+RATIFICACIÓN DE LA CONVENCIÓN INTERNACIONAL PARA LA SUPRESIÓN DE LA TRATA DE MUJERES Y NIÑOS
+DECRETO EJECUTIVO, aprobado el 10 de octubre de 1935
+Publicado en La Gaceta, Diario Oficial N°. 228 del 14 de octubre de 1935
+JUAN BAUTISTA SACASA,
+Presidente de la República de Nicaragua,
+POR CUANTO el día 30 de septiembre de 1921 los Gobiernos de Alemania, Albania, Austria, Bélgica, Brasil, el Imperio Británico(con el Canadá, Australia, la Unión Sur África, Nueva Zelandia y la India),Chile, China, Colombia, Costa Rica, Cuba, Estonia, Grecia, Hungría, Italia, Japón, Latvia, Lituania, Noruega, Países Bajos, Persia, Polonia (con Dantzig), Portugal, Rumania, Siam, Suecia, Suiza y Checoeslovaquia, deseosos de asegurar de una manera más completa la represión de la trata de blancas a que se refieren los convenios de Paris del 18 de mayo de 1904 y 4 de mayo de 1910, suscribieron en Ginebra y bajo los auspicios de la Sociedad de las Naciones una Convención Internacional para la Supresión de la Trata de Mujeres y Niños, instrumento en cuyo artículo 10 se dispone que los miembros de la Sociedad de las Naciones que no lo hayan firmado pueden adherir a él;
+POR CUANTO el Presidente de la República dictó el acuerdo del 30 de noviembre de 1934, a virtud del cual adhirió a dicha Convención y mandó someterla al Conocimiento del Congreso Nacional para los fines constitucionales:
+POR CUANTO el Senado y Cámara de Diputados de la República aprobaron la mencionada adhesión en el Decreto del 26 de febrero del presente año, sancionado por el Poder Ejecutivo el primero de marzo siguiente;
+POR TANTO
+Ratifico y confirmo la adhesión de la República de Nicaragua a todos y cada uno de los artículos de que consta la Convención de referencia, cuyo texto aparece publicado en los números 216,217 y 218 de “ La Gaceta” Oficial, correspondientes a los días 28 y 30 de septiembre y 10 de octubre de este año; y expido el presente instrumento para los fines de su depósito en la Secretaria de la Sociedad de las Naciones, de acuerdo con lo dispuesto en el artículo 10 de la mencionada Convención, conjuntamente con los ejemplares de “ La Gaceta”.
+Dado y firmado de mi mano y sellado con el Gran Sellos de la Nación, en la ciudad de Managua, D.N., en el Palacio del Ejecutivo, a los diez días del mes de octubre de mil novecientos treinta y cinco. (L.S.) JUAN B.SACASA. El Ministro de Relaciones Exteriores por la ley, (L.S.) ANDRÉS VEGA BOLAÑOS.
+.
