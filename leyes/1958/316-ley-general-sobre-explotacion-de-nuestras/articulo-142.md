@@ -1,0 +1,7 @@
+# Artículo 142
+
+La Dirección General de Riquezas Naturales formará un Registro de los títulos, concesiones y demás derechos a que se refiere el Arto. anterior. Para ese efecto, dentro de los seis meses siguientes a la fecha de promulgación de la presente Ley, la Dirección General de Riquezas Naturales citará a los interesados por medio de avisos publicados en «La Gaceta», por diez veces consecutivas, para que dentro de un término de sesenta días contados a partir de la última publicación comparezcan a esa oficina con sus títulos y documentos correspondientes, los cuales se les devolverán con una constancia al pie que contengan los datos de su presentación o inscripción. Este acto no convalida ningún título, concesión, permiso o derecho que fuere nulo o ya estuviere caduco o extinguido por cualquier causa.
+
+Si los titulares respectivos no presentaren sus títulos o documentos dentro del término arriba indicado, serán sancionados con multa no mayor de quinientos Córdobas que les impondrá la Dirección General de Riquezas Naturales.
+
+Una vez completado el Registro a que se refiere este artículo, el Director General de Riquezas Naturales procederá a hacer el estudio de dichas concesiones y derechos, y elevará su informe sobre su validez y vigencia, en cada caso, ante el Ministro de Economía, para los efectos de cancelación, en caso de incumplimiento, por el concesionario o contratistas, de las obligaciones contraídas en el respectivo contrato y de las establecidas por las leyes pertinentes.

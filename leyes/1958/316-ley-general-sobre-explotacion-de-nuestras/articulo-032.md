@@ -1,0 +1,3 @@
+# Artículo 32
+
+Cada concesión deberá comprender una sola área, sin solución de continuidad, la cual tendrá la forma de un cuadrilátero de una latitud no menor que el tercio de su longitud con sus lados orientados de Norte a Sur y de Este a Oeste, salvo cuando las condiciones del terreno u otras causas semejantes no permitan dicha demarcación, o cuando sea conveniente usar algún lindero natural como la orilla del mar, de un lago, un río, u otro, del mismo género. Sin embargo, aún en estos últimos casos y siempre que fuese posible, el área deberá trazarse en la forma más aproximada a la del cuadrilátero orientado como se deja establecido.

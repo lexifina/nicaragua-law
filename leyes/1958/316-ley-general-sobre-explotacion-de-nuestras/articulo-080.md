@@ -1,0 +1,3 @@
+# Artículo 80
+
+Las leyes especiales podrán exencionar parcial o totalmente los derechos de importación de los materiales, maquinarias, instrumentos, útiles y demás efectos que necesiten introducir al país los concesionarios, siempre que tenga relación directa o inmediata con sus trabajos de exploración, explotación, beneficio, manufactura o refinamiento y transporte, o con cualquier obra que estuvieren obligados a emprender y mantener para las labores o para la preparación de los trabajadores y de las instalaciones, y que no fueren producidos en el en cantidades suficientes y a precio razonablemente competitivo.

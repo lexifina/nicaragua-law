@@ -1,0 +1,5 @@
+# Artículo 63
+
+Cualquier persona que se considerare con derechos adquiridos o con otro derecho preferente de acuerdo con la presente ley, respecto a una solicitud de licencia o de concesión, podrá oponerse a la misma, dentro del término de sesenta días contados a partir de la fecha de la primera publicación de los avisos en «La Gaceta».
+
+Presentada la oposición dentro del plazo en el párrafo que antecede, la Dirección General de Riquezas Naturales le pondrá en conocimiento del solicitante de la concesión para que dentro del término de quince días conteste lo que tenga a bien. Pasado ese término, haya o no contestación, y si no fuere necesario prueba alguna, la Dirección General de Riquezas Naturales enviará al Ministro de Economía, las diligencias correspondientes acompañadas de su dictamen, para que este resuelva lo que será pertinente, antes de transcurridos quince días. Si hubiere hechos que probar, la Dirección General de Riquezas Naturales abrirá un término prudencial de pruebas que no podrá exceder de noventa días.

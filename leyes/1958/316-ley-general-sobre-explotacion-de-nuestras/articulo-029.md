@@ -1,0 +1,3 @@
+# Artículo 29
+
+Toda concesión de exploración tendrá un término de duración no mayor de tres años, que podrá ser prorrogado por otro periodo igual al concedido siempre que el interesado introdujere su solicitud de prorroga dentro de la vigencia de la concesión y demostrare haber cumplido estrictamente con lo dispuesto en el Arto. 26 de esta ley, así como las demás obligaciones que le correspondan. La concesión prorrogada se regirá por las disposiciones legales vigentes al otorgarse la concesión original, a menos que durante el periodo de esta se emitiera una nueva ley y el concesionario decidiera acogerse a ella.

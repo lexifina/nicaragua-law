@@ -1,0 +1,3 @@
+# Artículo 79
+
+Cuando un concesionario considere que para el desarrollo de los trabajos correspondientes a su concesión, o para la ejecución de las obras, instalaciones o edificaciones necesarias a la misma o para el ejercicio de cualquiera otro derecho que le otorgase la presente Ley no fuere suficientemente la constitución de servidumbre sobres propiedades particulares o municipales o resultare antieconómico el pago de las indemnizaciones correspondientes, por cuyos motivos juzgare indispensable la expropiación a favor del Estado, procurará entenderse directamente con el propietario. Si no hubiese entendimiento directo se procederá de conformidad con lo dispuesto al respecto en el Capítulo IX de esta Ley.

@@ -1,0 +1,5 @@
+# Artículo 70
+
+Si de la verificación de una solicitud de licencia de explotación resultare que llena todos los requisitos a que se refiere el Arto. 52 de esta ley, y no habiéndose producido oposición por tercero dentro del término señalado, o la presentada fuere declarada sin lugar, por resolución o sentencia firme, el Di-rector General de Riquezas Naturales elevará su dictamen ante el Ministerio de Economía. El Ministerio de Economía otorgará o rechazará la solicitud presentada fijando en el primer caso las modalidades que estime conveniente Para asegurar el éxito de la licencia solicitada, dentro de las prescripciones de la presente ley.
+
+La Dirección General de Riquezas Naturales notificará al interesado la forma en que se le haya concedido la licencia solicitada y éste tendrá un plazo de diez días para notificar su aceptación. En caso afirmativo, el Ministerio de Economía le librará certificación del Acuerdo Ejecutivo respectivo y de la aceptación del solicitante, la cual será publicada en «La Gaceta», Diario Oficial y se inscribirá en el libro a que se refiere el Arto. 140 de esta Ley.

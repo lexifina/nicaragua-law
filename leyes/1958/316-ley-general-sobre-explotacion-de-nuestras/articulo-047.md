@@ -1,0 +1,3 @@
+# Artículo 47
+
+Créase la DIRECCIÓN GENERAL DE RIQUEZAS NATURALES, bajo la dependencia del Ministerio de Economía, la cual tendrá a su cargo la tramitación de las diligencias administrativas y la inspección, vigilancia y fiscalización de las operaciones relacionadas con la explotación de riquezas naturales del Estado, a fin de hacer efectivas las obligaciones de titulares de permisos de reconocimiento, licencias y concesiones. Esta oficina estará a cargo de un Director General nombrado por el Poder Ejecutivo y tendrá las facultades determinadas en esta ley, su reglamento o disposiciones especiales al respecto.
