@@ -1,0 +1,17 @@
+REGLAMENTO DE LA LEY N°. 428, LEY ORGÁNICA DEL INSTITUTO DE LA VIVIENDA URBANA Y RURAL
+
+DECRETO EJECUTIVO N°. 73-2002, aprobado el 09 agosto de 2002
+
+Publicado en La Gaceta, Diario Oficial N°. 150 del 12 de agosto de 2002
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA,
+
+En uso de las facultades que le confiere la Constitución Política,
+
+HA DICTADO
+
+El siguiente
+
+DECRETO
+
+REGLAMENTO DE LA LEY No. 428, LEY ORGÁNICA DEL INSTITUTO DE LA VIVIENDA URBANA Y RURAL
