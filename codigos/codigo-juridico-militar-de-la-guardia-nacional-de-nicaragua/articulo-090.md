@@ -1,0 +1,7 @@
+# Artículo 90
+
+Cuando a un Oficial de Guardia le fuere presentada por cualquier persona una queja relativa a daño sufrido en su propiedad o que ésta le haya sido tomada ilegalmente por otra sujeta a las leyes militares, avisará del hecho a su Oficial Comandante, quien está obligado a ordenar la reunión inmediata de una Comisión Militar, compuesta de uno a tres Miembros que, con autoridad para percibir Declaraciones Bajo Promesa, investigará el hecho con el fin de establecer la verdadera responsabilidad, y fijará, a la vez, el monto del daño causado. La fijación del monto de estos daños, hecha por la Comisión Militar, estará sujeta a la aprobación del Oficial Comandante de la unidad de tropas donde hubiere sido causado el daño, quien, por escrito ordenará al Pagador retener de la paga del culpable la cantidad de dinero necesaria para cubrir, (en tanto tiempo), el valor de la propiedad dañada o tomada ilegalmente. Las órdenes que contengan retenciones de dinero para estas indemnizaciones, tendrán la suficiente validez que por este Artículo se les concede.
+
+Cuando la Comisión Militar no pudiere llegar a establecer la identidad del o de los culpables, pero sí la de la organización a que pertenecen, el monto fijado será cubierto,-para cuyo efecto se librarán las órdenes pertinentes-, por los Miembros de la organización que, cuando el daño fue realizado, estuvieron fuera o dentro de ella, según el caso.
+
+Actividades políticas
