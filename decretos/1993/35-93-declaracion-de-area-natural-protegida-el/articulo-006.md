@@ -1,0 +1,3 @@
+# Artículo 6
+
+El presente Decreto entrará en vigencia a partir de esta fecha. Publíquese en el Diario Oficial, La Gaceta.
