@@ -1,0 +1,7 @@
+# Artículo 27
+
+Muros, Verjas, Mallas. En todas las zonas de vivienda, se permiten dentro de sus respectivas superficies de retiros frontales y laterales, muros sólidos hasta una altura máxima de un metro, medido del nivel de piso interior del lote. Al igual se permitirán verjas de cualquier tipo, mallas o barandas, hasta una altura de 2,20 metros como máximo.
+
+Siempre para zona de vivienda, a partir de la línea de construcción, en linderos laterales y de fondo se permitirán muros hasta una altura máxima de 3,00 metros. En zonas de producción, equipamiento especializado, centros de ciudad y de reservas naturales, se aplicarán los mismos criterios que para los linderos frontales de las zonas de vivienda, pero con una altura máxima de 3,00 metros; los muros en linderos laterales y de fondo para esta zona, tendrán una altura máxima de 4,50 metros.
+
+Quedan exceptuados en las disposiciones de este Artículo aquellos edificios estatales, embajadas, o residenciales de funcionarios que por estas razones de seguridad puedan necesitar protección especial. Para estos casos podrá permitirse la construcción de muros ciegos en todos los linderos del terreno hasta una altura máxima de 3,00 metros y la adición de cualquier otro dispositivo de seguridad, que no ocasione daños físicos a los transeúntes. Cuando se trate de dispositivos peligrosos para la vida, éstos deben colocarse a una altura mínima de 2,50 metros, medidos a partir del nivel de la acera hasta la parte inferior de dicho dispositivo de seguridad.

@@ -1,0 +1,3 @@
+# Artículo 14
+
+Infraestructura y accesos. En aquellos proyectos de propiedad horizontal o edificaciones que tengan un área mayor de lote de 10,000.00 metros cuadrados, el Ministerio de Vivienda y Asentamientos Humanos, para su aprobación exigirá además, se instalen los servicios de infraestructura adecuados y el acceso necesario a los lotes vecinos y vías perimetrales o varios accesos al lote del proyecto en cuestión. Estas vías deben ser dotadas de obras y servicios, para cuya determinación y ejecución se aplicará lo que estipulen las leyes vigentes de la materia para los proyectos de propiedad horizontal.
