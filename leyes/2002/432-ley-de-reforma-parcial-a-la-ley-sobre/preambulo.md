@@ -1,0 +1,21 @@
+LEY N°. 432, LEY DE REFORMA PARCIAL A LA LEY SOBRE CARACTERÍSTICAS Y USOS DE LOS SÍMBOLOS PATRIOS
+
+Aprobada el 02 de julio de 2002
+
+Publicada en La Gaceta, Diario Oficial N°. 135 del 18 de julio de 2002
+
+LEY No. 432
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+La siguiente:
+
+LEY DE REFORMA PARCIAL A LA LEY SOBRE CARACTERÍSTICAS Y USO DE LOS SÍMBOLOS PATRIOS
