@@ -1,0 +1,21 @@
+LEY N°. 459, LEY DE RECONOCIMIENTO AL EDUCADOR PÚBLICO, ORDEN MAESTRO GABRIEL MORALES
+
+Aprobada el 11 de junio de 2003
+
+Publicada en La Gaceta, Diario Oficial N°. 117 del 24 de junio de 2003
+
+LEY No. 459
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA,
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA,
+
+En uso de sus facultades;
+
+HA DICTADO:
+
+La siguiente:
+
+LEY DE RECONOCIMIENTO AL EDUCADOR PÚBLICO, ORDEN MAESTRO GABRIEL MORALES
