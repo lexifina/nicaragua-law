@@ -1,0 +1,7 @@
+# Artículo 42
+
+Valor Imponible
+
+Para los efectos del Artículo 21 de la Ley, cuando no exista conformidad del contribuyente en la clasificación arancelaria del bien importado, el impuesto se pagará tomando en cuenta los impuestos arancelarios y otros que resulten de los datos suministrados por el contribuyente, y la diferencia de impuestos que, en su caso, resulte de la clasificación arancelaria impugnada la pagará hasta que se resuelva en definitiva por la autoridad competente dicha inconformidad. Dicha diferencia sufrirá un recargo del 25% anual desde el momento en que surgió la inconformidad hasta su efectivo pago.
+
+OBLIGACIONES DE LOS CONTRIBUYENTES
