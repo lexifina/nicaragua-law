@@ -1,0 +1,3 @@
+# Artículo 28
+
+El Ministerio Agropecuario y Forestal, para garantizar el funcionamiento del Dispositivo Nacional de Emergencia Agropecuaria, constituirá un Comité Interno de Emergencia en Sanidad Agropecuaria, presidido por el Ministro Agropecuario y Forestal, e integrado por el Director General de la Dirección General de Protección y Sanidad Agropecuaria, los Directores de Salud Animal y Sanidad Vegetal, Jefe de Epidemiología, Jefe de Vigilancia Fitosanitaria, Jefes de Cuarentena Animal y Cuarentena Vegetal, Jefes de Servicio de Campo y Laboratorios de Referencias. El Comité también podrá ser integrado por personas naturales o jurídicas, organismos e instituciones nacionales e internacionales, que por una u otra causa deban ser involucradas.

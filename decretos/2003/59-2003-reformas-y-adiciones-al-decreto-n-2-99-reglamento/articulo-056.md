@@ -1,0 +1,3 @@
+# Artículo 56
+
+Las personas naturales y jurídicas que incumplieren con los requisitos y normas establecidas para la importación de animales, vegetales, plantas, partes de plantas, productos y subproductos de origen animal y vegetal, acuícola y pesquero, dispondrán de un período máximo de quince días para la reexportación de los mismos. Cumplido este período, se ordenará el decomiso, destrucción y/o sacrificio, sin derecho a indemnización alguna y a costa del propietario. Mientras se cumple la reexportación, el producto o subproducto, deberá de permanecer en condiciones que preste seguridad física y biológica, cuyos costos también deberán ser asumidos por el propietario.

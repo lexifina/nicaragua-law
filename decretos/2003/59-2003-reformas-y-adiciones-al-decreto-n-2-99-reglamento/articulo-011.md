@@ -1,0 +1,3 @@
+# Artículo 11
+
+El Ministerio Agropecuario y Forestal, en la primera semana de cada mes, reportará al Ministerio de Hacienda y Crédito Público el monto generado en el mes anterior en concepto de las prestaciones de servicios, multas, sanciones y otros, para que éste efectúe su devolución en un plazo no mayor de 30 días, para ser usados en el fortalecimiento de las actividades sanitarias y fitosanitarias de la Dirección General de Protección y Sanidad Agropecuaria, cubriendo los costos necesarios de operación, ampliación y modernización de los servicios sanitarios y fitosanitarios, con el objetivo de que funcionen de manera efectiva, de conformidad con lo dispuesto en el Arto. 67 de la Ley.
