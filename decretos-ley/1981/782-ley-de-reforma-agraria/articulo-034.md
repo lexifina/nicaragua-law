@@ -1,0 +1,3 @@
+# Artículo 34
+
+Las tierras que no fueren afectadas por lo estipulado en el artículo 2 de la presente Ley, y que según determinación del Ministerio de Desarrollo Agropecuario y Reforma Agraria permanezcan ociosas en el ciclo agrícola correspondiente, y cuyos dueños no manifieste por actos positivos su decisión de cultivarlas, podrá el Ministerio de Desarrollo Agropecuario y Reforma Agraria explotarlas directamente o darlas en arrendamiento y percibir el canon del mismo. Si el propietario manifestare la decisión de cultivar sus tierras, éstas se le entregará al final del ciclo agrícola correspondiente.
