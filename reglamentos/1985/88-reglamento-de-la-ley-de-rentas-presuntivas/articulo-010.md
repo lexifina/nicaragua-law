@@ -1,0 +1,3 @@
+# Artículo 10
+
+De los Pequeños Negocios.-Para determinar administrativamente la renta anual presuntiva de los dueños de pequeños negocios, la Dirección General de Ingresos, además de los hechos indicados en el Artículo No. 10 de la Ley, podrá tomar en cuenta los resultados de períodos anteriores del mismo contribuyente o de otros contribuyentes con actividades similares, y especialmente las presunciones establecidas en la Ley de determinación presunta de obligaciones de responsables en materia fiscal, sin perjuicio de la facultad de estimar por otros medios indirectos de investigación económica o de cualquier otra clase.
