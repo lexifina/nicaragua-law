@@ -1,0 +1,29 @@
+LEY N°. 292, LEY DE MEDICAMENTOS Y FARMACIAS
+
+Aprobada el 16 abril de 1998
+
+Publicada en La Gaceta, Diario Oficial N°. 103 del 04 junio de 1998
+
+LEY No. 292
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA,
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA,
+
+En uso de sus facultades;
+
+HA DICTADO:
+
+La siguiente:
+
+LEY DE MEDICAMENTOS Y FARMACIAS
+
+TÍTULO I
+
+DISPOSICIONES GENERALES
+
+CAPÍTULO ÚNICO
+
+OBJETO DE LA LEY
