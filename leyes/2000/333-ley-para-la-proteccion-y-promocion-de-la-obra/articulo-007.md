@@ -1,0 +1,7 @@
+# Artículo 7
+
+Se declara Patrimonio Histórico de la Nación los bienes muebles e inmuebles que en vida utilizó Rubén Darío. Se comprende como parte integrante de los bienes inmuebles todos aquellos muebles personales que se encuentren dentro de la propiedad que haya estado vinculada a la vida u obra del Poeta, los que se conservarán en forma unitaria e indivisible a la misma.
+
+La protección y conservación de los bienes mencionados en el párrafo anterior, se determinarán según lo establecido en la Ley de Protección del Patrimonio Cultural de la Nación, Decreto No. 1237 del 12 de abril de mil novecientos ochenta y tres, publicada en La Gaceta, Diario Oficial No. 88 del diecinueve de abril de mil novecientos ochenta y tres; en el Acuerdo del siete de julio de mil novecientos ochenta y tres, “Declaración Patrimonio Histórico y Artístico Nacional del Casco Urbano de la Ciudad de León”, publicado en La Gaceta, Diario Oficial, No. 179 del seis de agosto de mil novecientos ochenta y tres; en los Decretos No. 477, “Que Crea el Museo y Archivo Rubén Darío” y Decreto No. 777, de Reformas al Decreto Legislativo No. 477 “Ley Creadora del Museo y Archivo Rubén Darío”, publicados en La Gaceta, Diario Oficial, No. 64 del diecisiete de marzo de mil novecientos sesenta y La Gaceta, Diario Oficial, No. 17 del veintiuno de enero de mil novecientos sesenta y tres respectivamente; y demás normas aplicables.
+
+DE LA PROTECCIÓN EFECTIVA DE LOS DERECHOS

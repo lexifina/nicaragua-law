@@ -1,0 +1,3 @@
+# Artículo 27
+
+Derógase el Decreto Ejecutivo del seis de febrero de mil novecientos cuarenta y uno, que establece el Premio Nacional de Ciencias y Artes Rubén Darío y consagra con el nombre del Poeta el Salón de Honor del Palacio Nacional; el Decreto No. 3, “Reforma y Reglamento de la Ley que establece el Premio Nacional Rubén Darío, del dieciséis de diciembre de mil novecientos cuarenta y dos; el Decreto “Orden de Rubén Darío”, publicado en La Gaceta, Diario Oficial, número 34 del dieciséis de febrero de mil novecientos sesenta y ocho; el Decreto No. 927, “Orden de la Independencia Cultural Rubén Darío”, publicado en La Gaceta, Diario Oficial, número 21 del veintisiete de enero de mil novecientos ochenta y dos y cualquier otra disposición que se le oponga.
