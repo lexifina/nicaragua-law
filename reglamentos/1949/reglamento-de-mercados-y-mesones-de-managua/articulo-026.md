@@ -1,0 +1,3 @@
+# Artículo 26
+
+El Administrador General para que todos los fondos y valores de Mercados y Mesones se mantengan en una cuenta de depósito a la orden, abierto con el Banco Nacional de Nicaragua. Contra Tal Cuenta, sólo podrá girarse mediante cheques firmados conjuntamente por el mismo Administrador General y por el Ministro del Distrito Nacional, para pagar todos aquellos gastos o cuentas del respectivo Presupuesto y todas aquellas otras cuentas cuyos comprobantes de pago hayan sido debidamente autorizados y legalmente tramitados. La infracción de esta disposición harán personal y directamente responsable por el total de las cantidades giradas a los infractores, no admitiéndoseles excusa para justificar la necesidad o la urgencia de dicho desembolso.

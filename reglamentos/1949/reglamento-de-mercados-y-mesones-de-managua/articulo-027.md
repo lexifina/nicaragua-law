@@ -1,0 +1,3 @@
+# Artículo 27
+
+El día 30 de Junio de cada año, al determinarse el saldo disponible mediante el respectivo balance a esa fecha, y después de deducir las cantidades que fueren necesarias para atender las necesidades de orden corriente de los Mercados y Mesones, se depositará el excedente, en un fondo de cuenta especial destinado a la compra de terrenos y a la construcción de nuevos Mercados y Mesones, o bien para la amortización de deudas contraídas con dichos fines. Para girar en dicha cuenta será necesaria la autorización expresa del Presidente de la República, que se transcribirá a la Contraloría de Cuentas Locales; y los cheques que se libren deberán llevar las firmas del Presidente de la República y del Ministro del Distrito Nacional.
