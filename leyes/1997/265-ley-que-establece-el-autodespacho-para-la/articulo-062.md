@@ -1,0 +1,3 @@
+# Artículo 62
+
+Cuando defraudando la confianza que la presente Ley les confiere, los importadores, exportadores o sus representantes, aprovechen las facilidades que otorga el autodespacho con revisión aleatoria para llevar a cabo acciones u omisiones mediante las cuales se eluda total o parcialmente el pago de las obligaciones arancelarias y tributarias; se frustre la aplicación de restricciones, regulaciones o prohibiciones previstas en la legislación del comercio exterior o se procure la obtención de una ventaja cualquiera infringiendo la legislación, se presumirá que se cometió defraudación aduanera.

@@ -1,0 +1,3 @@
+# Artículo 3
+
+Son obligaciones arancelarias y tributarias el pago de derechos, impuestos, tasas, cuotas antidumping, multas y las demás que establezcan las leyes. No son obligaciones tributarias, las regulaciones y restricciones no arancelarias a la importación o a la exportación que se hubiesen expedido de conformidad a las leyes vigentes, identificados en términos de la posición arancelaria, a nivel de inciso, precisión y nomenclatura que les corresponda, conforme al arancel vigente y publicado en los medios de comunicación social escritos, sin perjuicio de su posterior publicación en La Gaceta, Diario Oficial.

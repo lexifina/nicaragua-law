@@ -1,0 +1,3 @@
+# Artículo 48
+
+Los Agentes Aduaneros ya sean personas naturales o jurídicas, serán los representantes legales de los importadores y exportadores para todas las actuaciones y notificaciones que se deriven del autodespacho de mercancías en el que actúen, siempre que se desarrollen dentro del recinto aduanero o fiscal o que se trate de acta de incautación de mercancías por las causas previstas en la legislación aduanera. Los importadores y exportadores podrán comunicar a las autoridades aduaneras, por medio de aviso que ha cesado dicha representación, siempre que este se presente después de notificadas las actas.
