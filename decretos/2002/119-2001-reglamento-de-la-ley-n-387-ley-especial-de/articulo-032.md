@@ -1,0 +1,3 @@
+# Artículo 32
+
+El amojonamiento de los vértices de la LÍNEA BASE mencionados en el inciso c del artículo anterior, se iniciará a más tardar dentro del primer mes de vigencia de la concesión, debiendo concluir en el término de tres meses. Se informará de esta acción a la DGRN para su registro respectivo.

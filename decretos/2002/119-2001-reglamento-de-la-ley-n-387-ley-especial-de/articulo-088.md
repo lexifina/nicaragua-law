@@ -1,0 +1,7 @@
+# Artículo 88
+
+El Fondo de Desarrollo Minero estará constituido por los recursos financieros provenientes de:
+
+- El 15% de lo recaudado en concepto de Derechos de Vigencias o Superficiales y de Derechos de Extracción o Regalías.
+
+- Los recursos provenientes de donaciones en especie o en moneda nacional o extranjera, recibidas de cualquier fuente. AdGeo podrá gestionar recursos financieros; técnicos y materiales.
