@@ -1,0 +1,11 @@
+CONTRATO DE OBRA PARA LA CONSTRUCCIÓN DE LA PRIMERA UNIDAD GEOTÉRMICA MOMOTOMBO
+
+DECRETO EJECUTIVO N°. 564, aprobado el 11 de noviembre de 1980
+
+Publicado en La Gaceta, Diario Oficial N°. 264 del 15 de noviembre de 1980
+
+LA JUNTA DE GOBIERNO DE RECONSTRUCCIÓN NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+en uso de sus facultades,
+
+Decreta:
