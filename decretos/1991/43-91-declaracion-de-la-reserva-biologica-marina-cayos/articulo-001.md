@@ -1,0 +1,3 @@
+# Artículo 1
+
+Declárase Reserva Biológica Marina el área comprendida en torno a los Cayos Miskitos en un círculo de CUARENTA KILOMETROS de radio, que tiene su centro en la isla grande de los Cayos Miskitos, en las coordenadas OCHENTA Y DOS GRADOS CON CUARENTISEIS minutos de longitud Oeste y CATORCE GRADOS Y VEINTITRES MINUTOS de latitud Norte, además de una franja costera de VEINTE kilómetros de ancho que abarque los humedales, lagunas costeras y áreas litorales situadas entre Wounta y Cabo Gracias a Dios, cuyos límites permanentes serán posteriormente determinados por IRENA, una vez que se reconozcan las características geográficas y ecológicas de la plataforma submarina adyacente al archipiélago de los Cayos Miskitos.
