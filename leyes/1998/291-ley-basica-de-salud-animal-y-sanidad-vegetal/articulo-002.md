@@ -1,0 +1,3 @@
+# Artículo 2
+
+Para cumplir con los objetivos de la presente Ley y su Reglamento, el Ministerio Agricultura y Ganadería dirigirá sus esfuerzos para fortalecer la prevención, diagnóstico, investigación y vigilancia epidemiológica, la cuarentena agropecuaria, el registro y control de los insumos agropecuarios, acuícolas, pesqueros, forestal y agroforestal y el registro genealógico, la inspección de los productos y subproductos de origen animal, vegetal, así como impulsar los programas y campañas de manejo, control y erradicación de plagas y enfermedades, el dispositivo de emergencia en sanidad agropecuaria, la acreditación de profesionales y empresas para programas sanitarios y fitosanitarios y demás mecanismos de armonización y coordinación nacional e internacional.

@@ -1,0 +1,3 @@
+# Artículo 54
+
+Toda persona, natural o jurídica, pública o privada, está obligada a permitir el libre ingreso a sus establecimientos a los funcionarios oficiales de la Dirección General de Protección y Sanidad Agropecuaria, debidamente identificados para efectuar las supervisiones, inspecciones, así como tomar y obtener muestras que permitan verificar la presencia o ausencia de plagas y enfermedades, residuos tóxicos, u otros agentes contaminantes, así mismo, efectuar cualquier otra acción relacionada con la presente Ley y su Reglamento, auxiliados por las fuerzas de seguridad pública en caso que fuese necesario.

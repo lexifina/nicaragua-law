@@ -1,0 +1,5 @@
+# Artículo 30
+
+Con el objeto de evitar el ingreso al país de plagas y enfermedades exóticas y de interés cuarentenario para la Nación, su diseminación y el establecimiento de éstas, si llegaran a entrar, corresponderá a la Dirección General de Protección y Sanidad Agropecuaria, establecer la normativa, coordinación y ejecución de las resoluciones y aquellas acciones y medidas de carácter cuarentenarias en el territorio nacional.
+
+"Cuarentena Agropecuaria", deberá realizar las actividades referidas a la actividad normativa y de aplicación del conjunto de procedimientos establecidos en el Reglamento de la presente Ley, a fin de establecer las acciones de carácter restrictivo y las prohibiciones pertinentes y necesarias, así como autorizar las certificación de los productos y subproductos de origen animal y vegetal para la exportación e importación y las demás funciones que le competan por razón de la materia y todas aquellas que se establezcan con respecto a cualquier otra disposición de carácter normativo y vinculado a la actividad cuarentenaria que emita la Autoridad de Aplicación de la presente Ley y su Reglamento.

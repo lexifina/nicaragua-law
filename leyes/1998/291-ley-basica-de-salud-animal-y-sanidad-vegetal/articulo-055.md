@@ -1,0 +1,3 @@
+# Artículo 55
+
+Cualquier ciudadano con el auxilio de un profesional o técnico agropecuario, acuícola, pesquero, forestal o agroforestal, ya sea en calidad de propietario, administrador, arrendatario, usufructuario, ocupante o encargado de cualquier propiedad mueble o inmueble, cultivos y animales, tiene la obligación de poner en conocimiento a la Dirección General de Protección y Sanidad Agropecuaria del aparecimiento de plagas y enfermedades, así como residuos tóxicos y contaminantes para los animales y vegetales, sus productos y subproductos y el ambiente en general, igualmente participará en las acciones de alerta y emergencia que se llegaran a establecer en caso de ser necesario.

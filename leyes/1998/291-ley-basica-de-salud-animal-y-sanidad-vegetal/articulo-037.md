@@ -1,0 +1,3 @@
+# Artículo 37
+
+Se crea el Registro y Control de los Insumos y Productos de uso Agropecuario, Acuícola, Pesquero, Forestal y Agroforestal no contemplados en la Ley de Semillas y Ley Básica para la Regulación y Control de Plaguicidas, Sustancias Tóxicas, Peligrosas y otras Similares, el que estará bajo la responsabilidad de la Dirección General de Protección y Sanidad Agropecuaria. Esta tendrá la responsabilidad de organizarlo, estructurarlo y administrarlo para los efectos correspondientes de la presente Ley, así como de lo preceptuado en la Ley de Semillas y Ley Básica para la Regulación y Control de Plaguicidas, Sustancias Tóxicas, Peligrosas y otras Similares y sus respectivos Reglamentos.

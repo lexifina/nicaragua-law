@@ -1,0 +1,3 @@
+# Artículo 66
+
+Con el fin de fortalecer las estructuras sanitarias y fitosanitarias del país, el Ministerio de Agricultura y Ganadería, a través de sus dependencias y en consulta con CONASA, establecerá en el Reglamento de la presente Ley, los servicios y tarifas pertinentes que estén relacionadas con el diagnóstico, el control de insumos para uso agropecuario, acuícola y pesquero, los respectivos registros, la cuarentena agropecuaria, los programas y campañas sanitarias y fitosanitarias, precertificación, inspección higiénico sanitaria y fitosanitaria, de los productos y subproductos de origen animal y vegetal.
