@@ -1,0 +1,13 @@
+LEY ORGÁNICA DE LA CORPORACIÓN CONSTRUCTORA DE VIVIENDAS
+
+DECRETO - LEY N°. 793, aprobado el 19 de agosto de 1981
+
+Publicado en La Gaceta, Diario Oficial N°. 196 del 31 de agosto de 1981
+
+LA JUNTA DE GOBIERNO DE RECONSTRUCCIÓN NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso do sus facultados,
+
+Decreta: La siguiente:
+
+"LEY ORGÁNICA DE LA CORPORACIÓN CONSTRUCTORA DE VIVIENDAS"
