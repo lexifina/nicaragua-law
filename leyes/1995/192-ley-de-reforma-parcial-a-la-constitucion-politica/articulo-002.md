@@ -1,0 +1,3 @@
+# Artículo 2
+
+La soberanía nacional reside en el pueblo y la ejerce a través de instrumentos democráticos, decidiendo y participando libremente en la construcción y perfeccionamiento del sistema económico, político y social de la nación. El poder político lo ejerce el pueblo por medio de sus representantes libremente elegidos por sufragio universal, igual, directo y secreto sin que ninguna otra persona o reunión de personas pueda arrogarse este poder o representación. También podrá ejercerlo de manera directa por medio del referéndum y del plebiscito, y otros procedimientos que establezcan la presente Constitución y las leyes.
