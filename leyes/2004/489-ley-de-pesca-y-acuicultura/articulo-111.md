@@ -1,0 +1,9 @@
+# Artículo 111
+
+A las personas naturales o jurídicas poseedoras de licencias o permisos de pesca para aprovechamiento comercial, se les podrá autorizar, en época de veda de la especie objetivo, a aprovechar otros recursos hidrobiológicos que se encuentren inexplotados o subexplotados lo cual tendrá un tratamiento de permiso temporal sujeto al cumplimiento de las obligaciones establecidas en la Ley. El Reglamento dispondrá el procedimiento respectivo.
+
+Se establece el derecho de suspensión previa de los tributos que graven el diesel para las actividades pesqueras y la acuicultura, cuando dicho insumo se utilice en la producción de productos que se destinen al mercado nacional y de exportación. Asimismo, se establece el derecho de devolución para los tributos que graven la gasolina de la pesca y la acuicultura artesanal cuando dicho insumo se utilice en la producción de productos que se destinen a la exportación. En estos últimos casos, la devolución se realizará en un plazo no mayor de 30 días después de presentada la solicitud. La Comisión Nacional de Promoción de Exportaciones del MIFIC, a través de la Secretaría Técnica y en coordinación con el Ministerio de Hacienda y Crédito Público y la Dirección General de Ingresos, administrarán la aplicación de la presente disposición.
+
+Con el propósito de promover la pesca artesanal, se exoneran hasta el 30 de junio del año 2010, las importaciones y enajenaciones de materias primas, bienes intermedios y bienes de capital destinados a la pesca artesanal y la acuicultura artesanal, lo cual se operará de conformidad a lo establecido en los párrafos 2 y 3 del articulo 126 de la Ley 453, Ley de Equidad Fiscal, publicada en La Gaceta No. 82 del 6 de mayo del 2003.
+
+El Estado promoverá la creación de un instituto o escuela para la formación y capacitación de personal y técnicos especializados en actividades pesqueras, principalmente en las de orden artesanal.

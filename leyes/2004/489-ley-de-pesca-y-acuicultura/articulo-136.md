@@ -1,0 +1,5 @@
+# Artículo 136
+
+El MIFIC en coordinación con el MARENA, los Consejos Regionales Autónomos, los Gobiernos Municipales y la industria pesquera en su caso, en un plazo de un año a partir de la vigencia de la presente Ley, deberán realizar un estudio integral sobre el buceo, censo de los buzos activos y en retiro, con el objetivo de presentar ante el CONAPESCA un informe sobre el cual se discuta y aprueben medidas y alternativas que conlleven a presentar propuestas de solución y/o de regulación especial para este tipo de pesca extractiva.
+
+Sin perjuicio de lo establecido en el párrafo anterior, a partir de la vigencia de la presente Ley, el MIFIC en coordinación con MARENA y la participación de los Consejos Regionales Autónomos, deberá n, impulsar un programa de reconversión de la técnica de pesca comercial de langosta por medio del hueco o arpón, por el uso de trampas o nasas en ambos mares del país, con el fin de proteger a la especie y principalmente la salud de las personas que se dedican a este tipo de actividades.

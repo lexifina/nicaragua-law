@@ -1,0 +1,5 @@
+# Artículo 90
+
+Son propiedad del Estado, los resultados de las investigaciones realizadas con el aporte de recursos estatales o de cooperación internacional que hayan sido gestionados por autoridad competente. Adpesca a través del CIPA deberá participar y/o supervisar cualquier programa de investigación, cuando el permiso fuera otorgado por convenios con otros Gobiernos.
+
+Acopio y Reproducción de Larvas Silvestres
