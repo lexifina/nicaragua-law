@@ -1,0 +1,15 @@
+LEY REGULADORA DE LA ACTIVIDAD DE DISEÑO Y CONSTRUCCIÓN
+
+DECRETO EJECUTIVO N°. 237 aprobado el 25 de noviembre de 1986
+
+Publicado en La Gaceta Diario Oficial N°. 263 del 01 de diciembre de 1986
+
+LEY REGULADORA DE LA ACTIVIDAD DE DISEÑO Y CONSTRUCCION
+
+Decreto No. 237
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+DECRETA
