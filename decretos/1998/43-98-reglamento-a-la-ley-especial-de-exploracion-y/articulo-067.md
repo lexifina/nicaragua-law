@@ -1,0 +1,3 @@
+# Artículo 67
+
+De conformidad con el párrafo segundo del Arto. 28 de la Ley, el Contratista garantizará el pago de impuestos, multas y otros tributos de los servicios correspondientes a su sub contratista, bajo el respectivo sub-contrato, así como el pago de salarios y beneficios sociales del personal local de sus sub-contratistas. En caso de incumplimiento de cualquier otra obligación de parte del sub-Contratista a personas residentes en Nicaragua, el Contratista es solidariamente responsable y debe garantizar el debido cumplimiento de las obligaciones legalmente establecidas. El INE velará porque esta disposición conste claramente en el sub-contrato.

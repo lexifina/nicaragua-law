@@ -1,0 +1,3 @@
+# Artículo 27
+
+Cuando el Consejo de Dirección del INE, con la previa autorización del Presidente de la República, en cumplimiento del Arto. 14 de la Ley, decida la negociación de un Contrato por la vía de la concurrencia de ofertas, el Presidente del Consejo de Dirección invitará mediante avisos que se publicarán en los principales diarios de circulación nacional y en publicaciones internacionales especializadas por, al menos, tres (3) veces con intervalos de siete (7) días, a fin de que las personas, naturales o jurídicas, interesadas y pre-calificadas presenten ofertas, señalando las bases de las mismas y los requisitos que deben llenar los oferentes y la fecha en que se recibirán las ofertas.

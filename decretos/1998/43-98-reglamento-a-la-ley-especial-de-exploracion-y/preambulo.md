@@ -1,0 +1,21 @@
+REGLAMENTO A LA LEY ESPECIAL DE EXPLORACIÓN Y EXPLOTACIÓN DE HIDROCARBUROS
+
+DECRETO EJECUTIVO N°. 43-98, aprobado el 17 de junio de 1998
+
+Publicado en La Gaceta, Diario Oficial N°. 117 de 24 de junio de 1998
+
+DECRETO No. 43-98
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+En uso de las facultades que le confiere el Arto. 150, numeral 10) de la Constitución Política,
+
+HA DICTADO
+
+el siguiente:
+
+REGLAMENTO A LA LEY ESPECIAL DE EXPLORACION Y EXPLOTACION DE HIDROCARBUROS
+
+CAPÍTULO I
+
+DISPOSICIONES GENERALES
