@@ -1,0 +1,3 @@
+# Artículo 8
+
+El desarrollo de las R.O.P. estará sujeto a la política nacional de desarrollo turístico y a los planes de ordenamiento turístico, los cuales son promovidos por INTUR, con la participación de los Gobiernos Municipales y los diferentes agentes involucrados que tengan presencia en la región, sean estos de carácter público o privado. El INTUR como organismo rector de la actividad turística nacional, será el responsable de identificar una adecuada gestión a escala local, nacional o internacional para promover la inversión pública en caminos, servicios y otros que se establezcan en los planes de ordenamiento.
