@@ -1,0 +1,3 @@
+# Artículo 5
+
+Con el propósito de controlar las devoluciones y dar seguridad jurídica a la propiedad, las personas a quienes por cualquier motivo se les hubiere devuelto o hecho entrega física de algún bien que estaba bajo dominio, control o posesión del Estado, sin haberse llenado los requisitos señalados en el Artículo 3 de este Decreto, o no se les hubiere otorgado el documento de traspaso o título de dominio correspondiente, deberán presentarse a la Procuraduría General de Justicia para proceder a su completa legalización, en los casos que corresponda. Mientras esto último no se formalice, debe entenderse que tales bienes continúan siendo del Estado.
