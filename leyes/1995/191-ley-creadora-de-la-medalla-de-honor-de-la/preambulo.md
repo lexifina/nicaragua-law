@@ -1,0 +1,21 @@
+LEY N°. 191, LEY CREADORA DE LA MEDALLA DE HONOR DE LA ASAMBLEA NACIONAL
+
+Aprobada el 01 de febrero de 1995
+
+Publicada en El Nuevo Diario N°. 5244 del 17 de marzo de 1995
+
+LEY NO. 191
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+La siguiente:
+
+LEY CREADORA DE LA MEDALLA DE HONOR DE LA ASAMBLEA NACIONAL
