@@ -1,0 +1,3 @@
+# Artículo 1
+
+En cumplimiento de la Ley No. 475,"Ley de Participación Ciudadana" y su Reglamento, con el objeto de promover el ejercicio pleno de la ciudadanía en el ámbito político, social, económico y cultural, mediante mecanismos institucionales que permitan una interacción fluida entre el Estado y la sociedad nicaragüense y contribuyan al fortalecimiento de la libertad y la democracia participativa y representativa establecida en la Constitución Política de la República de Nicaragua, se crea el Consejo de Desarrollo Departamental de Boaco, como instancia de carácter consultivo y participativo que servirá para asegurar una efectiva coordinación, seguimiento y evaluación de planes y proyectos de inversión dirigidos al desarrollo territorial.
