@@ -1,0 +1,23 @@
+LEY N°. 438, LEY DE PROBIDAD DE LOS SERVIDORES PÚBLICOS
+
+Aprobada el 16 de julio de 2002
+
+Publicada en La Gaceta, Diario Oficial N°. 147 del 07 de agosto de 2002
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+La siguiente:
+
+LEY DE PROBIDAD DE LOS SERVIDORES PÚBLICOS
+
+CAPÍTULO I
+
+DISPOSICIONES GENERALES
