@@ -1,0 +1,3 @@
+# Artículo 48
+
+Se crea el Centro Nacional de Información y Documentación de Plaguicidas, Sustancias Tóxicas, Peligrosas y otras similares, cuya administración estará a cargo del Ministerio del Ambiente y Recursos Naturales. Este Centro tendrá objetivos científico-técnicos y cuya función será recopilar, analizar y clasificar la información correspondiente para proporcionarle a la Autoridad de Aplicación los elementos necesarios en el momento de tomar cualquier decisión, sea esta directa o por medio de las instituciones encargadas de aplicar la presente Ley y su Reglamento. La administración de este Centro corresponderá al Ministerio del Ambiente y Recursos Naturales.
