@@ -1,0 +1,19 @@
+REFORMAS E INCORPORACIONES AL DECRETO N°. 20-2003, DE REFORMAS E INCORPORACIONES AL REGLAMENTO DE LA LEY CREADORA DE LA DIRECCIÓN GENERAL DE SERVICIOS ADUANEROS Y DE REFORMAS A LA LEY CREADORA DE LA DIRECCIÓN GENERAL DE INGRESOS, LEY N°. 339, PUBLICADO EN LA GACETA, DIARIO OFICIAL N°. 172 DEL 11 DE SEPTIEMBRE DE 2000
+
+DECRETO EJECUTIVO N°. 1-2005, aprobado el 03 de enero del 2005
+
+Publicado en La Gaceta, Diario Oficial N°. 6 del 10 de enero del 2005
+
+DECRETO No. 1-2005
+
+El Presidente de la República de Nicaragua
+
+En uso de las facultades que le confiere la Constitución Política
+
+HA DICTADO
+
+El siguiente:
+
+DECRETO
+
+Reformas e Incorporaciones al Decreto No. 20-2003
