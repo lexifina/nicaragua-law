@@ -1,0 +1,25 @@
+LEY N°. 286, LEY ESPECIAL DE EXPLORACIÓN Y EXPLOTACIÓN DE HIDROCARBUROS
+
+Aprobada el 18 marzo de 1998
+
+Publicada en La Gaceta, Diario Oficial N°. 109 del 12 junio de 1998
+
+LEY No. 286
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA,
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA,
+
+En uso de sus facultades;
+
+HA DICTADO:
+
+La siguiente:
+
+LEY ESPECIAL DE EXPLORACIÓN Y EXPLOTACIÓN DE HIDROCARBUROS
+
+CAPÍTULO l
+
+DISPOSICIONES GENERALES
