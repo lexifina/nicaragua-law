@@ -1,0 +1,3 @@
+# Artículo 69
+
+La aprobación Técnica del Plan de Ordenamiento Territorial de cada Municipio, será realizada por una Comisión Técnica Interinstitucional, Presidida por INETER e integrada además por MARENA, MAGFOR, MTI, INIFOM; la cual emitirá un dictamen técnico debidamente sustentado y suscrito por los participantes, el cual será remitido al Consejo Municipal respectivo y al Consejo Regional correspondiente en el caso de Municipalidades ubicada en las Regiones Autónomas de la Costa Atlántica. Esta comisión podrá auxiliarse con el aporte técnico de expertos de las respectivas instituciones y de otros entes que se requiera.

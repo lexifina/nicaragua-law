@@ -1,0 +1,3 @@
+# Artículo 45
+
+Zona de industria liviana. Corresponde exclusivamente para el área industrial de tipo liviano que se desarrolla a una escala mayor que el nivel artesanal, preferentemente no nociva, no tóxica, ni contaminante. Este tipo de industria demanda de servicios públicos e infraestructuras mayores al uso vivienda; depende de usos vecinos complementarios; su ubicación es incompatible con vivienda; genera empleo mayor de 10 personas, requiere espacio mayor que una vivienda y hasta 10,000 mts2; y su volumen de producción es medio. En el caso de las actividades que no cumplan esta condición, la ubicación se regulará conforme normas jurídicas y técnicas de la materia.
