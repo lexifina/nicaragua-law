@@ -1,0 +1,3 @@
+# Artículo 88
+
+La Junta Directiva podrá aplicar la sanción de aplazamiento, cuando un miembro del Colegio adeude más de tres cuotas mensuales ordinarias o cuando decretada una cuota extraordinaria, hayan transcurrido más de tres meses, contados del plazo máximo para verificar el pago, sin que el mencionado pago se haya efectuado. La sanción de exclusión de los miembros del Colegio por falta de pago, podrá ser decretada provisionalmente por la Junta Directiva, siempre que el miembro deba más de doce cuotas ordinarias o cuando haya transcurrido más de un año de la fecha en que debió haber pagado las cuotas extraordinarias decretadas, sin efectuar dicho pago, conforme el Arto. 73, ordinal c) de este Reglamento.

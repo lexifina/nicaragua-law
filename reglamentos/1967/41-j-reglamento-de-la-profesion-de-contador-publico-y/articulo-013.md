@@ -1,0 +1,3 @@
+# Artículo 13
+
+De la resolución de la Junta Directiva del Colegio de Contadores Públicos de Nicaragua, que declare que no se ha demostrado la solvencia moral o la práctica profesional, el interesado tendrá el recurso de reposición ante la misma Junta Directiva, el que deberá ejercer en el momento de ser notificado de dicha resolución o dentro de tercero día. De la resolución de la Junta Directiva, dictada dentro del recurso de reposición, habrá el de apelación, ante el Ministerio de Educación Pública, el que deberá ejercerse dentro de cinco días a partir de la notificación de la resolución apelada. En el mismo escrito de mejora del recurso de apelación se hará la expresión de agravios.
