@@ -1,0 +1,3 @@
+# Artículo 10
+
+Organización de la DGI: La Dirección General de Ingresos (DGI) estará conformada por: la Dirección Superior, Sub Dirección General de Planes y Normas; Sub Dirección General de Operaciones; Asesoría; División de Revisión de Recursos; División de Auditoría; División General de Recursos Humanos; División General de Administración Financiera; División de Planes y Control de Gestión; División Jurídico-Técnica; División de Información y Sistemas; División de Fiscalización; División de Administraciones de Rentas; División de Control de Exoneraciones, División de Catastro Fiscal y División de Asesoría al Contribuyente. Esta organización puede ser ampliada y modificada por el Reglamento de la presente Ley.

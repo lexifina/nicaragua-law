@@ -1,0 +1,5 @@
+# Artículo 28
+
+Recurso de Apelación ante el Ministerio de Hacienda y Crédito Público: De toda resolución del Director General de Ingresos podrá apelarse para ante la Asesoría del Ministerio de Hacienda y Crédito Público. El término para apelar será de quince días a partir de la notificación de la resolución recurrida, siguiéndose para tramitarla y en lo aplicable, el mismo procedimiento y condiciones establecidas en el Título IX del Reglamento de la Ley del Impuesto sobre la Renta, publicado en La Gaceta No. 59 del 12 de marzo de mil novecientos cincuenta y tres. La apelación deberá interponerse ante el Director General de Ingresos quién deberá remitirla con un informe por escrito a la Asesoría Jurídica del Ministerio de Hacienda y Crédito Público, quien deberá resolver el fondo del asunto en un término de noventa días, tiempo después del cual en caso no exista resolución alguna, las partes podrán recurrir de Amparo en la vía jurisdiccional.
+
+La Asesoría Jurídica del Ministerio de Hacienda y Crédito Público podrá imponer costas a favor del beneficiado en su resolución, en un monto no mayor de diez por ciento de monto reclamado.
