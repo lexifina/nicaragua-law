@@ -1,0 +1,19 @@
+DE REGLAMENTO DE LA LEY DE PRODUCCIÓN Y COMERCIO DE SEMILLAS
+
+DECRETO EJECUTIVO N°. 26-98, aprobado el 03 abril de 1998
+
+Publicado en La Gaceta, Diario Oficial N°. 71 del 20 abril de 1998
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA,
+
+En uso de las facultades que le confiere el Artículo Número 150, numeral 10 de la Constitución Política,
+
+HA DICTADO:
+
+El siguiente
+
+DE REGLAMENTO DE LA LEY DE PRODUCCIÓN Y COMERCIO DE SEMILLAS
+
+CAPITULO I
+
+DE LAS DEFINICIONES BASICAS Y LAS FUNCIONES DE LA AUTORIDAD DE APLICACION

@@ -1,0 +1,3 @@
+# Artículo 51
+
+Las Empresas o propietarios de las semillas, deberán asumir los gastos en que se incurra cuando se adopten medidas de reclasificación, consumo o destrucción de uno o varios lotes de semillas. Al momento de la destrucción y/o incineración de éstas estarán presentes un delegado del Ministerio de Agricultura y Ganadería, Ministerio de Finanzas, Ministerio de Gobernación, Ministerio de Salud, Dirección General de Semillas y el propietario del lote o de los productos a incinerar, de esta acción se debe levantar un acta que debe ser certificada por el notario público que designe la Autoridad de Aplicación.
