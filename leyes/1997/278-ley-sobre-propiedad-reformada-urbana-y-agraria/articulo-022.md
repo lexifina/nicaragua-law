@@ -1,0 +1,5 @@
+# Artículo 22
+
+A los efectos de lo dispuesto en el Artículo anterior, el Instituto Nicaragüense de Reforma Agraria, en coordinación con el Instituto Nicaragüense de Estudios Territoriales (INETER) y con la Oficina de Ordenamiento Territorial (OOT), en los casos de títulos o asignaciones sujetos a revisión, establecerá dentro de sesenta días un Plan General de Titulación Agraria. El INRA publicará periódicamente en los medios de comunicación social el programa de titulación con identificación de los Departamentos o Zonas del país donde se realizará la entrega de títulos, de acuerdo al mencionado Plan General de Titulación.
+
+Los beneficiarios que tengan títulos de Reforma Agraria sobre propiedades rústicas no inscritas en el Registro Público de la Propiedad Inmueble, títulos provisionales o cartas de asignación o de posesión, deberán presentarse en un plazo no mayor de noventa días, a la respectiva delegación departamental del INRA para que éste previa certificación de que tales beneficiarios están en posesión de dichas tierras y que les fueron otorgadas de acuerdo con la Ley, les ratifique dichos títulos o asignaciones.

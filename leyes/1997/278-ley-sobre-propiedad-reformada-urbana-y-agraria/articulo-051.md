@@ -1,0 +1,5 @@
+# Artículo 51
+
+Los comparecientes debatirán el asunto exponiendo las razones que estimen pertinentes. El mediador hará reflexiones a los comparecientes sobre la conveniencia de llegar a un avenimiento, los invitará a que propongan un arreglo y también podrá hacerles propuestas tendientes a la solución amistosa del asunto. De los acuerdos a que lleguen las partes en este trámite, se levantará un acta y la firmarán las partes y el mediador designado. El mediador entregará al Juez a más tardar dentro de dos días de finalizado el trámite de conciliación, las diligencias creadas y el acuerdo firmado por las partes y por él, el cual servirá de prueba del Contrato de Transacción Judicial celebrado entre las partes.
+
+Salvo que las partes acuerden otra cosa, ninguna de ellas podrá invocar en el resto del procedimiento o ante cualquier otra autoridad, las consideraciones, declaraciones, admisiones de hecho u ofertas de avenencia hechas por la otra parte dentro del procedimiento conciliatorio, o las recomendaciones propuestas por el mediador.

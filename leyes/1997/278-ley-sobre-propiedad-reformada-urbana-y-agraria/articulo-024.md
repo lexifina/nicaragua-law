@@ -1,0 +1,3 @@
+# Artículo 24
+
+La Comisión Nacional de Revisión de Confiscaciones, con las facultades y competencia que le confirió la Ley No. 209, seguirá recibiendo por tres meses contados a partir de la publicación de la presente Ley, solicitudes de personas afectadas en su propiedad por expropiaciones, confiscaciones, ocupaciones, o asentamientos, que no pudieron hacerlo en su oportunidad, sin perjuicio de los derechos establecidos en el Código Civil y de las acciones judiciales que le correspondan. La solicitud del perjudicado deberá ser recibida con sólo cumplir lo que se considere indispensable de los requisitos establecidos en el Artículo 4 del Decreto Ley No. 11-90 de Creación de la Comisión Nacional de Revisión de Confiscaciones.

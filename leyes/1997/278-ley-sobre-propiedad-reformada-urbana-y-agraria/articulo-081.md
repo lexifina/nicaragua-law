@@ -1,0 +1,3 @@
+# Artículo 81
+
+Si la demanda fuera oscura, ininteligible o inepta en cuanto a requisitos de forma y fondo, el Juez o el Tribunal Arbitral en su caso, antes de dar audiencia al demandado, concederá un plazo de tres días al demandante para que haga las aclaraciones, rectificaciones y complementaciones necesarias, para una recta y clara inteligencia del reclamo y sus fundamentos de hecho. El Tribunal deberá señalar en el auto respectivo las indicaciones precisas de lo que considera que debe completar, corregir o perfeccionar el actor, a fin de que no haya dilación alguna para que al contestarse la demanda se trabe el debate de fondo.

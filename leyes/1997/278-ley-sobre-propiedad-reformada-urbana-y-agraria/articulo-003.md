@@ -1,0 +1,3 @@
+# Artículo 3
+
+Los títulos de Reforma Agraria emitidos conforme el Decreto 782, Ley de Reforma Agraria y su reforma, Ley No. 14, por autoridad competente a favor de beneficiarios de reforma agraria que viven de la tierra sean estos personas naturales o cooperativas de acuerdo a la Ley No. 84 y debidamente inscritos en los Libros que para ese efecto lleva el Instituto Nicaragüense de Reforma Agraria, son documentos públicos que acreditan la legitimidad de la adquisición de la propiedad, y gozarán de los beneficios a que se refieren los Artículos 8 y 9 de la presente Ley. La legitimidad de otros títulos agrarios será apreciada de conformidad con las reglas de la prueba a que se refieren los Artículos 82 y 83 de la presente Ley.

@@ -1,0 +1,29 @@
+LEY SOBRE PROPIEDAD REFORMADA URBANA Y AGRARIA
+
+LEY N°. 278, aprobada el 26 de noviembre de 1997
+
+Publicada en La Gaceta, Diario Oficial N°. 239 del 16 de diciembre de 1997
+
+LEY N°. 278
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de las facultades;
+
+HA DICTADO
+
+La siguiente:
+
+LEY SOBRE PROPIEDAD REFORMADA URBANA Y AGRARIA
+
+TITULO I
+
+NORMAS REGULADORAS
+
+CAPÍTULO I
+
+DISPOSICIÓN GENERAL
