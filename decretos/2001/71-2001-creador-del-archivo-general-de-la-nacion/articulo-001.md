@@ -1,0 +1,5 @@
+# Artículo 1
+
+Créase el Archivo General de la Nación, como sucesor legal del Archivo General de la República creado por Decreto Presidencial del siete de julio de mil ochocientos noventa y seis, el que actuará como instancia administrativa perteneciente al Instituto Nicaragüense de Cultura y responsable de preservar la memoria y Patrimonio Documental de la Nación y de la que se le confíe. Su sede central es la Ciudad de Managua en el Palacio Nacional de la Cultura.
+
+Para efectos del presente Decreto, en adelante y por brevedad se utilizará Archivo General como referencia al Archivo General de la Nación.
