@@ -1,0 +1,21 @@
+LEY N°. 466, LEY DE TRANSFERENCIAS PRESUPUESTARIAS A LOS MUNICIPIOS DE NICARAGUA
+
+Aprobada el 03 de julio de 2003
+
+Publicada en La Gaceta, Diario Oficial N°. 157 del 20 de agosto de 2003
+
+LEY No. 466
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA,
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA,
+
+En uso de sus facultades;
+
+HA DICTADO:
+
+La siguiente:
+
+LEY DE TRANSFERENCIAS PRESUPUESTARIAS A LOS MUNICIPIOS DE NICARAGUA
