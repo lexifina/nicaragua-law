@@ -1,0 +1,27 @@
+LEY N°. 312, LEY DE DERECHOS DE AUTOR Y DERECHOS CONEXOS
+
+Aprobada el 06 de julio de 1999
+
+Publicada en La Gaceta, Diario Oficial N°. 166 y 167 del 31 de agosto y 01 de septiembre de 1999
+
+LEY No. 312
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA.
+
+En uso de sus facultades;
+
+HA DICTADO
+
+La siguiente:
+
+LEY DE DERECHOS DE AUTOR Y DERECHOS CONEXOS
+
+TITULO PRELIMINAR
+
+CAPÍTULO ÚNICO
+
+DEFINICIONES Y DISPOSICIONES GENERALES

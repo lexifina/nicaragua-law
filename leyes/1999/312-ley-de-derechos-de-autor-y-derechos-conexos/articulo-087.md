@@ -1,0 +1,3 @@
+# Artículo 87
+
+Los artistas intérpretes o ejecutantes. en cuanto a sus interpretaciones o ejecuciones fijadas. tendrán el derecho de autorizar la reproducción directa o indirecta de sus interpretaciones o ejecuciones fijadas, el derecho sobre esas mismas fijaciones de distribución mediante la puesta a disposición al público, de ejemplares de las mismas; el derecho de alquiler, el derecho de comunicación al público, lo que incluye el derecho de autorizar la puesta a disposición del público de esa interpretaciones o ejecuciones ya sea por hilo o por medio inalámbrico, de tal manera que los miembros del público puedan tener acceso a ellas desde el lugar y en el momento que cada uno de ellos elija.

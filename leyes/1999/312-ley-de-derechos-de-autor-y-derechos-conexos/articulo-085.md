@@ -1,0 +1,7 @@
+# Artículo 85
+
+El derecho moral de los autores sólo podrá ser ejercido sobre la versión definitiva de la obra audiovisual.
+
+DERECHOS CONEXOS
+
+DERECHOS DE LOS ARTISTAS INTERPRETES O EJECUTANTES
