@@ -1,0 +1,3 @@
+# Artículo 6
+
+Las casas matrices de los Bancos del Sistema Financiero Nacional y sus Sucursales y cualquier otra Institución de Ahorro y Préstamo, tributarán mensualmente el 0.5% sobre los ingresos que perciban por servicios bancarios y por el cobro de intereses de toda clase de préstamos efectuados en el Municipio de Managua. De igual forma también pagarán este mismo impuesto del 0.5% sobre sus ingresos al Municipio de Managua las industrias de integración, las industrias comercializadoras de insumos y de productos agropecuarios, los comisariatos y las líneas aéreas. Se excluyen los comisariatos agrícolas o rurales.
