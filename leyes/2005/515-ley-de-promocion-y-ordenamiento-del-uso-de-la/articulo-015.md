@@ -1,0 +1,3 @@
+# Artículo 15
+
+El Consejo Directivo de la Superintendencia de Bancos y otras Instituciones Financieras en un plazo no mayor de sesenta días contados a partir de la publicación de la presente Ley en La Gaceta, Diario Oficial, emitirá una norma que regule el método para la realización del cobro del principal, intereses corrientes y moratorios, comisiones, cobros extrajudiciales y cualquier otro cobro generado o derivado del contrato de apertura de crédito en cuenta corriente y emisión y uso de la Tarjeta de Crédito. Tal método será de aplicación uniforme por todos los emisores de tarjeta de crédito de domicilio nicaragüense.
