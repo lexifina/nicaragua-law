@@ -1,0 +1,3 @@
+# Artículo 8
+
+Decretado que una obra, servicio o programa es de utilidad pública o de interés social, los propietarios o poseedores de los predios que según el proyecto de la misma deban ser expropiados total o parcialmente, estarán obligados a permitir a los funcionarios o empleados de la Unidad Ejecutora o persona autorizada por ésta, la realización de los trabajos preliminares para la obtención de datos necesarios, previos a la expropiación. En caso de renuencia del propietario o poseedor, el expropiante recurrirá a la autoridad judicial correspondiente del lugar, la que oyendo de previo en la siguiente audiencia al interesado, resolverá sin ulterior recurso lo que sea procedente, ordenando, en su caso a las autoridades de policía, que le den el apoyo pertinente.
