@@ -1,0 +1,3 @@
+# Artículo 87
+
+El Bando deberá expresarse en forma de articulado. El inicio, duración y modalidades de las fiestas patronales las regulará el Alcalde mediante un Bando.

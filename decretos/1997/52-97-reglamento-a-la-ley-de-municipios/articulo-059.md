@@ -1,0 +1,3 @@
+# Artículo 59
+
+De cada sesión el Secretario extenderá acta en la que habrá de constar: lugar de la reunión, con expresión del nombre del Municipio y local en que se celebra; día, mes y año; hora en que comienza; nombre y apellidos del Alcalde, Vice Alcalde y miembros del Concejo presentes, de los ausentes que se hubieren excusado y de los que falten sin excusa; carácter ordinario o extraordinario de la sesión; y si se celebra en primera o segunda convocatoria; asistencia del secretario, o de quien legalmente sustituya; asuntos que examinen, opiniones abreviadas de los concejales que hubieren intervenido en los debates; votaciones que se verifiquen; acuerdos tomados; hora en que el Alcalde levante la sesión.
