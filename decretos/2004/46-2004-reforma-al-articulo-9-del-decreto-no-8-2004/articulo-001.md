@@ -1,0 +1,17 @@
+# Artículo 1
+
+Se reforma el artículo 9 del Decreto No.8-2004 publicado en La Gaceta, Diario Oficial No.32 del 16 de febrero de 2004 el que se leerá así:
+
+Arto.9 El Decreto Ejecutivo Creador del Consejo de Desarrollo Departamental deberá indicar:
+
+a) La designación del departamento en que desarrollará su actividad.
+
+b) La autoridad designada pare presidir la sesión de integración.
+
+c) La determinación de los Ministerios con representación en el departamento respectivo cuyos representantes forman parte del Consejo.
+
+d) La determinación de las instancias de Coordinación departamental de las Asociaciones y Fundaciones Civiles sin Fines de Lucro que representarán la participación ciudadana en el Departamento respectivo. Estas organizaciones deben remitir al Presidente de la República el nombre de la persona que los representará en el Consejo, a fin de que se incluyan en la conformación del mismo.
+
+e) La determinación de la Asociación de Municipios del Departamento respectivo, de los alcaldes que deberán de representarles.
+
+f) La incorporación al Consejo de cualquier otro Ente Gubernamental con representación en el departamento respectivo o funcionarios del ámbito municipal que se considere integrar.”
