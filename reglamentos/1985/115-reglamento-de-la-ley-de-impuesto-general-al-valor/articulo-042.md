@@ -1,0 +1,3 @@
+# Artículo 42
+
+Actos Ocasionales. Cuando se enajene un bien, se otorgue el uso o goce de los mismos o se preste un servicio en forma ocasional, por el que se deba pagar el impuesto a falta de una disposición administrativa o legal que indique la forma, el plazo y el lugar en que se deba pagar, el contribuyente lo pagará mediante declaración que prestará en las Administraciones de Rentas respectivas, a más tardar dentro de los 7 días hábiles siguiente a aquel en que se realiza el acto o recibe la contraprestación, sin que contra dicho pago se acepte creditamiento de acuerdo con lo dispuesto en el inciso segundo del artículo 12 de este Reglamento. La declaración en estos casos se regirá por lo dispuesto en el art. 47 de este Reglamento.
