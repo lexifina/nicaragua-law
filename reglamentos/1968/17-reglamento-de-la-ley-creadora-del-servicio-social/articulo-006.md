@@ -1,0 +1,3 @@
+# Artículo 6
+
+Para el cumplimiento de sus funciones, el personal del Servicio Social Obligatorio del Sector Salud, recibirá una remuneración mensual. El monto de esas remuneraciones será el asignado en el Presupuesto General de Ingresos y Egresos de la República o en el Presupuesto de la institución donde se determine el servicio, debiendo en este último caso consignarse, en el presupuesto respectivo, el monto que para cada profesión asigna el Presupuesto General de Ingresos y Egresos de la República. Se le permitirá al PERSONAL, durante el período que preste sus servicios, el ejercicio privado de su profesión siempre que no interfiera el cumplimiento de sus obligaciones.
