@@ -1,0 +1,3 @@
+# Artículo 105
+
+Si no se produjere el acuerdo directo a que se refiere el Artículo anterior, el monto de las compensaciones e indemnizaciones que deben ser abonados por el beneficiario será fijado por peritos nombrados uno por cada parte. Si los peritos no se pusieran de acuerdo, el INE nombrará un tercer perito para que dirima la discordia. El avalúo dado por el tercer perito deberá ser aceptado sin lugar a reclamo alguno en la vía administrativa, pero podrá ser controvertido judicialmente, sin que ello impida la imposición de la servidumbre, según lo establezca el Reglamento de la presente Ley.

@@ -1,0 +1,3 @@
+# Artículo 14
+
+La Comisión sesionará ordinariamente una vez al mes en la fecha que determine su reglamento interno, pudiendo celebrar sesiones extraordinarias, cuando las necesidades lo requieran o lo solicite cualquiera de sus miembros. La convocatoria se hará por escrito con ocho días de anticipación. Habrá quórum con la asistencia de cuatro de sus miembros. Los acuerdos se tomarán por mayoría de votos. El Presidente podrá ejercer el doble voto en caso de empate. En caso de ausencia del Presidente de la República o de su delegado, la Comisión será presidida por el Ministro de Economía y Desarrollo.

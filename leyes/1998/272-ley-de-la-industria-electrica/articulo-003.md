@@ -1,0 +1,3 @@
+# Artículo 3
+
+Las actividades de la industria eléctrica, por ser elemento indispensable para el progreso de la Nación, son de interés nacional. Los bienes y derechos tanto privados, como estatales, podrán ser afectados, ya sea a través del establecimiento de servidumbres o ser declarados de utilidad pública por la autoridad respectiva de conformidad con las leyes correspondientes. Dentro de las actividades de la industria eléctrica, la Actividad de Transmisión y la Actividad de Distribución constituyen servicios públicos de carácter esencial por estar destinadas a satisfacer necesidades primordiales en forma permanente.
