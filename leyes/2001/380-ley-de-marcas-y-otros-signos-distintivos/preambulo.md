@@ -1,0 +1,25 @@
+LEY N°. 380, LEY DE MARCAS Y OTROS SIGNOS DISTINTIVOS
+
+Aprobada el 14 de febrero de 2001
+
+Publicada en La Gaceta, Diario Oficial N°. 70 del 16 de abril de 2001
+
+LEY No. 380
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de las facultades;
+
+HA DICTADO
+
+La siguiente:
+
+LEY DE MARCAS Y OTROS SIGNOS DISTINTIVOS
+
+CAPÍTULO I
+
+DISPOSICIONES GENERALES
