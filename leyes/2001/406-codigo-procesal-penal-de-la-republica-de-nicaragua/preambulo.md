@@ -1,0 +1,25 @@
+LEY N°. 406, CÓDIGO PROCESAL PENAL DE LA REPÚBLICA DE NICARAGUA
+
+Aprobada el 13 de noviembre de 2001
+
+Publicada en La Gaceta, Diario Oficial N°. 243 y 244 del 21 y 24 de diciembre de 2001
+
+LEY No. 406
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA,
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+El siguiente:
+
+CÓDIGO PROCESAL PENAL DE LA REPÚBLICA DE NICARAGUA
+
+TÍTULO PRELIMINAR
+
+PRINCIPIOS Y GARANTÍAS PROCESALES
