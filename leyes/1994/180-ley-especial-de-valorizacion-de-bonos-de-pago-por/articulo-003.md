@@ -1,0 +1,3 @@
+# Artículo 3
+
+En los casos que los Bonos fueren utilizados para la compra de activos o bienes del Estado y sus Instituciones, en subastas o cualquier otro mecanismo de privatización, o para el pago de deudas originadas en el proceso de privatización o devolución de bienes por parte del Estado, los Bonos serán aceptados a la par, esto es, como dinero en efectivo, salvo lo establecido en el Decreto 56-92. También los Bonos servirán, en la misma forma, para cancelar las obligaciones fiscales establecidas en el Decreto No. 36-91 del mes de Agosto de 1991, siempre y cuando lo cancelen en los próximos tres años.
