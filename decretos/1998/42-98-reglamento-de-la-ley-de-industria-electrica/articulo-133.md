@@ -1,0 +1,5 @@
+# Artículo 133
+
+Efectuada la verificación por la DGE, el Consejo de Dirección del INE dictará la Resolución, otorgando la prórroga o denegando la solicitud, según que el concesionario o titular de licencia, haya o no, cumplido con lo establecido en este Reglamento.
+
+Una vez otorgada la prórroga el concesionario o titular de licencia, después de diez días de notificado el otorgamiento de la prórroga deberá publicarla en La Gaceta, Diario Oficial. Posterior a su publicación se procederá a firmar el contrato respectivo, siguiendo el procedimiento estipulado según el caso, para las concesiones o licencias.

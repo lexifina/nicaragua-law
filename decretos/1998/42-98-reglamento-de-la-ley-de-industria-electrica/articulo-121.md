@@ -1,0 +1,3 @@
+# Artículo 121
+
+La resolución del Consejo de Dirección será notificada al solicitante dentro de tercero día de ser adoptada. En el plaza de 15 días de notificada la Resolución, el beneficiario deberá enviar aceptación por escrito del Acuerdo de Otorgamiento tomado por el INE. Posterior a la aceptación y dentro del plazo de 15 días mandará a publicar el Acuerdo de Otorgamiento de la licencia provisional y cancelará el pago por el costo del otorgamiento equivalente a un décimo del uno por ciento (0.1%) del valor de la inversión, a favor del INE, so pena de nulidad si no cumpliere con lo dispuesto en este artículo.

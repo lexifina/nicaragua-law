@@ -1,0 +1,3 @@
+# Artículo 120
+
+Recibidas las solicitudes de licencia provisional por la Dirección General de Electricidad, se asentará una nota marginal con constancia de la hora, Día, mes y Año de su presentación y se registrarán en la columna de licencias provisionales del Libro de Registro de Solicitudes de Licencias. La Dirección General de Electricidad, en un término no mayor de quince (15) días hábiles, someterá al conocimiento del Consejo de Dirección, su dictamen de evaluación de la solicitud presentada con su recomendación correspondiente. El Consejo de Dirección del INE, se pronunciará en su siguiente sesión ordinaria sobre la procedencia de la solicitud haciendo referencia expresa al dictamen de evaluación presentado.

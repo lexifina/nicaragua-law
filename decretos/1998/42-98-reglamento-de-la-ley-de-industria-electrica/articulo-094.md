@@ -1,0 +1,3 @@
+# Artículo 94
+
+En la evaluación se deberá establecer como punto de previo y especial pronunciamiento, que las ofertas presentadas hayan cumplido con todos los requisitos, términos y condiciones estipulados en la Ley, este Reglamento y en los documentos de licitación. De no cumplirse estos requisitos, la Dirección General de Electricidad, consignará en su dictamen final la descalificación de tales ofertas. Sin embargo, se podrán admitir correcciones de defectos de forma, o errores evidentes, siempre que éstos no alteren aspectos sustanciales de la oferta, ni su corrección violente el principio de igualdad de los oferentes.

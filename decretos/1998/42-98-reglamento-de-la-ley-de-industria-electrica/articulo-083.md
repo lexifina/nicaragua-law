@@ -1,0 +1,3 @@
+# Artículo 83
+
+Cuando el Consejo de Dirección del INE, con fundamento en el Arto. 71 de la Ley y en el inciso k) del Arto. 4 de la Ley Orgánica del INE, determine la conveniencia de ofrecer en Licitación Pública el otorgamiento de una Concesión de Distribución, deberá emitir una Resolución al respecto que determine el área geográfica de la concesión y los criterios generales que regirán el procedimiento de licitación. En la Resolución del Consejo de Dirección, se ordenará a la Dirección General de Electricidad, la elaboración de los Documentos de Licitación pertinentes y el plazo en que los mismos deberán estar preparados.
