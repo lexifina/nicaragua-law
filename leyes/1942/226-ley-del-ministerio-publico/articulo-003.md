@@ -1,0 +1,3 @@
+# Artículo 3
+
+El Procurador General de la República será nombrado por el Presidente de la República, deberá ser abogado de reputación intachable, mayor de 30 años de edad, ciudadano nicaragüense en ejercicio de sus derechos, de carrera profesional de más de cinco años y no tener ninguna de las incapacidad que señala el Arto. 230 Cn. para ser Secretario de Estado. Tomará posesión de su cargo dentro de los primeros ocho días después de la toma de posesión del Presidente de la República, salvo causa justificada, durará en su ejercicio por todo el período presidencial respectivo y solo podrá ser removido por el Presidente de la República en virtud de resolución fundada en justos motivos.
