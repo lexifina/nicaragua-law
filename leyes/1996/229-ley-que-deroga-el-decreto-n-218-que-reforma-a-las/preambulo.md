@@ -1,0 +1,19 @@
+LEY N°. 229, LEY QUE DEROGA EL DECRETO N°. 218 QUE REFORMA A LAS SOCIEDADES ANÓNIMAS
+
+Aprobada el 06 de agosto de 1996
+
+Publicada en La Gaceta, Diario Oficial N°. 241 del 19 de diciembre de 1996
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace saber al Pueblo Nicaragüense que
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades
+
+HA DICTADO
+
+La siguiente
+
+LEY QUE DEROGA EL DECRETO N°. 218 QUE REFORMA A LAS SOCIEDADES ANÓNIMAS
