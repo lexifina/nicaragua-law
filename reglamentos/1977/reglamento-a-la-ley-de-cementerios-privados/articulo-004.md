@@ -1,0 +1,3 @@
+# Artículo 4
+
+Si el Cementerio Privado se estableciere en la ciudad capital, deberá tener una extensión mínima de veinticinco (25) manzanas y destinar entre ellas por lo menos el diez por ciento del mismo para calles, avenidas y áreas verdes y deberá estar situado dentro de un perímetro no mayor de quince km. Del centro de la ciudad capital y si lo fuere en otras poblaciones la fijará la Oficina de Urbanismo si la hubiere, o bien el Consejo Municipal de acuerdo con su importancia y número de habitantes y deberá estar situado dentro de un perímetro no mayor de cinco km. De la cabecera departamental.
