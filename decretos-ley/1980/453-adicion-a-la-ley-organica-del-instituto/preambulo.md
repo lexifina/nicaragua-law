@@ -1,0 +1,11 @@
+ADICIÓN A LA LEY ORGÁNICA DEL INSTITUTO NICARAGÜENSE DE ACUEDUCTOS Y ALCANTARILLADOS INAA
+
+DECRETO - LEY N°. 453, aprobado el 21 de junio de 1980
+
+Publicado en La Gaceta, Diario Oficial N°. 146 del 28 de junio de 1980
+
+LA JUNTA DE GOBIERNO DE RECONSTRUCCIÓN NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+en uso de sus facultades,
+
+Decreta:
