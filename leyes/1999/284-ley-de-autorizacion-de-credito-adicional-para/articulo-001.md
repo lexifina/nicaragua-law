@@ -1,0 +1,5 @@
+# Artículo 1
+
+Se autoriza la emisión adicional de Bonos de Pago hasta por un monto de Dos Mil Millones de Córdobas (C$2,000,000,000.00.) Con mantenimiento de valor con respecto al dólar de los Estados Unidos de América. Estos Bonos se destinarán al pago de las obligaciones contraídas por el estado con motivo de la aplicación del Sistema de Compensación para indemnizar el valor establecido conforme los procedimientos del Decreto 51-92, de los bienes patrimoniales indebidamente apropiados o confiscados, y que no fuere posible su devolución. También se destinarán para la compra de bienes inmuebles conforme se establece en el artículo dos de la presente Ley.
+
+Se autoriza al Ejecutivo a través del Ministerio de Finanzas a la comisión parcial de dichos Bonos de Pago, de acuerdo a las necesidades del proceso de indemnización así como a cambiar el formato actual de los mismos, pudiendo ser fraccionados los mismos en las denominaciones que sean más convenientes a los intereses del beneficiario y del Estado.
