@@ -1,0 +1,3 @@
+# Artículo 23
+
+Para la aplicación del Arto. 5 de la Ley, relacionado con el IEC del diesel y la gasolina para las actividades pesqueras y la acuicultura, los interesados optarán al Régimen de suspensión. Pero antes de hacer su solicitud a la Secretaría Técnica, de conformidad con lo establecido en el Arto. 6 de la Ley, deberán obtener de la DGI un documento que certifique que es un contribuyente con contabilidad formal. Para resolver esta solicitud la DGI tiene un plazo de treinta días después que el solicitante cumplió con los requisitos aquí establecidos, de lo contrario se entenderá por extendida la certificación.
