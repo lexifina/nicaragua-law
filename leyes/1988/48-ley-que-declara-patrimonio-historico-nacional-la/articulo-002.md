@@ -1,0 +1,3 @@
+# Artículo 2
+
+A partir de la vigencia de la presente Ley pasa a ser propiedad del Estado la casa descrita en el presente artículo, situada en Nandaime, Departamento de Granada,. ubicado en el cantón sur del Barrio San Felipe, compuesta de un solar que mide cincuenta y un varas por los costados este y oeste, por cincuenta y dos varas por los costados norte y sur, existiendo una casa de forma triangular, de piedra cantera y techo de madera y teja; midiendo en el costado norte 10 mts2 y en el costado oeste 9 mts2, todo lindante: Oriente: Mercedes Bonilla; Poniente: Potrero de la testamentaria Noguera; Norte: Camino real que conduce a Jinotepe; Sur: testamentaria Noguera, inscrita bajo el número de finca 11747, Tomo 164, Folio 65/66, Asiento No. 2.
