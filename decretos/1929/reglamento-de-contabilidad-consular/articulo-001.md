@@ -1,0 +1,3 @@
+# Artículo 1
+
+Los derechos honorarios, impuestos o emolumentos que los Cónsules de la República perciban en el ejercicio de sus funciones (exceptuando los viáticos a que se refiere el artículo 29 de la Ley Consular de 26 de octubre de 1904), pertenecen a la República; y los correspondientes a la legalización de documentos deberán ser recaudados, indefectiblemente, por medio de timbres consulares, según lo dispone el Decreto Legislativo No. 31, de 3 de junio de 1925. Estos timbres los emitirá el Ministro de Hacienda, y los distribuirá a los Consulados en la forma y cantidades adecuadas, previa solicitud del Ministerio de Relaciones Exteriores.
