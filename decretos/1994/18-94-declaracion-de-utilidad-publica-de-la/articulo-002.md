@@ -1,0 +1,3 @@
+# Artículo 2
+
+Para los efectos de esta Declaración de Utilidad Pública se afectan en su totalidad los siguientes inmuebles rústicos inscritos en la Sección de Derechos Reales del Registro Público de la Propiedad del Departamento de León, y que a continuación se describen: Propiedad inscrita bajo el número 1769, Asiento 1364, Folio 83 a 88, Tomo 729; propiedad inscrita bajo el número 1769, Asiento 1371, Folios 195 y 197, Tomo 769; propiedad inscrita bajo el número 1769, Asiento 1366, Folios 90 a 92, Tomo 729; propiedad inscrita bajo el número 1769, Asiento 1386, Folio 47, Tomo 822; propiedad inscrita bajo el número 1769, Asiento 1367, Folio 98, Tomo 769; y propiedad inscrita bajo el número 1769, Asiento 706, Folio 220, Tomo 265.
