@@ -1,0 +1,19 @@
+(DONASE A LA MUNICIPALIDAD DE CABO GRACIAS A DIOS UNA EXTENSIÓN DE TIERRA DE EDIFICACIÓN URBANA)
+
+LEY N°. 251, aprobada el 15 de julio de 1943
+
+Publicada en La Gaceta, Diario Oficial N°. 161 del 04 de agosto de 1943
+
+EL PRESIDENTE DE LA REPÚBLICA,
+
+a sus habitantes,
+
+SABED:
+
+Que el Congreso ha ordenado lo siguiente:
+
+DECRETO No. 251
+
+LA CÁMARA DE DIPUTADOS Y LA DEL SENADO DE LA REPÚBLICA DE NICARAGUA
+
+DECRETAN:
