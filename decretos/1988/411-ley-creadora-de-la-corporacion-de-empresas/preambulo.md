@@ -1,0 +1,17 @@
+LEY CREADORA DE LA CORPORACIÓN DE EMPRESAS REGIONALES DE LA CONSTRUCCIÓN (COERCO)
+
+DECRETO EJECUTIVO N°. 411, aprobado el 16 de diciembre de 1988
+
+Publicado en La Gaceta, Diario Oficial N°. 240 de 19 de diciembre de 1988
+
+Decreto No. 411
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+Decreta:
+
+Las siguiente:
+
+LEY CREADORA DE LA CORPORACION DE EMPRESAS REGIONALES DE LA CONSTRUCCION (COENCO)
