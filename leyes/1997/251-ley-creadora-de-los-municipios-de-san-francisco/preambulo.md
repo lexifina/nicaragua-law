@@ -1,0 +1,21 @@
+LEY N°. 251, LEY CREADORA DE LOS MUNICIPIOS DE SAN FRANCISCO DE CUAPA Y EL CORAL
+
+Aprobada el 05 de junio de 1997
+
+Publicada en La Gaceta, Diario Oficial N°. 144 del 30 de julio de 1997
+
+LEY No. 251
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+La siguiente:
+
+LEY CREADORA DE LOS MUNICIPIOS DE SAN FRANCISCO DE CUAPA Y EL CORAL

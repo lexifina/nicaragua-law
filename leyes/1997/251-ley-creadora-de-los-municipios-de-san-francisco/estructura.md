@@ -1,0 +1,1 @@
+- DISPOSICIONES TRANSITORIAS Y FINALES (antes del artículo 6)

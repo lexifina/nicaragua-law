@@ -1,0 +1,21 @@
+# Artículo 2
+
+El Municipio de San Francisco Cuapa estará situado en el sector Noroeste del Departamento de Chontales, localizándose entre las coordenadas 12° 09' 42" - 12° 21' 47" Latitud Norte, y 84° 15' 17" - 85° 29' 17" Longitud Oeste; limitando al Norte con Camoapa, al Sur con Juigalpa, al Este con la Libertad y al Oeste con Comalapa.
+
+El Municipio de San Francisco de Cuapa tiene una extensión superficial de doscientos setenta y siete kilómetros cuadrados, 277 Km2, representado el veintisiete por ciento del área total del Municipio de Juigalpa, del que se desmembrará. Sus derroteros se corresponden con los siguientes tramos:
+
+a) San Francisco de Cuapa - Camoapa, Departamento de Boaco:
+
+Se inicia el límite en la cima del cerro El Venado, se dirige en dirección noreste 2.30 kms, a la cima de loma El Venado, 494 mts., con coordenadas 85° 19' 58" Oeste y 12° 21' 27" Norte, donde sigue en dirección sureste 2.25 kms, llegando a la confluencia del Río Murra y quebrada El Venado; sigue en dirección noreste 2.4 kms., hasta llegar a la confluencia de quebrada el Zancudo con una quebrada sin nombre a 1.35 kms. al sur de la finca San Miguelito, continúa la demarcación en dirección Este 4 kms. hasta llegar a la cima del cerro El Zancudo, coordenadas 85° 15' 16" Oeste y 12° 21' 46" Norte, lugar donde finaliza ésta demarcación.
+
+b) San Francisco de Cuapa - La Libertad:
+
+Este límite inicia en la cumbre del cerro El Zancudo, con coordenadas 85° 15' 16" Oeste y 12° 21' 46" Norte, toma dirección suroeste 4.4 kms. hasta la cima de Loma Buenos Aires, siempre en esa dirección 3.2 kms., hasta la cima del cerro La Chimenea; continúa en dirección sureste 6.5 kms., en línea recta pasando la cima de la loma El Diamante 561 mts., hasta llegar a la cabecera de quebrada El Caballo en la localidad Palermo, con coordenadas 85° 16' 36" Oeste y 12° 15´18" Norte, gira en dirección suroeste pasando por la cumbre del Cerro la Chuspa, 689 mts., hasta llegar a la confluencia de los ríos Pirre y El Naranjal, donde finaliza esta demarcación.
+
+c) San Francisco de Cuapa - Juigalpa:
+
+Este límite se inicia en la confluencia de los ríos Pirre y El Naranjal, continúa aguas abajo del Río Pirre hasta la confluencia con los Ríos Mayales y Río de Cuapa, sigue aguas arriba de este último hasta su confluencia con quebrada El Charco; continúa en dirección noroeste 5 kms. hasta una altura con coordenadas 85° 27' 18" Oeste y 11° 16' 24" Norte, sigue en la misma dirección 1.5 kms. hasta la cima del cerro Tecomapa, 363 mts., donde finaliza ésta demarcación.
+
+d) San Francisco de Cuapa - Comalapa:
+
+Se inicia el límite en la cima del cerro El Venado, continúa en dirección sureste 2 kms. hasta intersectar con la quebrada El Venado, sigue aguas arriba de ésta hasta su cabecera y siempre en esa dirección 2 kms., hasta intersectar un punto de quebrada Quilile, con coordenadas 85° 28' 28" Oeste y 12° 18' 49" Norte, toma dirección suroeste a la cima del cerro Oluma, siempre en esa dirección 1.15 kms. hasta intersectar a un cruce de caminos en la localidad de Oluma; continúa sobre uno de los caminos en dirección suroeste 2.2 kms. hasta intersectar el camino que conduce de Comalapa a Cuapa, sigue sobre este último en dirección a Comalapa 1.9 kms. hasta intersectar la quebrada El Caracol, toma dirección sureste 3.7 kms. hasta intersectar el camino que conduce de Comalapa a Cuapa, sigue sobre este último en dirección a Comalapa 1.9 kms, hasta intersectar la quebrada El Caracol, toma dirección sureste 3.7 kms. en línea recta hasta llegar a la cima de un cerro sin nombre, con coordenadas 85° 26' 18" Oeste y 12° 25' 09" Norte, gira en dirección suroeste 1.3 kms., hasta llegar a la cima del cerro El Jicote, 558 mts., toma la misma dirección 1.3 kms. pasando al este del caserío El Tule, hasta un cerro sin nombre con coordenadas 85° 26' 46" Oeste y 12° 13' 51" Norte; continúa a la cima de loma El Portillo del Bejuco, 395 mts., girando hacia el Oeste hasta la confluencia de las quebradas Quita Sol y Santa Juana, la que sigue aguas abajo hasta la confluencia con el Río Comalapa o Cuisalá, punto situado junto a la localidad El Coyol; la línea gira hasta el sureste pasando por la cumbre de Cerro Alto, 437 mts., hasta la cima del cerro Tecomapa, 363 mts., donde finaliza esta demarcación.
