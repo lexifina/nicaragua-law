@@ -1,0 +1,3 @@
+# Artículo 19
+
+Cuando la Junta de Gobierno de Reconstrucción Nacional, no proceda a nombrar al miembro del Consejo o reponer la vacante ni la organización de los trabajadores designe a su representante dentro del término expresado en el Arto. 18 que antecede, el Consejo hará el nombramiento en forma interina, siempre que lo considere de urgente necesidad para el cumplimiento de los objetivos del Instituto. Este nombramiento será puesto inmediatamente en conocimiento de la Junta de Gobierno de Reconstrucción Nacional para su ratificación o nuevo nombramiento. En el supuesto del segundo caso concluirán las funciones del nombrado por el Consejo.
