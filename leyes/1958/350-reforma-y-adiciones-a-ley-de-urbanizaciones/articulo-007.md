@@ -1,0 +1,5 @@
+# Artículo 7
+
+Cuando se trate de urbanizaciones de tipo económico, destinadas primordialmente a la venta a favor de personas de bajos ingresos, la Oficina Nacional de Urbanismo podrá conceder exenciones o variaciones a la aplicación de esta ley, así como a la de las otras leyes o reglamentos de desarrollo urbano. Dichas exenciones o variantes sólo pueden referirse al tamaño de los lotes y a las obras mínimas de mejoramiento. Sin embargo para ser válidas deben ser aprobadas por el tribunal de apelaciones creado por el Reglamento de Desarrollo Urbano Número Uno, de 4 de Diciembre de 1954 y forzosamente deberán contener condiciones relativas al precio máximo de venta de los lotes, para lo cual se podrán exigir las garantías que se consideren adecuadas. Estas garantías podrán comprender también la reserva de cierto porcentaje del precio de venta de los lotes, para ser destinado exclusivamente al financiamiento de las obras de mejoramiento.
+
+En todos estos casos, cuando uno o más de los servicios públicos de la urbanización no sean prestados por las entidades administrativas correspondientes, el tribunal de apelaciones podrá regular las tarifas respectivas.

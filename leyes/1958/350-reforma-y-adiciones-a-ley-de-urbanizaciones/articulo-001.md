@@ -1,0 +1,3 @@
+# Artículo 1
+
+Al artículo 5 se le agrega: Para asegurar la debida ejecución de las obras de mejoramiento en un plazo máximo de cinco años a contar de la aprobación definitiva de la urbanización, el interesado deberá rendir fianza o constituir hipoteca o cualquier otra garantía, a satisfacción de la Oficina Nacional de Urbanismo y a favor del Gobierno de Nicaragua, representado por el director de dicha oficina. Si se cumple el plazo sin que se hayan ejecutado las obras, las Oficina Nacional de Urbanismo hará efectiva la fianza o hipoteca y realizará directamente las obras por cuenta del urbanizador.
