@@ -1,0 +1,13 @@
+NOMBRAMIENTOS VICE-MINISTROS DE ESTADO
+
+DECRETO EJECUTIVO N°. 497, aprobado el 18 de agosto de 1980
+
+Publicado en La Gaceta, Diario Oficial N°. 204 del 05 de septiembre de 1980
+
+DECRETO N°. 497
+
+LA JUNTA DE GOBIERNO DE RECONSTRUCCIÓN NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+ACUERDA:
