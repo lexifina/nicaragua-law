@@ -1,0 +1,3 @@
+# Artículo 39
+
+Los titulares de concesiones y licencias no deberán otorgar subsidios en forma cruzada de los servicios objeto de concesión o de licencia hacia los servicios que proporcionen en competencia, para lo cual deberán establecer contabilidades separadas por servicios. TELCOR podrá requerir que tales servicios en competencia se presten por operaciones separadas en empresas subsidiarias. Hay subsidio cruzado cuando una empresa financia un servicio en competencia a expensas de servicios que no están en competencia, o cuando transfiere los costos de un servicio que está en competencia a los servicios que presta sin competencia.

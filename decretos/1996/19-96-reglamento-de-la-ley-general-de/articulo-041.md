@@ -1,0 +1,3 @@
+# Artículo 41
+
+Los titulares de concesiones deberán someter a TELCOR la aprobación de un código de prácticas comerciales para sus relaciones con los usuarios, el cual deberá estar a disposición del público y servir de guía a usuarios y empleados respecto de cualquier disputa o queja relacionada deberán someter a TELCOR la aprobación de un código de prácticas comerciales para sus relaciones con los usuarios, el cual deberá estar a disposición del público y servir de guía a usuarios y empleados respecto de cualquier disputa o queja relacionada con la provisión de servicios. Este código se revisará cada tres años.

@@ -1,0 +1,3 @@
+# Artículo 27
+
+Tratándose de un servicio de interés especial, TELCOR revisará y responderá a toda solicitud en un plazo máximo de sesenta días calendario a partir de la fecha de recepción de la solicitud, durante el cual podrá requerir aclaraciones e información adicional al solicitante. Una vez cumplidos satisfactoriamente los requisitos TELCOR notificará al solicitante la resolución administrativa para que el contrato respectivo se suscriba por ambas partes dentro de los treinta días calendario a partir de la notificación. El contrato de licencia tendrá efecto a partir de la fecha de su firma.
