@@ -1,0 +1,3 @@
+# Artículo 45
+
+En el caso de trazo de nuevas calles o de prolongación de las existentes, con fines de urbanización, deberán expropiarse, conforme la ley de la materia, los terrenos particulares o ejidales arrendados que queden dentro de las mismas. Los terrenos ejidales que quedaren fuera de las calles y dentro de las manzanas de urbanización, perderán ese carácter, previa indemnización que los arrendatarios de los terrenos deben hacer a la Alcaldía Municipal por cada lote que enajenaren o que fuere edificado por ellos y los que no hubieren sido arrendados por la Alcaldía podrán ser libremente enajenados por ésta.

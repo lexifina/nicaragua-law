@@ -1,0 +1,3 @@
+# Artículo 35
+
+En las fachadas y en parte correspondiente al primer piso, no podrán emplearse zócalos, repisas, rejas voladizas o cualquier otro cuerpo que tenga más de 20 centímetros de saliente. En el piso segundo, la salida máxima de balcones, plataformas o tejadillos, serán de un metro como máximo. En los siguientes pisos esta salida máxima será de 80 centímetros. Las tribunas o miradores de las fachadas que tengan un metro y 80 centímetros de salida de la fachada, deberán estar abiertas por sus partes laterales con objeto de no quitar vista a los vecinos colindantes y facilitar la ventilación.

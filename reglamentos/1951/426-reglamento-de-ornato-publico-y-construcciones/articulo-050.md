@@ -1,0 +1,3 @@
+# Artículo 50
+
+Si al comenzar obras de esta índole se hallaren grietas, desplomes, asientos defectuosos y otros defectos visibles, que hagan presumir una cimentación defectuosa en el edificio vecino, se comunicará al propietario correspondiente, quien nombrará un técnico, y a la Junta para que, conjuntamente con el Director de la obra, estudien el caso y levanten el acta de sus observaciones, paralizándose las obras hasta que la comisión dictamine. Si el dictamen resultare que la cimentación de la obra colindante es defectuosa y pude amenazar ruina o peligro, las obras de consolidación serán por cuenta del propietario del edificio mal acondicionado. En caso de discrepancia, fallará la Junta, siendo su fallo inapelable.
