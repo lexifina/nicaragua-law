@@ -1,0 +1,3 @@
+# Artículo 3
+
+OBJETO DEL FONDO: EL FNA tiene por objeto financiar el desarrollo de programas y proyectos de protección, conservación, restauración del ambiente y desarrollo sostenible en las áreas temáticas y campos de actividad para el uso racional de los recursos naturales y culturales de la nación. Para tal efecto, captará y canalizará recursos, provenientes del Estado, de la iniciativa privada, de organismos internacionales y otras fuentes de financiamiento internas y externas. Los proyectos a financiarse podrán ser ejecutados por instituciones estatales, gobiernos regionales autónomos, municipalidades, organizaciones no gubernamentales y de la empresa privada.
