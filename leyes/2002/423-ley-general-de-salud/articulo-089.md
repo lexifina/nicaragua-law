@@ -1,0 +1,3 @@
+# Artículo 89
+
+Vigencia. Esta Ley entrará en vigencia ciento ochenta días después de su publicación en La Gaceta, Diario Oficial.

@@ -1,0 +1,29 @@
+LEY N°. 423, LEY GENERAL DE SALUD
+
+Aprobada el 14 de marzo de 2002
+
+Publicada en La Gaceta, Diario Oficial N°. 91 del 17 de mayo de 2002
+
+LEY No. 423
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace Saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+La siguiente:
+
+LEY GENERAL DE SALUD
+
+TITULO I
+
+DISPOSICIONES FUNDAMENTALES
+
+CAPITULO I
+
+DISPOSICIONES GENERALES
