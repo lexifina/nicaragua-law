@@ -1,0 +1,3 @@
+# Artículo 47
+
+INAA, nombrará una comisión interdisciplinaria que estudiará y analizará la solicitud de ampliación de la concesión, sobre la base de los antecedentes técnicos aportados por la concesionaria y otros que recabe el mismo INAA. También se podrá solicitar ampliación del estudio la concesionaria. Concluidos los estudios de la comisión en referencia, elaborará un dictamen técnico, que presentará al Consejo de Dirección de INAA, Una vez determinado que se trata de una ampliación sin posibilidades de constituir una concesión independiente, se podrá aceptar o solicitar reestudio de la ampliación.

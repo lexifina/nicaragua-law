@@ -1,0 +1,5 @@
+# Artículo 4
+
+Las personas jurídicas interesadas en prestar los servicios públicos de agua potable y alcantarillado sanitario, deberán estar constituidas en sociedades anónimas y tener como único objeto el establecimiento, construcción y explotación de los servicios públicos indicados en los Artículos 6 y 8 de la Ley y demás actividades relacionadas con dicho objeto, con la excepción transitoria de lo establecido en el Artículo 88 del mismo cuerpo legal. Pertenecen a las actividades señaladas en el párrafo anterior todas las referentes a la investigación y desarrollo de nuevas tecnologías, lo mismo que los procedimientos para mejorar la eficiencia y eficacia en la prestación de los servicios públicos de agua potable y alcantarillado sanitario.
+
+Artículos 5.- Las sociedades podrán brindar también algunos servicios especiales a terceros, en las áreas de ingeniería, administración, comercialización, planificación y consultorías relacionadas con la producción y distribución de agua potable y recolección y disposición de aguas servidas, cuando sea autorizado por INAA, siempre que ello no afectare la prestación del servicio público concesionado.

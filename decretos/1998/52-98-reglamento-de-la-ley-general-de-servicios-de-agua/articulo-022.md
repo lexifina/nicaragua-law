@@ -1,0 +1,3 @@
+# Artículo 22
+
+Una vez abiertas las ofertas en el día y la hora señaladas en la convocatoria, el equipo interdisciplinario emitirá un Dictamen Evaluativo de todas las ofertas presentadas en los términos establecidos en los documentos de licitación, en un plazo de cuarenta (40) días. El Dictamen Evaluativo, elaborado por los organismos de INAA, indicados en este Artículo, deberá detallar las bases de su análisis comparativo de las ofertas, expresando las razones precisas tanto técnicas, como tarifarias, económicas y jurídicas en que se fundamenta para determinar el orden de prelación en que recomienda la adjudicación de la Licitación.

@@ -1,0 +1,19 @@
+REGLAMENTO DE LA LEY GENERAL DE SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO SANITARIO
+
+DECRETO EJECUTIVO N°. 52-98, aprobado el 14 de julio de 1998
+
+Publicado en La Gaceta, Diario Oficial N°. 138 de 24 de julio de 1998
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA,
+
+En uso de las facultades que le confiere el Numeral 10) del Artículo 150 de la Constitución Política,
+
+HA DICTADO:
+
+El siguiente:
+
+REGLAMENTO DE LA LEY GENERAL DE SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO SANITARIO
+
+CAPÍTULO I
+
+DISPOSICIONES GENERALES
