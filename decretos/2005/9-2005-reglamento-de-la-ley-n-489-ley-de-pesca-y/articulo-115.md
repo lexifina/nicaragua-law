@@ -1,0 +1,3 @@
+# Artículo 115
+
+Una vez aprobada las instalaciones para el funcionamiento, éstas deben contar con autorización del MAGFOR quien deberá asegurar para la aprobación del funcionamiento de las plantas nuevas procesadoras, el cumplimiento de los requisitos establecidos en la Ley No. 291 Ley Básica de Salud Animal y Sanidad Vegetal y su Reglamento, y las normas técnicas obligatorias nicaragüenses para productos pesqueros y acuícolas y demás disposiciones legales vigentes en materia sanitaria. Asimismo contar con autorización del MINSA y cumplir con la NTON 05017-03 para el control ambiental de los establecimientos de las plantas procesadoras de pescados y mariscos.

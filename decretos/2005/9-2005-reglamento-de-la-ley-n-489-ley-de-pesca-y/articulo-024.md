@@ -1,0 +1,3 @@
+# Artículo 24
+
+Cuando la CGAC y el número permisible de embarcaciones fijadas para cualquiera de las pesquerías sometidas bajo el régimen de acceso limitado, sea inferior a la del año inmediato anterior, el MIFIC presentará propuesta de reducción de las fracciones de manera equitativa y proporcional, entre los titulares del número de embarcaciones autorizadas a faenar en cada una de las pesquerías. En este caso, la DGRN solicitará al Secretario Ejecutivo de la CONAPESCA que formule la convocatoria a sesión para consultar la propuesta de reducción de los cupos a ser afectados. Realizadas las consultas pertinentes, el MIFIC emitirá la decisión que corresponda a través de Resolución Ministerial.

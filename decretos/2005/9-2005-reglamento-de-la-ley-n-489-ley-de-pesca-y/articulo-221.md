@@ -1,0 +1,3 @@
+# Artículo 221
+
+Los procedimientos de inspección para las actividades de pesca y acuicultura, son actividades de visita, verificación y control, mediante las cuales los inspectores pesqueros debidamente identificados, están facultados para revisar embarcaciones, granjas de acuicultura, laboratorios de acuicultura, plantas de procesamiento, almacenes, medios de transporte, centros de acopio, restaurantes, puertos, aeropuertos y todo centro de expendio o comercialización de productos pesqueros con el objetivo de establecer el grado de cumplimiento de las normas regulatorias de esta actividad o de brindar a las autoridades del MIFIC, la DGRN o AdPesca, mayores elementos de juicio para la adopción de una Resolución Ministerial con afectación a terceros.

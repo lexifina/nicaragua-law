@@ -1,0 +1,3 @@
+# Artículo 156
+
+Quienes se opongan deberán presentar a la DGRN en un plazo de cinco (5) días después de la publicación, exposición escrita señalando las causas de su oposición. La DGRN en un plazo de seis (6) días después de la presentación de la oposición dará traslado a las partes para que conteste lo que tenga a bien en un plazo de cinco (5) días adicionales. Con la contestación del afectado, la DGRN decidirá si es necesario abrir período probatorio por (8) ocho días, o si la información recabada es suficiente para tomar una determinación definitiva. Si la DGRN decide que no se necesita la apertura a pruebas, dictará su resolución en un plazo de cinco (5) días adicionales.

@@ -1,0 +1,3 @@
+# Artículo 167
+
+Los acuicultores que gocen de contratos otorgados por el MIFIC, podrán optar por mantener sus contratos, cancelando los adeudos acumulados a favor del Estado en un plazo no mayor de cuarenta y cinco (45) días a partir de la entrada en vigencia de este Reglamento. Si optasen por cancelar su mora, bajo el nuevo régimen de pago establecido por la Ley, deberán presentar en un término de treinta (30) días a la fecha de entrada en vigencia de este reglamento una solicitud expresa para acogerse al mismo. La solicitud presentada será tramitada bajo las condiciones de sustitución de contrato y emisión de un nuevo Acuerdo Ministerial, y de conformidad al arto. 147 del presente Reglamento.

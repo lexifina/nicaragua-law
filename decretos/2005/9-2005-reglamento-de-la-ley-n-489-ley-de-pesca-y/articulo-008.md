@@ -1,0 +1,3 @@
+# Artículo 8
+
+El Ministro de MIFIC en su calidad de Presidente de la CONAPESCA, solicitará a sus miembros que envíen al Secretario Ejecutivo, las nominaciones del representante y suplente que fungirán para cada periodo y oficializará a los integrantes de CONAPESCA a través de Acuerdo Ministerial. Los miembros de la CONAPESCA, tendrán voz y voto ejercido a nombre de su representado. El Ministro del MIFIC, se reserva la facultad de formular invitaciones especiales a entidades y personas interesadas y especialistas en el tema a abordar, los que tendrán voz pero sin voto cuando lo considere conveniente.

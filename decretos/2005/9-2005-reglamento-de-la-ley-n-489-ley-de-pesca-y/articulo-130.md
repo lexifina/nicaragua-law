@@ -1,0 +1,7 @@
+# Artículo 130
+
+Cuando la solicitud de nuevos licencias de pesca a desarrollarse sean remitidas a las Comisiones de Recursos Naturales de los Consejos Regionales Autónomos del Atlántico (CRAA), el MIFIC, recibida la solicitud y verificada la disponibilidad en las pesquerías de acceso limitado y/o teniendo a la vista el dictamen de Ad Pesca, en las pesquerías de libre acceso, dará traslado a las Comisiones de Recursos Naturales de los Consejos Regionales para que estos emitan su aprobación o denegación en un plazo no mayor de veinte (20) días. Transcurrido el plazo de la consulta, el MIFIC emitirá su resolución mediante Acuerdo Ministerial.
+
+Los Consejos Regionales del Atlántico, a través de la Comisión de Recursos Naturales trasladarán la solicitud a la Secretaría de Recursos Naturales (SERENA) del Gobierno Regional, quien deberá emitir su dictamen técnico, por medio de una resolución y posterior remisión a la Comisión de Recursos Naturales para su dictamen o inclusión en agenda parlamentaria del CRAA para su resolución.
+
+En caso de negativa, de la Comisión de Recursos Naturales de los Consejos Regionales del Atlántico, el MIFIC a través de AdPesca y la DGRN podrá intervenir aportando nuevos elementos que permitan reconsiderar la negativa. Si la Comisión de Recursos Naturales del Consejos Regionales del Atlántico persiste en su negativa, la DGRN rechazará la solicitud, sin perjuicio de las acciones que el solicitante pueda ejercer en la vía que corresponda.

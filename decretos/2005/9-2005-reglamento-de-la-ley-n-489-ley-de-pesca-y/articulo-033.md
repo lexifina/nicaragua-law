@@ -1,0 +1,3 @@
+# Artículo 33
+
+Los titulares de licencias y permisos de pesca, de especies en veda, deberán remitir en un plazo no mayor de cinco (5) días un reporte a los inspectores de pesca, de acuerdo a un formato prediseñado y suministrado de previo por la Dirección de Monitoreo, Vigilancia y Control de Ad Pesca, en donde detallaran por embarcación el número de artes de pesca utilizadas que ha retirado por banco de pesca, así como su ubicación por medio de coordenadas geográficas (ubicadas por GPS). Esto se aplicará también para la actividad de captura y acopio de langosta por buceo, detallando compresores y tanques de aire comprimido.

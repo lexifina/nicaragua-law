@@ -1,0 +1,7 @@
+# Artículo 114
+
+Las plantas procesadoras de los productos pesqueros, para su instalación deberán solicitar el permiso de instalación de nuevas plantas ante la DGRN, sin perjuicio de los demás requisitos establecidos en el artículo 45 de la Ley. Presentada la solicitud, La DGRN, se pronunciará sobre la admisión de la solicitud en un plazo no mayor de cinco días, a partir de su presentación y completada, en su caso.
+
+Admitida la solicitud por la DGRN, el solicitante tendrá un plazo no mayor de cinco (5) días para presentar la solicitud de Permiso Ambiental ante el MARENA y/o en su caso a las Comisiones de Recursos Naturales de los Consejos Regionales, en caso que requiera según el Decreto No. 45-94 Reglamento de Permiso y Evaluación de Impacto Ambiental, y una vez aprobados los términos de referencia por parte de éstas autoridades, el solicitante tendrá un plazo no mayor de ciento ochenta días (180) para presentar su Estudio de Impacto Ambiental. Presentado dicho estudio, el MARENA y/o las Comisiones de Recursos Naturales de los Consejos Regionales en su caso, en un plazo no mayor de ciento veinte (120) días emitirán su Resolución. .
+
+Cumplido los términos anteriores el MIFIC tendrá quince (15) días posteriores para otorgar o denegar el permiso de instalación. En caso que el solicitante no cumpla con los plazos establecidos en el presente artículo se mandará a archivar dicha solicitud.

@@ -1,0 +1,3 @@
+# Artículo 19
+
+La DGRN, en el término de cinco (5) días, dará traslado a las Comisiones de Recursos Naturales y Medio Ambiente de los Consejos Regionales Autónomos del Atlántico (CRAA) de la propuesta técnica del MIFIC sobre la CGAC y el número de embarcaciones permisibles y/o artes de pesca permitidas a autorizar, para que en un término de veinte (20) días emita su aprobación, o recomendaciones técnicas al respecto. Durante este término y a petición de los CRAA, el CIPA AdPesca podrá hacer una presentación de la propuesta técnica de manera conjunta a ambos Consejos para consensuar propuestas.

@@ -1,0 +1,3 @@
+# Artículo 54
+
+De conformidad al arto. 78 de la Ley, Para ejercer la actividad de pesca artesanal, se requiere de un permiso a la embarcación y un carné al pescador artesanal otorgado por el MIFIC o por las Alcaldías donde exista Convenio suscrito de Delegación de Atribuciones. Los inspectores de pesca en las alcaldías deberán llevar un registro y control permanente de los pescadores artesanales, recolectar las estadísticas de producción del Municipio, vigilar el cumplimiento de las regulaciones pesqueras vigentes e informar de lo actuado trimestralmente a la DGRN, e informar mensualmente al CIPA-Ad Pesca la información estadística y los registros de pesca, según formato prediseñado.
