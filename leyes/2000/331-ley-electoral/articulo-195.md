@@ -1,0 +1,5 @@
+# Artículo 195
+
+Las solicitudes de personalidad jurídica o los conflictos partidarios que se encuentren pendientes, se continuarán tramitando ante el Consejo Supremo Electoral en la forma y se resolverán en el fondo de acuerdo con la presente Ley, con la salvedad de los casos de las agrupaciones o movimientos políticos que tengan uno o más Diputados en la Asamblea Nacional y que hayan presentado su solicitud ante el Consejo Supremo Electoral y que antes de la entrada en vigencia de la presente Ley se encuentran en proceso de formalización, por ministerio de esta Ley adquieren su personalidad jurídica con todos los derechos y obligaciones que como partido político le corresponden.
+
+Dichos partidos políticos deberán presentar al Consejo Supremo Electoral el calendario de la celebración de las Asambleas que elegirán a sus Directivas Nacional, Departamentales o Regionales y Municipales; como condición necesaria para poder participar en cualquier elección. Todo para efecto de cumplir con lo establecido en los Artículos 64 y 65, de la presente Ley, en lo que les fuere pertinente.

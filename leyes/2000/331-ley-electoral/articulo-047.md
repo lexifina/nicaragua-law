@@ -1,0 +1,5 @@
+# Artículo 47
+
+La inscripción se realizará en la Junta Receptora de Votos del lugar donde residen habitualmente los ciudadanos aunque se encuentren transitoriamente en otra parte. Los miembros del Ejército de Nicaragua y de la Policía Nacional se inscribirán en la Junta Receptora de Votos que corresponda a los lugares donde presten servicio. Se inscribirán en la Junta Receptora de Votos donde presten su servicio los miembros, fiscales y auxiliares de la misma.
+
+Los nicaragüenses que se encuentren transitoriamente fuera del país y los que residan en el extranjero por motivos de trabajo, estudios, de salud, de negocio o de placer, podrán inscribirse para ser incluidos en el Padrón Electoral, en el Consulado con jurisdicción en el lugar donde se encuentren o en los locales que éste indique, en los períodos que al efecto se habiliten. El voto lo tendrán que hacer en Nicaragua en la Junta Receptora de Votos correspondiente, salvo cualquier otra disposición que al efecto establezca el Consejo Supremo Electoral, quien dictará las normas que regulen esta disposición.
