@@ -1,0 +1,9 @@
+REFORMASE INCISO B) DEL NUMERAL II DEL ARTÍCULO 19 DEL REGLAMENTO DE LA SEMANA DE LA PATRIA
+
+DECRETO EJECUTIVO N°. 8, aprobado el 15 de agosto de 1972
+
+Publicado en La Gaceta, Diario Oficial N°. 203 del 06 de septiembre de 1972
+
+LA JUNTA NACIONAL DE GOBIERNO,
+
+Decreta:
