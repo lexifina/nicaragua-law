@@ -1,0 +1,19 @@
+LEY N°. 169, LEY DE DISPOSICIONES DE BIENES DEL ESTADO Y ENTES REGULADORES DE LOS SERVICIOS PÚBLICOS
+
+Aprobada el 02 de diciembre de 1993
+
+Publicada en La Gaceta, Diario Oficial N°. 103 del 03 de junio de 1994
+
+LEY DE DISPOSICIONES DE BIENES DEL ESTADO Y ENTES REGULADORES DE LOS SERVICIOS PÚBLICOS
+
+Ley No. 196
+
+La Asamblea Nacional de la República de Nicaragua.-
+
+En uso de sus facultades,
+
+Ha Dictado
+
+La Siguiente:
+
+LEY DE DISPOSICIONES DE BIENES DEL ESTADO Y ENTES REGULADORES DE LOS SERVICIOS PÚBLICOS
