@@ -1,0 +1,11 @@
+REFORMA A LA LEY CONSTITUTIVA DEL FONDO INTERNACIONAL PARA LA RECONSTRUCCIÓN DE NICARAGUA
+
+DECRETO - LEY N°. 94, aprobado el 22 de septiembre de 1979
+
+Publicado en La Gaceta, Diario Oficial N°. 17 del 24 de septiembre de 1979
+
+LA JUNTA DE GOBIERNO DE RECONSTRUCCIÓN NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+en uso de sus facultades,
+
+DECRETA:
