@@ -1,0 +1,3 @@
+# Artículo 59
+
+En relación a las ausencias del Regente Farmacéutico a que alude el Arto. 69 de la Ley, cuando éstas sean temporales deberán ser informadas por escrito con ( 15) quince días de anticipación al SILAIS respectivo, tanto por el Propietario del establecimiento como por el Regente Farmacéutico, debiendo contener, además de este Informe, el nombre del profesional farmacéutico que lo sustituirá por este período. Cuando se trate del reemplazo del Regente Farmacéutico a que alude el Arto. 69 de la Ley tanto el Regente anterior como el nuevo contratado, están en la obligación inexcusable de comunicarlo por escrito por lo menos con quince días de anticipación a la División de Farmacia del Ministerio de Salud, para poder ser autorizados de acuerdo a la Ley.
