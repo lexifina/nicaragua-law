@@ -1,0 +1,53 @@
+CONTRATO PARA EL ESTABLECIMIENTO DE UN BANCO HIPOTECARIO
+DECRETO EJECUTIVO S/N, aprobado el 16 de julio de 1890
+Publicado en La Gaceta, Diario Oficial N°. 162 del 18 de julio de 1890
+CONTRATO
+De un Banco Hipotecario
+El Ministro de Hacienda del Gobierno de la República,
+Autorizado por el Señor Presidente, de acuerdo con las facultades que confieren los decretos legislativos de 30 de marzo y 26 de abril de 1887, y José Solórzano, han convenido el contrato siguiente:
+1°.- El Señor Solórzano, fundará en la República un Banco que se denominará “Banco Hipotecario de Nicaragua.”
+2°.- El Banco se ocupará en las operaciones siguientes:
+Prestar dinero sobre hipotecas de propiedades, con reembolso á largo plazos, por anualidades ó semestres que comprendan los intereses, fondo de amortización y comisión de del Banco. Emitir cédulas hipotecarias transferibles sobre hipotecas constituidas á su favor, no excediendo el monto de la emisión del importe de las hipotecas:
+Descontar pagarés en la forma común bancaria:
+Recibir depósitos:
+Emitir billetes pagaderos al portador y á la vista, obligándose á tener siempre en moneda de oro ó plata, en las cajas de sus oficinas sucursales ó agencias de la Republica, por lo menos un valor igual al 40% de los billetes que estén en circulación:
+Adelantar fondos sobre garantías satisfactorias:
+Comprar y vender letras de cambio y giros telegráficos sobre el extranjero y el interior de la República:
+Ejecutar todas las operaciones de los bancos hipotecarios y comerciales, de conformidad con sus estatutos y en lo que no pugnen con los privilegios exclusivos hechos á los Bancos que están ya establecidos.
+3°.- El capital del Banco será de dos millones de pesos divididos en dos mil acciones de mil pesos cada una, pudiendo aumentarse con aprobación del Supremo Gobierno, hasta donde lo exijan las necesidades del país y la conveniencia del Banco. Comenzará á funcionar cuando tenga suscritas doscientas cincuenta acciones.
+4°.- Solo se llamará la mitad del capital nominal, quedando la otra mitad como última reserva, para llamarse en el caso de ser necesario para cubrir las responsabilidades contraídas por el Banco.
+5°.- Las cédulas que el Banco emita serán de los valores siguientes: de diez pesos, de veinticinco pesos, de cien pesos, de quinientos pesos y de mil pesos; llevaran la firma del Gerente y del Cajero del Banco; serán grabadas de modo que haya garantía contra la falsificación, y llevarán el sello y toma de razón de la Tesorería Nacional. Las cédulas que se inutilicen serán reemplazadas por otras nuevas.
+6°.- Los billetes que el Banco emita, serán de los valores siguientes: de un peso, de cinco pesos, de diez pesos, de veinticinco pesos, de cincuenta pesos y de cien pesos; llevarán las firmas del Gerente y del Cajero del Banco; serán grabados de modo que haya garantía contra la falsificación, y llevarán el sello y toma de razón de la Tesorería Nacional. Los billetes que se inutilicen serán reemplazados por otros nuevos.
+7°.- La falsificación de cédulas y de billetes del “Banco Hipotecario de Nicaragua,” será equiparada á la falsificación de documentos de Crédito público, para la pena que haya que imponerse.
+8°.- La responsabilidad de los socios del “Banco Hipotecario de Nicaragua,” se limita al valor nominal de sus acciones.
+9°.- El domicilio del “Banco Hipotecario de Nicaragua,” será la cuidad de Managua, pudiendo establecer sucursales y agencias en León, Granada y en los lugares que lo creyeren conveniente.
+10. El interés que devengarán las cédulas hipotecarias no podrá exceder del 8% al año; y el interés que el Banco cobrará en las operaciones comerciales no excederá del 10 % anual. En ningún caso el tipo de descuento del Banco excederá del 10% al año.
+11. El capital efectivo del Banco de invertirá de preferencia en operaciones hipotecarias.
+12. El capital del “Banco Hipotecario de Nicaragua” quedará exento, por el termino de su duración, de toda contribución ó impuesto ordinario ó extraordinario, ya sea fiscal ó local establecidos ó que se establezcan.
+13. El “Banco Hipotecario de Nicaragua” no podrá prestar sobre propiedades que estuviesen hipotecadas á otros; ni los préstamos podrán exceder de la mitad del valor del inmueble.
+14. Durante cinco años garantiza el Estado al “Banco Hipotecario de Nicaragua” el seis por ciento anual de utilidad sobre el mínimum del capital efectivo, que es de quinientos mil pesos. Esta garantía no se extiende á las operaciones comerciales.
+15. El “Banco Hipotecario de Nicaragua” por el tiempo de su duración, gozará de los siguientes privilegios:
+Que la propiedad hipotecada sea vendida por lo que se ofrezca en pública subasta, tres meses después de vencida la deuda, para satisfacerla:
+Litigar como la Hacienda Pública para el cobro de las cantidades que se le adeuden:
+Exención de cargos consejiles y del servicio militar de los empleados del Banco:
+Las cédulas, acciones, libros, billetes, cheques, letras, recibos y otros documentos privados que emita el Banco ó se expidan directamente á su favor, quedan exentos del derecho de timbre ó sello:
+Las cajas de hierro, útiles de escritorio, materiales y demás efectos que el Banco introduzca para su uso: los metales preciosos en barra ó acuñados que se importen ó exporten por el Banco, quedan exentos de todo derecho ó impuesto fiscal ó local, establecidos ó que se establezcan:
+El Banco tendrá para sus negocios el uso libre de los telégrafos de la República, y sus valores metálicos serán transportados por los ferrocarriles y vapores nacionales, sin pago de flete ni responsabilidad de la Nación. Está concesión no obsta para que el Gobierno pueda vender, arrendar ó dar en administración esas prioridades, y en cualquiera de estos casos cesa de privilegios aquí acordado, sin responsabilidad de la Nación.
+16. El plazo de los préstamos hipotecarios no bajará de seis meses ni excederá de diez años. El Banco podrá aumentar este plazo cuando lo creyere conveniente.
+17. El “Banco Hipotecario de Nicaragua,” hará préstamos en dinero sobre hipotecas á plazo fijo hasta por dos años, renovables; pero los deudores quedarán sujetos á la emisión de cédulas, que el Banco les cambiará por su valor nominal.
+18. El “Banco Hipotecario de Nicaragua” estará bajo la inmediata vigilancia del Gobierno; y en este concepto, el Ministro de Hacienda, por sí ó por medio de delegado, podrá asistir al arqueo mensual de las cajas del Banco, y examinar todos los libros y documentos para informarse de las operaciones hipotecarias y comerciales, y de cuanto crea conveniente á la fiel observancia de este contrato; pudiendo practicar arqueos extraordinarios cuando lo creyere necesario.
+19. La presente concesión durará por el término de cuarenta años, salvo que las cuatro quintas partes de las acciones suscritas resuelvan liquidar la Sociedad antes de aquel término.
+20. El “Banco Hipotecario de Nicaragua” entrará forzosamente en liquidación en el caso de que alguno de sus balances semestrales muestre la pérdida de la reserva y el 30% de su capital; ó cuando no tenga en sus cajas el 40% en efectivo de que habla el art. 2° para responder á los billetes circulantes, quedando por este hecho suspensas sus operaciones. Llegado este caso, el Gobierno nombrará un representante que intervenga en la liquidación con el fin de garantizar los intereses de los particulares y del Estado.
+21. El “Banco Hipotecario de Nicaragua” publicará mensualmente su estado en la Gaceta Oficial, y cada semestre, el Balance general y el informe de la Junta Directiva.
+22. El Banco no podrá prestar suma alguna, sobre depósito de sus propias acciones.
+23. Cuando las Cédulas hipotecarias circulen en el mercado por su valor nominal, el Gobierno las recibirá en sus oficinas como dinero efectivo; pero el “Banco Hipotecario de Nicaragua,” queda obligado á cambiárselas á la par aunque por cualquiera circunstancia hubieren bajado de su valor nominal. Esta estipulación comenzará luego que haya cesado el privilegio concedido al Banco de Nicaragua por el artículo 17 de su contrato.
+24. El Señor Solórzano, ó la sociedad á quien traspase la presente concesión formará los estatus, y los someterá á la aprobación del Gobierno.
+25. Si al Gobierno le conviniese, el Banco en su oficina principal ó en las sucursales ó en las sucursales ó agencias, le llevara la cuenta como Cajero suyo gratuitamente, y le abonará intereses como á los particulares.
+26. La comisión que el Banco cobrará por la emisión de Cédulas hipotecarias, será del modo siguiente:
+Cinco por ciento, cuando el plazo sea de cinco años ó más. Dos por ciento, hasta por dos años; y sucesivamente aumentará uno por ciento por cada año, no pudiendo nunca exceder de cinco por ciento, cualquiera que sea el plazo del préstamo.
+27. El “Banco Hipotecario de Nicaragua” comenzará á funcionar á más tardar un año después de la aprobación de este contrato, y en caso contrario caducarán todas las concesiones que en él se otorgan; salvo caso fortuito ó fuerza mayor, en lo cual está comprendido el caso de una guerra en cualquier punto de Centro–América, ó estado inminente de ella en Nicaragua. El Señor Solórzano, en garantía de esta obligación ha depositado en Tesorería General la suma de diez mil pesos que quedarán á beneficio del Erario si faltare á lo estipulado en el presente artículo. El Gobierno, devolverá esta suma dando mil pesos mensuales, contados desde el día en que se establezca el Banco sin pagar por ellos ningún interés.
+28. Toda cuestión que se suscite entre el Estado y el “Banco Hipotecario de Nicaragua,” por consecuencia del presente contrato, la decidirá precisamente un tribunal de dos árbitros, nombrados uno por cada parte, quienes á su vez nombrarán un tercero para el caso de discordia; el fallo de aquellos ó de éste será inapelable y no admitirá recurso alguno. Si los árbitros no pudieren ponerse de acuerdo en el nombramiento del tercero, la designación de esté será por la suerte entre cuatro que propongan los mismos árbitros.
+29. El Señor Solórzano, puede traspasar la presente concesión á cualquier persona ó Compañía nacional ó extranjera, quedando el que la lleve á efecto, sometido á todas las condiciones en ella contenidas. En caso de que el traspaso sea á persona ó Compañía extranjeras, éstas quedarán sometidas á las leyes de Nicaragua.
+30. Quedan derogadas todas las disposiciones de leyes anteriores que se opongan en todo ó en parte, al presente contrato.
+Hecho en Managua, á 15 de julio de 1890 – Ireneo Delgadillo – José Solórzano. El Gobierno aprueba el anterior contrato – Managua 16 de julio de 1890 – Sacasa – El Ministro de Hacienda, Delgadillo.
+.
