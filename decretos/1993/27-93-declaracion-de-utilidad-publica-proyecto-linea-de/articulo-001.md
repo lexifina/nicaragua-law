@@ -1,0 +1,3 @@
+# Artículo 1
+
+Declárase de utilidad pública la construcción de todas las obras necesarias para la ejecución del Proyecto Línea de Transmisión de 138 KV Momotombo-León, ubicado en el trayecto de los poblados y comarcas como el Tololar, La Pintora, Monte Redondo, Las Brisas, Finca la Trinchera, Comarca Monte Redondo, Lechecuavos, La Ermita, Punta Caliente, Sector los Torres, La Majada, Comarca Lechecuavos, Los Manzanarez, Valle Los Arauz, Las Lomas, Hacienda Las Brisas, Comarca Chacaraseca, Miramar, Cerro Asososca, Comarca la Sabaneta, Laguna de Asososca, Casa Blanca, Aguas Caliente, Hacienda La California, La Fez, Laguna Montegalán, todos ubicados en el Departamento de León.
