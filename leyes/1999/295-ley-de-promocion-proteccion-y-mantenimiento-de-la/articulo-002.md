@@ -1,0 +1,5 @@
+# Artículo 2
+
+La presente Ley tiene por objeto establecer las medidas necesarias para proteger, promover y mantener la lactancia natural que ayude al mejoramiento del estado nutricional de los lactantes, asegurando el uso adecuado de los sucedáneos de la leche materna, sobre la base de una información apropiada, cuando estos fueran necesarios y, las modalidades del comercio y distribución de los siguientes productos: sucedáneos de la leche materna, incluidas las preparaciones para lactantes; otros productos de origen lácteos, incluidos los alimentos complementarios, cuando estén comercializados como sucedáneos de la leche materna o cuando de otro modo se indique que pueden emplearlos, con o sin modificación, para sustituir parcial o totalmente a la leche materna; además incluye la regulación de la comercialización de los biberones,chupetas y consoladoras. Se aplicará así mismo, a la calidad y disponibilidad de los productos relacionados y a la información sobre su utilización.
+
+Generalidades
