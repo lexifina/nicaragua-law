@@ -1,0 +1,7 @@
+- CAPITULO I (antes del artículo 1)
+- CAPITULO II (antes del artículo 2)
+- CAPITULO III (antes del artículo 5)
+- CAPITULO IV (antes del artículo 7)
+- CAPITULO V (antes del artículo 12)
+- CAPITULO VI (antes del artículo 13)
+- CAPITULO VII (antes del artículo 18)
