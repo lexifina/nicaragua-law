@@ -1,0 +1,3 @@
+# Artículo 6
+
+La Medalla al Mérito "Primer Comisionado Christian Munguía Alvarado" se aprueba y se otorga en Acto Solemne por el Ministro de Gobernación, a propuesta del Director General de la Policía Nacional, a los Policías que tengan una participación sobresaliente en actividades policiales relacionadas con el mantenimiento del orden público, la seguridad de las personas y sus bienes, la investigación y esclarecimiento del delito, o que con el resultado sobresaliente de su trabajo en actividades de orden administrativo, logístico, científico-técnico, financiero y de servicio, contribuyan a la modernización, desarrollo y fortalecimiento de la institución.
