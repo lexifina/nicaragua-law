@@ -1,0 +1,3 @@
+# Artículo 14
+
+Los privilegios e inmunidades se otorgan a los funcionarios y miembros del personal de la Unión Panamericana exclusivamente en interés de la Organización. Por consiguiente, el Secretario General deberá renunciar a los privilegios e inmunidades de cualquier Funcionario o miembro del personal en cualquier caso en que, según el criterio del Secretario General, el ejercicio de ellos impida el curso de la justicia y cuando dicha renuncia pueda hacerse sin que se perjudiquen los intereses de la Organización. En el caso del Secretario General o del Secretario General Adjunto el Consejo de la Organización tendrá el derecho de renunciar a la inmunidad.
