@@ -1,0 +1,3 @@
+# Artículo 22
+
+TELCOR contará con órganos de apoyo, cuya finalidad consiste en garantizar una adecuada dirección y administración por parte de la Dirección General del trabajo administrativo, organizativo, financiero y de relación entre el Ente Regulador, los operadores y el público en general. Los órganos de apoyo estarán conformados por la Dirección de Planificación y Desarrollo, Dirección de Administración y Finanzas, Dirección de Recursos Humanos, Unidad de Comunicación y Relaciones Públicas, Unidad de Relaciones Internacionales, Unidad de Adquisiciones y Unidad de Sistemas y Centro de Documentación y Archivo.
