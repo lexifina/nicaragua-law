@@ -1,0 +1,3 @@
+# Artículo 4
+
+En el tráfico marítimo, el capitán o agente naviero consignatario general o de buques con carga en tráfico de altura, entregarán al personal encargado del recinto portuario fiscalizado y a las autoridades aduaneras, antes de iniciarse las maniobras de descarga, una lista en papel o en medio magnético que expresará las marcas en orden alfabético, los números, cantidad y clase de bultos, así como el número del conocimiento de embarque que los ampare. La lista se formulará con mención del nombre, clase, bandera y fecha de arribo de la embarcación y de manera separada, por cada manifiesto o documento que amparen los bultos que serán descargados en el recinto.

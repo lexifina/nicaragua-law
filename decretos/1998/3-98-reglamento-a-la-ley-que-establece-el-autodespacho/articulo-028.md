@@ -1,0 +1,3 @@
+# Artículo 28
+
+Los residentes en el país que viajen al extranjero llevando consigo aparatos electrónicos o instrumentos de trabajo, necesarios para el desarrollo de su actividad, podrán solicitar a la autoridad aduanera su registro en el formulario oficial correspondiente, siempre y cuando se trate de instrumentos que puedan ser transportados normal y comúnmente por una persona, para que, exhibiendo el original de dicho formulario, se admitan a su regreso, libre del pago de obligaciones tributarias y del cumplimiento de obligaciones no tributarias, siempre que no hayan sido modificados sustancialmente.

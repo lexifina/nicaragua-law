@@ -1,0 +1,5 @@
+# Artículo 62
+
+Cuando la autoridad aduanera encuentre discrepancias entre los bultos o atados declarados en la declaración de importación y los consignados en la factura, se considerará que no se comete la infracción establecida en el Arto. 64, inciso 3) de la Ley, siempre que la cantidad de mercancías declaradas coincida con la del embarque.
+
+Tampoco se considerará que se incurre en la infracción citada cuando las discrepancias en los datos relativos a la clasificación arancelaria o a la cantidad declarada por concepto de obligaciones tributarias, siempre que en estos casos no exista perjuicio para el interés fiscal, ni se afecte la información estadística. Para los efectos del propio inciso 3) del Arto. 64, no se considerarán "anotaciones erróneas" las faltas de ortografía en las declaraciones ni otras pequeñas faltas, siempre que no afecten la estadística del comercio exterior. La Dirección General de Aduanas, señalará mediante disposiciones generales, cuando son los campos o datos de las declaraciones que sea obligatorio llenar o proporcionar, que se estima que hacen variar la información estadística.
