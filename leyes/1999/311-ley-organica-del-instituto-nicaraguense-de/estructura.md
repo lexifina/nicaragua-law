@@ -1,0 +1,6 @@
+- CAPÍTULO I (antes del artículo 1)
+- DISPOSICIONES GENERALES (antes del artículo 1)
+- CAPITULO II (antes del artículo 3)
+- CAPITULO III (antes del artículo 10)
+- CAPITULO IV (antes del artículo 21)
+- DISPOSICIONES FINALES (antes del artículo 21)
