@@ -1,0 +1,3 @@
+# Artículo 37
+
+Todo operador de telecomunicaciones deberá permitir la interconexión a su red de otras redes de telecomunicaciones debidamente autorizadas para interconectarse. Las partes establecerán las condiciones especiales de interconexión de mutuo acuerdo en las cuales se resuelvan los aspectos técnicos operativos y tarifarios. De no llegarse a ello en un plazo de noventa días calendario a partir de la solicitud de interconexión por una de las partes, TELCOR decidirá los términos del contrato de interconexión con tarifas competitivas y ordenará la interconexión so pena de imponer las sanciones del caso.

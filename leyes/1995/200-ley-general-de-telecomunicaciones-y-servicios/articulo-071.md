@@ -1,0 +1,3 @@
+# Artículo 71
+
+Los servicios públicos de Telecomunicaciones y Telefonía Celular estarán sujetos a un control tarifario autorizado por TELCOR, ningún operador podrá cobrar en sus tarifas servicios que no haya prestado. La estructura tarifaria buscará propiciar una expansión eficiente de las redes de servicios públicos, al permitir la recuperación de las inversiones y costos y proveer las bases para una sana competencia en la prestación de servicio. En los Contratos de Concesión se establecerán los métodos para la determinación de los precios que se cobren por la prestación de servicios públicos y de telefonía celular.
