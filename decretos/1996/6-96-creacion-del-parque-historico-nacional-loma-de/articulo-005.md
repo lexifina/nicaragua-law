@@ -1,0 +1,3 @@
+# Artículo 5
+
+Apruébese la elaboración del Plan Maestro, para el desarrollo del Parque Nacional "Loma de Tiscapa", que deberá incluir las siguientes áreas: a) Un área a determinarse de la Explanada como Centro Cívico y Monumental que incluye la Tribuna Monumental; b) las áreas de transición que bordean la Avenida Central, que culmina en el Monumento al Soldado; c) las Instalaciones Militares, que aunque quedan excluidas del Parque, deben de evolucionar conforme guías del Plan Maestro,'para su adecuada presencia en el conjunto del Parque Nacional; d) el acceso a la cima de la Loma de Tiscapa, antigua Casa Presidencial y otras áreas de interés histórico; f) los diferentes accesos vehículares y peatonales.
