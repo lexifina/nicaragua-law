@@ -1,0 +1,21 @@
+LEY N°. 329, LEY CREADORA DE LOS MUNICIPIOS DE CIUDAD SANDINO Y EL CRUCERO
+
+Aprobada el 15 de diciembre de 1999
+
+Publicada en La Gaceta, Diario Oficial N°. 7 del 11 de enero de 2000
+
+LEY No. 329
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades:
+
+HA DICTADO
+
+La siguiente:
+
+LEY CREADORA DE LOS MUNICIPIOS DE CIUDAD SANDINO Y EL CRUCERO

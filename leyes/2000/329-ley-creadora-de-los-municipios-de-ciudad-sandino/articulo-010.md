@@ -1,0 +1,3 @@
+# Artículo 10
+
+Las autoridades municipales que administrarán los municipios a que se refiere la presente Ley, con excepción de las autoridades del Municipio de Managua, cuya conformación territorial ha sido modificada y que continuarán ejerciendo sus funciones durante el período para el que fueron electas, serán nombradas de conformidad con lo establecido en los Artículos 4, 5 y 6 del Reglamento a la Ley de Municipios Decreto No. 52-97 del cinco de Septiembre de mil novecientos noventa y siete, publicado en La Gaceta, Diario Oficial No. 171 del ocho de Septiembre de mil novecientos noventa y siete.
