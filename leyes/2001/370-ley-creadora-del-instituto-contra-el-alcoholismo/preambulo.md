@@ -1,0 +1,21 @@
+LEY N°. 370, LEY CREADORA DEL INSTITUTO CONTRA EL ALCOHOLISMO Y DROGADICCIÓN
+
+Aprobada el 29 de noviembre de 2000
+
+Publicada en La Gaceta, Diario Oficial N°. 23 del 1° de febrero de 2001
+
+LEY No. 370,
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+La siguiente:
+
+LEY CREADORA DEL INSTITUTO CONTRA EL ALCOHOLISMO Y DROGADICCIÓN
