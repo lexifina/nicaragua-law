@@ -1,0 +1,5 @@
+# Artículo 60
+
+El concesionario, previo al otorgamiento de la concesión, deberá presentar un programa de restauración ambiental para tal caso de contaminación durante la actividad o por el abandono de sitio, el cual deberá ser aprobado por el Ministerio de Recursos Naturales y del Ambiente (MARENA), Para el cumplimiento de este programa el concesionario depositará una garantía a favor del INE en un banco o empresa de seguros de reconocido prestigio que cubra los costos de implementación del programa. Las instituciones que otorguen esta garantía si son nacionales deberán contar con la aprobación de la Superintendencia de Bancos y de Otras Instituciones Financieras, de ser extranjera contar con la aprobación de la misma y del Banco Central de Nicaragua a efectos de validar su solvencia.
+
+El concesionario deberá iniciar dicho programa, desde su aprobación y finalizarlo en un período no mayor de cien días calendario antes de extinguida la concesión. En el caso que alguna(s) actividade(s) del programa no finalicen durante el período estipulado, el INE hará uso de la garantía depositada para su ejecución.

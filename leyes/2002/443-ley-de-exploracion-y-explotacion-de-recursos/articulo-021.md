@@ -1,0 +1,3 @@
+# Artículo 21
+
+El titular de una concesión de exploración tiene derecho inherente y preferente dentro de un plazo de hasta meses prorrogables, con autorización del INE, por doce meses después de finalizada la concesión de exploración, a optar por una concesión de explotación, siempre y cuando haya cumplido con los compromisos y obligaciones adquiridos en el contrato de exploración y además haya desarrollado al menos un pozo de producción, durante el plazo de vigencia de la concesión de exploración, o sus prórrogas. El INE comprobará los cumplimientos y otorgará la concesión en un período de sesenta días a partir de la presentación de la solicitud.
