@@ -1,0 +1,3 @@
+# Artículo 29
+
+La Oficina Nacional de Acreditación (ONA) creada por la Ley, y adscrita a la Secretaría Ejecutiva; se organizará y funcionará de conformidad con las disposiciones administrativas acordadas por la Comisión, y tendrá como objetivo fundamental organizar el sistema para el acreditamiento de los organismos de Certificación; y además administrar el Sistema Nacional de Acreditación y Certificación con funciones de registro, inspección y acreditación de los laboratorios de ensayo-análisis, de calibración y de los organismos de certificación, siempre que llenen los requisitos establecidos en las Normas Técnicas.
