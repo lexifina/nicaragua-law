@@ -1,0 +1,3 @@
+# Artículo 7
+
+Los Bonos llevarán anexos cupones al portador, numerados, que servirán para reclamar y percibir del Ministerio de Hacienda y Crédito Público, el pago de los respectivos intereses. En éstos se indicará la fecha de tales pagos, los cuales serán el 31 de Marzo y 1 de Octubre de cada año y se expresará el número del Bono correspondiente, el periodo de pago que representa y la cantidad mínima devengada en concepto de intereses. Cuando se pusiere en circulación un Bono, una vez comenzado a correr un semestre, se desprenderá el cupón correspondiente, y se entregará un certificado que exprese la cantidad exacta de intereses a pagar por tal semestre incompleto.
