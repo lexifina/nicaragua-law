@@ -1,0 +1,5 @@
+# Artículo 1
+
+El Arto. 10 del Reglamento de la Ley del Impuesto sobre la Renta., Decreto Ejecutivo N°. 26 de 25 de Junio de 1975 (Gaceta N°. 143 de 27 de Junio de 1975) se leerá así:
+
+"Arto. 10.- En relación a la disposición contenida en el Arto. 14, I.R. reformado por el Decreto Ley N°. 571 de 24 de septiembre de 1976, para gozar de la exención será necesario que el interesado presente solicitud al Ministerio de Hacienda, haciendo relación del acreedor, monto del crédito, intereses y objeto de la inversión. Es necesario que ésta sea en una actividad agropecuaria o para fines industriales, que procesen productos agropecuarios. El Ministerio de Hacienda, previa inspección dictará Acuerdo declaratorio de la exención, facultando a la Dirección General, de Ingresos, para que vigile la correcta inversión del Crédito y en caso se comprobare que este ha sido usado en otros fines, con las pruebas del caso, la Dirección General de Ingresos solicitará al Ministerio de Hacienda, la cancelación del Acuerdo que concedió las exenciones. La negociación de las divisas deberá hacerse por medio del sistema financiero nacional.
