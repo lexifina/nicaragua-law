@@ -1,0 +1,3 @@
+# Artículo 14
+
+El adquirente que en virtud a la presente Ley reciba título de dominio sobre un lote de un Reparto Intervenido, deberá contribuir económicamente con la cantidad que le corresponda para el financiamiento de las obras de infraestructura faltantes a que hace referencia la Ley de Repartos ilegales de acuerdo a los procedimientos y mecanismos que establezca el Ministerio de la Vivienda Y Asentamientos Humanos. El cumplimiento de estas obligaciones podrá ser exigido por el Ministerio de la Vivienda y Asentamientos Humanos ante los Tribunales competentes. Esta disposición no exime de la responsabilidad que de acuerdo a la Ley de Repartos Ilegales, hubiese incurrido el lotificador intervenido.
