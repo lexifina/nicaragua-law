@@ -1,0 +1,21 @@
+LEY N°. 442, LEY DE INTERPRETACIÓN AUTÉNTICA DEL ARTICULO 236 DEL CÓDIGO DEL TRABAJO
+
+Aprobada el 09 de octubre del 2002
+
+Publicada en la Gaceta, Diario Oficial N°. 206 del 30 de octubre del 2002
+
+LEY No. 442
+
+EL PRESIDENTE DE LA REPUBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPUBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+La siguiente:
+
+LEY DE INTERPRETACION AUTENTICA DEL ARTICULO 236 DEL CODIGO DEL TRABAJO
