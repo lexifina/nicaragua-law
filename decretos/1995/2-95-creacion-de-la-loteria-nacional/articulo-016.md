@@ -1,0 +1,3 @@
+# Artículo 16
+
+El presente decreto entrará en vigencia a partir de la fecha de su publicación en La Gaceta, Diario Oficial.
