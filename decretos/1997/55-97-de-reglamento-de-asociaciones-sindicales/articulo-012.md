@@ -1,0 +1,3 @@
+# Artículo 12
+
+Presentada el acta constitutiva y los estatutos en la forma establecida a la Dirección de Asociaciones Sindicales del Ministerio del Trabajo, se procederá a la inscripción del sindicato en el registro correspondiente dentro de un plazo de 10 días contados desde la fecha de presentación de dichos documentos. Si en ellos hubiere algún vacío que llenar, la Dirección lo hará saber a los interesados dentro de los tres primeros días hábiles, subsanado el vacío, la inscripción se hará dentro de los diez días subsiguientes. El retraso de la inscripción será objeto de medidas disciplinarias por parte del superior respectivo.
