@@ -1,0 +1,3 @@
+# Artículo 133
+
+Se mantiene la plena vigencia de los Decreto de la Junta de Gobierno de Reconstrucción Nacional No. 35 de 8 de agosto de 1979 que crea el Sistema Nacional Único de Salud, No. 58 del 28 de agosto de 1979. que protege a los combatientes del Frente Sandinista de Liberación Nacional, damnificados a consecuencia de la lucha popular por la liberación de Nicaragua, No. 237 del 2 de enero de 1980 que establece el Sistema de Cotizaciones del Seguro Social; No. 331 del 29 de febrero de 1980 que protege a los trabajadores mineros y el No. 726 del 2 de mayo de 1981 que determina las pensiones de los servidores públicos.

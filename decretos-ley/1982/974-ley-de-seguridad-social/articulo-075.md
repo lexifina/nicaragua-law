@@ -1,0 +1,3 @@
+# Artículo 75
+
+El Instituto, en los casos en que se pruebe que el accidente fue producido intencionalmente por el empleador por sí o por intermedio de tercera persona, o que el empleador incurrió en falta grave o descuido que originó el accidente, o que desobedeció las medidas de prevención ordenadas por los Inspectores del Instituto o del Ministerio del Trabajo, satisfará al asegurado las prestaciones que ésta Ley establece, pero el empleador estará obligado a restituir íntegramente al Instituto las erogaciones que éste haga, o en su caso, enterar al Instituto el capital equivalente al valor actual de la pensión concedida, calculada según las normas que establezca el Reglamento Financiero.
