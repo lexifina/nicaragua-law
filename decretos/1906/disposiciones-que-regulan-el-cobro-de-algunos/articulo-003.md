@@ -1,0 +1,3 @@
+# Artículo 3
+
+Los Gobernadores y Agentes de Policía, en todo caso de visar recibos para el cobro de impuestos locales de su jurisdicción, tomarán nota en un libro especial, con los pormenores siguientes: nombre del contribuyente, clase del impuesto cobrado, período á que corresponde, fecha del recibo y valor hecho efectivo; y cada fin de mes cortarán este registro, totalizando su importancia, y formarán una minuta por duplicado, con los elementos expresados, y de la que remitirán un ejemplar al Tribunal Supremo de Cuentas y otro á la Subtesorería de que dependa el Agente Fiscal Recaudador. La falta de envío puntual de estas minutas, hará incurrir en multa de diez á veinticinco pesos, que aplicará el Presidente del Tribunal, con noticia del hecho punible.
