@@ -1,0 +1,3 @@
+# Artículo 143
+
+El Ministerio de Educación convocará por los medios de comunicación social a todos los docentes del país que laboren en Centros Estatales, Privados o Mixtos, para que a través de la División de Recursos Humanos presenten todos los Títulos, diplomas, reconocimientos, antigüedad y demás requisitos establecidos en la Ley y el presente Reglamento, para organizar o actualizar el escalafón del docente.
