@@ -1,0 +1,13 @@
+REFORMAS AL ARTÍCULOS 2 Y 37 DEL DECRETO N°. 4 DEL 18 DICIEMBRE 1968 EN RAMO DE EDUCACIÓN PUBLICA
+
+DECRETO EJECUTIVO N°. 18, aprobado el 27 de octubre de 1969
+
+Publicado en La Gaceta, Diario Oficial N°. 257 del 08 de noviembre de 1969
+
+REFORMAS AL ARTÍCULOS 2 Y 37 DEL DECRETO N°. 4 DEL 18 DICIEMBRE 1968 EN RAMO DE EDUCACIÓN PUBLICA
+
+"Decreto No. 18
+
+El Presidente de la República,
+
+Decreta:
