@@ -1,0 +1,7 @@
+# Artículo 22
+
+Impedimento.
+
+Los funcionarios de la Procuraduría General de la República no podrán intervenir como tales en los negocios y reclamaciones en que tenga interés directo y en los que, de manera análoga, interesen a su cónyuge o a los parientes de ellos, consanguíneos o afines en todos los grados y la colateral hasta el segundo grado inclusive.
+
+Lo que en contrario de dicho precepto se hiciere, aparte de acarrear responsabilidad al funcionario transgresor no producirá efecto alguno. La nulidad consiguiente deberá ser declarada aun de oficio por los tribunales de justicia cuando la intervención se hubiere producido ante estos.

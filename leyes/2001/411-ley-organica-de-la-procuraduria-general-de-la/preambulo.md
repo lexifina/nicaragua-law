@@ -1,0 +1,25 @@
+LEY N°. 411, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
+
+Aprobada el 04 de diciembre de 2001
+
+Publicada en La Gaceta, Diario Oficial N°. 244 del 24 de diciembre de 2001
+
+LEY No. 411
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace Saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+La siguiente:
+
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
+
+CAPÍTULO I
+
+DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
