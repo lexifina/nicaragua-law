@@ -1,0 +1,5 @@
+# Artículo 35
+
+Los Títulos de Reforma Agraria emitidos en el período comprendido entre los meses de febrero, marzo y abril inclusive de 1990, están sujetos al proceso de revisión administrativa ante la Oficina de Ordenamiento Territorial conforme al Decreto 35-91 y 48-92.
+
+En los casos de propietarios que recibieron Títulos de Reforma Agraria de una propiedad rústica originadas por devolución, permuta o indemnización, se presentarán ante la Oficina de Ordenamiento Territorial con el Título que recibieron o la escritura de dominio que demuestre la transacción a fin de que se le otorgue la correspondiente Solvencia de Ordenamiento Territorial, o se le extienda la escritura pública definitiva, una vez que dicha oficina haya comprobado que la propiedad devuelta o permutada es de valor equivalente a la expropiada o donada originalmente. En caso que la propiedad devuelta o permutada sea de mayor valor deberá gravarse con hipoteca el saldo que resulte favorable al Estado cuyas cuotas y plazos serán materia del Reglamento de la presente Ley.
