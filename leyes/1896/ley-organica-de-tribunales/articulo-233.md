@@ -1,0 +1,3 @@
+# Artículo 233
+
+El nombramiento de los árbitros se hará en personas presentes, cuyo estado de salud no les impida cumplir su encargo; más si, no obstante, los nombrados se excusaren por enfermedad, ésta será reconocida por un facultativo, y en falta de éste por un inteligente en medicina á presencia del Juez; y resultando tal que no permita ejercer dicho encargo, el mismo Juez liará que inmediatamente se practique la reposición por quien corresponde, procediendo en su caso á lo que haya lugar con arreglo á los artículos precedentes. Las costas y honorarios que cause el reconocimiento, serán de cuenta del árbitro, si no resultare impedido; mas en caso contrario, lo será de la parte que lo nombró ó de ambas si fuere el tercero.

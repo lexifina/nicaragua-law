@@ -1,0 +1,3 @@
+# Artículo 231
+
+El arbitramento de que se trata, sé organizará de la manera siguiente: el recusante nombrará un árbitro en el acto mismo de la recusación, la cual se pondrá inmediatamente en conocimiento de la parte contraria, quien al momento ó á lo más dentro de las siguientes tres horas hábiles para el despacho, elegirá el que le corresponde: á continuación hará e Juez que elijan ambas partes el tercer árbitro, y si dentro de una hora no se avinieren, hará llegar sin tardanza á los árbitros nombrados para que en igual tiempo verifiquen el nombramiento ó insaculen, en caso de desavenencia, los nombres de los Regidores cesantes, de los cuales será tercer árbitro el que designe la suerte.
