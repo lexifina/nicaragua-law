@@ -1,0 +1,13 @@
+COMISIÓN NACIONAL DE PROMOCIÓN Y PROTECCIÓN DE LOS DERECHOS HUMANOS
+
+REFORMA
+
+DECRETO EJECUTIVO N°. 1114, aprobado el 22 de septiembre de 1982
+
+Publicado en La Gaceta, Diario Oficial N°. 230 del 02 de octubre de 1982
+
+LA JUNTA DE GOBIERNO DE RECONSTRUCCIÓN NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+en uso de sus facultades,
+
+Decreta:
