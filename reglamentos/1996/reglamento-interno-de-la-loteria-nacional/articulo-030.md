@@ -1,0 +1,3 @@
+# Artículo 30
+
+La Gerencia y Administración Superior de la Empresa estará a cargo de un Gerente General quien será el responsable ante la Junta Directiva de la eficiencia administrativa de la Empresa y para ello programará, organizará, integrará, dirigirá y controlará las actividades de todas las instancias que conforman la organización de la Empresa, las cuales estarán directamente bajo su subordinación. Sus Atribuciones están señaladas en el Arto. 19 del presente Reglamento y contará con órganos auxiliares tales como Asesoría Legal y Relaciones Públicas los que dependerán directamente de él.

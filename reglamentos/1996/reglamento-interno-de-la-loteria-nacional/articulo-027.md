@@ -1,0 +1,3 @@
+# Artículo 27
+
+El campo de acción del Auditor Interno lo comprende toda la organización de la Empresa, sin excepción de ninguna clase e incluso en los programas que conjuntamente se lleguen a desarrollar con organismos internacionales. Mantendrá el máximo grado de independencia dentro de la Entidad, no podrá participar en los procesos administrativos, su participación en la toma de inventarios físicos, entrega, recepción y otros actos similares se contraerá a observar dichas actividades, sin aprobar o firmar los documentos respectivos, debiendo informar separadamente. Si forma parte de un comité de trabajo lo hará con voz pero sin voto.
