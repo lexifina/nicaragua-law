@@ -1,0 +1,25 @@
+LEY N° 355, LEY CREADORA DEL FONDO DE MANTENIMIENTO VIAL
+
+Aprobada el 29 de junio 2000.
+
+Publicada en La Gaceta, Diario Oficial N°. 157 del 21 de agosto del 2000
+
+LEY No. 355
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+La siguiente:
+
+LEY CREADORA DEL FONDO DE MANTENIMIENTO VIAL
+
+CAPITULO I
+
+CONSTITUCIÓN, DOMICILIO Y COMPETENCIA
