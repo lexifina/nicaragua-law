@@ -1,0 +1,3 @@
+# Artículo 3
+
+Los Ministerios de Estado, con el apoyo del Instituto Nicaragüense de Estudios Territoriales (INETER), el Instituto Nicaragüense de la Vivienda Urbana y Rural (INVUR), el Instituto Nicaragüense de Tecnología Agropecuaria (INTA), el Instituto Nicaragüense de Fomento Municipal (INIFOM), el Fondo de Inversión Social de Emergencia (FISE) y la Empresa Nicaragüense de Acueductos y Alcantarillados (ENACAL), con los fondos que correspondan conforme la Ley del Presupuesto General de la República y el apoyo que se solicite y logre de parte de la comunidad internacional, pondrán en práctica, de inmediato, un Plan de Rehabilitación y Reasentamiento de las familias afectadas por los deslaves del Cerro Musún, en los Municipios de Río Blanco y Matiguás.
