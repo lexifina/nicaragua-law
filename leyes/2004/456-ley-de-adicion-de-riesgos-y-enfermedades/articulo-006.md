@@ -1,0 +1,3 @@
+# Artículo 6
+
+Cuando el reclamo de los derechos provenientes de las enfermedades profesionales de los trabajadores demanden procesos judiciales contra los empleadores del sector público y privado, conforme a lo preceptuado en el artículo 114 de la Ley No. 185, Código del Trabajo, los afectados podrán recurrir a los abogados de la Dirección General de Relaciones Laborales del Ministerio del Trabajo, quienes asumirán a título gratuito la demanda de los trabajadores reclamantes hasta la culminación del proceso. Los afectados, además podrán hacer uso de las asesorías legales que estimen convenientes.
