@@ -1,0 +1,3 @@
+# Artículo 1
+
+Se da por aprobado el Tratado Sobre Inversión y Comercio de Servicios entre las Repúblicas de Costa Rica, El Salvador, Guatemala, Honduras y Nicaragua, suscrito en San Salvador, El Salvador el 24 de marzo del 2002, por el Presidente de la República de Costa Rica, señor Miguel Ángel Rodríguez; el Presidente de la República de El Salvador, señor Francisco Guillermo Flores Pérez; el Presidente de la República de Guatemala, señor Alfonso Portillo Cabrera; el Presidente de la República de Honduras, señor Ricardo Maduro Joest y el Presidente de la República de Nicaragua, Señor Enrique Bolaños Geyer.
