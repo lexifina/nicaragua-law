@@ -1,0 +1,5 @@
+# Artículo 71
+
+El último día del término para depositar o rendir las garantías previas para apelar, será hábil a toda hora para tal efecto; y si en ese día los funcionarios o encargados de recibir el deposito o las garantías no fueren encontrados por el apelante podrá éste rendir, en escritura pública, garantía o fianza solidaria, irrevocable, personal o hipotecaria, a favor del Fisco, por el monto de lo que debiera depositar, más el recargo a que se refiere el Art. 43 IR, en su caso, debiendo otorgar dicha fianza persona que tenga bienes raíces saneados con valor, por lo menos, del doble de la cantidad afianzada, o recaer sobre bienes raíces que tengan ese mismo valor, con relación a la suma que garanticen al Fisco.
+
+El testimonio de la escritura a que se refiere el párrafo anterior deberá ser presentado a la Dirección al día siguiente hábil, a fin de que ésta califique la fianza y reciba dicho testimonio. Si la Dirección acepta la garantía admitirá el recurso. Si no la considera buena, o no le fuere presentado el testimonio el día que se acaba de indicar, el recurso quedara desierto.

@@ -1,0 +1,5 @@
+# Artículo 63
+
+Todo contribuyente deberá haber pagado su IR correspondiente al período gravable anterior a mas tardar el 31 de Agosto en la Administración de Renta de la respectiva cabecera Departamental, y si efectúa el pago después de esa fecha, el Administrador de Rentas, conforme el Art. 43 IR, le cobrará por cada día de retraso un recargo que liquidará a razón de cinco por ciento mensual, sin perjuicio de que la Dirección proceda a exigir el pago del impuesto, sea por medio de la retención, o por la vía de apremio judicial, conforme el Título XX del Libro I del Código de Procedimiento Civil, y la cual deberá entablarse en la ciudad de Managua.
+
+Se exceptúa de los dispuesto en el párrafo anterior los contribuyentes que al apelar rindieron garantías, quienes deberán efectuar el pago del IR a mas tardar un mes después de habérseles notificados el fallo de la Junta de Apelaciones, y si no lo hicieren en esa fecha, a partir del día siguiente pagarán el recargo establecido en el párrafo anterior, sin perjuicio de entablar la vía de apremio respectiva.

@@ -1,0 +1,3 @@
+# Artículo 58
+
+Las personas a quien preventivamente se les ha hecho depositar dinero en concepto de retención a cuenta del impuesto, antes de presentar su planilla necesitaran comparecer ante el Administrador de Renta que haya recibido dichos depósitos, a fin de que este funcionario les extienda un recibo en duplicado que cubra el pago del IR establecido en el Artículo anterior a cambio de las constancias de depósitos presentadas. En caso la suma retenida no fuere suficiente para hacer este pago, el contribuyente deberá cubrir el saldo en efectivo. Cada vez que el Administrador de Rentas extienda recibos de pago en cambio de recibos de retención, hará constar en los primeros esta circunstancia.

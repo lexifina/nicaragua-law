@@ -1,0 +1,5 @@
+# Artículo 47
+
+El impuesto que cada contribuyente debe de pagar conforme su renta imponible, consistirá en la suma de las cantidades que arrojen los porcentajes correspondiente a todos los excesos de acuerdo con la tarifa del Art. 21 IR. Ejemplo: una renta imponible de C$ 500,000.00 pagará, por los primeros C$ 40,000.00-el 4%, o sean-C$ 1,600.00; por los C$ 20,000.00 siguientes, el 5% o sean C$ 1,000.00; por los C$ 20,000.00 siguientes, el 6%, o sean C$ 1,200.00; por los C$ 20,000.00 siguientes el 7%, o sean C$ 1,400.00; por los C$ 50,000.00 siguientes el 8% o sean C$ 4,000.00; por los C$ 50,000.00 siguientes el 9%, o sean C$ 4,500.00; por los C$ 100,000.00 siguientes el 10 % o sean C$ 10,000.00; por los C$ 100.000.00 siguientes el 11% o sean C$ 11,000.0; por los C$ 100,000.00 siguiente, el 12%, o sean C$ 12,000.00; suman las cantidades que arrojan los anteriores porcentajes C$ 46,700.00 que es el IR que debe pagar una renta imponible de C$ 500,000.00.
+
+Dirección del Impuesto sobre la Renta y Oficinas Departamentales

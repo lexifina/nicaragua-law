@@ -1,0 +1,5 @@
+# Artículo 2
+
+a) Las únicas exenciones de pagar el IR, serán aquellas actividades expresamente exencionadas en leyes generales dictadas en razón de interés general o servicio público, Art. 118 Cn.; por lo tanto, todo contratado o concesión que exonere de esta clase de atributo sin respaldo de esa ley general, no libertará al favorecido de pagar el IR.
+
+b) En concepto de "Bienes administrados en virtud de un cargo" a que se refiere el Art. 1 IR, entran aquellos bienes que están en expectativa de ser adquiridos por una persona natural o jurídica con entera independencia de la mayor o menor probabilidad de que exista dicha persona. Igualmente, en ese concepto estará comprendida también la renta de los bienes dejados o afectos al cumplimiento de una disposición modal consistente en obras no destinadas a los fines estatuidos en las fracciones a), c), d) y e) del Art. 9 IR, siempre que esta renta se sume al capital que se invierta para dicha obra; asimismo aquellos casos en que no sepa quien es el dueño de la renta, sea por estar pendiente un litigio, o por cualquier otra circunstancia.

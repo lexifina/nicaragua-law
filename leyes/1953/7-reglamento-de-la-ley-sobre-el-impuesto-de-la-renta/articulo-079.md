@@ -1,0 +1,3 @@
+# Artículo 79
+
+La Junta de Apelaciones una vez notificados el fallo emitido por ella, devolverá a la oficina del IR con certificación de lo resuelto y de la notificación que del fallo se hizo al apelante, todos los antecedentes de primera instancia. La Dirección, a su vez, dará al Administrador de Rentas de la cabecera departamental del recurrente cuando éste al apelar hubiese rendido garantía. En dicho aviso la Dirección expresara al Administrador la cantidad de IR que se le liquidó al contribuyente y la fecha en que fue notificado de ese fallo. Igual aviso remitirá al Jefe de la Oficina Departamental.

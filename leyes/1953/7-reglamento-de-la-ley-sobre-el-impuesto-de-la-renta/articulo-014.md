@@ -1,0 +1,13 @@
+# Artículo 14
+
+Para que sean deducibles los impuestos, derechos, servicios, tasas o recargos, será necesario, conforme el inciso k) del Art. 15 IR, que recaigan sobre bienes que produzcan renta. Por consiguiente, los que se impongan a campos que no se exploten o a bienes de por si improductivos no serán deducibles. Tampoco lo será el impuesto de trasmisión de bienes por causas de muerte, ni lo que se paguen en concepto del IR.
+
+Asimismo no serán deducible los impuestos, tasas, derechos o recargos para enajenar, adquirir, mantener o conservar capitales, como el impuesto de derechos reales por trasmisión entre vivos, el pago por patentes mineras y otros que existan o puedan existir y estén comprendidos dentro de estos conceptos, y siempre que todos los expresados atañan a bienes que puedan estimarse como del capital fijo del contribuyente, pero no cuando se refieran a bienes, derechos o acciones que el contribuyente tenga por negocio habitual adquirir, vender, cambiar, o de otra manera disponer, porque en ese caso, el impuesto, tasa o recargo se conceptuará como parte del costo de dichos bienes o como reducción de precio, según el caso así como cualquier otro impuesto o carga que no ataña a la renta neta o ganancia en ese negocio.
+
+b) Las sumas invertidas en la adquisición de bienes, cualquiera que sea su naturaleza, o en mejorar de carácter permanente, salvo lo establecido en el inciso 11) del Art. 15 IR, o en gastos de escrituración de propiedades en sus respectivos casos, no serán deducibles de acuerdos con el inciso c) del Art. 18 IR, cuando se refieran a bienes que constituyan el capital fijo del contribuyente. Pero esas sumas se conceptuarán como parte del costo de esos bienes, derechos, acciones, mercaderías, etc., cuando se tenga por negocio habitual, vender cambiar o de otra manera disponer, de dichos bienes, derechos, acciones, mercaderías, etc.
+
+c) Las utilidades y reservas a que se refiere el inciso d) del Art. 18 IR, debe de entenderse que son aquellas que no están excepcionadas por la IR, y la interpretación que le da el presente Decreto.
+
+d) Las donaciones o actos de liberalidad a que se refiere el inciso e) del Art. 18 IR, deben de entenderse que son las de capital propiamente dicho, y no las de renta, que serán acreditables a como queda dicho en el Art. 11 inciso a) del presente Decreto.
+
+e) La Dirección podrá aceptar anualmente, de acuerdo con la índole de un negocio, reservas deducibles por una cantidad razonable destinadas a afrontar cualquier pérdida por deuda de dudosos o de difícil cobro; y cuando se compruebe evidentemente que esas perdidas se han realizado, la Dirección autorizara deducir de la reserva contabilizada la suma correspondiente a esa pérdida.

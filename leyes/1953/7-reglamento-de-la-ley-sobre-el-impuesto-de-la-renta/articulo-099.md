@@ -1,0 +1,3 @@
+# Artículo 99
+
+Si dentro de los treintas días a que se refiere el Art. 36 IR el contribuyente a quien se le ha hecho retención definitiva no hiciere uso del derecho de proponer ante los Tribunales Comunes las cuestiones establecidas en dicho artículo, los depósitos hechos por el Agente de Retención se conceptuarán pago definitivo, y el contribuyente deberá comparecer ante el Administrador de Rentas que extendió las constancias de depósitos a fin de cambiarlas por el correspondiente recibo de pago; en este recibo el Administrador hará constar que el pago se hizo mediante depósitos de retención definitiva.

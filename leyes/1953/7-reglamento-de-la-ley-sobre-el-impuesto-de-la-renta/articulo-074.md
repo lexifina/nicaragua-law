@@ -1,0 +1,3 @@
+# Artículo 74
+
+El apelante tendrá el término de cinco días para expresar agravios ante la Junta de Apelaciones, los cuales se comenzaran a contar al día siguiente de habérsele notificado la admisión del recurso. En este escrito deberá señalar casa conocida en radio central de Managua para oír notificaciones, y el apelante presentara junto con el escrito, el otro duplicado del recibo en que consta el depósito, o la constancia en donde aparece que se extendió la garantía, según el caso. Si pasare el lapso de cinco días sin que el recurrente exprese agravios ante la Junta, el recurso, por esa sola circunstancia, quedará desierto.

@@ -1,0 +1,3 @@
+# Artículo 8
+
+La renta bruta comprende todos loas ingresos recibidos por el contribuyente durante el año gravable conforme el Art. 10 IR; es decir, de acuerdo con dicho artículo, para el IR se tomara por base la época de la percepción y no el año gravable en que solo se devengo y no se pagó; de tal manera que si cuando se recibió la renta ya existía la IR; y la causa que la origino fue anterior a la vigencia de esa ley, el ingreso, no obstante esto último será gravable siempre que, por otra parte, dicha renta sea de aquellas que conforme la IR esté obligada a tributar en manos de la persona que la recibió.

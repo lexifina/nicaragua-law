@@ -1,0 +1,3 @@
+# Artículo 13
+
+A las empresas de seguros, de fianzas, de capitalización o de cualquier combinación de los mismos, se le admitirá, al determinar su renta neta, deducir el importe que al final del ejercicio tengan los incrementos anuales de las reservas matemáticas y técnicas y las sumas no tomadas en cuenta en años anteriores, que se dispongan a prevenir devoluciones de primas de pólizas aun no ganadas definitivamente por estar sujetas a devolución. El importe de las reservas mientras no existan leyes especiales para ello será fijado y normado de acuerdo con lo que al efecto disponga la Superintendencia de Bancos tomando en cuenta lo prescrito en la IR.

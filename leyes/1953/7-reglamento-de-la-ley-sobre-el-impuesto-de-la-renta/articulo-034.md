@@ -1,0 +1,5 @@
+# Artículo 34
+
+Toda persona natural o jurídica que remita a Nicaragua películas cinematográficas producidas en el exterior y destinadas a su explotación en la República, está obligada a pagar el IR respectivo por medio de su representante legal, agente, distribuidor, concesionario o contratista, de acuerdo con las reglas siguientes:
+
+La renta bruta de dicho negocio estará representada por el total de los ingresos provenientes de porcentaje, contratos o cualquier otro concepto; de esa renta conforme las normas generales, se deducirán los gastos en Agencia, distribuidor o representante en Nicaragua, mas un porcentaje racional para gastos en el exterior incluyendo el transporte de las películas; este porcentaje lo calculara la Dirección con base en documento justificativos debidamente certificados que deberá presentarle junto con la planilla el representante de la firma respectiva, o en su caso, el encargado de percibir la renta Si no se mostrare ningún documento a este respecto, la Dirección conceptuara como porcentaje racional hasta el 2% del monto de la renta bruta.

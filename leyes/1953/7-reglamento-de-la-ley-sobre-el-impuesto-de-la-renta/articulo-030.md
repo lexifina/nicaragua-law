@@ -1,0 +1,3 @@
+# Artículo 30
+
+Las personas que se dedican a la agricultura u otras actividades, que conforme las normas de su negocio no tengan existencia al fin del año gravable sino que venden totalmente su producción anual, no necesitarán practicar el inventario a que se refiere el Art. 17 de este Decreto; y para liquidarles el IR, se encontrara primero la renta bruta que estará representada por la diferencia entre todos los ingresos del negocio con los costo de producción, y después se determinara la renta neta restando a la renta bruta los gastos generales y ordinarios del negocio no incluidos en el costo, conforme el Art. 15 IR, y el presente Decreto.

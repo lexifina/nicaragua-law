@@ -1,0 +1,3 @@
+# Artículo 9
+
+Por persona que tenga el negocio de comprar, vender, cambiar o disponer de otra manera de propiedades, muebles o inmuebles, en cuyo concepto van comprendidos toda clase de valores, para efecto de que las ganancias o pérdidas sean tenidas como rentas sujetas al impuesto o pérdidas sean tenidas como rentas sujetas al impuesto o perdidas deducibles de la renta bruta, se tendrá a aquella que habitualmente se dedica a dicho negocio, ya sea disponiendo de esos bienes tal como los recibió, o construyéndolos o fraccionándoles, o la que los adquirió con ánimo a fin de revenderlos. (Párrafo final Art. 24 IR). Por lo tanto, no podrá conceptuarse en esa categoría a la persona natural o jurídica que solamente ejecuta operaciones aisladas de esa naturaleza.

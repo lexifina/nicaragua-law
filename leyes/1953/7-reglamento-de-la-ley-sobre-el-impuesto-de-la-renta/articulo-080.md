@@ -1,0 +1,3 @@
+# Artículo 80
+
+Las multas a que se refiere el artículo 42 IR se impondrán por la Dirección al liquidar el IR respectivo, y serán apelables aún independientemente de la planilla de liquidación. Igual precepto se aplicará cuando la Dirección tenga que imponer multas por faltas cometidas o comprobadas dentro del lapso comprendido entre el día en que fue liquidada, con tal que existe, en los antecedentes que obran en su poder, plena prueba de la existencia de la falta, y por lo menos presunción grave de quien sea su autor, y además, que los hechos que la motivaron tengan relación directa con los datos que aparezca de los autos la convicción de su existencia.

@@ -1,0 +1,3 @@
+# Artículo 24
+
+En caso el contribuyente se dedique a adquirir o fraccionar bienes inmuebles, o a construir en ellos con fines comerciales, su renta neta se determinará deduciendo del total de los ingresos lo siguiente: 1-El costo de los inmuebles vendidos. Este costo se determinará sumando al importe del inventario que sirva de base al principio del año, el costo que de acuerdo con las reglas del Inciso 5 del Art. 18, tengan los inmuebles comprados, fraccionados o construidos en ese período, y de esa suma deducirá el importe del inventario practicando al fin del año gravable; y 2- Las demás deducciones pertinentes autorizadas por la Ley y este Decreto.
