@@ -1,0 +1,3 @@
+# Artículo 7
+
+Desguace del buque o Artefacto Naval. Cuando un buque o artefacto naval encallado o sumergido obstruya una vía de tráfico comercial, canal o entrada de un puerto, cerrando por completo el paso en el sitio causando perjuicios al comercio y las personas obligadas por la Ley a su remoción, no lo hayan removido hasta dejar paso a toda clase de buques o artefactos navales en el plazo que se les haya señalado, la autoridad correspondiente podrá llevar a efecto su desguace aún por medio de explosivos. La autoridad marítima o portuaria contará con el apoyo de la Entidad Estatal correspondiente, adscrita al Poder Ejecutivo.

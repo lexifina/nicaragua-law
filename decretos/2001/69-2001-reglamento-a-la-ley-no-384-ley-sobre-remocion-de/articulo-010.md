@@ -1,0 +1,3 @@
+# Artículo 10
+
+Investigación previa, inspección y vigilancia. La Autoridad Marítima o Autoridad Portuaria, según el caso, anexará a la petición de remoción los antecedentes que tenga sobre el asunto y realizará las investigaciones complementarias que estime precisas antes de proceder a la autorización. Otorgada ésta, se señalará el plazo en que debe efectuarse la operación de remoción, quedando obligadas las personas encargadas a dar cuenta de la iniciación y término de los trabajos y a facilitar durante ellos su inspección y vigilancia de parte del funcionario designado por la Autoridad Marítima o Autoridad Portuaria.
