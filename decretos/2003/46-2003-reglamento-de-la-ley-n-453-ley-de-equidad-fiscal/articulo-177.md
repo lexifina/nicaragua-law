@@ -1,0 +1,3 @@
+# Artículo 177
+
+Procedimientos especiales. Sin que esta disposición sea restrictiva a las facultades que se lo otorgan a la DGI en el artículo 105 de la Ley, se entenderá por determinadas operaciones respecto a las que se pueden autorizar procedimientos especiales para el pago de los impuestos, entre otros, las adjudicaciones a favor del acreedor, las enajenaciones comprendidas en los numerales 5 y 6 del artículo 50 de la Ley, seguros, espectáculos públicos y cines, publicidad y propaganda, el alquiler de cosas muebles en espectáculos u otras actividades, el arrendamiento de edificios, apartamentos, casas de habitación amuebladas, quintas y los actos ocasionales en general.

@@ -1,0 +1,7 @@
+# Artículo 61
+
+Indicios reveladores de renta. Para los efectos del artículo anterior, la DGI tomará en cuenta como indicios reveladores de renta las declaraciones del contribuyente de los años anteriores, y cualquier hecho que equitativa y lógicamente apreciado, sirva como revelador de la capacidad tributaría del contribuyente, incluyendo entre otros, los siguientes:
+
+1) Para las actividades personales, las cantidades que el contribuyente y su familia gastare, el monto y movimiento de sus haberes, el número de empleados, la amplitud de sus créditos, el capital improductivo, el monto de los intereses que paga o que reciba, los viajes que costea al exterior, el número de sus dependientes que vivan en Nicaragua o en el extranjero, los incrementos de capital no justificados en relación a sus ingresos declarados; y cualquier otra asignación gravada con el IR.
+
+2) Para los negocios, los valores que importa o exporta, el valor de sus existencias, el monto de las ventas en el año, el valor de su capital fijo y circulante, el movimiento de sus haberes, el personal empleado, el tamaño y apariencia del establecimiento mercantil o industrial, o de sus propiedades y cultivos, el monto de los intereses que paga o que recibe, la relación ingreso bruto renta neta de actividades similares a las del contribuyente, los incrementos de capital no justificados en relación a los ingresos declarados; y cualquier otro ingreso gravado con el IR.

@@ -1,0 +1,3 @@
+# Artículo 118
+
+Bienes tangibles adquiridos con franquicia o exoneración. Para aplicar el artículo 56 de la Ley, las personas que adquirieron bienes en uso de una franquicia aduanera o exoneración y que los enajenen, excepto los vehículos automotores, se conceptuarán para todos los efectos fiscales como importadores de dichos bienes en el día de su adquisición y deberán pagar todos los derechos, servicios e impuestos de introducción en el plazo establecido en el artículo 139 de la Ley. No se pagará ninguna carga fiscal cuando la transferencia se haya realizado entre personas que tengan derecho a franquicia o exoneración.

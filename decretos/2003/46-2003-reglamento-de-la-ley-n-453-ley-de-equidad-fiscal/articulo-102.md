@@ -1,0 +1,5 @@
+# Artículo 102
+
+Devoluciones, descuentos y bonificaciones. Para los efectos del artículo 46 de la Ley, el responsable recaudador que reciba o acepte la devolución de bienes enajenados por él, o que otorgue descuentos o bonificaciones, deberá expedir nota de crédito en la que haga constar en forma clara y expresa que canceló o restituyó el impuesto trasladado con motivo de dichas operaciones, según sea el caso y antes de realizar la deducción en la declaración; también se expedirá nota de crédito en los casos en que la devolución, descuento o bonificación se realice dentro del período mensual en que se efectuó la venta, excepto cuando se trate de descuentos que se concedan en el documento en que conste la operación.
+
+El responsable recaudador que se beneficie o reciba el descuento, bonificación o devuelva los bienes adquiridos, y no tuviere impuesto pendiente de acreditar del cual disminuir el cancelado o restituido, lo pagará al presentarla declaración correspondiente al período mensual en que reciba el descuento, la bonificación o efectúe la devolución.

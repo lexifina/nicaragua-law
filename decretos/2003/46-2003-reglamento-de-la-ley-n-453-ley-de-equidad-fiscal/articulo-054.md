@@ -1,0 +1,3 @@
+# Artículo 54
+
+Cálculo de renta para la actividad agrícola y otras. Las personas que se dedican a la agricultura u otras actividades, que conforme las normas de su negocio no tengan existencias al fin del año gravable, sino que vendan totalmente su producción anual, no necesitarán practicar el inventario a que se refiere el artículo 43 de este Reglamento, y para liquidarles el IR se encontrará primero la renta bruta que estará representada por la diferencia entre los ingresos del negocio y los costos de producción, determinándose después la renta neta, restando a la renta bruta los gastos generales y ordinarios del negocio no incluido en el costo, conforme el artículo 12 de la Ley y el presente Reglamento.

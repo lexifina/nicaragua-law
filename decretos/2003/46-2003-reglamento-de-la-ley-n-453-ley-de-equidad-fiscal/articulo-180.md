@@ -1,0 +1,5 @@
+# Artículo 180
+
+Estimación y determinación presuntiva. Cuando se estimen montos presuntivos, de acuerdo al numeral 5 del artículo 105 de la Ley, la DGI procederá a estimar el valor de las actividades gravadas tomando en cuenta, las declaraciones efectuadas anteriormente, medios indirectos de investigación económica, parámetros económicos y de mercado del sector o actividad, o cualquier dato que equitativa y lógicamente apreciado sirva para determinar la capacidad tributaría de las personas. Cuando se determine un impuesto de forma presuntiva, se tomará en cuenta las cantidades acreditables que el contribuyente o responsable recaudador compruebe.
+
+Para aplicarlo dispuesto en el numeral 6 del artículo 105 de la Ley en cuanto a los montos presuntivos cuando no se presente la declaración correspondiente o cuando ésta no se base en los libros y registros contables que establece la Ley y este Reglamento, se aplicará lo dispuesto en el párrafo anterior para determinar el débito fiscal correspondiente.
