@@ -1,0 +1,3 @@
+# Artículo 12
+
+Las faltas ligeras que los reos puedan cometer en las cárceles, pleitos en que no haya heridas, palabras obcenas, etc., serán corregidos por el Alcaide con aplicación á los trabajos fuertes de las cárceles, y separación de los demás reos, con tal que no exceda de tres días. El Alcaide hará comprobar las faltas con información verbal de dos testigos, aunque sean de los mismos presos y aplicar la pena breve y sumariamente, escribiendo la condena en una diligencia que sentará en papel común; siendo la falta de gravedad dará inmediatamente aviso al Tribunal ó Juez que corresponda, como también al Jefe Político, Director de Policía y Comandante de la guardia para lo que haya lugar.

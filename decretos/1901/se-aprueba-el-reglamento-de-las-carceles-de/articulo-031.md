@@ -1,0 +1,3 @@
+# Artículo 31
+
+El Alcaide encargará el cuidado de las cárceles, al Comandante de la guardia; y el Comandante del presidio, al Agente ó Director de Policía, quienes quedarán en su lugar, debiendo recibir las llaves, presos, prisiones y demás dependencias por inventario; y según lo que resulte de la información que establece el artículo anterior, la Municipalidad ó en su defecto los Alcaides constitucionales y el señor Jefe Político, conocerán de la materia, destituyendo ó reponiendo en su empleo al Alcaide, dejando en suspenso en su caso al Comandante del presidio, mientras el Supremo Gobierno, con los datos que se le comunicaren, resuelve la reposición correspondiente. El Jefe Político en este juicio tiene doble voto, y por su medio se ocurrirá al Supremo Gobierno.

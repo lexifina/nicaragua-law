@@ -1,0 +1,3 @@
+# Artículo 18
+
+Los reos rematados ó presidio permanecerán encadenados, como disponga el Comandante ó el encargado del presidio á fin de que puedan salir á los trabajos públicos con seguridad. Están sujetos al Comandante ó al que hace sus veces, y éste con aquel son responsables de su fuga, ya se verifique del trabajo, ya de las cárceles de donde se sacaren bajo lista nominal, y del mismo modo serán entregados, quedando desde su entrega al cuidado del Alcaide, Comandante del presidio, Director de Policía Comandante de la guardia y finalmente de todos los individuos que hacen la custodia de las cárceles, quienes son también responsables de la fuga.

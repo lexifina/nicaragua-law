@@ -1,0 +1,8 @@
+- SECCIÓN 1ª (antes del artículo 1)
+- SECCIÓN 2ª (antes del artículo 4)
+- SECCIÓN 3ª (antes del artículo 15)
+- SECCIÓN 4ª (antes del artículo 21)
+- SECCIÓN 5ª (antes del artículo 25)
+- SECCIÓN 5ª (antes del artículo 26)
+- SECCIÓN 6ª (antes del artículo 30)
+- SECCIÓN 7ª (antes del artículo 35)
