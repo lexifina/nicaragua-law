@@ -1,0 +1,15 @@
+LEY CREADORA DE LA CORPORACIÓN NICARAGÜENSE DE BIENES RAÍCES (CONIBIR)
+
+DECRETO - LEY N°. 494, aprobado el 30 de agosto de 1980
+
+Publicado en La Gaceta, Diario Oficial N°. 203 del 04 de septiembre de 1980
+
+LA JUNTA DE GOBIERNO DE RECONSTRUCCIÓN NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+en uso de sus facultades,
+
+Decreta:
+
+La siguiente:
+
+LEY CREADORA DE LA CORPORACIÓN NICARAGÜENSE DE BIENES RAÍCES

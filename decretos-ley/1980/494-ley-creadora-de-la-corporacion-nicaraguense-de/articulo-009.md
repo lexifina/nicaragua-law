@@ -1,0 +1,3 @@
+# Artículo 9
+
+El Director de CONIBIR es el funcionario ejecutivo encargado de llevar a efecto las resoluciones del Consejo Directivo, tendrá la representación legal, judicial y extrajudicial con facultades de un mandatario general de administración, y será nombrado por el Ministro de Vivienda y Asentamientos Humanos. Su función principal será administrar a CONIBIR de acuerdo con los criterios generales dictados por el Consejo Directivo y en particular, ejecutar y vigilar el cumplimiento de esos criterios. Al suscribir actos y celebrar contratos bastará el acta de su nombramiento para acreditar su representación. El Sub Director será nombrado por el Ministro de Vivienda y Asentamientos Humanos, quien colaborará con el Director y hará sus veces en su ausencia o falta.
