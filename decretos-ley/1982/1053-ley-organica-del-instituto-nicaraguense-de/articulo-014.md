@@ -1,0 +1,3 @@
+# Artículo 14
+
+Los servicios de TELCOR se consideran de servicio público, así como también se consideran de servicio público aquellos que prestare, dentro de las finalidades de esta Ley, cualquier Sociedad, Empresa u Organización de la cual TELCOR forma o llegare a formar parte a causa de la autorización que se da en el literal b) del Arto 2, de esta Ley. Cuando estos servicios públicos sean prestados por cualquier sociedad o empresa de las cuales TELCOR forma o llegare a formar parte, éstas gozarán de los mismos privilegios señalados en el Arto. 12 de esta Ley, asimismo TELCOR podrá hacer extensivos estos últimos a los concesionarios.
