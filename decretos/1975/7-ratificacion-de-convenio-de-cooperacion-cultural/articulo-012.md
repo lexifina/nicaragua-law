@@ -1,0 +1,5 @@
+# Artículo 12
+
+Las Partes Contratantes convienen en reconocer mediante las oportunas convalidaciones la validez de los estudios cursados y de los grados o títulos de estudio a nivel de primario, medio o superior, universitario y técnico de los Centros Docentes del Estado u oficialmente reconocidos, obtenidos tanto por los nacionales propios como por los de la otra Parte Contratante, para continuar estudios superiores dentro de cualquier grado e iniciar estudios superiores. Al optar el ejercicio de las profesiones y funciones para los que dichos estudios, diplomas y títulos que habiliten, el interesado quedará sujeto a las leyes, reglamentos y demás disposiciones que regulen el ejercicio profesional de que se trate en el país en que se ejerza.
+
+Las Partes Contratantes intercambiarán las Notas Verbales oportunas para la mejor ejecución de lo anterior y precisarán, cuando sea necesario, le equivalencia entre títulos y diplomas docentes, técnicos y académicos de cada país en relación con los del otro.
