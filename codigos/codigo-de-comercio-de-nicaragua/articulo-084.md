@@ -1,0 +1,23 @@
+# Artículo 84
+
+Los contratos que se celebran por correspondencia, quedarán perfeccionados desde que se reciba contestación aceptando la propuesta, o las modificaciones con que ésta fuere aceptada. – C. 2.453.
+
+(Artos. 87 CC. – 2.450 C.)
+
+GLOSA: DESDE QUE SE RECIBA CONTESTACIÓN ACEPTANDO. La teoría de la información o del conocimiento (diferente de la otra llamada teoría de la declaración, es la que sigue nuestro Código, apartándose de su modelo, el mexicano (que se conteste aceptando, dice éste) que sigue la otra teoría. Por la de la información o conocimiento, se dice que no basta, para la formación del contrato, el hecho de que el aceptante, adhiriéndose a la proposición contractual contenida en la carta o telegrama que reciba, formule y concrete esa adhesión en su respuesta, también epistolar o telegráfica, puesto que es necesario que el proponente reciba tal respuesta y quede enterado de la misma. Con ese conocimiento coincide el instante de perfección del contrato y ese es el lugar en que se realiza, el lugar en que se halla el proponente. Mientras la persona que dirige la propuesta de un contrato bilateral no conoce la adhesión de la persona a quien se ha hecho tal propuesta, no hay contrato. Es la misma norma para los contratos entre presentes, que reglamenta el Art. 83 C. C., que se perfecciona en el lugar en que se encuentran, porque allí se conoce la aceptación del proponente. La teoría del conocimiento, es la acogida por nuestro Código Civil (Art. 2449): desde que se acepta, dice, queda perfeccionado el contrato y si no responde dentro de cierto tiempo, se tiene por no aceptada. Sin embargo, el Art. 91 C. C., se aparta de este plan y sigue la teoría de la declaración o de la aceptación, como algunos le dicen, prescribiendo que el contrato se perfecciona en la residencia del que acepta, contraria a la examinada en el texto que comentamos que se perfecciona, repetimos, en el lugar en que se halle el proponente que tiene conocimiento. Esta diferencia de teorías entre esas disposiciones legales, se explica, porque el Art. 84 C. C., está tomado de la legislación italiana y el 91 C. C., de la chilena.
+
+Véase a Fredericq, T. I, p. 144 que contempla las teorías de la declaración, de la expedición, de la recepción y de la información.
+
+Bartin (Recueil, T. 31, p. 141) pone un ejemplo de conflicto de leyes que es muy conocido: Un francés escribe de París a Turín (el ofrecimiento parte de París) y le contestan a París: la carta de aceptación parte de Turín y llega a París. Dónde se formó el contrato? En Francia rige la teoría de la recepción: el ofrecimiento, habiéndose recibido en Turín y aceptado en Turín, el contrato se formó en Turín; pero para el italiano (digamos también para los nicaragüenses, en caso semejante) la solución es la contraria, se formó en París, porque su legislación se rige por la teoría de la información, el contrato se formo en el lugar donde el autor de la propuesta se informó de la aceptación de su ofrecimiento, esto es, París.
+
+Esta determinación tiene su importancia para la aplicación de las leyes que deban regir el contrato y para la competencia del Juez que debe conocer de ellos. (Arts. VI, Tít. Prel. C. y 265 Pr.)
+
+ERROR.- El Art. 2453 C. citado, en el texto, debe ser el Art. 2450 C.
+
+CONCORDANCIAS.- 54 España; 80 México; 75 El Salvador; 91 C. C.; 2450 C.; 87 C. C.
+
+CONSULTENSE.- Fredericq, T. I, p. 141; Benito, T. II, p. 242.
+
+JURISPRUDENCIA:
+
+Los contratos que se celebran por correspondencia, quedarán perfeccionados desde que se reciba la contestación aceptando la propuesta, a las modificaciones con que ésta fuere aceptada. Suponiendo que la propuesta de X. X. hubiera sido aceptada, el contrato habría quedado perfecto desde el momento en que el proponente recibió la contestación de aceptación y siendo así, el contrato debía ser regido por las leyes del lugar en donde el contrato quedó perfecto. Sin embargo, el Art. 91 C. C. prescribe que residiendo los interesados en distintos lugares, se entenderá celebrado el contrato para todos sus efectos legales, en el de la residencia del que hubiere aceptado la propuesta modificada y no debe olvidarse que es la ley del lugar de la celebración la que regula las condiciones de existencia y validez de la convención, así como sus efectos. Lo que significa que el contrato de seguro discutido, se entiende celebrado en Montreal, lugar donde la Compañía demandada tiene su asiento y que se debe regir por las leyes del Canadá; pero como las partes han aceptado a nuestro Código de Comercio, sin alegar la aplicación de las leyes extranjeras, es manifiesto que la Corte ha de atenerse a lo que en ese cuerpo de leyes se dispone para la solución. (B. J., p. 9306),

@@ -1,0 +1,13 @@
+# Artículo 466
+
+Siempre que con asentimiento del depositante, dispusiere el depositario de las cosas que fuesen objeto del depósito, ya para sí o sus negocios, ya para operaciones que aquel le encomendare, cesarán los derechos y obligaciones propias del depositante y depositario surgiendo los del contrato que se celebrare.
+
+GLOSA: La parte que aparece en letra blanca en el texto reemplazó a esta otra que aparece en el modelo: “y se observarán las reglas y disposiciones aplicables al préstamo mercantil, ala comisión o al contrato que en sustitución del depósito hubieren celebrado”.
+
+CONCORDANCIAS.- 333 México; 309 España.
+
+CONSULTENSE.- Pront. de Ejec. de México, T. V, p. 337.
+
+JURISPRUDENCIA:
+
+A.) La característica especial de los llamados “depósitos bancarios” de dinero, consiste en que la propiedad de las sumas pasan al banco depositario, el que puede disponer; de meros tenedores se trasformaron en deudores de una promesa abstracta de suma, trasmisible por giro. El depositante en os depósitos bancarios, no es ahora dueño de las cosas que debían devolverse en “natura”, sino el poseedor de un título de crédito contra el banco, por la suma depositada. Existen varias doctrinas sobre la naturaleza de los depósitos bancarios. Para unos constituyen verdaderos mútuos, puesto que dan lugar a un trasferencia de propiedad; según otros serían depósitos irregulares, considerados no como mutuos, por el hecho de que aunque exista la trasferencia, los depositantes conservan la disponibilidad de las sumas depositadas, en el banco, el que asume la obligación de devolverlas total o parcialmente a la requisición de los depositantes, mientras que es característica del mutuo, la existencia de un plazo fijo para la devolución. Otros consideran como verdaderos préstamos, los depósitos a plazo fijo y como depósitos irregulares, a los que no lo tienen. La legislación patria no reconoce la existencia del depósito irregular, según Art. 3464 C. y de lo dispuesto en el Art…466 C. C., en orden a que con asentimiento del depositante puede disponer el depositario de las cosas ya para si o sus negocios ya para operaciones que aquel le encomendare, etc. sin embargo el Art. 467 C. C. prescribe que los depósitos verificados en los bancos, almacenes generales, etc, se regirán, por sus estatutos. Los depósitos en dólares, no tienen la característica de los depósitos de la Comisión de Control de convertir a moneda local tales depósitos, como simples depositarios que son los que recibieron las sumas, solo le corresponde la obligación de conservación y custodia, la que no prevalece contra la fuerza mayor, según el Art. 3462 C. (B. J., p. 9290).
