@@ -1,0 +1,3 @@
+Dado en el Salón de Sesiones del Consejo Directivo de la Junta Nacional de Asistencia y Previsión Social. En Managua, Distrito Nacional, a los veintiún días del mes de Enero de mil novecientos setenta y seis.- (f) Julio Ignacio Cardoze - Adán Cajina Ríos.- Félix R. Hernández Gordillo.- Carlos J. Jirón Romero.- Gilberto Perez.- Alonso Cifuentes.- Guillermo Ortega Robleto.- Carlos Reyes Duquestrada.- Yader Avilés Icaza.- Uriel González Espinoza.- Justo Adolfo Ordeñana Gaitán.- Jorge A. Robleto.- Ronald Sacasa Rosales.- Leandro Pasos Vilain.- Adán Fuentes Solórzano.- Alvaro J. Sevilla Siero, Secretario.
+
+.
