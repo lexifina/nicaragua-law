@@ -1,0 +1,3 @@
+# Artículo 3
+
+Se conformará la Comisión de Protección del Medio Ambiente y del Patrimonio Cultural de la Isla de Ometepe, conocida con las siglas CMA, integrada entre otros por el Delegado del MARENA, quien la coordina, los Alcaldes Municipales, el Delegado del MAG, Delegado del Ministerio de Educación, Delegado del Ministerio de Gobernación; los Jueces Locales, el Representante de la Cámara de Turismo y el Representante de la Asociación Promotora del Museo y la Cultura Isleña y un representante de las organizaciones no gubernamentales, un representante de las organizaciones sociales y un representante de las organizaciones comunales electas entre ellas mismas con Personalidad Jurídica.
