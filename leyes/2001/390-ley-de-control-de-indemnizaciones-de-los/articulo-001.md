@@ -1,0 +1,3 @@
+# Artículo 1
+
+Por Ministerio de la presente Ley, queda terminantemente prohibido el pago de cualquier indemnización o reconocimiento pecuniario a los funcionarios públicos de elección popular, a los electos y nombrados constitucionalmente por la Asamblea Nacional Ministros, Vice-Ministros, Directores y Sub-Directores de Entes Gubernamentales y descentralizados y demás funcionarios nombrados directamente por el Presidente de la República, por motivos del retiro de su cargo y cese de sus funciones por cualquier causa es también extensiva esta prohibición a los miembros de Juntas Directivas que representen al Estado en empresas estatales o mixtas en las que el Estado sea socio.

@@ -1,0 +1,19 @@
+LEY N°. 390, LEY DE CONTROL DE INDEMNIZACIONES DE LOS FUNCIONARIOS PÚBLICOS
+
+Aprobada el 26 de abril del 2001
+
+Publicada en la Gaceta Diario Oficial N°. 91 del 16 de mayo del 2001
+
+EL PRESIDENTE DE LA REPUBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que
+
+LA ASAMBLEA NACIONAL DE LA REPUBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+La siguiente:
+
+LEY DE CONTROL DE INDEMNIZACIONES DE LOS FUNCIONARIOS PÚBLICOS
