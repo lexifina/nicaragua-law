@@ -1,0 +1,3 @@
+# Artículo 27
+
+El importe global anual en términos nominales, el tipo de moneda y el plazo de los valores a ser emitidos por las instituciones autorizadas para la emisión de títulos valores, deberán ser publicados durante los primeros quince días de cada año. Antes de autorizar una emisión, las instituciones deberán coordinarse entre sí y con el Banco Central de Nicaragua, el monto, plazo y periodicidad de las emisiones tomando en cuenta las políticas monetarias y cambiarias, las necesidades de financiamiento del sector público y la situación de los mercados local e internacional de dinero y capital.

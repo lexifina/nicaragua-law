@@ -1,0 +1,3 @@
+# Artículo 17
+
+Con el objetivo de ampliar su capacidad de análisis, el Comité podrá solicitar la participación e información de cualquier institución del sector público que requiera para el cumplimiento de sus funciones, quienes estarán obligados a proveerla dentro del plazo que el Comité solicite. El Funcionario que incumpla esta obligación, incurrirá en responsabilidad administrativa y quedará sujeto a sanciones establecidas por la Ley Orgánica de la Contraloría General de la República.

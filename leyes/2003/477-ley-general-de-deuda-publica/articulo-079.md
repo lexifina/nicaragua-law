@@ -1,0 +1,3 @@
+# Artículo 79
+
+Todo financiamiento externo o interno de entidades del sector público que requiera el aval, garantía o fianza del Estado, deberá ser solicitado previamente al Ministerio de Hacienda y Crédito Público, adjuntando la documentación necesaria que evidencie la disposición de recursos financieros suficientes para cumplir con el pago oportuno del servicio de la deuda, así como la documentación requerida en el artículo 34 de esta Ley, en lo que le sea aplicable. Cuando el financiamiento sea contratado por instituciones sujetas al Presupuesto General de la República, el Ministerio de Hacienda y Crédito Público tomará las medidas del caso para asegurarse de que el servicio de la deuda avalada se refleje correctamente en la asignación presupuestaria correspondiente.

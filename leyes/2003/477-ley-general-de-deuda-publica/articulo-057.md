@@ -1,0 +1,3 @@
+# Artículo 57
+
+Las unidades ejecutoras de proyectos o programas que prevean una sub-utilización parcial o total de los recursos de un préstamo asignado a un proyecto o programa bajo su responsabilidad, deberán comunicarlo de inmediato por escrito al Ministerio de Hacienda y Crédito Público, a fin de que éste tome las medidas pertinentes, incluyendo, de ser el caso, la negociación de la rescisión o reasignación de los recursos no utilizados. Para las instituciones presupuestadas, los costos derivados de esta situación serán aplicados a sus créditos presupuestarios por la Dirección General de Presupuesto a solicitud de la Dirección General de Crédito Público, quien deberá notificar a la Autoridad Superior del organismo correspondiente.

@@ -1,0 +1,3 @@
+# Artículo 70
+
+Todas las instituciones del sector público que realicen operaciones de Crédito Público, deberán llevar sistemas contables que se rijan preferentemente bajo las Normas Internacionales de Contabilidad (NIC) manejar registros completos, fidedignos y actualizados de las operaciones relacionadas con cada préstamo contratado y mantener archivos permanentes que contengan documentación con los antecedentes de cada crédito, los desembolsos recibidos y su utilización, el servicio pagado de la deuda, el saldo vigente, y el monto de la deuda vencida si lo hubiere. Los archivos deberán mantenerse durante la vigencia del préstamo y por un período no menor de 5 años después de que el mismo haya sido totalmente cancelado.

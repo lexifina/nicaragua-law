@@ -1,0 +1,3 @@
+# Artículo 69
+
+El Ministerio de Hacienda y Crédito Público podrá efectuar evaluaciones de las operaciones de la Deuda Pública de los entes gubernamentales descentralizados, los bancos e instituciones financieras del Estado, las entidades empresariales del Estado y las alcaldías municipales, informando los resultados y recomendaciones a estas instituciones para que asuman las medidas preventivas y correctivas, sin perjuicio de cualquier tipo de auditoría que por Ley le corresponda realizar a la Contraloría General de la República, o de las responsabilidades legales que le competen a las unidades de auditoría interna de las instituciones del Sector Público.
