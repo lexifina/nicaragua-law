@@ -1,0 +1,3 @@
+# Artículo 115
+
+Los Jefes de las Misiones Diplomáticas o las Oficinas Consulares, ejercerán funciones de auxilio judicial y realizarán las diligencias que les soliciten los tribunales nicaragüenses y, en, su caso, servirán de conducto para trasladar a las autoridades competentes extranjeras las cartas rogatorias o exhortos que les dirijan las autoridades nicaragüenses. Para tales propósitos deberán guiarse por las instrucciones que al respecto les imparta el Ministerio de Relaciones Exteriores, dentro de los límites señalados por el Derecho Internacional sin perjuicio de lo que dispongan las leyes del Estado sede.

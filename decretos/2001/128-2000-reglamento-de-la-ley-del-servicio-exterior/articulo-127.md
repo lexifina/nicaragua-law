@@ -1,0 +1,3 @@
+# Artículo 127
+
+Los Jefes de Oficinas Consulares deberán depositar diariamente, o cuando los ingresos consulares percibidos asciendan a US$ 250.00 dólares americanos, en una cuenta bancaria especial, las recaudaciones efectuadas por prestación de servicios, debiendo proceder en conformidad con la Normativa establecida al respecto por la Dirección General Administrativa y Financiera. El retraso, manifiesto y repetido por más de dos ocasiones, en un mismo año, en remitir los informes financieros internos de acuerdo a las instrucciones impartidas por el Ministerio de Relaciones Exteriores, salvo por causas de fuerza mayor debidamente comprobadas, será considerado como morosidad y descuido manifiestos de las obligaciones oficiales de los Jefes de Oficina.

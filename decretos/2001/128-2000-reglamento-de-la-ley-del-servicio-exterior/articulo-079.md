@@ -1,0 +1,3 @@
+# Artículo 79
+
+Las comunicaciones sobre asuntos de su personal o de organización consular que una Oficina Consular dirija al Ministerio de Relaciones Exteriores, tales como creación, supresión o traslado de consulados de carrera u honorarios, demarcaciones, propuestas de nombramientos o de destituciones, recompensas, solicitudes de licencias, etc. deberán cursarse por conducto de la respectiva Embajada para que ésta, al trasmitirlas al Ministerio pueda emitir su informe. Igual procedimiento deberá observarse en los informes sobre los ceses y tomas de posesión de todos los empleados consulares, así como la fecha en que comiencen hacer uso de sus licencias y el término de las mismas.

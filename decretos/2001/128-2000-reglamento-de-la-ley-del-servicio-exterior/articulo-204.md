@@ -1,0 +1,3 @@
+# Artículo 204
+
+La selección del Responsable Administrativo deberá recaer sobre una persona con antecedentes profesionales idóneos para desempeñar tal función. La selección podrá ser propuesta por el Jefe de Misión, Representación Permanente u Oficina Consular debiendo ser aprobada por la Dirección General Administrativa y Financiera. Cualquier modificación, permanente o temporal, que signifique el traspaso de las funciones de Responsable Administrativo deberá ser previamente autorizado por la Dirección General mencionada, quien deberá llevar un listado de los Responsables Administrativos de cada Misión Diplomática, Representación Permanente u Oficina Consular.
