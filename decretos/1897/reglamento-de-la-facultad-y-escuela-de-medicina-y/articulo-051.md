@@ -1,0 +1,3 @@
+# Artículo 51
+
+Para que un cursante pueda ser admitido a examen debe presentar al Tribunal designado las boletas en que conste el pago de la matrícula y demás derechos que señala la tarifa para ese acto: el certificado del Profesor de la Escuela facultativa bajo cuya dirección haya hecho sus estudios, en que conste su grado de aplicación, aprovechamiento, conducta que observo y que no ha causado más de veinte fallas culpables de asistencia. El alumno que hubiere incurrido en mayor número de fallas perderá indefectiblemente el curso, salvo que el exceso no pase de otras veinte y que justifique que éstas fueron motivadas por enfermedad grave y por consiguiente inculpables.
