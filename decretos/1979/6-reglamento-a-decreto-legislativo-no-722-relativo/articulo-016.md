@@ -1,0 +1,3 @@
+# Artículo 16
+
+Las personas que hayan obtenido la Licencia de que trata el Artículo 13 de este Reglamento deben comprar las Especies en las Administraciones de Rentas y Agencias Fiscales autorizadas de la República, para lo cual presentarán en triplicado solicitud escrita en donde detallarán las Especies que quieren comprar. Estas oficinas les extenderán Recibo Fiscal por el valor correspondiente a las Especies adquiridas, entregando el original a los interesados para cualquier comprobación posterior. Es condición invariable, la presentación de la Licencia al momento de solicitar la compra de Especies Fiscales.
