@@ -1,0 +1,3 @@
+# Artículo 21
+
+Anulación. Un registro de esquema de trazado podrá anularse cuando se hubiese concedido a quien no tenía derecho a obtenerlo. La acción de anulación sólo podrá ser iniciada por la persona a quien pertenezca el derecho a obtener el registro, y se ejercerá ante el juez competente. Esta acción prescribirá a los cinco años contados desde la fecha de concesión del registro, o a los dos años contando desde la fecha en que la persona a quien pertenezca el derecho a obtener el registro tuvo conocimiento de la comercialización del producto que incorpora el esquema de trazado en el país, aplicándose el plazo que venza primero.

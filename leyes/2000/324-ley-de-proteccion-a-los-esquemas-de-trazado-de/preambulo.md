@@ -1,0 +1,21 @@
+LEY N°. 324, LEY DE PROTECCIÓN A LOS ESQUEMAS DE TRAZADO DE CIRCUITOS INTEGRADOS
+
+Aprobada el 02 de diciembre de 1999
+
+Publicada en La Gaceta, Diario Oficial N°. 22 del 01 de febrero de 2000
+
+LEY No. 324
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de las facultades:
+
+HA DICTADO
+
+La siguiente:
+
+LEY DE PROTECCIÓN A LOS ESQUEMAS DE TRAZADO DE CIRCUITOS INTEGRADOS
