@@ -1,0 +1,5 @@
+# Artículo 168
+
+Derogaciones.
+
+Deróganse: el Decreto N° 278 del 2 Septiembre de 1987, Infracciones de Tránsito, publicado en La Gaceta, Diario Oficial, N° 200 del 7 de Septiembre de 1987, así como Reforma el Decreto N° 14-94 del 25 de Marzo de 1994, publicado en La Gaceta, Diario Oficial No. 62 de 16 de Abril de 1994; el Decreto N° 49-93, Régimen de Circulación de Vehículos, del 18 de Noviembre de 1993, publicado en La Gaceta, Diario Oficial número 216 del 15 de Noviembre de 1993; el Decreto N° 62-93, Reglamento al Decreto 49-93, Régimen de Circulación de vehículos; el Decreto N° 84-99, Actualización de Sanciones Administrativas por Infracciones de Tránsito del 21 de Octubre de 1999 publicado en La Gaceta, Diario Oficial numero 204 del 26 de Octubre de 1999; la Ley 228, Ley de Vehículos y Tráfico del 5 de Mayo de 1938, publicada en La Gaceta, Diario Oficial números 95, 96, 97 y 98 de los días 9,10,11 Y 12 de Mayo de 1938, así como cualquier otra disposición que se oponga a la presente Ley.
