@@ -1,0 +1,3 @@
+# Artículo 7
+
+Se autoriza al Poder Ejecutivo para que, por conducto del INTUR, otorgue hasta por el término de veinte (20) años la concesión de terrenos e islas que son propiedad del Estado, sin afectar los derechos preexistentes; así como aquellos terrenos que requieran de rellenos que estén destinados al desarrollo turístico, de acuerdo a los planes Maestros para Z.E.P.D.T. del INTUR, de áreas con facilidades turísticas que son propiedades del Estado y/o del INTUR; y de áreas para la construcción de marinas, muelles y aeropuertos que el Estado resuelva dedicar a la actividad turística pública.
