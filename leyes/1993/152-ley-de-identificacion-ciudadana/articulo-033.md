@@ -1,0 +1,3 @@
+# Artículo 33
+
+El tiempo de validez de una cédula será de diez años, contados de la fecha de expedición.
