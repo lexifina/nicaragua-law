@@ -1,0 +1,3 @@
+# Artículo 18
+
+El Instituto Nicaragüense de Juventud y Deporte, el que por brevedad podrá conocerse como INJUDE, es un organismo descentralizado del Poder Ejecutivo, con autonomía administrativa, técnica y funcional, de duración indefinida, con personalidad jurídica, patrimonio propio y plena capacidad para adquirir derechos y contraer obligaciones en materia de su competencia. El Instituto será presidido por un Director Ejecutivo, nombrado por el Presidente de la República, a propuesta del Ministro de Educación, Cultura y Deportes. Tendrá su domicilio y oficinas principales en la ciudad de Managua, pudiendo abrir oficinas locales en los departamentos o municipios que lo considere conveniente y de acuerdo a sus posibilidades.

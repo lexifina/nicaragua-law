@@ -1,0 +1,3 @@
+# Artículo 108
+
+Los recursos financieros resultantes de las diferentes fuentes de financiamiento que la presente Ley establece constituyen el presupuesto del deporte, la educación física, y la recreación física. serán incorporados en el Presupuesto General de la República para ser ejecutados a través de los siguientes programas y organismos: Fondo para el Desarrollo de Infraestructura Deportiva, treinta y cinco por ciento (35%); Fondo de Promoción y Desarrollo del Deporte y Recreación Física, veinte por ciento (20%); Federaciones deportivas nacionales, el veinticinco por ciento (25%); el INJUDE, el quince por ciento (15%); el Comité Olímpico Nicaragüense, el cinco por ciento (5%).
