@@ -1,0 +1,3 @@
+# Artículo 35
+
+La revisión y chequeo técnico de las unidades destinadas a transporte escolar se efectuará semestralmente a partir de la fecha de entrada en vigencia de la presente Ley, el proceso de revisión lo realizarán los centros calificados o autorizados por el MTI o las municipalidades. Esta revisión deberá realizarse sobre el estado mecánico y técnico de las unidades dedicadas a la prestación del servicio de transporte escolar; los vehículos que no pasen satisfactoriamente el chequeo técnico quedarán suspendidos hasta que sus dueños mejoren las condiciones técnicas y pasen en óptimas condiciones el nuevo chequeo técnico.

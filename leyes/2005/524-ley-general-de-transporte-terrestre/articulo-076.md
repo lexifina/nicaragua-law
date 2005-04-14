@@ -1,0 +1,3 @@
+# Artículo 76
+
+El MTI como Ente Regulador del Transporte dictará la normativa tarifaria del servicio público de transporte colectivo terrestre de pasajeros, válida para todo el territorio nacional, tomando en cuenta el tipo de servicio, la estructura de costos, la oferta y demanda, el deslizamiento de la moneda, aumento de los precios del petróleo y su derivados, el índice de inflación, márgenes de utilidad y otros. Para tal efecto se utilizarán las fórmulas y/o procedimientos técnicos necesarios. El MTI o las municipalidades fijarán las tarifas de cada una en su ámbito y vigilarán y controlarán su cumplimiento.

@@ -1,0 +1,3 @@
+# Artículo 61
+
+Una vez obtenida la concesión, cada vehículo o unidad de transporte de pasajeros que opere bajo cualquiera de las modalidades descritas en la presente Ley, deberá obtener un Certificado de Operación, el cual será renovado anualmente, previa solicitud ante la DGTT o la oficina de transporte municipal, según el caso; cuando surjan desperfectos en los vehículos y que requieran reparaciones mayores, las autoridades competentes podrán otorgar un permiso de hasta un máximo de seis meses, sin que esto ocasione la suspensión del certificado de operación, ni afecte la concesión; todo conforme lo dispuesto por la normativa elaborada por la autoridad competente.

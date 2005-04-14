@@ -1,0 +1,25 @@
+LEY N°. 524,LEY GENERAL DE TRANSPORTE TERRESTRE
+
+Aprobada el 02 de marzo del 2005
+
+Publicado en La Gaceta, Diario Oficial N°. 72 del 14 de abril del 2005
+
+LEY No. 524
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace saber al pueblo Nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+La siguiente:
+
+LEY GENERAL DE TRANSPORTE TERRESTRE
+
+CAPITULO I
+
+DEFINICIONES Y OBJETIVOS GENERALES

@@ -1,0 +1,3 @@
+# Artículo 48
+
+Cualquier persona natural o jurídica, para explorar el servicio público de transporte de pasajeros, requerirá de una concesión otorgada por el Estado a través del MTI o las municipalidades. Las empresas o cooperativas destinadas a prestar este servicio, son de servicio público, la concesión constituye un derecho de propiedad del concesionario de la cual no podrá ser desposeído sino de conformidad con la presente Ley, la concesión puede ser gravable, transferible, enajenable y heredable. Todo gravamen o enajenación de dicha concesión debe estar debidamente registrado en el Registro Nacional de Concesiones.
