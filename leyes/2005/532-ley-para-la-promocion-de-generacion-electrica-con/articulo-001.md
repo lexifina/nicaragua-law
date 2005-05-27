@@ -1,0 +1,3 @@
+# Artículo 1
+
+OBJETO: La presente Ley tiene por objeto promover el desarrollo de nuevos proyectos de generación eléctrica con fuentes renovables y de proyectos que realicen ampliaciones a la capacidad instalada de generación con fuentes renovables y que se encuentren actualmente en operación, así como de los proyectos de generación de energía eléctrica que ocupen como fuente la biomasa y/o biogás producidos en forma sostenible, estableciendo incentivos fiscales, económicos y financieros que contribuyan a dicho desarrollo, dentro de un marco de aprovechamiento sostenible de los recursos energéticos renovables.
