@@ -1,0 +1,3 @@
+# Artículo 9
+
+La Comisión Nacional de Catastro sesionará ordinariamente al menos una vez al mes en la fecha que determine su reglamento interno, pudiendo celebrar sesiones extraordinarias cuando, las necesidades lo requieran o lo solicite cualquiera de sus miembros. La convocatoria se hará por escrito con ocho días de anticipación. Habrá quórum con la asistencia de tres de sus miembros. Los acuerdos se tomarán por mayoría de votos. La Comisión Nacional de Catastro deberá presentar en los primeros quince días del mes de Diciembre, un informe anual a la Presidencia de la República de su funcionamiento y resultados de trabajo.
