@@ -1,0 +1,9 @@
+# Artículo 42
+
+FACULTAD DEL TRIBUNAL ARBITRAL PARA DECIDIR ACERCA DE SU COMPETENCIA
+
+El tribunal arbitral está facultado para decidir acerca de su propia competencia, incluso sobre las excepciones relativas a la existencia o a la validez del acuerdo de arbitraje. A ese efecto, una cláusula arbitral que forme parte de un contrato se considerará como un acuerdo independiente de las demás estipulaciones del contrato. La decisión del tribunal arbitral de que el contrato es nulo no implicará la nulidad de la cláusula arbitral.
+
+La excepción de incompetencia del tribunal arbitral deberá oponerse a más tardar en el momento de presentar la contestación. Las partes no se verán impedidas de oponer esta excepción por el hecho de que hayan designado a un árbitro o participado en su designación. La excepción basada en que el tribunal arbitral ha excedido su mandato deberá oponerse tan pronto como se plantee, durante las actuaciones arbitrales, la materia que supuestamente exceda su mandato. El tribunal arbitral podrá, en cualquiera de los casos, estimar una excepción presentada más tarde si considera justificada la demora.
+
+El tribunal arbitral podrá decidir sobre las excepciones a que se hace referencia en el presente artículo como cuestión previa o en el laudo sobre el fondo del asunto. Si, como cuestión previa, el tribunal arbitral se declara competente, cualquiera de las partes, dentro de los quince días siguientes al recibo de la notificación de esa decisión, podrá solicitar a la Sala Civil de la Corte Suprema de Justicia, que resuelva sobre la cuestión. La Sala resolverá dentro de los quince días siguientes a la recepción de la solicitud. La resolución de este tribunal será inapelable. Mientras esté pendiente dicha solicitud, el tribunal arbitral no podrá proseguir sus actuaciones.
