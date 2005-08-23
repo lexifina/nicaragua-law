@@ -1,0 +1,3 @@
+# Artículo 2
+
+Objetivos Generales de la Política. La Política Nacional sobre la Gestión Integral de Residuos Sólidos tiene como objetivo general lograr el manejo integral de los residuos sólidos, no peligrosos y peligrosos, incorporando los aspectos técnicos, administrativos, económicos, ambientales y sociales dirigidos a evitar y minimizar la generación de los mismos, fomentando su valorización y reduciendo la cantidad de residuos destinados a disposición final, a fin de prevenir y reducir sus riesgos para la salud y el ambiente, disminuir las presiones que se ejercen sobre los recursos naturales y elevar la competitividad de los sectores productivos, en un contexto de desarrollo sustentable y de responsabilidad compartida.

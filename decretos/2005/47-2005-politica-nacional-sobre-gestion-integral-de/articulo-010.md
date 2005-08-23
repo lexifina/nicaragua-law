@@ -1,0 +1,3 @@
+# Artículo 10
+
+Instrumentos Económicos de la Política Nacional. En los plazos establecidos en el Plan de Acción y sus prioridades contenido en el documento de la Política Nacional para la Gestión Integral de los Residuos Sólidos, deberá diseñarse e implementarse instrumentos económicos efectivos con el correspondiente marco jurídico, con el objetivo de estimular el interés propio de los consumidores, productores y prestadores del servicio en lo relativo a la gestión integral de residuos sólidos; así como, que productores y consumidores internalicen los costos del manejo ambientalmente adecuado de los mismos.

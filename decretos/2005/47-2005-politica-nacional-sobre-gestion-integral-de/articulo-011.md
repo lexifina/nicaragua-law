@@ -1,0 +1,3 @@
+# Artículo 11
+
+Del Fondo para la Gestión Integral de los Residuos Sólidos. Para un efectivo cumplimiento de la Política, se promoverá la creación de un Fondo para la Gestión Integral de los Residuos Sólidos (FGIRS), que forme parte del Fondo Nacional del Ambiente; cuyo objetivo sea financiar, total o parcialmente proyectos o actividades orientados al manejo integral de los residuos sólidos. Este fondo también podrá orientarse a la ejecución de iniciativas comunitarias locales de mejoramiento ambiental en el manejo de los residuos sólidos, de capacitación y difusión destinadas a fortalecer las capacidades de acción de las comunidades.

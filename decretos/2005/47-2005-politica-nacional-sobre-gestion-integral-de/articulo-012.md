@@ -1,0 +1,3 @@
+# Artículo 12
+
+De la Coordinación Interinstitucional. A efectos de garantizar eficiencia en la ejecución de la política nacional, deberá procurarse por parte del Ministerio del Ambiente y de los Recursos Naturales y las instituciones involucradas en el manejo integral de los residuos sólidos, estrechas coordinaciones, fomentando la suscripción de Acuerdos o Convenios entre éstas, o con entidades especializadas en el sector de residuos sólidos, sean naturales o jurídicas, públicas o privadas, nacionales o extranjeras, priorizando la capacitación del personal técnico y administrativo vinculado al manejo de los residuos sólidos.
