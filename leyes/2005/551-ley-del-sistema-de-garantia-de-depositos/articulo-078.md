@@ -1,0 +1,15 @@
+# Artículo 78
+
+La liquidación de una entidad financiera debe quedar concluida en un plazo no mayor de un año. A solicitud del liquidador, este plazo podrá ser prorrogado por el Presidente del FOGADE, o por el Consejo Directivo en su caso, por una sola vez y hasta por un año adicional. No obstante lo anterior, concluido el plazo de liquidación y su prórroga, si la hubiere, y mientras se resuelva la cesación de la existencia jurídica de la entidad, el liquidador deberá continuar ejecutando los actos jurídicos que hayan quedado pendientes, o le corresponda ejecutar por mandato de la Ley en su carácter de representante legal de la entidad en liquidación. Los poderes otorgados por el liquidador cualquiera sea su clase, conservarán su validez mientras subsista la existencia jurídica de la entidad en liquidación.
+
+Cumplido el trámite establecido, enajenados todos los activos de la liquidación, o distribuido el remanente del activo a los accionistas, en su caso, el liquidador presentará informe final debidamente auditado sobre el estado de la liquidación al Presidente del FOGADE o al Consejo Directivo en su caso, para su aprobación. De previo a este trámite, el Presidente del FOGADE o el Consejo Directivo podrá solicitar al liquidador todas las aclaraciones, adiciones o correcciones que estime necesarias. Una vez aprobado dicho informe, el Presidente del FOGADE o el Consejo Directivo, en su caso, deberá dictar una resolución en la que se declare concluido el estado de liquidación y el cese de la existencia legal de la entidad. Esta Resolución surtirá sus efectos una vez que la certificación protocolizada de la misma se inscriba en el Registro Público Mercantil competente, con lo que el liquidador cesará en sus funciones.
+
+En caso de que no se apruebe el informe a que se refiere el párrafo anterior, corresponde al Presidente del FOGADE, o al Consejo Directivo, en su caso, realizar las actuaciones pertinentes para concluir el estado de liquidación y el cese de la existencia legal de la institución, así como intentar las acciones necesarias, con el fin de que se establezcan las responsabilidades del liquidador y se apliquen las sanciones que sean procedentes.
+
+Si al concluir el plazo de la liquidación existieren activos que el liquidador no hubiere podido vender, y tampoco hubieren sido aceptadas en pago por los acreedores ni por los accionistas, el liquidador los deberá transferir en propiedad al Estado. Estos traspasos se considerarán perfeccionados con solo la suscripción de un convenio, sin perjuicio que con posterioridad se confeccionen los respectivos instrumentos legales que correspondan según el caso. Estas transferencias serán inatacables.
+
+Las transferencias de activos que se realicen en esta etapa estarán exentas de todos los impuestos, aranceles, timbres, tasas y de todos los tributos o derechos similares tanto nacionales como municipales.
+
+Procederán a favor de la Unidad de Gestión y Liquidación de Activos los privilegios bancarios que le fueron aplicables conforme a lo indicado en el Capitulo VII de la Ley General de Bancos.
+
+Normas complementarias.
