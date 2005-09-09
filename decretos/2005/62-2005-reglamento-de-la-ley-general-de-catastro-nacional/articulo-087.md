@@ -1,0 +1,3 @@
+# Artículo 87
+
+Si el interesado no ha hecho uso del Certificado Catastral o la Constancia Catastral Municipal, podrá ser revalidado dentro de los quince (15) días hábiles después de su caducidad, siempre que presente ante la instancia correspondiente los ejemplares originales que señalan los literales a) y c) del artículo 42 de la Ley. La revalidación se manifestará mediante sello que contendrá los datos que estime oportuno la Dirección General de Catastro Físico y cuando sea pertinente por la Alcaldía Municipal correspondiente y será firmado por el servidor público competente. El Certificado Catastral sólo podrá ser revalidado una vez, por un período de sesenta (60) días hábiles.

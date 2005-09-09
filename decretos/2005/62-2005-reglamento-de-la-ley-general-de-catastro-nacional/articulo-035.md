@@ -1,0 +1,3 @@
+# Artículo 35
+
+El Avalúo Catastral de parcelas o predios urbanos se realizará, previo a la investigación de los datos relativos al uso de cada uno de ellos, de acuerdo a su ubicación, infraestructura, servicios, entorno urbano y, si lo hubiere el factor de riesgo. Así mismo se recabará la información sobre la última transacción de compra-venta realizada sobre la zona o calle en que se desee determinar su valor, ya sea que se revisen los valores de operación consignados en las notas de pagos del Impuesto de Bienes Inmuebles (IBI) y el Impuesto sobre la Renta (IR), o analizando el comportamiento del mercado inmobiliario.

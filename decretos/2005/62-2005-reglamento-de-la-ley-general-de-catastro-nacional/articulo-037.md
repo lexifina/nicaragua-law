@@ -1,0 +1,3 @@
+# Artículo 37
+
+Para la determinación de valores aplicables a las edificaciones o construcciones, se tomarán como base los distintos materiales utilizados en techos, muros, pisos, acabados interiores y exteriores, equipamiento y uso de la construcción entre otros. Conforme estos elementos y la zona en que se ubican, se le determinan un valor por metro cuadrado (m2) y se les clasifica de acuerdo a las tablas de valores aprobadas por la Comisión Nacional de Catastro. Cuando se trate de silos y tanques de almacenamientos, la unidad de medida empleada será el metro cúbico (m3); en conformidad con lo establecido en el numeral 17 del articulo 13 y numeral 6 del artículo 18 de la Ley.
