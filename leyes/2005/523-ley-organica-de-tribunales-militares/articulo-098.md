@@ -1,0 +1,3 @@
+# Artículo 98
+
+Los Jefes de los Tipos de Fuerza del Ejército; los Jefes de Unidades Militares Territoriales; los Jefes de Unidades, con atribuciones sobre un territorio y los Jefes que ejerzan jefatura o dirección de organismos o centros, tan pronto tengan conocimiento de la comisión de un delito de la competencia de la jurisdicción militar, perpetrado por un subordinado o cometido en el lugar o demarcación de sus atribuciones, deberán ponerlo de inmediato a la orden del Fiscal Militar competente; mientras éste no se presente, designará un oficial a sus órdenes, asistido por Secretario, para que incoe el correspondiente atestado, todo sin perjuicio de las facultades disciplinarias que pueda ejercer.

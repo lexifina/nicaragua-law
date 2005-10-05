@@ -1,0 +1,3 @@
+# Artículo 102
+
+En un plazo de sesenta días, contados a partir de publicada esta Ley, las actuales Auditorías Militares, Jueces y Fiscales Militares, remitirán a los órganos judiciales militares que se organicen y resulten competentes con arreglo a esta Ley, todos los procedimientos judiciales bajo su conocimiento, cualquiera que sea su estado procesal, incluso en su estado de ejecución, y si tuviere señalada vista, ésta se suspenderá. De igual forma actuarán en su caso, los órganos judiciales ordinarios que estén conociendo procedimientos que sean de la competencia de la jurisdicción militar.
