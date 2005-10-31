@@ -1,0 +1,21 @@
+LEY Nº. 557, LEY QUE DECLARA EL DÍA 23 DE AGOSTO COMO EL DÍA NACIONAL DE LA ALFABETIZACIÓN
+
+Aprobada el 13 de octubre de 2005
+
+Publicada en La Gaceta, Diario Oficial N°. 210 del 31 de octubre de 2005
+
+LEY No. 557
+
+EL PRESIDENTE DE LA REPUBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPUBLICA DE NICARAGUA
+
+En uso de sus facultades:
+
+HA DICTADO
+
+La siguiente:
+
+LEY QUE DECLARA EL DIA 23 DE AGOSTO COMO EL DIA NACIONAL DE LA ALFABETIZACION
