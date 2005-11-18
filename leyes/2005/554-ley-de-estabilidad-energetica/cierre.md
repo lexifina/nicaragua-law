@@ -1,0 +1,7 @@
+Dada en la ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional, a los tres días del mes de noviembre del año dos mil cinco. RENE NUÑEZ TELLEZ, Presidente de la Asamblea Nacional.- MARIA AUXILIADORA ALEMAN ZEAS, Secretaria de la Asamblea Nacional.
+
+Por tanto: Téngase como Ley de la República. Publíquese y Ejecútese. Managua, diecisiete de noviembre del año dos mil cinco. Enrique Bolaños Geyer, Presidente de la República de Nicaragua.
+
+Observación: El Texto Consolidado de la Ley Nº. 554, Ley de Estabilidad Energética, fue aprobado y publicado en la Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero.
+
+.
