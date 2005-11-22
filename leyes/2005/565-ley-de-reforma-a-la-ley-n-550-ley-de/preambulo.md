@@ -1,0 +1,21 @@
+LEY N°. 565, LEY DE REFORMA A LA LEY N°. 550, LEY DE ADMINISTRACIÓN FINANCIERA Y DEL RÉGIMEN PRESUPUESTARIO
+
+Aprobada el 17 de noviembre del 2005
+
+Publicada en La Gaceta, Diario Oficial N°. 226 del 22 de noviembre del 2005
+
+LEY No. 565
+
+EL PRESIDENTE DE LA REPUBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+La siguiente:
+
+LEY DE REFORMA A LA LEY No. 550, LEY DE ADMINISTRACIÓN FINANCIERA Y DEL RÉGIMEN PRESUPUESTARIO
