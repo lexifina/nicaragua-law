@@ -1,0 +1,7 @@
+# Artículo 33
+
+La Junta Directiva podrá nombrar uno o varios gerentes o ejecutivo principal, sean o no accionistas, quienes deberán llenar los requisitos establecidos en los artículos 28 y 29 de la presente Ley en lo que les fuere aplicable. Dichos gerentes o ejecutivo principal tendrán las facultades que expresamente se les confieran en el nombramiento o en el poder que se les otorgue. No necesitarán de autorización especial de la Junta Directiva, para cada acto que ejecuten en el cumplimiento de las funciones que se les haya asignado y tendrán para la realización de las mismas, la representación legal del banco con amplias facultades ejecutivas. Sin perjuicio de lo dispuesto en este párrafo, la representación judicial y extrajudicial de los bancos corresponderá al presidente de su Junta Directiva.
+
+La Junta Directiva de los bancos deberá requerir del gerente general de la institución respectiva o de quien haga sus veces, que le informe, en cada sesión ordinaria, de todos los créditos y garantías que a partir de la sesión precedente, se hubiere otorgado a cada el cliente, así como las inversiones efectuadas, cuando en uno u otro caso se exceda el límite establecido legalmente. Asimismo, dicho funcionario deberá informar a la Junta Directiva, al menos trimestralmente, sobre la evolución financiera de la institución. Todo lo anterior deberá quedar recogido en el acta respectiva.
+
+Prohibición a los Directores en caso de Conflictos de Intereses
