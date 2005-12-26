@@ -1,0 +1,21 @@
+LEY Nº. 572, LEY DE REFORMA A LA LEY Nº. 355, LEY CREADORA DEL FONDO DE MANTENIMIENTO VIAL, FOMAV
+
+Aprobada el 13 de diciembre del 2005
+
+Publicada en La Gaceta, Diario Oficial N°. 249 del 26 de diciembre del 2005
+
+LEY No. 572
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+La siguiente:
+
+LEY DE REFORMA A LA LEY No. 355, LEY CREADORA DEL FONDO DE MANTENIMIENTO VIAL, FOMAV
