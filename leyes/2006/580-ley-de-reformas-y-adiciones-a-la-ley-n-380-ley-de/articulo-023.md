@@ -1,0 +1,5 @@
+# Artículo 23
+
+Se reforma el artículo 144, el que se leerá así:
+
+“Arto. 144.- Garantías y Condiciones en caso de Medidas Cautelares. Una medida cautelar sólo se ordenará cuando quien la pida acredite su capacidad para actuar, en representación de terceros, en su caso, de acuerdo con el Código de Procedimiento Civil, y presente las pruebas razonablemente disponibles, con el fin de establecer a satisfacción de la autoridad judicial, con un grado suficiente de certidumbre, que el derecho del demandante es objeto o va a ser objeto inminentemente de infracción. La medida no se ordenara si quien la pide no diera caución o garantía suficiente a criterio del juez. Dicha garantía deberá ser razonable y a un nivel que sea suficiente para establecer un monto que disuada de manera irrazonable el poder recurrir a dichos procedimientos. Quien pida una medida cautelar respecto de mercancías determinadas deberá dar la información suficiente de las mercancías que razonablemente sea de conocimiento del titular de derecho de modo que éstas puedan ser reconocidas con facilidad.”
