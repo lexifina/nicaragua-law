@@ -1,0 +1,3 @@
+# Artículo 10
+
+El Ministerio del Ambiente y de los Recursos Naturales (MARENA) y el Ministerio de Fomento, Industria y Comercio (MIFIC) determinarán el punto focal institucional sobre el tema de conformidad a sus competencias establecida en la Ley, debiendo además coordinar con otras instituciones competentes, incluyendo las Unidades de Gestión Ambiental y los Gobiernos Regionales y Municipales, la implementación de metas comunes y articuladas, derivadas de otras políticas nacionales vigente, así como, los procesos de seguimiento, control y evaluación periódica de la Política de Producción Más Limpia.
