@@ -1,0 +1,3 @@
+# Artículo 5
+
+Las convocatorias a las sesiones las hará el presidente a través del secretario, debiendo hacerse por los medios más expeditos posibles como telegramas, radio comunicadores u otros medios semejantes dejándose constancia de las diligencias en archivo, para lo cual se apoyará de las delegaciones del Gobierno Regional en cada sector, de las autoridades territoriales e instituciones estatales y locales, dotándose para ello de equipos técnicos logísticos necesarios para la efectiva comunicación con los miembros de la CONADETI. La convocatoria se realizará al menos con quince días de anticipación.
