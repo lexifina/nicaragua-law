@@ -1,0 +1,3 @@
+# Artículo 41
+
+El Subsistema Educativo Autonómico Regional (SEAR): Es el modelo de educación para las Regiones Autónomas de la Costa Caribe Nicaragüense. Es un modelo educativo participativo, el cual se gestiona de manera descentralizada y autónoma y que responde a las realidades, necesidades, anhelo y prioridades educativas de su población multiétnica, multilingüe y pluricultural. Este subsistema, como parte integral de la misión y visión educativa nacional, se orienta hacia la formación integral de niños y niñas, jóvenes y adultos, hombres y mujeres de la Costa del Caribe en todos los niveles del sistema educativo, así como hacia el respeto, rescate y fortalecimiento de sus diversas identidades étnicas, culturales y lingüísticas.

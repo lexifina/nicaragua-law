@@ -1,0 +1,3 @@
+# Artículo 82
+
+Los Centros o Instituto de Estudios e Investigación, responderán a las necesidades profesionales, científicas, sociales y económicas de interés general para la nación, sin pretender sustituir en ningún caso aquellas instituciones de educación superior o universidades que conforme a la normativa vigente también tienen la facultad de extender título propios, los estudios de los Centros o Institutos de Estudios e Investigación consistirán en estudios de actualización, postgrados, especialización, maestrías o doctorados, cuyo certificados, diplomas, títulos de especialista, maestría y doctorado, gozarán del pleno reconocimiento legal nacional e internacional.
