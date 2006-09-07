@@ -1,0 +1,19 @@
+LEY N°. 123, LEY CREADORA DE LA ORDEN GENERAL JOSÉ DOLORES ESTRADA, BATALLA DE SAN JACINTO
+
+Aprobada el 20 de febrero de 1991
+
+Publicada en La Gaceta, Diario Oficial N°. 175 del 07 de septiembre de 2006
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA,
+
+En uso de sus facultades,
+
+HA DICTADO:
+
+La siguiente:
+
+“LEY CREADORA DE LA ORDEN GENERAL JOSÉ DOLORES ESTRADA, BATALLA DE SAN JACINTO”
