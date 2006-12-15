@@ -1,0 +1,3 @@
+# Artículo 168
+
+Masa de Bienes. Los valores depositados en las entidades de custodia no formarán parte de la masa de bienes en casos de quiebra o insolvencia de las mismas. Tampoco formarán parte de la masa de bienes en casos de quiebra o insolvencia del depositante, cuando los títulos hayan sido depositados por cuenta de terceros.

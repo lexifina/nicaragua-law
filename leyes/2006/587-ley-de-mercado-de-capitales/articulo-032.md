@@ -1,0 +1,5 @@
+# Artículo 32
+
+Requisitos de las Transacciones. Con el fin de garantizar la transparencia en la formación de los precios, las transacciones de valores en los mercados secundarios organizados deberán cumplir con los requisitos mínimos de difusión, frecuencia y volumen de operaciones que por norma general determine el Consejo Directivo de la Superintendencia. El Superintendente podrá, de oficio o a solicitud del respectivo emisor, acordar excluir a una empresa de su participación en el mercado secundario organizado cuando incumpla con tales requisitos. En estos casos, el Superintendente podrá adoptar las medidas necesarias para proteger los intereses de los accionistas minoritarios, incluso condicionar la exclusión a que el emisor realice una oferta pública de adquisición en los término de esta Ley.
+
+De igual forma, cuando existan condiciones desordenadas u operaciones no conformes con los sanos usos o prácticas del mercado, el Superintendente podrá suspender temporalmente la negociación de valores.

@@ -1,0 +1,29 @@
+LEY N°. 587, LEY DE MERCADO DE CAPITALES
+
+Aprobada el 26 de octubre de 2006
+
+Publicada en La Gaceta, Diario Oficial N°. 222 del 15 de noviembre de 2006
+
+LEY No. 587
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+Hace saber al pueblo nicaragüense que:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades;
+
+HA DICTADO
+
+La siguiente:
+
+LEY DE MERCADO DE CAPITALES
+
+TÍTULO I
+
+REGULACIÓN Y SUPERVISIÓN DE LOS MERCADOS DE VALORES
+
+CAPÍTULO I
+
+DISPOSICIONES GENERALES

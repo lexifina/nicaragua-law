@@ -1,0 +1,7 @@
+# Artículo 7
+
+Inscripción. Todas las personas naturales o jurídicas que participen directa o indirectamente en los mercados de valores, excepto los inversionistas, así como los actos y contratos referentes a estos mercados y las emisiones de valores de las cuales se vaya a realizar oferta pública, deberán inscribirse en el Registro de Valores de la Superintendencia, conforme a las normas generales que dicte al efecto su Consejo Directivo. La información contenida en el Registro será de carácter público. No obstante los inversionistas que tengan participación accionaria significativa, conforme a lo establecido en la Ley 314, Ley General de Bancos, Instituciones Financieras no Bancarias y Grupos Financieros publicada en La Gaceta, Diario Oficial Nos. 198, 199 y 200 del 18, 19 y 20 de octubre de 1999 respectivamente, deberán comunicarlo de inmediato al Superintendente de Bancos y otras Instituciones Financieras, que en lo sucesivo de este cuerpo legal se denominará el Superintendente.
+
+El Consejo Directivo de la Superintendencia normará la organización y el funcionamiento del Registro, así como el tipo de información que considere necesaria para este Registro y la actualización, todo para garantizar la transparencia del mercado y la protección del inversionista.
+
+El Superintendente deberá velar porque la información contenida en ese Registro sea suficiente, actualizada y oportuna, de manera que el público inversionista pueda tomar decisiones fundadas en materia de inversión.
