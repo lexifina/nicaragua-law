@@ -1,0 +1,3 @@
+# Artículo 13
+
+Traspaso de Bienes Inmuebles. Para los efectos del traspaso, sin solución de continuidad, a favor de la Empresa Nacional de Transmisión Eléctrica, ENATREL, en lo que hace los bienes y derechos inscritos en los Registros Públicos a favor de la Empresa Nicaragüense de Electricidad, ENEL, o de las entidades de que ésta es sucesora, por Ministerio de la presente ley, se deberán transferir a la Empresa objeto de ésta y libre de pago de los aranceles registrales, mediante nota puesta al margen del asiento respectivo, haciéndose mención de esta Ley; únicamente bastará la solicitud que para tal efecto presente cualquier apoderado legal de la Empresa.
