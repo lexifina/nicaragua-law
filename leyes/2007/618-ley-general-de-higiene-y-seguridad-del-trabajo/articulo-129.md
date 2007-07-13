@@ -1,0 +1,3 @@
+# Artículo 129
+
+El Ministerio del Trabajo en uso de sus facultades de protección a la salud de los trabajadores, dictará para las sustancias químicas que se detecten en los diferentes centros de trabajo, los valores límites de exposición del trabajador. Estos valores se establecerán de acuerdo a criterios internacionales y a las investigaciones nacionales que se realizan en esta materia. Se faculta a la Dirección General de Higiene y Seguridad del Trabajo, para tomar como referencia en sus inspecciones los valores THRESHOLD LIMIT VALUES (T.L.V.) de la American Conference Of Governmental Industrial Hygienists (A.C.G.I.H.).
