@@ -1,0 +1,3 @@
+# Artículo 97
+
+De conformidad con el arto. 146 de la ley se entenderá con validez jurídica, a toda cooperativa que teniendo su personalidad jurídica, se encuentre activa y debidamente inscrita en el Registro Nacional de Cooperativas del Ministerio del Trabajo. Para estar en pleno goce de sus derechos y hacer uso de las prerrogativas que otorga la Ley, las cooperativas deberán presentarse al Registro Nacional de Cooperativas de la DIGECOOP con la documentación que dispongan, para demostrar su existencia jurídica e iniciar su proceso de actualización y adecuación. Para facilitar la realización de este trámite, recibirán asesoría y asistencia por parte de la Autoridad de Aplicación de la ley del Ministerio del Trabajo.
