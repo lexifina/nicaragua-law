@@ -1,0 +1,3 @@
+# Artículo 31
+
+Los centros de trabajos deberán remitir al MITRAB, en un plazo no mayor a 15 días después de haber concluido los resultados del estudio practicado a la estructura del terreno o suelo indicando las acciones de intervención previstas durante la realización de las excavaciones en el lugar de la obra. Cumpliendo con las regulaciones contenidas en los procedimientos y requisitos establecidos en la Normativa Ministerial referente a las medidas Básicas de Higiene y Seguridad que deben de adoptar las empresas y firmas Constructoras que realizan excavaciones a cielo abierto (Gaceta No. 173 de septiembre del 2001) y de la Resolución Ministerial Aplicable a la Construcción (Gaceta No. 124 del 30 de Julio del 2000 y No. 125 del 1 de Julio del 2000).
