@@ -1,0 +1,3 @@
+# Artículo 70
+
+Incapacidad Sobreviniente del Acusado. El estado sobreviniente de alteración psíquica, de perturbación o alteración de la percepción del acusado, que impida su participación en el proceso provocará su suspensión hasta que desaparezca esa incapacidad. Sin embargo, no impedirá la investigación del hecho ni la continuación del proceso respecto de otros acusados. La incapacidad sólo podrá ser declarada con fundamento en dictamen de médico forense rendido en audiencia pública ante el Juez Militar, con participación de las partes y, de ser el caso, se decretará la medida cautelar que corresponda.

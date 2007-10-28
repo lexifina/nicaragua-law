@@ -1,0 +1,3 @@
+# Artículo 92
+
+Peritación Médico Legal. Cuando para esclarecer un delito o falta penal militar cometido en cualquier parte del territorio nacional sea necesaria o conveniente la práctica de exámenes, diagnósticos, dictámenes o informes periciales médicos, tanto tanatológicos como clínicos y de laboratorio, para conocer o apreciar un elemento de convicción, la Policía Nacional, la Fiscalía Militar y la defensa a través del Fiscal o del Juez Militar, podrán solicitar, según proceda, la intervención del Instituto de Medicina Legal o de cualquier miembro del Sistema Nacional Forense, para que exprese su opinión sobre el punto en cuestión.
