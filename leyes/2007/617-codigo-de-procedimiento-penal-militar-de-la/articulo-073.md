@@ -1,0 +1,3 @@
+# Artículo 73
+
+Ejercicio. Pueden ser defensores los abogados en el ejercicio libre de su profesión, los militares que sean abogados y no se encuentren ligados a la estructura de la jurisdicción militar, los defensores públicos, los egresados y los pasantes de derecho que hayan aprobado las materias penales y procesales. Estos últimos deberán estar bajo la dirección de las facultades de derecho de las universidades respectivas o de sus Bufetes Jurídicos. Durante las audiencias y la tramitación del juicio oral y público, los egresados y estudiantes de derecho deberán contar con la asesoría de un abogado.

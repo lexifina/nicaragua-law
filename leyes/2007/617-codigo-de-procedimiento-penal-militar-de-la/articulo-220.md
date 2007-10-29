@@ -1,0 +1,3 @@
+# Artículo 220
+
+Investigación Corporal. Siempre que sea razonable y no ponga en peligro la vida o la salud, se podrá proceder, previa autorización judicial debidamente motivada, a la investigación corporal, a practicar exámenes de fluidos biológicos y otras intervenciones corporales, las que se efectuarán siguiendo procedimientos técnicos o científicos por expertos del Instituto de Medicina Legal, del Sistema Nacional Forense o, en su defecto, por personal paramédico. Sólo se procederá a practicar exámenes de fluidos biológicos en la investigación de hechos delictivos que hayan podido ser causados por el consumo de cualquier sustancia que pueda alterar el comportamiento humano.
