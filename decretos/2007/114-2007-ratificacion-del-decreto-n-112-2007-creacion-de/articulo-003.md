@@ -1,0 +1,5 @@
+# Artículo 3
+
+Se crea el Gabinete Nacional del Poder Ciudadano integrado por los Consejos de Poder Ciudadano a través de un representante de cada uno de los dieciséis sectores establecidos en el artículo anterior de cada uno de los quince departamentos y dos Regiones Autónomas existentes en el país; es decir, este Gabinete Nacional compuesto por 272 personas estará integrado por dieciséis personas de cada uno de los quinces departamentos y las dos Regiones Autónomas del país, en representación de cada uno de los dieciséis sectores, más el Presidente de la República que lo presidirá y la Coordinadora de la Secretaría de Comunicación y Ciudadanía del Gobierno de la República, los Ministros de Estado, Presidentes de entes Autónomos y Gubernamentales, Autoridades de la Policía Nacional, la Junta de Directores del CONPES, y demás funcionarios gubernamentales que determine el Presidente de la República.
+
+También podrán formar parte del mismo, representantes de los distintos sectores económicos y sociales del país que soliciten su participación y que la misma sea aprobada por dicho Gabinete.
