@@ -1,0 +1,3 @@
+# Artículo 80
+
+En las resoluciones de la OAIP que nieguen el acceso a la información o determinen que los expedientes, archivos o documentos contienen partes o secciones reservadas o privadas, se deberá fundar y motivar la clasificación correspondiente e indicarle al solicitante que puede interponer el recurso de apelación ya sea ante la Coordinación de Acceso a la Información correspondiente, proporcionándole el formato respectivo o vía electrónica a través del sitio de Internet; o bien seguir el proceso de la jurisdicción contencioso administrativo ante la Sala de lo Contencioso Administrativo de la Corte Suprema de Justicia.

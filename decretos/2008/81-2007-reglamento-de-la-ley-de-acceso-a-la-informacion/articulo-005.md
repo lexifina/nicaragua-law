@@ -1,0 +1,3 @@
+# Artículo 5
+
+Las entidades obligadas deberán adecuar un espacio físico apropiado para asegurar el funcionamiento de la OAIP y designar el personal necesario para atender y orientar al público en materia de acceso a la información y cumplir con las funciones y acciones inherentes a ella. Asimismo, deberán contar con los recursos tecnológicos necesarios (equipos informáticos, de reproducción, digitalización e Internet) para garantizar la divulgación y acceso a la información, la recepción de las solicitudes y suministro de información a las personas que la demanden tanto en soporte físico como electrónico.

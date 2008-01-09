@@ -1,0 +1,3 @@
+# Artículo 53
+
+La Coordinación de Acceso a la Información correspondiente, establecerá los lineamientos que contengan los criterios técnicos para la clasificación, desclasificación y custodia de la información reservada y privada. La OAIP podrá establecer criterios específicos cuando la naturaleza o especialidad de la información o de la oficina lo requieran, siempre que se justifique y no se contravengan los lineamientos expedidos por La Coordinación de Acceso a la Información. Dichos criterios y su justificación deberán publicarse en el sitio de Internet de las entidades obligadas, dentro de los 10 días hábiles siguientes a que se emitan o modifiquen.

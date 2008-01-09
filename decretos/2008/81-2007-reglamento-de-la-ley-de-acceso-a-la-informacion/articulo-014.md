@@ -1,0 +1,3 @@
+# Artículo 14
+
+La Coordinación de Acceso a la Información Pública, dependerá jerárquicamente de la máxima autoridad de cada Poder del Estado, Gobiernos Regionales y Gobiernos Municipales, según sea el caso. Para efectos de sus resoluciones, adoptará sus decisiones con plena independencia. Contará con los recursos humanos y materiales necesarios para el desempeño de sus funciones. Para ello, deberá adecuar un espacio físico y contar con personal para atender y orientar al público en materia de acceso a la información. Asimismo, deberán contar con los recursos necesarios (equipos informáticos, de reproducción e Internet) para garantizar la divulgación de la información, la recepción de los recursos de apelación y su tramitación.
