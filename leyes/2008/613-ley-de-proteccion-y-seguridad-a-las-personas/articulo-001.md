@@ -1,0 +1,3 @@
+# Artículo 1
+
+El objeto de la presente ley, consiste en proteger la vida, la seguridad, higiene y salud ocupacional de los trabajadores que se dedican a las actividades del buceo que se realizan en aguas nicaragüenses, aplicándose los procedimientos establecidos en esta Ley, la Ley de Pesca, el Código del Trabajo, la Ley de Seguridad Social, la Ley General de Salud, la Ley del Transporte Acuático, las Resoluciones y los Convenios Internacionales; así como otras Leyes y Normativas, siendo de ineludible cumplimiento para todos los empleadores, nacionales o extranjeros, sub contratistas, radicados o instalados en el país y trabajadores.

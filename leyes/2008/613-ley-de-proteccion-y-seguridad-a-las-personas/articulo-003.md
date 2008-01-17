@@ -1,0 +1,3 @@
+# Artículo 3
+
+Todo empleador que se dedique a la actividad de la pesca comercial por buceo, está obligado por mandato de esta Ley a garantizar las condiciones de seguridad ocupacional de sus trabajadores y de su propia embarcación, evitando sobrecargar su capacidad. Para tal fin el empleador llevará a cabo la regulación y control, lo cual será supervisado por los organismos competentes Ministerio del Trabajo, Fuerza Naval del Ejército de Nicaragua, Ministerio de Salud, Ministerio del Ambiente y de los Recursos Naturales, Ministerio de Transporte e Infraestructura, Instituto Nicaragüense de Seguridad Social, Dirección General de Transporte Acuático del Ministerio de Transporte e Infraestructura y el Instituto Nicaragüense de la Pesca y Acuicultura (INPESCA).

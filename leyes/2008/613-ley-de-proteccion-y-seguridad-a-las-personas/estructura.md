@@ -1,0 +1,3 @@
+- TÍTULO I (antes del artículo 1)
+- DISPOSICIONES GENERALES (antes del artículo 1)
+- TÍTULO II (antes del artículo 25)

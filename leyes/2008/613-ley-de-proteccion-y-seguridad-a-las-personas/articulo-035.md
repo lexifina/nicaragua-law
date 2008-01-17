@@ -1,0 +1,3 @@
+# Artículo 35
+
+Solamente se podrá efectuar una inmersión continuada o sucesiva al día, debiendo transcurrir desde ésta a la primera de la siguiente jornada, al menos doce horas. La suma del tiempo bajo el agua de la segunda inmersión y de la primera, no debe superar los límites de tiempo de exposición máxima en medio hiperbárico establecidos por jornada laboral y de acuerdo a las Tablas II (Tabla de Descompresión Normal con Aire), III (Límites Sin Descompresión y Tabla de Grupos de Inmersión Sucesiva desde Inmersiones Sin Descompresión con Aire), IV (Tabla de Grupos de Inmersión Sucesiva al Final del Intervalo en Superficie) y V (Tabla de Tiempos de Nitrógeno Residual) del Anexo I de la presente Ley.
