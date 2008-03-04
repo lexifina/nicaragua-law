@@ -1,0 +1,3 @@
+# Artículo 37
+
+Se crea el Registro Público Nacional de los Derechos de Agua (RNDA), como instancia distinta de la Autoridad Nacional del Agua (ANA), pero con dependencia económica y administrativa de la misma, en el que deberán inscribirse los títulos de concesión, autorización, licencias, asignación para el acceso del uso de las aguas y los permisos para el vertido de aguas residuales. También se inscribirán las prórrogas de los mismos, su suspensión, terminación y demás actos y contratos relativos a la transmisión total o parcial de su titularidad, o cualquier modificación o rectificación de los títulos o permisos registrados. Esto se sujetará a las disposiciones que establezca el Reglamento de esta Ley.

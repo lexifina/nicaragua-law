@@ -1,0 +1,5 @@
+# Artículo 148
+
+El uso o aprovechamiento de las aguas de las Lagunas Cratéricas existentes en el país, se sujeta a las disposiciones contenidas en la Norma Técnica Obligatoria Nicaragüense, NTON 05 002-99, “Norma para el control ambiental de las Lagunas Cratéricas”, la cual establece las especificaciones técnicas para la protección y conservación de estas Lagunas y la calidad natural de sus aguas, publicada en La Gaceta, Diario Oficial Número 153, del 15 de agosto del 2000.
+
+La Autoridad Nacional del Agua (ANA), previo dictamen técnico del Ministerio del Ambiente y de los Recursos Naturales, MARENA, y en coordinación con los Gobiernos Municipales del lugar, podrá restringir, modificar, suspender y cancelar cualquier permiso otorgado para el uso o aprovechamiento de estas aguas, siempre y cuando se compruebe la existencia de contaminación, cambios en el uso de los suelos o exista la posibilidad de desastres naturales que pongan en peligro la vida de las personas y el ecosistema en general.

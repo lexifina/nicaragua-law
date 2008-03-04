@@ -1,0 +1,3 @@
+# Artículo 96
+
+Es de interés social asegurar la calidad de los cuerpos de aguas nacionales, a través de la promoción y ejecución de las medidas y acciones necesarias para su debida y permanente protección y conservación. Se prohíbe la tala o corte de árboles o plantas de cualquier especie, que se encuentren dentro de un área de doscientos metros a partir de las riberas de los ríos y costas de lagos y lagunas a fin de proteger el recurso hídrico existente, sin perjuicio de lo establecido en el Arto. 57 de la Ley No. 559, “Ley especial de Delitos contra el Medio Ambiente y los Recursos Naturales”, del 21 de noviembre del 2005.

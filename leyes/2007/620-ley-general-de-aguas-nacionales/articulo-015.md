@@ -1,0 +1,3 @@
+# Artículo 15
+
+La planificación hídrica y otros instrumentos de planificación, considerada también como instrumento de gestión, son de carácter obligatorio por ser fundamental para la más eficaz, productiva y racional gestión del agua, la conservación de los recursos naturales y del medio ambiente. Esta deberá precisar los objetivos nacionales, regionales y locales de la Política Nacional de los Recursos Hídricos, las prioridades para el uso y aprovechamiento de las aguas nacionales, así como, la conservación de su cantidad y calidad, los responsables de su ejecución, el origen y destino de los recursos requeridos.

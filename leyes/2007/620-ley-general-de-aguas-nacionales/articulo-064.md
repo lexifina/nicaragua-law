@@ -1,0 +1,3 @@
+# Artículo 64
+
+Para la ejecución de proyectos de obras de almacenamiento y derivación de aguas y descarga de aguas residuales, se requiere del previo dictamen técnico de la Autoridad Nacional del Agua o consejos regionales autónomos o del municipio, cuando haya sido delegado y en coordinación con MARENA, así mismo, los proyectos de construcción, reposición, relocalización, profundización o cambio de capacidad o de instrumentos de medición y equipamiento de los pozos existentes o en su defecto, de cualquier otra obra construida o por construir que se utilice o se vaya a utilizar para el uso o aprovechamiento de las aguas nacionales.
