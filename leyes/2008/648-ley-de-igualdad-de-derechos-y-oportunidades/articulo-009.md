@@ -1,0 +1,3 @@
+# Artículo 9
+
+Para hacer efectivo lo dispuesto en el artículo anterior, los Poderes del Estado, sus órganos de administración a nivel nacional, los Gobiernos de las Regiones Autónomas de la Costa Atlántica, las municipalidades y las instituciones de creación constitucional promoverán las medidas necesarias, en el marco de la ley de la materia, para establecer un porcentaje proporcional entre mujeres y hombres para los cargos de elección nacional, regional, municipal y del Parlamento Centroamericano, así como en la integración de instancias de toma de decisiones de la administración pública y de los Gobiernos Regionales y Municipales.

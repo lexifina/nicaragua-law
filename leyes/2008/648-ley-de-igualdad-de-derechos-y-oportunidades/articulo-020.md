@@ -1,0 +1,5 @@
+# Artículo 20
+
+La institución estatal competente en materia de derecho laboral, definirá y ejecutará la política pública con enfoque de género, dirigida a prevenir el acoso, chantaje o cualquier tipo de agresión sexual en la relación laboral, sin perjuicio de las penas que de estos hechos se derive. Igualmente fomentará el establecimiento de disposiciones semejantes en los Gobiernos Regionales y Municipales.
+
+En las ocupaciones donde se compruebe que las mujeres reciben menor salario o beneficios laborales que los hombres, por iguales responsabilidades y calificaciones, el Ministerio del Trabajo tomará las providencias que garanticen la inmediata nivelación salarial o el trato igualitario en la aplicación de los beneficios laborales que correspondan. En caso de incumplimiento de las medidas correctivas dictadas o que como consecuencia de la imposición de tales medidas se provoque el despido o cualquier otro tipo de trato injusto o discriminatorio contra la mujer, la autoridad competente deberá imponer y aplicar las sanciones correspondientes que contra estos hechos establece nuestra legislación vigente.
