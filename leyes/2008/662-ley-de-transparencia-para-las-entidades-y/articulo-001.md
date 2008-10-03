@@ -1,0 +1,5 @@
+# Artículo 1
+
+Objeto de la Ley.
+
+Por ministerio de la presente Ley y en concordancia con las demás disposiciones relativas a la administración financiera y régimen presupuestario de la República de Nicaragua, se establece la obligación legal a todas las entidades del sector público, incluyendo las empresas del Estado o sociedades mixtas, de rendir cuenta de manera clara, irrestricta y expedita a la Asamblea Nacional y en particular a la Comisión de Producción, Economía y Presupuesto, sobre el manejo financiero, contable, presupuestario y contractual de estas instituciones públicas, bajo los términos, énfasis y requerimientos especiales que se le soliciten. Esta rendición de cuentas es con el fin de garantizar la transparencia en las contrataciones mercantiles o civiles que estas instituciones celebren, así como en la captación, ejecución y rendición, de los recursos provenientes tanto del esfuerzo fiscal interno como los habidos por virtud de créditos, préstamos y donaciones bajo cualquier modalidad y en general cualquier otro tipo de ingresos presupuestarios otorgados, captados y ejecutados por el Estado de Nicaragua y sus dependencias.
