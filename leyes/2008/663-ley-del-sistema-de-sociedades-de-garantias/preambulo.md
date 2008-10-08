@@ -1,0 +1,23 @@
+LEY N°. 663, LEY DEL SISTEMA DE SOCIEDADES DE GARANTÍAS RECÍPROCAS PARA LAS MICRO, PEQUEÑA Y MEDIANA EMPRESA
+
+Aprobada el 25 de junio de 2008
+
+Publicada en La Gaceta, Diario Oficial N°. 173 del 08 de septiembre de 2008
+
+LEY No. 663
+
+El Presidente de la República de Nicaragua
+
+A sus habitantes, Sabed:
+
+Que,
+
+LA ASAMBLEA NACIONAL
+
+Ha ordenado la siguiente:
+
+LEY DEL SISTEMA DE SOCIEDADES DE GARANTÍAS RECÍPROCAS PARA LAS MICRO, PEQUEÑA Y MEDIANA EMPRESA
+
+CAPÍTULO I
+
+DISPOSICIONES GENERALES
