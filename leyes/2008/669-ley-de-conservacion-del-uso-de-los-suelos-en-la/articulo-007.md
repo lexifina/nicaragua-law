@@ -1,0 +1,3 @@
+# Artículo 7
+
+Se faculta al Ejército de Nicaragua y a la Policía Nacional a ubicar y hacer uso de la técnica y efectivos que sean necesarios, dentro de aquellas zonas consideradas como áreas críticas de entrada de migrantes, precaristas y latifundistas en función de apoyar a las instituciones mencionadas en el cumplimiento de esta Ley, además de garantizar el área perimetral externa de diez kilómetros de la Reserva, de acuerdo a lo establecido en el párrafo in fine del artículo 11 de la Ley No. 647, "Ley de Reformas y Adiciones a la "Ley General del Medio Ambiente y los Recursos Naturales'"', publicada en La Gaceta, Diario Oficial No. 62 del 3 de abril del 2008.
