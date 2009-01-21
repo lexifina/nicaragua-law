@@ -1,0 +1,3 @@
+# Artículo 1
+
+Objeto. Reglamentar el Decreto A. N. N° 5547 de fecha diecisiete de septiembre del dos mil ocho, publicado en La Gaceta, Diario Oficial N° 222 del 20 de noviembre del 2008, que aprobó la Adhesión al Convenio Internacional sobre Normas de Formación, Titulación y Guardia de la Gente de Mar, 1978 en su forma enmendada en 1995, a través del establecimiento de las normas, requisitos y procedimientos para regular la formación, titulación y carrera profesional del personal de nacionalidad nicaragüense embarcado que componen la tripulación de los buques nacionales o extranjeros de navegación marítima.
