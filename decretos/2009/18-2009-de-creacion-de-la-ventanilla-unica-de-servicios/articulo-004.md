@@ -1,0 +1,3 @@
+# Artículo 4
+
+Como organismo de servicio interinstitucional, la VUSZF, estará conformada por las instancias del Gobierno Central involucradas en los trámites realizados por las empresas adscritas a este régimen y son: Ministerio de Hacienda y Crédito Público con sus instancias de la Dirección General de Servicios Aduaneros y Dirección General de Ingresos, Ministerio de Ambiente y Recursos Naturales, Ministerio del Trabajo, Ministerio de Fomento Industria y Comercio, Dirección de Migración y Extranjería y las instancias de la CNZF que atienden distintos servicios operativos, sin detrimento de otras instituciones que por la naturaleza de sus funciones se tengan que integrar a la VUSZF; por lo que se les faculta para que se integren técnica y administrativamente.
