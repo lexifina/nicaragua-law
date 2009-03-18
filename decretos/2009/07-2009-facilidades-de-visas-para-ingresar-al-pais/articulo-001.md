@@ -1,0 +1,3 @@
+# Artículo 1
+
+De acuerdo al Convenio de Creación de Visa Única Centroamericana para la Libre Movilidad de Extranjeros, aprobado y ratificado por la Asamblea Nacional el 12 de diciembre del 2006 y publicado en La Gaceta No. 13 del 18 de Enero de 2007, aquellos ciudadanos extranjeros que deseen viajar a Nicaragua, clasificados en la Categoría "B" (visa sin consulta), se les otorgará la visa correspondiente, sin menoscabo de cumplir con los requisitos de Ley, toda vez que se encuentren en el territorio nacional, en los Puestos Fronterizos Marítimos, Aéreos y Terrestres, debiéndose presentar ante la ventanilla de la oficina de Migración y Extranjería de dichos puestos, donde enterarán un arancel por el importe de la visa y la tarjeta de turismo.
