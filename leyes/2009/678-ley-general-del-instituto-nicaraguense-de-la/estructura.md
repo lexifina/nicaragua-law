@@ -1,0 +1,5 @@
+- TÍTULO I (antes del artículo 2)
+- DISPOSICIONES GENERALES (antes del artículo 2)
+- TÍTULO II (antes del artículo 6)
+- TÍTULO III (antes del artículo 18)
+- DISPOSICIONES TRANSITORIAS Y FINALES (antes del artículo 18)
