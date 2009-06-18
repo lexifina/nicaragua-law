@@ -1,0 +1,5 @@
+# Artículo 109
+
+Derogatorias.
+
+Deróganse el Decreto No. 625, "Ley Orgánica de la Contraloría General de la República y del Sistema de Control Gubernamental", aprobado el 22 de Diciembre de 1980 y publicado en La Gaceta, Diario Oficial No. 16 del 22 de enero de 1981, así como sus reformas: Decreto No. 743, aprobado el 30 de Junio de 1981 y publicado en La Gaceta, Diario Oficial No. 149 del 7 de Julio de 1981; Decreto No. 1490, aprobado el 2 de Agosto de 1984 y publicado en la Gaceta No. 161 del 22 de Agosto de 1984; Decreto No. 417, "Ley de Reforma a la Ley Orgánica de la Contraloría General de la República y del Sistema de Control de la Administración y del Área Propiedad del Pueblo", publicado en La Gaceta, Diario Oficial No. 248 del 29 de Diciembre de 1988; Ley No. 361, "Ley de Reforma y Adiciones a la Ley Orgánica de la Contraloría General de la República, del Sistema de Control de la Administración Pública y del Área Propiedad del Pueblo", aprobada el 28 de marzo de 2001, publicada en La Gaceta, Diario Oficial No. 70 del 16 de abril de 2001 y cualquier otra disposición legal que se le oponga.

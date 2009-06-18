@@ -1,0 +1,11 @@
+# Artículo 6
+
+Competencia.
+
+La Contraloría General de la República es el Organismo Superior de Control dotado de independencia y autonomía, con ámbito nacional, que tiene a su cargo: la rectoría del Sistema de Control de la Administración Pública y Fiscalización de los Bienes y Recursos del Estado; el examen y evaluación, por medio de auditoría gubernamental, de los sistemas administrativos, contables, operativos y de información y sus operaciones, realizadas por las entidades y organismos públicos y sus servidores, sin excepción alguna; la expedición de regulaciones para el funcionamiento del Sistema y la determinación de responsabilidades administrativas y civiles, y hacer públicos los resultados de sus investigaciones y cuando de los mismos se presumieran responsabilidades penales, deberá enviar su investigación a los tribunales de justicia.
+
+Al llevar a cabo la auditoría de las operaciones o actividades de las entidades, organismos y servidores sujetos a su competencia, la Contraloría General de la República se pronunciará sobre los aspectos de legalidad, veracidad, corrección y transparencia, sobre la eficiencia y economía en el empleo de los recursos humanos, materiales, financieros, tecnológicos, ambientales y sobre la efectividad de los resultados y el impacto de la gestión institucional.
+
+Las Universidades y Centros de Educación Técnica Superior que no tienen carácter Estatal y que reciben bienes o recursos del Estado, estarán sometidos al control del Órgano Rector, quien lo aplicará o ejercerá sobre los aportes que se hayan transferido. Las Universidades y Centros de Educación Técnica Superior Estatales están sometidos al ámbito de aplicación de esta Ley. La aplicación del Sistema de Control y Fiscalización se realizará sin perjuicio de lo dispuesto en el artículo 125 de la Constitución Política de la República de Nicaragua, la Ley No. 89, "Ley de Autonomía de las Instituciones de Educación Superior" y lo dispuesto en la Ley No. 550, "Ley de Administración Financiera y del Régimen Presupuestario."
+
+Tratándose de entidades, organismos y personas del sector privado que recibieren bienes, asignaciones, subvenciones, participaciones ocasionales o estén relacionados con el uso de recursos del Estado, el control de la Contraloría General de la República se aplicará en lo que atañe a los fondos percibidos.
