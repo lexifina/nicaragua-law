@@ -1,0 +1,7 @@
+# Artículo 10
+
+Licencia de Generación y de su Terminación. El Estado de Nicaragua, por medio del Ministerio de Energía y Minas (MEM), otorgará Licencia de Generación Hidroeléctrica dentro de un plazo máximo de treinta días contados a partir de la fecha de presentada la solicitud acompañada de los documentos y requisitos pertinentes, a favor de El Desarrollador; dicha Licencia será concedida por un plazo de treinta (30) años.
+
+La Licencia de Generación Hidroeléctrica terminará de acuerdo a las causas establecidas por la Ley No. 272, "Ley de la Industria Eléctrica" y su Reglamento y las condiciones establecidas en el Contrato. Asimismo, aplicará la terminación de la Licencia de Generación Hidroeléctrica si El Desarrollador no ha iniciado las obras de construcción descritas en el Cronograma de Trabajo incorporado en el Contrato conforme las fechas establecidas, las cuales podrán ser prorrogadas, por razones justificadas, una vez aprobadas por el Ministerio de Energía y Minas (MEM).
+
+Los procedimientos y requisitos para el otorgamiento de la Licencia de Generación Hidroeléctrica, su seguimiento y control se regirán por lo dispuesto en la Ley No. 272, "Ley de la Industria Eléctrica" y sus Reformas y su respectivo Reglamento y las reformas de este y la Ley No. 290, "Ley de Organización, Competencias y Procedimientos del Poder Ejecutivo" y sus reformas contenidas en la Ley No. 612, en todo lo que no se oponga a la presente Ley.
