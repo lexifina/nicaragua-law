@@ -1,0 +1,5 @@
+# Artículo 143
+
+Procedimiento y Recurso de Apelación.
+
+En las actuaciones iniciadas como consecuencia de la comisión de las supuestas faltas y/u omisiones, el INVUR a través de la dependencia administrativa correspondiente que se designe al efecto antes de resolver, correrá vista a los interesados por el término de ocho (8) días hábiles, para que formulen los descargos o aclaraciones que consideren pertinentes. Si como consecuencia de ello hubiere necesidad de obtener alguna prueba, luego de producida ésta, se correrá nueva vista a los interesados, por el término de cinco (5) días hábiles, con lo que se tendrá por concluido el procedimiento para la resolución definitiva, que será recurrible dentro de los cinco (5) días hábiles siguientes. Este Recurso de Apelación se substanciará ante el superior respectivo y el mismo se pronunciará al respecto dentro de los veinte (20) días hábiles siguientes. Si no lo hace en dicho término, se considera confirmada la resolución recurrida y se considerará agotada la vía administrativa.
