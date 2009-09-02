@@ -1,0 +1,3 @@
+# Artículo 131
+
+Reconocimiento.- Para efectos de la presente Ley y su Reglamento, se reconocen como sujetos de los beneficios de ésta a quienes dispongan de la solvencia de revisión y disposición emitida por la Oficina de Ordenamiento Territorial (O.O.T.) para que puedan acceder a los beneficios de la construcción de vivienda de interés social. En estos casos, se requerirá que los afectados por leyes anteriores hayan sido debidamente indemnizados y éstas hayan sido publicadas en La Gaceta, Diario Oficial, por lo cual el Ministerio de Hacienda y Crédito Público deberá emitir las respectivas constancias a los interesados por medio de la Intendencia de la Propiedad.

@@ -1,0 +1,3 @@
+# Artículo 31
+
+Preferencia a las Solicitudes que Provengan de Jefes de Familia.- En la definición de los programas de vivienda de interés social y de uso de suelo habitacional urbano y rural en igualdad de condiciones de necesidad, se dará preferencia a las solicitudes que provengan del mayor hábil que desde su calidad y condición de jefe de familia con más bajos ingresos, madres o padres solteros que estén a cargo de los menores con esas mismas características, así como a los que tengan un mayor número de dependientes económicos dentro de los cuales algunos de ellos sean de la tercera edad o personas con capacidades diferentes o que hayan hecho un mayor esfuerzo de ahorro.

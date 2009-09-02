@@ -1,0 +1,3 @@
+# Artículo 114
+
+Plazo para Ocupar el Inmueble.- Los beneficiarios de viviendas de interés social una vez entregadas las mismas, deberán habitarlas en un plazo no mayor de treinta (30) días; en los casos de los bienes inmuebles rústicos, sean urbanos o rurales destinados para vivienda de interés social, la ocupación deberá hacerse efectiva por los beneficiarios en un plazo no mayor de sesenta (60) días. En caso de incumplimiento por parte de los beneficiarios, la Autoridad de Aplicación de la presente Ley y su Reglamento deberán notificar por escrito a los mismos para que concurran dentro del tercero día a normalizar su situación. Si no comparecen se rescindirá el contrato de adjudicación y el otorgamiento del crédito o del subsidio, según sea el caso.

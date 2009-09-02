@@ -1,0 +1,3 @@
+# Artículo 120
+
+Normativas a Cumplir.- Los productores de viviendas de interés social deberán de cumplir con lo dispuesto en el conjunto de normas jurídicas contenidas en las diferentes leyes y sus Reglamentos de la materia, así como las demás disposiciones de carácter técnico y administrativo relacionadas con el sector de la Construcción y el Desarrollo Urbano, incluyendo aquellas relativas a la Construcción de Caminos y Puentes; Leyes, Reglamentos y Normas Urbanas; Leyes, Reglamentos y Normas reguladoras de los aspectos arquitectónicos; las normas mínimas para definir la dimensión de las viviendas de interés social y las normas mínimas de accesibilidad y seguridad. Así como lo relacionado a las leyes, reglamentos y normas técnicas de carácter ambiental.

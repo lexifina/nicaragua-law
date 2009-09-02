@@ -1,0 +1,5 @@
+# Artículo 9
+
+Autoridad de Aplicación de la Ley.- Se establece como Autoridad de Aplicación de la presente Ley y su Reglamento y demás Normativas Técnicas al Instituto de la Vivienda Urbana y Rural (INVUR), quien regulará lo relativo a vivienda y uso del suelo con fines habitacionales en el ámbito urbano y rural en todo lo concerniente a planeación y fijación de normas técnicas en materia habitacional y con jurisdicción nacional, sin perjuicio de las competencias de los gobiernos locales.
+
+Lo relativo a las funciones en materia habitacional de los Gobiernos de las Regiones Autónomas de la Costa Caribe nicaragüense y de Gobiernos Municipales, así como otras dependencias del Gobierno Central, se regirán de conformidad a lo establecido en sus respectivas leyes reguladoras, términos establecidos en la Ley No. 28, "Estatuto de Autonomía de las Regiones de la Costa Atlántica de Nicaragua", las Leyes No. 40 y 261, "Ley de los Municipios" y sus reformas, y la Ley No. 290, "Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo" y sus respectivas reformas.

@@ -1,0 +1,7 @@
+# Artículo 122
+
+Entrega de Obras de Ampliación de la Red de Servicios Públicos.- Independientemente de la naturaleza de la empresa prestadora del servicio público, una vez concluidos los trabajos de la ejecución física de los proyectos habitacionales y de las obras de urbanización inherentes a los mismos, las primeras, deberán asumir la infraestructura de ampliación de la red de servicios públicos correspondiente en un plazo no mayor de sesenta (60) días calendarios para su debida administración y mantenimiento.
+
+En todos los casos las empresas prestadoras de los servicios públicos harán una inspección técnica previa de las obras antes referidas, dentro del plazo de los mismos sesenta (60) días, para que en los casos de requerirse algún ajuste técnico este sea realizado por el agente productor de vivienda y del cual se deberá remitir copia a la Autoridad de Aplicación de la presente Ley y su Reglamento.
+
+Cuando la empresa prestadora del servicio se negare a recibir las obras antes referidas, se aplicará una multa para el funcionario de mayor jerarquía que equivaldrá a seis salarios de este, so pena de responsabilidad civil o penal del mismo. En caso de persistir la negativa para recibir las obras referidas, la Autoridad de Aplicación de la Ley deberá notificar por escrito a los representantes legales de las empresas, mediante Resolución Administrativa debidamente razonada, el traslado de la red sin mayor trámite.

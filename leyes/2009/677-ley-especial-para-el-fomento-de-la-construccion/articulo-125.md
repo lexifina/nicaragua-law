@@ -1,0 +1,7 @@
+# Artículo 125
+
+Creación del Timbre de Apoyo a la Vivienda de Interés Social.- Créase la Especie Fiscal denominada Timbre de Apoyo a la Vivienda de Interés Social a favor del Instituto de la Vivienda Urbana y Rural (INVUR), y cuyo valor será de un mil córdobas (C$ 1,000.00) o valores menores. El monto recaudado se destinará de forma exclusiva y de forma única para el desarrollo de proyectos y programas habitacionales con subsidios a través del Fondo Social de Vivienda (FOSOVI).
+
+Se autoriza al Ministro de Hacienda y Crédito Público para que emita la Serie Fiscal establecida e indicada en el párrafo anterior, por el monto establecido y las fracciones que corresponda y gire los recursos al Instituto de la Vivienda Urbana y Rural (INVUR), por períodos no superiores a seis meses.
+
+La Especie Fiscal deberá ser emitida por los valores correspondiente o en fracciones para que sea pagado por las personas naturales o jurídicas correspondientes al momento del otorgamiento del permiso para la construcción de viviendas valoradas en montos iguales o superiores a cincuenta mil dólares de los Estados Unidos de América (US$ 50,000.00) o su equivalente en moneda de curso legal, con la alícuota de un mil córdobas (C$ 1,000.00) por los cincuenta mil dólares de los Estados Unidos de América (US$ 50,000.00), así mismo se pagará la alícuota de la fracción correspondiente por cada monto igual o fracción proporcional adicional después del monto establecido en este párrafo.

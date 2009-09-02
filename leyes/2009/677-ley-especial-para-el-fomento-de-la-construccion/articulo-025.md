@@ -1,0 +1,3 @@
+# Artículo 25
+
+Elaboración de Programas Multi Anuales.- Para el fomento del disfrute de los derechos a una vivienda de interés social, así como el acceso al suelo de uso habitacional urbano y rural, el Instituto de la Vivienda Urbana y Rural (INVUR), formulará Programas multi anuales de vivienda, los cuales deberán de ser concertados con los diferentes actores y sectores sociales y privados, así como los propios beneficiarios, de conformidad a los preceptos establecidos en el Plan Nacional de desarrollo que al respecto establezca el gobierno, al que se deberán ajustar las dependencias y entidades estatales, los Gobiernos Regionales de las Regiones Autónomas del Caribe Nicaragüense y los Gobiernos Municipales.

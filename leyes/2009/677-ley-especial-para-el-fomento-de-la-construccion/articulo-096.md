@@ -1,0 +1,3 @@
+# Artículo 96
+
+Objeto y Sujetos del Esquema de Apoyo a la Tasa de Interés de Créditos Hipotecarios para Vivienda de Interés Social.- Se otorga subsidio al costo financiero generado por créditos generados de Préstamos Hipotecarios para Viviendas de interés social, y se norma el crédito fiscal para las instituciones financieras reguladas por la Superintendencia de Bancos y de Otras Instituciones Financieras, SIBOIF, de conformidad con la Ley No. 561 "Ley General de Bancos, Instituciones Financieras No Bancarias y Grupos Financieros", en lo relativo a los créditos hipotecarios objeto de la presente Ley.

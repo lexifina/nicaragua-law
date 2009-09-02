@@ -1,0 +1,3 @@
+# Artículo 12
+
+Garantías.- Las personas naturales o jurídicas que reciban fondos provenientes del FOSOVI, deberán presentar garantías exigibles que respalden los fondos recibidos. La modalidad y características de las mismas serán establecidas en cada caso mediante contrato. Cuando cualquiera de ellas incumpla con lo establecido en el contrato, estará sujeta a las sanciones, las que deben de quedar fijadas en el contrato so pena de rescisión unilateral e inmediata del referido instrumento, sin perjuicio de las responsabilidades civiles o penales a que dieren lugar por medio de las reclamaciones judiciales o extrajudiciales.

@@ -1,0 +1,3 @@
+# Artículo 66
+
+Viviendas para Trabajadores Temporales.- La construcción de las viviendas para los trabajadores temporales será de conformidad a las normativas y disposiciones técnicas establecidas por el Ministerio del Trabajo, en este caso al productor no le serán aplicables las restricciones establecidas en el artículo 28 para las personas beneficiadas por la presente Ley. En el caso de que se produjese un cambio de propietario del inmueble, este deberá continuar dando el uso exclusivo a la vivienda destinada para el trabajador temporal, sin perjuicio de las mejoras que pueda hacer para la conservación del inmueble.

@@ -1,0 +1,3 @@
+# Artículo 109
+
+Restricción.- No surtirá ninguna consecuencia jurídica la celebración de un contrato de adquisición de vivienda de interés social o de arrendamiento o adquisición de bienes inmuebles rústicos, ni el otorgamiento de títulos de propiedad con dicho fin, cuando el interesado ya haya adquirido una vivienda de interés social o lote dentro de los programas auspiciados por el INVUR a través de sus Entidades Auxiliares, o bien dentro de programas ejecutados por los Gobiernos Municipales, sin importar su fuente o programa, sin perjuicio de las sanciones administrativas y penales que esta Ley y demás ordenamientos establecen.

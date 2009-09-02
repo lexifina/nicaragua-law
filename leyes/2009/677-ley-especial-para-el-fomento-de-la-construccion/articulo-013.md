@@ -1,0 +1,3 @@
+# Artículo 13
+
+Medidas de Acceso al Crédito Hipotecario.- Sin perjuicio de las Leyes de la materia, se faculta al Instituto de la Vivienda Urbana y Rural (INVUR), a promover entre las instituciones públicas o privadas la creación del Fondo de Hipotecas Aseguradas con el objetivo de emitir seguros de hipoteca a las familias nicaragüenses, a fin de permitir que puedan acceder a créditos hipotecarios para compra, construcción o mejoramiento de viviendas de interés social mediante el resguardo del riesgo crediticio de las entidades financieras; brindando asesoría técnica y financiera, a compradores de viviendas, agentes productores de vivienda de interés social.

@@ -1,0 +1,5 @@
+# Artículo 1
+
+Objeto.- La presente Ley tiene por objeto fomentar y promover la construcción de viviendas, con énfasis en las viviendas de interés social a través del sector privado o cualesquiera de las empresas que se organicen bajo las formas de propiedad establecidas en la Constitución Política de la República de Nicaragua, las que gozarán de la igualdad ante la ley, ante las políticas económicas del Estado.
+
+En relación a las viviendas de interés social, es función y responsabilidad del Estado y sus autoridades, establecer las condiciones financieras, crediticias, materiales y técnicas que posibiliten el cumplimiento efectivo del derecho a la vivienda de los nicaragüenses, dando prioridad a las familias en estado de vulnerabilidad socio - económica, debiéndose impulsar y organizar los programas y actividades propias de la materia. En este sentido se deberá de tener en cuenta la participación ciudadana, los diferentes sectores sociales y la empresa privada, todo de conformidad a las disposiciones contenidas en esta ley, su reglamento y las normativas técnicas que al respecto se establezcan.

@@ -1,0 +1,3 @@
+# Artículo 27
+
+Archivo de Beneficiarios de los Programas de Vivienda.- El Instituto de la Vivienda Urbana y Rural (INVUR), y los Gobiernos Municipales, llevarán un archivo de los beneficiarios de los programas de vivienda de interés social y de suelo de uso habitacional urbano y rural nacional, regional y municipal a efecto de evitar que una misma persona adquiera para sí o para cónyuge o miembros de una unión de hecho estable, más de una vivienda o lote de los que se rijan por esta Ley. Con ese mismo fin, dicho archivo incluirá los datos de los solicitantes de cualquier tipo de las acciones para el fomento del acceso a la vivienda y al suelo de uso habitacional.
