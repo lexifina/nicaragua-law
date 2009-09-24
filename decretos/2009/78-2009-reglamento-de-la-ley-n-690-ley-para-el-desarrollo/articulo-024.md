@@ -1,0 +1,5 @@
+# Artículo 24
+
+Para el restablecimiento de los accesos históricos a las playas, los Gobiernos Municipales en coordinación con el INETER Y MARENA, levantarán un informativo que se sustentará en la deposición de testigos, documentales, catastrales o cualquier otro medio válido de prueba, todo con la participación del particular afectado. Con el informativo la Municipalidad solicitará el dictamen técnico a la CDZC y lo resuelto se le notificará al particular afectado quien tendrá treinta días hábiles para presentar las pruebas que revoquen lo contenido en el dictamen técnico a la CDZC. Concluido el período probatorio procede la resolución por parte de la CDZC, quien tendrá ocho días hábiles para resolver. La resolución puede declarar con lugar o no lo solicitado. La resolución se notificará al particular afectado y al municipio correspondiente, de esta resolución se podrá hacer uso de los recursos previstos en la Ley No. 40 “Ley de Municipios”, publicada en La Gaceta, Diario Oficial, N° 155 del 17 de agosto de 1988 y su Reforma Ley N° 261 publicada en La Gaceta, Diario Oficial, No. 162 del 26 de agosto de 1997.
+
+DEL RÉGIMEN DE CONCESIONES
