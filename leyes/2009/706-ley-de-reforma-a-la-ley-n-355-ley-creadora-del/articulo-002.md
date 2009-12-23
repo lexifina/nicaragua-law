@@ -1,0 +1,15 @@
+# Artículo 2
+
+Se reforma el párrafo final del artículo 13 de la Ley No. 355, “Ley Creadora del Fondo de Mantenimiento Vial”. El artículo reformado se leerá así:
+
+“Artículo 13 Los recursos financieros del FOMAV serán administrados, de acuerdo a principios comerciales, no obstante responden por el buen uso de los fondos especialmente con relación al sistema de contabilidad, los procesos para la liberalización de los recursos y auditoría de las cuentas.
+
+Los ingresos del Fondo de Mantenimiento Vial serán destinados única y exclusivamente para el financiamiento de las actividades del mantenimiento rutinario y periódico y sistemático de la Red Vial Nacional Mantenible y la Red Vial Municipal Mantenible, así como para los estudios, ejercer los controles para proteger el sistema vial y cumplir con las obligaciones del Fondo de Mantenimiento Vial y la divulgación de sus actividades y programas; en ningún caso podrán aplicarse a otro fin. Los bienes y recursos que pertenezcan al Fondo serán inembargables. Los ingresos del FOMAV serán conservados mediante fideicomiso directamente aplicado a las cuentas bancarias correspondientes.
+
+Para las labores de mantenimiento vial el FOMAV contratará la ejecución de dichas labores, con empresas y micro-empresas de mantenimiento vial y empresas consultoras establecidas en el país y bajo ningún concepto ejecutará directamente tales labores, todo de acuerdo a la Ley de la materia.
+
+Cuando se apliquen recursos financieros procedentes de gobiernos u organismos internacionales para la contratación de servicios relacionados a la gestión del FOMAV, serán tomadas en consideración las disposiciones que en materia de adquisición de bienes y servicios, estén contenidas en los convenios o acuerdos internacionales existentes con estos gobiernos u organismos, sin limitar la participación de empresas extranjeras, siempre que se actúe conforme a la legislación existente.
+
+Los contratos para la construcción y mantenimiento de obras públicas financiadas con los recursos propios del Fondo de Mantenimiento Vial, están exentos del pago del Impuesto al Valor Agregado. Corresponde al Fondo de Mantenimiento Vial, tramitar el aval correspondiente antes del inicio de la ejecución de obras ante el Ministerio de Hacienda y Crédito Público. El referido aval deberá ser entregado al Contratista al inicio de las obras. Previa solicitud, el aval podrá ser transferido a terceros, con el objeto de poder acreditarse en las compras locales que al respecto realice el Contratista, sean estas materiales, equipos, o cualquier otro medio que resulte necesario para dar cumplimiento al contrato de ejecución del proyecto.
+
+En base al Principio de Reciprocidad, las unidades de transporte terrestre de cargo de más de ocho toneladas de capacidad por eje, que ingresen por las fronteras y que se desplacen por la red vial nacional, deberán pagar un Timbre de Derecho de Uso de Vía, cuyo valor será el equivalente en moneda nacional a veinte dólares de los Estados Unidos de América. Los fondos se destinarán, un cincuenta por ciento a la Tesorería General de la República y el otro cincuenta por ciento como ingreso del FOMAV.”
