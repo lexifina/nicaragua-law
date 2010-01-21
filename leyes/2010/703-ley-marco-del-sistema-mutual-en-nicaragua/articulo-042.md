@@ -1,0 +1,5 @@
+# Artículo 42
+
+Vigencia.
+
+Esta Ley entrará en vigencia a partir de su publicación por cualquier medio escrito de comunicación social, sin perjuicio de su posterior publicación en La Gaceta, Diario Oficial.
