@@ -1,0 +1,1 @@
+- CAPÍTULO VI (antes del artículo 2)
