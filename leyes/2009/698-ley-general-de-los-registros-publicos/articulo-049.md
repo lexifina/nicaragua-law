@@ -1,0 +1,13 @@
+# Artículo 49
+
+Tercero Registral.
+
+La inscripción no convalida los actos o contratos inscritos que sean nulos o anulables conforme a la Ley. Sin embargo el tercero que de buena fe adquiera a título oneroso algún derecho de persona que en el Registro aparezca con facultades para transmitirlo, será mantenido en su adquisición, una vez que haya inscrito su derecho, aunque después se anule o resuelva el del otorgante por virtud de causas que no consten en el Registro. Tal protección se producirá siempre que concurran las siguientes circunstancias:
+
+1. Que sea tercero registral. Se entiende por tercero registral al tercer adquirente, es decir al derecho-habiente de un titular registral a título oneroso;
+
+2. Que actúe de buena fe. Por buena fe se entiende el desconocimiento por el tercer adquirente de las causas resolutorias del derecho de su transmitente no publicadas por el Registro. La buena fe se presume siempre;
+
+3. Que la transmisión sea a título oneroso, no gozando, en consecuencia, el adquirente a título gratuito de más protección que la que tuviera su causante o transferente; y
+
+4. Que haya inscrito su derecho en el Registro.
