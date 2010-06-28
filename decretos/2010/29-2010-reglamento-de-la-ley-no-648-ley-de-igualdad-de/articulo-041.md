@@ -1,0 +1,3 @@
+# Artículo 41
+
+Según lo dispuesto en los artículos 41 y 42 de la Ley No. 648, los Poderes del Estado, sus órganos de administración a nivel nacional, los Gobiernos de las Regiones Autónomas de la Costa Atlántica, las Municipalidades y las instituciones de creación constitucional, en coordinación con el Consejo Nacional por la Igualdad, designarán una oficina o persona para la recepción de la denuncia o queja interpuesta por el ciudadano que se sienta violentado en sus derechos, estos a su vez las remitirán al Consejo Nacional por la Igualdad para tutelar los derechos de mujeres y hombres dentro del territorio nacional.
