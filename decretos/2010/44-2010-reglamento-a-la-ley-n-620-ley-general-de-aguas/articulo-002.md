@@ -1,0 +1,3 @@
+# Artículo 2
+
+Autoridades de Aplicación. Las autoridades de aplicación del presente Reglamento serán las creadas y reconocidas en la Ley: El Consejo Nacional de los Recursos Hídricos (CNRH); la Autoridad Nacional del Agua (ANA), los Organismos de Cuencas; y los Comités de Cuenca. Estas autoridades trabajarán en armonía y en coordinación con las instituciones del Estado vinculadas al recurso agua, así como con los Gobiernos Municipales y Regionales correspondientes. Las demás instituciones del Estado que por otras disposiciones legales vigentes tengan o le sean conferidas competencias sobre el recurso agua, se regularán por su propio marco legal.

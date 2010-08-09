@@ -1,0 +1,5 @@
+# Artículo 78
+
+Licencias de Aprovechamiento. La Licencia de Aprovechamiento de Agua, para generación de energía eléctrica, es el acto administrativo emitido por el ANA, por medio del cual otorga a personas naturales o jurídicas, públicas o privadas, el derecho de acceso para el aprovechamiento de un volumen de agua líquida o en vapor para la generación de energía eléctrica. La Licencia tendrá una vigencia de acuerdo a lo que el solicitante requiera siempre que no exceda de treinta años los que podrán ser prorrogables.
+
+Cuando una persona jurídica o natural, nacional o extranjera, privada o estatal haya obtenido de parte del MEM, la Licencia de Generación para un proyecto hidroeléctrico, por medio de una licitación, o por un proceso competitivo, deberá tramitar y cumplir con los requisitos establecidos para obtención de la Licencia de Aprovechamiento de Agua. Para solicitar ante la ANA, la Licencia de Aprovechamiento de Agua deberá acreditar que se encuentran en trámite ante el Ministerio de Energía y Minas la Licencia de Generación para el proyecto hidroeléctrico, del cual se solicita la licencia, o la concesión cuando se trate de generación geotérmica.

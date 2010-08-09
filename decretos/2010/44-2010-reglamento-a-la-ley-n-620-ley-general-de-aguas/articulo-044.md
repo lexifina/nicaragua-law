@@ -1,0 +1,7 @@
+# Artículo 44
+
+Operación para Acueductos de Distribución de Agua Potable. Los sistemas de agua potable construidos por Agentes Económicos Privados, deberán ser transferidos al Estado de Nicaragua, a través de ENACAL o las Empresas Municipales que estén administrando este tipo de servicio, para lo cual deberán elaborar la escritura de donación respectiva, de todos los bienes que conforman el acueducto.
+
+Excepcionalmente, y de forma transitoria, el INAA podrá otorgar Licencias de Operación a Urbanizaciones que no obtienen la factibilidad de conexión de la Empresa Estatal respectiva, en los casos en que la Empresa Estatal prestadora de los servicios de agua potable y alcantarillado sanitario correspondiente, no tenga la capacidad de administrar y operar los nuevos sistemas. Aquellos sistemas de agua potable y alcantarillado sanitario construidos por el sector privado deben cumplir con las especificaciones técnicas y la supervisión establecidos por el INAA, en coordinación con la Empresa Nicaragüense de Acueductos y Alcantarillados Sanitarios (ENACAL). Será condición indispensable para el otorgamiento de las Licencias de Operación en el caso del servicio de agua potable, que se haya realizado la escritura de donación a favor del Estado de Nicaragua.
+
+La Licencia para operar estos sistemas será por un plazo no mayor de cinco años, el cual podrá ser renovado de acuerdo al interés de las partes”.

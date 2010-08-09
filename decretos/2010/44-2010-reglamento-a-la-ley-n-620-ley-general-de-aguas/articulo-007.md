@@ -1,0 +1,5 @@
+# Artículo 7
+
+De la Planificación Sectorial. Además de los instrumentos de gestión establecidos en el Arto. 14 de la Ley, se delega a la Autoridad Nacional del Agua, órgano descentralizado del Poder Ejecutivo en materia de agua, para ejercer la gestión, manejo y administración en el ámbito nacional de los Recursos Hídricos para que sea el Coordinador de la Mesa de Agua, sin perjuicio que cada institución vinculada al sector deba realizar sus planes operativos quinquenales y anuales. Las Estrategias Sectoriales y los Planes Operativos Anuales (POA) que elaboren las instituciones involucradas en el Sector deberán ajustarse a los principios rectores y demás políticas de gobierno, en especial al Plan Nacional de los Recursos Hídricos.
+
+Los Planes Operativos Anuales (POA) deberán contar con el soporte económico que les permita realizarlos, y de conformidad con lo establecido en el artículo 13 literal h) de la Ley, deberá buscarse siempre la racionalidad de la gestión, evitando los conflictos de competencia, procurando para ello las sinergias institucionales que fueren necesarias, incluyendo la participación ciudadana.

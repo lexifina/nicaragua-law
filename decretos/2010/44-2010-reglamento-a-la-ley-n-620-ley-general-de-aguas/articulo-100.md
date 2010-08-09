@@ -1,0 +1,3 @@
+# Artículo 100
+
+Instancias de Denuncia. Por infracciones a la Ley, se podrán interponer denuncias ante el organismo de cuenca, Gobiernos Municipales y/o autoridades territoriales y regionales de las Regiones Autónomas de la Costa Atlántica de Nicaragua. Para el efecto, las Alcaldías Municipales, deberán remitir las denuncias recibidas al organismo de cuenca en un período de tres días hábiles para su posterior trámite, conforme lo establecido en el presente reglamento. Para el caso de las autoridades territoriales y regionales de las Regiones Autónomas del Atlántico de Nicaragua, el período máximo de remisión de las denuncias al Organismo de Cuenca será de diez días hábiles.

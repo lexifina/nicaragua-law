@@ -1,0 +1,3 @@
+# Artículo 3
+
+Definiciones. Las definiciones de términos, así como los principios rectores contenidos en los artículos 12 y 13 de la Ley, servirán también para definir las categorías, términos o palabras usadas en el presente Reglamento, y Reglamentos Especiales que se dicten. Cuando un término no encuentre expresa definición en la Ley, supletoriamente se aplicarán las definiciones, que para idéntico término, están contenidas en las disposiciones legales vigentes sobre la materia, como es el caso de las contempladas en la Ley No. 217, Ley General del Medio Ambiente y los Recursos Naturales, publicada en la Gaceta Diario Oficial No. 105 el 6 de junio del año 1996, y su Reglamento.
