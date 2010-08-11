@@ -1,0 +1,7 @@
+# Artículo 10
+
+Patrimonio del Estado.
+
+Los recursos minerales no metálicos existentes en el suelo y subsuelo del territorio nacional son patrimonio del Estado, quien ejerce sobre ellos dominio absoluto, inalienable e imprescriptible. Se le garantiza al titular de la propiedad que pudiese resultar afectado en su patrimonio personal el derecho al pago de un canon que se establecerá en el acuerdo monetario o cualquier otro tipo de acuerdo para la extracción de material del banco de préstamo entre el licenciatario o titular del permiso y el titular de la propiedad, y cuya referencia será la fracción del justo precio y la declaración del Impuesto sobre Bienes Inmuebles que el propietario del bien haya efectuado y pagado del área afectada.
+
+El Ministerio de Energía y Minas, el Ministerio de Transporte e Infraestructura y el Ministerio del Ambiente y de los Recursos Naturales; de forma conjunta podrán solicitar a la autoridad superior la declaratoria de uso público e interés social de aquellos bancos de materiales selectos o bancos de préstamos aptos para el aprovechamiento para la construcción de infraestructura, en los casos de negativa del titular de la propiedad sin motivación alguna o que de forma recurrente impida el acceso para la explotación y extracción del material selecto hasta el sitio donde se encuentre localizado, todo de conformidad a la Ley No. 229, “Ley de Expropiación” del 03 de marzo de 1976, publicada en La Gaceta Diario Oficial No. 58 del 9 de marzo del mismo año.

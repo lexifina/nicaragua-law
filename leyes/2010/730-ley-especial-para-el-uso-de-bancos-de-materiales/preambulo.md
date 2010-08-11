@@ -1,0 +1,19 @@
+LEY N°. 730, LEY ESPECIAL PARA EL USO DE BANCOS DE MATERIALES SELECTOS PARA EL APROVECHAMIENTO EN LA INFRAESTRUCTURA
+
+Aprobada el 01 de julio de 2010
+
+Publicada en La Gaceta Diario Oficial N°. 152 del 11 de agosto de 2010
+
+Ley No. 730
+
+El Presidente de la República de Nicaragua
+
+A sus habitantes, Sabed:
+
+Que,
+
+LA ASAMBLEA NACIONAL
+
+Ha ordenado la siguiente:
+
+LEY ESPECIAL PARA EL USO DE BANCOS DE MATERIALES SELECTOS PARA EL APROVECHAMIENTO EN LA INFRAESTRUCTURA
