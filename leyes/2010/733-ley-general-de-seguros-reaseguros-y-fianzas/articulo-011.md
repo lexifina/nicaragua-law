@@ -1,0 +1,5 @@
+# Artículo 11
+
+Publicación de Nómina de Accionistas.
+
+Recibida la solicitud y obtenida toda la información requerida, el Superintendente publicará al menos en dos periódicos de amplia circulación nacional, por una sola vez, y por cuenta de los interesados solicitantes, la nómina de los accionistas, así como de los directores fundadores de la sociedad que se proyecta constituir. En el caso de accionistas que sean personas jurídicas, deberá publicarse también la nómina de los accionistas que posean más del cinco por ciento (5%) del capital social de dichas entidades. Lo anterior es con el objeto de que cualquier persona que tenga conocimiento de alguna de las circunstancias expresadas en el numeral 8 del artículo 10 y el artículo 44 de esta Ley, pueda objetar la calidad de los accionistas y directores respectivamente, que formarán parte de la sociedad proyectada. Dichas objeciones deberán presentarse por escrito al Superintendente, en un plazo no mayor de quince días después de la publicación, adjuntando las pruebas pertinentes, caso contrario, la objeción se tiene por no puesta.

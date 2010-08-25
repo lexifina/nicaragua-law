@@ -1,0 +1,7 @@
+# Artículo 134
+
+Presentación y Aprobación del Plan de Normalización. El plan de normalización previo a su presentación al Superintendente, deberá hacerse del conocimiento del contralor normativo y ser aprobado por la junta directiva de la sociedad. Posteriormente, deberá ser presentado por el gerente general o por el principal ejecutivo de la respectiva sociedad a consideración del Superintendente en un término no mayor de quince (15) días, contados a partir de la fecha de la notificación de la decisión ordenando su presentación. El Superintendente podrá prorrogar hasta por siete días más el término establecido, cuando medie pedimento fundado de la sociedad respectiva. En ambos casos, la falta de presentación del plan será causal de liquidación de la sociedad. El plan deberá incluir las medidas administrativas, financieras y de cualquier otro orden que la sociedad adoptará para corregir las deficiencias que hayan originado la irregularidad detectada.
+
+El Superintendente dispondrá de un plazo no mayor de quince (15) días para otorgar su aprobación al plan con las modificaciones que juzgue necesario incorporar. Una vez aprobado un plan de normalización por el Superintendente y notificada la sociedad de esta decisión, el mismo será de obligatorio cumplimiento para esta. La responsabilidad en la ejecución del plan de normalización recaerá en la junta directiva de la sociedad.
+
+Una vez aprobado un plan de normalización, el Superintendente podrá modificarlo o dejarlo sin efecto, según las circunstancias en cada caso.

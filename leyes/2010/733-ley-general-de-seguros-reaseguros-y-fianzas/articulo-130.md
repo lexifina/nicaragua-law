@@ -1,0 +1,5 @@
+# Artículo 130
+
+Obligaciones de las Sociedades de Seguro con los Inspectores Analistas.
+
+Las sociedades sujetas a la inspección y vigilancia de la Superintendencia, estarán obligadas a prestar a los inspectores analistas todo el apoyo que se les requiera, proporcionando los datos, informes, registros, libros de actas, auxiliares, documentos, correspondencia y en general, la documentación, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga la sociedad y que los inspectores estimen necesarios para el cumplimiento de sus funciones, debiendo tener acceso a sus sistemas informáticos, oficinas, locales y demás instalaciones. Además deberá facilitárseles un local adecuado que brinde privacidad y seguridad a la información y equipo de los inspectores analistas. El Superintendente podrá hacer inspecciones sin aviso previo y requerir el acceso inmediato para los inspectores analistas a los lugares o sistemas de almacenamiento de datos y registros mencionados anteriormente.

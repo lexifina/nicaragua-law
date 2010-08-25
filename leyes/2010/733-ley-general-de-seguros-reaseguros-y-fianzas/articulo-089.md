@@ -1,0 +1,5 @@
+# Artículo 89
+
+Libertad de Contratación del Consumidor del Seguro.
+
+El usuario puede seleccionar libremente, sin restricción alguna, a la sociedad de seguro, y en su caso, al intermediario de seguro correspondiente, pudiendo solicitar la cancelación de sus seguros o revocar la designación de su intermediario antes de la fecha de la expiración del contrato, o bien, no renovarlo a la fecha de su vencimiento, sin más responsabilidades que las que se derivan de las condiciones de la póliza en cuanto a cancelaciones a corto plazo y el pago de primas devengadas. La designación, revocación o sustitución de un intermediario por la libre voluntad del usuario no acarreará responsabilidad para la sociedad de seguro en su relación con el intermediario revocado, salvo el pago de comisiones pactadas, sobre aquellas primas devengadas durante el periodo en que se mantuvo vigente el seguro por su gestión, una vez que éstas sean pagadas por el asegurado. El Consejo Directivo podrá dictar normas de carácter general sobre esta materia.

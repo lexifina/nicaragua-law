@@ -1,0 +1,7 @@
+# Artículo 53
+
+Nombramiento de Gerente. Representación Legal.
+
+La junta directiva podrá nombrar uno o varios gerentes o ejecutivo principal, sean o no accionistas, quienes deberán llenar los requisitos establecidos en el artículo 43 y no tengan los impedimentos referidos en el artículo 44 de la presente Ley en lo que les fuere aplicable. Dichos gerentes o ejecutivo principal tendrán las facultades que expresamente se les confieran en el nombramiento o en el poder que se les otorgue. No necesitarán de autorización especial de la junta directiva, para cada acto que ejecuten en el cumplimiento de las funciones que se les haya asignado y tendrán para la realización de las mismas, la representación legal de la sociedad de seguros con amplias facultades ejecutivas. Sin perjuicio de lo dispuesto en este párrafo, la representación judicial y extrajudicial de las sociedades de seguro corresponderá al presidente de su junta directiva.
+
+El gerente general o ejecutivo principal de la sociedad de seguros, deberá remitir mensualmente a los directores toda la información que les permita conocer el estado real de la sociedad, incluyendo los registros contables para su conocimiento o examen, con el objeto de que asuman sus responsabilidades y ejerzan sus deberes de acuerdo con lo dispuesto en esta Ley. Lo anterior deberá ser un punto de agenda obligatorio de las sesiones ordinarias de la junta directiva.
