@@ -1,0 +1,7 @@
+# Artículo 57
+
+Los Centros de Atención de adultos mayores que no cumplan con los requisitos de salud, dieta alimenticia, infraestructura, idoneidad del personal y aquellos otros que el Consejo haya establecido para el funcionamiento de dichos centros, serán llamados a cumplir con tales requisitos, los cuales deberán ser subsanados por las personas o entidades encargadas de la administración de esos centros, dentro de los tres meses siguientes contados a partir de la notificación respectiva. Habiendo transcurrido este plazo, el Comité Técnico de Apoyo evaluará el estado del Centro de Atención e informará de los resultados de su evaluación al Consejo.
+
+Si el informe del Comité Técnico de Apoyo resultare de dicho Centro de Atención incumple con los requisitos exigidos, el Consejo procederá a declarar su cierre, notificando de esta resolución a su administrador y/o a su representante legal y gestionará el traslado de los adultos mayores que en él se encontraren, a otro Centro.
+
+De la Resolución de cierre, las personas o entidades encargadas del Centro podrán recurrir ante el Consejo dentro de los cinco días hábiles siguientes al de la notificación, para que éste revise su resolución. El Consejo deberá resolver dentro de los treinta días después de haber recibido el recurso de revisión interpuesto. En caso de confirmarse su Resolución procederá sin más trámite a su cierre definitivo.
