@@ -1,0 +1,3 @@
+# Artículo 29
+
+Para que los CAPS de mayor complejidad en las categorías de Mini Acueductos por Bombeo Eléctrico (MABE) puedan gozar de los beneficios de una tarifa de energía eléctrica diferenciada que le permita tener una tarifa preferencial para el bombeo, el INAA en su calidad de Autoridad de Aplicación de la Ley de los Comités de Agua Potable y Saneamiento (CAPS), deberá coordinarse con el Instituto Nicaragüense de Energía (INE), para que éste, emita la correspondiente Disposición Administrativa que incluya esa tarifa preferencial y que se garantice el beneficio contenido en el artículo 25 de la ley.

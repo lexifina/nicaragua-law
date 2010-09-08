@@ -1,0 +1,5 @@
+# Artículo 18
+
+De conformidad a las facultades y competencias establecidas en la Ley No. 40 y 261, Ley de Municipios y Ley 28. Estatuto de Autonomía de las Regiones Autónomas de la Costa Atlántica de Nicaragua, para dar cumplimiento a lo establecido en la Ley Especial de Comités de Agua Potable y Saneamiento (CAPS), los Concejos Municipales de cada Municipio en el interés social de desarrollar las comunidades rurales procederán a crear las Unidades Técnicas Municipales, las cuales de conformidad a la ley, reglamento y normas complementarias apoyarán el fortalecimiento de los CAPS. En caso de ser necesario, según las características propias de cada sitio o lugar, dicha función la podrá realizar alguna de la estructuras administrativas existentes con funciones similares en el Municipio, quien en todo caso tendrán como objetivo y responsabilidad el cumplimiento de los mandatos de la ley, el reglamento y los instrumentos que el INAA como autoridad de aplicación dicte.
+
+De las funciones de la Unidad Técnica Municipal
