@@ -1,0 +1,4 @@
+- TÍTULO I (antes del artículo 1)
+- DISPOSICIONES GENERALES (antes del artículo 1)
+- TÍTULO II (antes del artículo 6)
+- TÍTULO III (antes del artículo 13)
