@@ -1,0 +1,11 @@
+# Artículo 30
+
+Integración de la Junta Directiva. Formalidades de las Reuniones.
+
+La Junta Directiva de los Almacenes estará integrada por un mínimo de cinco directores y los suplentes que determine su propia escritura de constitución social o sus estatutos. La Junta Directiva deberá celebrar sesiones obligatoriamente al menos una vez cada tres meses. Los miembros propietarios y suplentes de la Junta Directiva serán nombrados por la Junta General de Accionistas por períodos determinados conforme a la escritura de constitución social y estatutos del Almacén, no pudiendo ser inferiores a un año. Podrán ser reelectos.
+
+Los acuerdos y resoluciones de las Juntas Directivas de los Almacenes constarán en el respectivo Libro de Actas, y deberán ser firmados al menos por el presidente y el secretario de las mismas. La participación de los demás directores en la sesión se demostrará con su firma en dicho Libro o en documento de asistencia que pasará a formar parte del acta respectiva.
+
+La Junta Directiva, con carácter excepcional, y una vez cumplidos los requisitos legales, podrá celebrar sesiones sin necesidad de reunión física de sus miembros, a través de la comunicación entre ellos por correo electrónico, teléfono, fax o por cualquier otro medio de comunicación que evidencie la participación, identificación y decisión de los participantes. En este caso, el Secretario deberá constatar lo anterior, levantando el acta correspondiente, en la que se incorpore los asuntos y las resoluciones tomadas, misma que deberá ser suscrita por el presidente y el secretario de la Junta Directiva. Los demás directores deberán, en su oportunidad, ratificar en documento aparte, con su firma su participación en la respectiva sesión.
+
+Las certificaciones de las actas deberán ser libradas por el Secretario de la Junta Directiva, o por un notario público designado por dicha Junta.
