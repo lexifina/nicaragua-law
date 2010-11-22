@@ -1,0 +1,3 @@
+# Artículo 63
+
+Sujetos Obligados a Prevenir y Reportar. Para efectos operativos serán denominados Sujetos Obligados a las instituciones financieras y demás empresas previstas en el Capítulo V de la Ley No. 285, las cuales, conforme la Ley que refiere el presente Reglamento, quedan obligadas a desarrollar mecanismos de prevención de operaciones del Lavado de Dinero, Bienes o Activos, y/o del Financiamiento al Terrorismo, y/o con relación a fondos provenientes, o que pudieran provenir, de cualquiera de las actividades ilícitas del Crimen Organizado señaladas en el artículo 3 de la Ley; o provenientes, o que pudieran provenir, de otros delitos graves conforme el Código Penal.

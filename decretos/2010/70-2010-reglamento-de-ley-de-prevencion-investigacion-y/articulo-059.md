@@ -1,0 +1,3 @@
+# Artículo 59
+
+Designación de Estructuras y Funcionarios. Sin perjuicio del personal operativo que tenga la CAF, cada una de las instituciones que la integran o que tenga delegados en la misma conforme el Capítulo IV de la Ley No. 285, tendrán, individualmente, estructuras y funcionarios especializados para atender las funciones y tareas, según competencia de cada una, de prevención y/o de supervisión y/o de investigación y/o de lucha contra el Lavado de Dinero, Bienes o Activos, y/o para el Financiamiento al Terrorismo, y/o cualquiera de las actividades ilícitas del Crimen Organizado señaladas en el artículo 3 de la Ley, y/o de otros delitos graves conforme el Código Penal. Entre las mismas deberán prestarse colaboración interinstitucional.

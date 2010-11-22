@@ -1,0 +1,3 @@
+# Artículo 35
+
+Medidas Precautelares: Además de evitar la obstrucción de una investigación, las medidas precautelares tienen como finalidad el aseguramiento de bienes y activos para evitar consecuencias ulteriores, así como la protección de elementos de convicción. En aquellas investigaciones por delitos considerados de Crimen Organizados que afecten al Estado de Nicaragua, la Procuraduría General de la República, podrá solicitar al Juez bajo la motivación debida y observando los principios de proporcionalidad, racionalidad y necesidad, la práctica de las medidas precautelares contenidas en la Ley.
