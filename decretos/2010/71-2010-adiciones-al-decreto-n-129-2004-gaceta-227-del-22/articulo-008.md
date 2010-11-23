@@ -1,0 +1,3 @@
+# Artículo 8
+
+Por adecuación de las normas Internacionales para la recaudación por la compra de boleto aéreo en el extranjero o que no esté amparada con una factura legalmente emitida en Nicaragua cuyo destino es Nicaragua de las Líneas aéreas afiliadas a ALA e IATA, comenzará a aplicarse sesenta (60) días después de publicada la Ley No. 724, Ley de Reforma Parcial a la Ley No. 495 "Ley General de Turismo". El primer pago al INTUR se debe hacer cuarenta y cinco (45) días después de cumplidos los sesenta (60) días antes expresados, de conformidad a las normas internacionales de la materia y la emisión del Código IATA.
