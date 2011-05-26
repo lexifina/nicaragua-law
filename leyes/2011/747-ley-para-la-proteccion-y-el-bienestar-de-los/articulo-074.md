@@ -1,0 +1,3 @@
+# Artículo 74
+
+La presente Ley no será de aplicación a los canes o perros, pertenecientes a la Policía Nacional, Ejército de Nicaragua, Bomberos y empresas de seguridad debidamente autorizadas. Sin embargo, se considerará como acto de crueldad el uso de los mismos en conflictos bélicos o militares o para fines que no sean de carácter humanitario o estén fuera de las competencias de las instituciones. De igual forma los métodos de instrucción para el adiestramiento de estos animales deberán garantizar el bienestar de los mismos, lo que deberá ser revisado y verificado por el Ministerio Agropecuario y Forestal.

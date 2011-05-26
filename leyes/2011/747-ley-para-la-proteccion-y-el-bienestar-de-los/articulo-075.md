@@ -1,0 +1,3 @@
+# Artículo 75
+
+Los Hospitales, Centros y Clínicas Veterinarias y otros locales destinados a la exhibición de animales domésticos y silvestres, que operan en el país y los que se creen en el futuro, deberán disponer de buenas condiciones higiénicas, sanitarias y psicológicas, de acuerdo a las necesidades fisiológicas de los animales. De igual forma deberán adoptar las medidas correspondientes para evitar las enfermedades infectocontagiosas entre los animales, además de mantener un archivo de los expedientes de cada animal que son atendidos, poniendo dicha información a disposición de la autoridad competente.
