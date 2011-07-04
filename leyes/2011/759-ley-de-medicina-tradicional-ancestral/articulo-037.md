@@ -1,0 +1,5 @@
+# Artículo 37
+
+Normas jurídicas de protección a pueblos indígenas y afro-descendientes
+
+En el aprovechamiento de los recursos de la biodiversidad existentes en el territorio nacional, se deberán reconocer los derechos de los pueblos Indígenas y afro-descendientes establecidos en la Constitución Política de la República de Nicaragua, la Ley No. 28, Estatuto de Autonomía de las Regiones Autónomas de la Costa Atlántica de Nicaragua y su Reglamento, Ley No. 217, Ley General del Medio Ambiente y de los Recursos Naturales publicada en La Gaceta, Diario Oficial No. 105 del 6 de junio de 1996, Ley No. 445, Ley del Régimen de Propiedad Comunal de los Pueblos Indígenas y Comunidades Étnicas de las Regiones Autónomas de la Costa Atlántica de Nicaragua y de los Ríos Bocas', Coco, Indio y Maíz, Declaración de las Naciones Unidas sobre los derechos de los Pueblos Indígenas, asumida por la Asamblea Nacional por Declaración A. N. No. 0(11-2008 del I I de marzo de 2008 y demás leyes vigentes sobre la materia.
