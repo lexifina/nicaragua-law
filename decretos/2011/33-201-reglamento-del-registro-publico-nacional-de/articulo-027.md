@@ -1,0 +1,5 @@
+# Artículo 27
+
+Otras inscripciones.
+
+Las resoluciones administrativas emitidas por autoridad distinta al ANA o sentencias judiciales, se inscribirán a solicitud de parte, debiendo el Registrador informar de tal acción a la Dirección General de Concesiones del ANA.
