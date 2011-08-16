@@ -1,0 +1,9 @@
+# Artículo 72
+
+Se realizarán las inspecciones e investigaciones por inspectores o funcionarios del MEM o INE, de acuerdo a su competencia, el resultado de las cuales se transcribirán en un acta informativa donde se anotan las presuntas violaciones a la Ley, este Reglamento y las normas, especificaciones técnicas y prácticas industriales aplicables.
+
+El acta podrá expresar las recomendaciones de medidas correctivas que los inspectores o funcionarios del INE o MEM tengan a bien formular al titular de la Licencia o Autorización para ser consideradas en la resolución que el INE o MEM emita. Las medidas correctivas son de obligatorio cumplimiento. El inspector incluirá en el Acta las consideraciones y objeciones que el Titular de la Licencia o Autorización o sus representantes estime conveniente.
+
+Antes de imponer sanciones pecuniarias para infracciones graves y muy graves, el caso será sometido a la evaluación por un Comité de Revisión que se formará dentro del INE, compuesto por el director específico del
+
+área, el director administrativos y el asesor legal del INE. El Comité emitirá su opinión en forma de una recomendación al funcionario competente de la imposición de la sanción, en la que podrá ofrecer al titular de la Licencia o Autorización la opción de rectificar la situación dentro de un plazo establecido, esta opción podrá ofrecerse de acuerdo al historial de inspecciones y a la gravedad de la infracción.
