@@ -1,0 +1,5 @@
+# Artículo 32
+
+Contratos de intermediación de servicios. En los casos en que otros operadores postales autorizados tengan interés de brindar sus servicios utilizando la Red Postal Pública propiedad de la Empresa Correos de Nicaragua por cualquier modalidad o medio de admisión o distribución, están obligados so pena de cometer infracción, a contratar con el Operador Postal Designado, para lo cual la Empresa Correos de Nicaragua, fijará una tarifa comercial, que según lo establecido en el artículo. 69 de la ley no podrá ser igual o inferior a la tarifa ordinaria del servicio postal universal.
+
+En los casos en que las empresas no llegaren a un acuerdo satisfactorio sobre los términos de los contratos de intermediación en un plazo de treinta días calendarios, contados a partir de la solicitud, TELCOR, a solicitud de cualquiera de las partes, decidirá en un plazo de quince días hábiles, los términos y condiciones con tarifas comerciales y ordenará la intermediación so pena de imponer las sanciones que corresponden.
