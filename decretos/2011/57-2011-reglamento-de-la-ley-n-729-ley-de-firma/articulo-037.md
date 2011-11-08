@@ -1,0 +1,3 @@
+# Artículo 37
+
+La revocación de un certificado de firma electrónica podrá producirse de oficio o a petición de su titular por la concurrencia de algunas de las causales previstas en la Ley o en este Reglamento. La solicitud de suspensión o revocación, según corresponda, se podrá dirigir al proveedor de servicios de certificación en cualquiera de las formas que prevea su Declaración de prácticas de certificación. La suspensión o revocación del certificado deberá ser comunicada inmediatamente a su titular, sin perjuicio que deba publicarse en el registro de acceso público que señala este Reglamento.
