@@ -1,0 +1,19 @@
+LEY N°. 782, LEY QUE DECLARA PATRIMONIO HISTÓRICO Y CULTURAL DE LA NACIÓN AL SANTUARIO NUESTRA SEÑORA DE LA MERCED, UBICADO EN LA CIUDAD DE LEÓN
+
+Aprobada el 09 de febrero de 2012
+
+Publicada en La Gaceta, Diario Oficial N°. 30 del 15 de febrero de 2012
+
+LEY No. 782
+
+El Presidente de la República de Nicaragua
+
+A sus habitantes, Sabed:
+
+Que,
+
+LA ASAMBLEA NACIONAL
+
+Ha ordenado la siguiente:
+
+LEY QUE DECLARA PATRIMONIO HISTÓRICO Y CULTURAL DE LA NACIÓN AL SANTUARIO NUESTRA SEÑORA DE LA MERCED, UBICADO EN LA CIUDAD DE LEÓN
