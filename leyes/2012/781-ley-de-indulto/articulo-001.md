@@ -1,0 +1,19 @@
+# Artículo 1
+
+Se concede el beneficio del Indulto de la pena principal y las accesorias derivadas de la misma, según corresponda a las siguientes personas:
+
+1. BALTODANO SÁNCHEZ EVA DEL SOCORRO
+
+2. BARRERA POTOY CARLOS JOSÉ
+
+3. ESCOBAR JORGE LUIS
+
+4. ESTRADA MARTHA ELIZABETH
+
+5. GONZÁLEZ GARCÍA MARÍA LUISA
+
+6. GUTIÉRREZ BLANCO YOCONDA DEL CARMEN Y/O GIOCONDA GUTIÉRREZ BLANCO
+
+7. MARTÍNEZ MENDOZA MARISOL DEL CARMEN
+
+8. NAVARRETE SILVA ERNESTINA DEL CARMEN
