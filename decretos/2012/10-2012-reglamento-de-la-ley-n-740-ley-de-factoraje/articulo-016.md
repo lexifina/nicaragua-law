@@ -1,0 +1,3 @@
+# Artículo 16
+
+Adecuación. Las personas dedicadas al factoraje y constituidas con anterioridad a la entrada en vigencia de la Ley, deben adecuar sus operaciones, pacto social y estatutos, a las disposiciones contenidas en la Ley, y el presente Reglamento; de no hacerlo, están impedidos de cumplir con el objeto social por ser el Registro Mercantil constitutivo de derecho, (Ley N° 698, Ley General de los Registros Públicos, Publicada en La Gaceta, Diario Oficial, N° 239 del Jueves 17 de Diciembre de 2009). Tendrán un plazo de seis meses a partir de la entrada en vigencia de este reglamento, para su completa regularización.
