@@ -1,0 +1,3 @@
+# Artículo 6
+
+Por ser la presente reforma de carácter sustancial se ordena que el texto de la Ley No. 40, Ley de Municipios, las reformas y adiciones de la Ley No. 261, Ley de reforma y adiciones a la Ley No. 40, las reformas de la Ley No. 786, Ley de reforma y adición a la Ley No. 40, la presente ley y la interpretación de la Ley No. 395, Ley de interpretación auténtica de los artículos 25 incisos d) y e) de la Ley 290 “Ley de organización, competencia y procedimientos del Poder Ejecutivo” y del inciso 12 literal b) del artículo 7 de la Ley 261 “Ley de reformas e incorporaciones a la Ley No. 40, Ley de Municipios”, sean integradas y publicadas en un solo texto en La Gaceta, Diario Oficial.
