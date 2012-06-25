@@ -1,0 +1,19 @@
+LEY N°. 794, LEY QUE DECLARA PRÓCERES DE LA INDEPENDENCIA DE CENTROAMÉRICA A TOMAS RUIZ Y A MIGUEL LARREYNAGA
+
+Aprobada el 13 de junio de 2012
+
+Publicada en La Gaceta, Diario Oficial N°. 118 del 25 de junio de 2012
+
+LEY No. 794
+
+El Presidente de la República de Nicaragua
+
+A sus habitantes, Sabed:
+
+Que,
+
+LA ASAMBLEA NACIONAL
+
+Ha ordenado la siguiente:
+
+LEY QUE DECLARA PRÓCERES DE LA INDEPENDENCIA DE CENTROAMÉRICA A TOMAS RUIZ Y A MIGUEL LARREYNAGA
