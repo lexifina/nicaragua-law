@@ -1,0 +1,19 @@
+LEY Nº. 796, LEY QUE DECLARA EL DÍA 27 DE JUNIO DE CADA AÑO DÍA DE LA RESISTENCIA NICARAGÜENSE, LA PAZ, LA UNIDAD, LA LIBERTAD Y RECONCILIACIÓN NACIONAL
+
+Aprobada el 13 de junio de 2012
+
+Publicada en La Gaceta, Diario Oficial N°. 118 del 25 de junio de 2012
+
+LEY No. 796
+
+El Presidente de la República de Nicaragua
+
+A sus habitantes, Sabed:
+
+Que,
+
+LA ASAMBLEA NACIONAL
+
+Ha ordenado la siguiente:
+
+LEY QUE DECLARA EL DÍA 27 DE JUNIO DE CADA AÑO “DÍA DE LA RESISTENCIA NICARAGÜENSE, LA PAZ, LA UNIDAD, LA LIBERTAD Y RECONCILIACIÓN NACIONAL”
