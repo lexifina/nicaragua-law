@@ -1,0 +1,23 @@
+LEY N°. 800,LEY DEL RÉGIMEN JURÍDICO DE EL GRAN CANAL INTEROCEÁNICO DE NICARAGUA Y DE CREACIÓN DE LA AUTORIDAD DE EL GRAN CANAL INTEROCEÁNICO DE NICARAGUA
+
+Aprobada el 03 de julio de 2012
+
+Publicada en La Gaceta, Diario Oficial N°. 128 del 09 de julio de 2012
+
+LEY No. 800
+
+El Presidente de la República de Nicaragua
+
+A sus habitantes, Sabed:
+
+Que,
+
+LA ASAMBLEA NACIONAL
+
+Ha ordenado la siguiente:
+
+LEY DEL RÉGIMEN JURÍDICO DE EL GRAN CANAL INTEROCEÁNICO DE NICARAGUA Y DE CREACIÓN DE LA AUTORIDAD DE EL GRAN CANAL INTEROCEÁNICO DE NICARAGUA
+
+Capítulo I
+
+Objeto, Orden Público y Naturaleza
