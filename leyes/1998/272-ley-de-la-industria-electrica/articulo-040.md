@@ -1,3 +1,7 @@
 # Artículo 40
 
-Los distribuidores, en su área de concesión de servicio eléctrico, prestarán el servicio de alumbrado público, bajo contrato celebrado con la respectiva alcaldía municipal.
+Las Distribuidoras de energía eléctrica, prestarán directamente el servicio de alumbrado público en las municipalidades dentro de su área de concesión. En consecuencia, se exime la obligación de suscripción de Contratos de Alumbrado Público con las Alcaldías Municipales. Los contratos actuales vigentes firmados entre las alcaldías y las distribuidoras relacionados al servicio de alumbrado público tendrán validez hasta su expiración conforme el plazo establecido en dichos contratos. Las distribuidoras serán directamente responsables ante cualquier reclamo o evento por el servicio de alumbrado público.
+
+El costo de la prestación del servicio de alumbrado público será recuperado por las distribuidoras en la facturación a sus clientes mediante tasas o cargos que fija el Instituto Nicaragüense de Energía (INE). Para fijar tasas y cargos por el servicio de alumbrado público, el INE deberá tomar en consideración entre otros, el desarrollo económico de cada municipalidad, los niveles de iluminación y el principio de solidaridad entre las diferentes municipalidades.
+
+El cobro por el servicio de alumbrado público se aplicará, según lo apruebe el Instituto Nicaragüense de Energía (INE), a todos los clientes localizados en áreas urbanas, eximiendo inicialmente de su pago a todos aquellos ubicados en zonas rurales. El pago en las zonas rurales se irá incorporando en la medida en que el servicio de alumbrado público sea prestado en las mismas, y que el mismo sea comprobado, normado y autorizado por el INE.

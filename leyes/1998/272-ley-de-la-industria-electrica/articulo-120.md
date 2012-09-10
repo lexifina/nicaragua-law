@@ -1,7 +1,5 @@
 # Artículo 120
 
-Los consumidores domiciliares de hasta 150 Kwh mensuales estarán exonerados del pago del I.G.V.
+Los consumidores domiciliares de hasta 150 Kwh mensuales estarán exonerados del pago del I.V.A.
 
-Capítulo XV
-
-De la Conservación del Medio Ambiente
+DE LA CONSERVACIÓN DEL MEDIO AMBIENTE

@@ -1,3 +1,3 @@
 # Artículo 72
 
-El INE establecerá los requisitos y procedimientos a los que estarán sujetas las solicitudes de concesiones y licencias.
+El Ministerio de Energía y Minas establecerá los requisitos y procedimientos a los que estarán sujetas las solicitudes de concesiones y licencias.

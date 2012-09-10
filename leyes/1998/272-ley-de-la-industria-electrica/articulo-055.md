@@ -4,6 +4,4 @@ Los grandes consumidores podrán elegir libremente al suministrador de energía 
 
 Los grandes consumidores tendrán asimismo derecho a recibir los servicios del Centro Nacional de Despacho de Carga (CNDC) y a ser representados en el Consejo de Operación, cumpliendo con todos los aspectos que le son propios y los que les establezca la Normativa de Operación.
 
-Capítulo IX
-
-De la Operación del Sistema Interconectado Nacional
+DE LA OPERACIÓN DEL SISTEMA INTERCONECTADO NACIONAL

@@ -1,3 +1,11 @@
 # Artículo 135
 
-Para adaptarse a las disposiciones de la presente Ley, la Empresa Nicaragüense de Electricidad (ENEL), será segmentada en los agentes económicos que determinen los estudios, dentro de un plazo máximo de doce meses a partir de la promulgación de la presente Ley, estos agentes se constituirán en sociedades anónimas, regidas por el derecho privado, aún cuando su titular sea el Estado.
+Por ministerio de la presente Ley, se ordena la disolución sin solución de continuidad, de las empresas siguientes:
+
+1. Empresa de Generación Hidroeléctrica, Sociedad Anónima, HIDROGESA;
+
+2. Empresa Generadora Momotombo, Sociedad Anónima, GEMOSA; y
+
+3. Empresa Generadora Central, Sociedad Anónima, GECSA.
+
+Al representante legal de la Empresa Nicaragüense de Electricidad (ENEL), le corresponde realizar las diligencias y demás trámites pertinentes en el Registro Público de la Propiedad Inmueble y Mercantil del Departamento correspondiente, para que proceda a la cancelación de las inscripciones registrales de las empresas referidas, según corresponda, para tal efecto se exime del pago de todos los aranceles registrales y bastará la invocación de la presente ley y la presentación de la solicitud de cancelación registral para darle curso a la solicitud.
