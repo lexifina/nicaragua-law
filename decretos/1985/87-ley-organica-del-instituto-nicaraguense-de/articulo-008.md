@@ -1,3 +1,3 @@
 # Artículo 8
 
-La dirección administración y representación legal del Instituto, estará a cargo de un Ministro Director con facultades de mandatario generalísimo, nombrado por el Presidente de la República, a quien informará de sus gestiones.
+La Dirección del Instituto estará a cargo de un Consejo de Dirección; el Consejo de Dirección deberá crear en forma progresiva sucursales del INE en las quince cabeceras departamentales y en las dos Regiones del Atlántico.
