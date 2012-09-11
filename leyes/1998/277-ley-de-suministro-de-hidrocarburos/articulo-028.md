@@ -1,7 +1,9 @@
 # Artículo 28
 
-El INE, en forma gradual, pondrá en vigencia por medio del método de la adopción y adaptación, normas, estándares y practicas internacionales seleccionadas, establecidas por los organismos reconocidos en la industria petrolera internacional en materia de calidad y seguridad industrial y protección del medio ambiente, aplicables a todas las operaciones e instalaciones que regula la presente Ley.
+Causales de extinción de las licencias. Son causales de extinción de las Licencias y las Autorizaciones las siguientes:
 
-El INE revisará continua y permanentemente las adiciones y cambios que experimenten las normas, estándares y practicas internacionales adoptadas, de conformidad con el párrafo anterior. Tanto en el caso de la implementación como de la actualización, el INE tomará en cuenta las condiciones del país, la opinión de los agentes económicos del sector y vigilará su cumplimiento. Las excepciones serán establecidas y aprobadas por el INE.
+a) Por el vencimiento del plazo de la misma.
 
-El INE estará obligado a informar continuamente a los participantes en la cadena de suministro de hidrocarburos y al público en general, de las normas citadas en los párrafos anteriores. Asimismo deberá tener a disposición de los interesados, la documentación referida.
+b) Por renuncia del titular del derecho.
+
+c) Por traspasos a terceros que no hayan sido debidamente autorizados por el Ministerio de Energía y Minas.

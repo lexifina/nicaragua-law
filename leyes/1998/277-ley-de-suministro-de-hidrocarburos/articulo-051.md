@@ -1,3 +1,3 @@
 # Artículo 51
 
-Los titulares de Licencias tendrán un plazo de tres años a partir de la entrada en vigencia de la presente Ley y su Reglamento para cumplir con los requisitos establecidos en la misma.
+Los contratos que se celebren entre las compañías distribuidoras y los propietarios o arrendatarios de estaciones de servicio, se realizarán de conformidad con lo dispuesto en el Código Civil, el Código de Comercio y demás leyes de la materia.

@@ -1,5 +1,3 @@
 # Artículo 16
 
-El solicitante de la Autorización, publicará un resumen de la solicitud en el formato especificado en los reglamentos, una vez por semana durante tres semanas consecutivas, en por lo menos, un periódico de amplia circulación nacional. Las personas que se sintieran afectadas, presentarán las objeciones que tuvieran al INE en un plazo máximo de quince días hábiles después de la última publicación las cuales se resolverán por la vía administrativa en un plazo máximo de treinta días hábiles después de recibida la objeción.
-
-Se exceptúan de lo establecido en esta disposición las obras menores, clasificadas así en el Reglamento de la presente Ley.
+Autorización para la Construcción de Instalaciones para hidrocarburos. La ampliación o rehabilitación de instalaciones existentes y la construcción de nuevas instalaciones de la cadena de suministro de hidrocarburos, podrán ser realizadas por todas las personas naturales o jurídicas, nacionales o extranjeras, de derecho público o privado, que tengan la Autorización para la Construcción de Instalaciones para el procesamiento, almacenamiento y comercialización de hidrocarburos, que en lo sucesivo se les denominará Autorización.

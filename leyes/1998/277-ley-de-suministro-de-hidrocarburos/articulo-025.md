@@ -1,9 +1,3 @@
 # Artículo 25
 
-Las Licencias y las Autorizaciones se extinguen:
-
-a) Por el vencimiento del plazo de la misma;
-
-b) Por renuncia del titular del derecho;
-
-c) Por traspasos a terceros que no hayan sido debidamente autorizados por el INE.
+Facultad para declarar de utilidad pública. El Ministerio de Energía y Minas podrá solicitar la declaratoria de utilidad pública, de acuerdo a lo establecido en la ley de la materia, de los bienes privados para la construcción de instalaciones, para transporte de productos y almacenamiento de la cadena de suministro de hidrocarburos. Las declaraciones de utilidad pública se tramitarán y resolverán conforme a la ley de la materia, a cuenta del titular de la autorización.

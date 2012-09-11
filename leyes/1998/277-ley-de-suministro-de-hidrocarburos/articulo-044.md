@@ -1,3 +1,7 @@
 # Artículo 44
 
-La violación o incumplimiento de cualquiera de las disposiciones contempladas en la presente Ley, su Reglamento, normas y especificaciones técnicas y de calidad, serán sancionados por el INE por medio de Resolución debidamente fundada, habiendo realizado de previo los inspectores o funcionarios del INE el levantamiento del acta informativa correspondiente.
+Para la elaboración del Plan mencionado en el Artículo anterior, el Ministerio de Energía y Minas o MEM deberá oír la opinión de los participantes en la cadena de suministro de hidrocarburos, pudiendo además contratar expertos nacionales y extranjeros.
+
+Los Planes de contingencia de cada participante de la cadena de suministro deberán estar en total concordancia con el respectivo Plan Nacional en referencia.
+
+La actualización y el contenido de tales planes serán establecidas en el Reglamento de la presente Ley.

@@ -1,5 +1,3 @@
 # Artículo 40
 
-Los titulares de Licencias tienen la obligación de vender sin retrasos sus productos y prestar servicio a todos los clientes que lo soliciten sin ningún tipo de discriminación.
-
-Se entiende por discriminación el tratamiento desigual a interesados que posean las mismas calificaciones y bajo las mismas condiciones económicas.
+Restricción de venta de bebidas alcohólicas. Se restringe al dueño, encargado o personal que atiende a clientes, de cualquier Centro de Distribución de hidrocarburos la venta de bebidas alcohólicas al consumidor para la ingesta en el sitio o quienes permitan el consumo o consuma bebidas alcohólicas en un lugar de expendio o distribución de hidrocarburos. Se le impondrá de diez a sesenta días multa o trabajo en beneficio de la comunidad de diez a sesenta jornadas de dos horas diarias. En caso de reincidencia, se les aplicará una multa equivalente a la venta del día del Centro de Distribución de hidrocarburos o gasolinera más la suspensión de la licencia por un periodo de noventa (90) días.

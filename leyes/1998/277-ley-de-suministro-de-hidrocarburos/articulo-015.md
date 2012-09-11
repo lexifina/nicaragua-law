@@ -1,3 +1,7 @@
 # Artículo 15
 
-Para las instalaciones de la cadena de suministro de hidrocarburos, comprendidas en el Artículo 11 de la presente Ley, se requerirá que el solicitante entregue al INE una copia de la resolución del permiso ambiental emitido por el Ministerio del Ambiente y Recursos Naturales (MARENA), de conformidad con las leyes y regulaciones ambientales vigentes.
+Remisión de copia del expediente de la licencia. La Licencia se podrá otorgar para el ejercicio de todas, algunas o cada una de las actividades de la cadena del suministro de hidrocarburos según la presente Ley y su Reglamento.
+
+Como parte de los requisitos de la solicitud de Autorización de Construcción Petrolera para la ampliación, rehabilitación o construcción de nuevas instalaciones de la cadena de suministro de hidrocarburos, los agentes económicos deberán entregar original y copia de los planos respectivos al Ministerio de Energía y Minas.
+
+Una vez otorgada la licencia, el Ministerio de Energía y Minas deberá remitir al Instituto Nicaragüense de Energía, dentro del término de siete días hábiles, la información básica de la Licencia emitida y copia de los planos de construcción en su caso, para que el Ente Regulador cumpla con su función de regulación.

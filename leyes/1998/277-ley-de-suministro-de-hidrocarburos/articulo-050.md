@@ -1,3 +1,5 @@
 # Artículo 50
 
-Al entrar en vigencia la presente Ley, las Licencias que hayan sido otorgadas por el Instituto Nicaragüense de Energía quedan vigentes, hasta la conclusión del período para el cual fueron otorgadas. Para la renovación de la Licencia deberá cumplirse con lo establecido en los Artículos 11 y 14 de la presente Ley.
+Los titulares de licencias tienen la obligación de vender sin retrasos sus productos y prestar servicio a todos los clientes que lo soliciten sin ningún tipo de discriminación.
+
+Se entiende por discriminación el tratamiento desigual a interesados que posean las mismas calificaciones y bajo las mismas condiciones económicas.

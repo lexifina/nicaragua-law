@@ -1,3 +1,7 @@
 # Artículo 35
 
-Cuando ocurriesen accidentes que pongan en peligro el medio ambiente, o la seguridad ciudadana, sin perjuicio de la responsabilidad a que hubiesen lugar, el INE tendrá las facultades para establecer un Comité Técnico de Emergencia que indique a los participantes de la cadena de suministro de hidrocarburos, las medidas a tomar y en el caso que estos no las ejecutasen en un determinado período de tiempo, contratará a quien lo haga y obligará al participante a sufragar sus costos.
+Intercambio de cilindros de gas entre distribuidores. Los importadores y distribuidores de gas licuado deberán proceder a intercambiar el viernes de cada semana todos los cilindros de gas que les pertenezcan a las otros distribuidores, de cada intercambio se deberá de realizar un acta la cual tendrá que ser remitida al INE y una copia para cada una de las partes involucradas. En los casos de que éste no se efectué, el INE aplicará a las empresas que se nieguen a realizar el intercambio una multa equivalente al valor de los cilindros retenidos por cada vez que no se realice el intercambio.
+
+En ningún caso de intercambio habrá pago en concepto del mismo entre las empresas distribuidoras.
+
+NORMAS Y ESPECIFICACIONES DE CALIDAD, SEGURIDAD Y PROTECCIÓN AL MEDIO AMBIENTE.

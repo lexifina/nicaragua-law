@@ -1,9 +1,5 @@
 # Artículo 10
 
-El costo para la regulación y fiscalización de las actividades de hidrocarburos, será sufragado por un cargo de hasta seis centavos de dólar norteamericano por barril de petróleo o productos derivados vendidos.
+Para el cumplimiento de sus atribuciones de regulación y supervisión, el INE podrá realizar inspecciones, tomar muestras, realizar pruebas y ensayos, solicitar información y documentación pertinente, al alcance de la presente Ley en las instalaciones de los participantes en la cadena de suministro de hidrocarburos.
 
-El costo se aplicará a los hidrocarburos y sus derivados que sean vendidos en el territorio nacional, así como a las importaciones que realizaren personas naturales o jurídicas del dominio público o privado para su propio consumo.
-
-Este cargo no gravará las exportaciones de hidrocarburos o sus derivados. El cargo de seis centavos por barril para los hidrocarburos y sus derivados será incorporado en la estructura de costo de los productos.
-
-LICENCIAS Y AUTORIZACIONES
+De las actividades realizadas según el párrafo anterior los funcionarios e inspectores del INE, levantarán las actas informativas correspondientes.

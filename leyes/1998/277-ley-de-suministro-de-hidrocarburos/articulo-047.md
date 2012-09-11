@@ -1,3 +1,7 @@
 # Artículo 47
 
-Las sanciones se aplicarán conforme lo que se establezca en el reglamento de la presente Ley, según la gravedad se impondrá progresiva y escalonadamente las siguientes: Amonestaciones, multas, suspensión de la Licencia o Autorización y cancelación definitiva de la Licencia o Autorización. Todo sin perjuicio de las responsabilidades penales o civiles a que pudiera haber lugar o al derecho de utilizar los recursos que la ley establece.
+Mientras dure el período de emergencia, el INE podrá:
+
+a) Establecer temporalmente inventarios especiales mínimos, que deberán mantener los participantes en la cadena de suministro de hidrocarburos a fin de garantizar el adecuado abastecimiento de hidrocarburos al país;
+
+b) Establecer temporalmente sistemas de control de precios de venta al consumidor de los derivados.
