@@ -6,4 +6,4 @@ En cualquiera de los casos cuando el solicitante haya cumplido con todos los req
 
 Los contratos serán firmados por el Presidente de la República o su delegado y serán efectivos a partir de la fecha de su suscripción.
 
-Los contratos una vez aprobados solo podrán ser modificados por acuerdo entre el contratista y el INE, quien actuará con autorización previa del Presidente de la República.
+Los contratos una vez aprobados solo podrán ser modificados por acuerdo entre el contratista y el Ministerio de Energía y Minas, quien actuará con autorización previa del Presidente de la República.

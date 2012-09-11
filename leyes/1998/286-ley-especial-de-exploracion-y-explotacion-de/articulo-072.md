@@ -1,6 +1,6 @@
 # Artículo 72
 
-El INE está facultado para imponer multas por violación a las disposiciones de la presente Ley y el incumplimiento de aquellas obligaciones contractuales que no impliquen la terminación del contrato; lo anterior será sin perjuicio de la indemnización o reparación de los daños producidos.
+El Ministerio de Energía y Minas está facultado para imponer multas por violación a las disposiciones de la presente Ley y el incumplimiento de aquellas obligaciones contractuales que no impliquen la terminación del contrato; lo anterior será sin perjuicio de la indemnización o reparación de los daños producidos.
 
 El monto de las multas se fijaran en el Reglamento, de conformidad con lo dispuesto en este artículo y no podrán ser de carácter confiscatorio ni poner en peligro los activos del contratista.
 

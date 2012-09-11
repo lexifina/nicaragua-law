@@ -1,6 +1,6 @@
 # Artículo 8
 
-Bajo los términos que se establecen en la presente Ley, el INE tendrá las siguientes atribuciones:
+Bajo los términos que se establecen en la presente Ley, el Ministerio de Energía y Minas tendrá las siguientes atribuciones:
 
 a) Proponer para aprobación de la Presidencia de la República, las áreas que se abrirán para la exploración y explotación de hidrocarburos;
 

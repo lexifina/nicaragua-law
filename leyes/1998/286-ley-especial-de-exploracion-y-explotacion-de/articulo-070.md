@@ -6,7 +6,7 @@ a) Al vencimiento del plazo contractual por el que han sido otorgados;
 
 b) Al término de la fase de exploración, sin que el contratista haya hecho declaración de descubrimiento comercial y no esté vigente un período de retención;
 
-c) Por la renuncia expresa acordada entre las partes, presentada por escrito ante el INE con tres (3) meses de anticipación, señalando los motivos de la misma;
+c) Por la renuncia expresa acordada entre las partes, presentada por escrito ante el Ministerio de Energía y Minas con tres (3) meses de anticipación, señalando los motivos de la misma;
 
 d) Por sentencia firme de tribunal competente;
 
