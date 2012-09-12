@@ -1,12 +1,12 @@
 # Artículo 43
 
-El INE podrá decretar la cancelación de la concesión de exploración o explotación otorgadas de conformidad a esta Ley, por las causas siguientes:
+El Ministerio de Energía y Minas podrá decretar la cancelación de la concesión de exploración o explotación otorgadas de conformidad a esta Ley, por las causas siguientes:
 
-a) Por la resistencia manifiesta y reiterada del concesionario, de sus representantes o de sus empleados, a no permitir por parte del INE, la inspección, vigilancia y fiscalización establecidas en el contrato de exploración o explotación respectivos, o que se fijen en esta Ley y su Reglamento.
+a) Por la resistencia manifiesta y reiterada del concesionario, de sus representantes o de sus empleados, a no permitir por parte del Ministerio de Energía y Minas, la inspección, vigilancia y fiscalización establecidas en el contrato de exploración o explotación respectivos, o que se fijen en esta Ley y su Reglamento.
 
-b) Por la negativa manifiesta y reiterada del concesionario, de sus representantes o de sus empleados, a rendir los informes obligatorios o los que se les sean solicitados oficialmente por el INE, de acuerdo a esta Ley y su reglamento y al contrato respectivo y a las demás leyes y normativas aplicables.
+b) Por la negativa manifiesta y reiterada del concesionario, de sus representantes o de sus empleados, a rendir los informes obligatorios o los que se les sean solicitados oficialmente por el Ministerio de Energía y Minas, de acuerdo a esta Ley y su reglamento y al contrato respectivo y a las demás leyes y normativas aplicables.
 
-c) Por brindar informaciones falsas, comprobadas, al INE.
+c) Por brindar informaciones falsas, comprobadas, al Ministerio de Energía y Minas.
 
 d) Por realizar la explotación en forma irracional en contraposición con lo establecido en esta Ley y su Reglamento.
 
