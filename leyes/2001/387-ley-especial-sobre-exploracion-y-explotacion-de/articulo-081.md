@@ -1,6 +1,6 @@
 # Artículo 81
 
-Los concesionarios mineros enviarán anualmente al Ministerio de Fomento, Industria y Comercio y Comercio los informes o documentos siguientes:
+Los concesionarios mineros enviarán anualmente al Ministerio de Energía y Minas los informes o documentos siguientes:
 
 a) Personal empleado
 

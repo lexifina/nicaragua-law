@@ -1,10 +1,12 @@
-LEY N°. 387, LEY ESPECIAL SOBRE EXPLORACIÓN Y EXPLOTACIÓN DE MINAS
+TEXTO CONSOLIDADO 2011. LEY Nº. 387, LEY ESPECIAL SOBRE EXPLORACIÓN Y EXPLOTACIÓN DE MINAS
 
-Aprobada el 26 de junio de 2001
+Aprobado el 07 de julio de 2011
 
-Publicada en la Gaceta, Diario Oficial N°. 151 de 13 de agosto de 2001
+Publicada en La Gaceta, Diario Oficial N°. 174 del 12 de septiembre de 2012
 
-LEY No. 387
+Digesto Jurídico del Sector Energético 2011.
+
+El presente texto contiene incorporadas todas las normas, reformas y derogaciones vigentes y consolidadas al 7 de julio de 2011, de la Ley No. 387, Ley Especial sobre Exploración y Explotación de Minas, aprobada el 13 de marzo de 2001, publicada en La Gaceta, Diario Oficial No. 151 del 13 de agosto de 2001, y se ordena su publicación en La Gaceta, Diario Oficial, conforme se establece en el parágrafo II del Título Preliminar del Código Civil y el Título Quinto de la Ley No. 606, Ley Orgánica del Poder Legislativo.
 
 EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
@@ -40,8 +42,8 @@ HA DICTADO
 
 La siguiente:
 
-LEY ESPECIAL SOBRE EXPLORACION Y EXPLOTACION DE MINAS
+LEY ESPECIAL SOBRE EXPLORACIÓN Y EXPLOTACIÓN DE MINAS
 
-CAPITULO I
+CAPÍTULO I
 
 DISPOSICIONES GENERALES

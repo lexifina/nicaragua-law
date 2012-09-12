@@ -1,10 +1,10 @@
 # Artículo 51
 
-El Ministerio de Fomento, Industria y Comercio, a través de la Dirección General de Recursos Naturales con la colaboración de la Administración Nacional de Recursos Geológicos, AdGeo, llevará un Registro Central de Concesiones en el que se inscribirán los actos y contratos que a continuación se mencionan:
+El Ministerio de Energía y Minas llevará un Registro Central de Concesiones en el que se inscribirán los actos y contratos que a continuación se mencionan:
 
 a) Los títulos de concesiones mineras, las prórrogas de éstas y las declaraciones de su nulidad o cancelación.
 
-b) Los actos o contratos relativos a la transmisión de la titularidad de concesiones mineras o de los derechos derivados, los de promesa para celebrarlos, los gravámenes que se constituyan en relación con la misma, así como los convenios que los afectan.
+b) Los actos o contratos relativos a la transmisión de la titularidad de concesiones mineras o de los derechos derivados, los de promesa para celebrarlos, los gravámenes que se constituyan en relación con las mismas, así como los convenios que los afectan.
 
 c) Las resoluciones y acuerdos de ocupación y constitución de servidumbres, al igual que las que se emitan sobre su cancelación.
 

@@ -12,6 +12,6 @@ Cualquier violación a las obligaciones y regulaciones establecidas en esta Ley,
 
 5) Extraer ilícitamente sustancias minerales.
 
-6) Cometer irregularidades en los registros de producción legal del personal técnico del Ministerio de Fomento Industria y Comercio.
+6) Cometer irregularidades en los registros de producción legal del personal técnico del Ministerio de Energía y Minas.
 
 7) Dar información falsa sobre la cantidad y calidad de las sustancias minerales extraídas o producidas.
