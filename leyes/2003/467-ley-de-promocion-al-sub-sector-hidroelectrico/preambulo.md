@@ -1,12 +1,16 @@
-LEY N°. 467, LEY DE PROMOCIÓN AL SUB-SECTOR HIDROELÉCTRICO
+TEXTO CONSOLIDADO 2011. LEY N°. 467, LEY DE PROMOCIÓN AL SUB-SECTOR HIDROELÉCTRICO
 
-Aprobada el 09 de julio de 2003
+Aprobada el 07 de julio del 2011
 
-Publicada en La Gaceta, Diario Oficial N°. 169 del 05 de septiembre de 2003
+Publicada en la Gaceta, Diario Oficial Nº. 174 del 12 de septiembre de 2012
+
+Digesto Jurídico del Sector Energético 2011.
+
+El presente texto contiene incorporadas todas las normas, reformas y derogaciones vigentes y consolidadas al de 7 julio de 2011, de la Ley No. 467, Ley de Promoción al Sub-Sector Hidroeléctrico, aprobada el 9 de julio de 2003, publicada en La Gaceta, Diario Oficial No. 169 del 5 de septiembre de 2003, y se ordena su publicación en La Gaceta, Diario Oficial, conforme se establece en el parágrafo II del Título Preliminar del Código Civil y el Título Quinto de la Ley No. 606, Ley Orgánica del Poder Legislativo.
 
 LEY No. 467
 
-EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA,
 
 Hace saber al pueblo nicaragüense que:
 
