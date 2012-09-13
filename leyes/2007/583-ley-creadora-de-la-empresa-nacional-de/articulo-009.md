@@ -1,8 +1,6 @@
 # Artículo 9
 
-Sesiones de Junta Directiva y Quórum
-
-La Junta Directiva podrá celebrar Sesiones Ordinarias una vez al mes, correspondiendo a la Junta Directiva establecer la fecha de realización, y extraordinaria cuantas veces sea necesaria de acuerdo a los intereses de la Empresa y el Estado.
+Sesiones de Junta Directiva y Quórum. La Junta Directiva podrá celebrar Sesiones Ordinarias una vez al mes, correspondiendo a la Junta Directiva establecer la fecha de realización, y extraordinaria cuantas veces sea necesaria de acuerdo a los intereses de la Empresa y el Estado.
 
 Las Sesiones Extraordinarias serán convocadas por el Presidente de la Junta Directiva, sea por iniciativa propia o a solicitud de al menos dos de sus miembros. El Presidente de la Junta Directiva regulará el orden de las Sesiones y deberá dar la agenda de trabajo al menos con cuarenta y ocho horas de anticipación y hacer públicas las resoluciones que se adopten, salvo aquellos casos, que a criterio de la Junta Directiva deban ser estrictamente de uso interno.
 
