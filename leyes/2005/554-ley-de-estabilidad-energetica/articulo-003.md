@@ -8,7 +8,7 @@ b) La Policía Nacional apoyará el descongestionamiento de vías en las horas d
 
 c) El Fondo de Mantenimiento Vial propondrá un Plan de Reducción de obstáculos viales o reductores de velocidad no justificados en todas las carreteras del país.
 
-d) Las Alcaldías deberán regular la circulación del servicio de transporte selectivo, sea por turnos o por días de acuerdo a si las placas son pares o impares.
+d)Las Alcaldías deberán regular la circulación del servicio de transporte selectivo, sea por turnos o por días de acuerdo a si las placas son pares o impares.
 
 e) Transferir el dinero recibido por el arrendamiento de Petronic a un Fondo de Crisis Energética creado por la presente Ley.
 

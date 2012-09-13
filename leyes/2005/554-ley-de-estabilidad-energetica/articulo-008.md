@@ -1,6 +1,6 @@
 # Artículo 8
 
-Creáse un Fondo de Crisis Energética, que estará constituido por:
+Créese un Fondo de Crisis Energética, que estará constituido por:
 
 a. El 50% de los excedentes que se identifiquen por el Ente Regulador, de acuerdo a lo establecido en el artículo 2 de la presente Ley.
 
