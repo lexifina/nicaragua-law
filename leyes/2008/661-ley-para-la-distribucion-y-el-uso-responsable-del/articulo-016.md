@@ -1,8 +1,6 @@
 # Artículo 16
 
-Línea directa manifiesta.
-
-La comprobación, con la presencia del INE, de la existencia de una línea directa manifiesta en un servicio eléctrico facultará a la Empresa Distribuidora para:
+Línea directa manifiesta. La comprobación, con la presencia del INE, de la existencia de una línea directa manifiesta en un servicio eléctrico facultará a la Empresa Distribuidora para:
 
 a) Retirar de inmediato la línea directa.
 

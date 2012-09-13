@@ -1,8 +1,6 @@
 # Artículo 14
 
-Procedimiento.
-
-En el caso de Clientes o Consumidores domiciliares cuyo equipo de medición se encuentre dentro de su propiedad, las inspecciones serán realizadas solamente con la autorización del propietario o del que habita la vivienda o con autorización judicial, de lunes a sábado entre las ocho de la mañana y las ocho de la noche.
+Procedimiento. En el caso de Clientes o Consumidores domiciliares cuyo equipo de medición se encuentre dentro de su propiedad, las inspecciones serán realizadas solamente con la autorización del propietario o del que habita la vivienda o con autorización judicial, de lunes a sábado entre las ocho de la mañana y las ocho de la noche.
 
 Las otras inspecciones en los equipos de medición así como en las conexiones y reconexiones de los medidores se realizarán en cualquier día y hora.
 

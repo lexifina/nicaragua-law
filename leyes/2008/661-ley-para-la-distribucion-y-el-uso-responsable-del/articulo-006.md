@@ -1,8 +1,6 @@
 # Artículo 6
 
-Infracciones de la Empresa Distribuidora o prestadora del servicio público de energía eléctrica.
-
-Constituyen infracciones de la Empresa Distribuidora o prestadora del servicio público de energía eléctrica las siguientes:
+Infracciones de la Empresa Distribuidora o prestadora del servicio público de energía eléctrica. Constituyen infracciones de la Empresa Distribuidora o prestadora del servicio público de energía eléctrica las siguientes:
 
 a) Instalar equipos de medición sin que hayan sido previamente certificados por el INE.
 
@@ -10,9 +8,7 @@ b) Suspender por falta de pago el servicio de energía eléctrica a los Clientes
 
 c) Cortar el servicio a un Cliente o Consumidor que presente la factura o facturas canceladas a la cuadrilla en el momento del corte, o cuando el Cliente o Consumidor tiene un comprobante de pago realizado por cualquier medio y forma, emitido por institución competente, por el período de consumo que motivará la orden de suspensión del Servicio de Energía Eléctrica.
 
-d) Realizar las inspecciones del servicio público previstas en el procedimiento contenido en el Capítulo II de esta Ley, sin la presencia del INE, sin notificar al cliente, consumidor o su Representante.
-
-e) Alterar intencionalmente la cuenta del cliente o consumidor vía factura. El monto total de estas facturas deberá ser compensado al cliente o consumidor cuando así lo certifique el INE hasta por dos veces el valor cobrado o intentado cobrar.
+d) Realizar las inspecciones del servicio público previstas en el procedimiento contenido en el Capítulo II de esta Ley, sin la presencia del INE, sin notificar al cliente, consumidor o su Representante. e) Alterar intencionalmente la cuenta del cliente o consumidor vía factura. El monto total de estas facturas deberá ser compensado al cliente o consumidor cuando así lo certifique el INE hasta por dos veces el valor cobrado o intentado cobrar.
 
 f) Solicitar o cobrar al cliente el costo de los materiales o equipos para hacer reparaciones y mantenimientos que constituyen responsabilidad de la empresa prestadora del servicio público de energía eléctrica, este monto deberá ser compensado al cliente aún cuando no hubiese sido cancelado.
 

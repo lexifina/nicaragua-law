@@ -1,8 +1,6 @@
 # Artículo 2
 
-Definiciones.
-
-Para los fines de esta Ley se entiende por:
+Definiciones. Para los fines de esta Ley se entiende por:
 
 a) Servicio de Energía Eléctrica: Servicio prestado por un agente, distribuidor y comercializador de energía eléctrica que incluye el suministro de potencia de energía eléctrica en el punto de entrega al cliente, sin considerar si esta energía se está usando o no. Este servicio debe ser prestado de forma continua, eficiente y segura a los Clientes, Consumidores o Usuarios con la debida fiscalización del Ente Regulador.
 

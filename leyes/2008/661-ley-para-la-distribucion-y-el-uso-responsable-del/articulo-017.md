@@ -1,12 +1,8 @@
 # Artículo 17
 
-Procedimiento de reclamo ante el INE.
+Procedimiento de reclamo ante el INE. En cualquier caso de las infracciones establecidas en la presente ley, en las que el Cliente o Consumidor no estuviese de acuerdo con el dictamen de la Empresa Distribuidora y habiendo reclamado ante la misma, en primera y segunda instancia, tal como lo establece la Normativa de Servicio Eléctrico, podrá hacer uso de los siguientes recursos administrativos ante el INE:
 
-En cualquier caso de las infracciones establecidas en la presente ley, en las que el Cliente o Consumidor no estuviese de acuerdo con el dictamen de la Empresa Distribuidora y habiendo reclamado ante la misma, en primera y segunda instancia, tal como lo establece la Normativa de Servicio Eléctrico, podrá hacer uso de los siguientes recursos administrativos ante el INE:
-
-1. El Recurso de Revisión en la vía administrativa para los clientes, consumidores cuyos derechos se consideren perjudicados por actos del prestador de servicio. Este Recurso deberá interponerse en el término de quince días hábiles a partir del día siguiente de la notificación.
-
-El escrito de interposición deberá expresar, nombre y domicilio del recurrente, acto contra el cual recurre, motivo de la impugnación y lugar para notificaciones.
+1. El Recurso de Revisión en la vía administrativa para los clientes, consumidores cuyos derechos se consideren perjudicados por actos del prestador de servicio. Este Recurso deberá interponerse en el término de quince días hábiles a partir del día siguiente de la notificación. El escrito de interposición deberá expresar, nombre y domicilio del recurrente, acto contra el cual recurre, motivo de la impugnación y lugar para notificaciones.
 
 Es competente para conocer este recurso la Dirección General de Electricidad del INE.
 
@@ -22,6 +18,6 @@ Si en cualquier estado del procedimiento administrativo se llegase a establecer 
 
 El INE estará obligado a resolver en los plazos establecidos en la ley y en las normativas correspondientes los recursos administrativos aquí establecidos.
 
-De no resolver el recurso de revisión o el de apelación administrativa en su caso en los plazos establecidos en este artículo, operará el silencio administrativo positivo a favor del recurrente, sin perjuicio de la responsabilidad de los funcionarios del INE por la falta de resolución oportuna. '
+De no resolver el recurso de revisión o el de apelación administrativa en su caso en los plazos establecidos en este artículo, operará el silencio administrativo positivo a favor del recurrente, sin perjuicio de la responsabilidad de los funcionarios del INE por la falta de resolución oportuna.
 
 Para la acción penal la certificación del INE constituirá indicio de la comisión de un hecho delictivo, debiendo atribuirse el delito a los presuntos responsables y probarse el dolo y la responsabilidad personal conforme las disposiciones de las leyes penales.

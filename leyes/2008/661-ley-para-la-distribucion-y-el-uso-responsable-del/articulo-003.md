@@ -1,8 +1,6 @@
 # Artículo 3
 
-Infracciones de los Clientes o Consumidores.
-
-Constituyen infracciones a la prestación del servicio de energía eléctrica, las siguientes:
+Infracciones de los Clientes o Consumidores. Constituyen infracciones a la prestación del servicio de energía eléctrica, las siguientes:
 
 a) Instalar, por sí o mediante terceros, conexiones que eviten que la energía consumida pase a través del dispositivo de medición.
 
