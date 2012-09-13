@@ -1,7 +1,7 @@
-Dado en la ciudad de Managua, Casa de la Presidencia, a los catorce días del mes de Junio de mil novecientos noventa y cinco. Violeta Barrios de Chamorro, Presidente de la República de Nicaragua.
+Dado en la ciudad de Managua, Casa de la Presidencia, a los catorce días del mes de junio de mil novecientos noventa y cinco. Violeta Barrios de Chamorro, Presidente de la República de Nicaragua.
 
-Observación: La Ley N°. 883, Ley de Reformas al Decreto N°. 26-95, “Reforma a la Ley Orgánica de la Empresa Nicaragüense del Petróleo (PETRONIC), publicada en La Gaceta, Diario Oficial N°. 199 del 21 de octubre de 2014, determina en el artículo segundo que a partir de su vigencia, el Decreto N°. 26-95 se denominará Ley Nº. 883 “Ley Orgánica de la Empresa Nicaragüense del Petróleo (PETRONIC)”
+NOTA DE CONSOLIDACIÓN. Este texto contiene la reforma íntegra del Decreto No. 902, Ley Orgánica de PETRONIC, publicada en La Gaceta, Diario Oficial No. 286 del 16 de diciembre de 1981 e incorpora las modificaciones producidas por el Decreto No. 67-2007, “Reforma al Decreto No. 26-95, Reforma a la Ley Orgánica de la Empresa Nicaragüense del Petróleo (PETRONIC)”, publicado en La Gaceta, Diario Oficial No. 132 del 12 de julio del 2007.
 
-El Texto Consolidado de la Ley N°. 883, Ley Orgánica de la Empresa Nicaragüense del Petróleo (PETRONIC), fue aprobado y publicado en la Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero.
+Dado en la ciudad de Managua, en el Salón de Sesiones de la Asamblea Nacional, a los siete días del mes de julio del año dos mil once.- Ing. René Núñez Téllez, Presidente de la Asamblea Nacional. Dr. Wilfredo Navarro, Secretario de la Asamblea Nacional.
 
 .

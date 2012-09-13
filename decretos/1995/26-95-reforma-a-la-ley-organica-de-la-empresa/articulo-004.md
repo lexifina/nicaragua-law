@@ -1,6 +1,6 @@
 # Artículo 4
 
-Son órganos de dirección y administración de la Empresa los siguiente:
+Son órganos de dirección y administración de la Empresa lo siguiente:
 
 a) Una Junta Directiva, y
 

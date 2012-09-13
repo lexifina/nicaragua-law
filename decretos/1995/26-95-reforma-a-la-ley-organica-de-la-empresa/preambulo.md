@@ -1,14 +1,18 @@
-REFORMA A LA LEY ORGÁNICA DE LA EMPRESA NICARAGÜENSE DEL PETROLEO (PETRONIC)
+TEXTO CONSOLIDADO 2011. DECRETO EJECUTIVO Nº. 26-95, REFORMA A LA LEY ORGÁNICA DE LA EMPRESA NICARAGÜENSE DEL PETRÓLEO (PETRONIC)
 
-DECRETO EJECUTIVO N°. 26-95, aprobado el 14 de junio de 1995
+DECRETO EJECUTIVO N°. 26-95, aprobado el 07 de julio de 2011
 
-Publicado en La Gaceta, Diario Oficial N°. 118 del 26 de junio de 1995
+Publicado en La Gaceta, Diario Oficial N°. 175 del 13 de septiembre de 2012
 
-REFORMA A LA LEY ORGANICA DE LA EMPRESA NICARAGUENSE DEL PETROLEO (PETRONIC)
+Digesto Jurídico del Sector Energético 2011
 
-DECRETO No. 26-95
+El presente texto contiene incorporadas todas las normas, reformas y derogaciones vigentes y consolidadas al 7 de julio de 2011, del Decreto No. 26-95, Reforma a la Ley Orgánica de la Empresa Nicaragüense del Petróleo (PETRONIC), aprobado el 14 de junio de 1995, publicado en La Gaceta, Diario Oficial No. 118 del 26 de junio de 1995, y se ordena su publicación en La Gaceta, Diario Oficial, conforme se establece en el parágrafo II del Título Preliminar del Código Civil y el Título Quinto de la Ley No. 606, Ley Orgánica del Poder Legislativo.
 
-El Presidente de la República de Nicaragua,
+REFORMA A LA LEY ORGÁNICA DE LA EMPRESA NICARAGÜENSE DEL PETRÓLEO (PETRONIC)
+
+Decreto Ejecutivo N°. 26 – 95
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA,
 
 CONSIDERANDO
 
@@ -24,7 +28,7 @@ HA DICTADO
 
 El siguiente Decreto de:
 
-REFORMA A LA LEY ORGANICA DE LA EMPRESA NICARAGUENSE DEL PETRÓLEO (PETRONIC)
+REFORMA A LA LEY ORGÁNICA DE LA EMPRESA NICARAGÜENSE DEL PETRÓLEO (PETRONIC)
 
 CAPÍTULO I
 
