@@ -1,6 +1,6 @@
 # Artículo 7
 
-INCENTIVOS: Los nuevos proyectos y las ampliaciones que clasifican como PGEFR de acuerdo a esta Ley, realizados por personas naturales y jurídicas, privadas, públicas o mixtas gozarán de los siguientes incentivos:
+INCENTIVOS. Los nuevos proyectos y las ampliaciones que clasifican como PGEFR de acuerdo a esta Ley, realizados por personas naturales y jurídicas, privadas, públicas o mixtas gozarán de los siguientes incentivos:
 
 1. Exoneración del pago de los Derechos Arancelarios de Importación (DAI), de maquinaria, equipos, materiales e insumos destinados exclusivamente para las labores de pre inversión y las labores de la construcción de las obras incluyendo la construcción de la línea de subtransmisión necesaria para transportar la energía desde la central de generación hasta el Sistema Interconectado Nacional (SIN).
 
@@ -12,7 +12,9 @@ En el caso de los proyectos denominados Sistemas Aislados con generación propia
 
 3. Exoneración del pago del Impuesto sobre la Renta (IR) y del pago mínimo definido del IR establecido en la Ley No. 453, Ley de Equidad Fiscal, por un período máximo de 7 años partir de la entrada de operación comercial o mercantil del Proyecto. Igualmente, durante este mismo periodo estarán exentos del pago del IR los ingresos derivados por venta de bonos de dióxido de carbono.
 
-4. Exoneración de todos los Impuestos Municipales vigentes sobre bienes inmuebles, ventas, matrículas durante la construcción del Proyecto, por un período de 10 años a partir de la entrada en operación comercial del Proyecto, la que se aplicará de la forma siguiente: exoneración del 75% en los tres primeros años; del 50% en los siguientes cinco años y el 25% en los dos últimos años. Las inversiones fijas en maquinaria, equipos y presas hidroeléctricas estarán exentas de todo tipo de impuestos, gravámenes, tasas municipales, por un periodo de 10 años a partir de su entrada en operación comercial.
+4. Exoneración de todos los Impuestos Municipales vigentes sobre bienes inmuebles, ventas, matrículas durante la construcción del Proyecto, por un período de 10 años a partir de la entrada en operación comercial del Proyecto, la que se aplicará de la forma siguiente: exoneración del 75% en los tres primeros años; del 50% en los siguientes cinco años y el 25% en los dos últimos años.
+
+Las inversiones fijas en maquinaria, equipos y presas hidroeléctricas estarán exentas de todo tipo de impuestos, gravámenes, tasas municipales, por un periodo de 10 años a partir de su entrada en operación comercial.
 
 5. Exoneración de todos los impuestos que pudieran existir por explotación de riquezas naturales por un período máximo de 5 años después del inicio de operación.
 
