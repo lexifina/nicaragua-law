@@ -25,3 +25,4 @@
 - CAPÍTULO XXIII (antes del artículo 170)
 - CAPÍTULO XXIV (antes del artículo 182)
 - CAPÍTULO XXV (antes del artículo 191)
+- CAPITULO XXVI (antes del artículo 193)

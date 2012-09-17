@@ -1,3 +1,5 @@
 # Artículo 137
 
-Previa autorización del INE y transcurridos tres años a partir de la fecha de la firma del contrato, las concesiones o licencias, incluyendo los bienes y derechos destinados a su objeto, podrán ser transferidos a terceros calificados.
+Previa autorización del Ministerio de Energía y Minas y transcurridos tres años a partir de la fecha de la firma del contrato, las concesiones o licencias, incluyendo los bienes y derechos destinados a su objeto, podrán ser transferidas a terceros calificados.
+
+Se exceptúa de lo antes dispuesto, cuando la cesión de la licencia o concesión se efectué en garantía de un crédito obtenido con instituciones financieras; ya sean estas nacionales o internacionales destinadas al financiamiento para el desarrollo del proyecto. En caso de que dicha Cesión en garantía fuere ejecutada por el acreedor, este deberá convenir con una entidad de amplia y reconocida experiencia técnica y con capacidad financiera la continuidad del proyecto, para poder efectuar tal convenio, la concesionaria o licenciataria deberá obtener la autorización previa del Ministerio de Energía y Minas a quien corresponderá determinar la capacidad técnica financiera referida en un plazo que no podrá exceder los noventa días.

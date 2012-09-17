@@ -1,3 +1,5 @@
 # Artículo 184
 
-Para dichas infracciones el INE impondrá una multa mínima equivalente al importe del precio de venta de no menos de trescientos mil (300.000) kilovatios-hora, de acuerdo a la tarifa promedio vigente en el lugar y una máxima conforme lo fijado en el Arto. 126 de la Ley.
+Para dichas infracciones y las establecidas en la Normativas de Multas y Sanciones, el Instituto Nicaragüense de Energía (INE), iniciará un proceso sumario e impondrá la sanción correspondiente de acuerdo a lo establecido en el Arto. 126 de la Ley No 272, Ley de la Industria Eléctrica, basándose en el principio de gradualidad y en función de la gravedad de la infracción.
+
+Para la determinación de las sanciones se debe considerar, la importancia del daño causado o del peligro ocasionado, el porcentaje de usuarios afectados por la infracción, el beneficio económico obtenido con motivo de la infracción, la intencionalidad y el grado de participación en la infracción, la conducta anterior y la capacidad económica del infractor, especialmente si se compromete el servicio prestado.

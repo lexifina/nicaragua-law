@@ -2,7 +2,7 @@
 
 Las tarifas a los clientes finales deberán cumplir con los principios definidos en el Arto. 112 de la Ley, e incluirán:
 
-1) El costo de compra de la energía y potencia en el mercado mayorista, tanto en el Mercado de Ocasión como el de los Contratos autorizados por el INE a trasladar a tarifas
+1) El costo de compra de la energía y potencia en el mercado mayorista, tanto en el Mercado de Ocasión como el de los Contratos autorizados por el INE a trasladar a tarifas.
 
 2) Los costos asociados a las pérdidas de acuerdo al nivel de tensión.
 

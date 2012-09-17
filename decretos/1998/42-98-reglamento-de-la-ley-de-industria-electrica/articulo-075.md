@@ -1,12 +1,12 @@
 # Artículo 75
 
-El formato de un contrato de concesión o de licencia a elaborar por el INE incluirá al menos:
+El formato de un contrato de concesión o de licencia a elaborar por el Ministerio de Energía y Minas incluirá al menos:
 
-1) La identificación del agente económico y su representante legal.
+1) La identificación del Agente Económico y su representante legal.
 
 2) El objeto del contrato, indicando localización, plazos, área y otra información pertinente.
 
-3) Cláusulas con los derechos y obligaciones del INE.
+3) Cláusulas con los derechos y obligaciones del Ministerio de Energía y Minas.
 
 4) Cláusulas con los derechos y obligaciones del concesionario o titular de licencia según corresponda.
 

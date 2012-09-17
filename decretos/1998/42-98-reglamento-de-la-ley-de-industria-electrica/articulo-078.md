@@ -8,4 +8,4 @@ El formato de Anexo Ambiental para cada tipo de licencia y para una concesión a
 
 3) Cláusulas indicando la obligación de presentar, cuando corresponda, planes de protección del medio ambiente.
 
-4) Cláusulas indicando la obligación de demostrar el cumplimiento de las normas vigentes de protección del medio ambiente y ecosistemas, identificando las disposiciones legales correspondiente.
+4) Cláusulas indicando la obligación de demostrar el cumplimiento de las normas vigentes de protección del medio ambiente y ecosistemas, identificando las disposiciones legales correspondientes.
