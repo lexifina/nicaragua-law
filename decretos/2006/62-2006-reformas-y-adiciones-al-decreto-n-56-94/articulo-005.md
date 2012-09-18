@@ -10,4 +10,4 @@ c) La documentación que demuestre su capacidad técnica, financiera y administr
 
 d) Programas y sistemas de seguridad industrial y de emergencias para enfrentar accidentes o desastres naturales según los requisitos del reglamento de seguridad correspondiente.
 
-e) Cumplimiento con las leyes y normas aplicables sobre protección del medio ambiente.
+e)Cumplimiento con las leyes y normas aplicables sobre protección del medio ambiente.

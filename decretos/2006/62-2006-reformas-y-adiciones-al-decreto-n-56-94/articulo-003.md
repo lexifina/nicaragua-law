@@ -4,7 +4,7 @@ Las personas naturales o jurídicas interesadas en obtener una Licencia para eje
 
 a) Acreditación legal del solicitante.
 
-b) La documentación que demuestre su capacidad técnica, administrativa y financiera.
+b )La documentación que demuestre su capacidad técnica, administrativa y financiera.
 
 c) Cobertura de Póliza de seguro adecuada, por daños y perjuicios a terceros y al medio ambiente.
 

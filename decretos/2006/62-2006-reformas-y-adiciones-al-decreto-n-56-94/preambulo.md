@@ -1,12 +1,16 @@
-REFORMAS Y ADICIONES AL DECRETO N°. 56-94, REGLAMENTO PARA LA IMPORTACIÓN Y COMERCIALIZACIÓN DE HIDROCARBUROS
+TEXTO CONSOLIDADO 2011, DECRETO EJECUTIVO N°. 62-2006, REFORMAS Y ADICIONES AL DECRETO N°. 56-94, REGLAMENTO PARA LA IMPORTACIÓN Y COMERCIALIZACIÓN DE HIDROCARBUROS
 
-DECRETO EJECUTIVO N°. 62-2006, aprobado el 26 de septiembre del 2006
+DECRETO EJECUTIVO N°. 62-2006, aprobado el 07 de julio 2011
 
-Publicado en La Gaceta, Diario Oficial N°. 191 del 03 de octubre del 2006
+Publicado en La Gaceta, Diario Oficial N°. 177 del 18 de septiembre de 2012
 
-DECRETO No.62-2006
+Digesto Jurídico del Sector Energético 2011.
 
-El Presidente de la República de Nicaragua,
+El presente texto contiene incorporadas todas las normas, reformas y derogaciones vigentes y consolidadas al 7 de julio de 2011, del Decreto No. 62-2006, Reformas y Adiciones al Decreto No. 56-94, Reglamento para la Importación y Comercialización de Hidrocarburos, aprobado el 26 de septiembre de 2006, publicado en La Gaceta, Diario Oficial No. 191 del 3 de octubre de 2006, y se ordena su publicación en La Gaceta, Diario Oficial, conforme se establece en el parágrafo II del Título Preliminar del Código Civil y el Título Quinto de la Ley No. 606, Ley Orgánica del Poder Legislativo.
+
+DECRETO No. 62-2006
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
 CONSIDERANDO
 
@@ -40,8 +44,4 @@ El siguiente:
 
 DECRETO
 
-Reformas y Adiciones al Decreto No. 56-94, Reglamento para la Importación y Comercialización de Hidrocarburos
-
-Arto 1.- Se aprueban las siguientes Reformas y Adiciones al Decreto No. 56-94, Reglamento para la Importación y Comercialización de Hidrocarburos, publicado en La Gaceta, Diario Oficial No. 240 del 22 de diciembre de 1994, las que se leerán así.
-
-“Arto. 1.- La importación, exportación, refinación, transporte, almacenamiento, otros servicios y la comercialización de hidrocarburos podrán ser realizadas por las personas naturales y jurídicas, nacionales o extranjeras, de derecho público o privado que tengan u obtengan la Licencia correspondiente.
+REFORMAS Y ADICIONES AL DECRETO No. 56-94, REGLAMENTO PARA LA IMPORTACIÓN Y COMERCIALIZACIÓN DE HIDROCARBUROS

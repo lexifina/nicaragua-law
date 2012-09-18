@@ -10,7 +10,7 @@ c) Asumir los riesgos, costos y responsabilidades por las actividades que realic
 
 d) Proporcionar la información relacionada a sus operaciones que le sea requerida por el INE, para los propósitos del artículo 4 y del artículo 7, inciso g) del presente Decreto.
 
-c) Cumplir con las calidades definidas para los derivados del petróleo conforme a las especificaciones técnicas emitidas por el NE
+e) Cumplir con las calidades definidas para los derivados del petróleo conforme a las especificaciones técnicas emitidas por el INE
 
 f) Sin perjuicio de la comunicación inmediata a las autoridades correspondientes, informar por escrito en un plazo máximo de veinticuatro (24) horas, los accidentes o emergencias mayores que resulten en interrupciones parciales o totales de sus actividades o que impliquen daños al medio ambiente.
 
