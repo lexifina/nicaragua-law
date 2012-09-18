@@ -1,3 +1,3 @@
 # Artículo 111
 
-En los casos de extinción, caducidad y nulidad de concesiones, la DGRN y AdGeo deberán comprobar los hechos con audiencia del interesado. Una vez concluido enviarán su dictamen al Ministro del MIFIC para su resolución.
+En los casos de extinción, caducidad y nulidad de concesiones, el MEM deberá comprobar los hechos con audiencia del interesado. Una vez concluido enviará su dictamen al Ministro del MEM para su resolución.

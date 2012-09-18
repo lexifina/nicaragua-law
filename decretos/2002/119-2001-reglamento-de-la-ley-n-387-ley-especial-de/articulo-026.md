@@ -12,4 +12,4 @@ Los concesionarios sujetos a exoneración según la Ley, deberán presentar anua
 
 -Plan anual de producción que especifique las cantidades de consumo de combustible.
 
-- Copia de solvencia fiscal.
+-Copia de solvencia fiscal.

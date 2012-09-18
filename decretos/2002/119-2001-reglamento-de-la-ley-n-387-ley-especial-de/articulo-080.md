@@ -1,15 +1,15 @@
 # Artículo 80
 
-En caso que se tratare de la reactivación de instalaciones antiguas, el MIFIC por medio de AdGeo, fallará a favor del concesionario siempre y cuando los trabajos no afecten a terceros o no haya que indemnizar por los daños que causarían.
+En caso que se tratare de la reactivación de instalaciones antiguas, el MEM, fallará a favor del concesionario siempre y cuando los trabajos no afecten a terceros o no haya que indemnizar por los daños que causarían.
 
 El interesado tendrá que presentar los siguientes documentos:
 
-. Pruebas que las instalaciones mineras superficiales o subterráneas existieron antes de que fueran instaladas las infraestructuras a su alrededor.
+-Pruebas que las instalaciones mineras superficiales o subterráneas existieron antes de que fueran instaladas las infraestructuras a su alrededor.
 
-. Documentos indicando el tiempo de antigüedad de las instalaciones mineras.
+-Documentos indicando el tiempo de antigüedad de las instalaciones mineras.
 
-. La necesidad de la reactivación de las instalaciones mineras indispensable para el desarrollo minero dentro de la concesión.
+-La necesidad de la reactivación de las instalaciones mineras indispensable para el desarrollo minero dentro de la concesión.
 
-. En caso de que la explotación requiera de hacer túneles bajo zonas pobladas, AdGeo conformará una comisión técnica interdisciplinaria que evaluará la viabilidad de su ejecución, previa notificación al concesionario.
+-En caso de que la explotación requiera de hacer túneles bajo zonas pobladas, el MEM conformará una comisión técnica interdisciplinaria que evaluará la viabilidad de su ejecución, previa notificación al concesionario.
 
-Sin perjuicio de lo anterior el MIFIC facilitará la información sobre el área, que tenga disponible al interesado.
+Sin perjuicio de lo anterior el MEM facilitará la información sobre el área, que tenga disponible al interesado.

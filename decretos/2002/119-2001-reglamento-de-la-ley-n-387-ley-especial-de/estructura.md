@@ -1,5 +1,5 @@
 - CAPÍTULO I (antes del artículo 1)
-- DISPOSICIONES GENERALES. (antes del artículo 1)
+- DISPOSICIONES GENERALES (antes del artículo 1)
 - CAPÍTULO II (antes del artículo 10)
 - CAPÍTULO III (antes del artículo 17)
 - CAPÍTULO IV (antes del artículo 31)
@@ -12,4 +12,4 @@
 - CAPÍTULO XI (antes del artículo 93)
 - CAPÍTULO XII (antes del artículo 98)
 - CAPÍTULO XIII (antes del artículo 102)
-- DISPOSICIONES TRANSITORIAS (antes del artículo 112)
+- DISPOSICIONES TRANSITORIAS (antes del artículo 113)

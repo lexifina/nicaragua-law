@@ -1,5 +1,7 @@
-Dado en la ciudad de Managua, Casa Presidencial, dieciocho de diciembre del año dos mil uno. ARNOLDO ALEMÁN LACAYO, Presidente de la República de Nicaragua.
+Dado en la ciudad de Managua, Casa Presidencial, dieciocho de diciembre del año dos mil uno.- ARNOLDO ALEMÁN LACAYO, Presidente de la República de Nicaragua.
 
-Observación: El Texto Consolidado del Decreto Ejecutivo N°. 119-2001, Reglamento de la Ley Nº. 387 Ley Especial de Exploración y Explotación de Minas, fue aprobado y publicado en la Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero.
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por las siguientes normas: Decreto No. 92-2002, “Reforma al Decreto No. 119-2001, Reglamento de la Ley Especial de Exploración y Explotación de Minas”, publicado en La Gaceta, Diario Oficial No. 190 del 8 de octubre del 2002; Ley No. 453, “Ley de Equidad Fiscal”, publicada en La Gaceta, Diario Oficial No. 82 del 6 de mayo del 2003; Ley No. 562, Código Tributario, publicado en La Gaceta, Diario Oficial No. 227 del 23 de noviembre del 2005; Decreto No. 57-2006, “Reformas y Adiciones al Decreto No. 1192001, Reglamento de la Ley No. 387, Ley Especial sobre Exploración y Explotación de Minas”, publicado en La Gaceta No. 170 del 31 de agosto del 2006; Ley No. 612, “Ley de Reforma y Adición a la Ley 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo”, publicada en La Gaceta, Diario Oficial No. 20 del 29 de enero del 2007; y Ley No. 641, “Código Penal”, publicado en La Gaceta, Diario Oficial Nos. 83, 84, 85, 86 y 87 del 5, 6, 7, 8 y 9 de mayo del 2008.
+
+Dado en la ciudad de Managua, en el Salón de Sesiones de la Asamblea Nacional, a los siete días del mes de julio del año dos mil once.- Ing. René Núñez Téllez, Presidente de la Asamblea Nacional. Dr. Wilfredo Navarro, Secretario de la Asamblea Nacional.
 
 .

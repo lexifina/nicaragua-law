@@ -6,4 +6,4 @@ Las concesiones mineras serán nulas cuando:
 
 -Cuando comprendan en todo o en parte la misma zona correspondiente a concesiones anteriores vigentes; pero solamente en la parte superpuesta y siempre que fueren incompatibles o excluyentes una de otra.
 
-La nulidad puede ser declarada de oficio por la DGRN o a petición de parte.
+La nulidad puede ser declarada de oficio por el MEM o a petición de parte.

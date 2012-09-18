@@ -8,7 +8,7 @@ Serán infracciones leves:
 
 -No reportar accidentes graves, consecuencias de la actividad minera, ocurridos durante el desarrollo de la misma.
 
-- No entregar el informe anual correspondiente.
+-No entregar el informe anual correspondiente.
 
 Las infracciones arriba mencionadas serán sancionadas con una multa en moneda nacional, equivalente a cinco mil dólares de los Estados Unidos de América.
 
@@ -16,9 +16,9 @@ Serán infracciones graves:
 
 -Suministrar información falsa.
 
--No permitir acceso al personal de AdGeo en las Inspecciones Técnicas.
+-No permitir acceso al personal del MEM en las Inspecciones Técnicas.
 
--Pasar de la etapa de exploración a la etapa de explotación sin previa comunicación a AdGeo.
+-Pasar de la etapa de exploración a la etapa de explotación sin previa comunicación al MEM.
 
 -Realizar trabajos de exploración y explotación en propiedad privada, sin previo consentimiento del propietario.
 
@@ -26,7 +26,7 @@ Las infracciones graves serán sancionadas con una multa en moneda nacional equi
 
 Serán infracciones muy graves:
 
--Extraer minerales o sustancias no autorizadas por la DGRN.
+-Extraer minerales o sustancias no autorizadas por el MEM.
 
 -Hacer falsa declaración para la implantación de un mojón.
 
