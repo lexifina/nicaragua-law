@@ -1,0 +1,3 @@
+# Artículo 136
+
+Los extranjeros que sean retenidos en los Puestos Fronterizos o Delegaciones Regionales por las causales descritas en el artículo 171 de la Ley, serán remitidos al Centro de Albergue de Migrantes en un periodo máximo de 24 horas posterior a su retención para su debido proceso de internamiento, regularización o deportación. En aquellos casos que por la distancia o condiciones geográficas del Puesto Fronterizo o Delegación no permita su traslado inmediato, permanecerá retenido en el Albergue de los Puestos Fronterizos o Delegaciones de Migración respectiva, hasta un máximo de ocho días para ser traslado al Centro de Albergue Nacional.

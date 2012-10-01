@@ -1,0 +1,5 @@
+# Artículo 234
+
+La Renuncia Se produce cuando el miembro de la Institución por causas de carácter personal no desea continuar prestando sus servicios, solicitándolo por escrito a su Jefe inmediato con copia a Recursos Humanos. La solicitud debe ser sometida a revisión y aprobación del Jefe Superior de la Estructura correspondiente, quien la deniega o acepta exponiendo sus razones en un plazo no mayor de quince días. Una vez aprobada no se podrá retirar de su puesto de trabajo, mientras no haya sido notificada por la División de Recursos Humanos y cumplidos los requisitos de solvencia y entrega de pertenencias a la Dirección General de Migración y Extranjería.
+
+Si la solicitud fue denegada podrá volver a solicitarla dos veces más en la segunda oportunidad, el Jefe Superior de la Especialidad enviará la solicitud a Recursos Humanos para el trámite ante el Director o Directora General si es denegada habrá una tercera oportunidad un año después, en que podrá proceder nuevamente ante el Director o Directora General.

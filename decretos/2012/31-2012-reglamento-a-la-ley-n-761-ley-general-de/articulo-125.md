@@ -1,0 +1,3 @@
+# Artículo 125
+
+La Dirección General de Migración y Extranjería a través de la Dirección de Nacionalidad por razón de verificación, control y seguimiento, comprobará mediante prueba escrita u oral, el conocimiento suficiente, que posee el optante a la nacionalidad nicaragüense del idioma español, geografía, historia y de la organización política y social del país. De igual forma y en base a las facultades que la presente Ley y su Reglamento establecen, eximirá de éste requisito a aquellos extranjeros que han realizado estudios en Nicaragua, a personas de la tercera edad, personas con capacidades diferentes, impedimentos psíquicos o graves de salud. Dicha prueba será aplicada en los primeros diez días posteriores a la presentación de la solicitud del trámite.

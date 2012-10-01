@@ -1,0 +1,3 @@
+# Artículo 192
+
+La Comisión de Servicio Externo se efectuará por interés Institucional y consiste en la autorización al funcionario de la Dirección General de Migración y Extranjería a desempeñar sus funciones en otras Estructuras del Ministerio de Gobernación o en Instituciones Gubernamentales. Al efectuarse el traslado físico no menoscaba la condición de miembro de la Institución, así como sus derechos profesionales, exceptuando el salario. El periodo de duración de la Comisión de Servicio Externo no puede exceder de tres (3) años y puede ser suspendida por interés de la Dirección General de Migración y Extranjería.
