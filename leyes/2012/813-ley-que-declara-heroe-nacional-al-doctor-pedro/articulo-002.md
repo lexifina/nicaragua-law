@@ -1,0 +1,3 @@
+# Artículo 2
+
+El Ministerio de Educación deberá incorporar en sus planes de estudio, los principios y valores del Doctor Pedro Joaquín Chamorro Cardenal en defensa de las libertades públicas, la democracia y el desarrollo humano y económico de Nicaragua, así como una cultura de conciencia social y política en los ciudadanos nicaragüenses. El Estado a través de los diferentes poderes e Instituciones y los Gobiernos Municipales, deberán incorporar en documentos y publicaciones en general, el nombre del Doctor Pedro Joaquín Chamorro Cardenal, como Héroe Nacional y Mártir de las Libertades públicas, junto con los demás héroes nacionales.
