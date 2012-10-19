@@ -1,0 +1,3 @@
+# Artículo 38
+
+Presentación de solicitudes incompletas. En caso de que la solicitud de acción de protección de datos personales no satisfaga alguno de los requisitos de información a que se refiere el artículo 42 de este Reglamento, y la DIPRODAP no cuente con elementos para subsanarlo, se prevendrá al titular de los datos, por una sola ocasión, para que subsane las omisiones dentro de un plazo de cinco (5) días hábiles contados a partir de la respectiva notificación. Transcurrido el plazo sin que se completen o subsanen las omisiones notificadas, se tendrá por no presentada la solicitud de acción de protección de datos personales. La prevención tendrá el efecto de interrumpir el plazo que tiene la DIPRODAP para resolver la solicitud de acción de protección de datos.
