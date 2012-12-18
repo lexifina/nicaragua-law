@@ -1,0 +1,23 @@
+LEY N°. 820, LEY DE PROMOCIÓN, PROTECCIÓN Y DEFENSA DE LOS DERECHOS HUMANOS ANTE EL VIH Y SIDA PARA SU PREVENCIÓN Y ATENCIÓN
+
+Aprobada el 27 de noviembre de 2012
+
+Publicada en La Gaceta, Diario Oficial N°. 242 del 18 de diciembre de 2012
+
+Presidente de la República de Nicaragua
+
+A sus habitantes, Sabed:
+
+Que,
+
+LA ASAMBLEA NACIONAL
+
+Ha ordenado la siguiente:
+
+LEY N°. 820
+
+LEY DE PROMOCIÓN, PROTECCIÓN Y DEFENSA DE LOS DERECHOS HUMANOS ANTE EL VIH y Sida, PARA SU PREVENCIÓN Y ATENCIÓN
+
+CAPÍTULO I
+
+OBJETO, AUTORIDAD, ÁMBITO DE APLICACIÓN, PRINCIPIOS RECTORES Y DEFINICIONES
