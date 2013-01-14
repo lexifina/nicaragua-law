@@ -1,7 +1,3 @@
 # Artículo 23
 
-El Concejal quedará suspenso del ejercicio de sus derechos:
-
-1) Cuando enfrente proceso penal y auto de detención provisional en su contra.
-
-2) Mientras dure la pena de privación de libertad o de inhabilitación para ejercer el cargo, a que haya sido condenado mediante sentencia firme.
+El Alcalde, Alcaldesa, Vice-Alcalde, Vice-alcaldesa, los Concejales y las Concejalas, quedarán suspensos en el ejercicio de sus derechos, mientras dure la pena de privación de libertad o de inhabilitación para ejercer el cargo al que fueron electos, siempre y cuando hayan sido condenados mediante sentencia firme.

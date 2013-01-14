@@ -1,3 +1,11 @@
 # Artículo 61
 
-Corresponde al Concejo Municipal, a propuesta del Alcalde, aprobar la constitución de empresas municipales, las que se regirán de conformidad con esta ley y su .
+Las incompatibilidades establecidas en el artículo 29 de la presente Ley son aplicables para los Directores, Directivos o Gerentes de las empresas municipales.
+
+Título VI
+
+De los municipios y las comunidades indígenas
+
+Capítulo I
+
+De los municipios en las regiones autónomas

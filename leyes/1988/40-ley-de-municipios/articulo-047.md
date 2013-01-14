@@ -1,3 +1,3 @@
 # Artículo 47
 
-Los ingresos tributarios se regularán en el Plan de Arbitrios Municipales y deberán establecerse teniendo en cuenta la necesidad de prestar o mejorar los servicios a la comunidad, la capacidad económica de los pobladores y las políticas económicas y fiscales de la nación.
+Los ingresos tributarios se crearán y regularán en la legislación tributaria municipal, la que establecerá para cada uno de ellos su incidencia, los rangos de tipos impositivos máximos y mínimos, así como las garantías a los contribuyentes.

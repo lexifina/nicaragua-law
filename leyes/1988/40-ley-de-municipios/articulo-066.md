@@ -1,3 +1,7 @@
 # Artículo 66
 
-Las formas de participación de los habitantes de las Regiones Autónomas de la Costa Atlántica en la gestión comunal y municipal, se constituirán tomando en cuenta las tradiciones y costumbres de sus pobladores.
+En materia de solución a conflictos limítrofes en que estén involucrados Municipios de las Regiones Autónomas de la Costa Atlántica, la Corte Suprema de Justicia, además de lo dispuesto en el artículo 14 de la presente Ley, resolverá previa consulta al Consejo Regional correspondiente.
+
+Capítulo II
+
+De los municipios con pueblos indígenas en sus territorios

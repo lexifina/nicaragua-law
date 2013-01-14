@@ -1,11 +1,7 @@
 # Artículo 2
 
-La autonomía municipal es un principio consignado en la Constitución Política de la República de Nicaragua para el ejercicio de la democracia mediante la participación libre y directa del pueblo. Esta se expresa en:
+La Autonomía es el derecho y la capacidad efectiva de las Municipalidades para regular y administrar, bajo su propia responsabilidad y en provecho de sus pobladores, los asuntos públicos que la Constitución y las leyes le señalen.
 
-1) La elección directa de sus autoridades por el sufragio universal, igual, directo, libre y secreto.
+La Autonomía Municipal es un principio consignado en la Constitución Política de la República de Nicaragua, que no exime ni inhibe al Poder Ejecutivo ni a los demás Poderes del Estado de sus obligaciones y responsabilidades para con los municipios.
 
-2) La creación de unas estructuras administrativas y formas de funcionamiento, en concordancia con la realidad de cada Municipio.
-
-3) La capacidad de gestionar y disponer de sus recursos y en la existencia de un patrimonio propio del cual tienen una libre disposición de acuerdo con la ley.
-
-4) El ejercicio de las competencias que está ley atribuye al Municipio, con el fin de satisfacer las necesidades de la población.
+Cualquier materia que incida en el desarrollo socio-económico de la circunscripción territorial de cada Municipio, y cualquier función que pueda ser cumplida de manera eficiente dentro de su jurisdicción o que requiera para su cumplimiento de una relación estrecha con su propia comunidad, debe de estar reservada para el ámbito de competencias de los mismos municipios. Estos tienen el deber de desarrollar su capacidad técnica, administrativa y financiera, a fin de que puedan asumir las competencias que les correspondan.

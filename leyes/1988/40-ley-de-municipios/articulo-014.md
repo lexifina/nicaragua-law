@@ -1,7 +1,7 @@
 # Artículo 14
 
-Los conflictos limítrofes entre municipios serán dirimidos por el Poder Ejecutivo; su resolución agotará la vía administrativa.
+Los conflictos limítrofes entre Municipios serán dirimidos por la Corte Suprema de Justicia, la que siguiendo el procedimiento establecido en el Reglamento de la presente Ley, podrá auxiliarse con los informes de las instituciones gubernamentales competentes para los estudios territoriales.
 
 Capítulo II
 
-De la Población Municipal
+De la población municipal

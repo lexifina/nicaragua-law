@@ -1,5 +1,9 @@
 # Artículo 29
 
-Cada Consejo Municipal determinará en su presupuesto el monto de las dietas a que tendrán derecho sus Concejales por la asistencia cumplidas a las sesiones del mismo.
+Cada Concejo Municipal determinará en su presupuesto el monto de las remuneraciones del Alcalde o Alcaldesa, el Vice Alcalde o Vice Alcaldesa y el Secretario o Secretaria y el de las dietas a que tendrán derecho sus Concejales o Concejalas por la asistencia cumplida a las sesiones del mismo, de conformidad con la Ley de Régimen Presupuestario Municipal, la que establecerá los límites mínimos y máximos para cada categoría de ingresos municipales. El Alcalde o Alcaldesa, el Vice Alcalde o Vice Alcaldesa y el Secretario o Secretaria no devengarán dieta por la participación en las sesiones del Concejo.
 
-El funcionamiento del Consejo Municipal será normado en el Reglamento de la ley.
+En ningún caso, los funcionarios y funcionarias municipales por elección popular o por designación, podrán devengar un salario u obtener cualquier otro ingreso o ventaja pecuniaria que en suma supere al salario que devenga un Ministro de Estado.
+
+El ejercicio del cargo de Concejal o Concejala en propiedad es incompatible con el desempeño de los cargos de Ministro, Vice-Ministro, Presidente o Director de Entes Autónomos y Gubernamentales, de miembro de los Consejos Regionales de la Costa Atlántica, de director de empresas públicas nacionales y de Delegado Departamental y Municipal de los Poderes del Estado. En este caso, mientras duren las circunstancias que ocasionan la incompatibilidad, el Concejal o Concejala será suspendido en el ejercicio de su cargo. Ningún Concejal o Concejala en propiedad podrá desempeñar cargo alguno en la administración municipal, sin perjuicio de su integración en comisiones técnicas o investigativas del Concejo.
+
+Exceptuando el caso del Servicio Civil y la Carrera Administrativa, se prohíben los nombramientos del cónyuge, acompañante en unión de hecho estable o de personas que tengan parentesco dentro del cuarto grado de consanguinidad o segundo de afinidad con el Alcalde, el Vice-Alcalde, los Concejales o con la autoridad que hace el nombramiento.

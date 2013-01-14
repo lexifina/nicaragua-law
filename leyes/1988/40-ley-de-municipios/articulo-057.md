@@ -1,5 +1,9 @@
 # Artículo 57
 
-La ejecución presupuestaria ser controlada periódicamente por el Ministerio de Finanzas y la Contraloría General de la República de acuerdo a las normas y procedimientos establecidos en la ley.
+No se podrán realizar egresos superiores a los consignados en el Presupuesto Municipal ni efectuar egresos en conceptos no presupuestados, sin la previa reforma al mismo por el Concejo Municipal respectivo que amplíe, dote o traslade el crédito presupuestario correspondiente.
 
-Si por cualquier causa, el Presupuesto Municipal no fuera enviado a la Presidencia de la República en la fecha establecida en la presente ley, quedará automáticamente promulgada la vigencia del anterior sin perjuicio de que se hacen las transferencias presupuestarias a favor de las municipalidades.
+La ampliación, dotación y traslado del crédito presupuestario, una vez aprobadas por el Concejo Municipal, deberán ser informadas por el Alcalde o Alcaldesa a la Contraloría General de la República y al Instituto Nicaragüense de Fomento Municipal en el mismo término y bajo el mismo procedimiento previsto para la remisión del Presupuesto, so pena de incurrir en las sanciones establecidas en el artículo 56 de la presente Ley.
+
+Capítulo IV
+
+De las empresas municipales

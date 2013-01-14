@@ -1,11 +1,7 @@
 # Artículo 21
 
-Para ser Concejal se requiere de las siguientes calidades:
+Para ser Concejal o Concejala se requiere de las siguientes calidades:
 
-1) Ser nicaragüense.
+1) Ser nicaragüense, estar en pleno goce de sus derechos civiles y políticos y haber cumplido veintiún años de edad;
 
-2) Haber cumplido dieciocho años de edad.
-
-3) Estar en pleno goce de sus derechos ciudadanos.
-
-4) Haber residido en el Municipio por lo menos dos años anteriores inmediatos a su inscripción como candidato.
+2) Haber residido en el Municipio al menos los últimos dos años anteriores a su inscripción como candidato.

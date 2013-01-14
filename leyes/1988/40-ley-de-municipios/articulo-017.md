@@ -1,3 +1,3 @@
 # Artículo 17
 
-El gobierno y la administración municipal cumplirán e impulsarán el cumplimiento de la Constitución Política de la República de Nicaragua, promoverán los intereses del pueblo y defenderán sus conquistas sociales y políticas.
+El gobierno y la administración de los Municipios corresponden a las autoridades municipales, las que desempeñarán sus atribuciones de conformidad con la Constitución Política y la presente Ley, a fin de satisfacer las necesidades y aspiraciones de su comunidad.

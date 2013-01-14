@@ -1,3 +1,3 @@
 # Artículo 71
 
-La presente ley será objeto de posterior reglamentación.
+Referente al Presupuesto Municipal, se sujetará a lo dispuesto en la Ley N°. 376, Ley de Régimen Presupuestario Municipal.

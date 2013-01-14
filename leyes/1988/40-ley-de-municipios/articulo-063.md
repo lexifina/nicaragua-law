@@ -1,11 +1,3 @@
 # Artículo 63
 
-Los municipios podrán solicitar y obtener créditos a corto, mediano y largo plazo, de acuerdo con las políticas que al respecto establecerá el Sistema Financiero Nacional, para la realización de obras y la prestación y mejora de servicios públicos municipales.
-
-El Municipio garantizará estos créditos con sus ingresos tributarios y sus bienes muebles e inmuebles de carácter particular.
-
-Título VI
-
-De los Municipios de las Regiones Autónomas
-
-Capítulo Único
+Los Concejos Municipales de los Municipios ubicados en las Regiones Autónomas de la Costa Atlántica, al aprobar la creación de las instancias administrativas u órganos complementarios de administración en sus ámbitos territoriales, reconocerán y respetarán el derecho de los pueblos indígenas y comunidades étnicas, a organizarse socialmente en las formas que correspondan a sus tradiciones históricas y culturales.

@@ -1,3 +1,3 @@
 # Artículo 39
 
-Los conflictos que surjan entre los diferentes municipios entre estos y los organismos del Gobierno Central por actos y disposiciones que lesionen su autonomía serán dirimidos por el Ejecutivo: su resolución agotará la vía administrativa.
+Los conflictos que surjan entre los diferentes Municipios y los que surjan entre éstos y los organismos del Gobierno Nacional por actos y disposiciones que lesionen su autonomía serán conocidos y resueltos por la Corte Suprema de Justicia.

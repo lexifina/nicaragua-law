@@ -1,7 +1,7 @@
 # Artículo 45
 
-Todos los bienes propiedad de los municipios serán controlados periódicamente por la Contraloría General de la República.
+El patrimonio de los municipios y su gestión administrativa serán fiscalizados periódicamente por la Contraloría General de la República, de conformidad con la ley de la materia.
 
 Capítulo II
 
-De los Ingresos Municipales
+De los ingresos municipales

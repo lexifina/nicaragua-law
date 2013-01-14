@@ -1,7 +1,5 @@
 # Artículo 42
 
-Los bienes de los municipios son de dominio comunal o de dominio particular.
+El patrimonio de los Municipios está constituido por los bienes municipales públicos y particulares, así como los ingresos que perciba a cualquier título, los derechos y obligaciones, y las acciones que posea.
 
-Son bienes de dominio comunal, los destinados a uso o servicio de toda la población.
-
-Son bienes de dominio particular, aquellos cuyo uso esta limitado por las normativas de las autoridades municipales.
+Son bienes públicos municipales los destinados a uso o servicio de toda la población. Los bienes particulares municipales son aquéllos cuyo uso está limitado por las normativas de las autoridades municipales.

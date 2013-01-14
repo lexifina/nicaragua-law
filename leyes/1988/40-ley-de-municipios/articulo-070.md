@@ -1,3 +1,3 @@
 # Artículo 70
 
-Las autoridades municipales que fungirán al momento de entrar en vigencia esta ley, continuarán en el ejercicio de sus cargos, mientras no tomen posesión las nuevas autoridades electas de acuerdo al procedimiento establecido y aplicarán a la ley en lo que les sea pertinente.
+Mientras la Asamblea Nacional no conozca y apruebe la Ley en materia tributaria municipal a que hace referencia la presente Ley, mantendrán plena vigencia el Decreto Nº 10-91, “Plan de Arbitrios del Municipio de Managua”, publicado en La Gaceta, Diario Oficial del 12 de Febrero de 1991 para dicho Municipio, y el Decreto Nº 455, “Plan de Arbitrios Municipal”, publicado en La Gaceta, Diario Oficial, del 31 de Julio de 1989, y su Reforma, para los demás Municipios existentes en el país y para nuevos Municipios que puedan ser creados con anterioridad a la aprobación de la ley referida.

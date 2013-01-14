@@ -1,3 +1,3 @@
 # Artículo 55
 
-El Alcalde elaborará y presentará el Proyecto de Presupuesto al Concejo Municipal antes del 15 de Octubre del año precedente al presupuestado. El Concejo Municipal aprobará el Presupuesto antes del 30 de Octubre del mismo año.
+La ejecución presupuestaria será controlada periódicamente por la Contraloría General de la República, de conformidad con las normas y procedimientos establecidos en la Ley N°. 681, Ley Orgánica Contraloría General de la República y del Sistema de Control de la Administración Pública y fiscalización de los bienes y recursos del Estado y su Reglamento.

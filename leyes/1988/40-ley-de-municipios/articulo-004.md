@@ -1,7 +1,11 @@
 # Artículo 4
 
-La creación y demarcación de los municipios se hará por medio de una ley y se deberá tornar en cuenta entre otros criterios los siguientes:
+La creación y demarcación de los Municipios se hará por medio de ley y en ella se deberá tomar en cuenta, entre otros criterios, los siguientes:
 
-1) Población territorialmente diferenciada.
+1) La población que lo integrará, tomando en cuenta su identidad natural, socio-económica y cultural;
 
-2) Capacidad de generar recursos suficientes para atender los actos de gobierno y administración y para incrementar y mejorar los servicios públicos.
+En ningún caso la población deberá ser menor de 10,000 habitantes. Esta prohibición no rige para los municipios de las Regiones Autónomas de la Costa Atlántica ni para el caso de fusión de municipios de escasa población;
+
+2) La capacidad de generar recursos propios y suficientes para atender las competencias municipales básicas y para prestar y desarrollar los servicios públicos;
+
+3) El dictamen técnico de INETER sobre la conveniencia de su creación y el diagnóstico que especifique el territorio jurisdiccional del nuevo Municipio, indicando de donde se segrega ese territorio.

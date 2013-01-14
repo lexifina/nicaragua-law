@@ -1,15 +1,13 @@
 # Artículo 5
 
-La creación de nuevos municipios o la modificación en los límites de los existentes podrán ser solicitadas de conformidad con los procedimientos establecidos para la formación de la ley, por:
+La solicitud de creación de nuevos municipios o la modificación de los límites territoriales de los ya existentes, podrá ser presentada por:
 
-1) La población residente en la circunscripción municipal propuesta.
+1) La población residente en la circunscripción municipal propuesta;
 
-2) Los Consejos Municipales de los municipios territorialmente afectados.
+2) Los Concejos Municipales correspondientes a los Municipios cuyos límites territoriales se afectarán;
 
-3) Los Consejos Regionales de las Regiones Autónomas de la Costa Atlántica de Nicaragua.
+3) Los Consejos Regionales de las Regiones Autónomas de la Costa Atlántica de Nicaragua, para el caso de municipios comprendidos en sus territorios.
 
-Título II
-
-De las Competencias
+De las competencias
 
 Capítulo Único
