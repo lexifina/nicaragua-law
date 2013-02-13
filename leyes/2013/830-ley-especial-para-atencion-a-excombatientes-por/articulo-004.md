@@ -1,0 +1,9 @@
+# Artículo 4
+
+Autoridad facultada para declarar la calidad de excombatientes.
+
+El Ministerio de Defensa, en coordinación con el Ejército de Nicaragua y el Ministerio de Gobernación, serán las instituciones públicas competentes para declarar la calidad de ex miembros del Ejército Popular Sandinista y del Ministerio del Interior y sus órganos, y otorgarles la respectiva constancia para la inscripción en el Registro Nacional Único que para tal efecto lleve la Comisión Nacional por medio de la Secretaría Ejecutiva y se les acredite como tales, también podrán presentar los Certificados emitidos en su momento por el Ejército de Nicaragua y el Ministerio de Gobernación y sus órganos los que deberán ser ratificados por las instituciones emisoras.
+
+En el caso de los excombatientes de guerra que hubieren pertenecido a la Resistencia Nicaragüense o a la resistencia indígena de YATAMA y KISAN POR LA PAZ de la Costa Caribe, que en su calidad de excombatientes de guerra se acogieron a la amnistía otorgada por el Estado de Nicaragua en el año 1988 y se desmovilizaron en el periodo comprendido entre los años de 1988 a 1990, inclusive a los capturados en combate que estaban privados de libertad entre el año de 1980 a 1990. Estos excombatientes serán verificados y avalados por las organizaciones legalmente constituidas y acreditadas ante la autoridad competente; los indicadores y criterios a emplear serán las credenciales de Código CIAV – OEA y ONUCA.
+
+Las organizaciones de excombatientes podrán proponer la acreditación de sus miembros para el proceso de inscripción en el registro, lo cual quedará sujeto a la verificación del Registro Nacional Único, el Director del Registro deberá informar al Secretario Ejecutivo de la Comisión Nacional para los efectos pertinentes. En los casos que la información sea falsa o alterada se rechazará la solicitud de inscripción de la parte interesada.
