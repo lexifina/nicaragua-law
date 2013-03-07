@@ -1,0 +1,3 @@
+# Artículo 2
+
+Competencia del Tribunal. El Tribunal Aduanero y Tributario Administrativo, es competente para conocer y resolver en última instancia administrativa acerca de los recursos de apelación a que se refieren el Código Aduanero Uniforme Centroamericano (CAUCA) y su Reglamento (RECAUCA), el Código Tributario de la República de Nicaragua, y la legislación nacional aplicable. Además será competente para conocer de las quejas de los contribuyentes y usuarios contra los funcionarios de la Administración de Aduanas y de la Administración Tributaria en las actuaciones de su competencia y dictar las sanciones, indemnizaciones, multas y demás en contra de éstos.
