@@ -1,0 +1,5 @@
+# Artículo 131
+
+Efectos de la Certificación de Libertad o Gravamen.
+
+La Libertad o Gravamen de los Bienes Inmuebles o Derechos Reales, sólo podrá acreditarse en perjuicio de tercero por la Certificación de que trata el Artículo precedente. Artículo 132. Error en la emisión de Certificaciones. Cuando las Certificaciones de que trata el Artículo 57 de la LGRP no fueren conformes con los asientos de su referencia, se estará a lo que de éstos resulte, quedando acción al perjudicado por ellas para exigir la indemnización correspondiente del Registrador o Registradora que haya cometido la falta. Artículo 133. Formas de expedir los Certificados. Los Certificados se extenderán a solicitud escrita, por persona interesada o en virtud de Mandamiento Judicial, en los cuales se precisará el nombre y apellidos del propietario, la naturaleza del Certificado requerido, los datos de la cuenta registral, asientos solicitados y la información que permita identificar el acto o actos cuya publicidad se solicita.
