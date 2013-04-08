@@ -1,3 +1,3 @@
 # Artículo 18
 
-Si por cualquier circunstancia, la Corte Suprema de Justicia necesitare datos que no aparezcan en el proceso para resolver el Recurso, dictará las providencias que estime necesarias para obtenerlos, dándole intervención al recurrente, al funcionario y a la Procuraduría General de Justicia.
+Una vez admitido el Recurso por Inconstitucionalidad, la Corte Suprema de Justicia pedirá informe al funcionario en contra de quien se interpone, el que deberá rendirlo dentro de quince días de recibida la notificación correspondiente, pudiendo alegar todo lo que tenga a bien. Para ello se le entregará copia del escrito y de la providencia respectiva que se dicte. Igual copia se entregará a la Procuraduría General de la República al momento de la notificación.

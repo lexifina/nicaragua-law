@@ -1,7 +1,3 @@
 # Artículo 45
 
-Si el Tribunal Supremo no encontrare datos suficientes para resolver el Amparo lo abrirá a pruebas por el término de diez días, siendo admisible toda clase de pruebas y podrá recabar de oficio otras que considere convenientes.
-
-Capítulo IV
-
-La Sentencia y sus Efectos
+En el Recurso de Amparo no habrá lugar a caducidad ni cabrán alegatos orales, y en lo que no estuviere establecido en esta Ley se seguirán las reglas del Código de Procedimiento Civil en todo lo que sea aplicable, dándose intervención en las actuaciones a las personas que interponen el Recurso, a los funcionarios o autoridades en contra quienes se dirija, a la Procuraduría General ˜de la República, y a todos los que pueda afectar la resolución final si se hubieren presentado.

@@ -1,3 +1,7 @@
 # Artículo 40
 
-Una vez resuelta la suspensión del acto reclamado, se remitirán los autos en el término de tres días a la Corte Suprema de Justicia para la tramitación correspondiente, previniéndoles a las partes que deberán personarse dentro del término de tres días hábiles, más el de la distancia, para hacer uso de sus derechos. Si el recurrente no se persona dentro del término señalado anteriormente, se declarará desierto el Recurso.
+La tramitación de un Recurso de Amparo suspenderá la prescripción de la acción penal en los casos que en virtud de una disposición constitucional o legal, la acción penal no pueda ser promovida o perseguida por ordenarse la suspensión del acto por la autoridad judicial competente. Concluida la suspensión del acto la prescripción seguirá su curso.
+
+Capítulo III
+
+Tramitación del Recurso

@@ -1,9 +1,5 @@
 # Artículo 24
 
-En los casos de los dos artículos anteriores la declaración de Inconstitucionalidad de una ley, decreto ley, decreto o reglamento, no podrá afectar o perjudicar derechos adquiridos por terceros en virtud de dichas leyes, decretos leyes, decretos o reglamentos.
+Cuando por sentencia firme, en los casos que no hubiere casación hubiese sido resuelto un asunto con declaración expresa de inconstitucionalidad de una norma, la autoridad judicial en su caso deberá remitir su resolución a la Corte Suprema de Justicia.
 
-RECURSO DE AMPARO
-
-Capítulo I
-
-Interposición del Recurso
+Si la Corte Suprema de Justicia en pleno ratifica la inconstitucionalidad de la norma, procederá a declarar su inaplicabilidad de acuerdo con la presente ley.

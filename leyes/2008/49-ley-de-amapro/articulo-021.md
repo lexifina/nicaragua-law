@@ -1,9 +1,5 @@
 # Artículo 21
 
-La sentencia que declare si es inconstitucional o no, el todo o parte de una ley, decreto ley, decreto o reglamento producirá cosa .juzgada en forma general en cuanto a los puntos declarados constitucionales o inconstitucionales.
+La declaración de Inconstitucionalidad tendrá por efecto, a partir de la sentencia que la establezca, la inaplicabilidad de la ley, decreto o reglamento o la disposición o disposiciones impugnadas de los mismos, si la inconstitucionalidad fuere parcial.
 
-Cuando se recurrió solamente contra parte o partes de los citados cuerpos normativos, el Tribunal podrá pronunciarse de oficio específicamente sobre el resto de los mismos.
-
-Capítulo IV
-
-Inconstitucionalidad en Casos Concretos
+La Corte Suprema de Justicia, previa notificación a las partes, enviará copia de la sentencia a los demás Poderes del Estado para su conocimiento y la mandará a publicar en La Gaceta, Diario Oficial.

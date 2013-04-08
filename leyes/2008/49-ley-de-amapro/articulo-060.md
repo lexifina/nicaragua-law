@@ -1,9 +1,3 @@
 # Artículo 60
 
-Introducido en forma el Recurso de Exhibición Personal por amenaza, el Tribunal solicitará a la autoridad en contra de quien se dirige el Recurso que rinda informe en el término de veinticuatro horas; con dicho informe o sin él, el Tribunal decidirá admitir o rechazar dicho Recurso. En el caso de que lo admitiere se deberá proceder de conformidad con lo dispuesto en el artículo 58 en lo que fuere aplicable.
-
-En el caso de que el Tribunal rechace el Recurso, el perjudicado podrá recurrir de queja ante la Corte Suprema de Justicia y de lo resuelto por ésta no habrá Recurso alguno.
-
-Capítulo II
-
-Actuación del Juez Ejecutor
+Introducida en forma la petición ante el Tribunal de la jurisdicción donde se encuentre el favorecido por el Recurso, el Tribunal decretará la Exhibición Personal y nombrará Juez Ejecutor que podrá ser cualquier autoridad o empleado del orden civil o un ciudadano de preferencia abogado, de notoria honradez e instrucción, procurando que el nombramiento no recaiga en funcionarios propietarios del Poder Judicial.

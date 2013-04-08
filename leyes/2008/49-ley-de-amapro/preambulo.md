@@ -1,38 +1,46 @@
-LEY N°. 49, LEY DE AMPARO
+TEXTO DE LEY N°. 49, LEY DE AMPARO CON REFORMAS INCORPORADAS
 
-Aprobada el 11 de febrero de 2008
+Publicada en La Gaceta, Diario Oficial N°. 61 del 08 de abril de 2013
 
-Publicada en La Gaceta, Diario Oficial N° 212 del 04 de noviembre de 2008
+El Presidente de la República de Nicaragua
 
-LEY DE AMPARO
+A sus habitantes, Sabed
 
-LEY No. 49
+Que,
 
-EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+LA ASAMBLEA NACIONAL
 
-Hace saber al pueblo Nicaragüense que:
+CONSIDERANDO
 
-LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+l
 
-Considerando:
-
-I
-
-Que la Constitución Política para garantizar su supremacía estableció en sus artículos 187, 188, 189, 190, los recursos por Inconstitucionalidad, de Amparo y de Exhibición Personal, remitiendo sus regulaciones a la Ley de Amparo.
+Que la Constitución Política de la República de Nicaragua, es la norma fundamental del ordenamiento jurídico nicaragüense y como tal, requiere la existencia de mecanismos de protección que hagan efectiva la supremacía de dicha norma.
 
 II
 
-Que los Recursos por Inconstitucionalidad, Amparo y Exhibición Personal, tienen como objeto ser el instrumento mediante el cual se ejerza el control del ordenamiento jurídico y de las actuaciones de los funcionarios públicos, para mantener y restablecer la supremacía de la Constitución Política.
+Que la Constitución Política de la República de Nicaragua, para garantizar su supremacía estableció en sus artículos 187, 188, 189, 190, los recursos por Inconstitucionalidad, de Amparo y de Exhibición Personal, remitiendo sus regulaciones a la Ley de Amparo.
 
 III
 
-Que con la Ley de Amparo se culmina con el mandato contemplado en el artículo 184 de la Constitución Política de aprobar las leyes constitucionales: Electoral, de Emergencia y de Amparo, y se consolida el proceso de institucionalización del país.
+Que el Recurso por Inconstitucionalidad, el mecanismo de control de inconstitucionalidad en casos concretos, el Recurso de Amparo, el Recurso de Exhibición Personal, y el Conflicto de Competencia y Constitucionalidad entre Poderes del Estado, tienen como objeto la protección de la Constitución en el ámbito jurisdiccional en todas las materias que ésta regula y son regulados por la presente Ley.
 
-En uso de sus facultades,
+IV
+
+Que el derecho de saber por qué y con qué finalidad se tiene información personal, es un derecho fundamental, inherente a la persona y que como tal los nicaragüenses tienen derecho, a su vida privada y la de su familia, a la inviolabilidad de su domicilio, su correspondencia y sus comunicaciones de todo tipo, al respeto de su honra y reputación.
+
+V
+
+Que el Recurso de Habeas Data sirve como mecanismo jurisdiccional de protección de los derechos a la autodeterminación informativa y complementa los mecanismos de control de la Constitución que establece la presente Ley.
+
+POR TANTO
+
+En uso de sus facultades
 
 HA DICTADO
 
 La siguiente:
+
+LEY No. 49
 
 LEY DE AMPARO
 

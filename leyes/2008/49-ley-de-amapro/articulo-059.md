@@ -1,3 +1,3 @@
 # Artículo 59
 
-En el caso de amenaza de detención ilegal, el peticionario al interponer el Recurso de Exhibición Personal deberá expresar en qué consiste la amenaza, debiendo en todo caso ser real, inmediata, posible y realizable, llenándose además todos los requisitos contemplados en el artículo 57 de la presente Ley.
+El peticionario, al interponer el Recurso de Exhibición Personal, deberá expresar los hechos que lo motivan, el lugar en que se encuentra el detenido, si se supiere, y el nombre o el cargo de que ejerce la autoridad o del funcionario, representante o responsable de la entidad o institución que ordenó la detención, si se supiere. La petición podrá hacerse en papel común por telegrama, carta y aún verbalmente levantándose en este último caso el acta correspondiente.

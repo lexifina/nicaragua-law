@@ -1,7 +1,7 @@
 # Artículo 70
 
-Cuando el funcionario que desobedezca el auto de exhibición fuese empleado o agente del Poder Ejecutivo, el Tribunal que conoce del Recurso lo pondrá inmediatamente en conocimiento de aquel, por medio de la Corte Suprema de Justicia, para que en el término de veinticuatro horas haga ejecutar lo mandado.
+La autoridad, funcionario o empleado público, contra quien se dirigiere la exhibición, atenderá inmediatamente la intimación y lo resuelto por el Juez Ejecutor, de conformidad con las disposiciones de esta Ley, bajo pena de multa de hasta el veinticinco por ciento de su salario o ingreso mensual a juicio del Tribunal, sin perjuicio de ser juzgado por el delito que corresponda.
 
-Si el Poder Ejecutivo se negare o dejare transcurrir el término sin llevar a efecto lo mandado, la Corte Suprema de Justicia hará constar el hecho públicamente y lo informará a la Asamblea Nacional.
+El Tribunal que conoce del Recurso impondrá la multa y pondrá el caso en conocimiento de la Procuraduría General de la República, para que derive las acciones correspondientes.
 
-La Corte Suprema de Justicia podrá hacer uso de la fuerza pública para darle cumplimiento al auto de exhibición. El interesado podrá a su vez solicitar a la Procuraduría General de Justicia la presentación de la acusación correspondiente.
+En igual multa incurrirá la autoridad, funcionario o empleado público que no atendiere al Juez Ejecutor en la forma establecida en el artículo 64.

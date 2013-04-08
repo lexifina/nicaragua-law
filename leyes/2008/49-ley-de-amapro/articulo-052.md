@@ -1,5 +1,3 @@
 # Artículo 52
 
-Cuando la sentencia no se obedeciese a pesar de los requerimientos, la Corte Suprema de Justicia, pondrá los hechos en conocimiento de la Presidencia de la República para que proceda a ordenar su cumplimiento e informará a la Asamblea Nacional, sin perjuicio de poner el caso en conocimiento de la Procuraduría General de Justicia para que derive las acciones correspondientes.
-
-Esto mismo se observará en los casos en que la suspensión del acto decretado por el Tribunal de Apelaciones o la Corte Suprema de Justicia no sea obedecido.
+Dictada la sentencia, el Tribunal la comunicará por oficio dentro del término de tres días hábiles a las autoridades o funcionarios responsables para su cumplimiento; igual cosa hará con las demás partes.

@@ -1,3 +1,3 @@
 # Artículo 31
 
-El menor que hubiere cumplido quince años, podrá interponer el Recurso de Amparo, sin intervención de su legítimo representante, cuando éste se hallare ausente o impedido. En tal caso, el Tribunal sin perjuicio de dictar las providencias que sean urgentes, nombrará al menor un guardador especial para que lo represente, pudiendo el propio menor hacer por escrito la designación de su representante. Si el menor no hubiere cumplido quince años de edad y se hallare ausente o impedido su legítimo representante podrá interponer el Recurso de Amparo en su nombre, la Procuraduría General de Justicia o cualquier otra persona.
+El Tribunal de Apelaciones concederá al recurrente un plazo de cinco días para que llene las omisiones de forma que notare en el escrito de interposición del Recurso. Si el recurrente dejase pasar este plazo, el Recurso se tendrá por no interpuesto.

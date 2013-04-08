@@ -1,19 +1,3 @@
 # Artículo 53
 
-No procede el Recurso de Amparo:
-
-1. Contra las resoluciones de los funcionarios judiciales en asuntos de su competencia.
-
-2. Cuando hayan cesado los efectos del acto, reclamado o este se haya consumado de modo irreparable.
-
-3. Contra los actos que hubieren sido consentidos por el agraviado de modo expreso o tácito. Se presumen consentidos aquellos actos por los cuales no se hubiere recurrido de Amparo dentro del término legal, sin perjuicio de la suspensión del término de conformidad al derecho común.
-
-4. Contra las resoluciones dictadas en materia electoral.
-
-5. Contra los actos relativos a la organización de los Poderes del Estado y el nombramiento y destitución de los funcionarios que gozan de Inmunidad.
-
-RECURSO DE EXHIBICIÓN PERSONAL
-
-Capítulo I
-
-Interposición del Recurso y Tribunal Competente
+Si dentro de las veinticuatro horas siguientes a la notificación, las autoridades o funcionarios responsables no dieren cumplimiento a la sentencia en el caso en que la naturaleza del acto lo permita, la Corte Suprema de Justicia requerirá al superior inmediato de la autoridad o funcionario responsable, para que obligue a éstos a cumplir sin demora la sentencia; si dicha autoridad o funcionario no tuviere superior jerárquico, el requerimiento se hará directamente a ellos.

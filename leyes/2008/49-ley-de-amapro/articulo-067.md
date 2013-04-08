@@ -1,3 +1,7 @@
 # Artículo 67
 
-Cuando se presuma detenida una persona y se ignore el lugar en que se encuentra y, además no se tuviere conocimiento de quién ordenó su detención, el solicitante se dirigirá al Tribunal respectivo para que gire orden a la Procuraduría General de Justicia, a fin que de inmediato averigüe el lugar de su detención y quién es el responsable de la misma. La Procuraduría con la brevedad que el caso amerita, actuará haciendo uso de las facultades que las leyes le confieren.
+La persona o autoridad requerida cumplirá lo mandado por el Juez Ejecutor en el acto mismo de la notificación. Si se negare, el Juez Ejecutor dará cuenta al Tribunal para que dicte las medidas tendientes al cumplimiento del mandato.
+
+Si la persona o autoridad requerida expusiera que el detenido no está a su orden, deberá indicar la autoridad, funcionario o institución que ordenó la detención contra la cual deberá dirigirse el Juez Ejecutor.
+
+En caso de que la autoridad últimamente indicada correspondiera a la comprensión territorial de otro Tribunal, el Juez Ejecutor estará obligado a informarlo telegráficamente de inmediato a dicho Tribunal para que proceda a nombrar nuevo Juez Ejecutor que cumpla el Recurso.

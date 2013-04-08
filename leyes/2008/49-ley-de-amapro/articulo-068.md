@@ -1,7 +1,5 @@
 # Artículo 68
 
-La autoridad, funcionario o empleado público, contra quien se dirigiere la exhibición, atenderá inmediatamente la intimación y lo resuelto por el Juez Ejecutor, de conformidad con las disposiciones de esta Ley, bajo pena de multa de hasta el veinticinco por ciento de su salario o ingreso mensual a juicio del Tribunal, sin perjuicio de ser juzgado por el delito que corresponda.
+En el caso de los incisos 1, 2, 4 y 5 del artículo 65, desde la notificación e intimación del Juez Ejecutor, todo procedimiento de la autoridad requerida será nulo y delictuoso.
 
-El Tribunal que conoce del Recurso impondrá la multa y pondrá el caso en conocimiento de la Procuraduría General de Justicia, para que derive las acciones correspondientes.
-
-En igual multa incurrirá la autoridad, funcionario o empleado público que no atendiere al Juez Ejecutor en la forma establecida en el artículo 62.
+En el caso del inciso 3 del mismo artículo, cuando el Juez Ejecutor ordenare la libertad, previa fianza de la haz, la autoridad judicial cumplirá lo ordenado por el Juez Ejecutor y continuará el desarrollo normal del proceso.

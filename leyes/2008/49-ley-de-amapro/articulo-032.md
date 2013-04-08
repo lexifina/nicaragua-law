@@ -1,7 +1,3 @@
 # Artículo 32
 
-La Procuraduría General de Justicia será parte en la sustanciación del presente recurso.
-
-Capítulo II
-
-Suspensión del Acto
+El y la adolescente que hubiere cumplido dieciséis años, podrá interponer el Recurso de Amparo, sin intervención de su legítimo representante, en tal caso, el Tribunal dictará las providencias que sean urgentes. También podrá hacer por escrito la designación de su representante legal. Si el o la adolescente no hubiere cumplido dieciséis años de edad y se hallare ausente o impedido, su legítimo representante podrá interponer el Recurso de Amparo en su nombre ante la Procuraduría General de la República, a través de la procuraduría respectiva, quien lo representará durante toda la tramitación del Recurso de Amparo.

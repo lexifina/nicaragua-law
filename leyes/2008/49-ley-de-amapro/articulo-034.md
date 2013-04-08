@@ -1,5 +1,3 @@
 # Artículo 34
 
-Procederá la suspensión de oficio cuando se trate de algún acto que de llegar a consumarse, haría físicamente imposible restituir al quejoso en el goce del derecho reclamado, o cuando sea notoria la falta de jurisdicción o competencia de la autoridad, funcionario o agente contra quien se interpusiere el Recurso, o cuando el acto sea de aquellos que ninguna autoridad puede ejecutar legalmente.
-
-La suspensión a que se refiere este artículo se decretará por el Tribunal, notificándolo sin tardanza por cualquier vía para su inmediato cumplimiento.
+Interpuesto en forma el Recurso de Amparo ante el Tribunal, se pondrá en conocimiento de la Procuraduría General de la República, acompañándole copia del Recurso. El Tribunal dentro del término de tres días, de oficio o a solicitud de parte, deberá decretar la suspensión del acto contra el cual se reclama o denegarla en su caso.

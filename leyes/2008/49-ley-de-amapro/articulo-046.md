@@ -1,3 +1,3 @@
 # Artículo 46
 
-La sentencia sólo se referirá a las personas naturales o jurídicas que hubieren interpuesto el Recurso, limitándose si procediese a ampararlo y protegerlos en el caso especial controvertido.
+Los funcionarios o autoridades no pueden ser representados en el Recurso de Amparo, pero si podrán por medio de simple oficio, acreditar delegados ante el Tribunal para el solo efecto de que rindan pruebas, aleguen y hagan gestiones en las correspondientes audiencias.

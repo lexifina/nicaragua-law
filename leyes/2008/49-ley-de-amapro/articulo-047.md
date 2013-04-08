@@ -1,3 +1,7 @@
 # Artículo 47
 
-La sentencia deberá ser razonada, con fijación clara del acto o actos reclamados, indicación de los fundamentos legales en que se apoya para declarar la legalidad o ilegalidad del acto reclamado y de los puntos resolutivos del mismo, señalándose en ellos con claridad y precisión el acto o actos por los que se concede o deniegue el Amparo.
+Si el Tribunal Supremo no encontrare datos suficientes para resolver el Amparo lo abrirá a pruebas por el término de diez días, siendo admisible toda clase de pruebas y podrá recabar de oficio otras que considere convenientes.
+
+Capítulo IV
+
+La Sentencia y sus Efectos

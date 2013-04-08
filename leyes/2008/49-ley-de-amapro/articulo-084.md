@@ -1,13 +1,11 @@
 # Artículo 84
 
-La sentencia que se dicte vincula a todos los Poderes del Estado y tendrá efectos erga omnes.
+La Sala de lo Constitucional de la Corte Suprema de Justicia podrá ordenar la suspensión de la disposición, resolución o acto objeto del conflicto, salvo que con ello se acarree perjuicio grave al interés general, o que el conflicto de competencia promovido sea notoriamente improcedente.
 
-Si el conflicto planteado es de naturaleza positiva, la sentencia determinará la competencia o atribuciones constitucionales controvertidas, y dejará sin valor las resoluciones, actos o disposiciones que han sido consideradas viciadas de incompetencia o inconstitucionalidad.
+Cuando el objeto del conflicto de competencia o constitucionalidad, versare sobre la ley, decretos legislativos, resoluciones, declaraciones legislativas y acuerdos legislativos, una vez publicados, la Sala de lo Constitucional de la Corte Suprema de Justicia iniciará el trámite y ordenará la suspensión del acto, por ministerio de ley, elevando las diligencias a la Corte Plena.
 
-Si el conflicto es de naturaleza negativa, la sentencia determinará el plazo dentro del cual el Poder declarado competente deberá ejercer las atribuciones establecidas en la Constitución.
+La Corte Suprema de Justicia, resolverá dentro del término fatal de treinta días, contados a partir de la fecha de recepción de las diligencias o en su caso a partir de la presentación del conflicto de Competencia o Constitucionalidad.
 
-DISPOSICIONES COMUNES Y FINALES
+Si la Corte Suprema de Justicia, no dictare sentencia en los términos establecidos, los días que transcurran a partir del vencimiento del término hasta la fecha en que se dicte la sentencia, se consideraran como ausencias y la tesorería de la Corte Suprema de Justicia deducirá tales días del pago del salario y de cualquier emolumento, ingreso o beneficio económico.
 
-Capítulo I
-
-Disposiciones Comunes
+Al transcurrir sesenta días sin haberse dictado sentencia, por ministerio de ley, quedará sin efecto la suspensión de la norma jurídica, acto legislativo o administrativo, entrando en plena vigencia, sin perjuicio del posterior fallo del conflicto, manteniéndose mientras tanto la suspensión del salario y emolumento señalado en el párrafo anterior.

@@ -1,7 +1,5 @@
 # Artículo 75
 
-Si la restricción de la libertad personal de que trata esta ley, procediera de una autoridad o funcionario que obra fuera de su órbita legal, el autor, cómplice o encubridor, incurrirá en una multa de hasta el veinticinco por ciento de su salario o ingreso mensual sin perjuicio de las otras penas establecidas en el Código Penal.
+Siempre que el Tribunal declare que no ha lugar a la solicitud de Exhibición Personal o desoiga a la petición sin fundamento legal, podrá el solicitante en un plazo de veinte días, recurrir de queja ante la Corte Suprema de Justicia y ésta resolverá dentro de las veinticuatro horas lo que sea de justicia, con vista de las razones expuestas por el interesado.
 
-Capítulo IV
-
-Recurso contra Particulares
+Cuando por motivo de impedimento no pudiere interponerse la queja, el plazo empezará a contarse desde que cesó el impedimento.

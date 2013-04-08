@@ -1,13 +1,11 @@
 # Artículo 71
 
-El Tribunal correspondiente, a solicitud de parte, dictará orden para que el Juez Ejecutor se apodere del favorecido y lo presente ante el mismo Tribunal, cuando se esté en presencia de alguno de los casos siguientes:
+Si la desobediencia es contra resoluciones del Tribunal tendrá las mismas sanciones del artículo anterior, y además, la separación del cargo.
 
-1. Cuando por declaración dada bajo promesa de ley de un testigo fidedigno o por indicio grave, aparece que alguno se hallare en prisión o custodia ilegales, y hay motivos fundados para creer que será extrañado del territorio de la República.
+Sin perjuicio de lo ordenado en el párrafo anterior, si la autoridad intimada estimare que el Juez Ejecutor se ha excedido en sus atribuciones o resuelto contra ley expresa, podrá informar al Tribunal de Apelaciones respectivo quien mandará a oír a la Procuraduría dentro del término de veinticuatro horas y resolverá conforme a derecho.
 
-2. Cuando hubiesen motivos suficientes para creer que el detenido sufrirá un daño irreparable antes que pueda ser socorrido en el curso ordinario del procedimiento.
+Si la autoridad intimada hubiese sido un Procurador se mandará a oír al superior inmediato.
 
-3. Cuando el auto de exhibición ha sido desobedecido.
+En todo caso el Tribunal podrá de oficio revisar las actuaciones del Juez Ejecutor.
 
-Capítulo III
-
-Queja y Actuaciones Especiales
+Cualquiera de los perjudicados con la resolución del Tribunal, podrá recurrir de queja ante la Corte Suprema de Justicia. De lo resuelto por ella no habrá recurso alguno.

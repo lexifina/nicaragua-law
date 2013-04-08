@@ -1,5 +1,9 @@
 # Artículo 62
 
-El Juez Ejecutor procederá inmediatamente a cumplir su cargo. Al efecto, se dirigirá a la autoridad o persona contra quien se hubiere expedido el auto de exhibición, quien recibirá al Juez Ejecutor en forma inmediata sin hacerlo guardar antesala. Procederá a intimarlo que exhiba en el acto a la persona agraviada, que muestre el proceso si lo hubiere o explique, en caso contrario, los motivos de la detención indicando la fecha de ella; todo lo cual hará constar en acta.
+Introducido en forma el Recurso de Exhibición Personal por amenaza, el Tribunal solicitará a la autoridad en contra de quien se dirige el Recurso que rinda informe en el término de veinticuatro horas; con dicho informe o sin él, el Tribunal decidirá admitir o rechazar dicho Recurso. En el caso de que lo admitiere se deberá proceder de conformidad con lo dispuesto en el artículo 60 en lo que fuere aplicable.
 
-El Juez Ejecutor podrá exigir la Exhibición de la persona detenida a la autoridad o funcionario que lo tenga directamente bajo su custodia, aunque estuviere a la orden de otro funcionario o autoridad, sin perjuicio de continuar con los otros trámites del recurso.
+En el caso de que el Tribunal rechace el Recurso, el perjudicado podrá recurrir de queja ante la Corte Suprema de Justicia y de lo resuelto por ésta no habrá Recurso alguno.
+
+Capítulo II
+
+Actuación del Juez Ejecutor

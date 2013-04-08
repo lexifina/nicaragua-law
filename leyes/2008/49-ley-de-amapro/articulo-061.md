@@ -1,3 +1,3 @@
 # Artículo 61
 
-El cargo de Juez Ejecutor será gratuito y obligatorio, y solo por imposibilidad física o implicancia comprobada podrá negarse a desempeñarlo. Fuera de estas dos excepciones se le aplicará multa de hasta el veinticinco por ciento de su salario o ingreso mensual, sin perjuicio de ser juzgado por desobediencia.
+En el caso de amenaza de detención ilegal, el peticionario al interponer el Recurso de Exhibición Personal deberá expresar en qué consiste la amenaza, debiendo en todo caso ser real, inmediata, posible y realizable, llenándose además todos los requisitos contemplados en el artículo 59 de la presente Ley.

@@ -1,0 +1,3 @@
+# Artículo 101
+
+Los Alcaides, guardas o encargados de la custodia de detenidos o presos, darán copia firmada de la orden de detención o prisión a las personas que custodian o al que las solicite en su nombre. Si la copia fuere denegada, o se retardare la entrega por más de veinticuatro horas, la persona a quien se le hubiere pedido incurrirá en una multa de hasta el veinticinco por ciento de su salario mensual, la cual se impondrá en virtud de denuncia por el Juez para lo Criminal de Distrito o Local del lugar, sin perjuicio de la obligación de extender la copia y de la responsabilidad a que hubiere lugar.

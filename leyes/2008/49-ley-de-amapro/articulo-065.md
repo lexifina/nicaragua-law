@@ -1,7 +1,17 @@
 # Artículo 65
 
-La persona o autoridad requerida cumplirá lo mandado por el Juez Ejecutor en el acto mismo de la notificación. Si se negare, el Juez Ejecutor dará cuenta al Tribunal para que dicte las medidas tendientes al cumplimiento del mandato.
+El Juez Ejecutor, en presencia del proceso o sin él, de las explicaciones del intimado y de las disposiciones legales, procederá según las reglas siguientes:
 
-Si la persona o autoridad requerida expusiera que el detenido no está a su orden, deberá indicar la autoridad, funcionario o institución que ordenó la detención contra la cual deberá dirigirse el Juez Ejecutor.
+1. Si la persona estuviere a la orden de autoridad que no es la facultada para conocer del caso, podrá ordenar su libertad o que pase de inmediato a la autoridad competente.
 
-En caso de que la autoridad últimamente indicada correspondiera a la comprensión territorial de otro Tribunal, el Juez Ejecutor estará obligado a informarlo telegráficamente de inmediato a dicho Tribunal para que proceda a nombrar nuevo Juez Ejecutor que cumpla el Recurso.
+2. Si la persona estuviere detenida a la orden de una autoridad competente, pero el término de ley se hubiere excedido, ordenará por auto que el detenido pase inmediatamente a la orden de la autoridad que corresponda o que sea puesto en libertad.
+
+3. Si el que tiene bajo su custodia a otra fuese la autoridad competente, pero no hubiese iniciado el proceso o no hubiese proveído el auto de detención en el término de ley de puesto a su orden o no hubiere dictado el auto de prisión en el término legal, el Juez Ejecutor mandará por auto ponerlo en libertad bajo fianza de la haz otorgada apud acta ante el mismo Juez Ejecutor. Fuera de estos tres casos dispondrá por auto que el proceso siga su curso.
+
+4. Si el que está bajo custodia, lo es por sentencia condenatoria firme, el Juez Ejecutor decretará por auto que el detenido continúe en tal condición por el término legal, pero si hubiere cumplido la condena, el Juez Ejecutor mandará por auto ponerlo inmediatamente en libertad.
+
+Si se trataré de sentencia judicial cumplida según el reo, por compensaciones legales, será necesario que esté liquidada la pena para que pueda ordenar su libertad. El Juez Ejecutor ordenará tal liquidación.
+
+5. Si el interno sufre diferente pena o más de las contempladas por la ley o sentencia, según el caso, o estuviese incomunicado contra lo que ellas previenen, el Juez Ejecutor dispondrá por auto que se cumpla la pena señalada en la sentencia y que cese la incomunicación.
+
+El Juez Ejecutor está en la obligación de dictar dentro de la ley todas las medidas de seguridad que sean indispensables en favor del detenido o del que estuviese amenazado de serlo ilegalmente.

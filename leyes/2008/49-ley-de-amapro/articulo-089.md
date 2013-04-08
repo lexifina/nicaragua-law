@@ -1,3 +1,3 @@
 # Artículo 89
 
-Las multas que se apliquen en virtud de esta Ley, serán impuestas por el Tribunal que conozca cualquiera de los recursos, y se harán efectivas por el Ministerio de Hacienda y Crédito Público, aun mediante apremio corporal. Estas multas prescribirán conforme al derecho común.
+El Recurso de Habeas Data se dirige contra los responsables y cualquier otra persona que hubiere hecho uso indebido de ficheros de datos públicos o privados, o ambos.

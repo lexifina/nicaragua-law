@@ -1,3 +1,7 @@
 # Artículo 72
 
-Presentada la persona que se hallaba en prisión o restricción, acordará el Tribunal lo que corresponde para protegerla con arreglo a la ley, pudiendo en tales circunstancias pedir el auxilio de la fuerza pública para el cumplimiento de sus providencias. Dentro de los tres días siguientes, a más tardar, y a la sola vista de los autos, el Tribunal resolverá lo que sea de justicia.
+Cuando el funcionario que desobedezca el auto de exhibición fuese empleado o agente del Poder Ejecutivo, el Tribunal que conoce del Recurso lo pondrá inmediatamente en conocimiento de aquel, por medio de la Corte Suprema de Justicia, para que en el término de veinticuatro horas haga ejecutar lo mandado.
+
+Si el Poder Ejecutivo se negare o dejare transcurrir el término sin llevar a efecto lo mandado, la Corte Suprema de Justicia hará constar el hecho públicamente y lo informará a la Asamblea Nacional.
+
+La Corte Suprema de Justicia podrá hacer uso de la fuerza pública para darle cumplimiento al auto de exhibición. El interesado podrá a su vez solicitar al Ministerio Público la presentación de la acusación correspondiente.

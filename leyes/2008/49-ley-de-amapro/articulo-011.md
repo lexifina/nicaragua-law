@@ -1,3 +1,3 @@
 # Artículo 11
 
-La Procuraduría General de Justicia será parte en la sustanciación del presente recurso.
+Corresponde a la Corte Suprema de Justicia en pleno conocer y resolver el Recurso por Inconstitucionalidad.

@@ -1,5 +1,11 @@
 # Artículo 22
 
-La parte recurrente de un Recurso de Casación o de Amparo podrá alegar la Inconstitucionalidad de la ley, decreto ley, decreto o reglamento que se le haya aplicado.
+La sentencia que declare si es inconstitucional o no, el todo o parte de una ley, decreto o reglamento producirá cosa juzgada en forma general en cuanto a los puntos declarados constitucionales o inconstitucionales.
 
-Si resultare ser cierta la inconstitucionalidad alegada, la Corte Suprema de Justicia, además de casar la sentencia o de amparar al recurrente, declarará la inconstitucionalidad de la ley, decreto ley, decreto o reglamento aplicado, de conformidad con el artículo 20 de la presente ley.
+Cuando se recurrió solamente contra parte o partes de los citados cuerpos normativos, el Tribunal podrá pronunciarse de oficio específicamente sobre el resto de los mismos.
+
+INCONSTITUCIONALIDAD EN CASOS CONCRETOS
+
+Capítulo Único
+
+Inconstitucionalidad en Casos Concretos

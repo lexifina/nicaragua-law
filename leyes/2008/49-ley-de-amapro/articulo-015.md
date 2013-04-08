@@ -1,7 +1,3 @@
 # Artículo 15
 
-El Recurso por Inconstitucionalidad podrá interponerse personalmente, o por apoderado especialmente facultado para ello. En este segundo caso el poder deberá ser otorgado ante Notario Público domiciliado en Nicaragua.
-
-Capítulo II
-
-Tramitación del Recurso
+La Corte Suprema de Justicia concederá al recurrente un plazo de cinco días para que llene las omisiones de forma que notare en el escrito de interposición del Recurso. Si el recurrente dejare pasar este plazo, el Recurso se tendrá por no interpuesto.
