@@ -1,0 +1,7 @@
+# Artículo 97
+
+Seguro Obligatorio de Incendio de Responsabilidad Civil y daños a terceros.
+
+Para los fines y efectos de la presente Ley, se establece el seguro obligatorio de responsabilidad civil y daños a terceros para las personas naturales o jurídicas, instituciones públicas o privadas prestatarias de servicios, tales como: bancos, micro financieras, hoteles, casinos, clubes nocturnos, cines, discotecas, centros o plazas comerciales, edificios para oficinas, entre otras que se encuentren comprendidas en la clasificación que establece el artículo 92, romano III, numerales 1, 2 y 3 o con alto riesgo de incendio y de conformidad a los criterios establecidos en la normativa técnica establecida en base a lo dispuestos en la Ley Nº. 219, “Ley de Normalización Técnica y Calidad”, publicada en La Gaceta, Diario Oficial No. 123 del 2 de julio de 1996 y los parámetros y estándares internacionales establecidos.
+
+El seguro deberá de incluir muerte o lesiones causadas a una, dos o más personas, así como los daños materiales causados a terceras personas, todo a consecuencia de un siniestro en el que la entidad asegurada sea declarada responsable de este por la autoridad competente. Los montos de cobertura serán establecidos en las normativas técnicas que para tal efecto emita la Superintendencia de Bancos y de otras Instituciones Financieras con atención a los objetivos definidos en el artículo 92 de la presente ley.

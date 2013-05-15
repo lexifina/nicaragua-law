@@ -1,0 +1,9 @@
+# Artículo 45
+
+Remoción de desechos y materiales peligrosos.
+
+En casos de siniestros a consecuencia de negligencia, impericia, falta de capacidad e implementos técnicos o humana para la seguridad o imprudencia en la manipulación, transporte de desechos tóxicos, peligrosos y otros similares, así como remanentes de estos materiales que tengan que ser atendidos preventivamente por la Dirección General de Bomberos o por las diferentes organizaciones de bomberos voluntarios, se procederá de conformidad a lo establecido en la Ley Nº.274, “Ley Básica para la Regulación y Control de Plaguicidas, Sustancias Tóxicas, Peligrosas y otras Similares” y su Reglamento y en la Ley Nº 277, “Ley de Suministro de Hidrocarburos” y su Reglamento.
+
+Los costos a consecuencia de la remediación y reparación de daños causados se corresponderán con relación al cien por ciento que estos daños pudiesen causar y deberán ser pagados en la Tesorería General de la República en un plazo no mayor de treinta días y la Autoridad de Aplicación será el Instituto Nicaragüense de Energía en materia de hidrocarburos. En plaguicidas y otras sustancias toxicas y peligrosas será el Ministerio del Ambiente y de los Recursos Naturales, el Ministerio de Salud Pública y el Ministerio Agropecuario y Forestal, según el ámbito de competencia previsto por la legislación. En caso de ser necesario, se establecerán otros criterios técnicos en la Norma Técnica Obligatoria Nicaragüense.
+
+Las personas que en su calidad de representantes legales o propietarios de los establecimientos que distribuyen los productos o sustancias relacionadas en el párrafo primero, están obligados a presentar anualmente la copia de la póliza de Seguro de Responsabilidad Civil y daños a terceros; responden solidariamente por los daños y perjuicios causados a terceros, sus bienes y al personal de la Dirección General de Bomberos o a cualquiera de los miembros de las asociaciones de bomberos voluntarios.
