@@ -1,0 +1,7 @@
+# Artículo 19
+
+Creación de la EPN
+
+Créase mediante la presente Ley, la Empresa Portuaria Nacional como autoridad administradora del sistema portuario nacional estatal, un ente de derecho público descentralizado, adscrito a la Presidencia de la República, con carácter autónomo, del dominio comercial del Estado y administrador de los puertos de su propiedad, bajo su administración y de los contratos de los puertos concesionados por el Estado de Nicaragua según procedimiento de esta Ley; con personería jurídica, patrimonio propio y capacidad plena para ejercer derechos y contraer obligaciones; como sucesora sin solución de continuidad de la Empresa Portuaria Nacional creada mediante el Decreto No. 35-95, publicado en La Gaceta, Diario Oficial No. 119 del 27 de junio de 1995 y sus Reformas, Decreto No. 12-99, publicado en La Gaceta, Diario Oficial No. 29 del 11 de febrero de 1999 y el Decreto 26-2005, publicado en La Gaceta, Diario Oficial No. 72 del 14 de abril de 2005, con todos sus bienes muebles e inmuebles, derechos, acciones y obligaciones legalmente constituidos hasta la fecha de entrada en vigencia de la presente Ley.
+
+La EPN se regirá por la presente Ley, sus reglamentos, acuerdos de la Junta Directiva y en lo que no estuviere previsto en ellos, por las demás leyes del país y las normas de los convenios internacionales en materia marítima portuaria en los que el Estado de Nicaragua sea parte.

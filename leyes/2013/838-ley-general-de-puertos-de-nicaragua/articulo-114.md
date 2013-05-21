@@ -1,0 +1,5 @@
+# Artículo 114
+
+Derecho de retención sobre las mercancías
+
+El operador portuario tendrá derecho de retención sobre las mercancías bajo su custodia, por el precio de los servicios que haya prestado con respecto a esas mercancías y de los gastos ocasionados con motivo de los mismos, salvo disposición en contrario del contrato por el cual se rija la prestación de sus servicios.
