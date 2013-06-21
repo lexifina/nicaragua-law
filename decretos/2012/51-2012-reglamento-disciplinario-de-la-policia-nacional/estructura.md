@@ -1,0 +1,2 @@
+- DISPOSICIONES GENERALES (antes del artículo 1)
+- DISPOSICIONES FINALES Y TRANSITORIAS (antes del artículo 66)
