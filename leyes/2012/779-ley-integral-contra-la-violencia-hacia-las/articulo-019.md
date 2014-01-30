@@ -2,7 +2,9 @@
 
 Medidas de atención y prevención
 
-Las medidas de atención y prevención que se establezcan son el conjunto de medidas y acciones para proteger a las víctimas de violencia, como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos. Dichos modelos deberán tomar en consideración:
+Las medidas de atención y prevención que se establezcan son el conjunto de medidas y acciones para proteger a las víctimas de violencia, como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos.
+
+Dichos modelos deberán tomar en consideración:
 
 a) Proporcionar servicios de atención, asesoría jurídica y tratamiento psicológico, especializado y gratuito a las víctimas que reparen el daño causado por la violencia.
 

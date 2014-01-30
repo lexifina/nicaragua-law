@@ -2,7 +2,7 @@
 
 Violencia patrimonial y económica
 
-Es violencia patrimonial y económica, la acción u omisión ejercida por un hombre en contra de la mujer, con la que se halle o hubiere estado ligada por relación de consanguinidad, afinidad, cónyuges, ex-cónyuges, convivientes en unión de hecho estable, ex convivientes en unión de hecho estable, novias, ex novias, relación de afectividad, y que dé como resultado cualquiera de las conductas siguientes:
+Es violencia patrimonial y económica, la acción u omisión ejercida por un hombre en contra de la mujer, con la que se halle o hubiere estado ligada por relación de consanguinidad, afinidad, cónyuges, excónyuges, convivientes en unión de hecho estable, exconvivientes en unión de hecho estable, novias, exnovias, relación de afectividad, y que dé como resultado cualquiera de las conductas siguientes:
 
 a) Sustracción patrimonial: Quien sustraiga algún bien o valor de la posesión o patrimonio de una mujer o sustraiga bienes, independientemente de su titularidad, será sancionado con pena de dos a cinco años de prisión. Todo ello siempre que el valor del bien o bienes sustraídos sean mayores a la suma resultante de un salario mínimo mensual del sector industrial.
 

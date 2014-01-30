@@ -2,7 +2,7 @@
 
 Efectos del incidente de recusación
 
-El Juez o Jueza recusado, no pierde su competencia hasta que el incidente de recusación o inhibición sea resuelto.
+El juez o jueza recusado, no pierde su competencia hasta que el incidente de recusación o inhibición sea resuelto.
 
 Capítulo III
 

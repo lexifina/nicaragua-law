@@ -8,9 +8,7 @@ a) Misoginia: Son conductas de odio hacia la mujer y se manifiestan en actos vio
 
 b) Violencia física: Es toda acción u omisión que pone en peligro o daña la integridad corporal de la mujer, que produzca como resultado una lesión física.
 
-c) Violencia en el ejercicio de la función pública contra la mujer:
-
-Aquella realizada por autoridades o funcionarios públicos, profesionales, personal y agentes pertenecientes a cualquier órgano o institución pública, que tenga como fin retardar, obstaculizar, denegar o impedir que las mujeres tengan acceso a la justicia y a las políticas públicas.
+c) Violencia en el ejercicio de la función pública contra la mujer: Aquella realizada por autoridades o funcionarios públicos, profesionales, personal y agentes pertenecientes a cualquier órgano o institución pública, que tenga como fin retardar, obstaculizar, denegar o impedir que las mujeres tengan acceso a la justicia y a las políticas públicas.
 
 d) Violencia laboral contra las mujeres: Aquella que discrimina a las mujeres en los ámbitos de trabajo públicos o privados y que obstaculiza su acceso al empleo, contratación, salario digno y equitativo, ascenso, estabilidad o permanencia en el mismo, exigiendo requisitos sobre estado civil, maternidad, esterilización quirúrgica, edad, apariencia física, realización de prueba de embarazo o de Virus de Inmunodeficiencia Humana VIH/SIDA u otra prueba sobre la condición de salud de la mujer. Constituye también violencia contra las mujeres en el ámbito laboral quebrantar el derecho de igual remuneración por igual tarea o función. Asimismo, incluye el hostigamiento psicológico en forma sistemática sobre una determinada trabajadora con el fin de lograr su exclusión laboral.
 

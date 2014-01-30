@@ -16,7 +16,7 @@ e) Capacitar desde un enfoque de género, al personal y funcionarios que integra
 
 f) Fortalecer programas de sensibilización y capacitación con perspectiva de género dirigidos a operadores de justicia que aseguren una atención de calidad y eliminen la violencia institucional contra las mujeres;
 
-g) Incorporaren las políticas de seguridad ciudadana medidas específicas para prevenir, investigar, sancionar y erradicar el femicidio, entendidos como la forma más extrema de violencia de género contra las mujeres;
+g) Incorporar en las políticas de seguridad ciudadana medidas específicas para prevenir, investigar, sancionar y erradicar el femicidio, entendidos como la forma más extrema de violencia de género contra las mujeres;
 
 h) Promover albergues, grupos de autoayuda y recuperación de daños dirigidos a proteger a las mujeres en las familias, en la comunidad; y
 

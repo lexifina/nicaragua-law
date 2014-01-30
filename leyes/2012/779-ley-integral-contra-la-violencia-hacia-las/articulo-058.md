@@ -1,28 +1,28 @@
 # Artículo 58
 
-Adiciones a los artículos 150,151, 152,169, 175 y 195 del Libro Segundo de la Ley No. 641, "Código Penal", publicada en La Gaceta, Diario Oficial No. 83,84, 85 , 86 y 87 correspondientes a los días 5, 6, 7, 8 y 9 de Mayo del 2008, respectivamente.
+Adiciones a los artículos 150, 151, 152, 169, 175 y 195 del Libro Segundo de la Ley N°. 641, “Código Penal”, publicada en La Gaceta, Diario Oficial No. 83, 84, 85, 86 y 87 correspondientes a los días 5, 6, 7, 8 y 9 de mayo del 2008, respectivamente.
 
-a) Adiciónese al artículo 150 de la Ley No. 641, "Código Penal" un segundo párrafo, el cual una vez incorporado se leerá así:
+a) Adiciónese al artículo 150 de la Ley No. 641, “Código Penal” un segundo párrafo, el cual una vez incorporado se leerá así:
 
-"Art. 150 Lesiones
+“Art. 150 Lesiones
 
 Para efectos de este Código el concepto de lesión comprende heridas, contusiones, escoriaciones, fracturas, dislocaciones, quemaduras y toda alteración en la salud y cualquier otro daño a la integridad física o psíquica de las personas, siempre que sean producidos por una causa externa.
 
-Comprende lesiones psíquicas o psicológicas, el perjuicio en la salud psíquica por la devaluación de la autoestima o las afectaciones al desarrollo personal, así como cualquier daño a la integridad psíquica o la disfunción en cualquiera de las áreas de funcionamiento personal, laboral, escolar, familiar o social, al igual que toda enfermedad psíquica, producida por acción u omisión."
+Comprende lesiones psíquicas o psicológicas, el perjuicio en la salud psíquica por la devaluación de la autoestima o las afectaciones al desarrollo personal, así como cualquier daño a la integridad psíquica o la disfunción en cualquiera de las áreas de funcionamiento personal, laboral, escolar, familiar o social, al igual que toda enfermedad psíquica, producida por acción u omisión.”
 
-b) Adiciónese al artículo 151 de la Ley No. 641, "Código Penal" un tercer párrafo, el cual una vez incorporado se leerá así:
+b) Adiciónese al artículo 151 de la Ley N°. 641, “Código Penal” un tercer párrafo, el cual una vez incorporado se leerá así:
 
-"Art. 151 Lesiones leves
+“Art. 151 Lesiones leves
 
 Quien cause a otra persona una lesión a su integridad física o psíquica que requiera objetivamente para su sanidad además de la primera asistencia facultativa, tratamiento médico, será sancionado con prisión de seis meses a un año.
 
 Si la lesión, además requiere una intervención quirúrgica, la sanción será prisión de seis meses a dos años.
 
-Se considera lesión psicológica leve, aquellas que provocan daño a su integridad psíquica o psicológica que requiera, tratamiento psicoterapéutico, será sancionado con pena de seis meses a un año de prisión."
+Se considera lesión psicológica leve, aquellas que provocan daño a su integridad psíquica o psicológica que requiera, tratamiento psicoterapéutico, será sancionado con pena de seis meses a un año de prisión.”
 
-c) Adiciónese al artículo 152 de la Ley No. 641, "Código Penal" un cuarto párrafo, el cual una vez incorporado se leerá así:
+c) Adiciónese al artículo 152 de la Ley N°. 641, “Código Penal” un cuarto párrafo, el cual una vez incorporado se leerá así:
 
-"Art. 152 Lesiones graves
+“Art. 152 Lesiones graves
 
 Si la lesión produjera un menoscabo persistente de la salud o integridad física, psíquica de un sentido, órgano, miembro o función, hubiera puesto en peligro la vida o dejara una cicatriz visible y permanente en el rostro, será sancionado con prisión de dos a cinco años.
 
@@ -30,11 +30,11 @@ Si la lesión deja una cicatriz visible y permanente en cualquier otra parte del
 
 Cuando la lesión grave se produjera utilizando armas, instrumentos, objetos, medios, métodos o formas concretamente peligrosas para la vida, salud física o psíquica del lesionado, se impondrá prisión de tres a seis años.
 
-Se considera lesión grave psicológica si se causara disfunción en cualquiera de las áreas de funcionamiento personal, laboral, escolar, familiar o social que requiera un tratamiento especializado en salud mental, será sancionado con pena de dos a cinco años de prisión."
+Se considera lesión grave psicológica si se causara disfunción en cualquiera de las áreas de funcionamiento personal, laboral, escolar, familiar o social que requiera un tratamiento especializado en salud mental, será sancionado con pena de dos a cinco años de prisión.”
 
-d) Adiciónese al artículo 169 de la Ley No. 641, "Código Penal" un literal "e", el cual una vez incorporado se leerá así:
+d) Adiciónese al artículo 169 de la Ley N°. 641, “Código Penal” un literal “e”, el cual una vez incorporado se leerá así:
 
-"Art. 169 Violación agravada
+“Art. 169 Violación agravada
 
 Se impondrá la pena de doce a quince años de prisión cuando:
 
@@ -48,26 +48,26 @@ d) Resulte un grave daño en la salud de la víctima; o
 
 e) Que la víctima resulte embarazada a consecuencia de la violación.
 
-Si concurren dos o más de las circunstancias previstas en este artículo, se impondrá la pena máxima."
+Si concurren dos o más de las circunstancias previstas en este artículo, se impondrá la pena máxima.”
 
-e) Adiciónese al artículo 175 de la Ley No. 641, "Código Penal" un quinto párrafo, el cual una vez incorporado se leerá así:
+e) Adiciónese al artículo 175 de la Ley N°. 641, “Código Penal” un quinto párrafo, el cual una vez incorporado se leerá así:
 
-"Art. 175 Explotación sexual, pornografía y acto sexual con adolescentes mediante pago
+“Art. 175 Explotación sexual, pornografía y acto sexual con adolescentes mediante pago
 
 Quien induzca, facilite, promueva o utilice con fines sexuales o eróticos a personas menor de dieciséis años o discapacitado, haciéndola presenciar o participar en un comportamiento o espectáculo público o privado, aunque la víctima consienta en presenciar ese comportamiento o participar en él, será penado de cinco a siete años de prisión y se impondrá de cuatro a seis años de prisión, cuando la víctima sea mayor de dieciséis y menor de dieciocho años de edad.
 
-Quien promueva, financie, fabrique, reproduzca, publique, comercialice, importe, exporte, difunda, distribuya material para fines de explotación sexual, por cualquier medio sea directo, mecánico, digital, audio visual, o con soporte informático, electrónico o de otro tipo, la imagen, o la voz de persona menor de dieciocho años en actividad sexual o eróticas, reales o simuladas, explícitas e implícitas o la representación de sus genitales con fines sexuales, será sancionado con pena de cinco a siete años de prisión y de ciento cincuenta a quinientos días de multa.
+Quien promueva, financie, fabrique, reproduzca, publique, comercialice, importe, exporte, difunda, distribuya material para fines de explotación sexual, por cualquier medio sea directo, mecánico, digital, audio visual, o con soporte informático, electrónico o de otro tipo, la imagen, o la voz de persona menor de dieciocho años en actividad sexual o eróticas, reales o simuladas, explicitas e implícitas o la representación de sus genitales con fines sexuales, será sancionado con pena de cinco a siete años de prisión y de ciento cincuenta a quinientos días de multa.
 
 Quien con fines de explotación sexual, posea material pornográfico o erótico en los términos expresado en el párrafo anterior, será sancionado con la pena de uno a dos años de prisión.
 
 Quien ejecute acto sexual o erótico con persona mayor de catorce años y menor de dieciocho años de edad de cualquier sexo, pagando o prometiéndole pagar o darle a cambio ventaja económica o de cualquier naturaleza, será sancionado con pena de prisión de cinco a siete años.
 
-Para los fines establecidos en este Código y en las leyes especiales, se entenderá por explotación sexual todo tipo de actividad en que se usa el cuerpo de un menor de dieciocho años de edad o incapaz, aun así sea con su consentimiento, para sacar ventaja o provecho de carácter sexual, erótico, económico, comercial, de reconocimiento público, publicitario o de cualquier otra índole."
+Para los fines establecidos en este Código y en las leyes especiales, se entenderá por explotación sexual todo tipo de actividad en que se usa el cuerpo de un menor de dieciocho años de edad o incapaz, aun así sea con su consentimiento, para sacar ventaja o provecho de carácter sexual, erótico, económico, comercial, de reconocimiento público, publicitario o de cualquier otra índole.”
 
-f) Adiciónese al artículo 195 de la Ley No. 641, "Código Penal" un segundo párrafo, el cual una vez incorporado se leerá así:
+f) Adiciónese al artículo 195 de la Ley N°. 641, “Código Penal” un segundo párrafo, el cual una vez incorporado se leerá así:
 
-"Art. 195 Propalación
+“Art. 195 Propalación
 
 Quien hallándose legítimamente en posesión de una comunicación, de documentos o grabaciones de carácter privado, los haga públicos sin la debida autorización, aunque le hayan sido dirigidos, será penado de sesenta a ciento ochenta días multa.
 
-Si las grabaciones, imágenes, comunicaciones o documentos hechos públicos, son de contenido sexual o erótico, aunque hayan sido obtenidos con el consentimiento, la pena será de dos a cuatro años de prisión. Cuando se trate de documentos divulgados por internet, el juez competente a petición del Ministerio Público o quien esté ejerciendo la acción penal, ordenará: el retiro inmediato de los documentos divulgados."
+Si las grabaciones, imágenes, comunicaciones o documentos hechos públicos, son de contenido sexual o erótico, aunque hayan sido obtenidos con el consentimiento, la pena será de dos a cuatro años de prisión. Cuando se trate de documentos divulgados por internet, el juez competente a petición del Ministerio Público o quien esté ejerciendo la acción penal, ordenará el retiro inmediato de los documentos divulgados.”

@@ -1,10 +1,10 @@
-LEY N°. 779, LEY INTEGRAL CONTRA LA VIOLENCIA HACIA LAS MUJERES Y DE REFORMAS A LA LEY N°. 641, CÓDIGO PENAL
+TEXTO DE LEY N°. 779, “LEY INTEGRAL CONTRA LA VIOLENCIA HACIA LAS MUJERES Y DE REFORMAS A LA LEY N°. 641, “CÓDIGO PENAL", CON SUS REFORMAS INCORPORADAS
 
-Aprobada el 26 de enero de 2012
+Publicado en La Gaceta Diario Oficial N°. 19 del 30 de enero del 2014
 
-Publicada en La Gaceta, Diario Oficial N°. 35 del 22 de febrero de 2012
+TEXTO DE LEY N°. 779, “LEY INTEGRAL CONTRA LA VIOLENCIA HACIA LAS MUJERES Y DE REFORMAS A LA LEY N°. 641, “CÓDIGO PENAL", CON SUS REFORMAS INCORPORADAS
 
-Ley No. 779
+"Ley N°. 779
 
 El Presidente de la República de Nicaragua
 
@@ -22,7 +22,7 @@ Que la normativa existente para frenar la violencia de género en contra de las 
 
 II
 
-El Estado de Nicaragua ha suscrito y ratificado diversos instrumentos internacionales como la "Convención para la Eliminación de todas las Formas de Discriminación contra la Mujer", la "Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia Contra la Mujer", la "Convención sobre los Derechos del Niño", y la "Convención Internacional sobre los Derechos de las Personas con Discapacidad", entre otras. Estos instrumentos obligan al Estado a establecer normas especiales que aseguren una efectiva igualdad ante la Ley, a eliminar la discriminación y prohibir explícitamente la violencia hacia la mujer en cualquiera de sus manifestaciones.
+El Estado de Nicaragua ha suscrito y ratificado diversos instrumentos internacionales como la “Convención para la Eliminación de todas las Formas de Discriminación contra la Mujer”, la “Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia Contra la Mujer”, la “Convención sobre los Derechos del Niño”, y la “Convención Internacional sobre los Derechos de las Personas con Discapacidad”, entre otras. Estos instrumentos obligan al Estado a establecer normas especiales que aseguren una efectiva igualdad ante la Ley, a eliminar la discriminación y prohibir explícitamente la violencia hacia la mujer en cualquiera de sus manifestaciones.
 
 III
 
@@ -36,7 +36,7 @@ HA DICTADO
 
 La siguiente:
 
-LEY INTEGRAL CONTRA LA VIOLENCIA HACIA LAS MUJERES Y DE REFORMAS A LA LEY N°. 641, "CÓDIGO PENAL"
+LEY INTEGRAL CONTRA LA VIOLENCIA HACIA LAS MUJERES Y DE REFORMAS A LA LEY No. 641, “CÓDIGO PENAL”
 
 TÍTULO I
 

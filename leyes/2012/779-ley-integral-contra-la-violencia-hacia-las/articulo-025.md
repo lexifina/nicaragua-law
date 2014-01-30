@@ -2,15 +2,15 @@
 
 Medidas cautelares
 
-El Juez, Jueza o Tribunal a solicitud del Ministerio Público o de la víctima constituido en acusador particular, podrá decretar las siguientes medidas cautelares:
+El juez, jueza o tribunal a solicitud del Ministerio Público o de la víctima constituido en acusador particular, podrá decretar las siguientes medidas cautelares:
 
 a) Ordenar al presunto agresor someterse a la atención psicológica o siquiátrica que el juez o jueza estime necesaria;
 
-b) Imponer al presunto agresor, preste las garantías suficientes que determine el Juez o Jueza para compensar los posibles daños ocasionados a la mujer;
+b) Imponer al presunto agresor, preste las garantías suficientes que determine el juez o jueza para compensar los posibles daños ocasionados a la mujer;
 
 c) Conceder provisionalmente la tutela de los niños, niñas, adolescentes o personas con discapacidad a quien considere idóneo para tal función, si estaba confiada al presunto agresor, en caso de que estén involucrados a la hora de la comisión de alguno de los delitos contenidos en la presente Ley;
 
-d) Imponer al presunto agresor la obligación de proporcionar a la mujer víctima de violencia, el sustento necesario para garantizar su subsistencia, en caso que estaño disponga de medios económicos para ello y exista una relación de dependencia con el presunto agresor. La aplicación de esta medida será de carácter provisional de acuerdo al tiempo fijado para su vigencia en la presente Ley;
+d) Imponer al presunto agresor la obligación de proporcionar a la mujer víctima de violencia, el sustento necesario para garantizar su subsistencia, en caso que ésta no disponga de medios económicos para ello y exista una relación de dependencia con el presunto agresor. La aplicación de esta medida será de carácter provisional de acuerdo al tiempo fijado para su vigencia en la presente Ley;
 
 e) Imponer al presunto agresor la obligación de proporcionar a los hijos e hijas alimentos provisionales que garanticen su subsistencia, hasta que la autoridad competente dicte la forma de tasar los alimentos en armonía a lo establecido en la Ley de la materia;
 

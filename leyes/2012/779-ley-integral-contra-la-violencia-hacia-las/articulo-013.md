@@ -2,7 +2,7 @@
 
 Intimidación o amenaza contra la mujer
 
-El hombre que mediante expresiones verbales, escritos, mensajes electrónicos o cualquier otro medio intimide o amenace a una mujer con la que se halle o hubiere estado ligado por relación de consanguinidad, afinidad, sujetos a tutela, cónyuges, ex-cónyuges, convivientes en unión de hecho estable, ex convivientes en unión de hecho estable, novios, ex novios, relación de afectividad; con causarle un daño grave y probable de carácter físico, psicológico, sexual, laboral o patrimonial, será sancionado con prisión de seis meses a un año.
+El hombre que mediante expresiones verbales, escritos, mensajes electrónicos o cualquier otro medio intimide o amenace a una mujer con la que se halle o hubiere estado ligado por relación de consanguinidad, afinidad, sujetos a tutela, cónyuges, excónyuges, convivientes en unión de hecho estable, exconvivientes en unión de hecho estable, novios, exnovios, relación de afectividad; con causarle un daño grave y probable de carácter físico, psicológico, sexual, laboral o patrimonial, será sancionado con prisión de seis meses a un año.
 
 La pena será de seis meses a dos años de prisión, cuando se dé una de las siguientes circunstancias:
 

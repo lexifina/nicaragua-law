@@ -10,7 +10,7 @@ b) Gestionar la creación del fondo especial del Estado para reparar daños a la
 
 c) Crear, orientar, impulsar y ejecutar planes interinstitucionales para implementar las medidas de las políticas de lucha contra la violencia hacia la mujer.
 
-3. De Monitoreo y evaluación:
+2. De Monitoreo y evaluación:
 
 a) Crear el observatorio de violencia hacia la mujer, adscrito a la Comisión Nacional Interinstitucional de Lucha Contra la Violencia Hacia la Mujer, al que corresponderá el asesoramiento, evaluación, colaboración institucional, elaboración de informes, estudios y propuestas de actuación en materia de violencia hacia las mujeres, con la participación de las instancias municipales y las organizaciones de mujeres;
 
