@@ -1,0 +1,8 @@
+# Artículo 190
+
+Se establecen también los siguientes recursos y mecanismos de control constitucional:
+1) El Recurso de Habeas Data como garantía de tutela de datos personales asentados en archivos, registros, bancos de datos u otros medios técnicos, de naturaleza pública o privada, cuya publicidad constituya invasión a la privacidad personal y tenga relevancia con el tratamiento de datos sensibles de las personas en su ámbito íntimo y familiar. El Recurso de Habeas Data procede a favor de toda persona para saber quién, cuándo, con qué fines y en qué circunstancias toma contacto con sus datos personales y su publicidad indebida.
+2) El conflicto de competencia y constitucionalidad entre los Poderes del Estado. Los representantes de los Poderes del Estado promoverán el conflicto de competencia y constitucionalidad cuando consideren que una ley, decreto o reglamento, acto, resolución o disposición de otro órgano, invade el ámbito de sus competencias privativas constitucionales.
+3) El control de constitucionalidad en caso concreto como un mecanismo incidental de control. Cuando en un caso sometido al conocimiento de autoridad judicial, ésta considere que una norma de cuya validez depende el fallo es contraria a la Constitución, deberá proceder a declarar su inconstitucionalidad para el caso en concreto. Las partes en el proceso pueden solicitar la inconstitucionalidad de una norma que se esté aplicando al caso. La autoridad judicial deberá pronunciarse sobre el punto, acogiendo o rechazando la pretensión.
+4) Los conflictos de constitucionalidad entre el Gobierno Central y los Gobiernos Municipales y de las Regiones Autónomas de la Costa Caribe.
+La Ley de Justicia Constitucional regulará los recursos y mecanismos establecidos en este capítulo.

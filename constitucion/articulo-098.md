@@ -1,0 +1,6 @@
+# Artículo 98
+
+La función principal del Estado en la economía es lograr el desarrollo humano sostenible en el país; mejorar las condiciones de vida del pueblo y realizar una distribución cada vez más justa de la riqueza en la búsqueda del buen vivir.
+El Estado debe jugar un rol facilitador de la actividad productiva, creando las condiciones para que el sector privado y los trabajadores realicen su actividad económica, productiva y laboral en un marco de gobernabilidad democrática y seguridad jurídica plena, que les permita contribuir con el desarrollo económico y social del país.
+El Estado debe cumplir a través del impulso de políticas públicas y sociales un rol de desarrollo del sector privado, que permita mejorar la funcionalidad y eficiencia de las instituciones públicas, simplificando los trámites, reduciendo las barreras de entrada a la formalidad, avanzando en la cobertura de la seguridad social y las prestaciones sociales, y facilitando el desempeño de las empresas formales existentes.
+Esto se impulsará a través de un modelo de alianza del gobierno con el sector empresarial pequeño, mediano y grande, y los trabajadores, bajo el diálogo permanente en la búsqueda de consensos.

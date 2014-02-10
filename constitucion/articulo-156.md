@@ -1,0 +1,5 @@
+# Artículo 156
+
+La Contraloría General de la República es un organismo independiente, sometido solamente al cumplimiento de la Constitución y las leyes; gozará de autonomía funcional y administrativa. La Asamblea Nacional autorizará auditorías sobre su gestión.
+La Contraloría deberá hacer públicos los resultados de sus investigaciones y cuando de los mismos se presumieran responsabilidades penales deberá enviar su investigación a los tribunales de Justicia, bajo el apercibimiento de encubridor si no lo hiciera, de los delitos que posteriormente se determinara cometieron los investigados.
+El Presidente y Vicepresidente del Consejo Superior de la Contraloría General de la República serán elegidos por los miembros del Consejo Superior de entre ellos mismos, por mayoría de votos y por el período de un año, pudiendo ser reelectos. El Presidente del Consejo Superior de la Contraloría General de la República o quien éste designe de entre los Miembros del Consejo, informará de la gestión del organismo a la Asamblea Nacional cada año o cuando ésta lo solicite; este acto lo realizará personalmente el Presidente o el designado.

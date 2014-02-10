@@ -1,0 +1,5 @@
+# Artículo 160
+
+La administración de la justicia garantiza el principio de la legalidad; protege y tutela los derechos humanos, y garantiza el acceso a la justicia mediante la aplicación de la ley en los asuntos o procesos de su competencia.
+La administración de justicia reconoce la participación ciudadana a través de los líderes tradicionales de los pueblos originarios de la Costa Caribe y los Facilitadores Judiciales en todo el país, como métodos alternos de acceso a la justicia y resolución alterna de conflictos, todo de conformidad con la ley.
+Se crea la Jurisdicción de lo Contencioso-Administrativa para examinar la legalidad ordinaria en las demandas de tipo general o de tipo particular que presenten los administrados en contra de todos los actos, resoluciones, disposiciones generales, omisiones o simples vías de hecho de la Administración Pública. La Jurisdicción de lo Contencioso-Administrativa corresponde a las instancias judiciales que determine la ley y en última instancia a la Sala de lo Contencioso-Administrativa de la Corte Suprema de Justicia.

@@ -1,0 +1,3 @@
+# Artículo 154
+
+La Contraloría General de la República es el Organismo Rector del sistema de control de la Administración Pública y fiscalización de los bienes y recursos del Estado. Para dirigirla créase el Consejo Superior de la Contraloría General de la República, que estará integrado por cinco miembros propietarios y tres suplentes, electos por la Asamblea Nacional para un período de cinco años, dentro del cual gozarán de inmunidad. Las funciones de los miembros suplentes son para suplir única y exclusivamente las ausencias temporales de los miembros propietarios, quienes la ejercerán por previa escogencia del miembro propietario a quien sustituyan.

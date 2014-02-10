@@ -1,0 +1,3 @@
+# Artículo 107
+
+La Reforma Agraria eliminará el latifundio ocioso y se hará prioritariamente con tierras del Estado. Cuando la expropiación de latifundios ociosos afecte a propietarios privados se hará cumpliendo con lo estipulado en el artículo 44 de esta Constitución. La Reforma Agraria eliminará cualquier forma de explotación a los campesinos, a las comunidades indígenas del país y promoverá las formas de propiedad compatibles con los objetivos económicos y sociales de la nación, establecidos en esta Constitución. El régimen de propiedad de las tierras de las comunidades indígenas se regulará de acuerdo a la ley de la materia.

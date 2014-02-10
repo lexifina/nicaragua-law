@@ -1,0 +1,5 @@
+# Artículo 97
+
+La Policía Nacional es un cuerpo armado de naturaleza civil, tiene a su cargo la totalidad de la actividad policial y se organiza en un modelo preventivo, proactivo y comunitario, con la participación protagónica de los habitantes, la familia y la comunidad.
+Tiene por misión garantizar el orden interno, la seguridad de las personas y sus bienes, la prevención, persecución e investigación del delito y lo demás que le señale la ley. La Policía Nacional es profesional, apolítica, apartidista, obediente y no deliberante. La Policía Nacional se regirá en estricto apego a la Constitución Política a la que guardará respeto y obediencia. Estará sometida a la autoridad civil que será ejercida por el Presidente de la República, en su carácter de Jefe Supremo de la Policía Nacional.
+Dentro de sus funciones, la Policía Nacional auxiliará a las autoridades judiciales y a otras que lo requieran conforme a la ley para el cumplimiento de sus funciones. La organización interna de la Policía Nacional se fundamenta en la jerarquía única y en la disciplina de sus mandos y personal.
