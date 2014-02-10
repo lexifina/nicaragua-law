@@ -1,0 +1,7 @@
+# Artículo 22
+
+Se reforma el artículo 102 de la Constitución Política de la República de Nicaragua, el que se leerá así:
+
+“Artículo 102 Los recursos naturales son patrimonio nacional. La preservación del ambiente y la conservación, desarrollo y explotación racional de los recursos naturales corresponden al Estado; éste podrá celebrar contratos de explotación racional de estos recursos, cuando el interés nacional lo requiera, bajo procesos transparentes y públicos.
+
+Dada la ventajosa posición geográfica del país, a través de Ley, el Estado podrá celebrar contrato u otorgar concesión para la construcción y explotación racional de un canal interoceánico, las cuales deberán considerar cuando se trate de inversión con empresas extranjeras, la conformación de consorcios con empresas nacionales para promover el empleo. Las leyes de la materia para su aprobación, reforma, o derogación, requerirán el voto del sesenta por ciento del total de Diputados de la Asamblea Nacional de Nicaragua”.
