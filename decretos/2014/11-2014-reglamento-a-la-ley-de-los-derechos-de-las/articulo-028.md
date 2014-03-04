@@ -1,0 +1,3 @@
+# Artículo 28
+
+En referencia al artículo 42 de la ley, el Ministerio de Educación, el Instituto Nacional Tecnológico, el Consejo Nacional de Universidades, en coordinación con las Universidades Estatales y Privadas deberán emplear a personas con discapacidad visual y auditiva para la enseñanza del lenguaje de señas nicaragüense y sistema de escritura Braille a personas en general y en formación. Esta disposición deberá hacerse efectiva a más tardar un (1) año posterior a la entrada en vigencia del presente reglamento. El incumplimiento de esta disposición se considera como infracción muy grave.

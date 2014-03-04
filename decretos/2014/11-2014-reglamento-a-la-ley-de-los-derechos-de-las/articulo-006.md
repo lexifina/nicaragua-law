@@ -1,0 +1,3 @@
+# Artículo 6
+
+A ﬁn de garantizar la accesibilidad, el uso de bienes y servicios para las personas con discapacidad, se establecerán las normas y criterios básicos para la prevención y eliminación de barreras que impidan u obstaculicen el acceso, uso, libertad de movimiento, estancia, circulación con seguridad a las personas con discapacidad, conforme Norma Técnica No. 12006-04, “Norma Técnica Obligatoria nicaragüense de accesibilidad, para todas aquellas personas que por diversas causas de forma permanente o transitoria se encuentran en situación de limitación o movilidad reducida” a la que hace referencia la ley, en su artículo 9.

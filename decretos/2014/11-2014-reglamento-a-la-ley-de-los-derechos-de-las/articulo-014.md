@@ -1,0 +1,3 @@
+# Artículo 14
+
+De conformidad a los artículos 10 de la Ley, y 16, numeral 1, de la Ley No. 337, “Ley Creadora del Sistema Nacional para la Prevención, Mitigación y Atención de Desastres”, publicada en La Gaceta, Diario Oﬁcial No. 70 del 7 de Abril del 2000; La Comisión de Educación e Información del Sistema Nacional para la Prevención, Mitigación y Atención de Desastre, garantizará que los informes de alertas emitidos por el Presidente de la República, u otro ente autorizado, sean divulgados en formato accesibles para que las personas con discapacidad tengan esa información, considerando para ello el uso de recuadro de lenguaje de señas nicaragüense en informes televisivos o audiovisuales.

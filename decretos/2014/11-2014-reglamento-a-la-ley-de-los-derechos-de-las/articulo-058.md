@@ -1,0 +1,3 @@
+# Artículo 58
+
+Para la definición de las listas indicadas en el párrafo inﬁne del artículo 66 de la Ley, se deben tomar en cuenta las listas que se remitan al Consejo Nacional de Promoción y Aplicación de los Derechos de las Personas con Discapacidad, las organizaciones de personas con discapacidad que se encuentren registradas en el Ministerio de Gobernación como personas jurídicas sin ﬁnes de lucro. La actualización de la lista de los medios auxiliares y de los insumos y materias primas necesarias para la producción de estos medios a ser exonerados en la importación, deberá realizarse al menos una vez al año.
