@@ -1,9 +1,55 @@
 # Artículo 69
 
-Montos de los seguros.
+Cobertura y sumas aseguradas
 
-Para los vehículos particulares, el monto del seguro de responsabilidad civil por daños a terceros, en casos de muertes o lesiones causadas a una persona, es de dos mil quinientos dólares y de cinco mil dólares en caso de muerte o lesiones a dos o más personas. En casos de daños materiales causados a terceras personas, el costo será de dos mil quinientos dólares. Estos montos, se incrementarán anualmente hasta un diez por ciento del monto inicial establecido, hasta llegar al doble de éste.
+Los propietarios de vehículos automotor deberán contratar la póliza del Seguro de Responsabilidad Civil por daños a terceros con las coberturas y sumas aseguradas siguientes:
 
-En el caso del seguro de accidentes personales de transporte de pasajeros, el monto es de mil dólares, en caso de muerte accidental, de mil dólares en caso de incapacidad permanente y de doscientos dólares en concepto de reembolso de gastos médicos. El pago de cualquiera de los seguros, se debe de hacer en el equivalente de la moneda de curso legal y al cambio oficial.
+I. Para los vehículos automotor de uso particular comprende lo siguiente:
 
-La presente norma entrará en vigencia, seis meses después de la publicación de la presente Ley en La Gaceta, Diario Oficial.
+1) En caso de muerte, incapacidad permanente o parcial o lesiones causadas a una persona, la suma asegurada será de Dos Mil Quinientos Dólares de los Estados Unidos de América (US$ 2,500.00).
+
+2) En caso de muerte, incapacidad permanente o parcial o lesiones causadas a dos o más personas, la suma asegurada será de Cinco Mil Dólares de los Estados Unidos de América (US$ 5,000.00).
+
+3) En caso de daños materiales ocasionados a terceras personas, la suma asegurada será de Dos Mil Quinientos Dólares de los Estados Unidos de América (US$ 2,500.00)
+
+II. Para los vehículos automotor destinados al servicio de transporte de pasajeros son las siguientes:
+
+1) En caso de muerte, incapacidad permanente o parcial o lesiones causadas a una persona, la suma asegurada será de Cuatro Mil Quinientos Dólares de los Estados Unidos de América (US$ 4,500.00).
+
+2) En caso de muerte, incapacidad permanente o parcial o lesiones causadas a dos o más personas, la suma asegurada será de Nueve Mil Dólares de los Estados Unidos de América (US$ 9,000.00).
+
+3) En caso de daños materiales causados a terceras personas, la suma asegurada será de Cuatro Mil Quinientos Dólares de los Estados Unidos de América (US$ 4,500.00)
+
+4) Para el caso de los pasajeros que resulten con daños corporales o muertes la suma asegurada por persona será de Mil Dólares de los Estados Unidos de América (US$ 1,000.00)
+
+III. Para los vehículos automotor destinados al servicio de transporte de carga deberá pagarse de la forma siguiente:
+
+1) En caso de muerte, incapacidad permanente o parcial o lesiones causadas a una persona, la suma asegurada será de Cuatro Mil Quinientos Dólares de los Estados Unidos de América (US$ 4,500.00)
+
+2) En caso de muerte, incapacidad permanente o parcial o lesiones causadas a dos o más personas, la suma asegurada será de Nueve Mil Dólares de los Estados Unidos de América (US$ 9,000.00).
+
+3) En caso de daños materiales causados a terceras personas, la suma asegurada será de Cuatro Mil Quinientos Dólares de los Estados Unidos de América (US$ 4,500.00).
+
+IV. Para vehículos automotor con matrícula extranjera son los siguientes:
+
+Los vehículos automotor que ingresen temporalmente al país deben adquirir una póliza del Seguro de Responsabilidad Civil por daños a terceros en cualquiera de las sucursales de las compañías aseguradoras, o en las agencias o las corredurías de seguros autorizadas por la Superintendencia de Bancos y de Otras Instituciones Financieras, ubicadas en el punto fronterizo por donde ingrese el vehículo automotor al país, su vigencia será de treinta días contados a partir de la fecha y hora de emisión de la póliza.
+
+La suma asegurada para los vehículos automotor con matrícula extranjera de uso particular comprende lo siguiente:
+
+1) En caso de muerte, incapacidad permanente o parcial,,o lesiones causadas a una persona, la suma asegurada será de Cuatro Mil Quinientos Dólares de los Estados Unidos de América (US$ 4,500.00).
+
+2) En caso de muerte, incapacidad permanente o parcial, o lesiones a dos o más personas, la suma asegurada será de Nueve Mil Dólares de los Estados Unidos de América (US$ 9,000.00).
+
+3) En casos de daños materiales causados a terceras personas, la suma asegurada será de Cuatro Mil Quinientos Dólares de los Estados Unidos de América (US$ 4,500.00)
+
+Para los vehículos automotor con matrícula extranjera para el transporte de pasajeros o de carga comprende lo siguiente:
+
+1) En caso de muerte, incapacidad permanente o parcial, o lesiones causadas a una persona, la suma asegurada será de Cinco Mil Dólares de los Estados Unidos de América (US$ 5,000.00).
+
+2) En caso de muerte, incapacidad permanente o parcial, o lesiones a dos o más personas, la suma asegurada será de Diez Mil Dólares de los Estados Unidos de América (US$ 10,000.00).
+
+3) En casos de daños materiales causados a terceras personas, la suma asegurada será de Cinco Mil Dólares de los Estados Unidos de América (US$ 5,000.00).
+
+Los transportistas podrán ampliar las sumas aseguradas de las coberturas antes referidas según lo convengan con la aseguradora emisora de la póliza.
+
+Las sumas aseguradas en los diferentes casos antes relacionados, se incrementarán anualmente hasta un diez por ciento hasta llegar al doble de la suma asegurada.

@@ -1,7 +1,7 @@
 # Artículo 30
 
-Sistema de recursos.
+Sistema de Recursos
 
-De toda resolución, acto, o dictamen emitido por Autoridad competente de Especialidad de Seguridad de Tránsito de la Policía Nacional, en lo que respecta a la actividad de tráfico terrestre, los afectados podrán hacer uso del sistema de recursos establecidos en la Ley 290, “Ley de Organización, Competencia y Procedimiento del Poder Ejecutivo”.
+De todo acto administrativo o resolución emitida por la autoridad competente de la Especialidad de Seguridad de Tránsito de la Policía Nacional, los afectados podrán hacer uso del sistema de recursos establecidos en la Ley N°. 290, "Ley de Organización, Competencia y Procedimiento del Poder Ejecutivo" y sus reformas. Agotada la vía administrativa, el recurrente podrá hacer uso de los diferentes recursos procesales previsto por la legislación nacional.
 
-Agotándose la vía administrativa, el agrabiado podrá hacer uso de su derecho por medio del Recurso de Amparo o por medio de la Ley de la Regulación de la Jurisdicción de lo Contencioso - Administrativo.
+Los actos de investigación en los accidentes de tránsito y el informe correspondiente en sede administrativa en que existan fallecidos o lesionados, no son susceptibles de recurso administrativo alguno debido a que constituyen actos de mero trámite.

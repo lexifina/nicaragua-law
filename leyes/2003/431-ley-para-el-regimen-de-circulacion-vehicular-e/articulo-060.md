@@ -1,7 +1,9 @@
 # Artículo 60
 
-Cumplimiento de los certificados de control de emisiones.
+Cumplimiento de los certificados de control de emisiones
 
-La Especialidad de Seguridad de Tránsitos, en coordinación con el Ministerio de Transporte e Infraestructura, prestará observancia para que se cumpla lo prescrito en el artículo anterior, a través de los Certificados de Control de Emisiones, con la finalidad de reducir y minimizar la contaminación ambiental provocada por los vehículos de combustión interna, sean estos de uso privado o público.
+La Especialidad de Seguridad de Tránsito de la Policía Nacional, en coordinación con el Ministerio de Transporte e Infraestructura, darán seguimiento para que se cumpla lo prescrito en el artículo anterior, a través de los Certificados de Control de Emisiones, con la finalidad de reducir y minimizar la contaminación ambiental provocada por los vehículos de combustión interna, sean estos de uso privado o público.
 
-El valor de los certificados a los que se refiere el párrafo anterior será de cien Córdobas y se pagará por una sola vez en el año cuando se realice el trámite del Certificado de Control de Emisiones de gases. En esta materia, le corresponderá a la Policía Nacional establecer las normativas correspondientes.
+El valor del Certificado de Control de Emisiones a los que se refiere el párrafo anterior será de Doscientos Córdobas Netos (C$ 200.00), que se pagarán anualmente. El Ministerio de Hacienda y Crédito Público mediante Resolución Ministerial actualizará cada dos años calendario el valor de conformidad a la tasa de deslizamiento del córdoba frente al dólar de los Estados Unidos de América establecida por el Banco Central de Nicaragua.
+
+El Reglamento de la ley establecerá el procedimiento relativo a las especificaciones y características.

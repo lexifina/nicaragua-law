@@ -1,7 +1,13 @@
 # Artículo 22
 
-Señales lumínicas para medios de transporte automotores, de pedal y de tracción animal.
+Regulación de medios de transporte de tracción humana o animal
 
-Los buses, camiones, trailers, vehículos de acarreo, medios de tracción animal y medio de transporte de pedal, bicicletas y similares, que circulen después de las dieciocho horas, deberán colocar señales lumínicas de dinamo y cintas adhesivas reflectivas en el parachoques delantero y trasero del medio de transporte.
+Los medios de transporte de tracción humana o animal deberán ser registrados en las municipalidades con el apoyo técnico de la Policía Nacional.
 
-De no poseerla, se retendrá la circulación y se le aplicará; la infracción respectiva contemplada en el Artículo 26 de la presente Ley.
+Los propietarios de estos medios de transporte están obligados a:
+
+1) Colocar señales lumínicas de dinamo, cintas adhesivas reflectivas o de otro tipo similar, en la parte delantera y trasera del medio de transporte, cuando circulen entre las seis de la tarde y las cinco de. la mañana, o cuando las condiciones de visibilidad así lo exija.
+
+2) Efectuar los trámites relacionados a la licencia de circulación y placas ante las instancias de los gobiernos municipales. Los medios de transporte a que se refiere este artículo que no porten licencia de circulación y placas, se retendrán y se les aplicará la infracción establecida en el artículo 26 de la presente Ley, la multa se pagará en un plazo no mayor de sesenta días, caso contrario estos medios se declararán en abandono.
+
+En el reglamento se establecerán los requisitos y procedimientos para el destino de los vehículos de tracción humana o animal declarados en estado de abandono.

@@ -1,25 +1,39 @@
 # Artículo 45
 
-Creación del Consejo Nacional de Seguridad y Educación Vial.
+Creación del Consejo Nacional de Seguridad y Educación Vial
 
-Créase el Consejo Nacional de Seguridad y Educación Vial, como órgano consultivo, de composición mixta, gubernamental y privada, con autonomía funcional.
+Créase el Consejo Nacional de Seguridad y Educación Vial, como órgano consultivo, de composición público–privada, con autonomía funcional. El Consejo Nacional de Seguridad y Educación Vial estará integrado por miembros permanentes de la forma siguiente:
 
-El consejo Nacional de Seguridad y Educación Vial estará integrado por miembros permanentes con sus respectivos suplentes de la forma siguiente:
+1) El Ministro o Ministra de Educación, quien preside;
 
-1. El Ministro de Gobernación, quien lo presidirá o en su defecto, el Vice Ministro de Gobernación.
+2) El Director o Directora General de la Policía Nacional, Secretaría Ejecutiva;
 
-2. Dos representantes de la Policía Nacional.
+3) El Ministro o Ministra de Gobernación;
 
-3. Un Representante del Ministerio de Transporte e Infraestructura.
+4) El Ministro o Ministra de Transporte e Infraestructura;
 
-4. Un representante del Ministerio de Educación, Cultura y Deporte.
+5) El Ministro o Ministra de Salud;
 
-5. Un representante de la Empresa Privada.
+6) El Presidente o Presidenta del Instituto Nicaragüense de Fomento Municipal:
 
-6. Un representante de cada una de las siguientes asociaciones de transportistas: autobuses, taxis y carga.
+7) El Presidente o Presidenta Ejecutiva del Instituto Nicaragüense de Seguros y Reaseguros;
 
-7. Un representante de la Asociación de Municipios de Nicaragua (AMUNIC).
+8) El jefe o jefa de la Especialidad de Seguridad de Tránsito de la Policía Nacional;
 
-8. Un representante de las Compañías Aseguradoras.
+9) El Director o Directora del Centro de Educación Vial de la Policía Nacional;
 
-El consejo Nacional de Seguridad y Educación Vial, podrá establecer según sus necesidades filiales departamentales o municipales en el territorio nacional.
+10) Un representante de las Compañías aseguradoras privadas; y
+
+11) Un representante de cada una de las asociaciones de transportistas: autobuses, taxis y carga.
+
+El Ministro o la Ministra de Educación, en su calidad de coordinador o coordinadora del Consejo, podrá invitar a cualquier otra entidad pública o privada cuando se considere que se abordarán temas o aspectos relacionados a la materia.
+
+Podrá establecer filiales departamentales o municipales en el territorio nacional, según sus necesidades, pudiendo auxiliarse de otras instituciones y organismos e integrarlas como miembros de ser necesario.
+
+Las funciones de Secretaría Ejecutiva las desempeñará el Director o Directora General de la Policía Nacional para lo cual se auxiliará de las instancias correspondientes de la Institución Policial.
+
+El Consejo Nacional de Seguridad y Educación Vial, sesionará en forma ordinaria y obligatoria cuatro veces al año debiendo convocar a sus miembros en un plazo no mayor de setenta y dos horas, y extraordinariamente cuando quien presida lo estime pertinente.
+
+El Consejo Nacional de Seguridad y Educación Vial, a través de quien lo presida, rendirá el informe de su gestión al Presidente de la República con copia a la Presidencia de la Asamblea Nacional.
+
+El reglamento de la presente Ley establecerá los procedimientos.

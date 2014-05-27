@@ -1,7 +1,11 @@
 # Artículo 146
 
-Examen de la vista para la renovación de licencia.
+Exámenes especiales para la emisión de licencias de conducir
 
-En todos los casos, los ciudadanos que tengan licencia de conducir, al momento de la renovación de ésta, deberán practicarse un examen de la vista, el que deberá ser practicado por la Cruz Roja en coordinación con la Autoridad de Aplicación de la presente Ley; el valor de dicho examen de cincuenta Córdobas. El examen hará constar que la capacidad visual del interesado es aceptable para conducir.
+En todos los casos, los ciudadanos que tengan licencia de conducir, al momento de la renovación de ésta, deberán practicarse un examen de la vista, los que serán realizados por la Cruz Roja Nicaragüense, conforme parámetros establecidos en coordinación con la Autoridad de Aplicación de la presente Ley.
 
-En los casos en que la Cruz Roja carezca de posibilidades técnicas, el interesado podrá realizarse dicho exámen, en cualquier otro centro visual.
+Los valores de los exámenes serán los siguientes:
+
+El valor de los exámenes es con mantenimiento de valor de conformidad al deslizamiento monetario del córdoba con respecto al dólar de Norteamérica en base a lo establecido por el Banco Central de Nicaragua, las actualizaciones se aplicarán en el mes de enero a partir del año 2016. Estos exámenes harán constar que la capacidad visual y psicológica del interesado es óptima para conducir.
+
+En los casos en que la Cruz Roja Nicaragüense carezca de posibilidades técnicas, el interesado podrá realizarse estos exámenes en cualquier otro Centro autorizado por el Ministerio de Salud.

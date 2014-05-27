@@ -1,5 +1,5 @@
 # Artículo 80
 
-Cumplimiento de requisitos.
+Cumplimiento de requisitos
 
-Para la obtención de la licencia de circulación, así como para gestionar la autorización para operar, en los casos de los buses, microbuses de transporte colectivo, escolares y taxis, deberán cumplir con los requisitos y trámites establecidos en el presente Capítulo.
+Para la realización de todo tipo de trámite relacionado a vehículos automotor, la Autoridad de Aplicación de la presente Ley y su reglamento, verificará el cumplimiento de las disposiciones establecidas en este capítulo.

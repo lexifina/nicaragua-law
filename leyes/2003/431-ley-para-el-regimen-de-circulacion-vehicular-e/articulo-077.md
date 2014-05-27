@@ -1,5 +1,9 @@
 # Artículo 77
 
-Informe de vehículo asegurados.
+Informe de vehículo asegurado
 
-Las compañías aseguradoras y la Policía Nacional anualmente deberán intercambiar informes que contengan el detalle de los vehículos asegurados, el número de la licencia de circulación, el tipo de seguro, cualquiera que sea su naturaleza, todo de conformidad a lo establecido en la presente Ley. En los casos de los propietarios de vehículos automotor o en el caso de los conductores que no mantengan al día la póliza de seguro respectiva, la Especialidad de Seguridad de Tránsito, de oficio, deberá de retirarles la autorización de circulación de los vehículos y la suspensión de la licencia de conducir, según sea el caso.
+Las Compañías Aseguradoras y la Policía Nacional, deberán intercambiar anualmente los informes que contengan el detalle de los vehículos asegurados, el número de la licencia de circulación, todo de conformidad a lo establecido en esta Ley. Es responsabilidad de las Compañías Aseguradoras notificar por cualquier medio al tomador del Seguro de Responsabilidad Civil por daños a terceros que realicen la reinstalación de las sumas aseguradas establecidas en el artículo 69 de esta Ley.
+
+Las Compañías de Seguros deben informar mensualmente a la Policía Nacional los casos en que los asegurados hayan disminuido o agotado la suma asegurada para el pago de siniestros y que no hubieren efectuado la reinstalación de la misma para que la autoridad proceda en los casos de los vehículos automotor que no cuenten con el seguro obligatorio o éste se encuentre vencido y se aplique lo previsto por la ley.
+
+Al momento del accidente, la autoridad policial debe informar al tercero perjudicado acerca de la existencia del seguro obligatorio del vehículo declarado civilmente responsable del accidente, número de póliza, vigencia anual y compañía emisora.

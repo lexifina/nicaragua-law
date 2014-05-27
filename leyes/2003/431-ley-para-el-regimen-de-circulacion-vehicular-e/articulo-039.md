@@ -1,6 +1,6 @@
 # Artículo 39
 
-Comportamiento y uso de la vía pública.
+Comportamiento y uso de la vía pública
 
 Los usuarios de la vía pública, están obligados a obedecer y acatar las señales de tránsito que se encuentren establecidas en la vía por la que circulan, sean éstas reglamentarias o preventivas.
 

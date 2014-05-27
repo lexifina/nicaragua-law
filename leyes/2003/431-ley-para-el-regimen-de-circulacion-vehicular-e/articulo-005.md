@@ -1,9 +1,7 @@
 # Artículo 5
 
-Creación de especie fiscales.
+Placas especiales
 
-Créanse las especie fiscales de placas, licencias de circulación, de derecho de matrícula y calcomanía, cuyas características generales, tamaño, material, diseño y tipo serán determinados par la Autoridad de Aplicación de la presente Ley.
+Créanse las placas especiales con el objeto de identificar a los usuarios de los vehículos automotores en razón del servicio que prestan en cada una de las instituciones a las que pertenecen o sus propietarios, siendo su uso permanente y exclusivo de funcionarios del Servicio Diplomático, Cuerpo Consular; Misión Internacional y Organismos Internacionales acreditados en el país, que se identificarán con las letras CD, CC, MI y OI, respectivamente.
 
-Existirán placas especiales para los funcionarios del Servicio Diplomático, Cuerpo Consular y misión Internacional, las que se identificaran con las letras CD, CC, MI, respectivamente; así mismo, las placas para uso personal del Presidente y Vicepresidente de la República,
-
-También se constituyen en placas especiales las utilizadas por los vehículos automotor propiedad del Estado y las de la Policía Nacional.
+También corresponden a la categoría de Placas Especiales las de uso personal del Presidente y Vicepresidente de la República, Diputados de la Asamblea Nacional, Diputados por Nicaragua ante el Parlamento Centroamericano, Magistrados de la Corte Suprema de Justicia, los del Consejo Supremo Electoral. También harán uso de Placas Especiales los vehículos automotor propiedad del Estado de la República de Nicaragua, la Policía Nacional, Ejército de Nicaragua, Dirección General de Bomberos de Nicaragua, Cruz Roja Nicaragüense y las diferentes asociaciones de bomberos voluntarios certificadas por la Dirección General de Bomberos de Nicaragua.

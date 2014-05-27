@@ -1,5 +1,19 @@
 # Artículo 133
 
-Retención del vehículo.
+Retención de vehículo
 
-Se autoriza a la Policía Nacional a retener cualquier vehículo que circule en el país sin placas o sin la calcomanía del derecho de matrícula, o que no pone la documentación correspondiente o constancia de que esta se encuentra en tramite. En caso contrario, el dueño o poseedor deberá de aclarar el origen, procedencia y situación del vehículo. También retendrá aquellos vehículos que no porten la respectiva licencia de circulación.
+La Policía Nacional podrá retener cualquier vehículo que circule en el país en las circunstancias siguientes:
+
+1) Sin placas.
+
+2) Sin calcomanía de matrícula.
+
+3) Sin calcomanía de revisado.
+
+4) Sin Seguro de Responsabilidad Civil Obligatorio.
+
+5) Sin licencia de circulación o de conducir.
+
+6) Sin la documentación correspondiente, o constancia que demuestre que se encuentra en trámite.
+
+En todos los casos previstos, el propietario o poseedor debe aclarar el origen o procedencia del automotor y la situación del mismo, en caso contrario el vehículo será enviado al depósito público o privado debidamente habilitado y de conformidad al procedimiento establecido en el artículo 138 de la presente Ley.

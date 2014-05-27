@@ -1,5 +1,5 @@
 # Artículo 71
 
-Seguro opcional.
+Seguros opcionales
 
-EI seguro de daños materiales al propio vehículo automotor, será optativo para propietarios de estos. que en caso de ser de su interés, podrá ser pactado con la compañía aseguradora en una sola póliza junto con el seguro obligatorio. Este seguro también queda exento del pago de impuesto y a las compañías aseguradoras se les establece el pago del impuesto establecido en el Artículo. 73 de la presente Ley.
+El seguro de daños materiales al propio vehículo automotor será optativo para los propietarios de estos, que en caso de ser de su interés, podrá ser pactado con la compañía aseguradora en una sola póliza acoplado al seguro obligatorio. Los conductores podrán asegurar opcionalmente su licencia de conducir.

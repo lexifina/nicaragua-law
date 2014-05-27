@@ -1,5 +1,5 @@
 # Artículo 7
 
-Coordinaciones.
+Coordinaciones
 
-El Ministerio de Hacienda y Crédito Público, los Gobiernos Locales y la Policía Nacional, a través de la Especialidad Nacional de Seguridad de Transito, de conformidad con la Ley No. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo y la Ley N° 228, Ley de Policía Nacional, publicadas en La Gaceta, Diario Oficial número 102 del tres de Junio de 1998 y en la número 162 del 28 de Agosto de 1996 respectivamente, deberán establecer las coordinaciones necesarias para la aplicación de la presente Ley y los respectivos procedimientos administrativos.
+El Ministerio de Hacienda y Crédito Público, los Gobiernos Locales y la Policía Nacional, a través de la Especialidad de Seguridad de Tránsito, de conformidad con el texto que contiene las reformas incorporadas de la Ley N°. 290, "Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo", publicada en La Gaceta, Diario Oficial No. 35 del 22 de febrero del 2013, y la Ley No. 228, "Ley de la Policía Nacional", publicada en La Gaceta, Diario Oficial No.162 del 28 de agosto de 1996, deberán establecer las coordinaciones necesarias para la aplicación de la presente Ley y los respectivos procedimientos administrativos.

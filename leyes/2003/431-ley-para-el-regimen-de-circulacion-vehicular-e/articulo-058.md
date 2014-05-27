@@ -1,9 +1,23 @@
 # Artículo 58
 
-Administración del Fondo.
+Administración del Fondo Nacional de Seguridad y Educación Vial
 
-Corresponde a la Autoridades de Aplicación de la presente Ley, la administración del Fondo de Seguridad Vial, bajo el asesoramiento de una Comisión Permanente integrada por el Jefe Nacional de Tránsito de la Policía Nacional, un representante de las Asociaciones de Municipios, un representante de la Contraloría General de la República, un Representante del Ministerio de Hacienda y Crédito Público, un Representante del Consejo Nacional de Seguridad Vial, un representante de cada una de las asociaciones de transportistas que están integrados en el Consejo Nacional de Seguridad y Educación Vial y un representante de las compañías aseguradoras, todos con sus respectivos suplentes y con capacidad decisoria.
+Corresponde a la Autoridad de Aplicación de la presente Ley la administración del Fondo Nacional de Seguridad y Educación Vial, bajo el asesoramiento de una Comisión Permanente integrada así:
 
-Corresponde a la Comisión Permanente, aprobar el presupuesto establecido para el funcionamiento del Fondo de Seguridad Vial. Dicha Comisión deberá ser creada en los siguientes treinta días, contados a partir de la entrada en vigencia de la presente Ley.
+1) El o la representante del Ministro o Ministra de Educación.
 
-DE LA PREVENCIÓN DE LA CONTAMINACIÓN AMBIENTAL
+2) El Jefe o la Jefa Nacional de Tránsito de la Policía Nacional.
+
+3) El o la representante de la Contraloría General de la República.
+
+4) El o la representante del Ministerio de Hacienda y Crédito Público.
+
+5) El o la representante de las compañías aseguradoras privadas.
+
+6) El o la representante del Instituto Nicaragüense de Seguros y Reaseguros.
+
+Corresponde a esta Comisión Permanente aprobar el presupuesto establecido para el funcionamiento del Fondo Nacional de Seguridad y Educación Vial.
+
+Capítulo VIII
+
+De la prevención de la contaminación ambiental

@@ -1,5 +1,5 @@
 # Artículo 90
 
-Preferencia de paso.
+Preferencia de paso
 
-En las intersecciones, la preferencia de paso se ejecutara atendiendo las señales de tránsito que las regulen.
+En las intersecciones, la preferencia de paso se ejecutará atendiendo las señales de tránsito que las regulen.

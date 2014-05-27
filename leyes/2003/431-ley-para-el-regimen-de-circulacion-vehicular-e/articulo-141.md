@@ -1,9 +1,9 @@
 # Artículo 141
 
-Autorización para emitir licencia de conducir.
+Otorgamiento de licencia de conducir
 
-La licencia de conducir es expedida por la Policía Nacional, a través de la Especialidad de Seguridad de Tránsito, a todo aquel ciudadano que sepa conducir y que cumple con los requisitos exigidos por la ley y la autoridad de aplicación de la misma en correspondencia al tipo y categoría aplicada.
+La licencia de conducir es expedida por la Especialidad de Seguridad de Tránsito de la Policía Nacional, a todo ciudadano o ciudadana que haya aprobado el examen teórico y práctico con los que demuestra saber conducir y que ha cumplido con los requisitos exigidos por la ley, en correspondencia al tipo y categoría aplicada.
 
-La licencia de conducir solo se le otorgará a aquellas personas que sepan leer y escribir.
+Las personas que padezcan una limitación física parcial podrán obtener la licencia de conducir, siempre y cuando hayan cumplido los requisitos exigidos para estos casos, y que demuestre durante el examen práctico estar habilitado y adiestrado para conducir con dicha limitación.
 
-Los tipos de licencia y su procedimiento de obtención, se dispondrán administrativamente por la Autoridad de Aplicación.
+Los tipos de licencia, categorías y su procedimiento para la obtención de estas se establecerá en el reglamento de la presente Ley.

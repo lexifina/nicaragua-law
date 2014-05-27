@@ -1,5 +1,7 @@
 # Artículo 145
 
-Valor de la licencia y su reposición.
+Tasas por servicios de tránsito
 
-El costo de la licencia será de ciento veinte Córdobas. En los casas de pérdida o deterioro de la licencia de conducir, el interesado deberá reportar el hecho a la autoridad de aplicación de la presente Ley de su localidad, para que previo pago de la cantidad de sesenta Córdobas, tramite la respectiva reposición de la licencia de conducir.
+Se establecen las tasas por servicios de tránsito que deberán enterarse a la Policía Nacional como Renta con Destino Específico, para la modernización y fortalecimiento de las capacidades de la Especialidad de Seguridad de Tránsito en la prestación de sus servicios, la prevención de la accidentalidad y educación vial, de conformidad al detalle siguiente:
+
+La inspección técnico mecánica de los vehículos nuevos están exentos de la realización de inspección técnico mecánica y el de emisión de gases durante los primeros dos años.

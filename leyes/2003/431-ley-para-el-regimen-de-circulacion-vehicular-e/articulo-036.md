@@ -1,5 +1,5 @@
 # Artículo 36
 
-Señalización y seguridad vial.
+Señalización y Seguridad Vial
 
-La Policía Nacional, a través de la Especialidad de Seguridad Tránsito, definirá el Sistema Senalización y Seguridad Vial que regirá en la red vial del país, previo estudio técnico realizado por Ingeniería de Tránsito en coordinación con el Ministerio de Transporte e Infraestructura, gobiernos locales y demás instituciones competentes en la materia.
+La Policía Nacional, a través de la Especialidad de Seguridad de Tránsito, definirá el Sistema de Señalización y Seguridad Vial que regirá en la red vial del país, previo estudio técnico realizado por Ingeniería de Tránsito en coordinación con el Ministerio de Transporte e Infraestructura, gobiernos locales y demás instituciones competentes en la materia.

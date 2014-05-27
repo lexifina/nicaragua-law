@@ -1,7 +1,23 @@
 # Artículo 63
 
-Seguro Obligatorio.
+Seguro obligatorio
 
-Para los fines y efectos de la presente Ley, se establece de forma obligatoria para los propietarios de vehículos automotor, sin excepción, un seguro de responsabilidad civil y el seguro de accidentes personales de transporte de pasajeros; en el caso de los vehículos de matricula extranjera, al ingresar al país, deberán de adquirir el seguro correspondiente, según sea el caso. En todos los casos se procederá de acuerdo a las normativas administrativas que se establezcan al respecto. Los seguros establecidos en el párrafo anterior, deben de incluir muerte o lesiones causadas a una persona, a dos o más personas, así como los daños materiales causados a terceras personas, todo como consecuencia de los accidentes de tránsito en que se vean involucrados, directa o indirectamente, todos los vehículos automotores.
+Se establece de forma obligatoria el Seguro de Responsabilidad Civil por daños a terceros para los propietarios de vehículos automotor sin excepción y que para efectos de ésta Ley se consideran a los terceros como beneficiarios finales. Las coberturas y sumas aseguradas serán en atención a lo dispuesto en la presente Ley. Los efectos y eficacia del Seguro de Responsabilidad Civil por daños a terceros es condición básica que el conductor del vehículo sea declarado civilmente responsable por la Autoridad de Aplicación de esta Ley.
 
-El deducible del seguro debe ser asumido por el propietario del mismo.
+El Seguro de Responsabilidad Civil por daños a terceros queda exento del pago de todo impuesto, tasa o tributo. Las compañías aseguradoras al emitir la póliza de seguro deberán entregar al tomador del seguro la original y copia de la póliza, así como expedir y entregar a éste un carnet, el que para todos los efectos legales, se considera parte integrante de la póliza. Este carnet debe contener como mínimo lo siguiente:
+
+1) Número de póliza.
+
+2) Hora, fecha de inicio y finalización de la vigencia del seguro.
+
+3) Nombre del propietario del vehículo automotor.
+
+4) Número de la cédula de identidad del titular.
+
+5) Datos de identificación del vehículo automotor conforme la licencia de circulación emitida por la Autoridad de Aplicación de la Ley.
+
+6) Firma autorizada y sello de la aseguradora.
+
+La póliza del seguro obligatorio establecido en esta Ley, así como sus tarifas, requerirán de la aprobación previa de la Superintendencia de Bancos y de Otras Instituciones Financieras, mediante resolución debidamente razonada; las tarifas que se aprueben a través del funcionario principal para tal seguro, serán de cumplimiento obligatorio para todas las compañías aseguradoras.
+
+En los casos de los seguros obligatorios, los contratos deben ser estandarizados para todas las aseguradoras que operen este ramo, así como las sumas aseguradas establecidas en ésta Ley y sus tarifas, estas podrán ser modificadas únicamente por la Superintendencia de Bancos y de Otras Instituciones Financieras, según la experiencia en la operatividad de éste seguro y de conformidad a la solicitud debidamente fundamentada y razonada que presenten las aseguradoras y conforme a lo dispuesto en la Ley N°. 733, "Ley General de Seguros, Reaseguros y Fianzas", publicada en La Gaceta, Diario Oficial N°. 162, 163 y 164 del 25, 26 y 27 de agosto del 2010.
