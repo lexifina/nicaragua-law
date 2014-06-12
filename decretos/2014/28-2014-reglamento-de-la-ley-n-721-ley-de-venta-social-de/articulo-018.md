@@ -1,0 +1,5 @@
+# Artículo 18
+
+Establecimientos autorizados para el abastecimiento de VSM. Los establecimientos farmacéuticos de VSM deben abastecerse los medicamentos esenciales, de venta libre y material de reposición periódica que tengan registro sanitario en las distribuidoras e importadoras locales y laboratorios farmacéuticos nacionales autorizados por el Ministerio de Salud, los que deben soportar con la factura correspondiente.
+
+Cuando los establecimientos adquieran medicamentos esenciales, de venta libre y material de reposición periódica por donación de organismos nacionales o extranjeros, deben cumplir con el procedimiento y requisitos establecidos en la Norma No. 069, “Norma de Regulación para las donaciones de insumos médicos, no médicos y brigadas médicas extranjeras”, aprobado mediante Acuerdo Ministerial No. 284-2011, del 04 de Julio del año 2011 y deberán informar a la delegación departamental de farmacias correspondiente, el movimiento del inventario de la donación hasta su total liquidación.

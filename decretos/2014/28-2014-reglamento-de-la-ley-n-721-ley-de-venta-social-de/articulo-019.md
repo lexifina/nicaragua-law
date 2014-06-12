@@ -1,0 +1,3 @@
+# Artículo 19
+
+Prescripción de medicamentos. Los medicamentos de venta libre no requieren de prescripción médica y los medicamentos esenciales que si la requieren, sólo podrán ser prescritos o recetados por profesionales de la salud con los títulos de doctor en medicina y cirugía con especialidades y de cirujano dentista con especialidades, habilitados para el ejercicio correspondiente del Ministerio de Salud, exceptuando los casos descritos en el Artículo 60 primer párrafo del Decreto No. 6-99, Reglamento de la Ley No. 292, ley de Medicamentos y Farmacias y sus reformas, publicado en Las Gacetas, Diario Oficial No. 24 y 25 del 4 y 5 de Febrero de 1999.

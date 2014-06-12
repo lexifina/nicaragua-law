@@ -1,0 +1,3 @@
+# Artículo 7
+
+Precio de los medicamentos. El precio de los medicamentos que expenden los establecimientos farmacéuticos de VSM, serán con la finalidad de que la población logre adquirirlos a precios bajos y se ajustarán a lo establecido por el Ministerio de Fomento, Industria y Comercio (MIFIC) de conformidad con los artículos 20 y 21 de la Ley No. 842, “Ley de protección de los derechos de las personas consumidoras y usuarias”, publicada en La Gaceta, Diario Oficial No. 129 del 11 de Julio de 2013 y los artículos 14, 15 y 16 del Decreto No. 36-2013, “Reglamento de la Ley No. 842, Ley de protección de los derechos de las personas consumidoras y usuarias”, publicado en La Gaceta, Diario Oficial No. 192 del 10 de Octubre del 2013.
