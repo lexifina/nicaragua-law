@@ -1,0 +1,3 @@
+# Artículo 37
+
+De la violencia psicológica. Para la determinación de los daños, disfunción o enfermedad psíquica, la Comisaría de la Mujer y la Niñez y el Instituto de Medicina Legal, deberá comprobar la relación de causalidad entre el hecho imputado y la conducta del acusado. El peritaje psicológico practicado por personal especializado en la materia, fundamentalmente, servirá para demostrar qué secuelas psicológicas sufre o ha sufrido la víctima de un delito de violencia de género o intrafamiliar. Dicho peritaje, no debe referirse en ningún momento a la calificación jurídica del hecho ni a la responsabilidad del imputado. Para lograr un peritaje psicológico completo, podrá si fuese necesario examinarse psicológicamente al presunto agresor.

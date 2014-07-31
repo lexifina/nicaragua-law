@@ -1,0 +1,3 @@
+# Artículo 20
+
+Mediación previa. Cuando la mediación proceda, de previo al ejercicio de la acción penal, la víctima o el imputado podrán acudir en procura de un acuerdo total o parcial ante el Ministerio Público para mediar. Cuando a criterio del Ministerio Público, la mediación sea procedente y válida, previa verificación de la libre voluntad de la víctima para mediar, el o la fiscal lo presentará ante la juez o jueza competente solicitándole ordenar su inscripción en el libro de mediación del juzgado y, con ello la suspensión de la persecución penal en contra del imputado por el plazo requerido para el cumplimiento del acuerdo reparatorio y no correrá la prescripción de la acción penal.

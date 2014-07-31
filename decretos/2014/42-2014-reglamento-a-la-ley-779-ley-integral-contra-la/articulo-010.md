@@ -1,0 +1,5 @@
+# Artículo 10
+
+Consejería familiar institucional. Cuando en el nivel comunitario no se resuelvan las situaciones que provocan los conflictos de pareja o familiares, incluyendo las conductas contempladas en el artículo 13 y 14 de este Reglamento, las Mujeres tendrán la opción de acudir a la Comisaría de la Mujer y la Niñez o al Ministerio Público, quienes las remitirán al Ministerio de la Familia, Adolescencia y Niñez, con un resumen de su situación para brindar consejería familiar a través del personal especializado.
+
+El Ministerio de la Familia, Adolescencia y Niñez, una vez que atienda a las mujeres, invitará a la pareja para que de forma voluntaria reciba atención psicosocial y tenga la oportunidad de establecer compromisos que les permitan la superación de sus conflictos y el crecimiento familiar, lo que será recogido en un acta firmada por ambos para ser remitida a la Comisaría de la Mujer y la Niñez, quienes registrarán, teniéndola como referente previo, la que será tomada en cuenta, si la Mujer acude nuevamente a la Comisaría de la Mujer y Niñez planteando nuevos conflictos y proceder a investigar la denuncia.
