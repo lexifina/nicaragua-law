@@ -1,31 +1,37 @@
 # Artículo 4
 
-Capital Autorizado del BANCO PRODUZCAMOS
+Capital autorizado del Banco PRODUZCAMOS
 
-El capital autorizado de PRODUZCAMOS estará conformado por los aportes del Estado señalados en la presente Ley y por la totalidad de los fondos líquidos y otros activos originados y vinculados a las carteras de crédito que manejan, administran o custodian las siguientes instituciones estatales:
+El capital autorizado de PRODUZCAMOS será de Un Mil Millones de Córdobas (C$ 1,000,000 .000.00). El Consejo Directivo de la Superintendencia de Bancos y de Otras Instituciones Financieras actualizará el monto del capital social mínimo requerido por lo menos cada dos años en caso de variaciones cambiarias de la moneda nacional y deberá publicarlo en un diario de circulación nacional, sin perjuicio de su publicación en La Gaceta, Diario Oficial.
 
-a. Instituto de Desarrollo Rural (IDR);
+Inicialmente contará con los aportes del Estado señalados en la presente Ley y por la totalidad de los fondos líquidos y otros activos originados y vinculados a las carteras de crédito que manejan, administran o custodian las siguientes instituciones estatales:
 
-b. Instituto Nicaragüense de Tecnología Agropecuaria (INTA);
+a) Instituto de Desarrollo Rural (IDR);
 
-c. Ministerio Agropecuario y Forestal;
+b) Instituto Nicaragüense de Tecnología Agropecuaria (INTA);
 
-d. Instituto Nicaragüense de Apoyo a la Pequeña y Mediana Empresa, el cual incluye el Programa Usura Cero; y
+c) Ministerio Agropecuario (MAG);
 
-e. Fondo de Crédito Rural. (FCR)
+d) Instituto Nicaragüense de Apoyo a la Pequeña y Mediana Empresa (INPYME);
 
-Estas instituciones también deberán traspasar a PRODUZCAMOS todos los bienes muebles e inmuebles que tengan en dominio y posesión, que actualmente se encuentren siendo utilizados para el desarrollo ordinario de sus programas y proyectos destinados al otorgamiento de crédito y/o financiamiento, todo con el fin de ser utilizados por PRODUZCAMOS para su instalación y funcionamiento.
+e) Fondo de Crédito Rural (FCR);
 
-En caso de identificar otros fondos públicos que puedan contribuir al fortalecimiento del patrimonio del Banco se procederá a su asignación conforme a los procedimientos de Ley.
+f) Financiera Nicaragüense de Inversiones, Sociedad Anónima (FNI, S.A .).
+
+Los fondos líquidos, bienes muebles e inmuebles, derechos y otros activos, pertenecientes a las instituciones indicadas en el listado anterior, originados o vinculados a los programas o carteras de crédito de las que disponen estas instituciones por su finalidad de fomento productivo y por disposición de esta Ley, deberán pasar a PRODUZCAMOS, como parte del proceso de concentración, ordenamiento y armonización de recursos que manda la presente Ley.
+
+Este traspaso implica la entrega física de todos los bienes y derechos, reservándose el Banco el derecho de aceptar carteras o programas de crédito que no tengan garantías suficientes o sean de difícil recuperación.
+
+En caso de identificar otros fondos públicos relacionados a carteras o programas de créditos, incluyendo bienes muebles e inmuebles que puedan contribuir al fortalecimiento del patrimonio del Banco PRODUZC AM OS, se procederá a su asignación conforme a los procedimientos de ley.
+
+Las transferencias de dominio, así como los actos jurídicos relacionados con los activos vinculados a las carteras de crédito que manejan, administran o custodian las instituciones estatales antes relacionadas, estarán exentas de cualquier tributo, incluyendo los cobros registrales por transmisión de bienes muebles e inmuebles.
+
+En relación al FNI, S. A. y FCR, estas instituciones pasarán a formar parte en su totalidad del patrimonio de PRODUZCAMOS.
+
+El patrimonio neto será determinado por el diferencial entre activos y pasivos de los programas de créditos de cada institución, sobre la base de los resultados de la auditoria establecida en el artículo 40 de la presente ley.
+
+Con el objetivo de no afectar el balance contable de PRODUZCAMOS, todas las carteras de crédito y otras cuentas por cobrar recibidas de las instituciones antes señaladas, a excepción del FNI, S.A. y FCR, serán registradas contablemente en Cuentas de Orden. Conforme avance la efectiva recuperación, estos recursos deberán capitalizarse como parte del patrimonio del Banco.
+
+Si los aportes patrimoniales y líquidos del Estado superan el valor de su participación accionaria al momento de su constitución, el exceso pasará a formar parte de la Reserva de Capital.
 
 El Poder Ejecutivo, deberá iniciar e impulsar el proceso de concentración, ordenamiento y armonización de los fondos que existen y los que se canalicen posteriormente, para promoción y fomento del sector productivo, con el fin de reducir la dispersión y optimizar la utilización de estos recursos, evitar la fragmentación y la antinomia en las políticas de fomento productivo y provocar un efectivo ahorro, determinando a PRODUZCAMOS como la estructura administrativa única de estos recursos. Este esfuerzo se desarrollará en coordinación con las agencias de cooperación e instituciones multilaterales, en caso que los recursos a concentrar, ordenar y armonizar, tengan su origen en el apoyo que estos organismos internacionales otorgan al país.
-
-En el caso particular del Fondo de Crédito Rural (FCR), por ser una institución del Estado enteramente dedicada y especializada en el otorgamiento de crédito y/o financiamiento, la misma se adscribe y estará bajo la administración de PRODUZCAMOS, contabilizándose sus operaciones de manera separada.
-
-Podrán participar en el capital del Banco, asociaciones de productores, entidades cooperativas, asociaciones micro financieras, instituciones financieras no gubernamentales, así como entidades internacionales integradas por inversionistas vinculados al desarrollo rural y personas naturales. El Reglamento de la presente Ley establecerá las normas y principios correspondientes.
-
-El capital autorizado de PRODUZCAMOS podrá ser menor al capital mínimo requerido por la Ley para los Bancos comerciales, según norma a emitirse por el Consejo Directivo de la Superintendencia de Bancos y de Otras Instituciones Financieras dentro de los noventa días calendarios posteriores a la publicación de la presente Ley.
-
-El capital autorizado se dividirá en acciones nominativas e inconvertibles al portador, con las características que establezca el Reglamento. Las acciones solamente podrán transferirse previa autorización del Consejo Directivo de PRODUZCAMOS, en los casos que contemple el Reglamento.
-
-El capital social inicial será igual al monto del aporte del Estado más el aporte de otras entidades estatales, según lo que se establece en el presente artículo y el siguiente. El Consejo Directivo podrá autorizar aumentos al capital social del Banco, en los casos de participación accionaria de las otras entidades previstas en este artículo.

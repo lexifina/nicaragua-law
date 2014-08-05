@@ -1,5 +1,5 @@
 # Artículo 41
 
-Del Inicio de Operaciones de PRODUZCAMOS
+De la incorporación de socios privados
 
-Organizado el Consejo Directivo de PRODUZCAMOS, se considerará legalmente instalado, pero sus operaciones con el sector productivo comenzaran en la fecha que determine el Consejo Directivo mismo.
+PRODUZCAMOS, podrá aumentar su capital a través de la incorporación de socios privados, debiendo proceder a la emisión de acciones en proporción al aporte de los socios, pudiendo conservar el Estado la mayoría accionaria. Para ello se requerirá la emisión de un Acuerdo Ministerial suscrito por el Ministro de Hacienda y Crédito Público, que faculte al Consejo Directivo de PRODUZCAMOS a desarrollar el respectivo procedimiento hasta su culminación. Finalizado este procedimiento el Consejo Directivo del Banco PRODUZ CAMOS, deberá someterlo a la aprobación del Ministro de Hacienda y Crédito Público. PRODUZ CAMOS posteriormente deberá solicitar y obtener la correspondiente autorización del Consejo Directivo de la Superintendencia de Bancos y de Otras Instituciones Financieras. Obtenida la autorización correspondiente, el representante legal del Banco, debidamente autorizado para este acto, comparecerá ante la notaría del Estado junto a los nuevos socios privados para transformar a PRODUZCAMOS como sociedad anónima, de naturaleza mixta y sujeta de derecho bancario, cuyo pacto social y estatutos deberán mantener los aspectos fundamentales del objeto y finalidad de la creación del Banco.

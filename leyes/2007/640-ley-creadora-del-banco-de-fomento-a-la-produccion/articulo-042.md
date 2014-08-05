@@ -1,5 +1,5 @@
 # Artículo 42
 
-De la Realización de Auditorías para la Armonización de los Recursos
+De la realización de auditorias para la armonización de los recursos
 
-Con el objeto de garantizar la concentración, ordenamiento y armonización de los recursos existentes en las diferentes instituciones del Estado que manejan programas y proyectos de financiamiento y/o crédito, destinados al sector productivo nacional, los representantes legales de esas instituciones públicas y en especial los de las señaladas expresamente en el art. 4 del presente instrumento legal, están obligados a la realización de las auditorías correspondientes, bajo apercibimiento de Ley. Dichas auditorías deberán estar terminadas dentro de ciento ochenta días posteriores a la publicación de la presente Ley.
+Con el objeto de garantizar la concentración, ordenamiento y armonización de los recursos existentes en las diferentes instituciones del Estado que manejan programas y proyectos de financiamiento y/o crédito, destinados al sector productivo nacional, los representantes legales de esas instituciones públicas y en especial los de las señaladas expresamente en el artículo 4 del presente instrumento legal, están obligados a la realización de las auditorías correspondientes, bajo apercibimiento de Ley. Dichas auditorías deberán estar terminadas dentro de ciento ochenta días posteriores a la publicación de la presente Ley.

@@ -1,5 +1,5 @@
 # Artículo 9
 
-Reservas de Capital
+De las utilidades
 
-Una vez que las Reservas de Capital igualen el monto del Capital Autorizado, automáticamente pasarán a incrementarlo, de forma tal que las futuras utilidades se utilicen para la constitución de nuevas Reservas de Capital, y así sucesivamente.
+Las utilidades de PRODUZCAMOS se destinarán en su totalidad a la capitalización del mismo, previo cumplimiento de las provisiones, ajustes y reservas obligatorias establecidas en la Ley Nº. 561, "Ley General de Bancos, Instituciones Financieras No Bancarias y Grupos Financieros".

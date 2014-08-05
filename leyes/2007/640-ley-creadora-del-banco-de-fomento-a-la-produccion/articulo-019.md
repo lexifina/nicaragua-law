@@ -1,5 +1,5 @@
 # Artículo 19
 
-Informes de Auditorías
+Informes de auditorias
 
-El auditor Interno presentará informes de sus labores programadas y eventuales al Gerente General y estará obligado a informar lo actuado y sus conclusiones, basándose en lo establecido en la presente Ley, de forma consolidada cuatrimestralmente, así como anualmente al Consejo Directivo del Banco o cuando éste lo solicitare. La copia de cada Informe de Auditoría deberá entregarse a la Contraloría General de la República y a la Superintendencia de Bancos y de Otras Instituciones Financieras.
+El auditor interno presentará informes individuales de sus labores programadas y eventuales al Consejo Directivo del Banco y al gerente general del Banco, quienes tomarán conocimiento de los informes y las decisiones que al respecto se adopten. Estos informes y su presentación se establecerán conforme a las normas prudenciales de la Superintendencia de Bancos y de Otras Instituciones Financieras para esta materia.

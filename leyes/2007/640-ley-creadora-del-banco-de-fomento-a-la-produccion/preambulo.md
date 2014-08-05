@@ -1,10 +1,6 @@
-LEY N°. 640, LEY CREADORA DEL BANCO DE FOMENTO A LA PRODUCCIÓN (PRODUZCAMOS)
+TEXTO DE LEY Nº. 640, "LEY CREADORA DEL BANCO DE FOMENTO A LA PRODUCCIÓN (PRODUZCAMOS)", CON SUS REFORMAS INCORPORADAS
 
-Aprobada el 06 de noviembre de 2007
-
-Publicada en La Gaceta, Diario Oficial N°. 223 del 20 de noviembre de 2007
-
-LEY No. 640
+Publicado en La Gaceta, Diario Oficial N°. 146 del 05 de agosto de 2014
 
 El Presidente de la República de Nicaragua
 
@@ -16,6 +12,8 @@ LA ASAMBLEA NACIONAL
 
 Ha ordenado la siguiente:
 
-LEY CREADORA DEL BANCO DE FOMENTO A LA PRODUCCIÓN (PRODUZCAMOS)
+LEY CREA DORA DEL BANCO DE FOMENTO A LA PRODUCCIÓN
+
+(PRODUZCAMOS)
 
 CAPÍTULO I

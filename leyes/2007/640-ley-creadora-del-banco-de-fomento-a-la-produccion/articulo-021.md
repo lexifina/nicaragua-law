@@ -1,7 +1,7 @@
 # Artículo 21
 
-Operaciones Activas
+Operaciones
 
-A fin de alcanzar sus objetivos, PRODUZCAMOS podrá conceder créditos de corto, mediano y largo plazo, de acuerdo al plan estratégico y financiero que elabore el Gerente General y apruebe el Consejo Directivo, en coordinación con las políticas generales estatales para el sector productivo y los programas económicos financieros del Gobierno de la República, atendiendo en primer orden el fomento de la producción.
+PRODUZCAMOS podrá efectuar las funciones, actividades, operaciones bancarias e inversiones propias de los bancos comerciales y de fomento que esta ley, la legislación bancaria y las normativas vigentes le permiten. Para este fin el banco deberá cumplir con las disposiciones respectivas contenidas en la Ley Nº. 561, "Ley General de Bancos, Instituciones Financieras No Bancarias y Grupos Financieros'', Ley Nº. 316, "Ley de la Superintendencia de Bancos y de Otras Instituciones Financieras", normativas bancarias vigentes, y contar con la autorización previa de la Superintendencia de Bancos y de Otras Instituciones Financieras.
 
-En base a los objetivos, los programas del Banco, las políticas y estrategias del Estado, y en el marco de lo establecido en esta Ley, las operaciones activas se establecerán en el Reglamento de la presente Ley y en concordancia con las leyes, normas y disposiciones aprobadas por la Superintendencia de Bancos y de Otras Instituciones Financieras.
+El Estado no será garante ni avalista de las obligaciones que contrate PRODUZCAMO S, el que responderá con su propio patrimonio. Esta disposición se aplicará sin perjuicio de lo establecido en la Ley Nº. 551, "Ley del Sistema de Garantía de Depósitos'', publicada en La Gaceta, Diario Oficial Nº. 168 del 30 de agosto del 2005, y la Ley Nº. 477, "Ley General de Deuda Pública'', publicada en La Gaceta, Diario Oficial Nº. 236 del 12 de diciembre del 2003 y su Reglamento Decreto Nº. 2-2004, publicado en La Gaceta, Diario Oficial, Nº. 21 del 30 de enero de 2004.

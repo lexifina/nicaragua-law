@@ -1,5 +1,5 @@
 # Artículo 23
 
-De la Coordinación Interinstitucional
+De la coordinación interinstitucional
 
-PRODUZCAMOS está obligado a establecer coordinación con las instituciones públicas y privadas que se requiere para la asistencia técnica y que la misma esté a disposición de manera eficaz y eficiente.
+PRODUZCAMOS y las instituciones públicas y privadas vinculadas al fomento de la producción deberán establecer las coordinaciones respectivas que permitan brindar asistencia técnica de manera eficaz y eficiente a los sectores productivos. El reglamento de la presente Ley definirá el mecanismo de coordinación entre estas instituciones.

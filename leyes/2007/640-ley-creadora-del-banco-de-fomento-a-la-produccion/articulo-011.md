@@ -2,30 +2,24 @@
 
 Creación del Consejo Directivo
 
-Crease el Consejo Directivo de PRODUZCAMOS para establecer las políticas, estrategias, autorizar programas, fijar las tasas de interés de las operaciones activas del Banco.
+Créase el Consejo Directivo de PRODUZCAMOS quien será la máxima autoridad y estará integrado por:
 
-El Consejo Directivo estará integrado por:
+1) Un presidente y un vicepresidente nombrados por el Presidente de la República de Nicaragua y ratificados por la Asamblea Nacional, por un período de cinco años renovables.
 
-1. Un Presidente y un Vicepresidente nombrados por la Asamblea Nacional, propuestos por medio de temas presentadas por el Presidente de la República de Nicaragua y por los Diputados de la Asamblea Nacional por un período de cinco años renovables.
+2) El Ministro de Fomento, Industria y Comercio.
 
-El Presidente del Consejo Directivo ejercerá la representación legal del Banco quien tendrá voto dirimente.
+3) El Ministro Agropecuario.
 
-El Vicepresidente asistirá a las reuniones del Consejo Directivo con voz, pero sin derecho a voto, excepto cuando desempeñe el cargo de Presidente en funciones.
+4) Tres directores y sus respectivos suplentes provenientes del sector privado, de pequeños, medianos y grandes productores, los cuales deben contar con experiencia y conocimientos bancarios y financieros. El Presidente de la República de Nicaragua lo nombrará y remitirá a la Asamblea Nacional para su ratificación.
 
-2. El Ministro de Hacienda y Crédito Público;
+5) Un director y su respectivo suplente proveniente de la Costa Caribe nicaragüense, el cual deberá contar con experiencia bancaria y financiera, propuesto al Presidente de la República de Nicaragua quien lo nombrará y remitirá a la Asamblea Nacional para su ratificación.
 
-3. El Ministro de Fomento, Industria y Comercio;
+6) El presidente y el vicepresidente del Consejo Directivo de PRODUZCAMOS deberán ser personas mayores de treinta años, con amplios conocimientos, experiencia y preparación en asuntos bancarios, financieros y administrativos.
 
-4. El Ministro Agropecuario y Forestal;
+El presidente del Consejo Directivo ej ercerá la representación legal del Banco, con las facultades de un apoderado general de administración y podrá otorgar poderes generales y especiales, previa autorización del Consejo Directivo.
 
-5. Tres representantes y sus respectivos suplentes con experiencia y conocimientos financieros de las organizaciones de pequeños y medianos productores con carácter nacional, mismo que presentarán las ternas al Presidente de la República de Nicaragua, quién los nombrará y serán ratificados por la Asamblea Nacional;
+Todos los miembros del Consejo Directivo asistirán a las sesiones con voz y voto; solo el Presidente del mismo tendrá voto dirimente en caso de empate. El Gerente General asistirá a la sesiones con voz pero sin voto y podrá hacerse acompañar del equipo técnico que considere necesario. El vicepresidente asistirá a las reuniones del Consejo Directivo con voz, pero sin derecho a voto, excepto cuando desempeñe el cargo de presidente en funciones.
 
-6. Un representante y su respectivo suplente de la Costa Caribe Nicaragüense propuesto por los Gobiernos Regionales Autónomos de la Costa Atlántica al Presidente de la República quien los nombrará y serán ratificados por la Asamblea Nacional; y
+Los suplentes de los miembros plenos del Consejo Directivo son, para el caso de los ministros, sus respectivos viceministros.
 
-7. Un representante y su respectivo suplente, con experiencia y conocimientos financieros, de las entidades no estatales que sean accionistas del Banco en un porcentaje accionario no menor del diez por ciento (10%), nombrado por el Presidente de la República y ratificado por la Asamblea Nacional.
-
-El Presidente y el Vicepresidente de PRODUZCAMOS deberán ser personas con amplios conocimientos, experiencia y preparación en asuntos financieros y administrativos.
-
-Los suplentes de los miembros plenos del Consejo Directivo son, para el caso de los Ministros, sus respectivos Vice-ministros.
-
-Todas las ratificaciones y elecciones de la Asamblea Nacional serán efectuadas por mayoría calificada del sesenta por ciento (60%) de los Diputados que la integran.
+Todas las ratificaciones de la Asamblea Nacional serán efectuadas por mayoría absoluta de los Diputados que la integran. En caso que expiren los períodos del Presidente o cualquier otro miembro del Consejo Directivo, sin que hayan sido nombrados o ratificados sus sucesores, los mismos continuarán en el ejercicio de sus cargos hasta que se produzca el nuevo nombramiento y este haya sido ratificado.

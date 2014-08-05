@@ -1,7 +1,13 @@
 # Artículo 17
 
-Del Auditor Interno
+Del auditor interno
 
-El Banco contará con un Auditor Interno, nombrado por el Consejo Directivo del Banco, el cual deberá ser Contador Público Autorizado, con amplia experiencia en la materia y comprobada probidad. El Auditor Interno estará encargado de la fiscalización de todas sus instancias, operaciones y decisiones, dará cuenta directamente al Consejo Directivo, enviando copia de los Informes de Auditoría a la Contraloría General de la República y a la Superintendencia de Bancos y de Otras Instituciones Financieras, debiendo el Auditor incluir en sus Informes de Auditoría evidencia de que las recomendaciones de las inspecciones efectuadas por ambas instituciones han sido realizadas. El Auditor Interno podrá ser removido por el Consejo Directivo, mediante resolución fundada, la no objeción de la Superintendencia de Bancos y de Otras Instituciones Financieras, la autorización del Consejo Directivo de la Contraloría General de la República, conforme el Decreto 625, “Ley Orgánica de la Contraloría General de la República”.
+Las funciones de inspección y fiscalización de las operaciones realizadas por PRODUZCAMOS estarán a cargo de un auditor interno. El auditor interno será nombrado por el Consejo Directivo de esta institución para ejercer el cargo por un período de tres años, renovables. Este funcionario responderá ante el órgano que lo elige.
 
-El Auditor Interno tendrá acceso ilimitado a todos y cada uno de los datos e informaciones que considere necesarios para el cumplimiento de sus funciones. Bajo ninguna circunstancia se le restringirá el acceso a la información.
+El auditor interno deberá ser contador público autorizado, con amplia experiencia en materia financiera, bancaria y comprobada probidad. Estará encargado de la fiscalización de todas las instancias de decisión y ejecución de PRODUZCAMOS e informará de forma inmediata a su Consejo Directivo sobre cualquier situación o hallazgo significativo que detecte y que requiera acción inmediata para su prevención o corrección, sin perjuicio de lo establecido en el artículo 41 de la Ley Nº. 561, "Ley General de Bancos, Instituciones Financieras No Bancarias y Grupos Financieros".
+
+El auditor interno actuará con independencia en el desempeño de sus labores. Para el cumplimiento de sus funciones tendrá acceso irrestricto a todos los documentos e información que considere necesaria para los referidos fines y mantendrá informado al Consejo Directivo sobre el desarrollo de sus funciones de control.
+
+El auditor interno podrá ser removido de su cargo antes del vencimiento del período para el cual fue electo por causa fundada, según lo establecido en el artículo 12 de la presente Ley y con la no objeción del Superintendente de Bancos y de Otras Instituciones Financieras.
+
+El auditor interno también se regirá por lo establecido en las normas prudenciales de la Superintendencia de Bancos y de Otras Instituciones Financieras que regula esta materia.

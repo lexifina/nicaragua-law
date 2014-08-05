@@ -1,5 +1,7 @@
 # Artículo 33
 
-De la Supervisión, Vigilancia y Fiscalización
+De la supervisión, vigilancia y fiscalización
 
-PRODUZCAMOS estará sometido a la vigilancia, supervisión y fiscalización de la Superintendencia de Bancos y de Otras Instituciones Financieras. El Consejo Directivo de la Superintendencia de Bancos y Otras Instituciones Financieras, emitirá las normas especiales para regular la adecuación de capital, clasificación de activos y cartera, otorgamiento de crédito, supervisión especial y otros ámbitos de regulación, de aplicación específica para PRODUZCAMOS; velando por una aplicación de las mismas que garantice la prudencia de las operaciones dentro de los objetivos establecidos de PRODUZCAMOS en la presente Ley.
+La supervisión, vigilancia y fiscalización de las operaciones bancarias y financieras del Banco, le corresponderá a la Superintendencia de Bancos y de Otras Instituciones Financieras.
+
+La Contraloría General de la República fiscalizará exclusivamente las operaciones referidas a la ejecución presupuestaria del Banco.
