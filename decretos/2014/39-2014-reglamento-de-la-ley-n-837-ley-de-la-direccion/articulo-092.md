@@ -1,0 +1,3 @@
+# Artículo 92
+
+La Dirección de Bomberos Portuarios es la especialidad responsable de hacer cumplir las normas de prevención de riesgos especiales, extinción de incendios, búsqueda, rescate y salvamento de víctimas a consecuencia de incidentes o siniestros en las zonas portuarias y en los buques, así como también intervenir en los naufragios y actuar en toda clase de labores de búsqueda y salvamento de vidas, bienes y propiedades y de otras emergencias que se presenten en buques que recalen en puertos nacionales e instalaciones de puertos marítimos, fluviales y lacustres, públicos o privados y su entorno.
