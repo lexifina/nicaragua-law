@@ -1,11 +1,23 @@
 # Artículo 14
 
-Excepciones a la presente Ley
+Exenciones del pago del Servicio de Seguridad Aduanera
 
-Se exceptúan de la aplicación de la presente Ley las importaciones y exportaciones de hidrocarburos y sus derivados que ingresen al territorio nacional por vía marítima y que sean desembarcados hacia tanques de almacenamiento en tierra firme vía oleoductos o gaseoductos. Así como los medios y equipos necesarios para garantizar la seguridad y defensa nacional, que ingresen al país por vía terrestre, aérea o marítima.
+Estarán exentos del pago del Servicio de Seguridad Aduanera (SSA):
 
-Estarán exentos del pago del Servicio de Seguridad Aduanera (SSA) todos los Vehículos de Carga en condición de Tránsito Internacional que por reciprocidad en los convenios bilaterales suscritos con el
+1) Las declaraciones aduaneras de importación de mercancías con un valor CIF igual o inferior a los Quinientos Dólares de los Estados Unidos de América (US$ 500.00).
 
-Estado de la República de Nicaragua gocen de éste beneficio.
+2) Las declaraciones aduaneras de exportación de mercancías con un valor FOB igual o inferior a los Quinientos Dólares de los Estados Unidos de América (US$ 500.00);
 
-Así mismo, se exceptúan del pago por Servicios de Seguridad Aduanera (SSA) las embajadas, misiones y organismos internacionales que tengan suscritos convenios de reciprocidad con el país y aquellas importaciones de equipos necesarios para la ejecución de proyectos aprobados por leyes especiales de fomento e inversión que generen empleos en el país.
+3) Las declaraciones aduaneras de muestra sin valor comercial, courier y paquetería menor, en valor menor o igual a Quinientos Dólares de los Estados Unidos de América (US$500 .00).
+
+4) Las importaciones y exportaciones de hidrocarburos y sus derivados que ingresen al territorio aduanero nacional por vía marítima y que sean desembarcados hacia tanques de almacenamiento en tierra firme vía oleoductos o gaseoductos.
+
+5) Los medios y equipos necesarios para garantizar la seguridad y defensa nacional, que ingresen al país por vía terrestre, aérea o marítima.
+
+6) Los vehículos de carga en condición de tránsito internacional o interno, los vacíos o en lastre que ingresen o salgan del territorio nacional.
+
+7) Las embajadas, misiones y organismos internacionales que tengan suscritos convenios de reciprocidad con el país.
+
+La exención del pago de la tasa de SSA no libera ni implica disminución del ejercicio de la potestad aduanera sobre las personas, mercancías y medios de transporte, mediante la aplicación del servicio de inspección no intrusiva.
+
+La DGA ejercerá su potestad aduanera mediante la aplicación de la inspección no intrusiva realizando el análisis, la interpretación, el uso y administración de las imágenes radioscópicas que se generen desde los equipos operados por el concesionario.

@@ -1,13 +1,23 @@
 # Artículo 7
 
-Cálculo del Servicio de Seguridad Aduanera
+Tasa por Servicio de Seguridad Aduanera
 
-El valor del Servicio de Seguridad Aduanera (SSA) se calculará de la siguiente manera:
+El monto a pagar en concepto de Servicio de Seguridad Aduanera (SSA) será el siguiente:
 
-a) De un cero punto veinte y seis por ciento (0.26 %) sobre el valor CIF total de las Mercancías o Carga declarada en todas y cada una de las Declaraciones Aduaneras de Importación;
+1)Setenta Dólares de los Estados Unidos de América (US$ 70.00) por cada declaración aduanera que sea sometida bajo cualquier régimen aduanero diferente del régimen de zona franca, y con los siguientes valores:
 
-b) De un cero punto veinte y seis por ciento (0.26 %) sobre el valor FOB total de las Mercancías o Carga declarada en todas y cada una de las Declaraciones Aduaneras de las Exportaciones; y
+a) Con valor CIF superior a los Dos Mil Dólares de los Estados Unidos de América (US$ 2,000.00), en los casos de las declaraciones de internación o importación y sus modalidades de mercancías al territorio nacional, ó
 
-c) Un valor de Quince Dólares de los Estados Unidos de América (US$ 15.00) para los vehículos que ingresen al territorio de la República de Nicaragua: (i) en condición de Tránsito Internacional; (ii) Vehículos de Transporte Colectivo de Pasajeros y, (iii) bajo régimen de Zona Franca por vehículo o contenedor.
+b) Con valor FOB superior a los Dos Mil Dólares de los Estados Unidos de América (US$ 2,000.00), en los casos de las exportaciones de mercancías del territorio nacional y sus modalidades.
 
-El cálculo del valor a pagar por cada Declaración Aduanera en concepto de Servicio de Seguridad Aduanera (SSA) se realizará automáticamente por el Sistema Informático Aduanero con base en la información digitada por el Declarante, y será parte de las obligaciones aduaneras que se reflejarán en el boletín de liquidación de la Declaración Aduanera; debiéndose reflejar en un renglón separado para efectos de control y administración.
+2) Treinta Dólares de los Estados Unidos de América (US$ 30 .00) por cada vehículo de carga que ingrese o salga del territorio nacional por vía terrestre o marítima, en exportaciones, importaciones y sus modalidades bajo régimen de zona franca, y cuyo valor CIF por declaración aduanera para el ingreso de mercancías, o valor FOB por declaración aduanera para la salida de mercancías, sea superior a los Dos Mil Dólares de los Estados Unidos de América (US$ 2,000.00).
+
+3) Veinticinco Dólares de los Estados Unidos de América (US$ 25.00) por cada declaración aduanera bajo el régimen de zona franca, de mercancía que ingrese o salga del territorio nacional por vía aérea, y con los siguientes valores:
+
+a) Con valor CIF superior a los Dos Mil Dólares de los Estados Unidos de América (US$ 2,000.00), en los casos de ingreso, o
+
+b) Con valor FOB superior a los Dos Mil Dólares de los Estados Unidos de América (US$ 2,000.00), en los casos de salida.
+
+4) Veinte Dólares de los Estados Unidos de América (US$ 20.00) por cada declaración aduanera de exportación, internación o importación y sus modalidades, cuyo valor CIF de mercancías para la internación o importación y sus modalidades, o valor FOB para la exportación de mercancías que esté comprendido entre los Quinientos más Un centavo de Dólares de los Estados Unidos de América (US$ 500.01) y los Dos Mil Dólares de los Estados Unidos de América (US$ 2,000.00).
+
+5) Veinte Dólares de los Estados Unidos de América (US$ 20.00), por cada declaración aduanera de exportación o importación por vía aérea de mercancías perecederas y frescas.
