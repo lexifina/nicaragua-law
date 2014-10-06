@@ -1,5 +1,7 @@
 # Artículo 7
 
-Prescripción. En caso que la ley de la materia no establezca otra disposición, todo adeudo a favor de un prestador del servicio de energía eléctrica, estará sujeto a la prescripción de un año, la que se contará a partir de la fecha en que se notifica el cobro.
+Indemnizaciones
 
-Esta prescripción opera de mero derecho por el transcurso del tiempo.
+De conformidad a lo establecido en el artículo 44, párrafo segundo, de la Constitución Política de la República de Nicaragua, y por ministerio de la presente Ley, El Desarrollador de El Proyecto queda facultado para gestionar y demandar en sede administrativa, según corresponda, o en la vía judicial la tramitación e impulso correspondiente al proceso judicial de expropiación e imposición de servidumbres necesarios para la construcción de El Proyecto. Así mismo corresponde indelegablemente a El Desarrollador responder por el proceso y las resultas de tales procesos y por el debido pago en efectivo como consecuencia de la justa indemnización a los propietarios de los bienes inmuebles que resulten afectados por la realización de El Proyecto, cuando estos bienes sean privados.
+
+El Desarrollador deberá tener como referencia base, pero no excluyente, los datos oficiales suministrados por el Instituto Nacional de Información de Desarrollo (INIDE), sobre los Registros del Censo de Población y Vivienda del 2005 y el Censo Nacional Agropecuario del 2004, así como los respectivos Registros de la Propiedad inmueble, con las debidas actualizaciones de conformidad con las normativas técnicas establecidas por la autoridad correspondiente, entre los que serán incluidos los levantamientos aerofotogramétricos realizados por El Desarrollador
