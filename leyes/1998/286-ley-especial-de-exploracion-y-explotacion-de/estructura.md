@@ -4,7 +4,7 @@
 - CAPÍTULO III (antes del artículo 9)
 - CAPÍTULO IV (antes del artículo 11)
 - CAPÍTULO V (antes del artículo 33)
-- CAPÍTULO Vl (antes del artículo 44)
+- CAPÍTULO VI (antes del artículo 44)
 - CAPÍTULO VII (antes del artículo 49)
 - CAPÍTULO VIII (antes del artículo 53)
 - CAPÍTULO IX (antes del artículo 56)

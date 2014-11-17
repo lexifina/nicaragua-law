@@ -4,4 +4,4 @@ Cada contratista deberá suministrar a solicitud del Ministerio de Energía y Mi
 
 Esta venta se realizará de acuerdo a precios establecidos en base a precios de paridad de exportación (PPE), según mecanismos de valoración y de pago que se establecerán en cada contrato.
 
-CANONES
+CÁNONES
