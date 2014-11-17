@@ -2,7 +2,7 @@
 
 Serán obligaciones de todo concesionario, además de las establecidas en la presente Ley, su Reglamento y el contrato respectivo, las siguientes:
 
-a) Iniciar los trabajos de exploración o explotación, según fuera el caso, a más tardar dentro de los tres (3) meses de vigencia del contrato respectivo y una vez iniciados dichos trabajos, no interrumpirlos por un periodo mayor de seis meses consecutivos, salvo caso fortuito o fuerza mayor.
+a) Iniciar los trabajos de exploración o explotación, según fuera el caso, a más tardar dentro de los tres (3) meses de vigencia del contrato respectivo y una vez iniciados dichos trabajos, no interrumpirlos por un período mayor de seis meses consecutivos, salvo caso fortuito o fuerza mayor.
 
 b) Colocar y conservar los mojones necesarios para que puedan reconocerse fácilmente los linderos de las áreas de exploración o explotación, debiendo hacerlo conforme los planes aprobados por el Ministerio de Energía y Minas y de acuerdo con los demás requisitos que fije la presente Ley, su Reglamento y el contrato.
 

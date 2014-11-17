@@ -10,7 +10,7 @@ c) Cronograma anual de ejecución físico-financiero que se propone realizar dur
 
 d) Garantía de cumplimiento de obligaciones a ser establecidas por el reglamento de esta Ley;
 
-e) Es obligación del Concesionario presentar al Ministerio de Energía y Minas, la constancia del trámite respectivo ante el Ministerio del Ambiente y Recursos Naturales de los permisos ambientales que correspondan como condición para poder iniciar la fase de exploración;
+e) Es obligación del Concesionario presentar al Ministerio de Energía y Minas, la constancia del trámite respectivo ante el Ministerio del Ambiente y de los Recursos Naturales de los permisos ambientales que correspondan como condición para poder iniciar la fase de exploración;
 
 f) Constancia de la opinión de los Consejos Municipales y Regionales respectivos;
 

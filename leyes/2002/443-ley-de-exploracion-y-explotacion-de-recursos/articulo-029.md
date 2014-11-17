@@ -2,11 +2,11 @@
 
 Una vez notificado el interesado sobre la adjudicación de la concesión de explotación, éste deberá, dentro de un período de noventa días calendario a partir de la fecha de la notificación, a firmar con el Ministerio de Energía y Minas el contrato de explotación de recursos geotérmicos. Dicho contrato será convenido y firmado entre el concesionario y el Ministerio de Energía y Minas y deberá contener al menos:
 
-a) Ubicación del área de la concesión y sus respectivas coordenadas U.T.M ;
+a) Ubicación del área de la concesión y sus respectivas coordenadas U.T. M;
 
 b) Delimitación del reservorio geotérmico;
 
-c) Cronograma de inversiones mínimas de los trabajos a realizarse en periodos anuales y especialmente las que se efectuarán durante los primeros cinco años de vigencia del mismo;
+c) Cronograma de inversiones mínimas de los trabajos a realizarse en períodos anuales y especialmente las que se efectuarán durante los primeros cinco años de vigencia del mismo;
 
 d) Garantía de cumplimiento del contrato cuyo monto será establecido por el Reglamento de esta Ley;
 
@@ -16,4 +16,4 @@ f) Constancia o certificado de la existencia del Permiso Ambiental otorgado por 
 
 g) Constancia de la opinión de los Concejos Municipales y Regionales respectivos;
 
-h) Las demás obligaciones señaladas en el Reglamento de esta Ley;
+h) Las demás obligaciones señaladas en el Reglamento de esta Ley.
