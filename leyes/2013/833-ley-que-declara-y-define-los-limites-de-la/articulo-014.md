@@ -1,33 +1,27 @@
 # Artículo 14
 
-La Comisión estará integrada por los delegados o delegadas de las instituciones siguientes:
+Atribuciones del Gerente General
 
-1. Ministerio del Ambiente y de los Recursos Naturales, quien la presidirá;
+Al Gerente General le está confiada la administración de la empresa de acuerdo a sus objetivos y a las resoluciones de la Junta Directiva y tendrá las siguientes atribuciones:
 
-2. Alcaldías de Moyogalpa y Altagracia;
+a) Representar a la Empresa en los asuntos legales, judiciales, extrajudiciales y administrativos;
 
-3. Ministerio Agropecuario y Forestal;
+b) Someter, para su aprobación, a la Junta Directiva el plan de estructura organizativa y funcional de la Empresa, sus reformas y adiciones;
 
-4. Ministerio de Educación;
+c) Ejecutar todos los actos y contratos que expresa o tácitamente estuvieran comprendidos dentro del objetivo de la Empresa;
 
-5. Ministerio de Salud;
+d) Cumplir y hacer cumplir las disposiciones de las leyes, las resoluciones de la Junta Directiva, los Reglamentos de la Empresa y las normas y disposiciones emitidas por la autoridad competente;
 
-6. Instituto Nicaragüense de Cultura;
+e) Someter al conocimiento y autorización mediante resolución de la Junta Directiva todos los asuntos de objetivos y estrategias de la Empresa que requieran su aprobación;
 
-7. Instituto Nacional de Turismo;
+f) Preparar y presentar a la aprobación de la Junta Directiva anualmente el Plan General de Actividades, y el Presupuesto General Anual de Operaciones e Inversiones;
 
-8. Instituto Nacional Forestal;
+g) Preparar y presentar a la aprobación de la Junta Directiva el informe anual de operaciones, actividades y situación financiera de la Empresa;
 
-9. Procuraduría General de la República;
+h) Presentar a la Junta Directiva con la periodicidad que ésta establezca, la ejecución Presupuestaria y los Estados Financieros;
 
-10. Ejército de Nicaragua;
+i) Proponer y recomendar para aprobación de la Junta Directiva la política de precios de la Empresa;
 
-11. Policía Nacional;
+j) Proponer y recomendar para aprobación de la Junta Directiva los reglamentos, normativas y políticas de la Empresa; y
 
-12. Dos representantes electos entre las ONGs ambientalistas que desarrollan trabajo en la Reserva de Biósfera Isla de Ometepe;
-
-13. Dos representantes electos del sector económico;
-
-14. Dos representantes de las comunidades organizadas debidamente electos entre ellas; y
-
-15. El Secretario Ejecutivo o Secretaria Ejecutiva de la Reserva de Biósfera de Ometepe, quien actuará como Secretario o Secretaria de la Comisión.
+k) Llevar a cabo cualquier función relacionada con la administración de la Empresa que le sea encomendada por la Junta Directiva.

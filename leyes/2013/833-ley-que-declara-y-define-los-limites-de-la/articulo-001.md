@@ -1,3 +1,5 @@
 # Artículo 1
 
-La presente Ley tiene por objeto declarar como Reserva de Biósfera la Isla de Ometepe, reconocida e incorporada a la Red Mundial de Reservas de Biósferas de la Organización de Naciones Unidas para la Educación, la Ciencia y la Cultura –UNESCO, en el marco del programa sobre el Hombre y la Biósfera (MAB), de acuerdo a resolución del día dos de junio del año dos mil diez; también define los límites de la misma y su sistema de administración.
+Objeto
+
+La Empresa Nicaragüense del Petróleo, que en lo sucesivo podrá ser nominada indistintamente como PETRONIC, es una empresa pública descentralizada del Estado, con autonomía técnica, administrativa y financiera, de giro comercial y del dominio del Estado Nicaragüense, con personalidad jurídica y patrimonio propio, de duración indefinida y con plena capacidad para adquirir derechos y contraer obligaciones. Tiene existencia legal desde el 3 de noviembre de 1979, fecha de publicación del Decreto Nº. 135, del 31 de octubre de 1979, en La Gaceta, Diario Oficial Nº. 48.

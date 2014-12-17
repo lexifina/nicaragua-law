@@ -1,8 +1,6 @@
-LEY N°. 833, LEY QUE DECLARA Y DEFINE LOS LÍMITES DE LA RESERVA DE BIÓSFERA DE LA ISLA DE OMETEPE
+TEXTO DE LA LEY Nº. 883, "LEY ORGÁNICA DE LA EMPRESA NICARAGÜENSE DEL PETRÓLEO (PETRONIC)", CON SUS REFORMAS INCORPORADAS
 
-Aprobada el 19 de febrero de 2013
-
-Publicada en La Gaceta, Diario Oficial N°. 45 del 8 de marzo de 2013
+Publicado en La Gaceta, Diario Oficial N°. 239 del 17 de diciembre de 2014
 
 El Presidente de la República de Nicaragua
 
@@ -10,46 +8,16 @@ A sus habitantes, Sabed:
 
 Que,
 
-LA ASAMBLEA NACIONAL
+La Asamblea Nacional de la República de Nicaragua
 
-CONSIDERANDO
+Ha ordenado lo siguiente:
 
-I
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
 
-Que habiéndose logrado el reconocimiento Internacional por parte de la Organización de Naciones Unidas para la Educación, la Ciencia y la Cultura – UNESCO como Reserva de la Biósfera a la Isla de Ometepe, se hace necesario establecer un marco jurídico adecuado para administrar esta área, que permitan desarrollar una mayor conciencia del valor que para la humanidad y para las generaciones futuras representan su conservación y protección, en el sentido que este tipo de Categoría, cumplen con tres funciones como: Conectividad, Sostenibilidad y Conservación, los que deberán considerarse en los planes de protección y manejo para el desarrollo de la Reserva de Biósfera.
+Ha dictado la siguiente:
 
-II
-
-Que el Estado de Nicaragua tiene como objetivo la conservación de la biodiversidad y la convivencia, vigilancia y el aprovechamiento sostenible de las áreas protegidas mediante el fortalecimiento del marco normativo de la Política de conservación de Áreas Protegidas.
-
-III
-
-Que de acuerdo a lo establecido en el artículo 60 de la Constitución Política de la República de Nicaragua, los nicaragüenses tienen derecho de habitar en un ambiente saludable, y que corresponde al Estado garantizar la “preservación, conservación y rescate del medio ambiente y de los recursos naturales”.
-
-IV
-
-Que de conformidad al artículo 20 de la Ley No. 217, “Ley General del Medio Ambiente y los Recursos Naturales”, publicada en La Gaceta, Diario Oficial No. 105 del 6 de junio de 1996 y el Decreto No. 01-2007, Reglamento de Áreas Protegidas de Nicaragua, publicado en La Gaceta, Diario Oficial No. 8 del 11 de enero del 2007, se regulan los requisitos y trámites para la declaración de las áreas protegidas en el país, que se harán mediante Ley de la República y su iniciativa se formulará de acuerdo a lo establecido en el artículo 140 de la Constitución Política de la República de Nicaragua.
-
-V
-
-Que la Isla de Ometepe contiene formaciones naturales únicas entre las que destacan los volcanes Concepción y el Maderas; albergando uno de los bosques mejor conservados de Nicaragua producto de la influencia de la humedad del Caribe y de las particularidades del Pacífico; y su ubicación en el centro del reservorio de agua dulce más grande de Centroamérica, el Lago Cocibolca, reconocido de alto valor y prioridad para la seguridad nacional mediante la Ley No. 620, “Ley General de Aguas Nacionales”, publicado en La Gaceta, Diario Oficial No. 169 del 4 de Septiembre del 2007, caracterizándose además por su combinación de área lacustre y terrestres de un excepcional gran valor ecológico, con importantes vestigios arqueológicos y culturales, biodiversidad ambiental y cultural.
-
-VI
-
-Que la Isla de Ometepe, por su alto valor paisajístico, natural y cultural, es un recurso invaluable para el desarrollo de zonas de turismo sostenible, como un bien común para la restitución de valores y la recreación de las familias Nicaragüenses y del turismo internacional, y para impulsar el programa Turístico de Destinos Verdes de Nicaragua, protegida por la Ley N. 203, “Ley que Declara Reserva Natural y Patrimonio Cultural de la Nación a la Isla de Ometepe”, publicada en La Gaceta, Diario Oficial No. 182 del 29 de septiembre de 1995, que ha permitido la conservación de este patrimonio natural y cultural.
-
-POR TANTO
-
-En uso de sus facultades
-
-HA ORDENADO
-
-La siguiente:
-
-LEY N°. 833
-
-LEY QUE DECLARA Y DEFINE LOS LÍMITES DE LA RESERVA DE BIÓSFERA DE LA ISLA DE OMETEPE
+LEY ORGÁNICA DE LA EMPRESA NICARAGÜENSE DEL PETRÓLEO (PETRONIC)
 
 Capítulo I
 
-Disposiciones Generales
+Constitución y domicilio

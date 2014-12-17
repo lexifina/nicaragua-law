@@ -1,3 +1,5 @@
 # Artículo 6
 
-Los criterios utilizados para la delimitación y la zonificación de la Reserva son los establecidos internacionalmente por la Organización de Naciones Unidas para la Educación, la Ciencia y la Cultura – UNESCO, tomando en consideración los límites político- administrativos de los municipios que se encuentran ubicados dentro de la misma, con el fin de una mejor conservación, protección, manejo y sostenibilidad socio-ambiental.
+Miembros de la Junta Directiva
+
+Los miembros de la Junta Directiva designarán de entre ellos los cargos de Secretario y Tesorero. El cargo de Presidente de la Junta Directiva será designado por el Presidente de la República, con rango de Ministro.

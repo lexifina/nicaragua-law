@@ -1,3 +1,11 @@
 # Artículo 2
 
-Declárese Reserva de Biósfera a la Isla de Ometepe, en adelante simplemente Reserva o Reserva de Biósfera, ubicada en el Gran Lago Cocibolca de Nicaragua la que estará integrada por los territorios de los municipios de Altagracia y Moyogalpa del departamento de Rivas y de conformidad a los límites establecidos en el artículo 11 de la presente Ley.
+Domicilio
+
+La empresa tendrá su domicilio legal en la ciudad de Managua, pudiendo establecer las sucursales, agencias y subsidiarias que estimen conveniente en cualquier parte del territorio nacional. Para los efectos de los actos y operaciones que ejecuten, tendrán su domicilio en el lugar que se establezcan.
+
+Asimismo, la Empresa podrá acreditar corresponsales, representantes o agentes en el exterior, cuando la Junta Directiva lo considere conveniente.
+
+Capitulo II
+
+Objetivos y funciones
