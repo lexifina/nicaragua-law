@@ -1,0 +1,7 @@
+# Artículo 341
+
+De la tutela de las personas en situación de desamparo
+
+En caso de total desamparo, que se podrá dar por causa de muerte del padre o la madre, enfermedad grave, abandono o cualquier otra circunstancia que vulneren los derechos fundamentales del niño, niña, adolescente o persona con discapacidad que no pueda valerse por sí misma, el juez o jueza a solicitud de la autoridad administrativa o de la Procuraduría nacional de la familia deberá con la urgencia del caso y previas las investigaciones por parte del Equipo Multidisciplinario del juzgado respectivo, confiar temporalmente el cuido y tutela a cualquiera de las abuelas o los abuelos, en caso de no poder darse, se preferirá a otro familiar en el grado de consanguinidad más próximo y como última instancia se ordenará la protección del niño, niña o adolescente o persona con discapacidad que no pueda valerse por sí misma, en centro de protección. Todas estas medidas tomando en cuenta el interés superior del niño, niña, adolescente o persona con discapacidad que no pueda valerse por sí misma.
+
+En los territorios de los pueblos originarios y afrodescendientes, las y los jueces indígenas y autoridades comunales y territoriales, tienen jurisdicción para determinar la custodia, tutela y otras situaciones afines relacionados con los niños, niñas y adolescentes originarios y afrodescendientes o personas con discapacidad que no puedan valerse por sí mismas en los lugares que no existan instituciones, instancias administrativas y juzgados de familia.
