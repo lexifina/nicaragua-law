@@ -1,0 +1,7 @@
+# Artículo 13
+
+Comprobación de requisitos y autorización de funcionamiento
+
+El Superintendente comprobará si los solicitantes han llenado todos los requisitos exigidos por la presente Ley, y si los encontrare cumplidos, otorgará la autorización de funcionamiento dentro de un plazo máximo de 15 días contados a partir de la fecha de presentación de la solicitud correspondiente a que se refiere el artículo que antecede; en caso contrario comunicará a los peticionarios las faltas que notare para que llenen los requisitos omitidos y una vez reparada la falta, otorgará la autorización pedida dentro de un término de 5 días hábiles contados desde la fecha de subsanación. La autorización deberá publicarse en La Gaceta, Diario Oficial, por cuenta de la Sociedad de Inversión autorizada y deberá inscribirse en el Registro Público Mercantil correspondiente en el Libro Segundo, Sociedades, de dicho Registro también por su cuenta.
+
+En caso de no cumplir con los señalamientos del Superintendente dentro del plazo antes establecido, se entenderá que los interesados han desistido de la solicitud, quedando la autorización de constitución sin efecto y el monto del depósito a que se refiere el artículo 7 de esta Ley, ingresará a favor del Fisco de la República. En consecuencia, los accionistas deben proceder a la liquidación de la sociedad conforme al derecho común, debiéndose anotar la resolución del Superintendente en el Registro Público.

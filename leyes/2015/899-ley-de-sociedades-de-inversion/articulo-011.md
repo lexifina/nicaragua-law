@@ -1,0 +1,5 @@
+# Artículo 11
+
+Validez de escritura y estatutos
+
+En caso de resolución positiva, el notario autorizante deberá mencionar la edición de La Gaceta, Diario Oficial en que hubiese sido publicada la resolución de autorización para constituirse como Sociedad de Inversión, emitida por la Superintendencia e insertar íntegramente en la escritura la certificación de dicha resolución. Será nula la inscripción en el Registro Público Mercantil, si no se cumpliera con este requisito para iniciar actividades.

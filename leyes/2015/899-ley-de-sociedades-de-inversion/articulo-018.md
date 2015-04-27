@@ -1,0 +1,7 @@
+# Artículo 18
+
+Requisitos para ser director
+
+Los miembros de la Junta Directiva de las sociedades de inversión podrán ser personas naturales o jurídicas, accionistas o no. En el caso de las personas naturales, deberán ser mayores de treinta años al día del nombramiento, y de reconocida honorabilidad y competencia profesional. En el caso de las personas jurídicas, ejercerán el cargo a través de un representante, quien deberá cumplir con los requisitos anteriores y será responsable personalmente y en forma solidaria por sus actuaciones conjuntamente con el accionista que representa.
+
+Los miembros de la Junta Directiva de las sociedades de inversión, sin perjuicio de las otras sanciones que les correspondan, responderán personal y solidariamente con sus bienes de las pérdidas que se irroguen a la sociedad por autorizar operaciones prohibidas y por los actos efectuados o resoluciones tomadas por la Junta Directiva en contravención a las leyes, a las normas dictadas por el Consejo Directivo de la Superintendencia, a las instrucciones y órdenes del Superintendente, a las disposiciones emanadas del Banco Central y demás disposiciones aplicables, quedando exentos de esa responsabilidad únicamente los que hubiesen hecho constar su voto disidente en el acta de la sesión correspondiente, y los que estuviesen ausentes durante dicha sesión y en la sesión en donde se apruebe el acta respectiva.
