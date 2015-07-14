@@ -1,0 +1,5 @@
+# Artículo 3
+
+El Presidente de la República por iniciativa propia podrá conceder esta Orden conforme al artículo 1 de la Ley No. 812, a ciudadanos o ciudadanas Nacionales o Extranjeros con trayectoria singular y destacada en Ciencias, Filosofía, Leyes, Política, Asuntos Sociales, Investigación, Estudios y Practicas Patrimoniales, Estudios y Prácticas Ambientales, Historia, Sociología, Economía, Innovación, Tecnologías, Agricultura, Producción de Alimentos para la Seguridad y Soberanía Agropecuaria y el Desarrollo Sostenible, Arquitectura, Ingeniería, Diseño, Arte, Cultura, Autonomías y Lenguas Originarias, Desarrollo Cultural y Humanos en Defensa de las Soberanías Nacionales de los Pueblos.
+
+Las y los Ministros de Estado, las y los Presidentes de los Poderes Legislativos, Judicial, Electoral, las y los Presidentes de los Consejos de las Regiones Autónomas, las y los Presidentes de los Partidos Políticos, las y los Alcaldes y las y los Rectores de Institutos de Educación Superior podrán solicitar y proponer al Presidente de la República la concesión de esta Orden conforme a la Ley No. 812 y el presente reglamento.
