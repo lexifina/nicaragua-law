@@ -1,0 +1,3 @@
+# Artículo 28
+
+Servicios Tercerizados bajo la modalidad de ZOFA. Para que una Empresa Usuaria de prestación de servicios tercerizados para la exportación, conforme lo establecido en el inciso 2.1 del Arto. 23 del presente Reglamento, pueda calificar bajo la modalidad de ZOFA, es necesario que cumpla con los requisitos establecidos en la Ley No. 917, este Reglamento y los criterios generales emitidos por la Comisión, a través de Normativas en esta materia, y para ello será factor determinante la oferta de espacio para oficinas disponible en el país, ubicación geográfica y naturaleza del servicio a prestar.

@@ -1,0 +1,3 @@
+# Artículo 12
+
+Presupuesto de la Comisión. Para garantizar la operatividad y administración del Régimen, la Comisión contará con un presupuesto que estará conformado por los ingresos percibidos por el pago de solicitudes de ingreso al régimen de zonas francas, trámites por servicios, depósitos en concepto de garantía, uso de régimen y dirección técnica, que les corresponden enterar a las Empresas de Zonas Francas. El depósito en concepto de garantía será única y exclusivamente para responder por las obligaciones de las Empresas para con la Comisión y será devuelto una vez que la Empresa de Zona Franca deje de hacer uso de este régimen y no tenga obligaciones para con la Comisión.
