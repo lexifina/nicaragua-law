@@ -1,1 +1,7 @@
+- TÍTULO I (antes del artículo 1)
+- TÍTULO II (antes del artículo 15)
+- TÍTULO III (antes del artículo 32)
+- TÍTULO IV (antes del artículo 34)
+- TÍTULO V (antes del artículo 38)
+- TÍTULO VI (antes del artículo 39)
 - DISPOSICIONES FINALES Y TRANSITORIAS (antes del artículo 39)
