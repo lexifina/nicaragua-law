@@ -1,0 +1,11 @@
+# Artículo 770
+
+Reclamación por el total de lo adeudado en caso de vencimiento anticipado por falta de pago de una de las cuotas
+
+Cuando las partes hubieran pactado que la falta de pago de una de las cuotas provoca el vencimiento anticipado del plazo para el pago de la totalidad de la deuda, y dicha cláusula constara en la escritura de constitución de la garantía real o en documento público aparte, debidamente inscrito en el Registro Público de la Propiedad Inmueble y Mercantil, la parte acreedora podrá instar la ejecución para reclamar la totalidad de los saldos debidos, en concepto de principal e intereses pendientes de pago, señalándose el monto por este concepto en el despacho de ejecución.
+
+Cuando se solicitara la ampliación de la ejecución en la forma prevista en este Código, la parte acreedora podrá también pedir que, sin perjuicio de que la ejecución se despache por la totalidad de la deuda, se comunique a la parte deudora que, hasta el día señalado para la celebración de la subasta, tiene la posibilidad de depositar o pagar la cantidad exacta por el principal y los intereses que estuvieren vencidos a la fecha de presentación de la solicitud de ejecución, ampliándose la misma con las cuotas e intereses que se vayan venciendo y no hayan sido pagados. Si la parte ejecutada no deposita o paga las cuotas reclamadas, continuará la ejecución por la totalidad de lo debido, conforme al párrafo anterior.
+
+Cuando el bien hipotecado fuera la vivienda de uso familiar de la parte deudora, ésta podrá hacer valer, aun sin el consentimiento de la parte acreedora, la posibilidad prevista en el párrafo siguiente, depositando las cantidades de plazo vencido. Esta facultad, la parte deudora podrá hacerla valer también en una segunda y última ocasión.
+
+El depósito o pago regulado en los dos párrafos anteriores, podrá efectuarse hasta el mismo día señalado para la subasta. Si cumple los requisitos señalados en este artículo, el depósito o pago dará lugar a la liquidación de las costas; una vez satisfechas estas, la autoridad judicial dictará auto poniéndole fin a la ejecución. Lo mismo se acordará cuando el pago lo realice un tercero con el consentimiento de la parte ejecutante.
