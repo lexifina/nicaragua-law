@@ -1,0 +1,15 @@
+# Artículo 37
+
+Pago del crédito cedido o gravado, notificación y prueba razonable de la garantía o cesión en garantía
+
+El deudor del crédito dado en garantía puede extinguir su obligación pagando al cedente o garante a menos que haya sido notificado, que deba realizar el pago al acreedor garantizado. Una vez recibida la notificación si el cedente recibe o acepta las prestaciones, será responsable de los daños y perjuicios, sin perjuicio de la obligación que tiene el deudor del crédito en garantía o cedido de efectuar nuevamente el pago.
+
+La notificación al deudor del crédito podrá realizarse por cualquier medio de comunicación escrito, incluyendo correo ordinario o certificado o correo electrónico. Para que dicha notificación sea efectiva, deberá identificar el crédito respecto al cual se solicita el pago, e incluir instrucciones de pago suficientes para que el deudor del mismo pueda cumplir con la obligación.
+
+Salvo pacto en contrario, el acreedor garantizado o cesionario de créditos en garantía entregará dicha notificación después de que ocurra un incumplimiento de las obligaciones del garante o cedente que le autorice la ejecución de la garantía. Por lo anterior, el acreedor garantizado deberá notificar al deudor garante su incumplimiento y el saldo insoluto garantizado, así como que procederá a requerir de pago a los deudores de la cartera cedida en garantía que presenten situación de incumplimiento, y a los que estén al día les notificará que los subsiguientes pagos se hagan a su favor.
+
+Si al momento de la notificación del acreedor garantizado o cesionario de créditos en garantía al deudor del crédito existiere un saldo a favor del garante o cedente, el pago de dicho saldo deberá efectuarse al acreedor garantizado o cesionario de créditos en garantía. El pago de cualquier saldo debido al deudor garante en el momento o después de ser notificado por el acreedor garantizado que es a él a quien debe realizar el pago, obliga al deudor del crédito cedido, a pagar el saldo al acreedor garantizado.
+
+En el momento de la notificación el deudor del crédito podrá solicitar al acreedor garantizado o cesionario prueba razonable de la existencia del contrato de cesión o contrato de garantía mobiliaria. De no proporcionarse dicha prueba dentro de los tres días después de que el acreedor garantizado recibió dicha solicitud, el deudor del crédito podrá hacer el pago al garante o cedente. Por prueba razonable de la cesión o garantía se entenderá el contrato de cesión o de garantía mobiliaria o cualquier prueba equivalente en que se indique que el crédito o créditos han sido cedidos o gravados.
+
+El acreedor garantizado deberá cesar la recepción de pagos de los deudores de la cartera en garantía una vez satisfaga el saldo debido a su favor de un crédito particular cedido en garantía. De continuar recibiendo pagos en exceso, será responsable de la devolución de dichas sumas al deudor garante más los daños y perjuicios. El acreedor garantizado deberá informar mensualmente al deudor garante las sumas recibidas en pago de los deudores de los créditos en garantía.

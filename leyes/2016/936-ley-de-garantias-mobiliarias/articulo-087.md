@@ -1,0 +1,7 @@
+# Artículo 87
+
+Unificación de garantías mobiliarias
+
+La presente ley regula, bajo el concepto genérico y unitario de garantía mobiliaria, a todas las garantías sobre bienes muebles regidas hasta ahora en forma dispersa por la legislación de la República de Nicaragua. En consecuencia, en las leyes vigentes, toda referencia a la prenda civil, mercantil, comercial, agraria o industrial, con o sin desplazamientos, u otras garantías reales constituidas sobre bienes muebles y derechos dentro del campo de aplicación de esta Ley, se considera una referencia a una garantía mobiliaria comprendida en el ámbito de aplicación de esta ley.
+
+Todo contrato de garantía que afecte bienes y derechos definidos en esta Ley, se regirá por esta ley, aunque las partes denominen al contrato o a la garantía “prenda” o “hipoteca” o cualquier otra denominación. El concepto de garantía mobiliaria comprenderá a aquellos contratos, pactos o cláusulas comúnmente utilizados para garantizar obligaciones respecto de bienes muebles y derechos, tales como: la venta con reserva de dominio, los fideicomisos en garantía, la prenda flotante de establecimiento comercial o de fondo de comercio, el descuento de créditos o cuentas por cobrar en los libros del acreedor, el arrendamiento financiero, el factoraje, la concesión en garantía y cualquiera otra garantía mueble o derechos, contemplada o no prohibida en la legislación vigente con anterioridad a la presente Ley.
