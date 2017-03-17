@@ -1,0 +1,3 @@
+# Artículo 39
+
+Aclaraciones a la Evaluación de la Comisión de Evaluación. Durante el plazo para la evaluación de las ofertas el Comité de Evaluación deberá dar a conocer el informe de evaluación a los oferentes, antes de vencerse los dos tercios del plazo de evaluación, para que los oferentes participantes puedan solicitar las aclaraciones que consideren pertinentes en un plazo no mayor de cinco (5) días luego de recibido el informe de evaluación. Las aclaraciones deberán ser atendidas por el Comité en el Acta de Evaluación y Recomendación de Adjudicación que deberá notificarse a la máxima autoridad administrativa y a todos los oferentes participantes.

@@ -1,0 +1,3 @@
+# Artículo 44
+
+La Readjudicación. La Readjudicación podrá realizarse conforme el orden de prelación que hubieren sido calificados los oferentes cuando el adjudicado original haya sido notificado para firmar el contrato y no lo hiciere dentro del plazo fijado en la notificación por la Institución Contratante o no presentare la documentación necesaria para la formalización del contrato. Asimismo, cuando por cualquier razón termine anticipadamente el contrato sin haber ejecutado la fase de construcción, la Institución contratante podrá optar por adjudicar el contrato al siguiente oferente de la prelación, en cuyo caso se ajustará proporcionalmente el valor de su oferta.
