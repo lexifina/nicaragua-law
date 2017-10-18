@@ -1,0 +1,23 @@
+# Artículo 2
+
+Adición
+
+Se adiciona un nuevo artículo después del artículo 61 a la Ley Nº. 735, Ley de Prevención, Investigación y Persecución del Crimen Organizado y de la Administración de los Bienes Incautados, Decomisados y Abandonados, numerado 61 bis, el que se leerá así:
+
+"Artículo 61 bis Retención, incautación, secuestro y ocupación de bienes, objetos, productos o instrumentos, otorgados en garantía a una institución financiera o bancaria o propiedad de éstas
+
+En los casos en que la retención, incautación, secuestro u ocupación de bienes, objetos, productos o instrumentos, recaiga sobre bienes o derechos que hayan sido otorgados en garantía para respaldar obligaciones de crédito o que estén vinculados contractualmente a cualquier tipo de operaciones financieras o bancarias o sean los mismos propiedad de instituciones financieras bancarias, o de microfinanzas, sujetas a la supervisión y regulación de la Superintendencia de Bancos y de Otras Instituciones Financieras (SIBOIF) o de la Comisión Nacional de Microfinanzas, en su caso, la afectación a los bienes o derechos se hará en favor de las mismas una vez que acrediten tal condición.
+
+A tales efectos las instituciones financieras, bancarias o de microfinanzas deberán constituirse ante el Ministerio Público y ante el Juez competente para realizar las solicitudes que resulten pertinentes, acreditando la vinculación con los bienes o derechos que sean objeto de las medidas establecidas en el párrafo anterior.
+
+Si el Ministerio Público o el Juez tuvieren conocimiento que los bienes o derechos objeto de dichas medidas están vinculadas a instituciones financieras, bancarias o de microfinanzas supervisadas por la SIBOIF o por la Comisión Nacional de Microfinanzas, en su caso, dichas autoridades deberán notificarles los datos registrales o de identificación de los mismos a las instituciones financieras o bancarias relacionadas, a efectos de que éstas verifiquen si los bienes o derechos referidos fueron recibidos como garantía para respaldar las obligaciones de crédito, o que estén vinculados contractualmente a cualquier tipo de operaciones financieras o bancarias contraídas en el ámbito de su naturaleza jurídica o son de su propiedad.
+
+En ambos casos, la autoridad judicial en única audiencia que celebre para tal fin con las partes, ordenará, cuando proceda legalmente, de forma inmediata y sin ulterior trámite la cancelación de la inmovilización registral y la entrega solicitada para que las instituciones financieras, bancarias o de microfinanzas, procedan a la ejecución, realización o registro, en su caso, de sus garantías de conformidad con sus contratos en la vía legal correspondiente.
+
+En cualquier caso, una vez satisfecha la obligación crediticia el Juez, conforme el procedimiento establecido en la Ley Nº. 902, Código Procesal Civil de la República de Nicaragua, deberá entregar el remanente, en caso que lo hubiere, a la unidad administradora de bienes incautados, decomisados o abandonados, informando de esta circunstancia al Juez de la causa penal y al Ministerio Público, para que solicite el decomiso del remanente según corresponda, en el proceso penal antes de la sentencia firme.
+
+El procedimiento contenido en el presente artículo se aplicará sin reserva de ninguna naturaleza.
+
+Así mismo las disposiciones del presente artículo también serán aplicables a los bienes y derechos relacionados en los artículos 44 y 51 de esta Ley, siempre que estos hayan sido otorgados en garantía para respaldar obligaciones de créditos o que estén vinculados contractualmente a cualquier tipo de operaciones financieras o bancarias de las instituciones sujetas a la supervisión y regulación de la Superintendencia de Bancos y de Otras Instituciones Financieras (SIBOIF) o de la Comisión Nacional de Microfinanzas, en su caso, o sean los mismos propiedad de éstas.
+
+Sin perjuicio de lo anterior, todas las instituciones financieras deben de aplicar medidas de debida diligencia para el conocimiento de sus clientes y usuarios con quienes establezcan relaciones comerciales; así mismo, deben mantener a disposición de la autoridad competente y por un plazo mínimo de cinco años, todos los registros sobre las transacciones y la información obtenida mediante la aplicación de esas medidas de debida diligencia; y deben de enviar reporte de operaciones sospechosas a la autoridad competente, cuando la institución financiera así lo determine producto del monitoreo de esas relaciones comerciales. Todo lo anterior, conforme lo desarrollen las normativas específicas de sus respectivas instituciones de regulación y supervisión."
