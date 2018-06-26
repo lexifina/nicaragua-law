@@ -1,0 +1,3 @@
+Dado en la Ciudad de Managua, Casa de Gobierno, República de Nicaragua, el día cinco de junio del año dos mil dieciocho. Daniel Ortega Saavedra, Presidente de la República de Nicaragua. Paul Oquist Kelley, Secretario Privado para Políticas Nacionales.
+
+.
