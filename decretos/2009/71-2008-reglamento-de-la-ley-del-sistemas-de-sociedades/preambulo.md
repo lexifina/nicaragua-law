@@ -1,14 +1,14 @@
-REGLAMENTO DE LA LEY DEL SISTEMA DE SOCIEDADES DE GARANTÍAS RECÍPROCAS PARA LAS MICRO, PEQUEÑA Y MEDIANA EMPRESA
+TEXTO CONSOLIDADO, DECRETO EJECUTIVO N°. 71-2008, REGLAMENTO DE LA LEY DEL SISTEMA DE SOCIEDADES DE GARANTÍAS RECÍPROCAS PARA LAS MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
-DECRETO EJECUTIVO N°. 71-2008, aprobado el 06 de noviembre de 2008
+DECRETO EJECUTIVO N°. 71-2008, aprobado el 10 de mayo de 2018
 
-Publicado en La Gaceta, Diario Oficial N°. 49 del 12 de marzo de 2009
+Publicado en La Gaceta, Diario Oficial N°. 164 del 27 de agosto de 2018
 
-Gobierno de Reconciliación y Unidad Nacional
+DIGESTO JURÍDICO NICARAGÜENSE DE LA MATERIA DE BANCA Y FINANZAS
 
-Unida Nicaragua Triunfa
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 10 de mayo del 2018, del Decreto Ejecutivo N°. 71-2008, “Reglamento de la Ley del Sistema de Sociedades de Garantías Recíprocas para las Micro, Pequeña y Mediana Empresa”, aprobado el 6 de noviembre de 2008 y publicado en La Gaceta, Diario Oficial N°. 49 del 12 de marzo de 2009, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, “Ley del Digesto Jurídico Nicaragüense”, publicada en La Gaceta, Diario Oficial N°. 203 del 25 de octubre de 2017 y la Ley N°. 974, “Ley del Digesto Jurídico Nicaragüense de la Materia de Banca y Finanzas” aprobada el 10 de mayo del 2018.
 
-DECRETO Nº 71-2008
+DECRETO N°. 71-2008
 
 El Presidente de la República de Nicaragua
 
@@ -16,11 +16,11 @@ CONSIDERANDO
 
 I.
 
-Que la Constitución Política de la República de Nicaragua, señala en su artículo 98 que "La función principal del Estado en la economía es desarrollar materialmente el país; suprimir el atraso y las dependencias heredados; mejorar las condiciones de vida del pueblo y realizar una distribución cada vez más justa de la riqueza."
+Que la Constitución Política de la República de Nicaragua, señala en su Artículo 98 que “La función principal del Estado en la economía es desarrollar materialmente el país; suprimir el atraso y las dependencias heredados; mejorar las condiciones de vida del pueblo y realizar una distribución cada vez más justa de la riqueza.”
 
 II.
 
-Que la Constitución Política de la República de Nicaragua, indica en el párrafo segundo del artículo 99 que "El ejercicio de las actividades económicas corresponde primordialmente a los particulares. Se reconoce el rol protagónico de la iniciativa privada, la cual comprende, en su sentido amplio a grandes, medianas y pequeñas empresas, microempresas, empresas cooperativas, asociativa y otras."
+Que la Constitución Política de la República de Nicaragua, indica en el párrafo segundo del Artículo 99 que “El ejercicio de las actividades económicas corresponde primordialmente a los particulares. Se reconoce el rol protagónico de la iniciativa privada, la cual comprende, en su sentido amplio a grandes, medianas y pequeñas empresas, microempresas, empresas cooperativas, asociativa y otras.”
 
 III.
 
@@ -40,7 +40,7 @@ El siguiente:
 
 DECRETO
 
-REGLAMENTO DE LA LEY DEL SISTEMA DE SOCIEDADES DE GARANTÍAS RECÍPROCAS PARA LAS MICRO, PEQUEÑA Y MEDIANA EMPRESA.
+REGLAMENTO DE LA LEY DEL SISTEMA DE SOCIEDADES DE GARANTÍAS RECÍPROCAS PARA LAS MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
 CAPÍTULO I
 

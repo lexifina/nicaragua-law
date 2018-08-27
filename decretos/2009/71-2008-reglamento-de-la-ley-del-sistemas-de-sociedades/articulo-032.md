@@ -1,6 +1,8 @@
 # Artículo 32
 
-Atribuciones. La comisión técnica, contará con las siguientes atribuciones:
+Atribuciones.
+
+La comisión técnica, contará con las siguientes atribuciones:
 
 a) Aprobar o denegar las solicitudes de participación del fondo como socio protector en las sociedades de garantías y de reaval.
 

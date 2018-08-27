@@ -1,6 +1,6 @@
 # Artículo 21
 
-Causales de exclusión:
+Causales de exclusión.
 
 a) Por interdicción civil o pérdida de sus derechos civiles y políticos producto de sentencia firme.
 
@@ -8,7 +8,7 @@ b) Cuando la sociedad se hubiera visto obligada a pagar en virtud de la garantí
 
 c) Por violaciones a lo establecido a la Ley y su reglamento y los estatutos de la SGR.
 
-d) Cuando los socios siendo cual fuese su condición incurran dentro de los establecido en los artículos 13 y 14 del presente reglamento.
+d) Cuando los socios siendo cual fuese su condición incurran dentro de los establecido en los Artículos 13 y 14 del presente Reglamento.
 
 e) No cumplir con las resoluciones del órgano regulador y órgano de gobierno.
 

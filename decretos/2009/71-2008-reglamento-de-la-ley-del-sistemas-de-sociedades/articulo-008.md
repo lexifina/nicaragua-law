@@ -1,6 +1,8 @@
 # Artículo 8
 
-Funciones de los Miembros del Órgano Regulador: Son funciones de los Miembros del Órgano Regulador:
+Funciones de los Miembros del Órgano Regulador.
+
+Son funciones de los Miembros del Órgano Regulador:
 
 1. Participar en las sesiones ordinarias y extraordinarias, en la toma de decisiones y emisión de resoluciones del Órgano regulador con voz y voto.
 

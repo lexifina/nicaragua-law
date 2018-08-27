@@ -1,6 +1,8 @@
 # Artículo 26
 
-Efectos de la Exclusión de un Socio. La exclusión de un socio tendrá los efectos siguientes:
+Efectos de la Exclusión de un Socio.
+
+La exclusión de un socio tendrá los efectos siguientes:
 
 a) El acuerdo de la Asamblea General de Socios por el cual se le excluya de la sociedad le otorgará el derecho al reembolso de las participaciones sociales, una vez extinguidas en su caso las obligaciones a cuyas garantías se hallaban afectadas;
 
