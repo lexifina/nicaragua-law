@@ -6,4 +6,4 @@ Cuando haya más de un beneficiario, el titular deberá indicar el porcentaje qu
 
 RECURSOS, PRÉSTAMOS Y OTRAS OPERACIONES
 
-Recursos de los Bancos
+Recursos de los bancos.

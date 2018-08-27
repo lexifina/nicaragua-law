@@ -8,4 +8,4 @@ Causa vacante al cargo de director de un banco, cuando:
 
 Las causales anteriores no operan en la medida en que el suplente designado asista a las sesiones.
 
-Gerentes de Bancos Extranjeros
+Gerentes de bancos extranjeros.

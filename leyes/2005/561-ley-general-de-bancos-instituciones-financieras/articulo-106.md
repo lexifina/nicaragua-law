@@ -6,7 +6,7 @@ En la liquidación de una institución financiera constituyen créditos privileg
 
 2. Obligaciones con sus clientes respecto a las operaciones vinculadas a su objeto social.
 
-3. Las contribuciones pendientes de pago a la Superintendencia de Bancos conforme a lo establecido en el artículo 29 de su Ley.
+3. Las contribuciones pendientes de pago a la Superintendencia de Bancos conforme a lo establecido en el Artículo 29 de su Ley.
 
 4. Los que se adeuden por impuestos, tasas y contribuciones.
 
@@ -14,4 +14,4 @@ En la liquidación de una institución financiera constituyen créditos privileg
 
 6. Luego se atenderán otros créditos de acuerdo al orden y forma determinados por el Código Civil.
 
-Imputación de Pago
+Imputación de pago.

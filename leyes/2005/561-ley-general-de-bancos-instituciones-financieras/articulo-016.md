@@ -22,15 +22,15 @@ La cesión de una parte sustancial del balance de una institución bancaria requ
 
 3. Reformas al pacto social.
 
-Cualquier reforma de la escritura de constitución social o estatutos. Se exceptúa la reforma que consista en el aumento del capital social, la cual deberá ser informada al Superintendente. Si el aumento del capital social se debe al ingreso de nuevos accionistas que adquieran el 5% o más del capital, o en el caso de los accionistas actuales que adquieran acciones que sumadas a las que ya posea representen una cantidad igual o mayor al referido porcentaje, se deberá atender lo establecido en el numeral 4, de este artículo.
+Cualquier reforma de la escritura de constitución social o estatutos. Se exceptúa la reforma que consista en el aumento del capital social, la cual deberá ser informada al Superintendente. Si el aumento del capital social se debe al ingreso de nuevos accionistas que adquieran el 5% o más del capital, o en el caso de los accionistas actuales que adquieran acciones que sumadas a las que ya posea representen una cantidad igual o mayor al referido porcentaje, se deberá atender lo establecido en el numeral 4 de este Artículo.
 
-Las reformas referidas en este numeral no requerirán de autorización judicial, bastará con la certificación de la resolución de la junta general de accionistas protocolizada ante notario la cual se inscribirá en el registro público correspondiente.
+Las reformas referidas en este numeral no requerirán de autorización judicial, bastará con la certificación de la resolución de la Junta General de Accionistas protocolizada ante notario la cual se inscribirá en el registro público correspondiente.
 
-4. Para adquirir directamente o a través de terceros, acciones de un banco, que por si solas o sumadas a las que ya posea, o en conjunto con las de sus partes relacionadas, representen una cantidad igual o mayor al 5% del capital de éste.
+4. Para adquirir directamente o a través de terceros, acciones de un banco, que por sí solas o sumadas a las que ya posea, o en conjunto con las de sus partes relacionadas, representen una cantidad igual o mayor al 5% del capital de este.
 
-Quedarán en suspenso los derechos sociales del nuevo accionista, mientras no obtenga la autorización del Superintendente impuesta por este artículo.
+Quedarán en suspenso los derechos sociales del nuevo accionista, mientras no obtenga la autorización del Superintendente impuesta por este Artículo.
 
-El Superintendente solo podrá denegar la autorización, por resolución fundada, si el peticionario no cumple con los requisitos de información indicados en el numeral 4 y de solvencia e integridad a que se refiere el numeral 6, ambos del artículo 4 de esta Ley.
+El Superintendente solo podrá denegar la autorización, por resolución fundada, si el peticionario no cumple con los requisitos de información indicados en el numeral 4 y de solvencia e integridad a que se refiere el numeral 6, ambos del Artículo 4 de esta Ley.
 
 El Superintendente deberá pronunciarse en un plazo de 30 días hábiles contados desde la fecha en que se le hayan suministrado completa la información a que se refiere el párrafo anterior. Si no hubiere respuesta dentro del plazo antes señalado se entenderá por autorizada la transacción.
 
@@ -38,4 +38,4 @@ Las adquisiciones de porcentajes menores al indicado en el primer párrafo de es
 
 CAPITAL, RESERVAS Y UTILIDADES
 
-Capital Social Mínimo
+Capital social mínimo.

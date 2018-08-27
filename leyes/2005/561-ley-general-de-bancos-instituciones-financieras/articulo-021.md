@@ -4,4 +4,4 @@ Los bancos, inclusive las sucursales de bancos extranjeros, deberán constituir 
 
 Cada vez que la reserva de capital de un banco o sucursal de banco extranjero alcanzare un monto igual al de su capital social pagado o asignado y radicado, el 40% de dicha reserva de capital se convertirá automáticamente en capital social pagado o asignado, según el caso, emitiéndose, cuando se trate de un banco, nuevas acciones que se distribuirán entre los accionistas existentes, en proporción al capital aportado por cada uno.
 
-Aumento del Capital Social
+Aumento del capital social.

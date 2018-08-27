@@ -6,4 +6,4 @@ Los depósitos de ahorro de personas naturales, que tengan por lo menos seis mes
 
 Cuando se tratare de solventar créditos concedidos por el banco depositario a un depositante y estos se encuentren en mora, el banco podrá hacerse pago con los depósitos que el deudor mantenga en la institución hasta por la cantidad de los créditos insolutos.
 
-Intereses y Otros Beneficios. Su Capitalización
+Intereses y otros beneficios. Su capitalización.

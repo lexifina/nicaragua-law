@@ -2,7 +2,7 @@
 
 Además de lo establecido en otros artículos de esta Ley, son deberes del liquidador:
 
-1. Avisar inmediatamente a todos los bancos, personas naturales o jurídicas, radicadas en el país o en el extranjero, que sean deudoras o posean fondos o bienes de la institución en liquidación, para que no efectúen pagos sin o con intervención del liquidador, para que devuelvan los bienes pertenecientes a la institución y para que no asuman nuevas obligaciones por cuenta de la misma.
+1. Avisar inmediatamente a todos los bancos, personas naturales o jurídicas, radicadas en el país o en el extranjero, que sean deudoras o posean fondos o bienes de la institución en liquidación, para que no efectúen pagos sino con intervención del liquidador, para que devuelvan los bienes pertenecientes a la institución y para que no asuman nuevas obligaciones por cuenta de la misma.
 
 2. Avisar a los Registros Públicos para las anotaciones a que haya lugar.
 
@@ -24,7 +24,7 @@ Además de lo establecido en otros artículos de esta Ley, son deberes del liqui
 
 11. Depositar diariamente en depósitos a la vista a su orden en un banco la suma que hubiere recibido.
 
-12. Convocar a reuniones de acreedores para conocer lo que éstos tengan que alegar sobre sus créditos, por medio de un aviso que será publicado en “La Gaceta”, Diario Oficial y de un diario de circulación nacional, por lo menos dos veces consecutivas, debiendo mediar entre la primera publicación del aviso en “La Gaceta” y el día de la reunión no menos de quince (15) días.
+12. Convocar a reuniones de acreedores para conocer lo que estos tengan que alegar sobre sus créditos, por medio de un aviso que será publicado en “La Gaceta”, Diario Oficial y de un diario de circulación nacional, por lo menos dos veces consecutivas, debiendo mediar entre la primera publicación del aviso en “La Gaceta” y el día de la reunión no menos de quince (15) días.
 
 13. Formular una cuenta distributiva cada vez que hubiere fondos suficientes para repartir por lo menos un dos por ciento (2%) de la masa sujeta a liquidación entre los acreedores cuyos créditos hubiesen sido aprobados.
 
@@ -38,8 +38,8 @@ Además de lo establecido en otros artículos de esta Ley, son deberes del liqui
 
 18. Contratar empresas especializadas en la liquidación de activos, mediante el pago de comisiones consistentes en un porcentaje del precio de realización, cuando dicho procedimiento resulte más eficiente, previa aprobación del Superintendente.
 
-19. Dar en dación en pago, parcial o total, activos sujetos a liquidación, a los acreedores con prelación de pago, siempre que éstos lo acepten y que el precio no sea menor que el avalúo encargado por el Liquidador. Sin embargo dicho avalúo podrá ser revisado y ajustado, previa autorización del Superintendente, cuando su valor hubiere sufrido variación por cualquier causa o cuando las condiciones del mercado así lo demanden.
+19. Dar en dación en pago, parcial o total, activos sujetos a liquidación, a los acreedores con prelación de pago, siempre que estos lo acepten y que el precio no sea menor que el avalúo encargado por el Liquidador. Sin embargo dicho avalúo podrá ser revisado y ajustado, previa autorización del Superintendente, cuando su valor hubiere sufrido variación por cualquier causa o cuando las condiciones del mercado así lo demanden.
 
 20. Efectuar todos los demás actos que estime conveniente con el fin de llevar a cabo la liquidación en la mejor forma posible.
 
-Acción Legal contra Directores y Funcionarios
+Acción legal contra directores y funcionarios.

@@ -1,10 +1,10 @@
 # Artículo 88
 
-El Superintendente de Bancos con base en el conocimiento que obtenga sobre la situación de un banco, bien mediante las inspecciones a que se refieren los artículos anteriores, bien por el análisis de la documentación e información de que disponga podrá ordenar, sin perjuicio de las sanciones que correspondan, cualquiera de las medidas que se autorizan en el segundo párrafo de este artículo, cuando dicho banco incurra en alguna de las siguientes situaciones que represente peligro para sus depositantes y acreedores, o que comprometa su liquidez y solvencia sin que amerite el establecimiento de planes de normalización o las medidas de intervención o liquidación del banco según lo establecido en la presente Ley:
+El Superintendente de Bancos con base en el conocimiento que obtenga sobre la situación de un banco, bien mediante las inspecciones a que se refieren los artículos anteriores, bien por el análisis de la documentación e información de que disponga podrá ordenar, sin perjuicio de las sanciones que correspondan, cualquiera de las medidas que se autorizan en el segundo párrafo de este Artículo, cuando dicho banco incurra en alguna de las siguientes situaciones que represente peligro para sus depositantes y acreedores, o que comprometa su liquidez y solvencia sin que amerite el establecimiento de planes de normalización o las medidas de intervención o liquidación del banco según lo establecido en la presente Ley:
 
-1. Déficit de encaje u otros indicadores que constituyan manifestaciones de iliquidez o que comprometan el pago de sus obligaciones.
+1. Déficits de encaje u otros indicadores que constituyan manifestaciones de iliquidez o que comprometan el pago de sus obligaciones.
 
-2. Pérdidas de capitales actuales o inminentes.
+2. Pérdidas de capital actuales o inminentes.
 
 3. Irregularidades de tipo administrativo y gerencial o en la conducción de sus negocios.
 
@@ -36,6 +36,6 @@ En presencia de alguna de las situaciones del párrafo anterior, el Superintende
 
 10. Ordenar al banco la capitalización inmediata de la deuda subordinada, o en su defecto, la suspensión del pago de intereses sobre dicha deuda mientras subsistan las circunstancias que dieron origen a la orden. Para tales efectos, los contratos de deuda subordinada para ser considerados como capital secundario deberán incorporar una cláusula que autorice al Superintendente a ejecutar lo antes expresado.
 
-11. Las demás que sean necesarias, de conformidad con la Ley y regulaciones aplicables, para subsanar la situación anómala detectada por el Superintendente.
+11. Las demás que sean necesarias, de conformidad con la ley y regulaciones aplicables, para subsanar la situación anómala detectada por el Superintendente.
 
-Planes de Normalización: Causales y Plazo
+Planes de Normalización: causales y plazo.

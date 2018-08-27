@@ -2,4 +2,4 @@
 
 El acreedor bancario podrá repetir por el saldo insoluto, en los términos de las leyes comunes.
 
-Exención de Fianza
+Exención de fianza.

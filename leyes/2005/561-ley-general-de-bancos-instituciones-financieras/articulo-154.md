@@ -4,4 +4,4 @@ Las deficiencias patrimoniales que se reflejen en los estados financieros de un 
 
 MEDIDAS PREVENTIVAS, INTERVENCIÓN Y LIQUIDACIÓN
 
-Medidas Preventivas para un Grupo Financiero
+Medidas Preventivas para un Grupo Financiero.

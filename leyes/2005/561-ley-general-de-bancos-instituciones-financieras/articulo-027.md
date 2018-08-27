@@ -6,6 +6,6 @@ Los acuerdos y resoluciones de las juntas directivas de los bancos constarán en
 
 La Junta Directiva, con carácter excepcional, y una vez cumplidos los requisitos legales, podrá celebrar sesiones sin necesidad de reunión física de sus miembros, a través de la comunicación entre ellos por correo electrónico, teléfono, fax o por cualquier otro medio de comunicación que evidencie la participación, identificación y decisión de los participantes. En este caso, el Secretario deberá constatar lo anterior, levantando el acta correspondiente, en la que se incorpore los asuntos y las resoluciones tomadas, misma que deberá ser suscrita por el presidente y el secretario de la Junta Directiva. Los demás directores deberán, en su oportunidad, ratificar en documento aparte, con su firma su participación en la respectiva sesión.
 
-Las certificaciones de las actas deberán ser libradas por el Secretario de Junta Directiva, o por un notario público designado por dicha Junta.
+Las certificaciones de las actas deberán ser libradas por el Secretario de la Junta Directiva, o por un notario público designado por dicha Junta.
 
-Requisitos para ser Director
+Requisitos para ser director.

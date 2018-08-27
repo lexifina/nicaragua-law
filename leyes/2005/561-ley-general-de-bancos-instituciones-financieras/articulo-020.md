@@ -20,7 +20,7 @@ g) Participaciones minoritarias, solamente en el caso de estados financieros con
 
 A los preceptos anteriores se le restará o deducirá el valor en libro de la plusvalía mercantil comprada, según los parámetros establecidos por el Consejo Directivo mediante norma de aplicación general.
 
-2) El capital secundario está conformado por lo siguiente:
+2. El capital secundario está conformado por lo siguiente:
 
 a) Donaciones y otras contribuciones no capitalizables, según regulación establecida por el Consejo Directivo mediante norma general.
 
@@ -36,7 +36,9 @@ f) Deuda subordinada e instrumentos híbridos de capital, según regulación est
 
 g) Provisiones genéricas, según regulación establecida por el Consejo Directivo mediante norma general.
 
-A la base de cálculo del capital, se le debe restar o deducir lo siguiente: Cualquier ajuste pendiente de constituir y el valor en libros de las participaciones y obligaciones en subsidiarias y asociadas. Esto último, según regulación establecida por el Consejo Directivo mediante norma general.
+A la base de cálculo del capital, se le debe restar o deducir lo siguiente:
+
+Cualquier ajuste pendiente de constituir y el valor en libros de las participaciones y obligaciones en subsidiarias y asociadas. Esto último, según regulación establecida por el Consejo Directivo mediante norma general.
 
 La proporción que puede ocupar el capital secundario en la base de cálculo nunca podrá ser superior al ciento por ciento (100%) del capital primario. Asimismo, la proporción que puede ocupar la deuda subordinada en el capital secundario nunca podrá ser superior al cincuenta por ciento (50%) del capital primario, según regulación establecida por el Consejo Directivo mediante norma general.
 
@@ -44,4 +46,4 @@ Asimismo, en ningún caso, la suma del capital secundario y cualquier otra subdi
 
 El Consejo Directivo está facultado para establecer mediante normas de aplicación general componentes adicionales a la base de cálculo del capital. Así mismo, podrá establecer deducciones adicionales a las ya establecidas a las distintas clasificaciones de capital.
 
-Reservas de Capital y Otros
+Reservas de capital y otros.

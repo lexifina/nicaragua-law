@@ -8,6 +8,6 @@ La institución financiera será sancionada con una multa de cinco mil hasta ses
 
 2) No cumplan con la obligación de reportar a la autoridad competente, según la ley de la materia, las operaciones o transacciones inusuales que sean sospechosas de constituir Lavado de Dinero.
 
-El director, gerente, funcionario, oficial de cumplimiento o cualquier otro empleado de la institución, que divulgue o informe al cliente que su transacción está siendo analizada o considerada para un posible reporte de operación sospechosa de Lavado de Dinero o que le informe que se presentó dicho reporte, será sancionado con una multa equivalente entre cuatro y ocho veces su salario mensual. En el caso de los directores, la multa será entre diez y cincuenta mil unidades de multa. Lo anterior es sin perjuicio de la remoción del cargo en caso de reincidencia.
+El director, gerente, funcionario, oficial de cumplimiento o cualquier otro empleado de la institución, que divulgue o informe al cliente que su transacción está siendo analizada o considerada para un posible reporte de operación sospechosa de Lavado de Dinero o que le informe que se presentó dicho reporte, será sancionado con una multa equivalente entre cuatro y ocho veces su salario mensual. En el caso de los directores, la multa será entre diez y cincuenta mil unidades de multa. Lo anterior es sin perjuicio de la remoción del cargo en caso de reincidencia.Artículo 164, reformado por la Ley N°. 1078, publicada el 26/08/2021
 
-Sanción por Incumplimiento de Reservas Obligatorias
+Sanción por incumplimiento de reservas obligatorias.

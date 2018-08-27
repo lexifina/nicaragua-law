@@ -4,4 +4,4 @@ La publicidad y propaganda que empleen los bancos serán de forma tal que no ind
 
 En los casos en que el Superintendente de Bancos observare que la publicidad o propaganda empleada no reúne estas condiciones o se presentaren quejas fundadas al respecto, podrá ordenar la respectiva corrección, suspender o cancelar la publicidad o propaganda.
 
-Incorporación de Sistemas Computarizados y Otros. Valor de las Copias
+Incorporación de sistemas computarizados y otros. Valor de las copias.

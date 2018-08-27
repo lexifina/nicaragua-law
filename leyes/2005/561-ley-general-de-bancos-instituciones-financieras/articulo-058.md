@@ -4,4 +4,4 @@ El Consejo Directivo de la Superintendencia podrá regular mediante normas gener
 
 PRIVILEGIOS LEGALES Y PROCEDIMIENTOS
 
-Privilegios de las Obligaciones a Favor de los Bancos
+Privilegios de las obligaciones a favor de los Bancos.

@@ -6,4 +6,4 @@ Las disposiciones del presente Título son aplicables tanto a los grupos financi
 
 FUSIÓN, INVERSIONES Y ESTABILIDAD DEL GRUPO Y SUS MIEMBROS
 
-Fusión, Incorporación y Separación
+Fusión, incorporación y separación.

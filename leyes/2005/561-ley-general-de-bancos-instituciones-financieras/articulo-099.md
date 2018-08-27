@@ -8,6 +8,6 @@ Cualquier embargo, secuestro o retención recaído sobre los activos de una inst
 
 Asimismo, las instituciones financieras en liquidación estarán exentas del pago del Impuesto sobre la Renta, sobre los bienes inmuebles que enajenen como parte del proceso de liquidación forzosa, así como de cualquier impuesto fiscal o municipal que graven dichas operaciones.
 
-Cualquier acto en contravención a lo dispuesto en este artículo será nulo.
+Cualquier acto en contravención a lo dispuesto en este Artículo será nulo.
 
-Vigilancia y Fiscalización del Liquidador. Sus Resoluciones
+Vigilancia y fiscalización del liquidador. Sus resoluciones.

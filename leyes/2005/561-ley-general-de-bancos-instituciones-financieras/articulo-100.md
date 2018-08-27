@@ -4,4 +4,4 @@ El liquidador en sus actuaciones estará sujeto a la vigilancia y fiscalización
 
 Las resoluciones que dicte el liquidador en el ejercicio de su cargo serán apelables en el efecto devolutivo ante el Tribunal de Apelaciones competente. Contra la resolución del Tribunal no cabe recurso alguno, salvo el de aclaración o reposición.
 
-Protección Legal
+Protección legal.

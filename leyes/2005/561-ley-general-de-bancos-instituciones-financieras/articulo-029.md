@@ -2,13 +2,13 @@
 
 No podrán ser miembros de la Junta Directiva de un banco:
 
-1. las personas que directa o indirectamente sean deudores morosos por más de noventa (90) días o por un número de tres veces durante un período de doce meses, de cualquier banco o institución sujeta a la vigilancia de Superintendencia de Bancos o que hubiesen sido declarados judicialmente en estado de insolvencia, concurso o quiebra. El Consejo Directivo de Superintendencia podrá dictar normas de aplicación general para regular lo indicado en este numeral.
+1. Las personas que directa o indirectamente sean deudores morosos por más de noventa (90) días o por un número de tres veces durante un período de doce meses, de cualquier banco o institución sujeta a la vigilancia de la Superintendencia de Bancos o que hubiesen sido declarados judicialmente en estado de insolvencia, concurso o quiebra. El Consejo Directivo de la Superintendencia podrá dictar normas de aplicación general para regular lo indicado en este numeral.
 
 2. Los que con cualquier otro miembro de la Directiva del banco fueren cónyuges o compañero o compañera en unión de hecho estable, o tuviesen relación de parentesco dentro del segundo grado de consanguinidad o segundo de afinidad. No se incurrirá en esta causal cuando la relación exista entre un director propietario y su respectivo suplente;
 
-3. Los directores, gerentes, funcionarios, mandatarios o empleados cualquier otra institución financiera supervisada que pertenezcan a otro grupo financiero;
+3. Los directores, gerentes, funcionarios, mandatarios o empleados de cualquier otra institución financiera supervisada que pertenezcan a otro grupo financiero;
 
-4. Los Gerentes, funcionarios ejecutivos y empleados del mismo Banco, con excepción del Ejecutivo principal;
+4. Los Gerentes, funcionarios ejecutivos y empleados del mismo banco, con excepción del Ejecutivo principal;
 
 5. Los que directa o indirectamente sean titulares, socios o accionistas que ejerzan control accionario o administrativo sobre sociedades que tengan créditos vencidos por más de noventa (90) días o por un número de tres veces durante un período de doce meses, o que estén en cobranza judicial en la misma empresa o en otra del Sistema Financiero;
 
@@ -18,4 +18,4 @@ No podrán ser miembros de la Junta Directiva de un banco:
 
 8. Los que hayan sido condenados por delitos de naturaleza dolosa que merezcan penas más que correccionales.
 
-Efectos del Artículo Anterior
+Efectos del Artículo anterior.

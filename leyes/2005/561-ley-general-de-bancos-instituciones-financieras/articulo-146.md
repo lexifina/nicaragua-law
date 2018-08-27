@@ -4,4 +4,4 @@ Los organismos fiscalizadores de las empresas integrantes del grupo financiero p
 
 EMPRESAS FINANCIERAS DE RÉGIMEN ESPECIAL
 
-Objeto Social
+Objeto social.

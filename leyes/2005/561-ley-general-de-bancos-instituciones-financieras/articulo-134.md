@@ -6,4 +6,4 @@ DE LOS GRUPOS FINANCIEROS
 
 ORGANIZACIÓN, AUTORIZACIÓN Y SUPERVISIÓN CONSOLIDADA
 
-Definición y Organización de los Grupos Financieros
+Definición y organización de los Grupos Financieros.

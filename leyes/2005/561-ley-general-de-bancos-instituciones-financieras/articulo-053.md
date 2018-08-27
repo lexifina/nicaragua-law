@@ -34,8 +34,10 @@ c. Contratos de futuro, opciones y productos financieros similares;
 
 d. Toda clase de valores mobiliarios, tales como: Bonos, cédulas, participaciones y otros; en el caso de inversiones en acciones o participaciones, se procederá de acuerdo al Artículo 57, numeral 1 de esta Ley.
 
+Se adiciona un numeral 13 conforme Ley N°. 1072, publicada el 17/05/2021
+
 Además podrán realizar cualquiera otra operación de naturaleza financiera que apruebe de manera general el Consejo Directivo de la Superintendencia de Bancos.
 
-El Consejo Directivo de la Superintendencia está facultado para dictar normas administrativas de carácter general, respecto a la ejecución de cualquiera de las operaciones antes mencionadas, sean realizadas éstas por los bancos o por instituciones financieras no bancarias.
+El Consejo Directivo de la Superintendencia está facultado para dictar normas administrativas de carácter general, respecto a la ejecución de cualquiera de las operaciones antes mencionadas, sean realizadas estas por los bancos o por instituciones financieras no bancarias.
 
-Operaciones de Confianza
+Operaciones de confianza.

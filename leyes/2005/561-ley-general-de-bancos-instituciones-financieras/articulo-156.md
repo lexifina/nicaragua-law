@@ -6,4 +6,4 @@ El Superintendente de Bancos a los fines de salvaguardar los intereses de los de
 
 ACUERDOS DE COOPERACIÓN
 
-Intercambio de Información con otros Organismos de Supervisión
+Intercambio de información con otros organismos de supervisión.

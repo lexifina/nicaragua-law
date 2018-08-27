@@ -4,4 +4,4 @@ Las empresas a que se refiere el presente Capítulo que no formen parte de un gr
 
 SOLVENCIA Y OTROS REQUERIMIENTOS DE LOS GRUPOS FINANCIEROS
 
-Requerimiento Patrimonial Consolidado
+Requerimiento Patrimonial Consolidado.

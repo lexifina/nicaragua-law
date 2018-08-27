@@ -4,4 +4,4 @@ Todos los derechos y privilegios conferidos en este Capítulo, deberán consider
 
 VIGILANCIA, PLANES DE NORMALIZACIÓN, INTERVENCIÓN Y LIQUIDACIÓN FORZOSA
 
-Inspección a los Bancos
+Inspección a los bancos.

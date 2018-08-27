@@ -1,6 +1,6 @@
 # Artículo 55
 
-Las operaciones activas realizadas por las instituciones financieras con sus partes relacionadas, estarán sujetas a las limitaciones y previsiones establecidas en el presente artículo. A este efecto se establecen las siguientes definiciones y limitaciones:
+Las operaciones activas realizadas por las instituciones financieras con sus partes relacionadas, estarán sujetas a las limitaciones y previsiones establecidas en el presente Artículo. A este efecto se establecen las siguientes definiciones y limitaciones:
 
 1. Partes relacionadas con un banco.
 
@@ -20,15 +20,15 @@ Existen vinculaciones significativas en cualesquiera de los siguientes casos:
 
 a. Cuando una persona natural, directa o indirectamente, participa como accionista en otra persona jurídica en un porcentaje equivalente o superior al 33% de su capital pagado o ejerce control por cualquier medio, directo o indirecto, sobre un derecho de voto equivalente o superior al mismo porcentaje.
 
-b. Cuando una persona jurídica, directa o indirectamente, participa en otra persona jurídica o ésta participa en aquella, como accionista, en un porcentaje equivalente o superior al 33% o de su capital pagado o ejerce control por cualquier medio, directo o indirecto, sobre un derecho de voto equivalente o superior al mismo porcentaje.
+b. Cuando una persona jurídica, directa o indirectamente, participa en otra persona jurídica o esta participa en aquella, como accionista, en un porcentaje equivalente o superior al 33% de su capital pagado o ejerce control por cualquier medio, directo o indirecto, sobre un derecho de voto equivalente o superior al mismo porcentaje.
 
 c. Cuando dos o más personas jurídicas tienen, directa o indirectamente, accionistas comunes en un porcentaje equivalente o superior al 33% de sus capitales pagados o cuando unas mismas personas naturales o jurídicas ejercen control, por cualquier medio, directo o indirecto, en aquéllas personas jurídicas, sobre un derecho de voto equivalente o superior al mismo porcentaje.
 
-d. Cuando por cualquier medio, directo o indirecto, una persona natural o jurídica ejerce influencia dominante sobre la Junta de Accionistas o Junta Directiva; la administración o gerencia; en la determinación de políticas, o en la gestión, coordinación, imagen, contratación o realización de negocios, de otra persona jurídica por decisión del Superintendente.
+d. Cuando por cualquier medio, directo o indirecto, una persona natural o jurídica ejerce influencia dominante sobre la Junta de Accionistas o Junta Directiva; la administración o gerencia; en la determinación de políticas, o en la gestión, coordinación, imagen, contratación o realización de negocios, de otra persona jurídica, por decisión del Superintendente.
 
-e. Cuando, por aplicación de las normas generales dictadas por el Consejo Directivo de la Superintendencia de Bancos, el Superintendente pueda presumir, que una persona natural o jurídica o varias de ellas mantienen, directa o indirectamente, vinculaciones significativas entre si o con otra persona jurídica, en virtud de la presencia de indicios de afinidad de intereses.
+e. Cuando, por aplicación de las normas generales dictadas por el Consejo Directivo de la Superintendencia de Bancos, el Superintendente pueda presumir, que una persona natural o jurídica o varias de ellas mantienen, directa o indirectamente, vinculaciones significativas entre sí o con otra persona jurídica, en virtud de la presencia de indicios de afinidad de intereses.
 
-A este respecto, se consideran indicios de vinculación significativa por afinidad de intereses, entre otros: La presencia común de miembros de Juntas Directivas; la realización de negocios en una misma sede; el otorgamiento de créditos por montos excesivos en relación con el capita, de favor o sin garantías; el ofrecimiento de servicios bajo una misma imagen corporativa; la posibilidad de ejercer derecho de veto sobre negocios; la asunción frecuente de riesgos compartidos; la existencia de políticas comunes o de órganos de gestión o coordinación similares, y los demás que se incluyan en las referidas normas.
+A este respecto, se consideran indicios de vinculación significativa por afinidad de intereses, entre otros: La presencia común de miembros de Juntas Directivas; la realización de negocios en una misma sede; el otorgamiento de créditos por montos excesivos en relación con el capital, de favor o sin garantías; el ofrecimiento de servicios bajo una misma imagen corporativa; la posibilidad de ejercer derecho de veto sobre negocios; la asunción frecuente de riesgos compartidos; la existencia de políticas comunes o de órganos de gestión o coordinación similares, y los demás que se incluyan en las referidas normas.
 
 Estas presunciones admiten prueba en contrario.
 
@@ -40,11 +40,11 @@ En los casos en que la presente Ley haga referencia a vinculaciones significativ
 
 El monto de las operaciones activas realizadas por un banco con todas sus partes relacionadas, tanto individualmente consideradas, como en conjunto con aquellas personas naturales o jurídicas que integren con ella una misma unidad de interés por la existencia, directa o indirecta, de vinculaciones significativas o asunción frecuente de riesgos compartidos, no podrá exceder de un 30% de la base de cálculo del capital.
 
-A los efectos de esta Ley, se entenderá por unidad de interés lo indicado por el artículo siguiente.
+A los efectos de esta Ley, se entenderá por unidad de interés lo indicado por el Artículo siguiente.
 
 Entre las operaciones activas que están sujetas al límite anterior se encuentran las siguientes:
 
-a. Los créditos otorgados por el banco incluyendo, opciones contingentes
+a. Los créditos otorgados por el banco incluyendo, operaciones contingentes;
 
 b. Las operaciones de compra de cartera de créditos y obligaciones emitidas por partes relacionadas que no cumplan con las normas dictadas por la Superintendencia de Bancos. El Consejo Directivo de la Superintendencia podrá dictar normas de carácter general para regular las condiciones que deben cumplir este tipo de operaciones;
 
@@ -56,7 +56,7 @@ En cualquier negociación con sus partes relacionadas, los bancos deberán efect
 
 Lo establecido en el párrafo anterior es aplicable a los siguientes casos:
 
-a. Las operaciones activas realizadas por la institución, incluyendo las contingentes;
+a. Las operaciones activas realizadas por la institución, incluyendo las contingentes.
 
 b. La compra venta de activos a partes relacionadas;
 
@@ -68,4 +68,4 @@ e. Cualquier transacción o serie de transacciones con terceras personas, natura
 
 Cuando el Superintendente determine que se ha infringido cualquiera de las disposiciones de este numeral o que se exponga a cualquiera de las sociedades del grupo financiero a riesgos de contagio derivados de la situación que afecte a las personas relacionadas, el Superintendente, tendrá sobre dichas sociedades las mismas atribuciones de fiscalización y supervisión que la Ley le otorga para el caso de los bancos. Si se determinare la existencia de la infracción o de la exposición, el Superintendente, sin perjuicio de las sanciones que contemplen las leyes, ordenará de inmediato la terminación de tales contratos o exigirá las medidas correctivas necesarias.
 
-Limitaciones de Créditos con Partes no Relacionados a la Institución Financiera
+Limitaciones de créditos con Partes no Relacionadas a la institución financiera.

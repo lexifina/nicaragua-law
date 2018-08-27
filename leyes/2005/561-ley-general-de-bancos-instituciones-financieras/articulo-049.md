@@ -8,4 +8,4 @@ Los bancos podrán destinar para sus operaciones de crédito e inversiones, adem
 
 3. Los provenientes de cualquier otro instrumento financiero compatible con su naturaleza.
 
-Tasa de Interés
+Tasa de Interés.

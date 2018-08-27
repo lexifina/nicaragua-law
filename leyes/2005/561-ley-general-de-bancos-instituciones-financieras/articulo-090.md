@@ -8,4 +8,4 @@ Una vez aprobado un Plan de Normalización por el Superintendente y notificada l
 
 Una vez aprobado un plan de normalización, el Superintendente podrá modificarlo o dejarlo sin efecto, según las circunstancias en cada caso.
 
-Medidas del Plan de Normalización
+Medidas del Plan de Normalización.

@@ -10,16 +10,16 @@ Las políticas que regulen el gobierno corporativo de las instituciones financie
 
 4. Políticas para la interacción y cooperación entre la Junta Directiva, la gerencia y los auditores;
 
-5. Las políticas de control interno adecuado a la naturaleza y escala de sus actividades, que incluya disposiciones claramente definidas para la delegación de poderes, el régimen de responsabilidad, y las necesarias separaciones de funciones. Tales funciones deberán ser fiscalizadas por un auditor interno conforme lo indicado por el artículo siguiente y por las normas que a este respecto dicte el Consejo Directivo de la Superintendencia;
+5. Las políticas de control interno adecuado a la naturaleza y escala de sus actividades, que incluya disposiciones claramente definidas para la delegación de poderes, el régimen de responsabilidad, y las necesarias separaciones de funciones. Tales funciones deberán ser fiscalizadas por un auditor interno conforme lo indicado por el Artículo siguiente y por las normas que a este respecto dicte el Consejo Directivo de la Superintendencia;
 
 6. Las políticas sobre procesos integrales que incluyan la administración de los diversos riesgos a que pueda estar expuesta la institución, así como sistemas de información adecuados y un Comité para la gestión de dichos riesgos;
 
 7. Las políticas sobre mecanismos para la identificación, medición, seguimiento, control y prevención de riesgos y políticas para el manejo de conflictos de interés;
 
-8. Las políticas generales salariales y otros beneficios para los trabajadores:
+8. Las políticas generales salariales y otros beneficios para los trabajadores;
 
 9. Flujos de información adecuados, tanto internos como para el público;
 
 10. Políticas escritas sobre la concesión de créditos, régimen de inversiones, evaluación de la calidad de los activos, suficiencia de provisiones y administración de los diferentes riesgos.
 
-Auditor: Requisitos, Funciones, Períodos e Informes
+Auditor: requisitos, funciones, períodos e informes.

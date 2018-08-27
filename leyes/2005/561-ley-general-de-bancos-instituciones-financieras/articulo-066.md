@@ -10,4 +10,4 @@ Si la obligación del deudor consistiere en pagar intereses y cuotas fijas de am
 
 En cualquier tiempo que el deudor pagare las cantidades debidas, le será devuelto el inmueble gravado. Los gastos que el banco hubiese tenido que hacer en las diligencias judiciales y en la administración de los inmuebles hipotecados, serán cargados al deudor como gastos preferenciales con el interés respectivo que cobre el banco para sus préstamos.
 
-Terceros Poseedores
+Terceros poseedores.

@@ -8,13 +8,13 @@ En virtud de la realización de cualquiera de las actividades reguladas en la pr
 
 1. Los bancos.
 
-2. Las instituciones financieras no bancarias que presten servicios de intermediación bursátil o servicios financieros con recursos del público, calificadas como tales por la Superintendencia de Bancos y de otras Instituciones Financieras, en adelante denominada “la Superintendencia de Bancos”, o simplemente “la Superintendencia”.
+2. Las instituciones financieras no bancarias que presten servicios de intermediación bursátil o servicios financieros con recursos del público, calificadas como tales por la Superintendencia de Bancos y de otras Instituciones Financieras, en adelante denominada "la Superintendencia de Bancos", o simplemente "la Superintendencia".
 
 3. Sucursales de bancos extranjeros.
 
 4. Los grupos financieros; y,
 
-5. Las Oficinas de Representación de Bancos y Financieras Extranjeras conforme lo establecido en el artículo 14 de esta Ley.
+5. Las Oficinas de Representación de Bancos y Financieras Extranjeras conforme lo establecido en el Artículo 14 de esta Ley.
 
 Las disposiciones contenidas en la presente Ley son de orden público.
 
@@ -22,4 +22,4 @@ DE LOS BANCOS
 
 DEFINICIONES Y AUTORIZACIONES
 
-Definición de Banco
+Definición de Banco.

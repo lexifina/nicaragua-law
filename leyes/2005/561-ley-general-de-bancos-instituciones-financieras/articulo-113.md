@@ -1,6 +1,6 @@
 # Artículo 113
 
-Los bancos y demás instituciones reguladas no podrán dar informes de las operaciones pasivas que celebren con sus clientes sino, según fuere el caso, a sus representantes legales o a quienes tengan poder para retirar los fondos o para intervenir en la operación de que se trate, salvo cuando lo autorice expresamente el cliente o cuando lo pidiese la autoridad judicial en virtud de causa que estuviere conociendo, mediante orden escrita en la que se debe expresar dicha causa respecto a la cual este vinculado el depositante, ahorrador o suscriptor. En caso de fallecimiento del depositante podrá suministrársele información al beneficiario si lo hubiere.
+Los bancos y demás instituciones reguladas no podrán dar informes de las operaciones pasivas que celebren con sus clientes sino, según fuere el caso, a sus representantes legales o a quienes tengan poder para retirar fondos o para intervenir en la operación de que se trate, salvo cuando lo autorice expresamente el cliente o cuando lo pidiese la autoridad judicial en virtud de causa que estuviere conociendo, mediante orden escrita en la que se debe expresar dicha causa respecto a la cual esté vinculado el depositante, ahorrador o suscriptor. En caso de fallecimiento del depositante podrá suministrársele información al beneficiario si lo hubiere.
 
 Quedan exceptuados de estas disposiciones:
 
@@ -14,8 +14,8 @@ Quedan exceptuados de estas disposiciones:
 
 5. Las otras excepciones que contemple la ley.
 
-Ninguna autoridad administrativa, exceptuándose a la Superintendencia, podrá solicitar directamente a los bancos, información particular o individual de sus clientes bancarios.
+Ninguna autoridad administrativa, exceptuándose a la Superintendencia y a la Unidad de Análisis Financiero, podrá solicitar directamente a los Bancos y otras instituciones financieras supervisadas, información particular o individual de sus clientes darse a conocer a las autoridades e instituciones.
 
 Las operaciones activas y de prestación de servicios que los bancos celebren con sus clientes están sujetas a reserva y solo podrán darse a conocer a las autoridades e instituciones indicadas en los numerales anteriores.
 
-Responsabilidad por Violación al Sigilo Bancario
+Responsabilidad por violación al sigilo bancario.

@@ -4,4 +4,4 @@ En caso de aumento de capital social de un banco, las acciones provenientes de d
 
 Los aumentos de capital por situaciones de insolvencia, vigencia de un Plan de Normalización, o cualquier otra situación que requiera estabilizar la situación financiera de una institución deberán ser suscriptos y pagados en los plazos que determine el Superintendente.
 
-Utilidades y Cobertura de Pérdidas
+Utilidades y cobertura de pérdidas.

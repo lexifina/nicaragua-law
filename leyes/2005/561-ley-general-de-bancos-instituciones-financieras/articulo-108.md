@@ -4,4 +4,4 @@ Todos los gastos que resulten de la liquidación de una institución financiera,
 
 Los honorarios del liquidador serán fijados por el Superintendente y no podrán ser inferiores al 1% ni superiores al 3% del valor de los bienes de la masa.
 
-Pago a los Accionistas
+Pago a los accionistas.

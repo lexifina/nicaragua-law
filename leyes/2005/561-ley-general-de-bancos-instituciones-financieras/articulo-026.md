@@ -4,4 +4,4 @@ El capital de las sucursales de bancos extranjeros establecidas en el país, en 
 
 ADMINISTRACIÓN Y CONTROL
 
-Integración de la Junta Directiva. Formalidades de las Reuniones
+Integración de la Junta Directiva. Formalidades de las reuniones.
