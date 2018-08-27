@@ -2,7 +2,7 @@
 
 De la prescripción.
 
-De conformidad a lo establecido para la letra de cambio en el artículo 172 de la Ley General de Títulos Valores, se establecen para la factura cambiaria las siguientes prescripciones:
+De conformidad a lo establecido para la letra de cambio en el Artículo 172 de la Ley General de Títulos Valores, se establecen para la factura cambiaria las siguientes prescripciones:
 
 a. Las acciones que se deriven de la factura cambiaria prescriben a los tres años desde la fecha de su vencimiento;
 

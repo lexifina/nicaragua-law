@@ -1,6 +1,8 @@
 # Artículo 8
 
-Ve la notificación de la circulación de la factura cambiarla. Para que pueda el librador o vendedor de los bienes o servicios hacer circular la factura cambiaria, deberá notificar al librado o comprador de los bienes o servicios, dicha circulación cumpliendo con los siguientes requisitos:
+De la notificación de la circulación de la factura cambiaria.
+
+Para que pueda el librador o vendedor de los bienes o servicios hacer circular la factura cambiaria, deberá notificar al librado o comprador de los bienes o servicios, dicha circulación cumpliendo con los siguientes requisitos:
 
 a. Lugar y fecha de la notificación;
 

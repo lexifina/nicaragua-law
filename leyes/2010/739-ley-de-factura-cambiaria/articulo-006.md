@@ -1,6 +1,6 @@
 # Artículo 6
 
-Causales de rechazo de la factura cambiarla.
+Causales de rechazo de la factura cambiaria.
 
 El comprador sólo podrá negarse a aceptar la factura cambiaria, si ocurriere cualquiera de las siguientes circunstancias:
 
@@ -14,4 +14,4 @@ d. Por omisión de cualesquiera de los requisitos que dan a la factura cambiaria
 
 El comprador o adquirente de conformidad a los mismos plazos establecidos en la presente Ley, deberá notificar por escrito al librador o vendedor, de la o las causales en que fundan el rechazo de la factura cambiaria.
 
-El librador o vendedor de los bienes, en base a la notificación del comprador o adquirente conforme el párrafo anterior, deberá anular la factura cambiada defectuosa y proceder a emitir una nueva factura cambiarla.
+El librador o vendedor de los bienes, en base a la notificación del comprador o adquirente conforme el párrafo anterior, deberá anular la factura cambiaria defectuosa y proceder a emitir una nueva factura cambiaria.

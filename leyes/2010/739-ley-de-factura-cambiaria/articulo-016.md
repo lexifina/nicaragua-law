@@ -1,6 +1,8 @@
 # Artículo 16
 
-De la prohibición de emisión de facturas cambiaras. Se prohíbe la emisión de facturas cambiaria en los siguientes casos:
+De la prohibición de emisión de facturas cambiaras.
+
+Se prohíbe la emisión de facturas cambiaria en los siguientes casos:
 
 a. No se podrá convertir a título valor una factura cambiaria, emitida sobre compraventas cuyos pagos se hayan documentado por medio de letras de cambio, pagarés u otro tipo de título valor.
 
