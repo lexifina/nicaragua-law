@@ -6,10 +6,10 @@ Cumplido el trámite establecido, enajenados todos los activos de la liquidació
 
 En caso de que no se apruebe el informe a que se refiere el párrafo anterior, corresponde al Presidente del FOGADE, o al Consejo Directivo, en su caso, realizar las actuaciones pertinentes para concluir el estado de liquidación y el cese de la existencia legal de la institución, así como intentar las acciones necesarias, con el fin de que se establezcan las responsabilidades del liquidador y se apliquen las sanciones que sean procedentes.
 
-Si al concluir el plazo de la liquidación existieren activos que el liquidador no hubiere podido vender, y tampoco hubieren sido aceptadas en pago por los acreedores ni por los accionistas, el liquidador los deberá transferir en propiedad al Estado. Estos traspasos se considerarán perfeccionados con solo la suscripción de un convenio, sin perjuicio que con posterioridad se confeccionen los respectivos instrumentos legales que correspondan según el caso. Estas transferencias serán inatacables.
+Si al concluir el plazo de la liquidación existieren activos que el liquidador no hubiere podido vender, y tampoco hubieren sido aceptados en pago por los acreedores ni por los accionistas, el liquidador los deberá transferir en propiedad al Estado. Estos traspasos se considerarán perfeccionados con solo la suscripción de un convenio, sin perjuicio que con posterioridad se confeccionen los respectivos instrumentos legales que correspondan según el caso. Estas transferencias serán inatacables.
 
 Las transferencias de activos que se realicen en esta etapa estarán exentas de todos los impuestos, aranceles, timbres, tasas y de todos los tributos o derechos similares tanto nacionales como municipales.
 
-Procederán a favor de la Unidad de Gestión y Liquidación de Activos los privilegios bancarios que le fueron aplicables conforme a lo indicado en el Capitulo VII de la Ley General de Bancos.
+Procederán a favor de la Unidad de Gestión y Liquidación de Activos los privilegios bancarios que le fueren aplicables conforme a lo indicado en el Capítulo VII de la Ley General de Bancos.
 
 Normas complementarias.

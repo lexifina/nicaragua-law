@@ -6,6 +6,6 @@ El precio que debe satisfacer el FOGADE al Banco Central de Nicaragua como conse
 
 El valor de tales servicios cubrirá exclusivamente el gasto que ello represente para el Banco Central de Nicaragua.
 
-DE LOS RECURSOS FINANCIEROS DEL SISTEMA DE GARANTÍA DE DEPOSITOS
+DE LOS RECURSOS FINANCIEROS DEL SISTEMA DE GARANTÍA DE DEPÓSITOS
 
 Recursos.

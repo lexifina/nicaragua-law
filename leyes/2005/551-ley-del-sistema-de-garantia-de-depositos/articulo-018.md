@@ -16,19 +16,19 @@ Son atribuciones del Consejo Directivo:
 
 7. Emitir normas generales para la administración y conservación de los activos de las instituciones financieras miembros del Sistema de Garantía de Depósitos en estado de intervención y de liquidación forzosa.
 
-8. Fiscalizar las funciones del Presidente del FOGADE cuando actúe como interventor.
+8. Fiscalizar las funciones y responsabilidades del Presidente del FOGADE que le han sido encomendadas por la presente Ley durante los procesos de intervención.
 
-9. Establecer las reglas del sistema especial de subastas contemplado en el artículo 44 de la presente Ley.
+9. Establecer las reglas del sistema especial de subastas contemplado en el Artículo 44 de la presente Ley.
 
-10. Autorizar al Presidente del FOGADE la contratación de personas o empresas especializadas, nicaragüenses o extranjeras, como apoyo para la ejecución en el proceso de intervención, conforme a lo indicado en los artículos 39 y 40 de la presente Ley. En todo caso, la representación legal de la entidad intervenida corresponderá al Presidente del FOGADE.
+10. Autorizar al Presidente del FOGADE la contratación de personas o empresas especializadas, nicaragüenses o extranjeras, como apoyo para la ejecución en el proceso de intervención, conforme a lo indicado en los Artículos 39 y 40 de la presente Ley. En todo caso, la representación legal de la entidad intervenida corresponderá al Presidente del FOGADE.
 
 11. Nombrar al Secretario del Consejo Directivo y fijar su remuneración.
 
-12. Escoger la firma de auditores externos para los fines del numeral 13 del artículo siguiente.
+12. Escoger la firma de auditores externos para los fines del numeral 13 del Artículo siguiente.
 
 13. Dictar su Reglamento Interno Operativo.
 
-14. Aprobar el monto y la forma de endeudamiento del FOGADE conforme a lo establecido en el numeral 5 del artículo 24 de esta Ley.
+14. Aprobar el monto y la forma de endeudamiento del FOGADE conforme a lo establecido en el numeral 5 del Artículo 24 de esta Ley.
 
 15. Autorizar la adquisición de bienes de uso del FOGADE.
 

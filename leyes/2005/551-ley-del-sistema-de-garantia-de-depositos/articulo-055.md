@@ -6,7 +6,7 @@ El Director de la Unidad solo podrá ser destituido por el Consejo Directivo, po
 
 2. Por actuaciones que contravengan las normas establecidas en la presente Ley.
 
-3. Cuando sean condenados mediante sentencia firme a pena de privación de libertad o de inhabilitación para ejercicio el cargo.
+3. Cuando sean condenados mediante sentencia firme a pena de privación de libertad o de inhabilitación para ejercer el cargo.
 
 4. Enfermedad que lo incapacite para el ejercicio de sus funciones.
 

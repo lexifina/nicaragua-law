@@ -1,5 +1,9 @@
 # Artículo 37
 
-Mientras dure la intervención de una entidad, no se tramitará ninguna ejecución de sentencia contra la misma, pero el curso ordinario de las causas pendientes al momento de la intervención o las que se iniciaren posteriormente, sólo se suspenderán en cuanto a la realización o ejecución de los bienes embargados o secuestrados. Las cosas mandadas a embargar o secuestrar preventivamente a un banco intervenido se depositarán en el interventor. Lo actuado en contra de lo preceptuado en este artículo, es nulo absolutamente.
+Los activos de las Entidades Financieras Intervenidas no están sujetos a embargos, secuestros ni retenciones o restricciones de ningún tipo. De igual manera, no se tramitará durante el periodo de intervención ningún Proceso de ejecución forzosa en contra de los activos de la misma.
+
+Cualquier embargo, secuestro o retención, bien sea preventivo o por Proceso de ejecución forzosa, así como cualquier anotación preventiva que afecte los activos de una entidad intervenida, antes, durante o después del periodo de intervención, quedarán suspensos en sus efectos conforme a la ley hasta que finalice el proceso de intervención.
+
+Así mismo, las entidades financieras intervenidas estarán exentas del pago del Impuesto sobre la Renta, sobre los bienes que enajenen como parte del proceso de restitución de depósitos, así como de cualquier impuesto fiscal o municipal que graven dichas operaciones.
 
 Procedimiento de restitución.

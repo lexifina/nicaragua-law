@@ -1,6 +1,6 @@
 # Artículo 31
 
-No obstante lo dispuesto en el artículo anterior, no están cubiertos por la garantía a que se refiere esta Ley los siguientes depósitos:
+No obstante lo dispuesto en el Artículo anterior, no están cubiertos por la garantía a que se refiere esta Ley los siguientes depósitos:
 
 1. Los depósitos mantenidos por otras instituciones financieras.
 

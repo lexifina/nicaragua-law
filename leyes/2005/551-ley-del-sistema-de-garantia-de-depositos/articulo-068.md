@@ -8,9 +8,9 @@ Además de lo establecido en otros artículos de esta Ley, son deberes del liqui
 
 3. Notificar por cualquier medio a cada una de las personas que resulten ser propietarios de cualquier bien entregado a la entidad financiera o arrendatarios de cajas de seguridad, cuando fuere el caso, para que retiren sus bienes, dentro del plazo de sesenta días contados desde la fecha de la notificación.
 
-4. Notificar por medio de tres avisos consecutivos publicados en "La Gaceta", Diario Oficial y en un diario de circulación nacional, a las personas que tengan créditos contra la entidad financiera, para que los legalicen ente el propio liquidador, dentro del plazo de treinta días contados a partir de la fecha de la última publicación, y hacer una lista protocolizada por un Notario Público, de los créditos que no hubiesen sido reclamados dentro del plazo indicado.
+4. Notificar por medio de tres avisos consecutivos publicados en “La Gaceta”, Diario Oficial y en un diario de circulación nacional, a las personas que tengan créditos contra la entidad financiera, para que los legalicen ante el propio liquidador, dentro del plazo de treinta días contados a partir de la fecha de la última publicación, y hacer una lista protocolizada por un Notario Público, de los créditos que no hubiesen sido reclamados dentro del plazo indicado.
 
-Los depositantes no tendrán obligación de legalizar sus créditos, y su comprobación estará sujeta a lo establecido en el artículo 45 de la Ley General de Bancos, Instituciones Financieras No Bancarias y Grupos Financieros.
+Los depositantes no tendrán obligación de legalizar sus créditos, y su comprobación estará sujeta a lo establecido en el Artículo 45 de la Ley General de Bancos, Instituciones Financieras no Bancarias y Grupos Financieros.
 
 5. Examinar, y aprobar o rechazar los créditos debidamente reclamados, según que los comprobantes estuvieren o no a satisfacción del liquidador, designando, entre los créditos aprobados, aquellos que tuvieren preferencia sobre los comunes.
 
@@ -26,7 +26,7 @@ Los depositantes no tendrán obligación de legalizar sus créditos, y su compro
 
 11. Depositar diariamente en depósitos a la vista a su orden en un banco la suma que hubiere recibido.
 
-12. Convocar a reuniones de acreedores para conocer lo que éstos tengan que alegar sobre sus créditos, por medio de un aviso que será publicado en “La Gaceta”, Diario Oficial y de un diario de circulación nacional, por lo menos, dos veces consecutivas, debiendo mediar entre la primera publicación del aviso en “La Gaceta” y el día de la reunión, no menos de quince (15) días.
+12. Convocar a reuniones de acreedores para conocer lo que estos tengan que alegar sobre sus créditos, por medio de un aviso que será publicado en “La Gaceta”, Diario Oficial y de un diario de circulación nacional, por lo menos, dos veces consecutivas, debiendo mediar entre la primera publicación del aviso en “La Gaceta” y el día de la reunión, no menos de quince (15) días.
 
 13. Formular una cuenta distributiva cada vez que hubiere fondos suficientes para repartir un dos por ciento (2%) por lo menos, entre los acreedores cuyos créditos hubiesen sido legitimados.
 
@@ -40,7 +40,7 @@ Los depositantes no tendrán obligación de legalizar sus créditos, y su compro
 
 18. Contratar empresas especializadas en la liquidación de activos, mediante el pago de remuneraciones consistentes en un porcentaje del precio de realización, cuando dicho procedimiento resulte más eficiente, previa aprobación del Presidente del FOGADE.
 
-19. Dar en dación en pago, parcial o total, activos sujetos a liquidación, a los acreedores con prelación de pago, siempre que éstos lo acepten y que el precio no sea menor que el avalúo encargado por el Liquidador. Sin embargo, dicho avalúo podrá ser revisado y ajustado, previa autorización del Presidente del FOGADE, cuando su valor hubiere sufrido variación por cualquier causa, o cuando las condiciones del mercado así lo demanden.
+19. Dar en dación en pago, parcial o total, activos sujetos a liquidación, a los acreedores con prelación de pago, siempre que estos lo acepten y que el precio no sea menor que el avalúo encargado por el liquidador. Sin embargo, dicho avalúo podrá ser revisado y ajustado, previa autorización del Presidente del FOGADE, cuando su valor hubiere sufrido variación por cualquier causa, o cuando las condiciones del mercado así lo demanden.
 
 20. Efectuar todos los demás actos que estime conveniente con el fin de llevar a cabo la liquidación en la mejor forma posible.
 
