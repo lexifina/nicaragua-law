@@ -10,7 +10,7 @@ El Presidente del Banco y los miembros del Consejo Directivo solamente podrán s
 
 3. Incapacidad física o mental por un período superior a tres meses;
 
-4. Incurrir en algunas de las inhabilidades de que trata el artículo 17 de esta Ley; o
+4. Incurrir en algunas de las inhabilidades de que trata el Artículo 17 de esta Ley; o
 
 5. Ausencia por más de seis meses del país o inasistencia injustificada a tres sesiones ordinarias consecutivas del Consejo Directivo o a cinco sesiones en el trimestre.
 

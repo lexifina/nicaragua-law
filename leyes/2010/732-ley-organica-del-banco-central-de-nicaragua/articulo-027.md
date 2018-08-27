@@ -26,6 +26,6 @@ El Presidente del Banco tiene las siguientes atribuciones:
 
 11. Aprobar el Programa Cultural del Banco, en consulta con las autoridades culturales del país; y
 
-12. Presentar el informe anual a la Asamblea Nacional de conformidad con el artículo 138 numeral 29 de la Constitución Política de la República de Nicaragua.
+12. Presentar el informe anual a la Asamblea Nacional de conformidad con el Artículo 138 numeral 29 de la Constitución Política de la República de Nicaragua.
 
 DEL GERENTE GENERAL

@@ -8,6 +8,6 @@ Dentro de los tres primeros meses de cada año, el Presidente del Banco Central 
 
 2. Análisis de la situación financiera del Banco y del desarrollo de las operaciones practicadas en el curso del año anterior;
 
-3. Descripción y análisis de la política monetaria y cambiaría que ha seguido el Banco en el curso del año correspondiente, así como una descripción de la evolución económica y financiera del país; e
+3. Descripción y análisis de la política monetaria y cambiaria que ha seguido el Banco en el curso del año correspondiente, así como una descripción de la evolución económica y financiera del país; e
 
 4. Información estadística que el Banco juzgue de utilidad.

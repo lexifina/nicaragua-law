@@ -18,7 +18,7 @@ Las reservas internacionales podrán estar integradas por uno o varios de los ac
 
 6. Cualquier otro instrumento de inversión de primer orden internacionalmente reconocido como componente de los activos de reserva de un banco central.
 
-Para los efectos de este artículo, se consideran instituciones financieras, emisores e instrumentos de primer orden aquellos que cuenten con calificación de grado de inversión, según las agencias calificadoras de riesgo, y estén dentro de los límites de riesgo crediticio aprobados por el Consejo Directivo.
+Para los efectos de este Artículo, se consideran instituciones financieras, emisores e instrumentos de primer orden aquellos que cuenten con calificación de grado de inversión, según las agencias calificadoras de riesgo, y estén dentro de los límites de riesgo crediticio aprobados por el Consejo Directivo.
 
 El Banco Central está facultado para contratar con instituciones financieras y empresas especializadas, la gestión de la administración de sus reservas, bajo los términos y condiciones que establezca el Consejo Directivo. Estas contrataciones se regirán única y exclusivamente por las disposiciones que apruebe al respecto el Consejo Directivo.
 

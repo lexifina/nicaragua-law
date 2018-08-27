@@ -36,14 +36,14 @@ El Consejo Directivo tiene las siguientes atribuciones:
 
 16. Establecer y cerrar sucursales, dependencias o agencias del Banco;
 
-17. Aprobar a propuesta del Presidente del Banco Central el Programa anual de formación profesional y técnica, para la preparación de expertos en cuestiones monetarias, bancarias, económicas y otras ramas técnicas que contribuyan al cumplimiento de sus objetivos y atribuciones;
+17. Aprobar a propuesta del Presidente del Banco Central el programa anual de formación profesional y técnica, para la preparación de expertos en cuestiones monetarias, bancarias, económicas y otras ramas técnicas que contribuyan al cumplimiento de sus objetivos y atribuciones;
 
 18. Designar al Secretario del Consejo, quien actuará como órgano de comunicación del mismo, con las facultades que indique el Reglamento Interno;
 
 19. Nombrar y remover, a iniciativa del Presidente del Banco, al Gerente General y al Auditor Interno;
 
-20. Conocer los recursos de apelación que se interpongan por multas impuestas por el Presidente del Banco, de conformidad con el artículo 72 de la presente Ley. En estos casos, el Presidente no podrá participar ni votar sobre la materia;
+20. Conocer los recursos de apelación que se interpongan por multas impuestas por el Presidente del Banco, de conformidad con el Artículo 72 de la presente Ley. En estos casos, el Presidente no podrá participar ni votar sobre la materia;
 
 21. Dictar las normas correspondientes y necesarias que garanticen la aplicación de todo lo establecido en la presente Ley; y
 
-22. Ejercer cualquiera otras facultades que corresponda, de acuerdo con leyes o decretos. En caso que alguna facultad atribuida al Banco Central, no estuviere específicamente señalado el funcionario responsable de su ejecución, se entenderá que es competencia de su Consejo Directivo. Las resoluciones del Consejo Directivo en materia de política monetaria, financiera y cambiaría tendrán carácter de normas de orden público.
+22. Ejercer cualquiera otras facultades que corresponda, de acuerdo con leyes o decretos. En caso que alguna facultad atribuida al Banco Central, no estuviere específicamente señalado el funcionario responsable de su ejecución, se entenderá que es competencia de su Consejo Directivo. Las resoluciones del Consejo Directivo en materia de política monetaria, financiera y cambiaria tendrán carácter de normas de orden público.

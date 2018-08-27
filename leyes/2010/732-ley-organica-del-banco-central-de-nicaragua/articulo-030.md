@@ -6,4 +6,4 @@ Las funciones de inspección y fiscalización de las operaciones y de las cuenta
 
 El Auditor Interno del Banco actuará con independencia en el desempeño de sus labores y mantendrá informado al Consejo Directivo del Banco del desarrollo de sus funciones de control.
 
-El Auditor Interno solamente podrá ser removido por el Consejo Directivo por alguna de las causales establecidas en el artículo 21 de la presente Ley, en lo que le fuere aplicable.
+El Auditor Interno solamente podrá ser removido por el Consejo Directivo por alguna de las causales establecidas en el Artículo 21 de la presente Ley, en lo que le fuere aplicable.

@@ -2,4 +2,4 @@
 
 Contenido y Especificaciones de los Billetes.
 
-Los billetes que emita el Banco Central deberán llevar la leyenda "Banco Central de Nicaragua", las firmas en facsímile del Presidente y del Gerente General del Banco, el número de Resolución del Consejo Directivo en la que conste la aprobación de la emisión y las demás especificaciones que determine el Consejo.
+Los billetes que emita el Banco Central deberán llevar la leyenda “Banco Central de Nicaragua”, el número de Resolución del Consejo Directivo en la que conste la aprobación de la emisión, las firmas en facsímile del Presidente del Banco y del Ministro de Hacienda y Crédito Público y cualquier otra especificación que determine el Consejo Directivo.
