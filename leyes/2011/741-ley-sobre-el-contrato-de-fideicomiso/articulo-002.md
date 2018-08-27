@@ -2,7 +2,7 @@
 
 Definiciones.
 
-Para efectos de esta Ley las definiciones contenidas en el presente artículo, tanto en mayúsculas como en minúsculas, singulares o plurales, tendrán el significado siguiente:
+Para efectos de esta Ley las definiciones contenidas en el presente Artículo, tanto en mayúsculas como en minúsculas, singulares o plurales, tendrán el significado siguiente:
 
 Fideicomiso: Operación en virtud de la cual el fideicomitente transmite la titularidad sobre un bien o conjunto de bienes o derechos determinados al fiduciario, quien se obliga a administrarlos a favor del beneficiario y transmitirlos al fideicomisario o al fideicomitente cuando se cumpla con un plazo, condición u otra causa de extinción de la obligación.
 
@@ -16,6 +16,6 @@ Persona: Persona natural o jurídica, sea esta nacional o extrajera, privada, p�
 
 FINES Y OBJETO DEL FIDEICOMISO
 
-Capítulo l
+Capítulo I
 
 Fines y Objeto del Fideicomiso

@@ -12,7 +12,7 @@ a) Si fuere persona natural:
 
 b) Si fuere persona jurídica, cuando sus administradores o personal encargado de la ejecución del fideicomiso fueren condenados a pena privativa de libertad por cualquier delito, mediante sentencia firme, o fueren procesados por delito contra la propiedad o la fe pública.
 
-c) Pueden ser removidos de su cargo los fiduciarios, sean éstos personas naturales o jurídicas, en los siguientes casos:
+c) Pueden ser removidos de su cargo los fiduciarios, sean estos personas naturales o jurídicas, en los siguientes casos:
 
 1. Si no cumple con las instrucciones contenidas en el documento constitutivo del fideicomiso;
 
@@ -24,10 +24,10 @@ c) Pueden ser removidos de su cargo los fiduciarios, sean éstos personas natura
 
 5. Cuando sea declarado por sentencia firme, culpable de las pérdidas o menoscabos que sufran los bienes dados en fideicomiso;
 
-6. Cuando con posterioridad a la constitución del fideicomiso, el fiduciario adquiera para si derechos reales sobre alguno de los bienes fideicomitidos o interés opuesto al del fideicomiso; y
+6. Cuando con posterioridad a la constitución del fideicomiso, el fiduciario adquiera para sí derechos reales sobre alguno de los bienes fideicomitidos o interés opuesto al del fideicomiso; y
 
 7. Por haber sido declarado judicialmente, mediante sentencia firme, insolvente, en quiebra o concurso de acreedores.
 
-La remoción del fiduciario la hará el Juez de Distrito de lo Civil del domicilio de aquel a solicitud del fideicomitente o del fideicomisario, según el caso, de conformidad a los trámites establecidos en el Código de Procedimiento Civil para la remoción de los guardadores; salvo que las partes convengan en el contrato de fideicomiso someter este asunto al procedimiento establecido por la ley que regula la materia sobre mediación y arbitraje.
+La remoción del fiduciario la hará el Juez de Distrito de lo Civil del domicilio de aquel a solicitud del fideicomitente o del fideicomisario, según el caso, de conformidad a los trámites establecidos en el Código Procesal Civil para la remoción de los guardadores; salvo que las partes convengan en el contrato de fideicomiso someter este asunto al procedimiento establecido por la ley que regula la materia sobre mediación y arbitraje.
 
 Cuando el fiduciario deba ser reemplazado por remoción, los bienes del fideicomiso deberán ser transferidos al sustituto, en su caso, por el fiduciario saliente. En caso de no haber sustituto, los bienes fideicometidos se restituirán al patrimonio del fideicomitente o sus herederos.

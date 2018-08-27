@@ -6,7 +6,7 @@ El fideicomiso cuyo objeto recaiga en bienes muebles surtirá efectos contra ter
 
 a) Si se tratare de un crédito, cuando se haga la cesión del mismo.
 
-b) Si se tratare de un título a la orden, cuando éste sea endosado y entregado al fiduciario.
+b) Si se tratare de un título a la orden, cuando este sea endosado y entregado al fiduciario.
 
 c) Si se tratare de un título nominativo, cuando sea endosado al fiduciario y se inscriba en los registros del emisor.
 
@@ -16,6 +16,6 @@ e) Si se tratare de cosa corpórea, cuando se transfiera en escritura pública.
 
 CONSTITUCIÓN DEL FIDEICOMISO, CAUSAS DE NULIDAD Y PROHIBICIONES
 
-Capítulo l
+Capítulo I
 
 Constitución del Fideicomiso

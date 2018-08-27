@@ -12,7 +12,7 @@ c) Pagar los honorarios del fiduciario, salvo pacto en contrario.
 
 d) Las demás obligaciones que se establezcan en el contrato.
 
-Capítulo ll
+Capítulo II
 
 Fideicomisario
 

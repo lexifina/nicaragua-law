@@ -2,7 +2,7 @@
 
 Causales de Renuncia.
 
-Una vez aceptado el cargo, el fiduciario no podrá renunciar a éste, si no por justa causa calificada como tal por el Juez de Distrito de lo Civil del domicilio del fiduciario. Son causas justas:
+Una vez aceptado el cargo, el fiduciario no podrá renunciar a este, si no por justa causa calificada como tal por el Juez de Distrito de lo Civil del domicilio del fiduciario. Son causas justas:
 
 a) Que el fideicomisario no pueda recibir, o que se niegue a recibir las prestaciones o bienes de acuerdo con el acto constitutivo del fideicomiso.
 

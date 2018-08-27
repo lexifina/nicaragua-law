@@ -6,6 +6,6 @@ En caso de quiebra del fiduciario, el Liquidador, previa autorización del fidei
 
 CLASES DE FIDEICOMISO
 
-Capitulo Único
+Capítulo Único
 
 Distintas Operaciones de Fideicomiso

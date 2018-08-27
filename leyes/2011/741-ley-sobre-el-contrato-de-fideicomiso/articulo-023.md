@@ -16,7 +16,7 @@ e) Promover judicialmente la remoción del fiduciario por causas justificadas, y
 
 Cuando el fideicomisario sea menor de edad o fuere incapaz, el ejercicio de los derechos mencionados corresponderá al que ejerza la patria potestad, al guardador o al Ministerio Público, en su caso.
 
-Capítulo lll
+Capítulo III
 
 Fiduciario
 

@@ -2,4 +2,4 @@
 
 Fideicomitente.
 
-Pueden actuar como constituyentes de fideicomiso, las personas naturales o jurídicas, privadas, públicas o mixtas, nacionales o extrajeras, o entidades dotadas de personalidad jurídica con capacidad para transmitir la titularidad de los bienes o derechos objeto del fideicomiso, según sea el caso.
+Pueden actuar como constituyentes de fideicomiso, las personas naturales o jurídicas, privadas, públicas o mixtas, nacionales o extranjeras, o entidades dotadas de personalidad jurídica con capacidad para transmitir la titularidad de los bienes o derechos objeto del fideicomiso, según sea el caso.

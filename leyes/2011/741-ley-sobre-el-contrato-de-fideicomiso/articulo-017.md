@@ -8,7 +8,7 @@ a) Los que se hubiere reservado para ejercerlos directamente sobre los bienes da
 
 b) Revocar el fideicomiso cuando se haya reservado este derecho al constituirlo y pedir la remoción del fiduciario.
 
-c) Nombrar nuevo fiduciario en los casos contemplados en los artículos 37 y 38 de la presente Ley.
+c) Nombrar nuevo fiduciario en los casos contemplados en los Artículos 37 y 38 de la presente Ley.
 
 d) Obtener la devolución de los bienes al concluirse el fideicomiso, salvo pacto en contrario.
 

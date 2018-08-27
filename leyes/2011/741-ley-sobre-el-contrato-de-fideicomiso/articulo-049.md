@@ -2,7 +2,7 @@
 
 Transferencia de los Bienes.
 
-Extinguido el fideicomiso, los bienes que lo constituyen que queden en poder del fiduciario, serán transferidos por éste a quien corresponda, según las disposiciones del documento constitutivo, y en su defecto, deberán ser entregados al fideicomitente o a sus herederos.
+Extinguido el fideicomiso, los bienes que lo constituyen que queden en poder del fiduciario, serán transferidos por este a quien corresponda, según las disposiciones del documento constitutivo, y en su defecto, deberán ser entregados al fideicomitente o a sus herederos.
 
 Para que esta transferencia surta efectos, tratándose de inmuebles o de derechos reales constituidos sobre ellos, el fiduciario deberá efectuarla en escritura pública, cuyo testimonio se inscribirá en el Registro en que el fideicomiso hubiere sido inscrito.
 

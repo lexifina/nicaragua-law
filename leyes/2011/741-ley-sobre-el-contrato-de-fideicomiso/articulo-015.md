@@ -16,7 +16,7 @@ e) El mecanismo a través del cual informará del contenido de dichas resolucion
 
 FIDEICOMITENTE, FIDUCIARIO Y FIDEICOMISARIO
 
-Capítulo l
+Capítulo I
 
 Fideicomitente
 

@@ -2,4 +2,4 @@
 
 Normas Supletorias.
 
-En lo no previsto en esta Ley se procederá conforme a lo establecido en el Código de Comercio; Código Civil; Código de Procedimiento Civil y demás leyes y normas aplicables.
+En lo no previsto en esta Ley se procederá conforme a lo establecido en el Código de Comercio; Código Civil; Código Procesal Civil y demás leyes y normas aplicables.

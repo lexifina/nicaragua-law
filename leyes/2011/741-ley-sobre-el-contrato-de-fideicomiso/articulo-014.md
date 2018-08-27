@@ -4,7 +4,7 @@ Requisitos del Contrato de Fideicomiso.
 
 El contrato de fideicomiso deberá contener, al menos, las siguientes cláusulas:
 
-a) La identificación del fideicomitente, del fiduciario y del fideicomisario, si éste se hubiese designado. Cuando se trate de beneficiarios futuros o de clases de beneficiarios, deberán expresarse circunstancias suficientes para su identificación.
+a) La identificación del fideicomitente, del fiduciario y del fideicomisario, si este se hubiese designado. Cuando se trate de beneficiarios futuros o de clases de beneficiarios, deberán expresarse circunstancias suficientes para su identificación.
 
 b) La designación de fiduciarios sustitutos, si los hubiere.
 
@@ -30,8 +30,8 @@ l) Duración total del Fideicomiso.
 
 m) Causales de terminación del Fideicomiso.
 
-n) Procedimiento de sustitución del fiduciario en caso de quiebra o cuando opere otra causal de remoción de éste.
+n) Procedimiento de sustitución del fiduciario en caso de quiebra o cuando opere otra causal de remoción de este.
 
-Capítulo ll
+Capítulo II
 
 Formación del Comité Técnico

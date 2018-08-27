@@ -16,6 +16,6 @@ El fideicomiso contractual será válido aunque se constituya sin señalar fidei
 
 La transmisión de la propiedad opera para que el fiduciario pueda realizar el fin que se le encomienda. Frente a terceros, el fiduciario tendrá el carácter de dueño de los bienes o derechos fideicomitidos.
 
-Capítulo ll
+Capítulo II
 
 Causas de Nulidad y Prohibiciones

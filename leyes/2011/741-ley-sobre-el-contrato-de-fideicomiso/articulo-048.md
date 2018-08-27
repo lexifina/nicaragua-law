@@ -1,6 +1,8 @@
 # Artículo 48
 
-Causales de Extinción del Fideicomiso. El fideicomiso se extingue:
+Causales de Extinción del Fideicomiso.
+
+El fideicomiso se extingue:
 
 a) Por la realización del fin para el cual fue constituido, o por ser imposible su cumplimiento.
 
@@ -14,7 +16,7 @@ e) Por revocación que haga el fideicomitente cuando se haya reservado ese derec
 
 f) Por falta del fiduciario, si no fuere posible su sustitución.
 
-g) En caso de quiebra del fiduciario, con excepción de lo dispuesto en el artículo 50 de esta Ley.
+g) En caso de quiebra del fiduciario, con excepción de lo dispuesto en el Artículo 50 de esta Ley.
 
 h) Por renuncia del o los fideicomisarios.
 
@@ -24,4 +26,4 @@ j) Por la declaración de nulidad del acto constitutivo.
 
 k) Por la constitución del fideicomiso en fraude de terceros.
 
-I) Por cualquier otra causa establecida en el documento constitutivo del fideicomiso o en esta Ley
+l) Por cualquier otra causa establecida en el documento constitutivo del fideicomiso o en esta Ley.
