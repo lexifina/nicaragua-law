@@ -10,7 +10,7 @@ Son atribuciones del Presidente Ejecutivo las siguientes:
 
 3. Presentar al Consejo Directivo iniciativas de propuestas de normas generales de regulación y supervisión para su aprobación.
 
-4, Supervisar a las IMF a través de inspecciones in situ, extra situ, auxiliadas o delegadas conforme las normativas aprobadas para tales efectos.
+4. Supervisar a las IMF a través de inspecciones in situ, extra situ, auxiliadas o delegadas conforme las normativas aprobadas para tales efectos.
 
 5. Establecer los requerimientos de documentación e información para expedientes, registros y archivos de las IMF.
 
@@ -20,7 +20,7 @@ Son atribuciones del Presidente Ejecutivo las siguientes:
 
 8. Administrar el Registro Nacional de las IFIM.
 
-9. Autorizar y administrar el registro de firmas de auditorías externas de las IMF.
+9. Autorizar y administrar el registro de firmas de auditorías externas de las IMF
 
 10. Resolver e imponer las sanciones que correspondan conforme a la presente Ley y a las normas que se dicten en esta materia.
 

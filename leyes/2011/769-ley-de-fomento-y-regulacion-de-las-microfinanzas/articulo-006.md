@@ -1,6 +1,6 @@
 # Artículo 6
 
-Atribuciones de la CONAMI
+Atribuciones de la CONAMI.
 
 La CONAMI tendrá las atribuciones siguientes:
 
@@ -16,7 +16,7 @@ La CONAMI tendrá las atribuciones siguientes:
 
 6. Dictar las normas y disposiciones contables y de funcionamiento aplicables a las IMF, en función de la naturaleza y especialidad de sus actividades.
 
-7. Aprobar la organización y regulación del sistema de calificación y supervisión directa, auxiliada o delegada de las IMF, los que serán implementados por funcionarios de la CONAMI o mediante firmas de auditoría registradas y facultadas para tal efecto. Quienes realicen estas actividades están obligados a observar reserva de las Operaciones de las IMF, bajo pena de responsabilidad civil y penal.
+7. Aprobar la organización y regulación del sistema de calificación y supervisión directa, auxiliada o delegada de las IMF, los que serán implementados por funcionarios de la CONAMI o mediante firmas de auditoría registradas y facultadas para tal efecto. Quienes realicen estas actividades están obligados a observar reserva de las operaciones de las IMF, bajo pena de responsabilidad civil y penal.
 
 8. Impartir a las instituciones sujetas a su vigilancia, las instrucciones necesarias para subsanar las deficiencias o irregularidades que se encontraren e imponer sanciones por su incumplimiento.
 

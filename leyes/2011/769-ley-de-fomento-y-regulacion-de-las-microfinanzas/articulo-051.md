@@ -24,7 +24,7 @@ Las estrategias, políticas y directrices escritas que regulen el gobierno corpo
 
 9. Políticas sobre concesión de créditos, régimen de inversiones, evaluación de la calidad de los activos, suficiencia de provisiones y administración de los diferentes riesgos;
 
-10. Política sobre la distribución o utilización de sus excedentes o utilidades; Y
+10. Política sobre la distribución o utilización de sus excedentes o utilidades; y
 
 11. Política de desarrollo sostenible, en equidad de género, cuando el objeto social de la IMF así lo contemple, conciliando las cuestiones de desarrollo económico con las de responsabilidad socio ambiental.
 

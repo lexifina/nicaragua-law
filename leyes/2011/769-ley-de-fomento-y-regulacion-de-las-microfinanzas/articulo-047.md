@@ -8,15 +8,15 @@ La Junta Directiva de las IMF, sin perjuicio de las demás disposiciones legales
 
 2. Velar por el cumplimiento de la misión social;
 
-3. Aprobar la política financiera y crediticia de la entidad y controlar su ejecución.
+3. Aprobar la política financiera y crediticia de la entidad y controlar su ejecución;
 
 4. Velar porque se implementen e instruir para que se mantengan en adecuado funcionamiento y ejecución, las políticas, sistemas y procesos que sean necesarios para una correcta administración, evaluación y control de los riesgos inherentes al negocio;
 
 5. Velar porque las operaciones activas y pasivas no excedan los límites establecidos en la norma que emita la CONAMI;
 
-6. Conocer y disponer lo que sea necesario para el cumplimiento y ejecución de los programas y medidas de cualquier naturaleza de la CONAMI, que en el mareo de su competencia, disponga en relación con la institución;
+6. Conocer y disponer lo que sea necesario para el cumplimiento y ejecución de los programas y medidas de cualquier naturaleza de la CONAMI, que en el marco de su competencia, disponga en relación con la institución;
 
-7. Cumplir y hacer que se cumplan en todo momento las disposiciones de las Leyes, normas, directrices y reglamentos internos aplicables;
+7. Cumplir y hacer que se cumplan en todo momento las disposiciones de las leyes, normas, directrices y reglamentos internos aplicables;
 
 8. Recibir reportes periódicos sobre la marcha de la institución y conocer los estados financieros mensuales y anuales de la misma;
 
@@ -30,6 +30,6 @@ La Junta Directiva de las IMF, sin perjuicio de las demás disposiciones legales
 
 13. Asegurar que se implementen las recomendaciones derivadas de los informes de auditoría, tanto interna como externa, así como del Comité de Riesgos; y
 
-14. Determinar acciones y medidas tendientes a garantizar la correcta y adecuada aplicación de las disposiciones legales y normativas de transparencia y protección (le los derechos de los usuarios de los servicios de microfinanzas.
+14. Determinar acciones y medidas tendientes a garantizar la correcta y adecuada aplicación de las disposiciones legales y normativas de transparencia y protección de los derechos de los usuarios de los servicios de microfinanzas.
 
-El Consejo Directivo de la CONAMI podrá dictar normas (le aplicación general en las que se establezca la forma en que se implementarán las responsabilidades aquí enunciadas,
+El Consejo Directivo de la CONAMI podrá dictar normas de aplicación general en las que se establezca la forma en que se implementarán las responsabilidades aquí enunciadas.

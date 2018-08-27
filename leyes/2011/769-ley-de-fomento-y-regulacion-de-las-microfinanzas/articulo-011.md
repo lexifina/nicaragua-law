@@ -4,13 +4,13 @@ Prohibiciones.
 
 No podrán ser miembros del Consejo Directivo de la CONAMI:
 
-El o la cónyuge, pareja en unión de hecho estable y pariente del Presidente o de la Presidenta de República dentro del cuarto grado de consanguinidad o segundo de afinidad;
+1. El o la cónyuge, pareja en unión de hecho estable y pariente del Presidente o de la Presidenta de República dentro del cuarto grado de consanguinidad o segundo de afinidad;
 
 2. Quienes sean deudores morosos de cualquier entidad bancaria o financiera y quienes hubieren sido declarados en estado de insolvencia, quiebra o concurso.
 
 3. Los que hubieren sido condenados mediante sentencia firme, por delitos comunes.
 
-4. Las personas que sean cónyuge, pareja en unión de hecho estable u pariente de un miembro del Consejo Directivo, dentro del cuarto grado de consanguinidad o segundo de afinidad.
+4. Las personas que sean cónyuge, pareja en unión de hecho estable o pariente de un miembro del Consejo Directivo, dentro del cuarto grado de consanguinidad o segundo de afinidad.
 
 5. Quienes desempeñen funciones de asesoría o consultoría para las IMF o cualquier otra institución registrada ante la CONAMI. Asimismo, los miembros no podrán ejercer cargos ni mantener relación alguna que pudiera representar un posible conflicto de interés.
 

@@ -2,13 +2,13 @@
 
 Atribuciones del Consejo Directivo.
 
-Corresponden al Consejo Directivo de Ia CONAMI las atribuciones siguientes:
+Corresponden al Consejo Directivo de la CONAMI las atribuciones siguientes:
 
 1. Autorizar la inscripción de las entidades comprendidas dentro del alcance de la presente Ley en el Registro Nacional de IFIM, previa solicitud de parte interesada y cumplimiento de los requisitos y procedimientos establecidos en esta Ley y normas de carácter general.
 
 2. Aprobar normas generales que aseguren el origen lícito del patrimonio y de los fondos intermediados por las IMF.
 
-3. Ordenar la suspensión temporal o la cancelación definitiva, previo el debido proceso conforme normativa que dicte la CONAMI, del Registro de cualquier IMF registrada, que a su juicio hubiese incurrido en alguna de las causales contempladas en la presente Ley o en su normativa, que harían obligatoria tal decisión. En el caso de la suspensión temporal, ésta cesará hasta que la respectiva IMF a juicio de la CONAMI subsane tas irregularidades que motivaron la decisión.
+3. Ordenar la suspensión temporal o la cancelación definitiva, previo el debido proceso conforme normativa que dicte la CONAMI, del Registro de cualquier IMF registrada, que a su juicio hubiese incurrido en alguna de las causales contempladas en la presente Ley o en su normativa, que harían obligatoria tal decisión. En el caso de la suspensión temporal, ésta cesará hasta que la respectiva IMF a juicio de la CONAMI subsane las irregularidades que motivaron la decisión.
 
 4. Aprobar las normas prudenciales, contables, de registro, provisiones, de operaciones, de administración del riesgo y cualquier otra aplicable a las IMF.
 

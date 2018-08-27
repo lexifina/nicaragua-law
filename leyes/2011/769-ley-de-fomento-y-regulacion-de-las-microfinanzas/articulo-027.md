@@ -2,7 +2,7 @@
 
 Uso de recursos del FOPROMI.
 
-Los recursos del FOPROMI serán utilizados para financiar las siguientes actividades y/c, proyectos:
+Los recursos del FOPROMI serán utilizados para financiar las siguientes actividades y/o proyectos:
 
 1. Proyectos pilotos de innovación tecnológica para mayor inclusión financiera de los sectores de bajos ingresos de la economía.
 

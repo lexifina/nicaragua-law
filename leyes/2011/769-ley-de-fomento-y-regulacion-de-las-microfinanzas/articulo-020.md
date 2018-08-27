@@ -1,6 +1,6 @@
 # Artículo 20
 
-Requisitos básicos para inscribirse en el Registro Nacional de IFIM
+Requisitos básicos para inscribirse en el Registro Nacional de IFIM.
 
 Los requisitos básicos para inscribirse en el Registro Nacional de IFIM son los siguientes:
 

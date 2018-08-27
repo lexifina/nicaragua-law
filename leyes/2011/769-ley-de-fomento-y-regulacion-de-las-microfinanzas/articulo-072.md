@@ -8,4 +8,4 @@ En caso de dudas o contradicción entre las cláusulas de los contratos, prevale
 
 Las IFIM registradas difundirán en sus oficinas y en su sitio de Internet, para conocimiento del público y de los potenciales usuarios del microcrédito, los modelos de contrato.
 
-Todos los derechos y demás disposiciones relacionadas con la protección de los usuarios de servicios microfinancieros, contenidos en la presente ley y la Normativa, son de carácter irrenunciable.
+Todos los derechos y demás disposiciones relacionadas con la protección de los usuarios de servicios microfinancieros, contenidos en la presente Ley y la Normativa, son de carácter irrenunciable.

@@ -24,9 +24,9 @@ Se exceptúa de esta disposición:
 
 9. Los requerimientos de información que efectúe el Banco Central de Nicaragua con fines estadísticos y de análisis macroeconómico, en el marco de lo dispuesto en su Ley Orgánica; y
 
-10. Otras que estableciere la ley.
+10. Otras que estableciere la Ley.
 
-Ninguna autoridad administrativa, exceptuándose a la CONAMI, podrá solicitar directamente a las IMF información particular o individual de sus clientes.
+Ninguna autoridad administrativa, exceptuándose a la CONAMI y la UAF, podrán solicitar directamente a las IMF información particular o individual de sus clientes.
 
 Los directores, gerentes, auditores y cualquier otro empleado de las IMF serán responsables personal y penalmente por la violación de la reserva y estarán obligados a reparar los daños y perjuicios causados al cliente o a la IMF.
 

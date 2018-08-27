@@ -1,6 +1,6 @@
 # Artículo 4
 
-Definiciones
+Definiciones.
 
 Para los efectos de la presente Ley, las definiciones establecidas en el presente artículo, tanto en mayúscula como en minúscula, singular o plural, tendrán los significados siguientes:
 
@@ -12,9 +12,9 @@ Para los efectos de la presente Ley, las definiciones establecidas en el present
 
 4. IMF: Institución de Microfinanzas. Se considerará como IMF a las IFIM constituidas como personas jurídicas sin fines de lucro o como sociedades mercantiles, distintas de los bancos y sociedades financieras, cuyo objeto fundamental sea brindar servicios de microfinanzas y posean un Patrimonio o Capital Social Mínimo, igual o superior a cuatro millones quinientos mil córdobas (C$4,500,000.00), o en su equivalente en moneda dólar de los Estados Unidos de América según tipo de cambio oficial, y que el valor bruto de su cartera de microcréditos represente al menos el cincuenta por ciento de su activo total.
 
-5. Intermediación de Microcrédito: Actividad que realizan las IFIM, consistente en captar recursos de instituciones financieras mercantiles o de desarrollo, nacionales o extrajeras, bajo cualquier modalidad, o mediante otros medios lícitos, para su posterior colocación o inversión en operaciones de microfinanzas.
+5. Intermediación de Microcrédito: Actividad que realizan las IFIM, consistente en captar recursos de instituciones financieras mercantiles o de desarrollo, nacionales o extranjeras, bajo cualquier modalidad, o mediante otros medios lícitos, para su posterior colocación o inversión en operaciones de microfinanzas.
 
-6. Microcrédito: Créditos de pequeño monto, hasta por un máximo equivalente a diez veces el Producto Interno Bruto (1'113) per capita del país, destinados a financiar actividades en pequeña escala de producción, comercio, vivienda y servicios, entre otros, otorgados a personas naturales o jurídicas que actúan de manera individual o colectiva, con negocios propios o interés de iniciarlos, y que serán devueltos principalmente con el producto de la venta de bienes y servicios del mismo. Estos créditos son otorgados masivamente utilizando metodologías crediticias especializadas para evaluar y determinar la voluntad y capacidad de pago del potencial cliente.
+6. Microcrédito: Créditos de pequeño monto, hasta por un máximo equivalente a diez veces el Producto Interno Bruto (PIB) per cápita del país, destinados a financiar actividades en pequeña escala de producción, comercio, vivienda y servicios, entre otros, otorgados a personas naturales o jurídicas que actúan de manera individual o colectiva, con negocios propios o interés de iniciarlos, y que serán devueltos principalmente con el producto de la venta de bienes y servicios del mismo. Estos créditos son otorgados masivamente utilizando metodologías crediticias especializadas para evaluar y determinar la voluntad y capacidad de pago del potencial cliente.
 
 7. Servicio conexo no financiero: Todo servicio brindado por las IFIM, de forma directa o mediante tercerización del mismo, que sea auxiliar o complementaria al microcrédito.
 

@@ -1,6 +1,6 @@
 # Artículo 56
 
-Operaciones de las IMF
+Operaciones de las IMF.
 
 Las IMF podrán efectuar las siguientes operaciones relacionadas al microcrédito:
 
@@ -16,7 +16,7 @@ d. Efectuar operaciones de remesas nacionales y con el exterior;
 
 e. Realizar operaciones de compra y venta de moneda extranjera;
 
-f. Realizar inversiones en el capital de empresas de servicios auxiliares Financieros;
+f. Realizar inversiones en el capital de empresas de servicios auxiliares financieros;
 
 g. Actuar como administradores de fondos de agencias de cooperación y entidades financieras de desarrollo, públicas o privadas, en los términos, condiciones, mecanismos y requisitos convenidos;
 
@@ -24,7 +24,7 @@ h. Efectuar operaciones de factoraje y arrendamiento financiero;
 
 i. Efectuar operaciones de corresponsalía no bancaria;
 
-j. Actuar en calidad de agentes comercializadores de microseguros de conformidad a la ley de la materia;
+j. Actuar en calidad de agentes comercializadores de micro seguros de conformidad a la ley de la materia;
 
 k. Sindicarse con otras IMF para otorgar créditos o garantías a la micro, pequeña y mediana empresa, más allá del límite del microcrédito, sin sobrepasar cada IMF participante su propio límite individual;
 
@@ -52,4 +52,4 @@ b. Ejecutar programas o fondos especiales dirigidos al fomento del microcrédito
 
 c. Suscribir convenios de corresponsalía sobre operaciones activas y pasivas, con bancos y sociedades financieras en el marco de lo establecido por las normas de la materia.
 
-Además de las IMF podrán realizar cualquier otra operación que apruebe mediante resolución de carácter general el Consejo Directivo de la CONAMI, exceptuando las operaciones prohibidas por la presente Ley.
+Además las IMF podrán realizar cualquier otra operación que apruebe mediante resolución de carácter general el Consejo Directivo de la CONAMI, exceptuando las operaciones prohibidas por la presente Ley.

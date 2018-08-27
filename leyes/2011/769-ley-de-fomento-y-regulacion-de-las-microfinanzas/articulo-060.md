@@ -1,6 +1,6 @@
 # Artículo 60
 
-Sanciones
+Sanciones.
 
 El Presidente Ejecutivo de la CONAMI, sobre la base del conocimiento que obtenga sobre situaciones irregulares de las IMF, podrá adoptar cualquiera de las siguientes acciones:
 

@@ -1,10 +1,10 @@
 # Artículo 2
 
-Finalidades
+Finalidades.
 
-Son finalidades de la presente ley:
+Son finalidades de la presente Ley:
 
-1. Incentivar las microfinanzas a fin de potenciar los beneficios financieros y sociales de esta actividad,
+1. Incentivar las microfinanzas a fin de potenciar los beneficios financieros y sociales de esta actividad.
 
 2. Promover la oferta de otros servicios financieros y no financieros para aumentar la rentabilidad y eficiencia del usuario del microcrédito.
 

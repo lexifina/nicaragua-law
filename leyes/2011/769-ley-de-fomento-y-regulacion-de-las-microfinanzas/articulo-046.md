@@ -4,7 +4,7 @@ Impedimentos para ser miembro de la Junta Directiva.
 
 No podrán ser miembros de la Junta Directiva de una IMF, y su elección carecerá de validez, las personas siguientes:
 
-1, Las que hubiesen sido declaradas judicialmente en estado de insolvencia, concurso o quiebra; o que hayan sido sancionadas en los quince años anteriores por causar perjuicio a una institución financiera en calidad de directivo o ejecutivo principal; o que hubieren sido condenados mediante sentencia firme, por delitos comunes.
+1. Las que hubiesen sido declaradas judicialmente en estado de insolvencia, concurso o quiebra; o que hayan sido sancionadas en los quince años anteriores por causar perjuicio a una institución financiera en calidad de directivo o ejecutivo principal; o que hubieren sido condenados mediante sentencia firme, por delitos comunes.
 
 2. Quienes en los últimos diez años se hubieren desempeñado como directores o ejecutivo principal de una institución financiera al momento de ser declarada en estado de liquidación forzosa.
 

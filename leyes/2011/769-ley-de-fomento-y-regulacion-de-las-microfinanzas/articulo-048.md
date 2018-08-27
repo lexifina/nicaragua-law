@@ -2,7 +2,7 @@
 
 Auditoría Interna.
 
-Sin perjuicio de las facultades conferidas a la CONAMI respecto de la vigilancia y fiscalización de las IMF, éstas deberán contar con un Auditor interno a cuyo cargo estarán las funciones de inspección y fiscalización de las operaciones y cuentas de la IMF. EI auditor interno deberá contar con al menos cinco años de experiencia en labores afines.
+Sin perjuicio de las facultades conferidas a la CONAMI respecto de la vigilancia y fiscalización de las IMF, éstas deberán contar con un Auditor Interno a cuyo cargo estarán las funciones de inspección y fiscalización de las operaciones y cuentas de la IMF. EI auditor interno deberá contar con al menos cinco años de experiencia en labores afines.
 
 El Auditor Interno será nombrado por la máxima autoridad de la IMF por un período de tres años, pudiendo ser confirmado para períodos sucesivos. Asimismo, podrá ser removido de su cargo antes del vencimiento de su período. Mediante resolución razonada de dicha autoridad, la que deberá contar con la previa no objeción del Presidente Ejecutivo de la CONAMI.
 
