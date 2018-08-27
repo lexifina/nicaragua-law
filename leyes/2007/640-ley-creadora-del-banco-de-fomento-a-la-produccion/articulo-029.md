@@ -1,3 +1,3 @@
 # Artículo 29
 
-Derogado
+Derogado.

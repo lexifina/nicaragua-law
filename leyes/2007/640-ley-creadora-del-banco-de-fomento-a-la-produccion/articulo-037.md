@@ -1,3 +1,3 @@
 # Artículo 37
 
-Derogado
+Derogado.

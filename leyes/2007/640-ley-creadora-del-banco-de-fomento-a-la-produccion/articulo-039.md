@@ -1,7 +1,7 @@
 # Artículo 39
 
-Disolución y liquidación
+Disolución y Liquidación.
 
-Sobre las causales y procedimientos de Di solución y Liquidación, se estará sujeto a lo determinado en la Ley Nº. 314, "Ley General de Bancos, Instituciones Financieras No Bancarias y Grupos Financieros".
+Sobre las causales y procedimientos de Disolución y Liquidación, se estará sujeto a lo determinado en la Ley N°. 561, “Ley General de Bancos, Instituciones Financieras no Bancarias y Grupos Financieros”.
 
 Disposiciones Transitorias y Finales

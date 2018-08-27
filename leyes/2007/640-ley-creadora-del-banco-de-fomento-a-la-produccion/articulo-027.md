@@ -1,3 +1,3 @@
 # Artículo 27
 
-Derogado
+Derogado.

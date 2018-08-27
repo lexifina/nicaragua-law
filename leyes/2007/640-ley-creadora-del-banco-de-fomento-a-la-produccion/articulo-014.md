@@ -1,14 +1,12 @@
 # Artículo 14
 
-Prohibiciones para ser miembros del Consejo Directivo o Gerente General
+Prohibiciones para ser miembros del Consejo Directivo o Gerente General.
 
 No podrán ser miembros del Consejo Directivo del Banco, ni Gerente General:
 
 1) Los parientes del Presidente de la República de Nicaragua dentro del cuarto grado de consanguinidad o segundo de afinidad.
 
-2) Los que ocupen otros cargos de función pública. Se exceptúan
-
-para el caso del Consejo Directivo al Ministro de Fomento, Industria y Comercio y al Ministro Agropecuario.
+2) Los que ocupen otros cargos de función pública. Se exceptúan para el caso del Consejo Directivo al Ministro de Fomento, Industria y Comercio y al Ministro Agropecuario.
 
 3) Los directores, accionistas o funcionarios de otras entidades financieras del ámbito mercantil.
 
@@ -20,6 +18,6 @@ para el caso del Consejo Directivo al Ministro de Fomento, Industria y Comercio 
 
 7) Quienes no posean reconocida solvencia moral y competencia profesional en materias relacionadas con su condición de miembro del Consejo Directivo.
 
-8) Aquellas personas que por disposición expresa de la Ley N°. 561, "Ley General de Bancos, Instituciones Financieras No Bancarias y Grupos Financieros" y las normas dictadas por la Superintendencia de Bancos, estén impedidas de ejercer este tipo de cargo.
+8) Aquellas personas que por disposición expresa de la Ley N°. 561, “Ley General de Bancos, Instituciones Financieras no Bancarias y Grupos Financieros” y las normas dictadas por la Superintendencia de Bancos, estén impedidas de ejercer este tipo de cargo.
 
 9) Quienes ejerzan otro cargo dentro del Banco.
