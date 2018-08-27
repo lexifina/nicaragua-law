@@ -4,7 +4,7 @@
 - CAPÍTULO II (antes del artículo 4)
 - TÍTULO II (antes del artículo 9)
 - CAPÍTULO I (antes del artículo 9)
-- CAPÍTULO II (antes del artículo 24)
+- CAPÍTULO II (antes del artículo 23)
 - TÍTULO III (antes del artículo 30)
 - CAPÍTULO I (antes del artículo 30)
 - DISPOSICIONES GENERALES (antes del artículo 30)

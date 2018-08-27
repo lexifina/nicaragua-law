@@ -1,6 +1,6 @@
 # Artículo 129
 
-Abstenciones Obligatorias. Los participantes en el mercado que reciban órdenes, las ejecuten o asesoren a clientes respecto de inversiones en valores, deberán abstenerse de lo siguiente:
+Abstenciones obligatorias. Los participantes en el mercado que reciban órdenes, las ejecuten o asesoren a clientes respecto de inversiones en valores, deberán abstenerse de lo siguiente:
 
 a) Provocar en beneficio propio o ajeno, una evolución artificial de los precios.
 

@@ -1,6 +1,6 @@
 # Artículo 39
 
-Funciones y Atribuciones. Sin perjuicio de las funciones de supervisión y regulación que esta Ley le otorga a la Superintendencia de Bancos y otras Instituciones Financieras. Las Bolsas de Valores tendrán las siguientes funciones y atribuciones:
+Funciones y atribuciones. Sin perjuicio de las funciones de supervisión y regulación que esta Ley le otorga a la Superintendencia de Bancos y de Otras Instituciones Financieras. Las Bolsas de Valores tendrán las siguientes funciones y atribuciones:
 
 a) Autorizar la constitución y el funcionamiento de los puestos de bolsa y de los agentes de bolsa que en ella operen, regular y supervisar sus operaciones en Bolsa y velar porque cumplan con esta Ley, las normas del Consejo Directivo de la Superintendencia y los reglamentos dictados por la Bolsa de la que sean miembros, sin perjuicio de las atribuciones del Superintendente.
 

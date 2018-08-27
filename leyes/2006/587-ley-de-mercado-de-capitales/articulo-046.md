@@ -1,6 +1,6 @@
 # Artículo 46
 
-Oferta Pública de Adquisición. Quien pretenda adquirir, directa o indirectamente, en un solo acto o actos sucesivos, un volumen de acciones u otros valores de una sociedad inscrita en el Registro de Valores, y alcanzar así una participación significativa en el capital social, deberá promover una oferta pública de adquisición dirigida a todos los tenedores de acciones de esta sociedad.
+Oferta pública de adquisición. Quien pretenda adquirir, directa o indirectamente, en un solo acto o actos sucesivos, un volumen de acciones u otros valores de una sociedad inscrita en el Registro de Valores, y alcanzar así una participación significativa en el capital social, deberá promover una oferta pública de adquisición dirigida a todos los tenedores de acciones de esta sociedad.
 
 El Consejo Directivo de la Superintendencia normará las condiciones de las ofertas públicas de adquisición en los siguientes aspectos, por lo menos:
 

@@ -1,6 +1,6 @@
 # Artículo 136
 
-Normas Reguladoras de Conflictos de Interés. El Consejo Directivo de la Superintendencia, dictará las normas necesarias para regular los conflictos de interés entre los participantes de los mercados de valores, e incluirá al menos lo siguiente:
+Normas reguladoras de conflictos de interés. El Consejo Directivo de la Superintendencia, dictará las normas necesarias para regular los conflictos de interés entre los participantes de los mercados de valores, e incluirá al menos lo siguiente:
 
 a) La prohibición de determinadas operaciones entre sociedades pertenecientes al mismo grupo financiero, aplicando en lo pertinente, las normas establecidas al respecto en la Ley General de Bancos, Instituciones Financieras no Bancarias y Grupos Financieros.
 

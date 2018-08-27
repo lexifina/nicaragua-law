@@ -6,7 +6,7 @@ a) Adoptar todas las acciones necesarias para el cumplimiento efectivo de las fu
 
 b) Someter a la consideración del Consejo Directivo de la Superintendencia los proyectos de normas que le corresponda dictar a la Superintendencia, de acuerdo con lo dispuesto en esta Ley, así como los informes y dictámenes que este Consejo requiera para el ejercicio de sus atribuciones.
 
-c) Imponer a las entidades fiscalizadas las medidas precautorias y las sanciones previstas en el título X de esta Ley.
+c) Imponer a las entidades fiscalizadas las medidas precautorias y las sanciones previstas en el Título X de esta Ley.
 
 d) Ejecutar las normas y acuerdos del Consejo Directivo de la Superintendencia.
 
@@ -14,9 +14,9 @@ e) Aprobar, antes de la entrada en vigencia, los proyectos de estatutos y reglam
 
 f) Suspender o revocar la autorización otorgada a los sujetos fiscalizados en los mercados de valores, así como la autorización para realizar oferta pública, cuando el sujeto respectivo incumpla los requisitos dispuestos por esta Ley o las normas generales dictadas por el Consejo Directivo de la Superintendencia, o cuando la continuidad de la autorización pueda afectar los intereses de los inversionistas o la integridad del mercado.
 
-g) Autorizar las disminuciones de capital de las bolsas, los puestos de bolsa, las Centrales de Valores, las sociedades administradoras de fondos de inversión y titularización, las sociedades de compensación y liquidación y las demás personas jurídicas sujetas a su fiscalización. En ningún caso la disminución podrá reducir el capital a menos del capital mínimo autorizado por esta ley.
+g) Autorizar las disminuciones de capital de las bolsas, los puestos de bolsa, las Centrales de Valores, las sociedades administradoras de fondos de inversión y titularización, las sociedades de compensación y liquidación y las demás personas jurídicas sujetas a su fiscalización. En ningún caso la disminución podrá reducir el capital a menos del capital mínimo autorizado por esta Ley.
 
-h) Exigir a los sujetos fiscalizados, toda la información necesaria, en las condiciones y periodicidad que el Superintendente determine, para cumplir adecuadamente con sus funciones supervisoras del mercado de valores, según lo dispongan las normas generales. Para ello, podrá ordenar sin previo aviso visitas de auditoría a los sujetos fiscalizados. El Superintendente podrá realizar visitas de auditoría a los emisores sólo excepcionalmente, con el fin de aclarar la información de las auditorías. Sin embargo, cuando el emisor coloque valores en ventanilla, el Superintendente podrá inspeccionar los registros de las colocaciones de los emisores y establecer regulaciones sobre la manera de llevar los registros. Además, regulará el uso de la información suministrada por los sujetos fiscalizados, de manera que se garantice la difusión de la información relevante para el público inversionista y la confidencialidad de la información que debe considerarse privada.
+h) Exigir a los sujetos fiscalizados, toda la información necesaria, en las condiciones y periodicidad que el Superintendente determine, para cumplir adecuadamente con sus funciones supervisoras del mercado de valores, según lo dispongan las normas generales. Para ello, podrá ordenar sin previo aviso visitas de auditoría a los sujetos fiscalizados. El Superintendente podrá realizar visitas de auditoría a los emisores solo excepcionalmente, con el fin de aclarar la información de las auditorías. Sin embargo, cuando el emisor coloque valores en ventanilla, el Superintendente podrá inspeccionar los registros de las colocaciones de los emisores y establecer regulaciones sobre la manera de llevar los registros. Además, regulará el uso de la información suministrada por los sujetos fiscalizados, de manera que se garantice la difusión de la información relevante para el público inversionista y la confidencialidad de la información que debe considerarse privada.
 
 i) Requerir de las entidades supervisadas la lista de sus accionistas. En el caso de las personas jurídicas accionistas, las mismas deberán publicar la lista de sus socios.
 
@@ -30,9 +30,9 @@ m) Suministrar al público la más amplia información sobre los sujetos fiscali
 
 n) Velar por la libre competencia en los mercados de valores.
 
-o) Resolver sobre la revocatoria para operar a las entidades reguladas por esta Ley, conforme lo establecen los artículos 210 y 211 de la presente Ley.
+o) Resolver sobre la revocatoria para operar a las entidades reguladas por esta Ley, conforme lo establecen los Artículos 210 y 211 de la presente Ley.
 
-p) Desarrollar cualquier otra actividad de supervisión no detallada en este artículo ni en otras disposiciones de la presente Ley, que le permitan cumplir con sus fines.
+p) Desarrollar cualquier otra actividad de supervisión no detallada en este Artículo ni en otras disposiciones de la presente Ley, que le permitan cumplir con sus fines.
 
 MERCADO PRIMARIO DE VALORES
 

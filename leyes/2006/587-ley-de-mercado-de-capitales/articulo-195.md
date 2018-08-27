@@ -1,8 +1,8 @@
 # Artículo 195
 
-En Relación con los Mercados y sus Operaciones
+En relación con los mercados y sus operaciones.
 
-1. Constituyen Infracciones Muy Graves:
+1. Constituyen infracciones muy graves:
 
 a) La creación, mantenimiento y gestión de un mercado, así como el cierre o suspensión de su actividad, fuera de los casos y términos previstos legalmente.
 
@@ -20,7 +20,7 @@ g) El trato discriminatorio hacia los inversionistas y miembros del mercado.
 
 h) La violación de las normas sobre denominación social, prohibición de intermediación y objeto exclusivo de las sociedades que administran los mercados.
 
-2. Constituyen Infracciones Graves:
+2. Constituyen infracciones graves:
 
 a) La admisión y separación de miembros por la sociedad de Bolsa incumpliendo lo previsto en la Ley o reglamento del mercado.
 

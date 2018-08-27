@@ -1,6 +1,6 @@
 # Artículo 40
 
-Requisitos de Organización. Cada Bolsa de Valores adoptará la administración que más convenga a su objeto social de acuerdo con esta Ley. Sin embargo, su organización deberá cumplir al menos con lo siguiente:
+Requisitos de organización. Cada Bolsa de Valores adoptará la administración que más convenga a su objeto social de acuerdo con esta Ley. Sin embargo, su organización deberá cumplir al menos con lo siguiente:
 
 a) La Junta Directiva deberá conformarse con un mínimo de cinco directores propietarios y los suplentes que determine su pacto social.
 

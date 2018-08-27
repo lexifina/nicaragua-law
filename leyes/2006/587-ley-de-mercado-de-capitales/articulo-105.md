@@ -1,6 +1,6 @@
 # Artículo 105
 
-Causales de Liquidación. Serán causales de liquidación de un fondo de inversión:
+Causales de liquidación. Serán causales de liquidación de un fondo de inversión:
 
 a) El vencimiento del término señalado en su pacto constitutivo y su prospecto, excepto en caso de renovación.
 

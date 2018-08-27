@@ -1,6 +1,6 @@
 # Artículo 182
 
-Contribución a los Costos de Supervisión
+Contribución a los costos de supervisión.
 
 I. Costos de Supervisión.
 
@@ -10,19 +10,19 @@ Las Centrales de Valores y las Sociedades de Compensación y Liquidación contri
 
 Las Sociedades Administradoras de Fondos de Inversión y Sociedades Administradoras de Fondos de Titularización aportarán el uno por millar sobre el valor de los activos de los fondos que administren, con base en el promedio del período de los doce meses anteriores al año presupuestado, conforme al calendario que establezca el Consejo Directivo de la Superintendencia de Bancos.
 
-II. Costos de Registro
+II. Costos de registro.
 
 Todas las instituciones participantes en el mercado de valores supervisadas por la Superintendencia, deberán pagar por una sola vez en concepto de registro el equivalente al uno por ciento de su capital social pagado y una cuota anual por actualización del mismo, que será establecida por el Consejo Directivo de la Superintendencia.
 
-III. Costos por Emisor y Emisión
+III. Costos por emisor y emisión.
 
 Los emisores contribuirán al costo de mantenimiento del registro con una tarifa fija anual establecida por el Consejo Directivo de la Superintendencia; asimismo, contribuirán por el registro de los valores emitidos en la forma en que establezca el Consejo Directivo de la Superintendencia, el mismo que podrá cada dos años ajustar el monto de las tarifas de acuerdo a la variación del tipo de cambio oficial de la moneda nacional.
 
-IV. Inscripción y Actualización de Agentes de Bolsa
+IV. Inscripción y actualización de agentes de bolsa.
 
 Los agentes de bolsas pagarán una cuota única en concepto de inscripción y una cuota anual de actualización que serán establecidas por el Consejo Directivo de la Superintendencia.
 
-V. Garantías de Puestos y Agentes de Bolsa
+V. Garantías de puestos y agentes de bolsa.
 
 Los puestos y agentes de bolsa deberán rendir una fianza cuyo monto será establecido por el Consejo Directivo de la Superintendencia, el mismo que podrá ajustar cada dos años de acuerdo a la variación del tipo de cambio oficial de la moneda nacional.
 

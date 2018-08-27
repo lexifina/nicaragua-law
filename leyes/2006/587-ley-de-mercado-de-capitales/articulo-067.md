@@ -10,6 +10,6 @@ c) Elaborar contrato bursátil con sus clientes, en el que se detallen las instr
 
 d) Entregar a sus clientes copias de las boletas de transacción, así como certificaciones de los registros de las operaciones celebradas por ellos, cuando lo soliciten.
 
-e) Permitir la fiscalización, por parte del Superintendente y de la respectiva Bolsa de valores, de todas sus operaciones y actividades, así como las verificaciones, sin previo aviso, por parte de dichos organismos de la contabilidad, los inventarios, los arqueos, las prioridades de las órdenes de inversión de sus clientes y demás comprobaciones, contables o no, que se estimen convenientes.
+e) Permitir la fiscalización, por parte del Superintendente y de la respectiva Bolsa de valores, de todas sus operaciones y actividades, así como las verificaciones, sin previo aviso, por parte de dichos organismos, de la contabilidad, los inventarios, los arqueos, las prioridades de las órdenes de inversión de sus clientes y demás comprobaciones, contables o no, que se estimen convenientes.
 
 f) Mantener permanentemente a disposición del Superintendente y del público la información sobre su composición accionaria y la de sus socios actualizadas, cuando estos sean personas jurídicas.

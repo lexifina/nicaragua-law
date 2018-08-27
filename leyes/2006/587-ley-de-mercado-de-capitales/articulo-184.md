@@ -1,6 +1,6 @@
 # Artículo 184
 
-Alcance de las Faltas. Las contravenciones reguladas en esta Ley comprenden tanto el incumplimiento de los deberes previstos en ella como la violación de los establecidos por las normas generales dictadas para su ejecución.
+Alcance de las faltas. Las contravenciones reguladas en esta Ley comprenden tanto el incumplimiento de los deberes previstos en ella como la violación de los establecidos por las normas generales dictadas para su ejecución.
 
 Si la Ley o las normas generales exigieren que un deber se cumpla en un plazo determinado, se considerará que existe incumplimiento tan pronto como el plazo previsto hubiere transcurrido, a menos que la norma establezca otra cosa.
 

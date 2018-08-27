@@ -1,6 +1,6 @@
 # Artículo 10
 
-Requisitos de la Autorización. La autorización citada en el artículo anterior, estará sujeta a los siguientes requisitos mínimos:
+Requisitos de la autorización. La autorización citada en el Artículo anterior, estará sujeta a los siguientes requisitos mínimos:
 
 a) Presentación de la solicitud con las formalidades y el contenido determinado por norma general, por el Consejo Directivo de la Superintendencia.
 

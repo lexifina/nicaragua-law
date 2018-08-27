@@ -1,6 +1,6 @@
 # Artículo 14
 
-Actualización de los Prospectos. Se hará constar en un suplemento del prospecto cualquier hecho que ocurriese y sobreviniere desde la publicación del prospecto hasta el cierre de la oferta, incluyendo:
+Actualización de los prospectos. Se hará constar en un suplemento del prospecto cualquier hecho que ocurriese y sobreviniere desde la publicación del prospecto hasta el cierre de la oferta, incluyendo:
 
 a) Cambios relevantes en la emisión o del emisor;
 

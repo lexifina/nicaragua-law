@@ -1,6 +1,6 @@
 # Artículo 80
 
-Prohibición para Realizar Determinadas Operaciones. Las sociedades administradoras de fondos de inversión no podrán realizar las operaciones siguientes:
+Prohibición para realizar determinadas operaciones. Las sociedades administradoras de fondos de inversión no podrán realizar las operaciones siguientes:
 
 a) Invertir en valores emitidos por ellas mismas con los recursos de los fondos de inversión que administra.
 

@@ -1,6 +1,6 @@
 # Artículo 145
 
-Registro Contable de Valores. El registro contable de los valores que se encuentren inscritos en el Registro de Valores de la Superintendencia será llevado por un sistema de dos niveles:
+Registro contable de valores. El registro contable de los valores que se encuentren inscritos en el Registro de Valores de la Superintendencia será llevado por un sistema de dos niveles:
 
 a) Primer nivel: se constituirá según los lineamientos definidos por la Superintendencia por las siguientes entidades:
 

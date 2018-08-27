@@ -1,8 +1,8 @@
 # Artículo 196
 
-En Relación con los Intermediarios
+En relación con los intermediarios.
 
-1. Constituyen Infracciones Muy Graves:
+1. Constituyen infracciones muy graves:
 
 a) El ejercicio habitual de actividades y operaciones reservadas por la Ley a otras sociedades y personas habilitadas al efecto.
 
@@ -16,7 +16,7 @@ e) La no expedición de los documentos acreditativos de las operaciones celebrad
 
 f) La omisión de la obligación de registros de las órdenes que reflejen en forma escrita o grabar las recibidas verbalmente.
 
-2. Constituyen Infracciones Graves:
+2. Constituyen infracciones graves:
 
 a) El uso indebido de las denominaciones reservadas por esta Ley que puedan causar confusión.
 
@@ -24,10 +24,12 @@ b) La inobservancia de las normas que regulan las operaciones activas y pasivas,
 
 c) La reducción de recursos propios a un nivel inferior al ochenta por ciento del mínimo establecido y la permanencia en dicha situación por tiempo superior a dos meses e inferior a seis.
 
-d) Cualquiera de las infracciones previstas en el numeral uno de este artículo que no tenga el carácter habitual o reiterado.
+d) Cualquiera de las infracciones previstas en el numeral uno de este Artículo que no tenga el carácter habitual o reiterado.
 
 e) La violación del deber de mantener medios personales y materiales adecuados para el ejercicio de la actividad que se practique.
 
-3. Tanto en el caso de los intermediarios, como en el de cualquier otra persona o sociedad sujeta a la supervisión de la Superintendencia se entenderá que es infracción muy grave la realización de actos fraudulentos o la utilización de interpósitas personas, naturales o jurídicas con la finalidad de conseguir un resultado cuya realización directa implicaría al menos una infracción grave. La infracción grave se transformará asimismo en muy grave cuando en los cinco años anteriores a su comisión se hubiere impuesto al infractor otra sanción grave o muy grave anterior.
+3. Tanto en el caso de los intermediarios, como en el de cualquier otra persona o sociedad sujeta a la supervisión de la Superintendencia se entenderá que es infracción muy grave la realización de actos fraudulentos o la utilización de interpósitas personas, naturales o jurídicas con la finalidad de conseguir un resultado cuya realización directa implicaría al menos una infracción grave.
+
+La infracción grave se transformará asimismo en muy grave cuando en los cinco años anteriores a su comisión se hubiere impuesto al infractor otra sanción grave o muy grave anterior.
 
 La negativa o resistencia a la actividad inspectora de la Superintendencia o al cumplimiento de instrucciones del Superintendente, será también infracción muy grave.

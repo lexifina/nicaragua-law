@@ -1,6 +1,6 @@
 # Artículo 83
 
-Requisitos para el Funcionamiento. La constitución y funcionamiento de todo fondo de inversión requerirá la autorización previa del Superintendente el cual deberá aprobar los documentos constitutivos, sus modificaciones y las reglas de funcionamiento del fondo. La constitución deberá hacerse mediante escritura pública suscrita por la sociedad administradora y la sociedad de custodia, la que deberá contener por lo menos, lo siguiente:
+Requisitos para el funcionamiento. La constitución y funcionamiento de todo fondo de inversión requerirá la autorización previa del Superintendente el cual deberá aprobar los documentos constitutivos, sus modificaciones y las reglas de funcionamiento del fondo. La constitución deberá hacerse mediante escritura pública suscrita por la sociedad Administradora y la sociedad de custodia, la que deberá contener por lo menos, lo siguiente:
 
 a) La denominación del fondo, que deberá ir acompañada de la frase “fondo de inversión”, especificando su tipo.
 
@@ -25,5 +25,3 @@ d) El reglamento de administración del fondo, con los contenidos mínimos que d
 7. Las comisiones por administración, suscripción y reembolso.
 
 Una vez autorizado el fondo de inversión, se deberá inscribir en el Registro de Valores que para tal efecto lleva la Superintendencia. Dicha institución podrá establecer los requisitos de información y cualquier otro adicional para la constitución de fondos, con el fin de proteger al inversionista.
-
-Arto 84.- Requisitos Posteriores a la Autorización. Una vez autorizado el fondo, las sociedades administradoras deberán presentar para cada fondo un prospecto informativo, el cual será aprobado por el Superintendente y deberá contener, como mínimo, toda la información indicada en el artículo anterior. Además, deberá especificar el lugar donde se custodiarán los valores, los procedimientos, los plazos de redención y la información que determine por norma general el Consejo Directivo de la Superintendencia.

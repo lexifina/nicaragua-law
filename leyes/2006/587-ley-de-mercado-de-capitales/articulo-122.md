@@ -1,6 +1,6 @@
 # Artículo 122
 
-Sociedades Administradoras de Fondos de Titularización. Los fondos de titularización deberán ser administrados por sociedades anónimas de objeto social exclusivo denominadas “Sociedades Administradoras de Fondos de Titularización”.
+Sociedades administradoras de fondos de titularización. Los fondos de titularización deberán ser administrados por sociedades anónimas de objeto social exclusivo denominadas “Sociedades Administradoras de Fondos de Titularización.”
 
 Las sociedades mencionadas en el párrafo anterior podrán tener a su cuidado la administración de uno o más fondos, correspondiéndoles, la representación y defensa de los intereses de los titulares de los valores emitidos con cargo a los fondos que administren.
 

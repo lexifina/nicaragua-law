@@ -1,8 +1,8 @@
 # Artículo 125
 
-Acceso a Información Privilegiada. Para los efectos de esta Ley, sin perjuicio de la determinación que se realice para cada caso concreto no contemplado en este artículo, se presume que podrán tener acceso a información privilegiada relativa a los emisores de que se trate, las siguientes personas:
+Acceso a información privilegiada. Para los efectos de esta Ley, sin perjuicio de la determinación que se realice para cada caso concreto no contemplado en este Artículo, se presume que podrán tener acceso a información privilegiada relativa a los emisores de que se trate, las siguientes personas:
 
-a) Los miembros de la Junta Directiva, vigilantes, gerentes, ejecutivos, principales auditores externos o internos, y secretarios de órganos colegiados de las sociedades o entidades inscritas en el Registro de Valores. Quedarán comprendidos los apoderados generales de administración y representantes legales.
+a) Los miembros de la Junta Directiva, vigilantes, gerentes, ejecutivos principales auditores externos o internos, y secretarios de órganos colegiados de las sociedades o entidades inscritas en el Registro de Valores. Quedarán comprendidos los apoderados generales de administración y representantes legales.
 
 b) Los accionistas de las sociedades inscritas en el Registro de Valores.
 

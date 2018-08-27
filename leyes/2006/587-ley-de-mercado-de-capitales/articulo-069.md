@@ -1,6 +1,6 @@
 # Artículo 69
 
-Agentes de Bolsa. Los agentes de bolsa serán las personas naturales representantes de un puesto de Bolsa, titulares de una credencial otorgada por la respectiva Bolsa de valores, que realizan actividades bursátiles a nombre del puesto, ante los clientes y ante la Bolsa. Las órdenes recibidas de los clientes serán ejecutadas bajo la responsabilidad de los puestos de bolsa y de sus agentes.
+Agentes de bolsa. Los agentes de bolsa serán las personas naturales representantes de un puesto de Bolsa, titulares de una credencial otorgada por la respectiva Bolsa de valores, que realizan actividades bursátiles a nombre del puesto, ante los clientes y ante la Bolsa. Las órdenes recibidas de los clientes serán ejecutadas bajo la responsabilidad de los puestos de bolsa y de sus agentes.
 
 Los agentes de bolsa deberán ser personas de reconocida honorabilidad y capacidad para el ejercicio del cargo; además, deberán cumplir las disposiciones de esta Ley, las normas generales que dicten el Consejo Directivo de la Superintendencia y los reglamentos de la respectiva Bolsa.
 
