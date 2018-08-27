@@ -2,16 +2,16 @@
 
 Los que se dedicaren a prestar dinero con interés, deberán cumplir con los requisitos siguientes:
 
-a) Declararse como prestamista en escritura pública la cual deberá contener:
+a) Declararse como prestamistas en escritura pública la cual deberá contener:
 
-1) Nombres, apellidos, generales de Ley, datos de identificación;
+1) Nombres, apellidos, generales de ley, datos de identificación;
 
-2) Dirección exacta del lugar sede en el que ejercerá operaciones
+2) Dirección exacta del lugar sede en el que ejercerá operaciones.
 
-3) Lista de libros de contabilidad que llevará, los cuales serán razonados por el Registrador Público del Departamento.-
+3) Lista de libros de contabilidad que llevará, los cuales serán razonados por el Registrador Público del departamento.
 
-b) Inscribirse como prestamista en el Libro que para este efecto lleve el Registro Público del Departamento.-
+b) Inscribirse como prestamistas en el Libro que para este efecto lleve el Registro Público del departamento.
 
 Se excluyen de la disposición anterior, a los bancos y demás instituciones financieras autorizadas por la ley de la materia para otorgar préstamos a particulares.
 
-Se tendrá como prestamista aunque no estuviere inscrito al que ha hecho préstamos a interés en un número superior a dos por año.
+Se tendrá como prestamista aunque no estuviere inscrito el que ha hecho préstamos a interés en un número superior a dos por año.

@@ -1,3 +1,5 @@
 # Artículo 6
 
-Los Jueces civiles, en las causas que llegaren a su conocimiento, deberán declarar de oficio en la sentencia la nulidad de los contratos, cuando estén estipulados intereses que excedan de lo establecido por la Ley.
+La nulidad por intereses excesivos podrá ser alegada como acción o como excepción, siendo en ambos casos improcedente dictar apremio corporal contra el presunto deudor, sin antes haber resuelto el fondo del asunto.
+
+En caso ya se hubiera dictado apremio corporal contra el presunto deudor, el Juez de la causa ordenará sin más trámite el inmediato levantamiento del mismo.
