@@ -14,4 +14,4 @@ d) Ejecutar, bajo la dirección del Superintendente, las funciones asignadas en 
 
 e) Coordinar con las otras dependencias, las acciones de inspección y supervisión.
 
-f) Proponer al Superintendente la forma de organización de las dependencias de la Intendencia bajo su responsabilidad, así como el nombramiento de las personas que deban ejercer funciones que requieran conocimientos técnicos o capacidad especial.
+f) Proponer al Superintendente la forma de organización de las dependencias de la intendencia bajo su responsabilidad, así como el nombramiento de las personas que deban ejercer funciones que requieran conocimientos técnicos o capacidad especial.

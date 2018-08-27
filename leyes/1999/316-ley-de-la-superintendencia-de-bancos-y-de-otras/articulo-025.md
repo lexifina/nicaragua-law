@@ -1,7 +1,7 @@
 # Artículo 25
 
-Todas las multas que imponga el Superintendente derivadas de la Ley General de Bancos y de la presente Ley serán pagadas a favor del Fisco de acuerdo a los procedimientos señalados en dicha Ley.
+Todas las multas que imponga el Superintendente serán pagadas a favor del Fisco de acuerdo a los procedimientos señalados en las respectivas disposiciones legales.
 
-En los casos de incumplimiento de las disposiciones contenidas en esta Ley, para las cuales no se haya establecido sanción especial, el Superintendente podrá imponer sanciones pecuniarias ajustadas a la importancia de la falta, desde cinco mil (C$5,000.00 a cien mil córdobas (C$100,000.00), conforme al reglamento que se dicte al efecto.
+En los casos de incumplimiento de las disposiciones contenidas en esta Ley, para las cuales no se haya establecido sanción especial, el Superintendente podrá imponer sanciones pecuniarias ajustadas a la importancia de la falta, desde quinientos (500.00) hasta cincuenta mil unidades de multa (50,000.00), conforme lo indicado en norma general que sobre la materia dicte el Consejo Directivo de la Superintendencia de Bancos, en base a la Ley General de Bancos, instituciones financieras no bancarias y grupos financieros.
 
-En caso de variaciones en el tipo de cambio de la moneda nacional, el Consejo Directivo de la Superintendencia por resolución de carácter general, realizará las correcciones monetarias correspondientes a los montos de las multas que compete imponer a la Superintendencia y que se encuentren establecidas en la legislación vigente.
+El valor de cada “unidad de multa” será el equivalente en moneda nacional al de un Dólar de los Estados Unidos de América, conforme al tipo de cambio oficial establecido por el Banco de Central de Nicaragua, vigente a la fecha de la imposición de la sanción.
