@@ -1,6 +1,6 @@
 # Artículo 25
 
-Fondos de provisiones técnicas
+Fondos de provisiones técnicas.
 
 Después de completar el capital social mínimo exigido o actualizado, las SGR deberán de constituir con carácter permanente un Fondo de provisiones técnicas, el que formará parte de su patrimonio y tendrá como finalidad la cobertura de los riesgos que contraiga.
 

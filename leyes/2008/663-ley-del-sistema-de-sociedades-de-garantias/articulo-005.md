@@ -1,16 +1,16 @@
 # Artículo 5
 
-Atribuciones del Órgano Regulador
+Atribuciones del Órgano Regulador.
 
 Son atribuciones y funciones del Órgano Regulador, sin perjuicio de las demás que le otorgue la presente Ley y su Reglamento, las siguientes:
 
-a) Promover, planificar y ejecutar las políticas nacionales del Sistema de Sociedades de Garantías Recíprocas en beneficio de las MIPYMEs.
+a) Promover, planificar y ejecutar las políticas nacionales del Sistema de Sociedades de Garantías Recíprocas en beneficio de las MIPYME.
 
 b) Autorizar la constitución y funcionamiento de las SGR y Sociedades Reavaladoras de Sociedades de Garantías Recíprocas (RSGR).
 
-c) Aprobar los cambios y actualizaciones que soliciten las SGR y las (RSGR).
+c) Aprobar los cambios y actualizaciones que soliciten las SGR y las RSGR.
 
-d) Velar para que las SGR y las RSGR, cumplan con las disposiciones de la presente Ley; pudiendo por lo menos una vez al año, cuando lo estime conveniente y por medio de inspectores contratados que para tal efecto, realizar inspecciones o auditorías.
+d) Velar para que las SGR y las RSGR, cumplan con las disposiciones de la presente ley; pudiendo por lo menos una vez al año, cuando lo estime conveniente y por medio de inspectores contratados que para tal efecto, realizar inspecciones o auditorías.
 
 e) Atender gestiones y consultas de las SGR y las RSGR o de sus socios.
 
@@ -32,9 +32,9 @@ m) Divulgar información de experiencias que fortalezca el derecho y la jurispru
 
 n) Convocar a Asamblea General conforme lo disponga la presente Ley.
 
-o) Elaborar investigaciones y estudios orientados a las actividades de las MIPYME's, para promover y formular propuestas que permitan mayor participación de los sectores económicos y financieros en las sociedades creadas por esta ley.
+o) Elaborar investigaciones y estudios orientados a las actividades de las MIPYME, para promover y formular propuestas que permitan mayor participación de los sectores económicos y financieros en las sociedades creadas por esta Ley.
 
-p) Dictar las normas prudenciales de carácter general que considere necesarias para la aplicación efectiva de la presente ley.
+p) Dictar las normas prudenciales de carácter general que considere necesarias para la aplicación efectiva de la presente Ley.
 
 q) Aprobar o denegar la solicitud de distribución de utilidades, que previamente deberán presentar al Órgano Regulador, las SGR y RSGR.
 

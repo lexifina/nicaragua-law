@@ -1,6 +1,6 @@
 # Artículo 37
 
-Creación y Atribuciones del Comité de Garantías
+Creación y Atribuciones del Comité de Garantías.
 
 Toda SGR deberá constituir un Comité de Garantías, el cual estará integrado por tres miembros con sus respectivos suplentes: Coordinador, Secretario y Vocal. Sus atribuciones son las siguientes:
 

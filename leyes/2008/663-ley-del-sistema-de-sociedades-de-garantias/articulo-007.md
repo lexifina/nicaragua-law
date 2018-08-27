@@ -1,6 +1,6 @@
 # Artículo 7
 
-Denominación
+Denominación.
 
 Las Sociedades de Garantías Recíprocas podrán usar la denominación o razón social y nombre comercial, que crean conveniente, siempre que la misma no pertenezca a otra sociedad previamente inscrita. Al final de la razón social deberá figurar, la indicación "Sociedad de Garantía Recíproca" o su abreviatura SGR, que es exclusiva de este tipo de sociedades.
 

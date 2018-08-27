@@ -1,6 +1,6 @@
 # Artículo 42
 
-Estados Financieros
+Estados Financieros.
 
 Las SGR formularán sus Estados Financieros mensualmente con copia al Órgano Regulador dentro de los quince días posteriores a su emisión. Los Estados Financieros de cada ejercicio económico se remitirán a más tardar treinta días después de su aprobación por la Asamblea General de Socios.
 

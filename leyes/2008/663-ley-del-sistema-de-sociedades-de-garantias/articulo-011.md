@@ -1,6 +1,6 @@
 # Artículo 11
 
-Requisitos para iniciar actividades
+Requisitos para iniciar actividades.
 
 Para iniciar sus actividades las SGR constituidas conforme a la presente Ley, deberán presentar la solicitud correspondiente y acreditar que han cumplido con los siguientes requisitos:
 

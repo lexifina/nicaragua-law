@@ -1,6 +1,6 @@
 # Artículo 43
 
-Patrimonio y Solvencia
+Patrimonio y Solvencia.
 
 El Patrimonio de la Sociedad estará compuesto por: el capital social, las reservas legales, el fondo de provisiones técnicas y las otras reservas que constituyan la SGR.
 

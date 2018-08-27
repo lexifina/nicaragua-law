@@ -1,6 +1,6 @@
 # Artículo 20
 
-Derechos que atribuye la participación social
+Derechos que atribuye la participación social.
 
 El Certificado de participación social concederá a su titular los siguientes derechos:
 

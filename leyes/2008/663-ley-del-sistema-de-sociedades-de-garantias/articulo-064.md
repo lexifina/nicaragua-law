@@ -1,8 +1,8 @@
 # Artículo 64
 
-Creación
+Creación.
 
-Se crea el Fondo para el Desarrollo de las Sociedades de Garantías Recíprocas (en adelante "el Fondo") para las MIPYMEs con el objeto de promover su desarrollo mediante las siguientes actividades:
+Se crea el Fondo para el Desarrollo de las Sociedades de Garantías Reciprocas (en adelante "el Fondo") para las MIPYME con el objeto de promover su desarrollo mediante las siguientes actividades:
 
 1. Promover la constitución de las SGR;
 
@@ -10,4 +10,4 @@ Se crea el Fondo para el Desarrollo de las Sociedades de Garantías Recíprocas 
 
 3. Fortalecer patrimonialmente a las SGR a través de aportes al fondo de provisiones técnicas;
 
-4. Las demás que establezca la presente ley.
+4. Las demás que establezca la presente Ley.

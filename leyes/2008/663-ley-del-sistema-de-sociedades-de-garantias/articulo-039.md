@@ -1,8 +1,8 @@
 # Artículo 39
 
-Restricciones para ser miembro de la Junta Directiva o del Comité de Garantías o Vigilante
+Restricciones para ser miembro de la Junta Directiva o del Comité de Garantías o Vigilante.
 
-No podrán ser: miembros de la Junta Directiva, del Comité de Garantías o Vigilante:
+No podrán ser miembros de la Junta Directiva, del Comité de Garantías o Vigilante:
 
 a) Las personas menores de edad.
 

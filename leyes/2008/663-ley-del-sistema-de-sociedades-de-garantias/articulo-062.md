@@ -1,6 +1,6 @@
 # Artículo 62
 
-Prelación de pagos de las SGR
+Prelación de pagos de las SGR.
 
 La liquidación de una SGR producirá la exigibilidad inmediata de todos los pasivos y los pagos se efectuarán en el siguiente orden:
 

@@ -1,6 +1,6 @@
 # Artículo 44
 
-Aplicación por Pérdidas
+Aplicación por Pérdidas.
 
 En caso de haber pérdidas en un ejercicio económico, la Junta Directiva deberá cubrirlas según el siguiente orden:
 

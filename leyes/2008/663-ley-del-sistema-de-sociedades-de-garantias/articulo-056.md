@@ -1,6 +1,6 @@
 # Artículo 56
 
-Recursos Administrativos
+Recursos Administrativos.
 
 Contra las resoluciones del Órgano Regulador, podrá interponerse recurso de revisión dentro del término de diez días hábiles a partir de la fecha de notificación.
 

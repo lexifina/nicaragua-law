@@ -1,6 +1,6 @@
 # Artículo 53
 
-Causales de Intervención
+Causales de Intervención.
 
 El Órgano Regulador, sin perjuicio de las sanciones que correspondan, aprobará la resolución de intervención siempre que hubiere ocurrido una o varias de las circunstancias siguientes:
 

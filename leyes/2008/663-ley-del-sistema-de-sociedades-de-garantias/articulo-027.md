@@ -1,6 +1,6 @@
 # Artículo 27
 
-Órganos de Gobierno
+Órganos de Gobierno.
 
 Los Órganos de Gobierno de la SGR son:
 

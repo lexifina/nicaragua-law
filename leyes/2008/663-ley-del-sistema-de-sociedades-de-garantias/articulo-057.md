@@ -1,6 +1,6 @@
 # Artículo 57
 
-Causales de disolución
+Causales de disolución.
 
 Serán causales de disolución:
 

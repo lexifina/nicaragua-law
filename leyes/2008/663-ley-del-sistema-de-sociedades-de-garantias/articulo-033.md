@@ -1,6 +1,6 @@
 # Artículo 33
 
-Modificación de Estatutos
+Modificación de Estatutos.
 
 La modificación de los Estatutos deberá ser aprobada por una Asamblea General Extraordinaria, debidamente convocada para tal efecto.
 
