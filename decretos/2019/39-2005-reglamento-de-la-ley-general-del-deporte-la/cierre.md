@@ -1,0 +1,9 @@
+Dado en la ciudad de Managua, Casa Presidencial, el seis de junio del año dos mil cinco. ENRIQUE BOLAÑOS GEYER, Presidente de la República de Nicaragua.
+
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por las siguientes: 1. Ley N°. 540, "Ley de Mediación y Arbitraje", publicada en La Gaceta, Diario Oficial N°. 122 del 24 de junio de 2005; 2. Ley N°. 612, "Ley de Reforma y Adición a la Ley N°. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo", publicada en La Gaceta, Diario Oficial N°. 20 del 29 de enero de 2007; 3. Ley N°. 632, "Ley de Reforma a la Ley N°. 522, Ley General de Deporte, Educación Física y Recreación Física", publicada en La Gaceta, Diario Oficial N°. 182 del 24 de septiembre de 2007; 4. Ley N°. 686, "Ley de Reforma a la Ley N°. 522, "Ley General de Deporte, Educación Física y Recreación Física", publicada en La Gaceta, Diario Oficial N°. 107 del 10 de junio de 2009; 5. Ley N°. 737, "Ley de Contrataciones Administrativas del Sector Público", publicada en La Gaceta, Diario Oficial N°. 213, 214 del 8 y 9 de noviembre de 2010; 6. Ley N°. 858, "Ley de Reformas y Adiciones a la Ley N°. 522, Ley General de Deporte, Educación Física y Recreación Física", publicada en La Gaceta, Diario Oficial N°. 67 del 8 de abril de 2014.
+
+Dado en la ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional de la República de Nicaragua, a los veintinueve días del mes de noviembre del año dos mil dieciocho. Dr. Gustavo Eduardo Porras Cortés, Presidente de la Asamblea Nacional. Lic. Loria Raquel Dixon Brautigam, Secretaria de la Asamblea Nacional.
+
+Observación: El Texto Consolidado, Decreto Ejecutivo N°. 39-2005, Reglamento de la Ley General del Deporte, la Educación Física y la Recreación Física, se encuentra incorporado en el Anexo IV, Registro de Normas Consolidadas de la Ley del Digesto Jurídico Nicaragüense de la Materia de Deporte, Educación Fisíca y Recreación Física.
+
+.
