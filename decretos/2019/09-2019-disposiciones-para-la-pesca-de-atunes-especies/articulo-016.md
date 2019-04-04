@@ -1,0 +1,3 @@
+# Artículo 16
+
+Los buques de bandera extranjera que naveguen en tránsito por aguas nicaragüenses, sin un Permiso de Pesca Especial de Atún vigente emitido por el INPESCA, deberán mantener sus artes y aparejos de pesca debidamente estibadas o almacenadas, de conformidad con lo establecido en el Reglamento de la Ley de Pesca y Acuicultura. Su incumplimiento, será considerado como pesca ilegal sujeto a sanciones establecidas en el artículo 123 numeral 21 de la Ley No. 489, Ley de Pesca y Acuicultura, siendo que además dicha práctica contraviene lo dispuesto en el Reglamento Regional OSP-08-21 04 para prevenir, desalentar y eliminar la pesca ilegal, no declarada y no reglamentada en los países miembros del SICA, de fecha 1 de julio del 2014.

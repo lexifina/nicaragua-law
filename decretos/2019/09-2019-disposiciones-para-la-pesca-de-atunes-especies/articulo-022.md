@@ -1,0 +1,3 @@
+# Artículo 22
+
+Las empresas beneficiarias de Licencias de Pesca Especial de Atún, los inversionistas o grupos económicos que inviertan en la instalación de plantas procesadoras de Atún en Nicaragua, tendrán prioridad en la asignación de cuotas individuales de acarreo o nominación de buques a las listas de las OROPs, si así lo solicitan, para operar buques con pabellón de Nicaragua. Podrán también gozar de los beneficios fiscales que correspondan, establecidos en el artículo 276 de la Ley No. 822, Ley de Concertación Tributaria (LCT) y sus reformas, todo de conformidad con el artículo 45 de la Ley No. 489, Ley de Pesca y Acuicultura y el artículo 192 del Reglamento a la Ley.
