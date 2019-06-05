@@ -1,0 +1,5 @@
+# Artículo 18
+
+PROCEDIMIENTO PARA LAS SESIONES POR RECLAMOS. Las sesiones relacionadas a los reclamos administrativos que se reciben en segunda instancia, a través de los recursos de apelación, se realizarán en sesiones ordinarias. Para estos casos en específico, cinco (05) días antes de la convocatoria, el Presidente enviará a los Miembros una matriz detallada de cada caso a revisar. En caso que un Miembro solicite una revisión técnica-legal de algún caso en específico, ya sea por su complejidad o monto, solicitará al Presidente la conformación de un equipo técnico-legal que procederá a la revisión de cada caso. Dicho equipo estará conformado por dos (02) funcionarios del INAA y dos (02) funcionarios de la empresa prestadora del servicio, quienes deberán elaborar y presentar, el día de la sesión ante el Consejo de Dirección, un breve dictamen de cada caso especial con sus consideraciones y fundamentos técnicos-legales para decisión y aprobación del Consejo.
+
+INCLUSIÓN DE PROPUESTAS O TEMAS EN AGENDAS
