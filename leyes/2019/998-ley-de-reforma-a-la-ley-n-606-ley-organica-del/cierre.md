@@ -1,0 +1,7 @@
+Dado en la ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional de la República de Nicaragua a los trece días del mes de julio del año dos mil diecinueve. Dr. Gustavo Eduardo Porras Cortés, Presidente de la Asamblea Nacional. Lic. Loria Raquel Dixon Brautigam, Secretaria de la Asamblea Nacional.
+
+Por tanto. Téngase como Ley de la República. Publíquese y Ejecútese. Managua, el día trece de julio del año dos mil diecinueve. Daniel Ortega Saavedra, Presidente de la República de Nicaragua.
+
+Observación: La Ley N°. 998, Ley de Reforma a la Ley N°. 606, Ley Orgánica del Poder Legislativo de la República de Nicaragua, se encuentra incorporada en el Anexo I, Registro de Normas Vigentes de la Ley del Digesto Jurídico Nicaragüense de la Materia Administrativa.
+
+.
