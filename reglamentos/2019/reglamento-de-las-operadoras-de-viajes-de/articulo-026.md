@@ -1,0 +1,3 @@
+# Artículo 26
+
+Sin perjuicio de lo dispuesto en la Ley No. 298, "Ley Creadora del Instituto Nicaragüense de Turismo" y su reforma Ley No. 907 "Ley de reformas a la Ley No. 298 Ley creadora del Instituto Nicaragüense de Turismo, publicada en "La Gaceta" No. 163 del día 28 de agosto del año 2015, Ley No. 495 "Ley General de Turismo" y su reglamento y reforma, Ley No. 842 "Ley de Protección de los Derechos de las Personas Consumidoras y Usuarias y su reglamento, a las Operadoras les será aplicable el régimen de infracciones y sanciones, establecido en el Reglamento de las Empresas y Actividades Turísticas.
