@@ -1,0 +1,3 @@
+# Artículo 7
+
+De los Paradores: Corresponden aquellas instalaciones, que brindan un servicio de alojamiento al turista, a cambio de una tarifa económica, con servicios completos de limpieza y alimentación, que ofrecen una cocina de calidad internacional y de tradición regional. Los Paradores se caracterizan por ser establecimientos que se encuentran ubicados en edificios históricos - artísticos o en parajes naturales de gran belleza y presentan una total y excelente armonización arquitectónica con el entorno cultural -histórico o natural- ecológico. Estos establecimientos tienen como objetivo el rescate de valores históricos, culturales, arquitectónicos o naturales del lugar donde se sitúa.

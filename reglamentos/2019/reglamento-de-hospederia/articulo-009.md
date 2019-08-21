@@ -1,0 +1,11 @@
+# Artículo 9
+
+Las Empresas Prestadoras de Servicios de Hospedería, se clasificarán en categorías identificadas por estrellas, de conformidad con el grado de cumplimiento de las condiciones y requisitos contenidos en las herramientas de clasificación y categorización del Sistema Nacional de Calidad Turística, establecida para cada tipología descrita en los artículos 5 y 6.
+
+Las actividades contempladas en la clasificación de Hospederías Menores serán categorizadas de 1 a 3 estrellas; Y se clasificarán de 1 a 5 estrellas, todas las actividades contempladas en las Hospederías Mayores, exceptuando Condo-hotel que se clasificaran de 4 a 5 estrellas, Apartahotel de 1 a 3 estrellas y Moteles de 1 a 3 estrellas, respectivamente.
+
+Para que un establecimiento sea considerado Hospedería y cuente con una categoría, deberá cumplir con lo mínimo de los requerimientos establecidos en las herramientas de clasificación y categorización. Es importante tomar en cuenta las siguientes condiciones:
+
+a) Si la empresa está renovando su Título Licencia y al momento de realizar la evaluación, se obtiene como resultado "no cumple" el cual indica que la empresa no cumple con lo mínimo para obtener una categoría D, se continuará regulando por un periodo de dos años más, con la categoría mínima (D) para que mejore sus condiciones en infraestructura, equipamiento y servicio en base a la herramientas de clasificación y categorización de la actividad que opere, en caso que a los dos años de seguimiento de visita de inspección no cumpla con los parámetros mínimos se dará de baja en el RNT.
+
+b) Si la empresa es nueva y no logra alcanzar la categoría D, será considerada no apta para ser clasificada como una actividad de hospedería, es decir que no se le podrá extender el Título Licencia correspondiente, sólo se le dará una hoja de observación y plan de mejora para que pueda superar aquellos requerimientos y aspectos que se encontraron débiles, ya sea en infraestructura, equipamiento o servicio, en base a la herramienta de clasificación y categorización de la actividad que opere. Se le dará dos años de seguimiento para que mejore, en caso que no cumpla se tomará como una actividad no regulada, dándole de baja en el inventario. Pero si cumple con los requerimientos mínimos se incorporará a las actividades reguladas en el RNT.
