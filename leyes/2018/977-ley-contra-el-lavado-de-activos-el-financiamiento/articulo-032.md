@@ -1,10 +1,10 @@
 # Artículo 32
 
-Regulación de los servicios de remesas y compraventa y/o cambio de moneda
+Regulación de los servicios de remesas y compraventa y/o cambio de moneda Reformado por la Ley N° 1072, publicada el 17/05/21
 
 El Banco Central de Nicaragua, de conformidad con su Ley Orgánica, regulará la actividad comercial de los proveedores de servicios de remesas y los dedicados a la actividad de compraventa y/o cambio de moneda, con las siguientes facultades:
 
-1. Aprobar disposiciones para regular la autorización y operaciones de los proveedores y llevar un registro éstos.
+1. Aprobar disposiciones para regular la autorización y operaciones de los proveedores y llevar un registro de estos.
 
 2. Mantener y publicar en su sitio web oficial una lista actualizada de los proveedores de servicios de remesas y los dedicados a la actividad de compraventa y/o cambio de moneda, la que será de acceso público.
 

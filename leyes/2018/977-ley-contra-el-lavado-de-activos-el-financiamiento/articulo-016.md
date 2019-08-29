@@ -8,6 +8,8 @@ Cuando la legislación del país en que las sucursales y filiales de propiedad m
 
 Los Supervisores pueden aplicar acciones de supervisión adicionales, si las medidas adicionales del Sujeto Obligado referidas en el párrafo anterior no fueran suficientes.
 
+Se adiciona un cuarto párrafo con tres literales conforme la Ley N°. 1072, publicada el 17/05/21
+
 Capítulo III
 
 Prevención del LA/FT/FP

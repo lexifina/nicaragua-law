@@ -18,6 +18,6 @@ Las entidades públicas que tengan facultades y atribuciones relacionadas con la
 
 a. Está involucrada en LA/FT/FP y/o es una pantalla para la ejecución de actividades de LA/FT/FP.
 
-b. Está siendo explotada como conducto para el financiamiento del terrorismo, incluso con el propósito de evadir medidas de inmovilización de activos, o para otras formas de apoyo al terrorismo.
+b. Está siendo explotada como conducto para el financiamiento al terrorismo, incluso con el propósito de evadir medidas de inmovilización de activos, o para otras formas de apoyo al terrorismo.
 
 c. Está ocultando o encubriendo el desvío clandestino de fondos destinados a fines legítimos, pero que están siendo redireccionados para beneficio de personas vinculadas con operaciones de LA/FT/FP.

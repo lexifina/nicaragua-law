@@ -6,11 +6,13 @@ Mantenimiento de registros
 
 a. De operaciones o transacciones, nacionales e internacionales, durante al menos cinco (5) años después de finalizada la operación o transacción.
 
-b. Sobre originadores y beneficiarios de transferencias electrónicas que hayan sido obtenidos al actuar como institución financiera originadora, intermediaria o beneficiaria, durante al menos cinco (5) años después de realizada la transferencia.
+b. Sobre originadores y beneficiarios de transferencias electrónicas que hayan sido obtenidos al actuar como institución financiera originadora, intermediaria o beneficiaria, durante al menos cinco (5) años después de realizada la transferencia. Reformado la Ley N° 1072 publicada el 17/05/21
 
 c. Obtenidos a través de medidas de DDC, así como también expedientes de cuentas y correspondencia comercial, y los resultados de los análisis realizados de operaciones inusuales o sospechosas, durante al menos cinco (5) años después de finalizada la relación comercial o después de la fecha de la operación ocasional.
 
 d. Los especificados en disposiciones administrativas emitidas por los Supervisores, por un período que no podrá ser menor a cinco (5) años.
+
+Se adiciona un literal "e" conforme la Ley N°.1072, publicada el 17/05/21
 
 2. Los Registros Mercantiles, las entidades de regulación, supervisión y sanción de OSFL, el Ministerio de Economía Familiar, Comunitaria, Cooperativa y Asociativa y las propias personas jurídicas o sus administradores, liquidadores u otras personas involucradas en la extinción de las mismas, deben mantener registros, en lo que corresponda, de su nombre, instrumento constitutivo, estatutos, domicilio, lista de directores y beneficiarios finales, por cinco (5) años contados a partir de la fecha en que la persona jurídica, por cualquier razón o circunstancia, deje de existir.
 

@@ -2,7 +2,9 @@
 
 Comisión Nacional ALA/CFT/CFP
 
-Crease la Comisión Nacional ALA/CFT/CFP como una comisión adjunta del Consejo Nacional Contra el Crimen Organizado, la que en lo sucesivo se denominará la “Comisión”.
+Artículo 6 reformado por Ley N° 1072, publicada el 17/05/21
+
+Crease la Comisión Nacional ALA/CFT/CFP como una comisión adjunta del Consejo Nacional Contra el Crimen Organizado, la que en lo sucesivo se denominará la "Comisión".
 
 La Comisión estará integrada con representantes permanentes y enlaces técnicos designados de las siguientes instituciones:
 
