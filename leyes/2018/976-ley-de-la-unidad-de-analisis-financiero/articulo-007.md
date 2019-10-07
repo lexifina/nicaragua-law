@@ -12,7 +12,7 @@ a) Rijan la seguridad y confidencialidad de la información, incluidos los proce
 
 b) Determinen niveles de autorización de acceso a la información a sus funcionarios y les asignen responsabilidades en el manejo y comunicación de información reservada.
 
-c) Aseguren el acceso limitado a sus instalaciones y a la información, incluyendo los sistemas de tecnología de la información.
+e) Aseguren el acceso limitado a sus instalaciones y a la información, incluyendo los sistemas de tecnología de la información.
 
 4. El personal de la UAF debe mantener la confidencialidad de la información que obtenga en el ejercicio de sus funciones, incluso después del cese de su cargo. La infracción a lo dispuesto en el presente Artículo será sancionada conforme la legislación penal, sin perjuicio de las sanciones administrativas correspondientes. Los servidores públicos de la UAF gozarán plenamente de la protección legal y estarán exentos de responsabilidad civil, penal y administrativa, cuando en el ejercicio de sus funciones comuniquen los resultados de sus análisis a las autoridades responsables de investigar delitos y/o de ejercer la acción penal.
 

@@ -6,7 +6,7 @@ Para efectos de la presente Ley y sin perjuicio de las definiciones contenidas e
 
 1. Análisis operativo:
 
-Es el proceso que se lleva a cabo mediante la planificación de medidas coordinadas y dirigidas a la identificación de vínculos entre personas naturales y/o personas jurídicas con actividades de Lavado de Activos, Financiamiento al Terrorismo, Financiamiento a la Proliferación de Armas de Destrucción Masiva y delitos precedentes asociados al LA. En lo sucesivo, se hará referencia conjunta a esas actividades ilícitas como “LA/FT/ FP y delitos precedentes asociados al LA”.
+Es el proceso que se lleva a cabo mediante la planificación de medidas coordinadas y dirigidas a la identificación de vínculos entre personas naturales y/o personas jurídicas con actividades de Lavado de Activos, Financiamiento al Terrorismo, Financiamiento a la Proliferación de Armas de Destrucción Masiva y delitos precedentes asociados al LA. En lo sucesivo, se hará referencia conjunta a esas actividades ilícitas como "LA/FT/FP y delitos precedentes asociados al LA".
 
 Este proceso consiste en recolectar información disponible y obtenida por la UAF, para su posterior procesamiento y análisis, transformándola en un producto útil que sirva como insumo a las autoridades correspondientes en el proceso de investigación, para la posterior persecución penal de estos delitos.
 
@@ -38,7 +38,7 @@ Todo acto, operación o transacción, aislada, reiterada, simultánea o serial, 
 
 7. Sigilo:
 
-Deber de las autoridades públicas, entidades privadas y profesionales, establecido mediante leyes o contratos, consistente en no revelar los hechos que han conocido en el ejercicio de sus funciones. Los términos “reserva” y “secreto” que aparecen en el marco jurídico tendrán el mismo significado que el de sigilo cuando se interprete la presente Ley.
+Deber de las autoridades públicas, entidades privadas y profesionales, establecido mediante leyes o contratos, consistente en no revelar los hechos que han conocido en el ejercicio de sus funciones. Los términos "reserva" y "secreto" que aparecen en el marco jurídico tendrán el mismo significado que el de sigilo cuando se interprete la presente Ley.
 
 8. Sujetos Obligados:
 
@@ -50,4 +50,4 @@ Todas las operaciones en que el medio de pago o de cobro sea papel moneda o dine
 
 10. Transferencia de Fondos:
 
-Cualquier operación llevada a cabo en nombre de una persona denominada ordenante, ya sea natural como jurídica, por cualquier medio, incluyendo medios electrónicos, con la finalidad de que una persona natural o jurídica denominada beneficiaría tenga a su disposición una suma de dinero, tanto en el territorio nacional como fuera de él, como, por ejemplo: remesas, giros electrónicos, transferencias electrónicas, entre otras.
+Cualquier operación llevada a cabo en nombre de una persona denominada ordenante, ya sea natural como jurídica, por cualquier medio, incluyendo medios electrónicos, con la finalidad de que una persona natural o jurídica denominada beneficiaria tenga a su disposición una suma de dinero, tanto en el territorio nacional como fuera de él, como, por ejemplo: remesas, giros electrónicos, transferencias electrónicas, entre otras.

@@ -1,8 +1,6 @@
-LEY N°. 976, LEY DE LA UNIDAD DE ANÁLISIS FINANCIERO
+TEXTO DE LEY N°. 976, LEY DE LA UNIDAD DE ANÁLISIS FINANCIERO, CON SUS REFORMAS INCORPORADAS
 
-Aprobada el 16 de julio de 2018
-
-Publicada en La Gaceta, Diario Oficial N°. 138 del 20 de julio de 2018
+Publicado en La Gaceta, Diario Oficial N°. 190 del 07 de octubre de 2019
 
 El Presidente de la República de Nicaragua
 

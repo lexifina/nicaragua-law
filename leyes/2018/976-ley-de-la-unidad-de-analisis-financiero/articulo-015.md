@@ -6,4 +6,4 @@ Registro de Sujetos Obligados
 
 2. Para el cumplimiento del párrafo anterior, la UAF podrá solicitar información a la Policía Nacional, otras autoridades públicas o entidades privadas que pudieran contar con información relevante, con respecto a la identificación de Sujetos Obligados.
 
-3. La UAF establecerá regulaciones sobre las condiciones específicas que deban cumplirse para la inscripción de Sujetos Obligados y las sanciones aplicables por el incumplimiento del deber de registro
+3. La UAF establecerá regulaciones sobre las condiciones específicas que deban cumplirse para la inscripción de Sujetos Obligados y las sanciones aplicables por el incumplimiento del deber de registro.

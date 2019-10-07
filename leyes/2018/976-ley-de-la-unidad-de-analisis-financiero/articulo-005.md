@@ -10,7 +10,7 @@ La UAF tiene facultad para:
 
 3. Comunicar los resultados de sus análisis a las autoridades responsables de investigar delitos y/o de ejercer la acción penal, ya sea de forma espontánea u oficiosamente; o cuando estas se lo soliciten.
 
-4. Regular las obligaciones de prevención del LA/ FT/FP de los Sujetos Obligados que se encuentren bajo su supervisión y de acuerdo con los riesgos nacionales y sectoriales que se identifiquen.
+4. Regular las obligaciones de prevención del LA/FT/FP de los Sujetos Obligados que se encuentren bajo su supervisión y de acuerdo con los riesgos nacionales y sectoriales que se identifiquen.
 
 5. Supervisar el cumplimiento de las obligaciones de prevención del LA/FT/FP establecidas en el marco jurídico aplicable a los Sujetos Obligados que se encuentren dentro de su ámbito de competencia y sancionar su inobservancia. En el caso de los Sujetos Obligados que tengan un órgano supervisor o de regulación determinado por Ley, la UAF deberá informar al órgano correspondiente con el fin de que éste le imponga las multas que correspondan conforme a sus facultades y demás disposiciones legales y normativas.
 
