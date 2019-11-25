@@ -1,0 +1,3 @@
+# Artículo 1
+
+Apruébese el "PROTOCOLO DE ACTUACIÓN PARA EL MANEJO DE EXTRANJEROS FALLECIDOS, FALLECIDOS DE IDENTIDAD DESCONOCIDA O IDENTIFICADOS NO RECLAMADOS'', cuyo texto se publica íntegramente anexo al presente Decreto.
