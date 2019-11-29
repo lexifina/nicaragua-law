@@ -1,0 +1,3 @@
+# Artículo 6
+
+Normativa. De conformidad a las facultades otorgadas en los artículos 8 y 9 de la Ley N°. 737 "Ley de Contrataciones Administrativas del Sector Público", la Dirección General de Contrataciones del Estado del Ministerio de Hacienda y Crédito Público, como el órgano rector del Sistema de Administración de Contrataciones del Sector Público, para toda la Administración Pública central, autónoma por territorio o por funciones; pondrá a disposición de las entidades del Sector Público la normativa administrativa que regule la modalidad complementaria de compra corporativa que comprenderá el procedimiento que aplique.
