@@ -1,0 +1,3 @@
+# Artículo 3325
+
+La delegación no autorizada o no ratificada expresa o tácitamente por el mandante no da derecho a terceros contra el mandante por los actos del delegado.

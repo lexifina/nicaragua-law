@@ -1,0 +1,5 @@
+# Artículo 1211
+
+El testamento solemne puede ser revocado expresamente en todo o parte, por un testamento solemne o privilegiado o por escritura pública.
+
+Pero la revocación que se hiciere en un testamento privilegiado caducará con el testamento que la contiene y subsistirá el anterior.

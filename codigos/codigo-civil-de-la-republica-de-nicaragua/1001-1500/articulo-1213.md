@@ -1,0 +1,5 @@
+# Artículo 1213
+
+Un testamento no se revoca tácitamente en todas sus partes por la existencia de otro u otros posteriores.
+
+Los testamentos posteriores que expresamente no revoquen los anteriores, dejarán subsistentes en éstos las disposiciones que no sean incompatibles con las posteriores o contrarias a ellas.

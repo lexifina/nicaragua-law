@@ -1,0 +1,5 @@
+# Artículo 3509
+
+El alojado que se queja de daños, hurto o robo deberá probar el número, calidad y valor de los efectos desaparecidos.
+
+El Juez queda autorizado para rechazar la prueba testimonial ofrecida por el demandante, cuando éste no le inspire confianza o las circunstancias le parezcan sospechosas.

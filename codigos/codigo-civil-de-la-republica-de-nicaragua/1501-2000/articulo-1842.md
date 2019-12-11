@@ -1,0 +1,3 @@
+# Artículo 1842
+
+La sentencia judicial que rechaza la acción intentada contra el naturalmente obligado, no extingue la obligación natural.

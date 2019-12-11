@@ -1,0 +1,3 @@
+# Artículo 2105
+
+Sea que la novación se opere por la sustitución de un nuevo deudor o sin ella, los privilegios de la primera deuda se extinguen por la novación.

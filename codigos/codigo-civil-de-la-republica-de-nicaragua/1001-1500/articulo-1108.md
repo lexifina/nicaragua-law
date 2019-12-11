@@ -1,0 +1,5 @@
+# Artículo 1108
+
+Los asignatarios a título universal, con cualesquiera palabras que se les llame, y aunque en el testamento se les califique de legatarios, son herederos y representan la persona del testador para sucederle en todos sus derechos y obligaciones trasmisibles.
+
+Los herederos están también obligados a las cargas testamentarias, esto es, a las que se constituyen por el testamento mismo, y que no se imponen a determinadas personas.

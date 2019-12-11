@@ -1,0 +1,3 @@
+# Artículo 2139
+
+Cuando dos personas son deudoras una de otra se opera entre ellas una compensación que extingue ambas deudas, del modo y en los casos que van a expresarse.

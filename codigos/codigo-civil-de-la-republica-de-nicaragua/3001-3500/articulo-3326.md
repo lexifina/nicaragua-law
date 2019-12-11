@@ -1,0 +1,3 @@
+# Artículo 3326
+
+Cuando la delegación a determinada persona ha sido autorizada expresamente por el mandante, se constituye entre el mandante y el delegado un nuevo mandato que solo puede ser revocado por el mandante, y no se extingue por la muerte u otro accidente que sobrevenga al anterior mandatario.

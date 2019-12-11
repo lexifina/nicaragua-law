@@ -1,0 +1,3 @@
+# Artículo 3774
+
+La hipoteca de un inmueble se extiende a todos los accesorios, mientras estén unidos al principal; a todas las mejoras supervenientes al inmueble, sean mejoras naturales, accidentales o artificiales, a las construcciones hechas sobre un terreno vacío; a las ventajas que resulten de la extinción de las cargas o servidumbres que debía el inmueble; a los alquileres o rentas debidas por los arrendatarios; y al importe de la indemnización concedida o debida por los aseguradores del inmueble. Pero las adquisiciones hechas por el propietario de inmuebles contiguos para reunirlos al inmueble hipotecado, no están sujetos a la hipoteca.

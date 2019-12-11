@@ -1,0 +1,3 @@
+# Artículo 1603
+
+El dueño de un acueducto podrá fortificar sus márgenes con céspedes, estacadas, paredes o ribazos de piedra suelta; pero no con plantaciones de ninguna clase. El dueño del predio sirviente tampoco podrá hacer plantación ni operación alguna de cultivo en las mismas márgenes, y las raíces que penetren en ella podrán ser cortadas por el dueño del acueducto.

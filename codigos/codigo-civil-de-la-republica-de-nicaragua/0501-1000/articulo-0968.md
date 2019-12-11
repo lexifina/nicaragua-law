@@ -1,0 +1,3 @@
+# Artículo 968
+
+No vale disposición alguna testamentaria que el testador no haya dado a conocer de otro modo que por sí o no, o por una señal de afirmación o negación, contestando una pregunta.

@@ -1,0 +1,3 @@
+# Artículo 1894
+
+Si el que debe un inmueble bajo condición lo enajena, o lo grava con hipoteca o servidumbre, no podrá resolverse la enajenación o gravamen, sino cuando la condición constaba en el título respectivo inscrito u otorgado por escritura pública también inscrita.

@@ -1,0 +1,5 @@
+# Artículo 1817
+
+En el caso de hacerse por otro que el denunciado la reparación de que habla el artículo precedente, el que se encargue de hacerla, conservará la forma y dimensiones del antiguo edificio en todas sus partes; salvo si fuere necesario alterarlas para precaver el peligro.
+
+Las alteraciones se ajustarán a la voluntad del dueño del edificio, en cuanto sean compatibles con el objeto de la denuncia.

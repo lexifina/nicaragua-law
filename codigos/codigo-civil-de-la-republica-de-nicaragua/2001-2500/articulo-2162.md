@@ -1,0 +1,5 @@
+# Artículo 2162
+
+Si hay confusión entre uno de varios deudores solidarios y el acreedor, podrá el primero repetir contra cada uno de sus codeudores por la parte o cuota que respectivamente les corresponda en la deuda.
+
+Si por el contrario, hay confusión entre uno de varios acreedores solidarios y el deudor, será obligado el primero a cada uno de sus coacreedores por la parte o cuota que respectivamente les corresponda en el crédito.

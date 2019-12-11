@@ -1,0 +1,3 @@
+# Artículo 2172
+
+En el hecho o culpa del deudor se comprende el hecho o culpa de las personas por quienes fuere responsable.

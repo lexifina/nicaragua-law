@@ -1,0 +1,7 @@
+# Artículo 2041
+
+La persona diputada para recibir se hace inhábil por la demencia o la interdicción, por haber hecho cesión de bienes, o haberse trabado ejecución en todos ellos; y en general, por todas las causas que hacen expirar un mandato.
+
+Capítulo III
+
+Del pago por subrogación

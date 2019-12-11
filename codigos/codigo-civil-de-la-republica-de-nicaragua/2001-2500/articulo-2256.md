@@ -1,0 +1,3 @@
+# Artículo 2256
+
+Son anulables, a solicitud del procurador del concurso o de cualquier acreedor interesado, todas las enajenaciones de inmuebles y la cancelación o constitución de un derecho real sobre ellos; la cancelación de documentos u obligaciones no vencidas, y la constitución de prenda para garantizar obligaciones contraídas o documentos otorgados por el insolvente, siempre que éste hubiere ejecutado o celebrado cualquiera de los referidos actos o contratos, después de existir la insolvencia legal, confesando haber recibido el bien, valor o precio de ellos, y la otra parte no compruebe la efectiva entrega de dicho bien, valor o precio.

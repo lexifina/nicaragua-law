@@ -1,0 +1,3 @@
+# Artículo 1821
+
+El que hace obras para impedir la entrada de aguas que no es obligado a recibir no es responsable de los daños que, atajadas de esa manera y sin intención de ocasionarlos, puedan causar en las tierras o edificios ajenos.

@@ -1,0 +1,3 @@
+# Artículo 2479
+
+Todo contrato legalmente celebrado es una ley para los contratantes, y no puede ser invalidado, sino por su consentimiento mutuo o por causas legales.

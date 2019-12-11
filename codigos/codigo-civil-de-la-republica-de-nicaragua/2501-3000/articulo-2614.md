@@ -1,0 +1,3 @@
+# Artículo 2614
+
+El citado de evicción que comparece a defender al adquirente, no podrá citar a su vez a otro de los enajenantes, pero tendrá derecho para pedir al Juez que conoce del asunto, que notifique la demanda del que pretende derecho en el bien a los enajenantes que designe. Si éstos estuvieren en el lugar del juicio, se les hará la notificación en su persona; y por edictos, a los que estuvieren ausentes, señalándoles quince días de plazo para que comparezcan si quisieren. Al comparecer los notificados deberán coadyuvar con el que pidió las notificaciones, formando con él una sola parte, y debiendo gestionar en conjunto o por medio de un procurador que los represente.

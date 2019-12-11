@@ -1,0 +1,5 @@
+# Artículo 580
+
+La inscripción del reconocimiento de los hijos, de las emancipaciones, declaraciones de mayor edad y de las sentencias de divorcio, nulidad de matrimonio o de unión de hecho estable y declaración de ausencia, se practicará dentro de treinta días hábiles a más tardar, contados de la fecha de los respectivos actos141.
+
+141 Artículo 580. Se agregan las expresiones “del reconocimiento”, “o de unión de hecho estable” y “treinta días hábiles” y se suprime los términos “la legitimación”, “del reconocimiento de los ilegítimos”, “separación de cuerpos” y “ocho días”. Se suprime lo relativo a la legitimación y del reconocimiento de los hijos ilegítimos, porque esto fue derogado por la Constitución Política de la República de Nicaragua y el artículo 671 del Código de Familia, de igual manera la figura jurídica de separación de cuerpos fue derogada por el artículo 24 de la Ley N°. 38, “Ley para la disolución del matrimonio por voluntad de una de las partes”, publicada en La Gaceta, Diario Oficial N°. 80 del 29 de abril de 1988.

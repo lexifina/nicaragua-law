@@ -1,0 +1,3 @@
+# Artículo 1399
+
+La acción de nulidad o de rescisión prescribe respecto de las particiones según las reglas generales que fijan la duración de esta especie de acciones.

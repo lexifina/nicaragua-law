@@ -1,0 +1,5 @@
+# Artículo 1892
+
+No puede exigirse el cumplimiento de la obligación condicional, sino verificada la condición totalmente.
+
+Todo lo que se hubiere pagado antes de efectuarse la condición suspensiva, podrá repetirse mientras no se hubiere cumplido.

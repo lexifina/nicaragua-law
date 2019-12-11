@@ -1,0 +1,3 @@
+# Artículo 2086
+
+Podrá el deudor arrepentirse de la cesión antes de la venta de los bienes o de cualquiera parte de ellos; y recobrar los que existan, pagando a sus acreedores.

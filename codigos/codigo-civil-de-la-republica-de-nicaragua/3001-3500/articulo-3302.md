@@ -1,0 +1,3 @@
+# Artículo 3302
+
+Los servicios de las profesiones y carreras que suponen largos estudios, o a que está unida la facultad de representar y obligar a otra persona respecto de terceros, se sujetan a las reglas del mandato.

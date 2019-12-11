@@ -1,0 +1,3 @@
+# Artículo 3659
+
+El fiador puede estipular con el deudor una remuneración pecuniaria por el servicio que le preste.

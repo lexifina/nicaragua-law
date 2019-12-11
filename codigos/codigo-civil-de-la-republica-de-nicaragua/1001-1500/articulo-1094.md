@@ -1,0 +1,3 @@
+# Artículo 1094
+
+El día incierto e indeterminado es siempre una verdadera condición, y se sujeta a las reglas de las condiciones.

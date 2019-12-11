@@ -1,0 +1,3 @@
+# Artículo 2102
+
+Si el delegado es sustituido contra su voluntad al delegante, no hay novación, sino solamente cesión de acciones del delegante a su acreedor; y los efectos de este acto se sujetan a las reglas de la cesión de acciones.

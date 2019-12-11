@@ -1,0 +1,3 @@
+# Artículo 2080
+
+La cesión de bienes es el abandono voluntario que el deudor hace de todos los suyos a su acreedor o acreedores, cuando, a consecuencia de accidentes inevitables, no se halla en estado de pagar sus deudas.

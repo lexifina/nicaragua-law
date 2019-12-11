@@ -1,0 +1,3 @@
+# Artículo 1304
+
+No habiendo el testador nombrado albacea, o faltando el nombrado, el encargo de hacer ejecutar las disposiciones del testador, pertenece a los herederos.

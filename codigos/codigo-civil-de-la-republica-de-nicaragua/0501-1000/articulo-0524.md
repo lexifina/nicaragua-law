@@ -1,0 +1,5 @@
+# Artículo 524
+
+Ambos contrayentes estarán obligados a dar parte al funcionario encargado del Registro del Estado Civil de las Personas, en el municipio en que se celebró el matrimonio, o se declaró la unión de hecho estable a más tardar dentro de treinta días hábiles de haberse verificado su enlace, especificando los pormenores de que trata el artículo anterior91.
+
+91 Artículo 524. Se suprimen los términos “Todo varón que se casare”, “la jurisdicción”, “cinco” y se agregan los términos “ambos contrayentes” y “o se declaró la unión de hecho estable” y “treinta días hábiles”. En armonía con los artículos anteriores se incorpora la denominación completa del Registro del Estado Civil de las Personas, igualmente se agregan términos jurídicos en concordancia con la Constitución Política de la República de Nicaragua y la Ley N°. 870, “Código de Familia”, publicada en La Gaceta, Diario Oficial N°. 190 del 8 de octubre de 2014 y se amplía el término de días para dar parte al funcionario encargado del Registro del Estado Civil de las Personas, en el municipio en que se celebró el matrimonio, o la declaración de la unión de hecho estable.

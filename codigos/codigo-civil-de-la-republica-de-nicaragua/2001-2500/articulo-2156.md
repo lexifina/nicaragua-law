@@ -1,0 +1,3 @@
+# Artículo 2156
+
+Cuando ambas deudas no son pagaderas en un mismo lugar, ninguna de las partes puede oponer la compensación, a menos que una y otra deuda sea de dinero, y que el que opone la compensación tome en cuenta los costos de la remesa.

@@ -1,0 +1,7 @@
+# Artículo 2049
+
+Si varias personas han prestado dinero al deudor para el pago de una deuda, no habrá preferencia entre ellas, cualesquiera que hayan sido las fechas de los diferentes préstamos o subrogaciones.
+
+Capítulo IV
+
+De la imputación del pago

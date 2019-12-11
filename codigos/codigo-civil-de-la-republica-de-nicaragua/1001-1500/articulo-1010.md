@@ -1,0 +1,5 @@
+# Artículo 1010
+
+Inaplicable319.
+
+319 Artículo 1010. Inaplicable. Que expresaba: “Si el difunto no hubiere dejado descendientes legítimos, la herencia se dividirá en tres partes iguales: una para los ascendientes legítimos, otra para el cónyuge y otra para los hijos naturales o nietos naturales. No habiendo cónyuge sobreviviente, la herencia se dividirá en dos partes: una para los ascendientes legítimos y otra para los hijos naturales o nietos naturales. No habiendo hijos naturales o nietos naturales, se dividirá la herencia en dos partes, una para los ascendientes legítimos y otra para el cónyuge. No habiendo cónyuge, ni hijos o nietos naturales, la herencia pertenecerá toda a los ascendientes legítimos. Habiendo un solo ascendiente en el grado más próximo, sucederá éste en todos los bienes o en toda la porción hereditaria de los ascendientes”. Es inaplicable por ser contradictorio a lo que establece el artículo 75 de la Constitución Política de la República de Nicaragua y la Ley N°. 870, Código de Familia, publicada en La Gaceta, Diario Oficial N°. 190 del 8 de octubre de 2014.

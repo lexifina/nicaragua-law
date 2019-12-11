@@ -1,0 +1,5 @@
+# Artículo 3303
+
+El negocio que interesa al mandatario solo, es un mero consejo, que no produce obligación alguna.
+
+Pero si este consejo se da maliciosamente, obliga a la indemnización de perjuicios.
