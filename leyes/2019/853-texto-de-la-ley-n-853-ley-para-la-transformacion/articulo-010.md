@@ -12,7 +12,7 @@ Funciones de la SEC:
 
 5) Proponer a la CONATRADEC planes y programas de trabajo y sugerir el orden de prioridades;
 
-6) Elaborar normativas, procedimientos crediticios y esquema de financiamiento del PNTDC para ser aprobado por la CONATRADEC;
+6) Elaborar normativas, procedimiento crediticios y esquema de financiamiento del PNTDC para ser aprobado por la CONATRADEC;
 
 7) Recomendar a la CONATRADEC reformas al PNTDC y al FTDC;
 
@@ -38,4 +38,4 @@ Funciones de la SEC:
 
 18) Cualquier otra función que le delegue la CONATRADEC.
 
-DEL COMITÉ TÉCNICO NACIONAL PARA LA TRANSFORMACIÓN Y DESARROLLO DE LA CAFICULTURA (CTNC)
+DEL COMITÉ TÉCNICO NACIONAL PARA LA TRANSFORMACJÓN Y DESARROLLO DE LA CAFICULTURA (CTNC)

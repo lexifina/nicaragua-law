@@ -46,9 +46,9 @@ Para los efectos de aplicación de la presente Ley se establecen las definicione
 
 21) MIFIC: Ministerio de Fomento Industria y Comercio.
 
-22) PPRI: Precio Promedio de Referencia Internacional del Año Cafetalero.
+22) PPRI: Precio Promedio de Referencia Internacional del año Cafetalero.
 
-23) Productor: Es toda persona natural o jurídica que se dedica al cultivo de café en cualquier parte del territorio nacional, inscrito en el Registro Único de la Caficultura de Nicaragua (RUCN).
+23) Productor: Es toda, Persona natural o jurídica que se dedica al cultivo de café en cualquier parte del territorio nacional, inscrito en el Registro Único de la Caficultura de Nicaragua (RUCN).
 
 24) PNTDC: Programa Nacional de Transformación y Desarrollo de la Caficultura.
 

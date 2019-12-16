@@ -8,7 +8,7 @@ Para la ejecución del FTDC, son funciones de la CONATRADEC, las siguientes:
 
 a) Plan de Producción y Financiamiento del café arábica y robusta, en las zonas potencialmente adecuadas;
 
-b) Programa de Semilla del PNTDC y el mecanismo de su financiamiento, así como asignar los recursos de este Programa al INTA y IPSA de acuerdo al Programa;
+b) Programa de Semilla del PNTDC y el mecanismo de su financiamiento, así como asignar los recursos de este Programa al JNTA y IPSA de acuerdo al Programa;
 
 c) Programa de Asistencia Técnica del PNTDC y su mecanismo de financiamiento;
 
@@ -32,7 +32,7 @@ e) Aprobar las Cartas Tecnológicas de las diferentes actividades productivas co
 
 9) Organizar programas y proyectos educativos, técnicos y de investigación necesarios para impulsar el desarrollo y transformación de la Caficultura;
 
-10).Aprobar el segmento de cobertura del crédito que se otorgue a los productores incorporados al PNTDC;
+10) Aprobar el segmento de cobertura del crédito que se otorgue a los productores incorporados al PNTDC;
 
 11) Aprobar el presupuesto de la CONATRADEC;
 

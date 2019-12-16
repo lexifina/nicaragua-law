@@ -1,6 +1,12 @@
-TEXTO DE LA LEY N°. 853, LEY PARA LA TRANSFORMACIÓN Y DESARROLLO DE LA CAFICULTURA, CON SUS REFORMAS INCORPORADAS
+TEXTO CONSOLIDADO, LEY Nº. 853, LEY PARA LA TRANSFORMACIÓN Y DESARROLLO DE LA CAFICULTURA
 
-Publicado en La Gaceta, Diario Oficial N°. 174 del 11 de septiembre de 2019
+Aprobado el 16 de octubre de 2019
+
+Publicado en La Gaceta, Diario Oficial N°. 240 del 16 de diciembre de 2019
+
+Digesto Jurídico Nicaragüense de la Materia Soberanía y Seguridad Alimentaria y Nutricional
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 16 de octubre de 2019, de la Ley Nº. 853, Ley para la Transformación y Desarrollo de la Caficultura, aprobada el 12 de diciembre de 2013 y publicada en La Gaceta, Diario Oficial Nº. 239 del 17 de diciembre de 2013, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1005, Ley de Actualización del Digesto Jurídico Nicaragüense de la Materia Soberanía y Seguridad Alimentaria y Nutricional, aprobada el 16 de octubre de 2019.
 
 El Presidente de la República de Nicaragua
 
@@ -18,7 +24,7 @@ En uso de sus facultades,
 
 Ha dictado la siguiente:
 
-LEY N°. 853
+LEY Nº. 853
 
 LEY PARA LA TRANSFORMACIÓN Y DESARROLLO DE LA CAFICULTURA
 
