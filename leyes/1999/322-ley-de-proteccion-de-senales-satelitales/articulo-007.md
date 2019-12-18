@@ -1,6 +1,6 @@
 # Artículo 7
 
-Régimen de Licencias:
+Régimen de Licencias
 
 El titular del derecho puede igualmente conceder a terceros licencias o autorizaciones no exclusivas e intransferibles de explotación, en relación con el uso de las señales portadoras de programas.
 

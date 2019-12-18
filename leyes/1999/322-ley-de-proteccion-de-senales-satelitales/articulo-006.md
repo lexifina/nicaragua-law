@@ -1,6 +1,6 @@
 # Artículo 6
 
-Efectos de la Cesión:
+Efectos de la Cesión
 
 Toda cesión de los derechos reconocidos en esta Ley debe de contar por escrito y, salvo pacto expreso en contrario, se presume realizada a título oneroso y se limita a los modos de explotación previstos en el contrato y el ámbito territorial convenidos.
 

@@ -1,6 +1,6 @@
 # Artículo 11
 
-Límites Específicos a los Derechos de Retransmisión y Distribución:
+Límites Específicos a los Derechos de Retransmisión y Distribución
 
 La retransmisión o la distribución sin fines de lucro de una señal en el territorio nacional, realizada por un retransmisor o distribuidor a quien no está destinada aquella, no afectará los derechos reconocidos por esta Ley al organismo o ente emisor, siempre que dicha señal sea portadora de:
 

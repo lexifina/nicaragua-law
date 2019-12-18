@@ -1,6 +1,6 @@
 # Artículo 25
 
-Omisión del Registro:
+Omisión del Registro
 
 La omisión de la inscripción, depósito o información a que se refieren las disposiciones de este Capítulo, no impide el goce y el ejercicio de los derechos reconocidos por la presente Ley.
 

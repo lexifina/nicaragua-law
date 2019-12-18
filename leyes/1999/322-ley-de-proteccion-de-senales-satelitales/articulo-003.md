@@ -1,6 +1,6 @@
 # Artículo 3
 
-Definiciones:
+Definiciones
 
 A los efectos de la presente Ley se entenderá por:
 
@@ -28,7 +28,7 @@ Distribuidor: Persona Natural o Jurídica que decide que se efectúe la transmis
 
 Distribución por Cable y/o Inalámbrica: Operación por la cual las señales portadoras de programas son retransmitidas a distancia por medio alámbrico o inalámbrico con la finalidad de su recepción por el público.
 
-Empresa u Organismo de Distribución por Cable y/o Inalámbrica: Persona Natural o Jurídica que realiza una operación de distribución, mediante la retransmisión a distancia de una señal emitida por otro a través de los medios alámbrico o inalámbricos, dispositivo conductor, u otro procedimiento similar, con la finalidad de su recepción en el público.
+Empresa u Organismo de Distribución por Cable y/o Inalámbrica: Persona Natural o Jurídica que realiza una operación de distribución, mediante la retransmisión a distancia de una señal emitida por otro a través de los medios alámbricos o inalámbricos, dispositivo conductor u otro procedimiento similar, con la finalidad de su recepción en el público.
 
 Cesión: Contrato por el cual se transfieren total o parcialmente los derechos reconocidos por la presente Ley.
 
@@ -42,7 +42,7 @@ Uso Personal: Fijación de una emisión en un solo ejemplar, exclusivamente para
 
 Usos Honrados: Aquellos que no interfieren con la explotación normal de una señal portadora de programas, ni causan un perjuicio injustificado a los legítimos intereses de su titular.
 
-Fijación: Registro de la obra en un soporte físico es decir, en un medio material perceptible de los sentidos (grabación mecánica, cinematografía, magnética, microfilmado etc.)
+Fijación: Registro de la obra en un soporte físico, es decir en un medio material perceptible de los sentidos (grabación mecánica, cinematografía, magnética, microfilmado etc.).
 
 Registro: Registro de la Propiedad Intelectual del Ministerio de Fomento, Industria y Comercio.
 

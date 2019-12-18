@@ -1,6 +1,6 @@
 # Artículo 31
 
-Medidas Precautorias Específicas:
+Medidas Precautorias Específicas
 
 Sin perjuicio de las medidas cautelares previstas en la legislación ordinaria, la autoridad judicial podrá ordenar, entre otras, las siguientes:
 

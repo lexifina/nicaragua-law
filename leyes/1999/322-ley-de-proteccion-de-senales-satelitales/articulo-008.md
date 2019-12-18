@@ -1,8 +1,8 @@
 # Artículo 8
 
-Contenido:
+Contenido
 
-El derecho de ente u organismo de origen de una señal portadora de programas, o su derecho habiente, comprende con exclusividad el de realizar, autorizar o prohibir:
+El derecho de ente u organismo de origen de una señal portadora de programas, o su derechohabiente, comprende con exclusividad el de realizar, autorizar o prohibir:
 
 1. Retransmitir y distribuir sus emisiones, en forma directa o diferida, por cualquier medio o procedimiento.
 
