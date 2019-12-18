@@ -1,6 +1,6 @@
 # Artículo 41
 
-Las Estaciones no podrán suspender sus transmisiones, salvo caso fortuito o fuerza mayor. El titular de la Licencia o del Permiso deberá informar a TELCOR:
+Las Estaciones no podrán suspender sus transmisiones, salvo caso fortuito o fuerza mayor. El titular de la Licencia o del Permiso deberá informar a TELCOR.
 
 a) De la suspensión del servicio, con indicación de las causas;
 

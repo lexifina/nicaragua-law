@@ -1,11 +1,29 @@
 # Artículo 108
 
-No están comprendidas en los alcances de esta Ley, para los efectos de su regulación:
-
-a) La correspondencia de una empresa que realiza servicio de transporte o carga, destinada a la misma empresa y que está conducida por sus propios medios de transporte.
-
-b) La correspondencia que circula entre poblaciones que carecen de empresas portadoras de servicios postales.
-
-c) La correspondencia conducida por los propios interesados y la transportada a título gratuito.
+Derogado.
 
 DE LAS CONCESIONES
+
+DE LA EMPRESA NACIONAL DE SERVICIOS POSTALES
+
+Artículo 115 Derogado.
+
+Artículo 116 Derogado.
+
+Artículo 117 Derogado.
+
+Artículo 118 Derogado.
+
+Artículo 119 Derogado.
+
+Artículo 120 Derogado.
+
+Artículo 121 Derogado.
+
+Artículo 122 Derogado.
+
+Artículo 123 Derogado.
+
+Artículo 124 Derogado.
+
+Artículo 125 Deróganse todas las disposiciones que se opongan a esta Ley. Los Reglamentos dictados de conformidad con leyes y Decretos anteriores continuarán en vigencia, en todo aquello que no se opongan a la presente Ley.

@@ -16,9 +16,9 @@ La aplicación de esta Ley estará orientada a:
 
 7) Garantizar el servicio público de telefonía básica las 24 horas y todos los días del año.
 
-8) Garantizar la oportunidad de acceso y uso del espectro radioeléctrico para la prestación de servicios de telecomunicaciones.
+8).Garantizar la oportunidad de acceso y uso del espectro radioeléctrico para la prestación de servicios de telecomunicaciones.
 
-9) Proteger el derecho inalienable de los usuarios al acceso de los servicios.
+9).Proteger el derecho inalienable de los usuarios al acceso de los servicios.
 
 10) Asegurar el cumplimiento de las obligaciones y garantizar los derechos de todos los operadores.
 

@@ -1,5 +1,5 @@
 # Artículo 114
 
-Se designa a TELCOR en su carácter de Ente Regulador para que ejerza las facultades inspectoras y sancionadoras respecto a los operadores de servicios postales que existan en el país, señalando en el reglamento respectivo los tipos de infracciones y sanciones, las que no podrán ser superiores a las que se establecen en esta Ley.
+Derogado.
 
-DE LA EMPRESA NACIONAL DE SERVICIOS POSTALES
+Artículo 126 La presente Ley entrará en vigencia a partir de su publicación en La Gaceta, Diario Oficial.
