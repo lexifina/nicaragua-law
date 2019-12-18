@@ -1,6 +1,6 @@
 # Artículo 54
 
-Financiamiento.
+Financiamiento
 
 El Servicio Postal Universal prestado por la Empresa Correos de Nicaragua se financiará de la forma siguiente:
 

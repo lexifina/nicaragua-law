@@ -1,6 +1,6 @@
 # Artículo 52
 
-Servicios Incluidos.
+Servicios Incluidos
 
 Forman parte del Servicio Postal Universal los siguientes:
 

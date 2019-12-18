@@ -1,12 +1,12 @@
 # Artículo 102
 
-Ámbito Territorial del Título Habilitante.
+Ámbito Territorial del Título Habilitante
 
 El ámbito territorial del Título Habilitante podrá ser:
 
 1. Local: Comprende la demarcación geográfica de una ciudad;
 
-2. Regional: Comprende la demarcación geográfica de cualquiera de las Regiones de la Costa Atlántica;
+2. Regional: Comprende la demarcación geográfica de cualquiera de las Regiones de la Costa Caribe;
 
 3. Nacional: Comprende la demarcación geográfica del territorio nacional;
 

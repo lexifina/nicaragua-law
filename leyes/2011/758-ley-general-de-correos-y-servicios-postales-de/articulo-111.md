@@ -1,6 +1,6 @@
 # Artículo 111
 
-Validez de títulos habilitantes anteriores a la ley.
+Validez de títulos habilitantes anteriores a la ley
 
 I. Los títulos habilitantes adquiridos por los operadores postales, con anterioridad a la entrada en vigencia de la presente Ley, conservarán su validez y tendrán un plazo de noventa días para adecuarse a las disposiciones de la presente Ley y su Reglamento, contados a partir de la fecha de publicación del Reglamento de esta Ley en La Gaceta, Diario Oficial;
 

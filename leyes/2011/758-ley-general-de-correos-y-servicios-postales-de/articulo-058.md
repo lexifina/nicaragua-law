@@ -1,6 +1,6 @@
 # Artículo 58
 
-Otros derechos de los usuarios.
+Otros derechos de los usuarios
 
 Los usuarios de los servicios postales disponibles al público disfrutarán de los derechos siguientes:
 

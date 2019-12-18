@@ -1,6 +1,6 @@
 # Artículo 57
 
-Protección de información.
+Protección de información
 
 La obligación de protección de los datos incluirá el deber de conservar y preservar el secreto de la información de carácter personal, la confidencialidad de la información transmitida o almacenada, la protección de la intimidad y la reserva de la dirección postal de los usuarios sea de origen y destino. El Servicio Postal se prestará bajo condiciones de inviolabilidad de la privacidad del envío y bajo la prohibición de suministrar información a terceros sin capacidad legal para exigirla.
 

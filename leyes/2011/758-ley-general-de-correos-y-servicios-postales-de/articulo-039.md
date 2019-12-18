@@ -1,6 +1,6 @@
 # Artículo 39
 
-Causales de separación de la Carrera Postal.
+Causales de separación de la Carrera Postal
 
 Son causales para la separación del Servicio Postal y la Carrera las siguientes:
 

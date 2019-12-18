@@ -1,6 +1,6 @@
 # Artículo 70
 
-Prohibiciones.
+Prohibiciones
 
 Se establecen las siguientes prohibiciones:
 

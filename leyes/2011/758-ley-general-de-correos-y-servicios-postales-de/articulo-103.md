@@ -1,6 +1,6 @@
 # Artículo 103
 
-Requisitos.
+Requisitos
 
 Son requisitos para la obtención de un Título Habilitante los siguientes:
 
@@ -24,10 +24,10 @@ g. Breve descripción del servicio postal a prestar y de la infraestructura y eq
 
 Tratándose de personas naturales:
 
-Certificado de antecedentes judiciales y policiales con los cuales el solicitante demuestre que no tiene antecedentes penales, en caso de ser extranjero deberá tramitarlo a través de INTERPOL con las respectivas autenticas consulares del país de origen.
+Certificado de antecedentes judiciales y policiales con los cuales el solicitante demuestre que no tiene antecedentes penales, en caso de ser extranjero deberá tramitarlo a través de INTERPOL con las respectivas auténticas consulares del país de origen.
 
 Tratándose de Personas Jurídicas:
 
 Testimonio de la Escritura Pública de Constitución Social de la Empresa debidamente inscrita en el Registro Público Mercantil y el Registro Público de Personas.
 
-Certificado de los antecedentes judiciales y policiales que acredite que los miembros del Directorio o de quienes hagan sus veces y del representante legal de la empresa no tienen antecedentes penales. En caso de ser extranjeros deberá tramitarlo a través de INTERPOL con las respectivas autenticas consulares del país de origen.
+Certificado de los antecedentes judiciales y policiales que acredite que los miembros del Directorio o de quienes hagan sus veces y del representante legal de la empresa no tienen antecedentes penales. En caso de ser extranjeros deberá tramitarlo a través de INTERPOL con las respectivas auténticas consulares del país de origen.

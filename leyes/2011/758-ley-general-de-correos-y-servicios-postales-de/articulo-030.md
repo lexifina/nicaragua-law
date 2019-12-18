@@ -1,6 +1,6 @@
 # Artículo 30
 
-Principios de la Carrera Postal.
+Principios de la Carrera Postal
 
 Son principios de la Carrera Postal los siguientes:
 
@@ -8,7 +8,7 @@ Son principios de la Carrera Postal los siguientes:
 
 2. Principio de Adaptabilidad de los Servicios Públicos a las Necesidades de la Población: El personal de la Empresa Correos de Nicaragua, hombres y mujeres, deben brindar un servicio eficiente, eficaz y consistente con las políticas públicas y las necesidades de la población;
 
-3. Principio de Igualdad de Trato y Condiciones de Trabajo: La ciudadanía tiene el derecho de participar en las convocatorias de selección de personal para la Carrera Postal en igualdad de condiciones, sin discriminaciones por motivos de nacionalidad, idioma, opinión, origen, posición económica o condición social, sexo, género, raza, religión y credos políticos ó filosóficos;
+3. Principio de Igualdad de Trato y Condiciones de Trabajo: La ciudadanía tiene el derecho de participar en las convocatorias de selección de personal para la Carrera Postal en igualdad de condiciones, sin discriminaciones por motivos de nacionalidad, idioma, opinión, origen, posición económica o condición social, sexo, género, raza, religión y credos políticos o filosóficos;
 
 4. Principio de Estabilidad: El personal de la Empresa Correos de Nicaragua gozarán de estabilidad laboral de conformidad con lo que establece la Constitución Política de la República de Nicaragua, el Código del Trabajo y demás instrumentos normativos de la legislación laboral vigente;
 
@@ -18,4 +18,4 @@ Son principios de la Carrera Postal los siguientes:
 
 7. Principio de Publicidad: Las autoridades de la Empresa Correos de Nicaragua están obligadas a realizar una convocatoria pública a través de un medio de comunicación escrito de circulación nacional y cualquier medio electrónico, en la que se exprese el cargo vacante a llenar, los requisitos que tienen que cumplir y las pruebas a realizar por los optantes. La falta de publicidad acarrea la nulidad de la convocatoria la cual puede ser declarada de oficio o a petición de parte; y
 
-8. Principio de probidad y transparencia. El funcionariado y personal de la Empresa Correos de Nicaragua regidos por la Carrera Postal están obligados en el desempeño de sus funciones y el servicio público a proceder de forma ética y moral de conformidad con las normativas pertinentes y para los fines públicos establecidos y para lo que fue contratado.
+8. Principio de probidad y transparencia: El funcionariado y personal de la Empresa Correos de Nicaragua regidos por la Carrera Postal están obligados en el desempeño de sus funciones y el servicio público a proceder de forma ética y moral de conformidad con las normativas pertinentes y para los fines públicos establecidos y para lo que fue contratado.

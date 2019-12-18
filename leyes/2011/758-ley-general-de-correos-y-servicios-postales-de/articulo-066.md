@@ -1,6 +1,6 @@
 # Artículo 66
 
-Régimen Tarifario.
+Régimen Tarifario
 
 Las tarifas de los servicios que forman parte del Servicio Postal Universal prestados por el operador postal designado serán establecidas en base a la estructura y contabilidad de costo y será aprobada por el Ente Regulador, en el entendido de que las mismas garanticen la competitividad y la universalidad del servicio, categoría y pesos.
 

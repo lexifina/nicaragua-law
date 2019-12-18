@@ -1,10 +1,10 @@
 # Artículo 9
 
-Integración del Consejo Directivo.
+Integración del Consejo Directivo
 
 El Consejo Directivo es la máxima autoridad de la Empresa Correos de Nicaragua y está integrado por las personas que ocupan los cargos siguientes:
 
-1. La Presidencia Ejecutiva del Instituto Nicaragüense de Telecomunicaciones y Correos, quien lo preside;
+1. La Dirección General del Instituto Nicaragüense de Telecomunicaciones y Correos, quien lo preside;
 
 2. El Ministro o Ministra de Hacienda y Crédito Público o el Viceministro o Viceministra;
 

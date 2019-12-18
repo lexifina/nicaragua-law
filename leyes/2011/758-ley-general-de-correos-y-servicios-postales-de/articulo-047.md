@@ -1,6 +1,6 @@
 # Artículo 47
 
-Fines del Servicio Postal.
+Fines del Servicio Postal
 
 Se tendrán por fines del Servicio Postal los siguientes:
 

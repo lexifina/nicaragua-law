@@ -1,6 +1,6 @@
 # Artículo 71
 
-Infracciones.
+Infracciones
 
 Le corresponde al Ente Regulador, la graduación y aplicación de las infracciones que cometan los operadores postales de la forma siguiente:
 
@@ -12,17 +12,17 @@ b. El incumplimiento de las obligaciones de la prestación del servicio postal, 
 
 2. Graves:
 
-a. Negarse a proporcionar los datos y demás información requeridos por el Ente Regulador, cuando resulten exigibles de conformidad a lo previsto en esta Ley y su reglamento o en la normativa técnica que regula el servicio postal, siempre y cuando no se consideren como faltas muy graves;
+Negarse a proporcionar los datos y demás información requeridos por el Ente Regulador, cuando resulten exigibles de conformidad a lo previsto en esta Ley y su reglamento o en la normativa técnica que regula el servicio postal, siempre y cuando no se consideren como faltas muy graves;
 
-b. El incumplimiento de las obligaciones a que diere lugar el título habilitante para la prestación del servicio postal, o cuando estas no fuesen consideradas como faltas muy graves de conformidad a lo previsto en esta ley;
+El incumplimiento de las obligaciones a que diere lugar el título habilitante para la prestación del servicio postal, o cuando estas no fuesen consideradas como faltas muy graves de conformidad a lo previsto en esta ley;
 
-c. El incumplimiento del régimen tarifario, siempre que no deba considerarse como falta muy grave conforme a lo previsto en la ley;
+El incumplimiento del régimen tarifario, siempre que no deba considerarse como falta muy grave conforme a lo previsto en la ley;
 
-d. No exhibir los cuadros de tarifas de los servicios postales ofertados al público;
+No exhibir los cuadros de tarifas de los servicios postales ofertados al público;
 
-e. El incumplimiento de las obligaciones establecidas en el reglamento de la presente Ley para la utilización de máquinas franqueadoras; y
+El incumplimiento de las obligaciones establecidas en el reglamento de la presente Ley para la utilización de máquinas franqueadoras; y
 
-f. Negarse a facilitar la información y los soportes que contengan los datos técnicos requeridos por el Ente Regulador o el suministro de información falsa, alterada, o aquella que resulte tendenciosa o pretendan engañar a la autoridad.
+Negarse a facilitar la información y los soportes que contengan los datos técnicos requeridos por el Ente Regulador o el suministro de información falsa, alterada, o aquella que resulte tendenciosa o pretendan engañar a la autoridad.
 
 3. Muy Graves:
 
@@ -34,7 +34,7 @@ c. Realizar o brindar servicios o actividades relacionadas con la prestación de
 
 d. La realización de actividades o prestaciones de servicios o actividades no comprendidas en el Título Habilitante o que por su naturaleza le corresponden al Operador Postal Designado;
 
-e. Utilizar la expresión "Correos" con fines comerciales o las señas y características, o logotipos, o emblemas de identificación de la Empresa Correos de Nicaragua por personas o entidades diferentes a la misma;
+e. Utilizar la expresión “Correos” con fines comerciales o las señas y características, o logotipos, o emblemas de identificación de la Empresa Correos de Nicaragua por personas o entidades diferentes a la misma;
 
 f. El incumplimiento de las condiciones y circunstancias esenciales establecidas para la prestación del servicio postal en el título habilitante de conformidad al contrato de otorgamiento de la concesión y el título habilitante;
 

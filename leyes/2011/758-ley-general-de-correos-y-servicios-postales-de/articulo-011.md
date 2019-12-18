@@ -1,6 +1,6 @@
 # Artículo 11
 
-Nombramiento de representantes.
+Nombramiento de representantes
 
 Las personas señaladas en el numeral 4, del artículo 9 de la presente Ley, y sus suplentes serán designadas por la autoridad administrativa superior del Poder Ejecutivo. Estos serán nombrados por un período de dos años renovables mediante Acuerdo Presidencial, pudiendo ser sustituidos en cualquier momento de la misma forma en que hubieren sido nombrados.
 

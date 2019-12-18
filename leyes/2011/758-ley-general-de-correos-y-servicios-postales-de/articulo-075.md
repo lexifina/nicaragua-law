@@ -1,6 +1,6 @@
 # Artículo 75
 
-Responsabilidades Penales.
+Responsabilidades Penales
 
 Quienes interceptaren o interfieran los servicios postales, o destruyan o dañen equipos, vehículos o instalaciones del servicio postal, se les aplicará la legislación penal vigente en lo que corresponda.
 

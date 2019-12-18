@@ -1,6 +1,6 @@
 # Artículo 98
 
-Funciones del Ente Regulador.
+Funciones del Ente Regulador
 
 Son funciones del Ente Regulador las siguientes:
 

@@ -1,6 +1,6 @@
 # Artículo 85
 
-Comisión de Especies Postales y Filatelia.
+Comisión de Especies Postales y Filatelia
 
 La Comisión de Especies Postales y Filatelia estará integrada por las o los responsables de las siguientes oficinas de la forma siguiente:
 

@@ -1,6 +1,6 @@
 # Artículo 104
 
-Emisión de Resolución.
+Emisión de Resolución
 
 Una vez presentada la solicitud con todos los requisitos al Ente Regulador, este dispondrá de un plazo de sesenta días para aprobar o rechazar la solicitud del título habilitante. De ser positiva la resolución mandará a pagar los aranceles correspondiente al costo de Título habilitante al Ente Regulador y con el recibo procederá a autorizar la suscripción del contrato correspondiente. Los gastos legales serán a cuenta del interesado, quien deberá de pagar en caja del Instituto Nicaragüense de Telecomunicaciones y Correos.
 

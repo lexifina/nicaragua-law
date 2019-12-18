@@ -1,6 +1,6 @@
 # Artículo 20
 
-Nombramiento de las Direcciones Generales y Específicas.
+Nombramiento de las Direcciones Generales y Específicas
 
 El nombramiento de las personas a cargo de las Direcciones Generales y Específicas recaerá en personas de reconocida honestidad, solvencia moral e idoneidad profesional con grado universitario, y tener preferiblemente conocimientos y experiencia en administración pública o en materia postal o afines.
 

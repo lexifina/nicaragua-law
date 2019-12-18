@@ -1,6 +1,6 @@
 # Artículo 7
 
-Organización.
+Organización
 
 La Empresa Correos de Nicaragua tendrá la organización básica siguiente:
 
@@ -36,7 +36,7 @@ III. Unidades de Apoyo:
 
 1. Oficina de Relaciones Públicas;
 
-2. Oficina de Acceso a la Información Pública;
+2. Oficina de Acceso a la Información Pública
 
 3. Oficina de Adquisiciones; y
 

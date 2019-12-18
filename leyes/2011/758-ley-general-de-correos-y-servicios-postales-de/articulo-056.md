@@ -1,6 +1,6 @@
 # Artículo 56
 
-Inviolabilidad y confidencialidad.
+Inviolabilidad y confidencialidad
 
 Las personas tienen derecho a la inviolabilidad de su correspondencia y las comunicaciones de todo tipo, en consecuencia, la correspondencia personal es inviolable y secreta por lo que el Estado y sus autoridades están obligados a garantizar el cumplimiento de los postulados referidos en la Constitución Política de la República de Nicaragua y la presente Ley. En ningún caso la correspondencia podrá ser desviada dolosamente o de forma arbitraria e ilegal, ni destruida, violentada, retenida u ocultada o revisada para indagar sobre su objeto o contenido.
 

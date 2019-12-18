@@ -1,12 +1,12 @@
 # Artículo 18
 
-Funciones de la Empresa Correos de Nicaragua.
+Funciones de la Empresa Correos de Nicaragua
 
 Dentro del ámbito de competencia de la Empresa Correos de Nicaragua, sin perjuicio de otras funciones que al respecto establezca la presente Ley y su reglamento, esta tendrá las siguientes:
 
 1. De conformidad a lo dispuesto en el artículo 105 de la Constitución Política de la República de Nicaragua, la Empresa Correos de Nicaragua como empresa del Estado, está obligada a la prestación del servicio postal universal como un servicio público básico y derecho inalienable de la población en cuanto al acceso a estos;
 
-2. Organizar, formular, aprobar, administrar 'la asignación y actualización del Código Postal en el territorio nacional, que deberá ser divulgado y puesto en conocimiento a la población. El Código Postal deberá de ser elaborado de conformidad a las delimitaciones geográficas y territoriales establecidas por la Asamblea Nacional en lo que corresponde a los límites departamentales y municipales y por los Gobiernos Locales en lo que hace a los barrios y comarcas. Las delimitaciones territoriales se deberán establecer en coordinación con el Instituto Nicaragüense de Estudios Territoriales;
+2. Organizar, formular, aprobar, administrar la asignación y actualización del Código Postal en el territorio nacional, que deberá ser divulgado y puesto en conocimiento a la población. El Código Postal deberá de ser elaborado de conformidad a las delimitaciones geográficas y territoriales establecidas por la Asamblea Nacional en lo que corresponde a los límites departamentales y municipales y por los Gobiernos Locales en lo que hace a los barrios y comarcas. Las delimitaciones territoriales se deberán establecer en coordinación con el Instituto Nicaragüense de Estudios Territoriales;
 
 3. Brindar a la población nicaragüense los Servicios Postales Universales y otros que se prestan en diferentes modalidades;
 

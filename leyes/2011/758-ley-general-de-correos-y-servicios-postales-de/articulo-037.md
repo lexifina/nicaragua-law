@@ -1,6 +1,6 @@
 # Artículo 37
 
-Ascensos y promociones.
+Ascensos y promociones
 
 Los ascensos y promociones en la Empresa Correos de Nicaragua serán otorgados por la Gerencia General, previo informe de la Dirección de Recursos Humanos salvo que se trate de cargos cuyo nombramiento corresponde al Consejo Directivo. Los ascensos se harán respecto a la categoría inmediata inferior.
 

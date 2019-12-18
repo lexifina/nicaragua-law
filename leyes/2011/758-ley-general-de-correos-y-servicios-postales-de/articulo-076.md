@@ -1,6 +1,6 @@
 # Artículo 76
 
-Otras medidas.
+Otras medidas
 
 Las personas que presten los servicios postales sin el debido título habilitante, estarán obligadas al pago de una cantidad de dinero igual al monto de los derechos y tasas correspondientes por todo el tiempo que actuó sin el correspondiente título habilitante, sin que ello implique derecho alguno a la obtención de éste.
 

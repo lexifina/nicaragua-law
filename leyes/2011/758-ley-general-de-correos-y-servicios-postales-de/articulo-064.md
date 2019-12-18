@@ -1,6 +1,6 @@
 # Artículo 64
 
-Títulos habilitantes.
+Títulos habilitantes
 
 Título habilitante es el documento público emitido por el Ente Regulador a la persona natural o jurídica en virtud del contrato que le autoriza a la prestación del servicio postal asumiendo los derechos y obligaciones establecidos en la legislación vigente.
 
@@ -10,4 +10,4 @@ Las Empresas prestadoras de Servicios Postales, nacionales o extranjeras, deber�
 
 Las autorizaciones mediante título habilitante se referirán a servicios postales disponibles al público que el operador postal ofrezca, pudiendo ampliarse únicamente con la autorización del Ente Regulador, el que deberá tener un Registro Público de las empresas prestadoras de los servicios que hayan sido autorizadas y los tipos de servicios a prestar.
 
-El Ente Regulador establecerá las coordinaciones técnicas con la Corte Suprema de Justicia para la organización y funcionamiento del Registro de Títulos Habilitante que estará a cargo de una Dirección de Registro de Títulos Habilitantes, cuyo Director o Directora será nombrado por la Presidencia Ejecutiva del Instituto Nicaragüense de Telecomunicaciones y Correos.
+El Ente Regulador establecerá las coordinaciones técnicas con la Corte Suprema de Justicia para la organización y funcionamiento del Registro de Títulos Habilitante que estará a cargo de una Dirección de Registro de Títulos Habilitantes, cuyo Director o Directora será nombrado por el Director General del Instituto Nicaragüense de Telecomunicaciones y Correos.

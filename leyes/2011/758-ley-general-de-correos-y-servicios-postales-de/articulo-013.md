@@ -1,6 +1,6 @@
 # Artículo 13
 
-Funciones del Consejo Directivo.
+Funciones del Consejo Directivo
 
 Son funciones del Consejo Directivo de la Empresa Correos de Nicaragua las siguientes:
 

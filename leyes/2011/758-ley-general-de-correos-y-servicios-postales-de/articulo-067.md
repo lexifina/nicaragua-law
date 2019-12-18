@@ -1,6 +1,6 @@
 # Artículo 67
 
-Operador postal.
+Operador postal
 
 Por ministerio de la presente Ley se define a la Empresa Correos de Nicaragua como el Operador Postal Designado del Estado de Nicaragua, quien es el responsable del desarrollo y prestación del Servicio Postal Universal sin perjuicio de que los operadores postales privados puedan brindar este servicio, previo título habilitante que les otorgue una concesión, sea igual o de menor costo de conformidad a la presente Ley y sus normativas técnicas emitidas por el Ente Regulador.
 

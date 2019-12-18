@@ -1,6 +1,6 @@
 # Artículo 94
 
-Comercialización de Especies Postales.
+Comercialización de Especies Postales
 
 La Empresa Correos de Nicaragua comercializará las especies postales con entidades nacionales o extranjeras, para lo cual podrá firmar contratos, convenios bilaterales o multilaterales o los instrumentos legales necesarios para tal efecto, siempre y cuando estos sean en beneficio de la filatelia nacional y los intereses del Operador Postal nacional designado.
 

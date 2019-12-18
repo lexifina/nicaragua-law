@@ -1,6 +1,6 @@
 # Artículo 60
 
-Reclamos.
+Reclamos
 
 Los usuarios de los servicios postales podrán reclamar al operador postal, sea público o privado, con que hayan contratado en un plazo de cuarenta y cinco días, el que será común al operador postal desde que se produjo la causa que motiva el reclamo, salvo para los hechos continuados, en cuyo caso comienza a correr a partir del último hecho. Los reclamos tendrán un trámite especial y expedito, sea que estos se realicen por medios escritos o electrónicos. No incluye la tramitación ante el operador postal designado en los casos de uso de la red postal publica por el operador postal privado, todo previo pago de la tarifa adicional en concepto de retorno mientras no hayan sido entregados estos al destinatario.
 

@@ -1,6 +1,6 @@
 # Artículo 72
 
-Plazos para aplicar sanciones a los operadores postales.
+Plazos para aplicar sanciones a los operadores postales
 
 Para la aplicación de las sanciones establecidas en la presente Ley, el Ente Regulador tendrá los siguientes plazos máximos:
 

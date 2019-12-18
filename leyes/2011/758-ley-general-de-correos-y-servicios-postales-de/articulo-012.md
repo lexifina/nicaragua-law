@@ -1,6 +1,6 @@
 # Artículo 12
 
-Calidades y requisitos.
+Calidades y requisitos
 
 Las personas integrantes del Consejo Directivo de la Empresa Correos de Nicaragua deberán cumplir con las calidades y requisitos siguientes:
 

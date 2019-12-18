@@ -1,6 +1,6 @@
 # Artículo 33
 
-Categorías del Funcionariado y personal de carrera.
+Categorías del Funcionariado y personal de carrera
 
 Por su naturaleza los cargos dentro de la Carrera Postal se clasifican en: cargos comunes y cargos propios.
 

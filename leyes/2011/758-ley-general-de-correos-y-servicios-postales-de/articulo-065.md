@@ -1,6 +1,6 @@
 # Artículo 65
 
-Obligaciones de los Operadores.
+Obligaciones de los Operadores
 
 Los operadores de los servicios postales están obligados a lo siguiente:
 
@@ -16,7 +16,7 @@ Los operadores de los servicios postales están obligados a lo siguiente:
 
 6. Pagar los cánones establecidos en la presente Ley y su Reglamento;
 
-7. Permitir a los funcionarios y funcionarias que delegue el Ente Regulador, el libre acceso a sus instalaciones, dependencias y equipos, con el objeto de fiscalizar el cumplimiento de las normativas técnicas y administrativas establecidas por la autoridad;
+7. Permitir a los funcionarios y funcionarías que delegue el Ente Regulador, el libre acceso a sus instalaciones, dependencias y equipos, con el objeto de fiscalizar el cumplimiento de las normativas técnicas y administrativas establecidas por la autoridad;
 
 8. Presentar al Ente Regulador los informes y la documentación requerida en las condiciones y periodicidad que este le solicite;
 

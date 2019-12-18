@@ -1,6 +1,6 @@
 # Artículo 107
 
-Pago de derechos.
+Pago de derechos
 
 Las personas a quienes se les otorguen títulos habilitantes para la prestación de los servicios postales, están obligadas a pagar los derechos siguientes:
 

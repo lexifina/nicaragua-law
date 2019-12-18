@@ -1,6 +1,6 @@
 # Artículo 17
 
-Funciones de la Gerencia General.
+Funciones de la Gerencia General
 
 Son funciones de la persona a cargo de la Gerencia General las siguientes:
 

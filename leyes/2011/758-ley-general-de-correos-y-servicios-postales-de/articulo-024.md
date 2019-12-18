@@ -1,6 +1,6 @@
 # Artículo 24
 
-Patrimonio.
+Patrimonio
 
 El patrimonio de la Empresa Correos de Nicaragua se integra de la forma siguiente:
 

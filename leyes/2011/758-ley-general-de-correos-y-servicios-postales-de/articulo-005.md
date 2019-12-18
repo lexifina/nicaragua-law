@@ -1,6 +1,6 @@
 # Artículo 5
 
-Principios.
+Principios
 
 Para los fines y efectos de la presente ley se adoptan los principios siguientes:
 

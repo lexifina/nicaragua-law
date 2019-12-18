@@ -1,6 +1,6 @@
 # Artículo 40
 
-Implementación de la Carrera Postal.
+Implementación de la Carrera Postal
 
 El Reglamento de la presente Ley deberá establecer los distintos procesos para selección del personal para el ingreso, terminación de la carrera postal por causa justa, ascensos o promociones, nombramientos, así como los órganos o instancias necesarios para su aplicación.
 

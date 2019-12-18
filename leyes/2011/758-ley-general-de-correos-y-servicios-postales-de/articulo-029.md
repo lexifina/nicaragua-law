@@ -1,6 +1,6 @@
 # Artículo 29
 
-Carrera Postal.
+Carrera Postal
 
 La Carrera Postal es un sistema que se integra por la incorporación de los funcionarios y empleados que por nombramiento inicien una relación de prestación de servicios laborales para la Empresa Correos de Nicaragua, en base a los principios de mérito y capacidad que permita el desarrollo de servidores público, hombres y mujeres, y obtener promociones y ascensos en los diferentes cargos de la empresa.
 

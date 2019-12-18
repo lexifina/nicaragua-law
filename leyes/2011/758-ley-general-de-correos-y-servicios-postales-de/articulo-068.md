@@ -1,6 +1,6 @@
 # Artículo 68
 
-Servicios a prestar.
+Servicios a prestar
 
 Correos de Nicaragua podrá brindar los servicios siguientes:
 
@@ -8,7 +8,7 @@ Correos de Nicaragua podrá brindar los servicios siguientes:
 
 2. La correspondencia franqueada sea manual o automática, que lleva impresión de máquina franqueadora o la adhesión de estampillas o sellos postales que representa el pago obligatorio de tarifa para su libre circulación por la red pública postal;
 
-3. El uso de la expresión "Correos" así como cualquier otro sinónimo de la anterior o que pueda inducir a confusión entre el público en su identificación a la Empresa Correos de Nicaragua;
+3. El uso de la expresión “Correos” así como cualquier otro sinónimo de la anterior o que pueda inducir a confusión entre el público en su identificación a la Empresa Correos de Nicaragua;
 
 4. La instalación de buzones en sitios públicos para el depósito de la correspondencia;
 

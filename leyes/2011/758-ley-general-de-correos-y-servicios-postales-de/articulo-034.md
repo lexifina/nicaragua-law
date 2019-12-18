@@ -1,6 +1,6 @@
 # Artículo 34
 
-Contenido funcional de cargos.
+Contenido funcional de cargos
 
 Por su contenido funcional los cargos se clasifican en:
 

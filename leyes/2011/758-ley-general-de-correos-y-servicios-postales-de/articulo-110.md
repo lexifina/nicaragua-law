@@ -1,6 +1,6 @@
 # Artículo 110
 
-Presupuesto.
+Presupuesto
 
 El actual presupuesto de ingresos y egresos de la Sociedad Anónima Correos de Nicaragua, elaborado y aprobado para el presente período será aplicable a la Empresa Correos de Nicaragua hasta que se elabore el nuevo presupuesto que regulará sus operaciones.
 

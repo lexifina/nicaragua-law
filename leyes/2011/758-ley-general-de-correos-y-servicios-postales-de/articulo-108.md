@@ -1,6 +1,6 @@
 # Artículo 108
 
-Extinción de los títulos habilitantes.
+Extinción de los títulos habilitantes
 
 Los títulos habilitantes emitidos a favor de los operadores del Servicio Postal terminan en las circunstancias siguientes:
 

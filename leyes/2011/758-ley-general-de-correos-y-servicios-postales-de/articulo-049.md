@@ -1,10 +1,10 @@
 # Artículo 49
 
-Clasificación de los servicios postales.
+Clasificación de los servicios postales
 
 Los servicios postales se clasifican de la forma siguiente:
 
-1. Servicios Postales Básicos de carácter obligatorio, los cuales comprenden: Envío de correspondencia y encomiendas Postales con destino local, nacional o internacional en las categorías, contenidos, peso, dimensiones y destinos establecidos en el Convenio Postal Universal de la Unión Postal Universal, los Acuerdos Bilaterales, Resoluciones de los Órganos de la UPU y disposiciones de la legislación nacional en materia postal;
+1. Servicios Postales Básicos de carácter obligatorio, los cuales comprenden: Envío de correspondencia y encomiendas Postales con destino local, nacional o internacional en las categorías, contenidos, peso, dimensiones y destinos establecidos en el. Convenio Postal Universal de la Unión Postal Universal, los Acuerdos Bilaterales, Resoluciones de los Órganos de la UPU y disposiciones de la legislación nacional en materia postal;
 
 Las Actas, Convenios, Protocolos y Resoluciones en materia postal, se aplican principalmente a los Servicios de Cartas, Tarjetas Postales, Impresos, Pequeños Paquetes, Cecogramas, Encomienda Ordinarias y las otras Categorías de Encomiendas Postales que sean integradas a los Servicios Postales.
 

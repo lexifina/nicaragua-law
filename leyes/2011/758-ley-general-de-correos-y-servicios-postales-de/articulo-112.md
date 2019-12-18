@@ -1,6 +1,6 @@
 # Artículo 112
 
-Normalización y adecuación de los operadores postales.
+Normalización y adecuación de los operadores postales
 
 Las empresas privadas de transporte y de mensajería que estén prestando servicios postales y conexos, dispondrán de un plazo de sesenta días para legalizar y normalizar su situación a la presente Ley y su reglamento, plazo que se contará a partir de la fecha de entrada en vigencia de la presente Ley, so pena de las sanciones administrativas, civiles y penales que dieren lugar.
 

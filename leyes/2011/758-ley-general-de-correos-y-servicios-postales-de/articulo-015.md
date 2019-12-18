@@ -1,6 +1,6 @@
 # Artículo 15
 
-Nombramiento de la persona a cargo de la Gerencia General.
+Nombramiento de la persona a cargo de la Gerencia General
 
 Es facultad del Presidente de la República nombrar a la persona a cargo de la Gerencia General de la Empresa Correos de Nicaragua, quien desempeñará el cargo por un periodo de cinco años contados a partir de la fecha de la publicación de su nombramiento en La Gaceta, Diario Oficial. Este podrá ser removido de su cargo por decisión de la Presidencia de la República en cualquier tiempo y momento.
 

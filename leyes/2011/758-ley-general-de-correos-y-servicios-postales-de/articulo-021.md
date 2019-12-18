@@ -1,6 +1,6 @@
 # Artículo 21
 
-Funciones de los Directores de las Direcciones Específicas.
+Funciones de los Directores de las Direcciones Específicas
 
 Son funciones de las personas a cargo de las Direcciones Específicas, las siguientes:
 

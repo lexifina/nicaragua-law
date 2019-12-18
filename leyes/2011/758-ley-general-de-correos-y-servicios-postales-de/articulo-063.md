@@ -1,6 +1,6 @@
 # Artículo 63
 
-Obligaciones y prohibiciones de los usuarios.
+Obligaciones y prohibiciones de los usuarios
 
 Los usuarios de los servicios postales estarán obligados a cumplir y respetar las normas de admisión y la entrega de los envíos postales, a pagar el precio por los servicios requeridos; a no utilizar estos para perpetrar delitos, poner en riesgo la vida o la salud de las personas humanos, perjudicar el medio ambiente y, en general, para cualquier fin ilícito, so pena de responsabilidad penal.
 

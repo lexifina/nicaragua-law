@@ -1,6 +1,6 @@
 # Artículo 109
 
-Sucesión sin solución de continuidad.
+Sucesión sin solución de continuidad
 
 Por ministerio de la presente Ley, la Empresa Correos de Nicaragua, es sucesora sin solución de continuidad de todos los bienes muebles e inmuebles, derechos y acciones de la Sociedad Anónima Correos de Nicaragua.
 
