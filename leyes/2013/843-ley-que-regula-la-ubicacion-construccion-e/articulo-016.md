@@ -6,7 +6,7 @@ Para garantizar que la ubicación e instalación de estructuras de soporte para 
 
 1) El Reglamento Nacional de la Construcción vigente emitido por el Ministerio de Transporte e Infraestructura, de acuerdo al tipo de estructura que se pretende instalar;
 
-2) Norma TIA/EIA 222 – Normas Estructurales para Torres y Estructuras de Acero para Antenas, para el diseño de la estructura en lo relacionado al Reglamento Nacional de la Construcción;
+2) Norma TIA/EIA 222 - Normas Estructurales para Torres y Estructuras de Acero para Antenas, para el diseño de la estructura en lo relacionado al Reglamento Nacional de la Construcción;
 
 3) En dependencia de la altura de la estructura, debe sujetarse a los siguientes parámetros:
 
@@ -24,4 +24,4 @@ c) Fuera de las áreas urbanas, las estructuras de soporte para equipos de telec
 
 7) Las demás disposiciones que se establezcan en el Reglamento de la presente Ley.
 
-Disposiciones de Carácter Ambiental
+DISPOSICIONES DE CARÁCTER AMBIENTAL

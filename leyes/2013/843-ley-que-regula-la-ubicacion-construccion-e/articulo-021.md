@@ -12,8 +12,6 @@ c) En caso de que la persona natural o jurídica insistiera en continuar con la 
 
 Las autoridades de la policía prestarán el auxilio policial al Ente Regulador, previa solicitud por escrito, la que consistirá en brindar protección a los funcionarios encargados y el personal designado para la remoción de la estructura.
 
-El cumplimiento de las sanciones establecidas en la presente Ley, se acreditará en el expediente respectivo con el recibo oficial de caja del Instituto Nicaragüense de Telecomunicaciones y Correos que el sancionado enterará en Ventanilla Única.
+El cumplimiento de las sanciones establecidas en la presente Ley, se acreditará en el expediente respectivo con el recibo oficial de, caja del Instituto Nicaragüense de Telecomunicaciones y Correos que el sancionado enterará en Ventanilla Única.
 
 Las infracciones y sanciones establecidas en la presente Ley, son sin perjuicio de las reguladas en otras leyes.
-
-Disposiciones Transitorias

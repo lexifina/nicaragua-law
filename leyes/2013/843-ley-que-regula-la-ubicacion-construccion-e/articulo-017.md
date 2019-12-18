@@ -6,7 +6,7 @@ Las personas naturales o jurídicas sujetas al ámbito de aplicación de esta Le
 
 a) En la fase de construcción del proyecto, los desechos sólidos deben disponerse en el vertedero municipal, previa autorización de la alcaldía respectiva. Los desechos metálicos serán preferiblemente reutilizados, reciclados, vendidos o donados. En caso contrario, deberán ser almacenados para su disposición final en los sitios autorizados por la Alcaldía Municipal correspondiente, a costa del propietario o propietaria de la estructura;
 
-b) Las estructuras de soporte para equipos de telecomunicaciones deben ser instaladas en espacios cerrados por cercas perimetrales que restrinjan el acceso a personal ajeno al operador correspondiente. Las cercas perimetrales deben ser construidas de mampostería reforzada, mampostería confinada, concreto reforzado o elementos de concreto prefabricado;
+b).Las estructuras de soporte para equipos de telecomunicaciones deben ser instaladas en espacios cerrados por cercas perimetrales que restrinjan el acceso a personal ajeno al operador correspondiente. Las cercas perimetrales deben ser construidas de mampostería reforzada, mampostería confinada, concreto reforzado o elementos de concreto prefabricado;
 
 c) La planta alterna generadora de energía, se deberá instalar en el interior de una caseta construida con paredes absorbentes de ruido, que reduzcan la intensidad de este tipo de contaminantes atmosféricos. Cuando se instalen motores a la intemperie deberán estar provistos de una cubierta aisladora de sonido. En ambos casos la planta generadora y el motor deberán montarse sobre una base sólida para absorber vibraciones;
 
@@ -22,4 +22,4 @@ h) Otras disposiciones establecidas en el Reglamento de la presente Ley.
 
 Todas estas disposiciones, sin perjuicio de lo establecido en otras leyes de la materia.
 
-De los Recursos Administrativos
+DE LOS RECURSOS ADMINISTRATIVOS

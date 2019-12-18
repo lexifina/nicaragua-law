@@ -6,4 +6,4 @@ Sin menoscabo de los derechos que poseen, por acuerdos suscritos para funcionar 
 
 A su vez, se les reconoce el derecho a instalar y ubicar estructuras de soporte de equipos de telecomunicaciones que hacen uso del espectro radioeléctrico, siempre y cuando cumplan, de previo, con los requisitos establecidos en esta Ley, su Reglamento y normativas. Se reconoce el derecho de la población a su seguridad y bienestar relacionado a la instalación de estas estructuras de soporte que hacen uso del espectro radioeléctrico.
 
-De la Creación y Funciones de la Ventanilla Única
+DE LA CREACIÓN Y FUNCIONES DE LA VENTANILLA ÚNICA

@@ -14,8 +14,8 @@ Conforme sus respectivas competencias, son autoridades competentes para emitir p
 
 5) Municipalidades; y
 
-6) Consejos Regionales de la Costa Atlántica.
+6) Consejos Regionales de la Costa Caribe.
 
 El Ente Regulador coordinará con el Ejército de Nicaragua cuando por razones de seguridad y defensa nacional así se exija.
 
-Definiciones y Derecho de Operar Conforme la Presente Ley
+DEFINICIONES Y DERECHO DE OPERAR CONFORME LA PRESENTE LEY

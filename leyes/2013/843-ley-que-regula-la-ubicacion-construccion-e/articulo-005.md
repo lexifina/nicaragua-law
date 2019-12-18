@@ -26,7 +26,7 @@ j) Permiso Institucional: Documento que emite cada autoridad competente, en el m
 
 k) Plan de Manejo de Áreas Protegidas: Instrumento científico técnico requerido para la administración y gestión de un Área Protegida del Sistema Nacional de Áreas Protegidas y su zona de amortiguamiento;
 
-l) Propietario: Persona natural o jurídica que posee, en cualquier título, una porción de tierra, vivienda o edificio dentro de la cual se instalará o se tiene instalada una estructura de soporte de equipos de telecomunicaciones que hacen uso del espectro radioeléctrico;
+l)Propietario: Persona natural o jurídica que posee, en cualquier título, una porción de tierra, vivienda o edificio dentro de la cual se instalará o se tiene instalada una estructura de soporte de equipos de telecomunicaciones que hacen uso del espectro radioeléctrico;
 
 m) Título habilitante: Son las concesiones, licencias, permisos, autorizaciones o constancias que emite el Ente Regulador para operar los servicios de telecomunicaciones;
 

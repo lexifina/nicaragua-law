@@ -8,5 +8,6 @@
 - CAPÍTULO VIII (antes del artículo 19)
 - CAPÍTULO IX (antes del artículo 21)
 - CAPÍTULO X (antes del artículo 22)
+- DISPOSICIONES TRANSITORIAS (antes del artículo 22)
 - CAPÍTULO XI (antes del artículo 25)
 - CAPÍTULO XII (antes del artículo 26)
