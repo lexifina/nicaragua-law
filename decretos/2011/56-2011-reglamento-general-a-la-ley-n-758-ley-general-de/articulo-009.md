@@ -1,6 +1,8 @@
 # Artículo 9
 
-Requisitos Generales de Ingreso. Para poder optar a una vacante de la carrera postal, se deben cumplir los siguientes requisitos:
+Requisitos Generales de Ingreso
+
+Para poder optar a una vacante de la carrera postal, se deben cumplir los siguientes requisitos:
 
 a) Ser mayor de dieciséis años al momento de la contratación.
 

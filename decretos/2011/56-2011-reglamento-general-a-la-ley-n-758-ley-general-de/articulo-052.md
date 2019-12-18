@@ -1,10 +1,12 @@
 # Artículo 52
 
-Información a presentar por los Operadores. El Ente Regulador requerirá a los operadores postales mínimamente la siguiente información financiera y técnica:
+Información a presentar por los Operadores
+
+El Ente Regulador requerirá mínimamente a los operadores postales concesionados, la siguiente información financiera y técnica:
 
 1. Estados financieros del último período fiscal auditado por un Contador Público Autorizado, que incluya el balance general, estado de pérdidas y ganancias, el balance de comprobación y en los casos de prestar servicios regulados y no regulados una contabilidad analítica por servicios;
 
-2. Declaración del Impuesto sobre la Renta anual presentada y recibida ante la Dirección General de Ingresos del último periodo fiscal;
+2. Declaración del Impuesto sobre la Renta anual presentada y recibida ante la Dirección General de Ingresos del último período fiscal;
 
 3. Recibo Oficial del pago del Impuesto sobre la Renta emitido por la Dirección General de Ingresos;
 

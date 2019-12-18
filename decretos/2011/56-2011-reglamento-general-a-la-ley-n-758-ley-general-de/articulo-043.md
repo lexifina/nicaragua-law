@@ -1,6 +1,8 @@
 # Artículo 43
 
-Requisitos del escrito de interposición. En los casos que la parte interesada solicite la investigación administrativa del Ente Regulador deberá presentar un escrito que contenga al menos lo siguiente:
+Requisitos del escrito de interposición
+
+En los casos que la parte interesada solicite la investigación administrativa del Ente Regulador deberá presentar un escrito que contenga al menos lo siguiente:
 
 1) Nombre, generales de ley y/o razón social;
 

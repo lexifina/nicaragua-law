@@ -1,6 +1,8 @@
 # Artículo 35
 
-Del auxilio y protección al servicio postal. Sin perjuicio de lo establecido en los artículos 19 y 114 de la Ley, las diferentes instituciones obligadas a prestar auxilio y protección al servicio postal, deberán:
+Del auxilio y protección al servicio postal
+
+Sin perjuicio de lo establecido en los Artículos 19 y 114 de la Ley, las diferentes instituciones obligadas a prestar auxilio y protección al servicio postal, deberán:
 
 1. Garantizar la libre circulación de los vehículos que transporten carga postal a nivel nacional;
 

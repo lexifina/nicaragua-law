@@ -1,3 +1,5 @@
 # Artículo 68
 
-Prevención de Ilícitos. Cuando los empleados o funcionarios de los Operadores Postales, de manera fundada sospeche o presuma la comisión de un delito utilizando los servicios de la empresa o desde ella, deberá generar un reporte de la transacción sospechosa (RTS) o inusual el que enviará a la Comisión de Análisis Financiero (CAF), órgano creado por la Ley Número 735 "Ley de Prevención, Investigación y Persecución del Crimen Organizado y de la Administración de los Bienes Incautados, Decomisados y Abandonados", en los formatos que esta institución suministrará oportunamente al Operador Postal.
+Prevención de Ilícitos
+
+Cuando los empleados o funcionarios de los Operadores Postales, de manera fundada sospeche o presuma la comisión de un delito utilizando los servicios de la empresa o desde ella, deberá generar un reporte de la transacción sospechosa (RTS) o inusual el que enviará a la Comisión de Análisis Financiero (CAF), órgano creado por la Ley N°. 735 “Ley de Prevención, Investigación y Persecución del Crimen Organizado y de la Administración de los Bienes Incautados, Decomisados y Abandonados”, en los formatos que esta institución suministrará oportunamente al Operador Postal.
