@@ -1,6 +1,6 @@
 # Artículo 26
 
-Causales de terminación, cancelación o revocación del Permiso.
+Causales de terminación, cancelación o revocación del Permiso
 
 1. Los Permisos terminarán por las causales siguientes:
 

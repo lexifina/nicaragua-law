@@ -1,10 +1,10 @@
 # Artículo 10
 
-Requisitos.
+Requisitos
 
 El interesado en obtener el Permiso, además de los requisitos establecidos en la Ley, debe acompañar su solicitud con la siguiente documentación:
 
-1. Escritura de dominio, de derechos reales o de contrato de arrendamiento sobre el sitio, a favor del Operador de Telecomunicaciones solicitante. En el caso de que no se hubiere perfeccionado la adquisición del inmueble, bastará con la presentación de antecedentes registrales o, en su defecto, copia del título o documento de dominio del propietario actual y la carta de ofrecimiento del Operador para adquirir el inmueble.
+1. Escritura de dominio, de derechos reales o de contrato de arrendamiento sobre el sitio, a favor del Operador de Telecomunicaciones solicitante. En el caso de que no se hubiere perfeccionado la adquisición del inmueble, bastará con la presentación de antecedentes regístrales o, en su defecto, copia del título o documento de dominio del propietario actual y la carta de ofrecimiento del Operador para adquirir el inmueble.
 
 2. Detalles de las suspensiones de los cables, guía de ondas, conductores de energía y ubicación de las escaleras y plataformas.
 

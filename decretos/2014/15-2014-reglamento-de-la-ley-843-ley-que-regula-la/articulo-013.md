@@ -1,6 +1,6 @@
 # Artículo 13
 
-Vigencia del Permiso.
+Vigencia del Permiso
 
 Una vez completamente construida la estructura de soporte para equipos de telecomunicaciones, el aprovechamiento del sitio se extenderá al plazo restante del título habilitante de los concesionarios y licenciatarios, siempre que cumpla con las condiciones establecidas en la presente Ley y su Reglamento. En caso que el Operador de Telecomunicaciones obtuviere una renovación a su licencia o concesión de parte del Ente Regulador, dicha renovación será extensiva a los Permisos de instalación concedidos de forma automática y sin costo adicional.
 

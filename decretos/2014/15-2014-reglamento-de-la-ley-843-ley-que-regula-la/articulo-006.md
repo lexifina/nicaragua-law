@@ -1,16 +1,16 @@
 # Artículo 6
 
-Procedimiento para solicitud de Permiso.
+Procedimiento para solicitud de Permiso
 
 El procedimiento para solicitudes de Permisos será el siguiente:
 
-1) El solicitante deberá presentar el formulario de solicitud indicando una cuenta de correo electrónico para notificaciones, y los requisitos establecidos en el Art. 14 de la Ley, de forma impresa y digitalizada, es decir, escaneados y almacenados en un CD o DVD con una copia. Así mismo, debe adjuntar a esta solicitud copia del Recibo Oficial de Caja de TELCOR – Ente Regulador demostrando el pago del arancel para el Permiso.
+1) El solicitante deberá presentar el formulario de solicitud indicando una cuenta de correo electrónico para notificaciones, y los requisitos establecidos en el Artículo 14 de la Ley, de forma impresa y digitalizada, es decir, escaneados y almacenados en un CD o DVD con una copia. Así mismo, debe adjuntar a esta solicitud copia del Recibo Oficial de Caja de TELCOR - Ente Regulador demostrando el pago del arancel para el Permiso.
 
 2) Adicionalmente como información complementaria para facilitar el análisis y revisión de la solicitud, el solicitante podrá presentar, no siendo obligatorio para la parte solicitante, un DVD conteniendo las imágenes y videos con lo siguiente:
 
 a) Lugar exacto del sitio. Referenciado en latitud y longitud y referencias físicas tradicionalmente conocidas.
 
-b) Tomas panorámicas (fotografía y video) de 360 ° del sitio a construir, este requisito no aplica para la radio difusión AM, FM, SW y los radioaficionados.
+b) Tomas panorámicas (fotografía y video) de 360° del sitio a construir, este requisito no aplica para la radio difusión AM, FM, SW y los radioaficionados.
 
 c) Imágenes aledañas al sitio a construir que indiquen la viabilidad del proyecto, es decir, otras torres o estructuras verticales.
 
@@ -28,7 +28,7 @@ c) En el caso de subsanaciones requeridas por la Ventanilla Única, el solicitan
 
 5) Una vez elaborado el Permiso de instalación o en su defecto la resolución que corresponda se procederá a notificar al solicitante el resultado de su solicitud, indicando la fecha de retiro del documento. Esta notificación podrá ser por escrito y/o vía correo electrónico a la cuenta señalada en el formulario de solicitud.
 
-6) En caso que la solicitud no hubiere sido aprobada, el solicitante podrá hacer uso de los recursos administrativos establecidos en el artículo dieciocho de la ley.
+6) En caso que la solicitud no hubiere sido aprobada, el solicitante podrá hacer uso de los recursos administrativos establecidos en el artículo dieciocho de la Ley.
 
 La Ventanilla Única deberá resolver y emitir el permiso correspondiente en un plazo no mayor de 45 días calendario los que serán contados a partir de la presentación de los documentos. Pasado este término sin respuesta por parte de la Ventanilla Única, se aplicara el silencio administrativo positivo y se entenderá como aprobada la solicitud presentada, lo que será suficiente documento habilitante para la instalación y operación de la infraestructura y por tanto la autoridad correspondiente deberá emitir el permiso en los siguientes ocho (08) días, después de trascurrido el término.
 

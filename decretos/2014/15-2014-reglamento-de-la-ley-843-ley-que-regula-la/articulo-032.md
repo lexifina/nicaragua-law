@@ -1,6 +1,6 @@
 # Artículo 32
 
-Radioemisoras y televisoras de mayor potencia.
+Radioemisoras y televisoras de mayor potencia
 
 Los operadores de Radiodifusión de FM que conforme normativa NON-BC-001-2000 que estén en la clasificación como estación clase A, y la clase D, las estaciones de AM clase C según la normativa NON-BC-002-2000, podrán operar dentro del perímetro urbano de la ciudad o comunidad.
 

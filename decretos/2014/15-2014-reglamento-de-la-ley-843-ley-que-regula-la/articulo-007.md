@@ -1,12 +1,12 @@
 # Artículo 7
 
-Procedimiento para el registro de torreros.
+Procedimiento para el registro de torreros
 
-En adición a las funciones establecidas en la Ley, TELCOR – Ente Regulador llevará el Registro de Torreros, estableciendo los mecanismos pertinentes, observando al menos, lo siguiente:
+En adición a las funciones establecidas en la Ley, TELCOR - Ente Regulador llevará el Registro de Torreros, estableciendo los mecanismos pertinentes, observando al menos, lo siguiente:
 
 1. Recibir y revisar el formulario y demás requisitos para la solicitud de registro de torrero.
 
-2. Ordenar la facturación del derecho por estudio de solicitud, establecido en el Acuerdo Administrativo 03-98 y sus reformas:
+2. Ordenar la facturación del derecho por estudio de solicitud, establecido en el Acuerdo Administrativo 03- 98 y sus reformas:
 
 “Reglamento para el Pago de Derechos y Tasas”.
 

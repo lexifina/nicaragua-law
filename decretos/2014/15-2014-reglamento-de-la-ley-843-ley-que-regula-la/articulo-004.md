@@ -1,6 +1,6 @@
 # Artículo 4
 
-Definiciones.
+Definiciones
 
 En adición a las definiciones establecidas en la Ley, para los efectos del presente Reglamento se entenderá por:
 
@@ -18,11 +18,11 @@ Estructuras de soporte: Obras civiles verticales o de soporte para la instalaci�
 
 Estructuras Menores: Entiéndase todas aquellas infraestructuras de telecomunicaciones que soportan equipos que hacen uso del espectro radioeléctrico para equipos de usuarios finales, así como instalaciones dentro de edificios y/o todas aquellas con una altura máxima desde suelo de 28 metros o de 15 metros desde techo, vallas o paredes y 9 metros para azoteas.
 
-Ley: Ley No. 843 “Ley que regula la ubicación, construcción e instalación de estructuras de soporte para equipos de telecomunicaciones que hacen uso del espectro radioeléctrico”.
+Ley: Ley N°. 843 “Ley que regula la ubicación, construcción e instalación de estructuras de soporte para equipos de telecomunicaciones que hacen uso del espectro radioeléctrico”.
 
-Permiso de instalación o ubicación: Es el documento que autoriza a un Operador de Telecomunicaciones para la instalación, ubicación, construcción, uso y mantenimiento de las estructuras de soporte, en adelante simplemente: “Permiso”. Este Permiso podrá ser transferido a los Torreros con la autorización previa y expresa de TELCOR – Ente Regulador. Su inobservancia constituirá una infracción a la Ley.
+Permiso de instalación o ubicación: Es el documento que autoriza a un Operador de Telecomunicaciones para la instalación, ubicación, construcción, uso y mantenimiento de las estructuras de soporte, en adelante simplemente: “Permiso”. Este Permiso podrá ser transferido a los Torreros con la autorización previa y expresa de TELCOR - Ente Regulador. Su inobservancia constituirá una infracción a la Ley.
 
-Norma TIA/EIA 222 – F: Es un estándar que explica los criterios mínimos para la especificación de carga y el diseño de torres y estructuras de soporte para antenas.
+Norma TIA/EIA 222 - F: Es un estándar que explica los criterios mínimos para la especificación de carga y el diseño de torres y estructuras de soporte para antenas.
 
 Estación: Uno o más transmisores o receptores, o una combinación de transmisores y receptores, incluyendo las instalaciones y accesorios necesarios para asegurar un servicio de radiocomunicación. Las estaciones se clasifican según el servicio en el que participen de una manera permanente o temporal.
 
@@ -30,29 +30,9 @@ Estación de radiodifusión clase “A”: Es una clasificación para las radios
 
 Estación de radiodifusión, clase “B” y “C”: Es una clasificación para las radios FM que están destinadas a prestar servicio de radiodifusión, en áreas más o menos extensas y a ciudades importantes o ciudades de una área urbana, incluyendo las áreas rurales contiguas a dichas poblaciones.
 
-Estación de radiodifusión estación clase “D” Es una clasificación para las radios FM que se encuentran en parámetros restringidos.
+Estación de radiodifusión estación clase “D”: Es una clasificación para las radios FM que se encuentran en parámetros restringidos.
 
 Cuadro de potencia Máxima aparente para las FM
-
-Clasificación
-
-Potencia aparente Máxima en KW
-
-A
-
-3
-
-B
-
-50
-
-C
-
-10
-
-D
-
--020
 
 Estación de radiodifusión sonora moduladas en amplitud que operen en la banda de 535 a 1605 kHz CLASE A: Es aquella destinada a cubrir extensas áreas de servicio primaria y secundaria y que está protegida, por lo tanto, contra interferencias objetables.
 
@@ -60,7 +40,9 @@ Estación radiodifusión sonora moduladas en amplitud que operen en la banda de 
 
 Estación radiodifusión sonora moduladas en amplitud que operen en la banda de 535 a 1605 kHz, clase C: Es aquella destinada a cubrir, dentro de su área de servicio primaria, a una ciudad o población y de las áreas suburbanas contiguas y que está protegida, por lo tanto, contra interferencias objetables.
 
-Potencia de operación para radiodifusión sonora moduladas en amplitud que operen en la banda de 535 a 1605 kHz: Para Las estaciones clase “A” que actualmente operan con más de 100 kW de día o de 50 kW de noche, mantendrán sus características de acuerdo con los convenios establecidos. La potencia de cualquier estación clase “A” que exceda de 100 kW de día o de 50 kW de noche, no debe de aumentarse. La potencia de cualquier estación clase “A” que no exceda de 100 kW de día o 50 kW de noche, puede aumentarse pero no exceder estos valores.
+Potencia de operación para radiodifusión sonora moduladas en amplitud que operen en la banda de 535 a 1605 kHz: Para las estaciones clase “A” que actualmente operan con más de 100 kW de día o de 50 kW de noche, mantendrán sus características de acuerdo con los convenios establecidos. La potencia de cualquier estación clase “A” que exceda de 100 kW de día o de 50 kW de noche, no debe de aumentarse.
+
+La potencia de cualquier estación clase “A” que no exceda de 100 kW de día o 50 kW de noche, puede aumentarse pero no exceder estos valores.
 
 Para una nueva estación clase “A” debe tener una potencia que no exceda de 100 kW de día o 50 kW de noche. La potencia mínima de la estación debe ser de 10 kW.
 
@@ -68,7 +50,7 @@ Para una estación Clase “B”. La potencia máxima de la estación debe ser 5
 
 Para una estación Clase “C”. La potencia máxima de la estación será de 1 kW.
 
-Ganancia relativa de una antena para radiodifusión sonora modulada en amplitud que operen en la banda de 535 a 1605 kHz: Ganancia (G) de una antena en una dirección dada, cuando la antena de referencia es un dipolo de media onda sin pérdidas, aislado en el espacio y cuyo plano ecuatorial contiene la dirección dada.
+Ganancia relativa de una antena para radiodifusión sonora modulada en amplitud que operen en la banda de 535 a 1605 kHz: Ganancia (G) de una antena en una dirección dada, cuando la antena de referencia es un dipolo demedia onda sin pérdidas, aislado en el espacio y cuyo plano ecuatorial contiene la dirección dada.
 
 Potencia radiada aparente: Es la potencia suministrada a la antena, multiplicada por la ganancia relativa de la antena, en una dirección dada.
 
@@ -76,7 +58,7 @@ Responsabilidad civil: También conocida como “responsabilidad extracontractua
 
 Sitio: Lugar destinado e identificado para la instalación de estructuras de soporte para los sistemas de telecomunicaciones que hacen uso del espectro radioeléctrico, objetos del Permiso.
 
-Ventanilla Única: Es una entidad que permite la recepción física y envío de información electrónica una sola vez ante una única entidad, para cumplir con todos los requerimientos para la gestión de trámites necesarios, en una sola instancia y bajo un mismo órgano, para la ubicación, construcción e instalación de estructuras de soporte para equipos de telecomunicaciones que hacen uso del espectro radioeléctrico y tiene como objetivo agilizar y simplificar los flujos de información entre los Operadores y las autoridades competentes. Es dirigida por TELCOR – Ente Regulador en su calidad de autoridad de aplicación, lo cual permite a las autoridades competentes recibir o tener acceso a la información pertinente para su propósito.
+Ventanilla Única: Es una entidad que permite la recepción física y envío de información electrónica una sola vez ante una única entidad, para cumplir con todos los requerimientos para la gestión de trámites necesarios, en una sola instancia y bajo un mismo órgano, para la ubicación, construcción e instalación de estructuras de soporte para equipos de telecomunicaciones que hacen uso del espectro radioeléctrico y tiene como objetivo agilizar y simplificar los flujos de información entre los Operadores y las autoridades competentes. Es dirigida por TELCOR - Ente Regulador en su calidad de autoridad de aplicación, lo cual permite a las autoridades competentes recibir o tener acceso a la información pertinente para su propósito.
 
 DE LA VENTANILLA ÚNICA
 

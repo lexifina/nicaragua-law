@@ -1,6 +1,6 @@
 # Artículo 15
 
-Contenido del Permiso.
+Contenido del Permiso
 
 El Permiso deberá contener la siguiente información:
 

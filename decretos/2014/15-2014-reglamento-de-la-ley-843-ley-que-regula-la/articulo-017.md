@@ -1,10 +1,10 @@
 # Artículo 17
 
-Requisitos para la selección de los sitios y las estructuras de soporte.
+Requisitos para la selección de los sitios y las estructuras de soporte
 
-En adición a la disposición del artículo 16 de la Ley, las estructuras de soporte objeto de ésta, deben cumplir al menos con las siguientes condiciones:
+En adición a la disposición del Artículo 16 de la Ley, las estructuras de soporte objeto de ésta, deben cumplir al menos con las siguientes condiciones:
 
-1. Norma TIA/EIA 222, cuando menos en la versión “F”: Normas Estructurales para Torres y Estructuras para Antenas, según corresponda.
+1. Norma TIA/EIA222, cuando menos en la versión “F”: Normas Estructurales para Torres y Estructuras para Antenas, según corresponda.
 
 2. En dependencia de la altura, en adición a las disposiciones de la Ley, la estructura de soporte debe sujetarse a los siguientes parámetros:
 
@@ -16,7 +16,7 @@ c. Fuera de las áreas urbanas, las estructuras de soporte con alturas mayores d
 
 d. Los postes o mástiles colocados en edificios, azoteas y vías públicas, requieren barreras físicas para evitar el escalamiento por parte de personas no autorizadas. Sobre edificios y azoteas no se permitirá instalar estructuras autosoportadas independientemente de su altura.
 
-3. En casos excepcionales y por motivos de interés social en razón de proyectos de telecomunicaciones en zonas rurales, urbanas y/o desatendidas, Ventanilla Única podrá autorizar la instalación de estructuras de soporte de altura mayor o soporte diferente en lugares que se demuestre que son los únicos aptos para la instalación de las mismas y en donde su utilización esté socialmente justificada y aceptada, a criterio de TELCOR – Ente Regulador. Estos lugares pueden ser centros educativos, centros o puestos de salud, clínicas, hospitales, unidades policiales o del Ejército Nacional, entre otros, a discreción de la Ventanilla Única.
+3. En casos excepcionales y por motivos de interés social en razón de proyectos de telecomunicaciones en zonas rurales, urbanas y/o desatendidas, Ventanilla Única podrá autorizar la instalación de estructuras de soporte de altura mayor o soporte diferente en lugares que se demuestre que son los únicos aptos para la instalación de las mismas y en donde su utilización esté socialmente justificada y aceptada, a criterio de TELCOR - Ente Regulador. Estos lugares pueden ser centros educativos, centros o puestos de salud, clínicas, hospitales, unidades policiales o del Ejército Nacional, entre otros, a discreción de la Ventanilla Única.
 
 4. Cumplir con las normas establecidas por el Instituto Nicaragüense de Aeronáutica Civil, referentes a las limitaciones de altura, tipo de estructura, balizamiento adecuado, superficies limitadoras de obstáculos, entre otros, siempre que dicha entidad tenga contempladas esas áreas dentro de sus planes de desarrollo de infraestructura aeroportuaria, cuya ejecución esté prevista a realizarse en un período menor de cinco años.
 
@@ -34,7 +34,7 @@ d. Los postes o mástiles colocados en edificios, azoteas y vías públicas, req
 
 11. Se deberán colocar fuera del área comprendida como Derecho de Vía de carreteras y caminos administrados por el Ministerio de Transporte e Infraestructura y, cuando se encontraren en estas áreas, deberán ser removidas a criterio de esa autoridad por cuenta y costas del propietario.
 
-12. Requisitos para estructuras de soporte y antenas para Los operadores de Radiodifusión de AM / FM / SW que están sujetas a la solicitud de permiso serán el siguiente:
+12. Requisitos para estructuras de soporte y antenas para los operadores de Radiodifusión de AM / FM / SW que están sujetas a la solicitud de permiso serán el siguiente:
 
 a) Cumplir con las normas establecidas por el Instituto Nicaragüense de Aeronáutica Civil, referentes a las limitaciones de altura, tipo de estructura, balizamiento adecuado, superficies limitadoras de obstáculos, entre otros, siempre que dicha entidad tenga contempladas esas áreas dentro de sus planes de desarrollo de infraestructura aeroportuaria, cuya ejecución esté prevista a realizarse en un período menor de cinco años.
 

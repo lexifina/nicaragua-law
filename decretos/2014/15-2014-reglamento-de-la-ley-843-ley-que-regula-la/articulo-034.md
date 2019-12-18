@@ -1,5 +1,5 @@
 # Artículo 34
 
-VIGENCIA.
+Vigencia
 
-El presente Decreto entrara en vigencia a partir de su publicación en La Gaceta, Diario Oficial.
+El presente Decreto entrará en vigencia a partir de su publicación en La Gaceta, Diario Oficial.
