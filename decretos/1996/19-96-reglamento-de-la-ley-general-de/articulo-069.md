@@ -26,9 +26,9 @@ k) Por vender, ceder, hipotecar o en manera alguna, gravar o transferir la conce
 
 l) Por no cumplir con las normas técnicas determinadas por TELCOR;
 
-m) Por negarse, sin causa justificada, a interconectar redes de titulares de concesión, licencia, permiso registro, teniendo la obligación de hacerlo;
+m) Por negarse, sin causa justificada, a interconectar redes de titulares de concesión, licencia, permiso o registro, teniendo la obligación de hacerlo;
 
-n) Por otorgar subsidios cruzados y preferencial.
+n) Por otorgar subsidios cruzados y trato preferencial!;
 
 o) No pagar a TELCOR los derechos de emisión, uso de la concesión o licencia, o uso del espectro radioeléctrico;
 

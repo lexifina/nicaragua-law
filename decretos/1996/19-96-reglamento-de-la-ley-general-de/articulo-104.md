@@ -8,6 +8,6 @@ b) La indemnización por los perjuicios o por la limitación del derecho del pro
 
 c) La compensación por el tránsito que el concesionario haga por el predio sirviente para llevar a cabo la construcción, custodia, conservación y reparación de las obras e instalaciones, cuando ésta produzca perjuicio al propietario.
 
-DE LOS SERVICIOS DE LLAMADA REVERTIDA
+INFRACCIONES
 
 PROHIBICIÓN Y SANCIONES

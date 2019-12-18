@@ -1,5 +1,3 @@
 # Artículo 48
 
-Deberán obtener de TELCOR una constancia de registro de servicios no regulados los servicios de valor agregado, como servicios de acceso a Internet, correo electrónico, correo de voz, servicios de información, tele procesamiento, acceso a bases de datos y almacenamiento y envío de facsímil los cuales se deben prestar en competencia abierta, y no requieren asignación de frecuencias.
-
-Para fines del presente Reglamento, son servicios de valor agregado los que actúan sobre el formato, contenido, código, protocolo, almacenaje o aspectos similares de la información transmitida, y que proporciona al usuario información adicional, diferente o reestructurada, o que implica interacción con información almacenada. Los servicios de valor agregado no adicionan capacidad de transmisión a las redes sobre las cuales se soportan, debiendo utilizar enlaces de prestadores de servicios autorizados o enlaces propios. Los servicios de valor agregado no incluyen la transmisión de voz digitalizada.
+Derogado.

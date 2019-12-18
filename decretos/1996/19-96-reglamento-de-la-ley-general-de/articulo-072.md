@@ -1,6 +1,6 @@
 # Artículo 72
 
-Para aplicación y efectos de los Artículos. 57, 58, 59 y 60 de la Ley, el Interventor que TELCOR designe tendrá, sin perjuicio de lo dispuesto en el contrato de concesión, las funciones siguientes:
+Para aplicación y efectos de los Artículos 57, 58, 59 y 60 de la Ley, el Interventor que TELCOR designe tendrá, sin perjuicio de lo dispuesto en el contrato de concesión, las funciones siguientes:
 
 a) Imponerse en los libros, documentos y operaciones del concesionario;
 

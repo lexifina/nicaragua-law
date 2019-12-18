@@ -1,13 +1,9 @@
 # Artículo 49
 
-Se requiere permiso otorgado por TELCOR para el establecimiento de instalaciones que requieran la asignación de frecuencias radioeléctricas, de manera separada a la concesión, licencia o constancia de registro para los siguientes casos:
+Se requiere permiso otorgado por TELCOR para el establecimiento de instalaciones que requieran la asignación de frecuencias radioeléctricas, sea a solicitud de parte o a través de procedimiento competitivo si el recurso hubiera sido calificado como escaso.
 
-a) para instalar y operar redes privadas de radiocomunicación para los servicios fijo o móvil terrestre, o ambos, por cada estación radioeléctrica.
+Toda modificación a los permisos otorgados deberá ser sometida a la aprobación de TELCOR, y en caso de ser aprobada será incorporada al permiso original.
 
-b) para instalar y operar estaciones terrenas transreceptoras para comunicaciones vía satélite, por cada estación.
-
-c) para instalar y operar enlaces de microondas terrestres, enlaces estudio-planta u otro tipo de enlaces de radiocomunicación, por cada enlace.
-
-d) para la ampliación de un servicio de telecomunicación que haya cumplido con los requerimientos de carga de las frecuencias asignadas en el contrato de concesión o licencia, excepto que esto implique una modificación substancial al contrato, tal como diferente canalización, banda de frecuencia, área de cobertura, o servicio, en cuyo caso se seguirá el procedimiento aplicable a solicitudes de concesión o licencia a la que se refiere el Título II presente Reglamento.
+Cuando sea imprescindible la asignación de espectro para la prestación de un servicio, el permiso será emitido en el mismo momento en que sea firmado el contrato de concesión o de licencia o que se entregue la constancia de registro. Los permisos se podrán emitir con diversos formatos de acuerdo al tipo de frecuencia, de estación, el uso de la misma y otras características que se definen en el Reglamento de Uso del Espectro Radioeléctrico.
 
 El establecimiento de redes de radiocomunicación que no califican para obtener una concesión, licencia o permiso, y que son de alcance restringido en su cobertura al público usuario, para fines experimentales, científicos, académicos, de investigación o tecnológicos, de emergencia o de la seguridad de la vida humana, requieren de una autorización temporal.

@@ -1,21 +1,21 @@
 # Artículo 57
 
-Para su validez, la constancia de registro o permiso deberá contener, por lo menos, las siguientes condiciones, derechos y obligaciones de los titulares, según sean aplicables al servicio de que se trate.
+Para su validez, el permiso para uso del espectro radioeléctrico deberá contener, por lo menos, las siguientes condiciones, derechos y obligaciones de los titulares, según sean aplicables:
 
-a) El servicio objeto del registro o permiso;
+a) Nombre y domicilio del solicitante y en su caso, de su representante con legitimidad de representación.
 
-b) El área de cobertura del servicio;
+b) Domicilio legal en el territorio nacional.
 
-c) Las frecuencias o bandas de frecuencias a utilizar, así como las características técnicas de los equipos, conforme a la reglamentación de la materia y normas técnicas que emita TELCOR;
+c) El o los segmentos de espectro que le sean asignados especificando mínimamente los siguientes aspectos:
 
-d) El plazo de vigencia de la constancia o el permiso;
+. Servicio de telecomunicaciones en el cual va a ser empleado el espectro solicitado.
 
-e) El plazo para iniciar instalaciones y operaciones;
+. Ubicación geográfica de los transmisores, características de los equipos y de los sistemas radiantes y áreas de cobertura previstas según corresponda.
 
-f) El régimen técnico en general;
+. Planes de desarrollo y cronograma de instalación y de uso de espectro solicitado.
 
-g) Los derechos y tasas que se deben pagar a TELCOR;
+d) Compromiso de devolución sin reclamo del espectro no utilizado en los tiempos establecidos en el permiso.
 
-h) Los derechos y obligaciones y en su caso, las sanciones que establece la Ley, los reglamentos y demás disposiciones legales;
+e) El plazo de vigencia del permiso;
 
-i) Las causas de cancelación previstas en la Ley, los reglamentos y demás disposiciones legales.
+f) El plazo para iniciar instalaciones y operaciones

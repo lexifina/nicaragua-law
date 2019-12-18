@@ -4,8 +4,8 @@ Contra la resolución mediante la cual se imponga una sanción, el interesado po
 
 La resolución o acuerdo administrativo que impone una multa deberá indicar la cantidad determinada que se impone al infractor, cuyo plazo de pago y recargos por falta del mismo se establece en el Artículo 88 de la Ley.
 
-En virtud del mérito ejecutivo de la resolución o acuerdo administrativo, como lo dispone el Artículo 92 de la Ley, TELCOR demandará con acción de pago por la vía ejecutiva corriente al sancionado de acuerdo a lo establecido en el Código de Procedimiento Civil vigente.
+En virtud del mérito ejecutivo de la resolución o acuerdo administrativo, como lo dispone el Artículo 92 de la Ley, TELCOR demandará con acción de pago por la vía ejecutiva corriente al sancionado de acuerdo a lo establecido en el Código Procesal Civil vigente.
 
-En lo no previsto en este Título, se aplicará lo dispuesto en el Código de Procedimiento Civil Vigente.
+En lo no previsto en este Título, se aplicará lo dispuesto en el Código Procesal Civil Vigente.
 
 DE LAS SERVIDUMBRES

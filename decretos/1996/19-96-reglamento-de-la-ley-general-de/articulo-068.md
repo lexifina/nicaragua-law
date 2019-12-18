@@ -6,6 +6,6 @@ a) El vencimiento del plazo establecido en los respectivos contratos de concesi�
 
 b) La renuncia del titular de la concesión, licencia, permiso o registro;
 
-e) La revocación o cancelación
+c) La revocación o cancelación.
 
-La terminación por las causales señaladas en los acápites b y e anteriores de la concesión, licencia, permiso o registro no extingue las obligaciones contraídas por el titular durante su vigencia, salvo renuncia del respectivo titular del derecho. En la terminación por la causal (a) las obligaciones pendientes de cumplimiento serán asumidas por el nuevo titular.
+La terminación por las causales señaladas en los acápites b y c anteriores de la concesión, licencia, permiso o registro no extingue las obligaciones contraídas por el titular durante su vigencia, salvo renuncia del respectivo titular del derecho. En la terminación por la causal (a) las obligaciones pendientes de cumplimiento serán asumidas por el nuevo titular.

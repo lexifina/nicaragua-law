@@ -4,7 +4,7 @@ Contra el Acuerdo Administrativo mediante el cual se cancela el contrato de conc
 
 En caso que la resolución que ordene la cancelación de una licencia, permiso o autorización, emane del Director General, cabrá el recurso de reposición ante este funcionario, quien resolverá dentro de los quince días siguientes a la fecha de interposición del recurso. Si transcurrido este plazo no hubiera respuesta se considera que el Director resolvió a favor del recurrente, negado el recurso quedará agotada la vía administrativa.
 
-En cualquier caso, el recurrente personalmente o por medio de apoderado se presentará por escrito en papel común, expresando las razones de hecho, y de derecho que fundamentan su recurso. En lo no previsto en este Artículo se aplicará lo dispuesto en el Código de Procedimiento Civil Vigente.
+En cualquier caso, el recurrente personalmente o por medio de apoderado se presentará por escrito en papel común, expresando las razones de hecho, y de derecho que fundamentan su recurso. En lo no previsto en este Artículo se aplicará lo dispuesto en la Ley N°. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo.
 
 De cualquier resolución emitida o irregularidad causada por funcionarios o empleados de TELCOR en el ejercicio de sus funciones, que afecte o lesione los derechos del solicitante o titular de concesión, licencia, autorización o permiso, podrá el afectado recurrir de apelación ante el Director General en el plazo de cinco días calendario. El Director General resolverá en el plazo de quince días calendario y con ello se agotará la vía administrativa.
 

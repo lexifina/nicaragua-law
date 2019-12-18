@@ -1,6 +1,6 @@
 # Artículo 30
 
-Para el procedimiento de licitación constará de dos etapas. La primera será la de precalificación de los interesados y la segunda de evaluación de las ofertas.
+El procedimiento de licitación constará de dos etapas. La primera será la de precalificación de los interesados y la segunda de evaluación de las ofertas.
 
 Para la precalificación TELCOR podrá utilizar criterios, tales como la capacidad económica, técnica, la experiencia en telecomunicaciones y el proyecto propuesto, así como para la evaluación se podrá utilizar uno o varios parámetros como el proyecto técnico, la inversión propuesta y la oferta económica.
 
