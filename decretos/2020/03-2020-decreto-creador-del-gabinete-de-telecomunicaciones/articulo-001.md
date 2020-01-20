@@ -1,0 +1,3 @@
+# Artículo 1
+
+Creación del Gabinete de Telecomunicaciones. Créase el Gabinete de Telecomunicaciones, bajo la rectoría sectorial de la Presidencia de la República, para fines de coordinación, gestión, seguimiento y cumplimiento de financiamientos, estudios y proyectos de telecomunicaciones y servicios postales dentro del marco de las acciones y políticas en el sector de los servicios de telecomunicaciones regulados en las leyes de la República de Nicaragua, establecidos en la Ley Nº. 1003, Ley del Digesto Jurídico Nicaragüense de la Materia Telecomunicaciones y Servicios Postales, publicada en La Gaceta, Diario Oficial No. 242 del 18 de diciembre del año 2019.
