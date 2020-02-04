@@ -5,11 +5,13 @@ Preámbulo
 NOSOTROS,
 Representantes del Pueblo de Nicaragua, reunidos en Asamblea Nacional Constituyente.
 Evocando
-La lucha de nuestros antepasados indígenas.
+La lucha de nuestros antepasados indígenas, que tiene su máxima expresión en los Caciques DIRIANGÉN Y NICARAO.
+Al Prócer de la Independencia de Centroamérica, Presbítero TOMÁS RUÍZ ROMERO.
 El espíritu de unidad centroamericana y la tradición combativa de nuestro Pueblo que, inspirado en el ejemplo del General JOSÉ DOLORES ESTRADA, ANDRÉS CASTRO Y ENMANUEL MONGALO, derrotó al dominio filibustero y la intervención norteamericana en la Guerra Nacional.
 Al Prócer de la Independencia Cultural de la Nación, Poeta Universal RUBÉN DARÍO.
 La gesta antintervencionista de BENJAMÍN ZELEDÓN.
 Al General de Hombres Libres, AUGUSTO C. SANDINO, Padre de la Revolución Popular y Antimperialista.
+El sentimiento nacionalista y libertario de las mujeres nicaragüenses, representado en BLANCA STELLA ARÁUZ PINEDA.
 La acción heroica de RIGOBERTO LÓPEZ PÉREZ, iniciador del principio del fin de la dictadura.
 El ejemplo de CARLOS FONSECA, el más alto continuador de la herencia de Sandino, fundador del Frente Sandinista de Liberación Nacional y Jefe de la Revolución.
 Al Mártir de la Libertades Públicas, Doctor PEDRO JOAQUÍN CHAMORRO CARDENAL.
@@ -20,6 +22,6 @@ Del pueblo nicaragüense; de todos los partidos y organizaciones democráticas, 
 De los que luchan y ofrendan sus vidas frente a la agresión imperialista para garantizar la felicidad de las nuevas generaciones.
 Por
 La institucionalización de las conquistas de la Revolución y la construcción de una nueva sociedad que elimine toda clase de explotación y logre la igualdad económica, política y social de los nicaragüenses y el respeto absoluto de los derechos humanos.
-POR LA PATRIA, POR LA REVOLUCIÓN, POR LA UNIDAD DE LA NACIÓN Y POR LA PAZ
+POR LA PATRIA, POR LA REVOLUCIÓN, POR LA UNIDAD DE LA NACIÓN Y POR LA PAZ.
 Promulgamos la siguiente
 CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE NICARAGUA
