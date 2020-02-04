@@ -1,0 +1,27 @@
+LEY N°. 1014, LEY DE ADICIÓN AL PREÁMBULO DE LA CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE NICARAGUA
+
+Aprobada el 28 de enero de 2020
+
+Publicada en La Gaceta, Diario Oficial N°. 22 del 04 de febrero de 2020
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+A sus habitantes, hace saber:
+
+Que,
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+Ha ordenado lo siguiente:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+HA DICTADO
+
+La siguiente:
+
+LEY N°. 1014
+
+LEY DE ADICIÓN AL PREÁMBULO DE LA CONSTITUCIÓN POLÍTICA DE LA REPÚBLICA DE NICARAGUA
