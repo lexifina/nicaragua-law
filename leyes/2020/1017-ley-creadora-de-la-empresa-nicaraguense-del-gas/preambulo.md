@@ -1,0 +1,31 @@
+LEY Nº. 1017, LEY CREADORA DE LA EMPRESA NICARAGÜENSE DEL GAS (ENIGAS)
+
+Aprobada el 11 de febrero de 2020
+
+Publicada en La Gaceta, Diario Oficial No. 30 del 14 de febrero de 2020
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+A sus habitantes, hace saber:
+
+Que,
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+Ha ordenado lo siguiente:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+HA DICTADO
+
+La siguiente:
+
+LEY Nº. 1017
+
+LEY CREADORA DE LA EMPRESA NICARAGÜENSE DEL GAS (ENIGAS)
+
+CAPÍTULO I
+
+CONSTITUCIÓN Y DOMICILIO
