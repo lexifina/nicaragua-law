@@ -1,0 +1,31 @@
+LEY N°. 1021, LEY PARA EL FORTALECIMIENTO DE LA GESTIÓN DEL INSTITUTO DE SEGURIDAD SOCIAL Y DESARROLLO HUMANO (ISSDHU)
+
+Aprobada el 12 de marzo de 2020
+
+Publicada en La Gaceta, Diario Oficial N°. 50 del 13 de marzo de 2020
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+A sus habitantes, hace saber:
+
+Que,
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+Ha ordenado lo siguiente:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+HA DICTADO
+
+La siguiente:
+
+LEY N°. 1021
+
+LEY PARA EL FORTALECIMIENTO DE LA GESTIÓN DEL INSTITUTO DE SEGURIDAD SOCIAL Y DESARROLLO HUMANO (ISSDHU)
+
+Capítulo I
+
+De la Institución y sus objetivos
