@@ -1,0 +1,27 @@
+LEY N°. 1024, LEY DE REFORMA Y ADICIONES A LA LEY Nº. 380, LEY DE MARCAS Y OTROS SIGNOS DISTINTIVOS
+
+Aprobada el 24 de marzo de 2020
+
+Publicada en La Gaceta, Diario Oficial N°. 65 del 03 de abril de 2020
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+A sus habitantes, hace saber:
+
+Que,
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+Ha ordenado lo siguiente:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+HA DICTADO
+
+La siguiente:
+
+LEY N°. 1024
+
+LEY DE REFORMA Y ADICIONES A LA LEY Nº. 380, LEY DE MARCAS Y OTROS SIGNOS DISTINTIVOS
