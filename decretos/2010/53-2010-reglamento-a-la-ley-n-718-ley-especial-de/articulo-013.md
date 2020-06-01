@@ -1,7 +1,15 @@
 # Artículo 13
 
-Prohibición de enajenar o dar en prenda inmuebles obtenidos al amparo de la Ley No. 718.
+Funciones de las Comisiones de Trabajo Sectoriales
 
-Las viviendas, terrenos o parcelas que se obtengan por las familias beneficiadas a causa de embarazos o partos múltiples, deberán contemplar, en el correspondiente instrumento de dominio sobre el inmueble que se expida, la constitución de la propiedad en patrimonio familiar, estando en virtud de dicha condición sujeto el inmueble a las limitaciones de Ley, que impide su venta o gravamen, hasta que las hijas o hijos productos de partos múltiples alcancen la mayoría de edad.
+Son funciones de las Comisiones de Trabajo Sectoriales:
 
-Así mismo queda limitada hasta la mayoría de edad de las hijas e hijos producto de Partos Múltiples la Cesión de Derechos sobre inmuebles declarados patrimonio familiar.
+1. Elaborar propuestas de estrategias, políticas y planes nacionales, así como estudios y recomendaciones a nivel sectorial nacional.
+
+2. Hacer recomendaciones para el buen funcionamiento del Sistema a nivel territorial.
+
+3. Elaborar propuestas para el Comité Nacional, las que serán presentadas a través de las Codirecciones.
+
+4. Adoptar los mecanismos pertinentes de coordinación para la ejecución adecuada de las medidas adoptadas por el Comité Nacional.
+
+Cualquier otra que les asigne el Comité Nacional.

@@ -1,3 +1,15 @@
 # Artículo 17
 
-Partidas Presupuestarias. Las instituciones del Estado que la Ley No. 718, ha señalado con competencias y responsabilidad para la aplicación y seguimiento de la misma, deberán incluir en sus presupuestos una partida para ejecutar las acciones presentadas y aprobadas por la Comisión. Para el periodo Presupuestario 2,011 las Instituciones señaladas en este artículo tomarán las previsiones correspondientes para la aplicación de las disposiciones de la Ley y este Reglamento en sus respectivos proyectos de presupuesto Institucional.
+Funciones de los Comités Municipales
+
+Son funciones de los Comités Municipales:
+
+1) Establecer las políticas en materia de Prevención, Mitigación y Atención de Desastres requeridas para su respectivo territorio, en armonía con las definidas por el Sistema Nacional.
+
+2) Aprobar los planes municipales de Prevención, Mitigación y Atención de Desastres, en armonía con los Planes Nacionales sobre la materia.
+
+3) Aprobar las medidas e instrumentos de coordinación para hacer operativos los fines, principios y objetivos del Sistema Nacional, en su respectivo territorio.
+
+4) Coordinar las acciones de los delegados de las instituciones nacionales, entre ellos y con el Gobierno Municipal, de acuerdo con las definiciones tomadas por el respectivo Comité Departamental o Regional.
+
+5) Recomendar al Alcalde la declaratoria de alerta municipal.

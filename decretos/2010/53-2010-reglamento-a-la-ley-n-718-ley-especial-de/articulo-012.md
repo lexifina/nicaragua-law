@@ -1,11 +1,11 @@
 # Artículo 12
 
-Responsabilidad del Instituto de la Vivienda Urbana y Rural. Comprobada la situación de escasos recursos económicos de las familias objeto de la Ley No. 718, el Instituto de la Vivienda Urbana y Rural brindará prioridad en el acceso a una vivienda de interés social, garantizando:
+Comisiones de Trabajo Sectoriales
 
-1. Las operaciones de regulación legal de sus viviendas en los programas y proyectos habitacionales del INVUR;
+Los Codirectores, en consulta con los Presidentes de las Comisiones de Trabajo Sectoriales, propondrán al Comité Nacional las entidades que deberán conformar las mismas y, así mismo, prepararán y presentarán ante el Comité Nacional, la propuesta de reglamentación para su funcionamiento. Las Comisiones de Trabajo Sectoriales estarán presididas según lo dispuesto en el Artículo 16 de la Ley y serán convocadas por el respectivo Presidente o por los Codirectores del Sistema Nacional, quienes además establecerán los mecanismos de coordinación entre ellas.
 
-2. Prioridad en las operaciones de regulación física, social y legal de asentamientos humanos que cuenten con familias de embarazo y partos múltiples;
+Los representantes de las entidades que conformen las Comisiones de Trabajo Sectoriales serán los técnicos de enlace con las Codirecciones a que se refiere el Artículo 8 de la Ley, los cuales deberán ser acreditados ante la misma. La integración de las Comisiones de Trabajo Sectoriales será determinada por el Reglamento de funcionamiento de las Comisiones de Trabajo Sectoriales que el Comité Nacional deberá aprobar. Uno de sus miembros ejercerá las funciones de Secretario, quien levantará las actas de las reuniones y certificará los acuerdos alcanzados.
 
-3. Apoyar el incremento de superficie máxima de la vivienda de interés social y del uso del suelo habitacional en el ámbito urbano y rural, a fin de evitar el hacinamiento de la familia a beneficiar cuando éstas ya posean vivienda y el núcleo familiar se amplíe por causa de embarazo y partos múltiples; y
+Las organizaciones de la sociedad civil que el Comité Nacional considere conveniente podrán ser incorporadas a las Comisiones de Trabajo Sectoriales, en los términos y modalidades que determine el órgano rector del Sistema.
 
-4. En caso de viviendas en mal estado, en el marco de los programas y proyectos habitacionales que se diseñen y ejecuten, otorgará los recursos necesarios a las familias a beneficiar para la reparación o rehabilitación del inmueble.
+Las Comisiones de Trabajo Sectoriales aprobarán sus recomendaciones por el voto favorable de la mayoría de sus integrantes. Los acuerdos y recomendaciones, cuando corresponda, serán presentados al Comité Nacional por los Codirectores.

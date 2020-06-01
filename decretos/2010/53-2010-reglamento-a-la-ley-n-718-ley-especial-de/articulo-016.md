@@ -1,3 +1,17 @@
 # Artículo 16
 
-Retroactividad de la ley. Los beneficios contemplados en la ley No. 718 y lo normado en el presente reglamento de conformidad al Arto. 6 de la Ley, se aplicarán a las hijas e hijos productos de partos múltiples, cuyas edades a la fecha de aprobación del presente reglamento no superen los doce años de edad. La retroactividad que habla esta ley, no es acumulativa a lo que se dejo de percibir, previo a la aprobación del presente reglamento.
+Funciones de los Comités Departamentales y Regionales
+
+Son funciones de los Comités Departamentales y Regionales:
+
+1) Establecer las políticas en materia de Prevención, Mitigación y Atención de Desastres requeridas para su respectivo territorio, bajo los lineamientos definidos por el Sistema Nacional.
+
+2) Aprobar los planes territoriales de Prevención, Mitigación y Atención de Desastres, en el marco de los Planes Nacionales sobre la materia.
+
+3) Aprobar las medidas e instrumentos de coordinación para hacer operativos los fines, principios y objetivos del Sistema Nacional, en su respectivo territorio.
+
+4) Coordinar las acciones de los delegados de las instituciones nacionales, entre ellos y con los Gobiernos Regionales y las Secretarías Departamentales, en materia de Prevención, Mitigación y Atención de Desastres.
+
+5) Definir el apoyo de las entidades nacionales a las administraciones municipales en la Prevención, Mitigación y Atención de Desastres, de acuerdo a los mecanismos y procedimientos que para tal efecto establezca el Comité Nacional.
+
+6) Recomendar a los gobiernos regionales y municipales la declaratoria de estados de alerta en sus respectivos territorios.

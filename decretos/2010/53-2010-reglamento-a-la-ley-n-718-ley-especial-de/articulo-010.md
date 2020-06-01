@@ -1,23 +1,47 @@
 # Artículo 10
 
-Responsabilidad del Ministerio de la Familia, Adolescencia y Niñez. El Ministerio de la Familia, Adolescencia y Niñez a través de sus distintas delegaciones a nivel nacional deberá:
+Funciones de las Codirecciones del Sistema Nacional
 
-1.-Verificar los casos de embarazos múltiples reportados por el Ministerio de Salud, empresas médicas previsionales o captados de forma directa por las organizaciones comunitarias y la Promotoría Social Solidaria;
+Las Codirecciones estarán bajo la rectoría sectorial de la Presidencia de la República. Sus funciones son las siguientes:
 
-2.- Crear una instancia administrativa conformada por un equipo mínimo que atienda de forma especial la protección a madres de embarazos y partos múltiples así como a las familias con niños y niñas productos de este tipo de partos;
+1) Poner en ejecución el cumplimiento de los principios, fines y objetivos del Sistema Nacional de Prevención, Mitigación y Atención de Desastres, así como el funcionamiento y cumplimiento de las funciones que le determina la Ley y el presente Reglamento.
 
-3.- Realizar estudios socio económico a los diferentes casos reportados o captados;
+2) El enlace entre el Ejecutivo Nacional y los diferentes niveles de organización territorial y sectorial del Sistema.
 
-4.- Dar atención y seguimiento a las mujeres de embarazos múltiples y a las familias con niños y niñas productos de partos múltiples de conformidad a resultados de estudios socioeconómicos y a la actualización de los mismos;
+3) Convocar y coordinar las Comisiones de Trabajo Sectoriales.
 
-5.- Informar sobre el resultado del estudio socioeconómico al Instituto de Seguridad Social con el fin de que se le asigne leche por un periodo de dos años independientemente que los padres sean asegurados o no siempre que se demuestre la vulnerabilidad económica;
+4) Actuar como órgano técnico del Comité Nacional para la Prevención, Mitigación y Atención de Desastres y servirle de Secretaría, llevando las actas de sus sesiones y librando las certificaciones correspondientes, y ejecutar las decisiones que el Presidente de la República, el Vicepresidente o el Comité Nacional le encomienden.
 
-6.- Informar al Instituto de la Vivienda Urbana y Rural, los diferentes casos que de conformidad a estudio socioeconómico ameriten ser atendidos por dicha entidad;
+5) Convocar, con instrucciones del Presidente de la República o del Vicepresidente al Comité Nacional; preparar la propuesta de Agenda y la documentación necesaria para la adecuada toma de decisiones y coordinar la preparación de los proyectos de Decretos Ejecutivos y acuerdos para consideración y decisión del Comité Nacional.
 
-7.- Reportar al Ministerio de Educación casos detectados para su inclusión escolar y dotación de útiles escolares y uniformes;
+6) Preparar la propuesta de Presupuesto Anual del Fondo de Desastres y de las Codirecciones, de acuerdo con el Ministerio de Hacienda y Crédito Público, para su inclusión en el Proyecto de Ley del Presupuesto General de la República.
 
-8.- Presentar informe mensual a la Comisión Interinstitucional de los resultados de trabajo;
+7) Contratar los servicios y el personal técnico necesarios para el cumplimiento de sus funciones y responsabilidades.
 
-9. Garantizar que en los CDI, CICOS y CASAS BASES, se priorice el cupo a niñas y niños productos de partos múltiples, así mismo las niñas y niños en situación de abandono u orfandad, serán priorizados para ubicarlos en hogares sustitutos o familias adoptivas; e
+8) Apoyar técnicamente la gestión, negociación y suscripción por el Ministerio de Relaciones Exteriores, de convenios de cooperación internacional en materia de Prevención, Mitigación y Atención de Desastres.
 
-10. Implementar con la participación de la comunidad y Promotoría Social los ejercicios de estimulación temprana a las mujeres con embarazos múltiples y a los niños y niñas desde el primer día de nacidos integrándolos de forma priorizada a programas de estimulación temprana.
+9) Organizar y mantener actual izada una base de datos georeferenciada, con la información estadística existente y la relativa a la ejecución de los programas, proyectos y acciones en materia de prevención, mitigación y atención de desastres, en coordinación con las instituciones y entidades públicas del Sistema Nacional, en particular INETER, las que deberán presentar la información existente de acuerdo a los estándares y la periodicidad que se establezcan.
+
+10) Coordinar la elaboración de los informes que sobre la materia objeto de la Ley y el presente Reglamento que el Presidente de la República debe presentar ante la Asamblea Nacional.
+
+11) Coordinar la preparación y presentar al Comité Nacional para su aprobación, el Plan Nacional del Sistema Nacional de Prevención, Mitigación y Atención de Desastres y los Planes Nacionales de Emergencia y Contingencia para cada tipo de amenaza natural o provocada, su revisión y actualización. Además presentar al Comité Nacional, para su aprobación, propuestas en materia de:
+
+a. Políticas del Sistema Nacional para la Prevención, Mitigación y Atención de Desastres.
+
+b. Medidas e instrumentos requeridos para hacer operativos los objetivos del Sistema Nacional.
+
+c. Procedimientos e instrumentos para el control y distribución de la ayuda internacional.
+
+d. Propuestas de normativas y regulación del ordenamiento territorial en materia de prevención, mitigación y
+
+atención de desastres.
+
+e. Propuestas de temática y de contenido en los Programas de Educación en lo que respecta a prevención,
+
+mitigación y atención de desastres.
+
+12) Nombrar ante los Comités Departamentales, Regionales y Municipales, a los delegados o delegadas de las Codirecciones del Sistema Nacional, quienes fungirán como Codirectores de los mismos. Serán responsables de llevar las actas de las sesiones del Comité y librar las certificaciones respectivas. Asimismo serán responsables de dar seguimiento al cumplimento de las decisiones del Comité. Mantendrán informado al Comité Nacional a través de los Codirectores del Sistema.
+
+Cualquier otra función que el Comité Nacional le señale.
+
+Para el cumplimiento de sus funciones, las Codirecciones podrán apoyarse en las Comisiones de Trabajo Sectoriales que establece la Ley y en los cuerpos técnicos de cada uno de los integrantes del Sistema Nacional.

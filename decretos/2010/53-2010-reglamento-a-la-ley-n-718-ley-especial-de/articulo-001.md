@@ -1,3 +1,5 @@
 # Artículo 1
 
-Objeto. El presente Reglamento tiene por objeto establecer las disposiciones para la aplicación de la Ley No. 718 REGLAMENTO A LA LEY N°. 718 “LEY ESPECIAL DE PROTECCIÓN A LAS FAMILIAS EN LAS QUE HAYAN EMBARAZOS Y PARTOS MÚLTIPLES” publicada en La Gaceta, Diario Oficial No. 111 del 14 de junio de 2010, que en lo adelante se designará simplemente como Ley No. 718.
+Objeto
+
+El presente Decreto tiene por objeto establecer las disposiciones reglamentarias para la aplicación de la Ley número 337, Ley de Creación del Sistema Nacional para la Prevención, Mitigación y Atención de Desastres, publicada en La Gaceta, Diario Oficial número 70 del 7 de abril del año 2000 y que en adelante se denominará la Ley.

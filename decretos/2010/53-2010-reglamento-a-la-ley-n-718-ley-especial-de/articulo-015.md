@@ -1,9 +1,21 @@
 # Artículo 15
 
-Dictamen de la Condición de vulnerabilidad económica en las familias en las que haya embarazos y partos múltiples. En los casos de las familias en las que haya embarazos y partos múltiples, el Ministerio de la Familia, adolescencia y niñez a través de sus distintas delegaciones territoriales, procederá a determinar tal condición, mediante estudio socio-económico que realicen las y los trabajadores sociales quienes deberán presentarse en el hogar, después de la recepción del reporte realizado por las diferentes instancias previamente establecidas en el Arto 9, numeral 1, de este reglamento.
+Incorporación y funcionamiento de las organizaciones de la sociedad civil en los Comités territoriales
 
-El dictamen de las y los trabajadores sociales será presentado a la instancia especializada creada por el Ministerio de la Familia, Adolescencia y Niñez, para sus conclusiones y recomendaciones que se presentarán en las sesiones de la Comisión para su respectivo dictamen.
+Los Comités en los territorios podrán incorporar a las organizaciones de la sociedad civil, de manera permanente o temporal, o para temas específicos de interés.
 
-Para tal fin la Comisión de Protección a las Familias con embarazos de Partos Múltiples, aprobará el formulario de estudio socioeconómico y los parámetros de aplicación y valoración.
+La Cruz Roja Nicaragüense y las organizaciones de bomberos podrán ser incorporadas de manera permanente, sin que para ello se exija ningún requisito de carácter formal. Las organizaciones nacionales o internacionales de carácter humanitario, como las iglesias, podrán ser incorporadas en las situaciones de alerta o de desastre y para el tema de la planificación de la prevención, mitigación y atención de desastres. Las organizaciones no gubernamentales de carácter técnico vinculadas al desarrollo, en el campo de la reducción de riesgos, así como las Universidades y Centros de Investigación Científica, podrán ser incorporadas para el análisis y discusión de estos temas. Podrán también ser incorporadas las organizaciones ciudadanas, en relación con el tema de la reducción de riesgos y atención de desastres en su comunidad.
 
-Capítulo Único
+Para incorporar a las organizaciones de la sociedad civil en los Comités territoriales estas deberán solicitarlo al respectivo Comité y cumplir con los requisitos siguientes:
+
+a) Carta de solicitud firmada por el representante de la organización, la que deberá hacer referencia al acuerdo correspondiente de su Junta Directiva, en la que se compromete la organización a apoyar las decisiones del Comité correspondiente, en el campo de su especialidad y actuar en el marco de la coordinación establecido por el Comité territorial.
+
+b) Copia de la escritura de constitución y los Estatutos de la organización, autenticada por Notario Público, y de La Gaceta, Diario Oficial, en que se haya publicado el Decreto Ley de la Asamblea Nacional que otorga la personalidad jurídica a la organización.
+
+c) Certificación del Ministerio de Gobernación.
+
+d) Copia de los Programas, Sub Programas, Proyectos o Acciones que esté desarrollando en el territorio, relacionados con las actividades de prevención, mitigación, atención o rehabilitación de desastres.
+
+Los Comités en el territorio llevarán un Registro con toda esta información, la que deberá estar a disposición de las Codirecciones del Sistema a efecto de contar con un mapa nacional de capacidades y recursos disponibles a nivel local.
+
+En todo caso, los Comités territoriales deberán exigir que los fines, objetivos y propósitos de las organizaciones solicitantes, sean compatibles con las actividades de prevención, mitigación, atención o rehabilitación de desastres.

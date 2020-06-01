@@ -1,3 +1,5 @@
 # Artículo 5
 
-Coordinación de la Comisión. La COMISIÓN DE PROTECCIÓN A LAS FAMILIAS CON EMBARAZOS Y PARTOS MÚLTIPLES, será presidida y coordinada por el titular del Ministerio de la Familia, Adolescencia y Niñez,
+Delegaciones
+
+Los Ministros y Titulares de las Instituciones o Dependencias que el Presidente haya estimado necesario incorporar al Comité Nacional, únicamente podrán delegar en el Viceministro o Subtitular en caso de no encontrarse presentes en el territorio nacional, por imposibilidad física o por fuerza mayor, debiendo integrarse al Comité inmediatamente después de superados los obstáculos.

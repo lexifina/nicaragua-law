@@ -1,13 +1,11 @@
 # Artículo 14
 
-Responsabilidad del Ministerio del Trabajo. El Ministerio del Trabajo garantizará:
+Comités del Sistema Nacional en el Territorio Nacional
 
-1. El incremento del periodo postnatal de dos semanas por cada hija o hijo que nazca después del primero en el mismo parto, sin afectación laboral;
+Los Comités del Sistema Nacional en el territorio podrán ser regionales, departamentales y municipales.
 
-2. Para efecto de la aplicación de esta medida la mujer trabajadora con embarazo múltiple deberá informar al empleador de su condición especial, presentando dictamen médico y distintivo especial otorgado por el MINSA o Clínica Previsional; y
+Los Comités Regionales son los de la Regiones Autónomas de la Costa Caribe Norte y Sur, respectivamente, y estarán integrados por el Coordinador Regional quien lo coordinará, los representantes de las instituciones miembros del Comité Nacional que cuenten con presencia en dichas regiones y los representantes de la sociedad civil que se decida incorporar.
 
-3. En los casos que la mujer, las hijas o hijos nacidos de partos múltiples tengan alguna complicación médica el conyugue o compañero, podrá hacer uso de los derechos establecidos en el Código del Trabajo Arto 74, así como los establecidos en los convenios colectivos.
+Los Comités Departamentales estarán integrados por el Secretario de Gobierno quien lo presidirá, los representantes de las instituciones miembros del Comité Nacional que cuenten con presencia en el territorio del Departamento y por los representantes de la sociedad civil que se decida incorporar.
 
-Capítulo IV
-
-Del Estudio Socioeconómico
+Los Comités Municipales estarán integrados por el Alcalde quien lo presidirá, los delegados de los Ministerios de Estado presentes en el territorio municipal y los representantes de las empresas municipales, los organismos no gubernamentales y representantes del sector privado y de la comunidad que solicite el Alcalde.

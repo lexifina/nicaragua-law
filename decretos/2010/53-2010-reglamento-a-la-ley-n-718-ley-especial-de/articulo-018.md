@@ -1,3 +1,5 @@
 # Artículo 18
 
-Aplicación de Normas Supletorias. Todo lo no previsto en el presente Reglamento y en la Ley No. 718, Ley Especial de Protección a las familias en las que hayan embarazos y partos múltiples, se regirá supletoriamente, en lo que le sea aplicable por el Código de la Niñez y Adolescencia, Ley Reguladora de las Relaciones entre Madre, Padre e Hijos, Ley 623, de Responsabilidad Paterna y Materna y su Reglamento, Código Civil, Código de Procedimiento Civil, Código del Trabajo, Ley de Seguridad Social, Ley 677 Ley Especial para el Fomento de la Construcción de Vivienda y de Acceso a la Vivienda de Interés Social y lo establecido en Declaraciones, y Convenios Internacionales, ratificados por el Estado de Nicaragua, Acuerdos, Normativas, Procedimientos, Metodologías Institucionales que rigen la materia
+Sesiones de los Comités territoriales
+
+Los Comités territoriales deberán reunirse de manera ordinaria, al menos, cada dos meses, y de manera extraordinaria las veces que sea necesario. Serán convocados por el que las preside, quien coordinará el trabajo de la Comisión y dará seguimiento a los acuerdos correspondientes. Los Comités territoriales contarán con un Secretario, electo de entre sus miembros, y quien será el encargado de llevar las actas y certificar los acuerdos.

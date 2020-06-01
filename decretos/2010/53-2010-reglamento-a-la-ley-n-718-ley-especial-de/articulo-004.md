@@ -1,39 +1,9 @@
 # Artículo 4
 
-A efectos de aplicación de la Ley y el presente Reglamento se establecen las siguientes definiciones:
+Sesiones del Comité Nacional
 
-1. Atención integral: Es la atención de salud que se brinda a la población, la cual incluye acciones de promoción, prevención, diagnóstico precoz, atención curativa, rehabilitadora y paliativa, así como apoyo para el auto cuidado, en el contexto de la familia y comunidad.
+El Comité Nacional se reunirá de manera ordinaria al menos dos veces al año y de manera extraordinaria las veces que el Presidente de la República o el Vicepresidente lo convoque, en tiempo normal o ante la inminencia de una declaratoria de alerta o de desastre.
 
-2. Alto Riego Obstétrico (ARO): Aquel embarazo que se presenta un riesgo elevado de accidente perinatal, por sus condiciones generales, antecedentes, o anomalías que aparecen durante el embarazo. La contingencia de un daño, es decir de enfermar o morir en una madre y/o el feto o recién nacido, debido al proceso del embarazo, parto o puerperio.
+Las reuniones del Comité Nacional podrán ser antecedidas de reuniones preparatorias a nivel técnico. El Comité Técnico de Enlace estará conformado por los Técnicos de Enlace de las entidades que integran el Comité Nacional y será coordinado por las Codirecciones del Sistema.
 
-3. Casa Base: Local comunitario en donde se da la coordinación técnica y abastecimiento a las casas de familia en modalidad itinerante
-
-4. Casa Materna: Establecimiento de salud comunitario, que tiene como propósito el ingreso de embarazadas con factores de riesgo y que residen en zonas distantes, con el fin de aproximarlas a los servicios de salud y garantizar un parto institucional seguro, respetando su condición sociocultural y étnica
-
-5. Estudio socioeconómico: Investigación sobre las condiciones de vivienda, ingresos, nivel educativo, salud, composición de la familia, que se realiza de forma directa a la familia beneficiada
-
-6. Embarazo: Es una condición de la mujer producto de la concepción que tiene una duración promedio de 280 días contados a partir del primer día de la última menstruación normal, si se relaciona en meses, decimos que tiene 10 meses lunares o 9 solares y aproximadamente 40 semanas de gestación.
-
-7. Embarazo Múltiple: es aquél, en el que dos o más bebés se desarrollan simultáneamente en el útero.
-
-8. Parto: El acto de dar a luz una niña/o o un feto vivo/a y sus anexos, por vía vaginal. Es el procedimiento para asistir el nacimiento de una niña/o, viva/o, de un feto muerto (incluyendo placenta) por medios manuales, instrumentales o quirúrgicos
-
-9. Parto Múltiple: el nacimiento de dos o más hijos o hijas en un mismo parto.
-
-10. Pródromo: A punto de comenzar un episodio
-
-11. Pródromo de trabajo de parto: es aquel en el que se empiezan a manifestar los primeros síntomas para el comienzo del parto.
-
-12. Protección social a familias con embarazos y/o partos múltiples la asistencia que dispondrá el MIFAN y las otras instituciones de acuerdo a lo establecido por la Ley.
-
-13. CDI: Centro de Desarrollo Infantil
-
-14. CICO: Centro Infantil Comunitario
-
-15. Vivienda de interés social: Vivienda cuya área de construcción se encuentra entre los 36 metros cuadrados y 60 metros cuadrados con servicios básicos incluidos y cuyo valor de construcción sea igual o menor a veinte mil dólares de los Estados Unidos de América.
-
-16. Vulnerabilidad económica: la imposibilidad de acceder a medios de subsistencia, para apoyar sus principales necesidades básicas de protección social.
-
-Capítulo II
-
-Conformación y funciones de la Comisión
+La convocatoria la harán el Presidente de la República, el Vicepresidente o la persona en quien aquél delegue, a través de las Codirecciones del Sistema Nacional, con la debida antelación en tiempo normal. En estos casos, la convocatoria deberá ir acompañada de una propuesta de agenda con los asuntos a tratar y de la documentación necesaria para garantizar la adecuada toma de decisiones. Ante la inminencia de una declaratoria de alerta o de desastre el Comité Nacional podrá ser convocado en cualquier día y hora y por cualquier medio de comunicación.
