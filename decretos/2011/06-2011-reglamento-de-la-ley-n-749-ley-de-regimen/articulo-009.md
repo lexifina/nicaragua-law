@@ -1,9 +1,13 @@
 # Artículo 9
 
-Procedimiento para la creación de puestos de control de fronteras. Para la creación de puestos de control de fronteras, las instituciones con competencia en los territorios fronterizos y Autoridades de la Regiones Autónomas Norte y Sur, cuando corresponda, cumplirán el siguiente procedimiento:
+Funcionamiento y actuación de las instituciones presentes en los Puestos de Control de Fronteras
 
-1. Realizar estudios de factibilidad para determinar la viabilidad de la instalación del puesto de control de fronteras.
+La Dirección General de Servicios Aduaneros, Dirección General de Migración y Extranjería, Ministerio Agropecuario, Ministerio de Salud, Instituto Nicaragüense de Turismo, Ejército de Nicaragua y Policía Nacional, destinarán los recursos humanos, técnicos y financieros necesarios en los puestos de control de fronteras, para el desempeño de las atribuciones y funciones que por ley le competen a cada institución, con la finalidad de regular y controlar el ingreso y salida de personas, medios de transporte y mercancías.
 
-2. La CNTF, a través del Secretario Ejecutivo, presentará al Presidente de la República, la propuesta de creación del puesto de control de frontera, para su aprobación.
+En cada uno de los puestos de control de fronteras, se realizarán las actividades siguientes:
 
-3. La Procuraduría General de la República, otorgará la Asignación en Administración, del bien inmueble designado como puesto de control de frontera, a la entidad correspondiente, con el Acuerdo Presidencial emitido para tal efecto. De igual manera, garantizará al Ejército de Nicaragua la adjudicación en administración de los bienes inmuebles, donde se ubiquen los puestos militares fronterizos, Distritos Navales, Capitanías de Puertos, Puntos de Control de Embarcaciones e Instalaciones de Seguridad Aeroportuarias.
+1. Establecerán un sistema de control, fiscalización e información conforme lo mandata la Ley, el que será aprobado por los titulares de las instituciones respectivas.
+
+2. Conformarán una comisión de trabajo permanente, integrada por un representante de cada institución.
+
+3. Los representantes de las instituciones se reunirán periódicamente a efecto de adoptar medidas y acuerdos para su mejor funcionamiento.

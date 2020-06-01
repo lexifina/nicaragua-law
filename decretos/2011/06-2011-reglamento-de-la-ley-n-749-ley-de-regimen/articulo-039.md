@@ -1,3 +1,5 @@
 # Artículo 39
 
-Montos de Concesión. Los montos por derecho de concesión a título oneroso, cuando correspondan al Ministerio de Energía y Minas, al Instituto Nicaragüense de Turismo, gobiernos regionales o municipales, se procederá conforme la Ley de la materia.
+Contrato de Concesión
+
+El solicitante deberá suscribir contrato de concesión con la Procuraduría General de la República, sea a título oneroso o gratuito. En caso de ser a título oneroso, presentará fianza o garantía de pago de la concesión.

@@ -1,6 +1,8 @@
 # Artículo 3
 
-Disposiciones para el funcionamiento del Secretario de la Comisión Nicaragüense del Territorio Fronterizo. El Secretario cumple las siguientes actividades:
+Disposiciones para el funcionamiento del Secretario de la Comisión Nicaragüense del Territorio Fronterizo
+
+El Secretario cumple las siguientes actividades:
 
 1. Elaborar y presentar ante la CNTF el plan de trabajo anual para su aprobación, debidamente consensuado con las instituciones que la integran.
 

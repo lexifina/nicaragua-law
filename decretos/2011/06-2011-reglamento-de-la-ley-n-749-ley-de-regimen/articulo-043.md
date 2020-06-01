@@ -1,7 +1,7 @@
 # Artículo 43
 
-Derechos del Concesionario. El concesionario tendrá los derechos siguientes:
+Prohibiciones
 
-1. Plena ejecución de lo pactado, salvo los supuestos de modificación, suspensión, resolución o rescisión unilateral por la Procuraduría General de la República.
+El concesionario no podrá ceder el contrato celebrado con el Estado, sin expresa autorización.
 
-2. Terminación anticipada del contrato por causas imputables al Estado.
+En caso de autorizarse la cesión, la persona en cuyo favor se ceda el contrato de concesión deberá reunir las mismas condiciones exigidas para el concesionario original y podrá ser requerido para presentar garantías adicionales.

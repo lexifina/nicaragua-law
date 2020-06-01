@@ -1,5 +1,7 @@
 # Artículo 19
 
-Vigilancia y Control de los Recursos Naturales. El Ministerio del Ambiente y los Recursos Naturales y el Instituto Nacional Forestal, en coordinación con el Ejército de Nicaragua y demás autoridades e instituciones competentes en el territorio fronterizo, establecerán un sistema de vigilancia y control para contribuir al manejo y aprovechamiento forestal en todas las especies, designando pequeñas unidades de la institución militar a esos efectos.
+Control y Resguardo de las Áreas Protegidas
+
+El Ministerio del Ambiente y de los Recursos Naturales, Procuraduría Ambiental, Ministerio Público, Policía Nacional en conjunto con el Ejército de Nicaragua y demás autoridades e instituciones competentes en el territorio fronterizo, coadyuvarán en la defensa, resguardo y seguridad de las áreas protegidas declaradas en el territorio fronterizo, designando pequeñas unidades militares fronterizas y/o especializadas, para el cumplimiento de estas misiones.
 
 Los representantes de las instituciones enunciadas en el párrafo anterior, establecerán relaciones de coordinación y cooperación, se reunirán una vez al mes, o según se requiera, con la finalidad de adoptar medidas y acuerdos para su mejor funcionamiento.

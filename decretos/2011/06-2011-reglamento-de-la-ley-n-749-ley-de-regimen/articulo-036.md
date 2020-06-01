@@ -1,3 +1,9 @@
 # Artículo 36
 
-Admisión de la solicitud. Una vez recibida la solicitud por la Procuraduría General de la República, la admitirá siempre y cuando cumpla con los requisitos establecidos en la Ley y el presente Reglamento.
+Resolución de aprobación o denegación
+
+La Procuraduría General de la República, emitirá resolución motivada para aprobar o denegar la solicitud de concesión o de permiso de arrendamiento. En caso de ser aprobada, se extenderá certificación para la elaboración del contrato de concesión ante la Notaría del Estado, o del permiso de arrendamiento para comparecer ante notario público.
+
+La Procuraduría General de la República, para expedir la resolución de aprobación o denegación de concesiones o permiso de arrendamiento, tiene un plazo de noventa días hábiles, prorrogables por igual período.
+
+La resolución y certificación de aprobación o denegación de la concesión o del permiso de arrendamiento, será emitida por el Procurador, del Organismo desconcentrado de la Procuraduría General de la República, previa consulta ante el Procurador General de la República.

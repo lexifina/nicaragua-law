@@ -1,19 +1,15 @@
 # Artículo 25
 
-Contenido del Informe. El informe deberá contener al menos la siguiente información.
+Parámetros de extensión superficial
 
-1. Información general del solicitante según sea persona natural o jurídica, documentos de identidad o de residencia, en el caso de los extranjeros.
+Los parámetros de extensión superficial sobre bienes inmuebles para concesiones que se otorgan a título gratuito a las familias que habitan en territorio fronterizo son los siguientes:
 
-2. Nacionalidades de los solicitantes.
+1. En tierras aptas para una cosecha al año: cuatro hectáreas o más.
 
-3. Ubicación geográfica de los inmuebles por zonas.
+2. En tierras de riego o aptas para dos cosechas al año, así como en las que serán destinadas a cultivos permanentes: tres hectáreas o más.
 
-4. Cantidades de concesiones o permisos de arrendamientos
+3. En tierras de uso ganadero: más de quince hectáreas.
 
-5. Breve descripción de las actividades: comercial, vivienda de interés social, agropecuaria, turística, entre otras.
+4. En comarcas, poblados y caseríos: máximo una hectárea de terreno. Dicha extensión variará de acuerdo a la calidad y aptitud de los suelos, ubicación geográfica, tipo de cultivo, fertilidad, profundidad, drenaje, topografía, infraestructura existente y naturaleza del proyecto.
 
-6. Monto de las inversiones.
-
-7. Período otorgado a los concesionarios o arrendatarios.
-
-8. Anexos (mapas, fotos y demás documentación que se considere pertinente)
+El área de las concesiones sobre bienes inmuebles a título oneroso, se otorgarán de conformidad a los parámetros técnicos del proyecto y capacidad financiera, procurando que no se conserven ociosos.

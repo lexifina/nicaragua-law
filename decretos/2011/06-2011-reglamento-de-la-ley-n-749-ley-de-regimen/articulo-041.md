@@ -1,31 +1,13 @@
 # Artículo 41
 
-Contenido del Contrato de Concesión. El contrato de concesión deberá contener lo siguiente:
+Control y Supervisión del Contrato
 
-1. Generales de ley del concesionario, o acreditación del representante legal en el caso de tratarse de una persona jurídica.
+Con el objeto de proteger el interés público, la Procuraduría General de la República, controla y supervisa el cumplimiento del contrato de concesión y permiso de arrendamiento, estableciendo además las siguientes prerrogativas:
 
-2. El poder o la acreditación de los representantes legales en su caso.
+1. La potestad para modificar unilateralmente el contrato por razones de interés público, sin perjuicio de la renegociación del mismo.
 
-3. Antecedentes de dominio del inmueble del Estado.
+2. Potestad para ampliar unilateralmente los contratos sin exceder en un veinte por ciento (20%) del valor del contrato original, en caso de situaciones imprevisibles al momento de la suscripción del mismo y que sea la única forma de satisfacer el interés público, sin perjuicio de las modificaciones que puedan efectuarse.
 
-4. Ubicación geográfica del inmueble, con descripción del terreno e indicación del área.
+3. La potestad para suspender o resolver el contrato por razones de interés público, sin perjuicio de las indemnizaciones que correspondan al concesionario, si hubiere mérito.
 
-5. Identificación de la concesión que se solicita.
-
-6. Período por el que se solicita y prórroga de la concesión.
-
-7. Objeto de la concesión y descripción del proyecto.
-
-8. Descripción de la actividad a desarrollar.
-
-9. Inserción del avalúo correspondiente.
-
-10. Monto de la inversión a ejecutar.
-
-11. Plazo de ejecución del proyecto.
-
-12. Derechos, obligaciones y prohibiciones del concesionario.
-
-13. Causas de extinción, revocación y terminación anticipada de la concesión.
-
-14. Relación de la fianza o garantía.
+4. La potestad para rescindir el contrato por incumplimiento del concesionario de una condición esencial del mismo, previa intimación y anticipación razonable. En cualquier caso, el procedimiento para la adopción de esta medida, supondrá el agotamiento del debido proceso.

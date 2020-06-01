@@ -1,5 +1,7 @@
 # Artículo 14
 
-Vigilancia y control del espacio aéreo fronterizo. La Fuerza Aérea del Ejército de Nicaragua, en coordinación con el Instituto Nicaragüense de Aeronáutica Civil, asegura y garantiza la vigilancia, control, mantenimiento, explotación, dominio y soberanía e integridad del espacio aéreo nacional y de los aeródromos.
+Seguridad de aeródromos y aeropuertos
 
-El funcionamiento y coordinación entre la Fuerza Aérea y el INAC se establecerá a través del convenio de cooperación interinstitucional.
+El Ejército de Nicaragua, a través de la Dirección de Información para la Defensa del Ejército de Nicaragua, en coordinación con el Ministerio Agropecuario, Policía Nacional, Dirección General de Migración y Extranjería, Dirección General de Servicios Aduaneros y el Instituto Nicaragüense de Aeronáutica Civil, en cumplimiento a lo establecido en la Constitución Política, Leyes, tratados y convenios internacionales, es el responsable de la seguridad y protección de los aeródromos y aeropuertos internacionales y nacionales.
+
+El funcionamiento y coordinación entre la Dirección de Información para la Defensa del Ejército de Nicaragua y las diferentes instituciones con competencia en la materia, se establecerá a través de convenios de cooperación interinstitucional.

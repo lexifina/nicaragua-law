@@ -1,3 +1,7 @@
 # Artículo 18
 
-Acción coadyuvante del Ejército de Nicaragua al Desarrollo Social en el Territorio Fronterizo. El Ejército de Nicaragua, establecerá relaciones de coordinación y cooperación con autoridades de gobierno, comunitarias, entidades y organismos públicos y privados a fin de coadyuvar al cumplimiento de planes y proyectos de desarrollo en el territorio fronterizo, sin menoscabo de las atribuciones y funciones que correspondan por ley a cada una de las instituciones del Estado con competencia en el territorio fronterizo.
+Vigilancia y Control de los Recursos Naturales
+
+El Ministerio del Ambiente y de los Recursos Naturales y el Instituto Nacional Forestal, en coordinación con el Ejército de Nicaragua y demás autoridades e instituciones competentes en el territorio fronterizo, establecerán un sistema de vigilancia y control para contribuir al manejo y aprovechamiento forestal en todas las especies, designando pequeñas unidades de la institución militar a esos efectos.
+
+Los representantes de las instituciones enunciadas en el párrafo anterior, establecerán relaciones de coordinación y cooperación, se reunirán una vez al mes, o según se requiera, con la finalidad de adoptar medidas y acuerdos para su mejor funcionamiento.

@@ -1,3 +1,7 @@
 # Artículo 45
 
-Terminación Anticipada. Las partes podrán convenir de mutuo acuerdo la terminación anticipada del contrato de concesión, lo que no implicará renuncia a derechos adquiridos en favor de las partes.
+Casos sobrevinientes
+
+En caso que sobreviniere un hecho exterior, ajeno a la voluntad de las partes, de carácter insuperable e imprevisible, que imposibilitare la ejecución del contrato de concesión, la parte afectada podrá pedir la terminación del contrato sin ninguna responsabilidad a su cargo.
+
+De los Recursos administrativos

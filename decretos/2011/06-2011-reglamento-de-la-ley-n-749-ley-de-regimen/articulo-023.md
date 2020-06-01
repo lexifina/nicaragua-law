@@ -1,3 +1,5 @@
 # Artículo 23
 
-Registro de Concesiones. La Procuraduría General de la República, llevará un registro administrativo de concesiones y permisos de arrendamiento en el territorio fronterizo, en formato digital y físico.
+Informe Anual
+
+La Procuraduría General de la República remitirá un informe anual a la CNTF, con la estadística del registro de las concesiones y permisos de arrendamiento.

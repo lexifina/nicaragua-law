@@ -1,3 +1,5 @@
 # Artículo 30
 
-Régimen de los permisos o contratos de concesión. El régimen de permisos o contratos de concesión para la exploración y explotación de hidrocarburos o cualquier otra forma de generación de energía tradicional o alternativa, dentro del territorio fronterizo, el Ministerio de Energía y Minas, los otorgará de acuerdo a su propia normativa; en estos casos deberá poner en conocimiento a la Procuraduría General de la República, a fin de que se adopten las previsiones del caso, para proteger los intereses del Estado.
+Desarrollo e Interés Turístico
+
+Cuando el Instituto Nicaragüense de Turismo, determine la creación de Zonas de Desarrollo de Interés Turístico, en la Zona de Desarrollo e Integración Fronteriza, Zona Especial de Protección Fronteriza o en la Zona de Seguridad Fronteriza, se efectuará de conformidad a la normativa correspondiente.

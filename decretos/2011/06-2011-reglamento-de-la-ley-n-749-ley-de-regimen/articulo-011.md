@@ -1,3 +1,5 @@
 # Artículo 11
 
-Puestos Militares Fronterizos. Los puestos militares fronterizos, realizarán sus misiones y funciones tomando en cuenta las condiciones geográficas, población y extensión territorial, primando para su ubicación e instalación, la preservación de la soberanía, independencia e integridad territorial, prevaleciendo los intereses supremos nacionales, en coordinación con las autoridades municipales y regionales correspondientes.
+Vigilancia de fronteras
+
+El Ejército de Nicaragua, desarrollará la vigilancia de fronteras y del territorio fronterizo, a través de patrullaje terrestre, naval y aéreo, disponiendo de las fuerzas y medios que sean necesarios para el cumplimiento de lo dispuesto en la Ley.

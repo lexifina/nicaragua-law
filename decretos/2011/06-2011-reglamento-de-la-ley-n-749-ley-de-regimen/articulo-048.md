@@ -1,5 +1,7 @@
 # Artículo 48
 
-Recurso de apelación. El Recurso de Apelación se presentará ante la autoridad que emitió el acto; en caso que lo admita se elevará con su informe al Procurador General de la República para que resuelva; si lo deniega, el recurrente puede apelar por la vía de hecho, ante el Procurador General de la República.
+Sanciones
 
-De las Sanciones
+La Procuraduría General de la República, cuando los interesados no exhiban títulos o documentos que demuestren su calidad de propietario, poseedor o concesionario, a través de resolución motivada, impondrá sanción pecuniaria equivalente a un día multa diariamente, hasta que los presente.
+
+Las personas sancionadas administrativamente tienen derecho a presentar los recursos administrativos, de conformidad con la Ley y el presente reglamento.
