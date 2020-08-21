@@ -5,5 +5,5 @@
 - CAPÍTULO IV (antes del artículo 9)
 - CAPÍTULO V (antes del artículo 17)
 - CAPÍTULO VI (antes del artículo 27)
-- CAPÍTULO VI (antes del artículo 30)
+- CAPÍTULO VII (antes del artículo 30)
 - DISPOSICIONES FINALES (antes del artículo 30)

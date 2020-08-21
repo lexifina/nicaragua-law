@@ -12,11 +12,11 @@ d) Recibir por medio del CAP las solicitudes de las personas, nacionales o extra
 
 e) Resolver las peticiones que presenten los ciudadanos nacionales o extranjeros interesados en obtener la categoría de RP o RR previo dictamen del CT.
 
-f) Emitir Resoluciones autorizando o denegando el trámite de los beneficios e incentivos otorgados a los RP y RR y remitiéndolas al MHCP, para hacerlas efectivas de conformidad a las funciones que le otorga la Ley.
+f) Emitir Resolución autorizando o denegando el trámite de los beneficios e incentivos otorgados a los RP y RR y remitiéndolas al MHCP, para hacerlas efectivas de conformidad a las funciones que le otorga la Ley.
 
-g) Notificar a la DGME Y MHCP las Resoluciones Administrativas que dicte en el ámbito de su competencia.
+g) Notificar a la DGME y MHCP las Resoluciones Administrativas que dicte en el ámbito de su competencia.
 
-h) Otorgar Certificación de las Resoluciones Administrativa aprobando o denegando la obtención de la categoría de RP o RR.
+h) Otorgar Certificación de las Resoluciones Administrativas aprobando o denegando la obtención de la categoría de RP o RR.
 
 i) Crear el Registro de los RP y RR, extensiones de categorías, cambio de categorías migratorias, beneficios y exoneraciones.
 

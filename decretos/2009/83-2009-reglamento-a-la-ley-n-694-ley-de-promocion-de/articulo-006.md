@@ -1,3 +1,3 @@
 # Artículo 6
 
-Corresponde a la DGME extender la Categoría de RP Y RR conforme Resolución del INTUR.
+Corresponde a la DGME extender la Categoría de RP y RR conforme Resolución del INTUR.

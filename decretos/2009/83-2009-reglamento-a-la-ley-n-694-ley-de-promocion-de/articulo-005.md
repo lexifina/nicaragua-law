@@ -2,7 +2,7 @@
 
 El CT tendrá las funciones siguientes:
 
-1. Reunirse cada quince días para dictaminar las solicitudes, lo que considerará
+1. Reunirse cada quince días para dictaminar las solicitudes, lo que considerará.
 
 2. Comprobar la legalidad y veracidad de la información y los documentos presentados por los solicitantes.
 
