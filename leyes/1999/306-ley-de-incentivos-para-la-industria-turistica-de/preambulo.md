@@ -1,10 +1,14 @@
-LEY N°. 306, LEY DE INCENTIVOS PARA LA INDUSTRIA TURÍSTICA DE LA REPÚBLICA DE NICARAGUA
+TEXTO CONSOLIDADO, LEY Nº. 306, LEY DE INCENTIVOS PARA LA INDUSTRIA TURÍSTICA DE LA REPÚBLICA DE NICARAGUA
 
-Aprobada el 18 de mayo de 1999
+Aprobado el 16 de julio de 2020
 
-Publicada en La Gaceta, Diario Oficial N°. 117 del 21 de junio de 1999
+Publicado en La Gaceta, Diario Oficial N°. 156 del 21 de agosto de 2020
 
-LEY No. 306
+Digesto Jurídico Nicaragüense de la Materia de Turismo
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 25 de marzo de 2020, de la Ley Nº. 306, Ley de Incentivos para la Industria Turística de la República de Nicaragua, aprobada el 18 de mayo de 1999 y publicada en La Gaceta, Diario Oficial Nº. 117 del 21 de junio de 1999, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1026, Ley del Digesto Jurídico Nicaragüense de la Materia de Turismo, aprobada el 25 de marzo de 2020.
+
+LEY Nº. 306
 
 EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
@@ -22,7 +26,7 @@ II
 
 Que Nicaragua posee bellezas naturales, tales como: volcanes, lagos, lagunas, ríos y cientos de kilómetros de playas exuberantes y casi desconocidas, que constituyen un potencial que amerita desarrollar para igualar el nivel de crecimiento alcanzado en otros países del mundo.
 
-III
+I
 
 Que para esto es necesario el establecimiento de un proceso sencillo, racional y rápido, para la creación de productos turísticos en el país, que estimulen el crecimiento económico de otros sectores.
 

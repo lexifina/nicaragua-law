@@ -12,10 +12,14 @@ Toda persona que se acoja a la presente Ley estará obligada a:
 
 5) Llevar un Registro fiel de los artículos exonerados, el cual será accesible a los funcionarios competentes del INTUR y del Ministerio de Hacienda y Crédito Público.
 
-6) Rendir fianza de cumplimiento, a favor del INTUR, equivalente al seis por mil (0.006) de la cuantía de la inversión. Esta fianza nunca será mayor de Ciento cincuenta mil dólares (US$ 150.000.00) o su equivalente en moneda nacional y deberá permanecer vigente hasta que el INTUR declare que la actividad turística ha entrado en operación.
+6) Rendir fianza de cumplimiento, a favor del INTUR, equivalente al seis por mil (0.006) de la cuantía de la inversión. Esta fianza nunca será mayor de ciento cincuenta mil dólares (US$ 150.000.00) o su equivalente en moneda nacional y deberá permanecer vigente hasta que el INTUR declare que la actividad turística ha entrado en operación.
 
 7) Contratar personal nicaragüense, con excepción de expertos y técnicos especializados, previa autorización de las autoridades nacionales competentes.
 
 8) Capacitación especializada y continua de acuerdo a las exigencias del turismo, a ciudadanos nicaragüenses.
 
-9) Someter las diferencias a la jurisdicción de los tribunales nacionales.
+9) Toda persona que se acoja a la presente Ley, estará obligada a:
+
+Someter las diferencias a la jurisdicción de los tribunales nacionales, no obstante, si las partes lo acuerdan, podrán acogerse a lo dispuesto en la Ley de Mediación y Arbitraje vigente en la República de Nicaragua.
+
+10) Las personas jurídicas o naturales que obtengan los beneficios de la presente Ley deberán realizar sus adquisiciones de equipos, materiales y demás obligatoriamente en el mercado formal. No se aceptarán ni tramitarán solicitudes de exoneración por compras realizadas en el mercado informal.

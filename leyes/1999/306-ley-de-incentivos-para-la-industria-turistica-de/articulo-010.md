@@ -14,4 +14,4 @@ Además de lo establecido en el párrafo anterior, se deberá cumplir con los si
 
 5) La experiencia del solicitante en proyectos similares.
 
-El INTUR, en conjunto con el otro Ente responsable de otorgar la concesión en dependencia de cada caso específico y en lo que fuera aplicable, ejercerá (n) una inspección permanente, en todas las etapas de la concesión del área y/o de la (s) instalación (es), para asegurar que se cumpla con lo pactado.
+El INTUR, en conjunto con el otro Ente responsable de otorgar la concesión en dependencia de cada caso específico y en lo que fuera aplicable, ejercerá(n) una inspección permanente, en todas las etapas de la concesión del área y/o de la(s) instalación(es), para asegurar que se cumpla con lo pactado.

@@ -7,5 +7,6 @@
 - CAPÍTULO VI (antes del artículo 15)
 - CAPÍTULO VII (antes del artículo 20)
 - CAPÍTULO VIII (antes del artículo 23)
-- CAPÍTULO IX (antes del artículo 26)
-- DISPOSICIONES FINALES (antes del artículo 26)
+- CAPÍTULO IX (antes del artículo 25)
+- CAPÍTULO X (antes del artículo 28)
+- DISPOSICIONES FINALES (antes del artículo 28)

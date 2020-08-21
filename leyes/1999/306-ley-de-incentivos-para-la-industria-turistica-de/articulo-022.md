@@ -6,7 +6,7 @@ El INTUR procederá a la redacción de los siguientes reglamentos y demás docum
 
 2) Reglamento de Conjunto de Preservación Histórica a elaborar en consenso con el INC.
 
-3) Reglamento de Alimentos, Bebidas y Diversiones, incluye programa y reglamento de Mansiones, Casinos a elaborar en consenso con el Ministerio de Hacienda y Crédito Público.
+3) Reglamento de Alimentos, Bebidas y Diversiones, incluye programa y reglamento de Mesones, Casinos a elaborar en consenso con el Ministerio de Hacienda y Crédito Público.
 
 4) Registro de Artesanos y de las Industrias Tradicionales; Registro de Música Típica y de Baile Folklórico en consenso con el INC.
 
@@ -14,10 +14,10 @@ El INTUR procederá a la redacción de los siguientes reglamentos y demás docum
 
 6) Reglamento de Concesiones.
 
-7) Reglamento de Fondo de Capital de Inversión Turística en consenso con el Banco Central de Nicaragua.
+7) Derogado.
 
-8) Reglamento de la Ley de Incentivos para la Industria Turística y de procedimiento para inscripciones en el Registro de Inversiones Turísticas.
+8) Reglamento de la Ley de Incentivos para la Industria Turística de la República de Nicaragua y de procedimiento para inscripciones en el Registro de Inversiones Turísticas.
 
 9) Registro de Inversiones Turísticas y modelo de Contrato Turístico de Inversión y Promoción.
 
-SANCIONES
+DE LA CREACIÓN DEL FONDO DE DESARROLLO TURÍSTICO

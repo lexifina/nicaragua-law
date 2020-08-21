@@ -1,3 +1,3 @@
 # Artículo 25
 
-Las sanciones a que hace referencia el Artículo anterior serán establecidas y aplicadas en el Reglamento de la presente Ley.
+En materia de sanciones se aplicarán las disposiciones establecidas en la Ley Nº. 562, Código Tributario de la República de Nicaragua.
