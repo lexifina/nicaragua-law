@@ -1,0 +1,7 @@
+# Artículo 4
+
+Naturaleza de las Z.E.P.D.T.
+
+Sin perjuicio de las disposiciones establecidas en la Ley Nº. 306, Ley de Incentivos para la Industria Turística de la República de Nicaragua, el INTUR además de reconocer los cuatro tipos de Z.E.P.D.T, reconoce previa identificación en relación a su potencial, nuevas áreas de interés, identificando una zonificación y categorización de los potenciales turísticos, sobre la base de organizar y facilitar la gestión del INTUR, tanto en los aspectos administrativos, de coordinación institucional, de promoción de inversiones para el establecimiento de estrategias de desarrollo y manejo de estas áreas, así como el reconocimiento de diez regiones turísticas.
+
+Las Z.E.P.D.T. están conformadas por un destino o un conjunto de destinos considerados como atractivos turísticos de particular importancia los que merecen la implementación de un plan de desarrollo turístico y a partir de estos se determinará la zonificación.
