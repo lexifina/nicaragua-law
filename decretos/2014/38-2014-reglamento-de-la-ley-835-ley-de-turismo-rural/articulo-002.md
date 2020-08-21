@@ -1,6 +1,6 @@
 # Artículo 2
 
-Definiciones y Abreviaturas.
+Definiciones y Abreviaturas
 
 Para los efectos del presente reglamento se establecen las siguientes Abreviaturas y definiciones:
 
@@ -26,9 +26,9 @@ Para los efectos del presente reglamento se establecen las siguientes Abreviatur
 
 - FAFA: Filtro Anaeróbico de Flujo Ascendente, es un sistema de tratamiento de aguas negras que descompone las bacterias para purificar el agua.
 
-- LTRS: Ley Nº 835: Ley de Turismo Rural Sostenible de la República de Nicaragua.
+- LTRS: Ley Nº. 835, Ley de Turismo Rural Sostenible de la República de Nicaragua.
 
-- MAG: Ministerio de Agricultura y Ganadería.
+- MAG: Ministerio Agropecuario.
 
 - MARENA: Ministerio del Ambiente y de los Recursos Naturales.
 

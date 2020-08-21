@@ -1,12 +1,14 @@
 # Artículo 8
 
-Todas las iniciativas de Turismo Rural Sostenible deberán contar con un plan de gestión ambiental: Conservar los recursos naturales a través de las siguientes medidas:
+Todas las iniciativas de Turismo Rural Sostenible deberán contar con un plan de gestión ambiental
+
+Conservar los recursos naturales a través de las siguientes medidas:
 
 1. De los Recursos Naturales.
 
 a.- Conocer el marco legal ambiental de Nicaragua y aplicarlo en sus actividades.
 
-b.- Adopción de una política de compras, donde la empresa promueva relaciones económicas con proveedores que implementan prácticas amigables con el medio ambiente y la sociedad, favoreciendo el uso de productos ambientalmente aceptados internacionalmente, libres de CFC, biodegradables y/o ecoamigables, para ser utilizados como insumos de construcción, bienes de capital, alimentos y consumibles.
+b.-Adopción de una política de compras, donde la empresa promueva relaciones económicas con proveedores que implementan prácticas amigables con el medio ambiente y la sociedad, favoreciendo el uso de productos ambientalmente aceptados internacionalmente, libres de CFC, biodegradables y/o ecoamigables, para ser utilizados como insumos de construcción, bienes de capital, alimentos y consumibles.
 
 c.- Adopción de una política de sostenibilidad, la cual debe ser publicada en sus materiales promocionales, dándola a conocer no sólo a sus clientes, si no a colaboradores, trabajadores y proveedores, en ella se debe destacar los esfuerzos de la empresa en el ámbito de la responsabilidad social, productiva, cultural, ambiental y económica.
 
@@ -18,7 +20,7 @@ f.- Elaborar un plan de manejo de los desechos sólidos y líquidos con metas cu
 
 g.- Promover programas de capacitación para sus trabajadores y la comunidad local, orientados a la conservación de los recursos, las fuentes de agua, la reducción de las quemas, el correcto uso de los desechos naturales, educación ambiental.
 
-h.- Evitar el uso de materiales contaminantes como empaques de polietileno. Implementar el reciclaje y el reutilización de las toallas.
+h.- Evitar el uso de materiales contaminantes como empaques de polietileno. Implementar el reciclaje y la reutilización de las toallas.
 
 i.- Trabajar para lograr asociarse con medios de comercialización que promuevan la conservación del patrimonio natural y cultural.
 
@@ -40,7 +42,7 @@ a.- En el caso de encontrarse dentro de un área protegida, cumplir con los aspe
 
 b.- Utilizar principios de construcción sostenibles en el diseño y construcción de infraestructura turística.
 
-c.- No mantener especies en cautiverio, de ser así deberá contar la infraestructura adecuada y el respectivo permiso del MARENA.
+c.- No mantener especies en cautiverio, de ser así deberá contar con la infraestructura adecuada y el respectivo permiso del MARENA.
 
 d.- Utilizar especies autóctonas para la creación de áreas verdes y reforestación, y evitar que se introduzcan especies exóticas invasoras.
 

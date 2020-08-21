@@ -1,9 +1,9 @@
-Dado en la Ciudad de Managua, Casa de Gobierno, República de Nicaragua, el día diecisiete de julio del año dos mil catorce. Daniel Ortega Saavedra, Presidente de la República de Nicaragua. - Paul Oquist Kelley, Secretario Privado para Políticas Nacionales.
+Dado en la Ciudad de Managua, Casa de Gobierno, República de Nicaragua, el día diecisiete de julio del año dos mil catorce. Daniel Ortega Saavedra, Presidente de la República de Nicaragua. Paul Oquist Kelley, Secretario Privado para Políticas Nacionales.
 
-Observación: El Artículo 15 del Decreto Ejecutivo N°. 38-2014, Reglamento de la Ley 835, Ley de Turismo Rural Sostenible de la República de Nicaragua, establece el veinte de febrero de cada año "Día del Turismo Rural Sostenible".
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por la Ley Nº. 906, Ley de Reformas y Adiciones a la Ley Nº. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en La Gaceta, Diario Oficial Nº. 163 del 28 de agosto de 2015.
 
-El Texto Consolidado del Decreto Ejecutivo N°. 38-2014, Reglamento de la Ley 835, Ley de Turismo Rural Sostenible de la República de Nicaragua, fue aprobado y publicado en la Ley del Digesto Jurídico Nicaragüense de la Materia de Turismo.
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los veinticinco días del mes de marzo del año dos mil veinte. MSP. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
 
-Ver Artículo 38 de la Ley N°. 1210, Ley General de Turismo, aprobada el 30 de julio del año 2024, publicada en la Gaceta, Diario Oficial N°. 141 del 02 de agosto del año 2024, que deroga la Ley que regula este reglamento.
+Observación: El Texto Consolidado, Decreto Ejecutivo Nº. 38-2014, Texto Consolidado, Decreto Ejecutivo Nº. 38-2014, Reglamento de la Ley 835, Ley de Turismo Rural Sostenible de la República de Nicaragua, se encuentra incorporado en el Anexo IV, Registro de Normas Consolidados de la Ley del Digesto Jurídico Nicaragüense de la Materia Turismo.
 
 .

@@ -1,6 +1,8 @@
 # Artículo 7
 
-Funcionamiento de la Comisión Nacional de Turismo Rural Sostenible. La CNTRS estará regida de conformidad con las siguientes disposiciones:
+Funcionamiento de la Comisión Nacional de Turismo Rural Sostenible
+
+La CNTRS estará regida de conformidad con las siguientes disposiciones:
 
 1. Habrá quórum con la presencia de ocho (8) de sus miembros.
 
