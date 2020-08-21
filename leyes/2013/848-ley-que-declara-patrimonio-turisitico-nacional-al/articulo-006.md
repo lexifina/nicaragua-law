@@ -4,17 +4,17 @@ Cooperación de las Instituciones Públicas
 
 Por mandato de la presente Ley, se dispone lo siguiente:
 
-A. Las instituciones públicas colaborarán estrechamente entre si en el ejercicio de sus funciones y competencias, para la conservación, fomento y difusión del Patrimonio Turístico del Municipio de Corn Island. Mediante relaciones recíprocas de plena comunicación, cooperación y asistencia mutua. En consecuencia corresponde:
+A. Las instituciones públicas colaborarán estrechamente entre sí en el ejercicio de sus funciones y competencias, para la conservación, fomento y difusión del Patrimonio Turístico del Municipio de Corn lsland, mediante relaciones recíprocas de plena comunicación, cooperación y asistencia mutua. En consecuencia corresponde:
 
 1) Al Instituto Nicaragüense de Turismo:
 
-a) Garantizar a través de la Comisión de Promoción Turística, creada por la Ley No. 724, “Ley de Reforma Parcial a la Ley No. 495, Ley General de Turismo”, a través de los Planes de Mercadeo y Promoción Turísticos, elaborar la estrategia y garantizar la implementación de una campaña integral, con la finalidad de promover, fomentar y desarrollar la actividad turística en el Municipio de Corn Island;
+a) Garantizar a través de la Comisión de Promoción Turística, creada por la Ley Nº. 724, Ley de Reforma Parcial a la Ley Nº. 495, Ley General de Turismo, a través de los Planes de Mercadeo y Promoción Turísticos, elaborar la estrategia y garantizar la implementación de una campaña integral, con la finalidad de promover, fomentar y desarrollar la actividad turística en el Municipio de Corn Island;
 
 b) Brindar capacitación y asesoría técnica a la micro, pequeña y mediana empresa turística del Municipio de Corn Island;
 
-c) Facilitar los trámites a la micro pequeña y mediana empresa turística del Municipio de Corn Island, para ser sujetos de créditos a través de Instituciones Financieras que trabajen con el ente rector;
+c) Facilitar los trámites a la micro, pequeña y mediana empresa turística del Municipio de Corn Island, para ser sujetos de créditos a través de Instituciones Financieras que trabajen con el ente rector;
 
-d) Ordenar y clasificar de la industria turística del Municipio de Corn Island:
+d) Ordenar y clasificar de la industria turística del Municipio de Corn Island;
 
 e) Elaborar el inventario de los Recursos y Patrimonio Turístico del Municipio de Corn Island. El Inventario debe establecer los lineamientos técnicos para la identificación, clasificación y categorización de los Recursos y Patrimonio Turístico del Municipio de Corn Island, debiendo contener lo siguiente:
 
@@ -32,7 +32,7 @@ a) Brindar la correspondiente asesoría técnica, asistencia y capacitación, pa
 
 4) Al Ministerio de Transporte e Infraestructura:
 
-a) Facilitar la creación de nuevas rutas de transporte acuático (El Rama – Bluefields – Corn Island y viceversa), que sean seguras, cómodas y accesibles económicamente a los ciudadanos y turistas que visitan el Municipio de Corn Island.
+a) Facilitar la creación de nuevas rutas de transporte acuático (El Rama - Bluefields - Corn Island y viceversa), que sean seguras, cómodas y accesibles económicamente a los ciudadanos y turistas que visitan el Municipio de Corn Island.
 
 5) Al Instituto Nicaragüense de Aeronáutica Civil:
 
@@ -46,4 +46,4 @@ a) Fortalecer y capacitar a la Policía Turística en el Municipio de Corn Islan
 
 a) Dar el debido aporte en el ámbito de la Asesoría Técnica, en la preparación de diseños de muelles o en la ampliación de la infraestructura de la terminal portuaria municipal, así como también el mejoramiento de la atención, información y prestación de Servicios de Transporte Acuático de Pasajeros y Cargas.
 
-B. Corresponde al Gobierno Municipal la misión de colaborar activamente en la protección, conservación y mejoramiento del Patrimonio Turístico del Municipio de Corn Island, con especial atención en el ordenamiento urbanístico, limpieza, ornato, mejoramiento de la red vial, ordenamiento y monitoreo del crecimiento poblacional.
+b) Corresponde al Gobierno Municipal la misión de colaborar activamente en la protección, conservación y mejoramiento del Patrimonio Turístico del Municipio de Corn lsland, con especial atención en el ordenamiento urbanístico, limpieza, ornato, mejoramiento de la red vial, ordenamiento y monitoreo del crecimiento poblacional.
