@@ -1,6 +1,8 @@
 # Artículo 27
 
-Prórroga para la ejecución del proyecto. El concesionario tendrá derecho a que se le conceda prórroga en el plazo de ejecución de la obra, por cualquiera de las siguientes causales:
+Prórroga para la ejecución del proyecto
+
+El concesionario tendrá derecho a que se le conceda prórroga en el plazo de ejecución de la obra, por cualquiera de las siguientes causales:
 
 1. Demora en la utilización, por parte del concesionario, del terreno en el cual se realizará la obra, por causas que no le sean imputables.
 

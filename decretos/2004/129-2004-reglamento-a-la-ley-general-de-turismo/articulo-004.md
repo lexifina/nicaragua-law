@@ -1,6 +1,8 @@
 # Artículo 4
 
-Promoción y mercadeo turístico. Para efectos del artículo 5 de la Ley, con relación a la Promoción y Mercadeo Turístico de la oferta turística nacional, el INTUR implementará los siguientes mecanismos:
+Promoción y mercadeo turístico
+
+Para efectos del Artículo 5 de la Ley, con relación a la Promoción y Mercadeo Turístico de la oferta turística nacional, el INTUR implementará los siguientes mecanismos:
 
 1. Solicitar auxilio y protección al turista.
 

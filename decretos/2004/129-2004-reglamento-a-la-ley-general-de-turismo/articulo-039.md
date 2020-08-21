@@ -1,6 +1,8 @@
 # Artículo 39
 
-Integración y Funcionamiento del Consejo . El Consejo estará integrado por un representante de cada una de las instituciones señaladas en el artículo 43 de la Ley, sea por su titular o por un funcionario designado con facultades suficientes para la toma de decisiones y con conocimiento en el ramo.
+Integración y Funcionamiento del Consejo
+
+El Consejo estará integrado por un representante de cada una de las instituciones señaladas en el Artículo 43 de la Ley, sea por su titular o por un funcionario designado con facultades suficientes para la toma de decisiones y con conocimiento en el ramo.
 
 Este Consejo trabajará en base a las funciones establecidas en el artículo anterior y se reunirá ordinariamente al menos cuatro (4) veces al año, pudiendo celebrar sesiones extraordinarias cuando así lo soliciten al menos la mitad más uno de sus miembros. Las convocatorias deben ser realizadas por el INTUR.
 

@@ -1,6 +1,8 @@
 # Artículo 21
 
-Consultas. Recibida la solicitud por el INTUR, éste procederá a evaluar su compatibilidad con lo contemplado en el Capítulo IV de la Ley No. 306. A tal efecto procederá a:
+Consultas
+
+Recibida la solicitud por el INTUR, éste procederá a evaluar su compatibilidad con lo contemplado en el Capítulo IV de la Ley Nº. 306. A tal efecto procederá a:
 
 1. Solicitar a la Dirección de Catastro Fiscal la designación de peritos para que rindan informes acerca del valor catastral del área.
 
@@ -10,4 +12,6 @@ Consultas. Recibida la solicitud por el INTUR, éste procederá a evaluar su com
 
 4. Solicitar la opinión del Ministerio de Transporte e Infraestructura (MTI), referente a los aspectos técnicos requeridos para la construcción de vías públicas.
 
-La Dirección de Operaciones y Evaluación de Inversiones del INTUR, elaborará el informe correspondiente, acompañando todos los antecedentes de la petición, la evaluación de la documentación recabada, así como su recomendación relativa a la solicitud de concesión, para la consideración y aprobación del Presidente del INTUR.
+La Dirección de Operaciones y Evaluación de Inversiones del INTUR, elaborará el informe correspondiente, acompañando todos los antecedentes de la petición, la evaluación de la documentación recabada, así como su recomendación relativa a la solicitud de concesión, para la consideración y aprobación del Codirector (a)
+
+del INTUR.

@@ -1,6 +1,8 @@
 # Artículo 33
 
-Descentralización en materia turística. Para el cumplimiento de los fines establecidos en el artículo 33 de la Ley, el INTUR en coordinación con los Gobiernos Regionales (RAAN - RAAS) y los Gobiernos Municipales, deberán conformar una Comisión de Asuntos Turísticos, integrada de la siguiente manera:
+Descentralización en materia turística
+
+Para el cumplimiento de los fines establecidos en el Artículo 33 de la Ley, el INTUR en coordinación con los Gobiernos Regionales (RACCN - RACCS) y los Gobiernos Municipales, deberán conformar una Comisión de Asuntos Turísticos, integrada de la siguiente manera:
 
 1. Un Delegado Departamental del INTUR.
 

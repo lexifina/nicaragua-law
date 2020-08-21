@@ -1,6 +1,8 @@
 # Artículo 24
 
-Requisitos del Contrato . El Contrato de Concesión Turística deberá contener, al menos lo siguiente:
+Requisitos del Contrato
+
+El Contrato de Concesión Turística deberá contener, al menos lo siguiente:
 
 1. Nombre, nacionalidad, domicilio y demás generales del concesionario.
 
@@ -14,7 +16,7 @@ Requisitos del Contrato . El Contrato de Concesión Turística deberá contener,
 
 6. Condiciones generales y especiales de la concesión y los derechos y obligaciones de las partes, incluyendo la obligación de pagar indemnizaciones si fuera procedente.
 
-7. Plazo de inicio de la obra que deberá ajustarse a lo dispuesto en el numeral 2 del artículo 20 de la Ley No. 306, así como la fecha de terminación de la misma.
+7. Plazo de inicio de la obra que deberá ajustarse a lo dispuesto en el numeral 2 del Artículo 20 de la Ley Nº. 306, así como la fecha de terminación de la misma.
 
 8. Indicación de que las vías públicas que se construyen en el área en concesión constituyen bienes de uso común y la obligación de su traspaso al Estado libre de costo.
 
@@ -22,4 +24,4 @@ Requisitos del Contrato . El Contrato de Concesión Turística deberá contener,
 
 10. Derecho del concesionario a realizar mejoras o rellenos sobre propiedades del Estado y/o de INTUR.
 
-La falta de cumplimiento de las obligaciones del concesionario y las demás establecidas en las Leyes vigentes, faculta INTUR a cancelar la concesión otorgada. El INTUR podrá incluir en los Contratos de Concesión Turística las condiciones que considere conveniente, siempre que no se opongan al interés público, al ordenamiento jurídico de los privilegio y prerrogativas del Estado, las que no podrán ser objeto de limitación, negociación o renuncia por parte del INTUR.
+La falta de cumplimiento de las obligaciones del concesionario y las demás establecidas en las Leyes vigentes, faculta al INTUR a cancelar la concesión otorgada. El INTUR podrá incluir en los Contratos de Concesión Turística las condiciones que considere conveniente, siempre que no se opongan al interés público, al ordenamiento jurídico de los privilegio y prerrogativas del Estado, las que no podrán ser objeto de limitación, negociación o renuncia por parte del INTUR.

@@ -1,6 +1,8 @@
 # Artículo 66
 
-Actuaciones de los Inspectores Turísticos. Los inspectores turísticos actuarán a través de los siguientes medios:
+Actuaciones de los Inspectores Turísticos
+
+Los inspectores turísticos actuarán a través de los siguientes medios:
 
 1. Documentación:
 

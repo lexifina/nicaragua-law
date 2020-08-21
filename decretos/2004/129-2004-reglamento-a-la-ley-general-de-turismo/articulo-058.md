@@ -1,6 +1,8 @@
 # Artículo 58
 
-Procedimiento para la Mediación. El Procedimiento para la mediación será el siguiente:
+Procedimiento para la Mediación
+
+El Procedimiento para la mediación será el siguiente:
 
 1. Interpuesta la denuncia de parte del usuario, el Departamento de Empresas y Actividades Turísticas citará como máximo dos (2) veces a las partes, a la sesión de mediación, donde ambas expondrán lo que tengan a bien.
 

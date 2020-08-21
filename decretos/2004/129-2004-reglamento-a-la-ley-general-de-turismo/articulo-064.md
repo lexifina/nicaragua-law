@@ -1,6 +1,8 @@
 # Artículo 64
 
-Funciones de los Inspectores Turísticos. Para el cumplimiento efectivo del artículo anterior, es obligación del INTUR designar a los Inspectores Turísticos, los cuales tendrán las funciones siguientes:
+Funciones de los Inspectores Turísticos
+
+Para el cumplimiento efectivo del artículo anterior, es obligación del INTUR designar a los Inspectores Turísticos, los cuales tendrán las funciones siguientes:
 
 1. La supervisión y comprobación del cumplimiento de las disposiciones establecidas para la materia.
 
@@ -12,4 +14,4 @@ Funciones de los Inspectores Turísticos. Para el cumplimiento efectivo del art�
 
 5. Dar seguimiento a las medidas de recomendación emitidas por el Departamento de Empresas y Actividades Turísticas de INTUR o por Resolución especial en caso de denuncias.
 
-6 Todas aquellas funciones que se le puedan atribuir para el control de la calidad de la actividad turística.
+6. Todas aquellas funciones que se le puedan atribuir para el control de la calidad de la actividad turística.

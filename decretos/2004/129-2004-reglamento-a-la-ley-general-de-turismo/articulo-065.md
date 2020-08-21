@@ -1,6 +1,8 @@
 # Artículo 65
 
-Facultades y Deberes de los Inspectores Turísticos. Son facultades y deberes de los Inspectores Turísticos, las siguientes:
+Facultades y Deberes de los Inspectores Turísticos
+
+Son facultades y deberes de los Inspectores Turísticos, las siguientes:
 
 1. En el ejercicio de su función tendrán el carácter de autoridad, pudiendo auxiliarse de la autoridad policial y administrativa necesaria en el ámbito de su competencia.
 

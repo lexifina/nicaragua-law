@@ -1,6 +1,8 @@
 # Artículo 75
 
-Graduación de las sanciones. La imposición de las sanciones se graduará valorando las siguientes circunstancias:
+Graduación de las sanciones
+
+La imposición de las sanciones se graduará valorando las siguientes circunstancias:
 
 1.1 La gravedad de los perjuicios ocasionados.
 
@@ -24,4 +26,4 @@ Graduación de las sanciones. La imposición de las sanciones se graduará valor
 
 Las infracciones tipificadas como graves o muy graves podrán ser sancionadas con la sanción inmediatamente inferior a la señalada, cuando por su entidad, trascendencia, naturaleza, ocasión o circunstancias se produjera una desproporción manifiesta, entre la sanción a imponer y la infracción cometida.
 
-Sin embargo, cuando se trate de aplicación de sanciones administrativas por haber incurrido en el ejercicio de la actividad turística en Nicaragua en promover, contribuir, fomentar, ejecutar y coordinar actividades dirigidas hacia la comisión de objetivos sexuales penados por las leyes de la República, no aplicará la graduación de las sanciones y se procederá de conformidad al numeral 5 del artículo 74 de este Reglamento.
+Sin embargo, cuando se trate de aplicación de sanciones administrativas por haber incurrido en el ejercicio de la actividad turística en Nicaragua en promover, contribuir, fomentar, ejecutar y coordinar actividades dirigidas hacia la comisión de objetivos sexuales penados por las leyes de la República, no aplicará la graduación de las sanciones y se procederá de conformidad al numeral 5 del Artículo 74 de este Reglamento.

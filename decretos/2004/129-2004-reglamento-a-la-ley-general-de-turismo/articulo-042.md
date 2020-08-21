@@ -1,6 +1,8 @@
 # Artículo 42
 
-Funciones de INTUR. Son funciones del INTUR, referentes al ejercicio del turismo social las siguientes:
+Funciones de INTUR
+
+Son funciones del lNTUR, referentes al ejercicio del turismo social las siguientes:
 
 1. Proponer la coordinación y creación de acciones con las instituciones del sector público y privado para desarrollar programas de promoción de atractivos turísticos a nivel nacional.
 

@@ -1,6 +1,8 @@
 # Artículo 7
 
-Funciones. Son funciones del Consejo Nacional Pro Limpieza y Ornato las siguientes:
+Funciones
+
+Son funciones del Consejo Nacional Pro Limpieza y Ornato las siguientes:
 
 1. Elaborar planes estratégicos para el mantenimiento, conservación, limpieza, la protección al medio ambiente y el patrimonio nacional.
 

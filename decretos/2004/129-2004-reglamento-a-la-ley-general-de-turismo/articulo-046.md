@@ -1,12 +1,14 @@
 # Artículo 46
 
-Requisitos para el ejercicio del derecho. En cumplimiento al artículo 59 numeral h) de la Ley, será aplicable a los prestadores de servicios de la industria turística contenidos en los numerales a), b), c), i),j) y k) del artículo 57 de la misma, los cuales deberán presentar los siguientes documentos:
+Requisitos para el ejercicio del derecho
+
+En cumplimiento al Artículo 59 numeral h) de la Ley, será aplicable a los prestadores de servicios de la industria turística contenidos en los numerales a), b), c), i), j) y k) del Artículo 57 de la misma, los cuales deberán presentar los siguientes documentos:
 
 1. Solicitud por escrito al ente regulador.
 
-2. Constancia de esta debidamente inscrito en el Registro Nacional de Turismo y no presentar antecedentes por infracciones y violaciones a las leyes y reglamento en materia turística.
+2. Constancia de estar debidamente inscrito en el Registro Nacional de Turismo y no presentar antecedentes por infracciones y violaciones a las leyes y reglamento en materia turística.
 
-3. Presentar el Título de Licencia para operar vigente, en la categoría turística del establecimiento al cual aplica.
+3. Presentar el Título - Licencia para operar vigente, en la categoría turística del establecimiento al cual aplica.
 
 4. Encontrarse solvente en el pago de sus facturas por servicios de consumo energía eléctrica o en su defecto demostrar que se encuentre en proceso de reclamo.
 

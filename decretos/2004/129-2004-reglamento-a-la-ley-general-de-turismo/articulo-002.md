@@ -1,65 +1,85 @@
 # Artículo 2
 
-Referencias. Para los efectos del presente Reglamento se entenderá por:
+Referencias
 
-1. INTUR : Instituto Nicaragüense de Turismo.
+Para los efectos del presente Reglamento se entenderá por:
 
-2. SECEP : Secretaria de Coordinación y Estrategia de la Presidencia de la República.
+1. INTUR: Instituto Nicaragüense de Turismo.
 
-3. MHCP : Ministerio de Hacienda y Crédito Público.
+2. SEPRES: Secretaría de la Presidencia.
 
-4. DGI : Dirección General de Ingresos.
+3. MHCP: Ministerio de Hacienda y Crédito Público.
 
-5. DGSA : Dirección General de Servicios Aduaneros.
+4. DGI: Dirección General de Ingresos.
 
-6. MIFIC : Ministerio de Fomento, Industria y Comercio.
+5. DGA: Dirección General de Servicios Aduaneros.
 
-7. MTI : Ministerio de Transporte e Infraestructura.
+6. MIFIC: Ministerio de Fomento, Industria y Comercio.
 
-8. MARENA : Ministerio del Ambiente y de los Recursos Naturales.
+7. MTI: Ministerio de Transporte e Infraestructura.
 
-9. MINSA : Ministerio de Salud.
+8. MARENA: Ministerio del Ambiente y de los Recursos Naturales.
 
-10. MIGOB : Ministerio de Gobernación.
+9. MINSA: Ministerio de Salud.
 
-11. MECD : Ministerio de Educación, Cultura y Deportes.
+10. MIGOB: Ministerio de Gobernación.
 
-12. INIFOM : Instituto Nicaragüense de Fomento Municipal.
+11. MEO: Ministerio de Educación.
 
-13. AMUNIC : Asociación de Municipios de Nicaragua.
+12. INIFOM: Instituto Nicaragüense de Fomento Municipal.
 
-14. INATEC : Instituto Nacional Tecnológico.
+13. AMUNIC: Asociación de Municipios de Nicaragua.
 
-15. INPYME : Instituto Nicaragüense de la Pequeña y Mediana Empresa.
+14. INATEC: Instituto Nacional Tecnológico.
 
-16. CNU : Consejo Nacional de Universidades.
+15. INPYME: Instituto Nicaragüense de la Pequeña y Mediana Empresa.
 
-17. RAAS : Región Autónoma del Atlántico Sur.
+16. CNU: Consejo Nacional de Universidades.
 
-18. RAAN : Región Autónoma del Atlántico Norte.
+17. RACCS: Región Autónoma de la Costa Caribe Sur.
 
-19. CANATUR : Cámara Nacional de Turismo.
+18. RACCN: Región Autónoma de la Costa Caribe Norte.
 
-20. CANTUR : Cámara Nicaragüense de la Pequeña y Mediana Empresa Turística.
+19. CANATUR: Cámara Nacional de Turismo.
 
-21. CANIMET : Cámara Nicaragüense de la Micro, Pequeña y Mediana Empresa Turística.
+20. CANTUR: Cámara Nicaragüense de la Pequeña y Mediana Empresa Turística.
 
-22. CD : Consejo Directivo del Instituto Nicaragüense de Turismo.
+21. CANIMET: Cámara Nicaragüense de la Micro, Pequeña y Mediana Empresa Turística.
+
+22. CD: Consejo Directivo del Instituto Nicaragüense de Turismo.
 
 23. JIT: Junta de Incentivos Turísticos.
 
-24. CITUR : Consejo Inter universitario de Turismo.
+24. CITUR: Consejo lnter universitario de Turismo.
 
-25. CCT : Consejo Centroamericano de Turismo.
+25. CCT: Consejo Centroamericano de Turismo.
 
-26. CNP : Consejo Nacional Pro Limpieza y Ornato.
+26. CNP: Consejo Nacional Pro Limpieza y Ornato.
 
-27. CNC : Consejo Nacional Consultivo de Capacitación y Patrimonio Turístico.
+27. CNC: Consejo Nacional Consultivo de Capacitación y Patrimonio Turístico.
 
-28. RNT : Registro Nacional de Turismo.
+28. RNT: Registro Nacional de Turismo
 
-29. PNDT : Plan Nacional de Desarrollo Turístico.
+29. PNDT: Plan Nacional de Desarrollo Turístico.
 
-30. ZEPDT : Zonas Especiales de Planeamiento y Desarrollo Turístico.
+30. ZEPDT: Zonas Especiales de Planeamiento y Desarrollo Turístico.
 
-31. SNCT : Sistema Nacional de Calidad Turística.
+31. SNCT: Sistema Nacional de Calidad Turística.
+
+32. ALA: Asociación de Líneas Aéreas.
+
+33. C.L.V.: Convenio Libre Visado: convenio entre países para el no requerimiento de la autorización consular para ingresar al País.
+
+34. C.P.T.: Comisión de Promoción Turística.
+
+35. O.A.: Derecho de Admisión.
+
+36. l.D.O.: Ingreso de Operaciones.
+
+37. l.A.T.A.: Asociación Internacional de Transporte Aéreo.
+
+38. Ley: Ley Nº. 495, Ley General de Turismo de la República de Nicaragua.
+
+39. T.G.C.: Transferencia del Gobierno Central.
+
+40. T.T.: Tarjeta de Turismo: Documento oficial extendido por el INTUR para extranjeros que ingresan al territorio Nacional por cualquier puesto migratorio y su valor se destina para el fortalecimiento de los planes de fomento, promoción y mercadeo del país como un destino turístico, diverso, accesible y seguro.

@@ -1,6 +1,8 @@
 # Artículo 44
 
-Prestadores de Servicios Turísticos. Se consideran prestadores de servicios de la Industria Turística las siguientes empresas:
+Prestadores de Servicios Turísticos
+
+Se consideran prestadores de servicios de la Industria Turística las siguientes empresas:
 
 1. Servicios de alojamiento.
 
@@ -12,13 +14,13 @@ Prestadores de Servicios Turísticos. Se consideran prestadores de servicios de 
 
 2.1 Restaurantes con o sin bares.
 
-2.2 Bares y cafeterías.
+2.2 Bares y cafeterías
 
 2.3 Establecimientos de comida rápida.
 
-2.4 Snack Bar.
+2.4 Snack Bar
 
-2.5 Mesones de Nicaragua.
+2.5 Mesones de Nicaragua
 
 3. Entretenimiento y centros nocturnos.
 
@@ -32,7 +34,7 @@ Prestadores de Servicios Turísticos. Se consideran prestadores de servicios de 
 
 3.5 Coliseos Gallísticos.
 
-3.6 Plazas de Toros.
+3 .6 Plazas de Toros.
 
 3.7 Hipódromos y otras instalaciones de Carreras con Sistemas de Apuestas.
 
@@ -82,7 +84,7 @@ Prestadores de Servicios Turísticos. Se consideran prestadores de servicios de 
 
 10.2 Lacustre.
 
-10.3 Acuático.
+10.3 Acuático
 
 11. Parques de atracciones turísticas permanentes (parques temáticos).
 

@@ -1,6 +1,8 @@
 # Artículo 34
 
-Funciones de la Comisión. La Comisión deberá ejecutar las siguientes acciones:
+Funciones de la Comisión
+
+La Comisión deberá ejecutar las siguientes acciones:
 
 1. Crear un banco de datos de información estadística y de planificación que determinen los parámetros y condiciones para la prestación de servicios relativos a la oferta, demanda y atractivos turísticos propios de cada municipio.
 
@@ -18,7 +20,7 @@ Esta información deberá ser suministrada al INTUR, por las autoridades Regiona
 
 7. Elaborar programas de señalización y orientación hacia los sitios de interés turístico, histórico, cultural y ambiental.
 
-8. Promover planes y campañas de limpieza, con normas y sanciones especificas que garanticen su eficiente realización.
+8. Promover planes y campañas de limpieza, con normas y sanciones específicas que garanticen su eficiente realización.
 
 9. Poner en valor y defender el Patrimonio Natural y Cultural.
 
