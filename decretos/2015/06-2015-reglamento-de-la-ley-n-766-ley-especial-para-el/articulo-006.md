@@ -1,8 +1,6 @@
 # Artículo 6
 
-Calidades del Director o Directora de la Oficina de Casinos y Salas de Juegos.
-
-El Director o Directora de la Oficina de Casinos y Salas de Juegos tendrá las siguientes calidades:
+Calidades del Director o Directora de la Oficina de Casinos y Salas de Juegos de Azar El Director o Directora de la Oficina de Casinos y Salas de Juegos de Azar tendrá las siguientes calidades:
 
 - Ser nacional de Nicaragua.
 

@@ -1,14 +1,14 @@
-REGLAMENTO DE LA LEY No. 766 "LEY ESPECIAL PARA EL CONTROL Y REGULACIÓN DE CASINOS Y SALAS DE JUEGOS DE AZAR"
+TEXTO CONSOLIDADO, REGLAMENTO DE LA LEY Nº. 766, LEY ESPECIAL PARA EL CONTROL Y REGULACIÓN DE CASINOS Y SALAS DE JUEGOS DE AZAR
 
-DECRETO EJECUTIVO N°. 06-2015, aprobado el 25 de febrero del 2015
+DECRETO EJECUTIVO Nº. 06-2015, aprobado el 16 de julio de 2020
 
-Publicado en La Gaceta, Diario Oficial N°. 47 del 10 de marzo del 2015
+Publicado en La Gaceta, Diario Oficial N°. 156 del 21 de agosto de 2020
 
-Gobierno de Reconciliación y Unidad Nacional
+Digesto Jurídico Nicaragüense de la Materia de Turismo
 
-Unida Nicaragua Triunfa
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 25 de marzo de 2020, del Decreto Ejecutivo Nº. 06-2015, Reglamento de la Ley Nº. 766, Ley Especial para el Control y Regulación de Casinos y Salas de Juegos de Azar, aprobado el 25 de febrero de 2015 y publicado en La Gaceta, Diario Oficial Nº. 47 del 10 de marzo de 2015, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1026, Ley del Digesto Jurídico Nicaragüense de la Materia de Turismo, aprobada el 25 de marzo de 2020.
 
-DECRETO EJECUTIVO No. 06-2015
+DECRETO Nº. 06-2015
 
 El Presidente de la República de Nicaragua
 
@@ -22,7 +22,7 @@ El siguiente:
 
 DECRETO
 
-REGLAMENTO DE LA LEY No. 766 "LEY ESPECIAL PARA EL CONTROL Y REGULACIÓN DE CASINOS Y SALAS DE JUEGOS DE AZAR"
+REGLAMENTO DE LA LEY Nº. 766 LEY ESPECIAL PARA EL CONTROL Y REGULACIÓN DE CASINOS Y SALAS DE JUEGOS DE AZAR
 
 CAPÍTULO I
 

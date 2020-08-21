@@ -1,8 +1,8 @@
 # Artículo 25
 
-Del Contenido del Permiso de Funcionamiento.
+Del Contenido del Permiso de Funcionamiento
 
-Para efecto de cumplimiento del artículo 26 de la Ley, relacionado con el contenido del permiso de funcionamiento de Casino y Salas de Juegos de Azar, éste indicará además lo siguiente:
+Para efecto de cumplimiento del Artículo 26 de la Ley, relacionado con el contenido del permiso de funcionamiento de Casinos y Salas de Juegos de Azar, éste indicará además lo siguiente:
 
 a. Nombre o razón social del Operador.
 

@@ -7,5 +7,5 @@
 - CAPÍTULO VII (antes del artículo 36)
 - CAPÍTULO VIII (antes del artículo 39)
 - CAPÍTULO IX (antes del artículo 42)
-- CAPÍTULO X. (antes del artículo 46)
-- DISPOSICIONES FINALES. (antes del artículo 46)
+- CAPÍTULO X (antes del artículo 46)
+- DISPOSICIONES FINALES (antes del artículo 46)

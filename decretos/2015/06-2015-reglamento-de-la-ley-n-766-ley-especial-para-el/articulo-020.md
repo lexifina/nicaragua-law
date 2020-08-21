@@ -1,6 +1,6 @@
 # Artículo 20
 
-De las Especificidades del Catálogo de Juegos.
+De las Especificidades del Catálogo de Juegos
 
 Sin perjuicio de las demás disposiciones que establezca por normativa la Autoridad de Aplicación, en el catálogo de juegos se especificará lo siguiente:
 

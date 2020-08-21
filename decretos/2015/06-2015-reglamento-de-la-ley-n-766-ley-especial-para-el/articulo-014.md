@@ -1,8 +1,8 @@
 # Artículo 14
 
-De las Categorías de Casinos y Salas de Juegos de Azar.
+De las Categorías de Casinos y Salas de Juegos de Azar
 
-De conformidad con lo establecido en la Ley, solamente serán reconocidos como Casinos y Salas de Juegos de Azar, aquellos establecimientos que se encuentren dentro de las categorías que determina el artículo 9 de la Ley. Aquellos establecimientos no enmarcados en alguna de las categorías mencionadas en la Ley, no serán considerados como Casinos y Salas de Juegos de Azar y como consecuencia no podrán ser autorizados ni podrán funcionar en ninguna parte del territorio nacional, bajo ninguna modalidad ni régimen de excepción.
+De conformidad con lo establecido en la Ley, solamente serán reconocidos como Casinos y Salas de Juegos de Azar, aquellos establecimientos que se encuentren dentro de las categorías que determina el Artículo 9 de la Ley. Aquellos establecimientos no enmarcados en alguna de las categorías mencionadas en la Ley, no serán considerados como Casinos y Salas de Juegos de Azar y como consecuencia no podrán ser autorizados ni podrán funcionar en ninguna parte del territorio nacional, bajo ninguna modalidad ni régimen de excepción.
 
 En casos de dudas en lo relativo a la categoría a la que pudiere pertenecer un determinado establecimiento, la Autoridad de Aplicación deberá definir y determinar dicha categoría en base a los criterios, términos y condiciones mínimos siguientes:
 
@@ -10,7 +10,7 @@ En casos de dudas en lo relativo a la categoría a la que pudiere pertenecer un 
 
 2. Condiciones propias de infraestructura del establecimiento.
 
-3. Ubicación geográfica del establecimiento
+3. Ubicación geográfica del establecimiento.
 
 4. Densidad demográfica de la localidad.
 

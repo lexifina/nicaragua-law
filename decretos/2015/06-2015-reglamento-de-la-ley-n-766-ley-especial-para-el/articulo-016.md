@@ -1,6 +1,6 @@
 # Artículo 16
 
-Requisitos Particulares Aplicable a los Casinos y Salas de Juegos de Azar.
+Requisitos Particulares Aplicable a los Casinos y Salas de Juegos de Azar
 
 Los Casinos y Salas de Juegos de Azar deberán cumplir con las siguientes disposiciones particulares:
 

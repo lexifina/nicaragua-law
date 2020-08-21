@@ -1,8 +1,8 @@
 # Artículo 24
 
-De los Requisitos Adicionales para Obtener el Permiso de Funcionamiento.
+De los Requisitos Adicionales para Obtener el Permiso de Funcionamiento
 
-Para efectos de obtener el Permiso de Funcionamiento conforme el art. 25 de la Ley, el interesado deberá cumplir además los siguientes requisitos:
+Para efectos de obtener el Permiso de Funcionamiento conforme el Artículo 25 de la Ley, el interesado deberá cumplir además los siguientes requisitos:
 
 a. Carta de solicitud dirigida al Ministro de Hacienda y Crédito Público.
 
@@ -16,12 +16,12 @@ e. Relación numerada de las mesas de juego que están en operación, indicando 
 
 f. Relación de otros juegos de apuestas que estén operando.
 
-g. Certificado Policial establecido en el literal d del artículo 2 y artículo 23 numeral 6 del presente reglamento.
+g. Certificado Policial establecido en el literal d del Artículo 2 y Artículo 23 numeral 6 del presente Reglamento.
 
 h. Certificado vigente emitido por la Dirección General de Bomberos que certifique que el inmueble cumple con los requisitos de seguridad.
 
-i. Certificado vigente del Ministerio de Salud que certifique que el Casino o Sala de Juego de azar cumple con todos los requisitos de prevención y control sanitario que determinan las leyes de la materia.
+i. Certificado vigente del Ministerio de Salud que certifique que el Casino o Sala de Juego de Azar cumple con todos los requisitos de prevención y control sanitario que determinan las leyes de la materia.
 
-j. Certificación de Acta de Junta Directiva vigente, que indique la autorización para obtener el permiso de funcionamiento del Casino o Sala de Juego de azar, si el solicitante es una Persona Jurídica.
+j. Certificación de Acta de Junta Directiva vigente, que indique la autorización para obtener el permiso de funcionamiento del Casino o Sala de Juego de Azar, si el solicitante es una Persona Jurídica.
 
-k. Fotocopia debidamente certificada por Notario Público, del comprobante de pago del Permiso de Funcionamiento según los aranceles establecidos en el artículo 25 numeral 12 de la Ley.
+k. Fotocopia debidamente certificada por Notario Público, del comprobante de pago del Permiso de Funcionamiento según los aranceles establecidos en el Artículo 25 numeral 12 de la Ley.

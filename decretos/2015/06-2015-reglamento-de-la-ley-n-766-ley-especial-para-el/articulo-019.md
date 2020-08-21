@@ -1,8 +1,8 @@
 # Artículo 19
 
-Del Catálogo de Juegos.
+Del Catálogo de Juegos
 
-De conformidad a lo establecido en el numeral 3 del artículo 2 de la Ley, la Autoridad de Aplicación deberá aprobar y modificar mediante resolución el Catálogo de Juegos, en base a los siguientes criterios:
+De conformidad a lo establecido en el numeral 3 del Artículo 2 de la Ley, la Autoridad de Aplicación deberá aprobar y modificar mediante resolución el Catálogo de Juegos, en base a los siguientes criterios:
 
 1. Que no sean contrarios al orden público y que no causen perjuicios a terceros.
 
