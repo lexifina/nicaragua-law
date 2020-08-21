@@ -1,6 +1,6 @@
 # Artículo 35
 
-Las empresas de servicios como de industria turística ,inscritas en el Registro Nacional de Turismo y autorizadas por las municipalidades respectivas, tendrán los siguientes derechos:
+Las empresas de servicios como de industria turística, inscritas en el Registro Nacional de Turismo y autorizadas por las municipalidades respectivas, tendrán los siguientes derechos:
 
 1) Ser incluidos en los directorios y guías que elabore el "INTUR".
 
@@ -14,4 +14,4 @@ Las empresas de servicios como de industria turística ,inscritas en el Registro
 
 6) Participar en los programas de capacitación turística que promueva o lleve a cabo el "INTUR".
 
-7) Participar en la formación de Distritos Industriales Turísticos que el Gobierno a través del PAMIC, promueve como política de desarrollo de la pequeña, mediana y micro empresa.
+7) Participar en la formación de Distritos Industriales Turísticos que el Gobierno a través del INPYME, promueve como política de desarrollo de la pequeña, mediana y micro empresa.

@@ -2,7 +2,7 @@
 
 Es patrimonio exclusivo del INTUR, lo siguiente:
 
-1) Los fondos, bienes, derechos y acciones pertenecientes al Instituto Nicaragüense de Turismo, creado por Decreto No. 161 del 14 de Noviembre de 1979 y del Ministerio de Turismo, creado por Decreto No. 1-93 del 9 de Enero de 1993.
+1) Los fondos, bienes, derechos y acciones pertenecientes al Instituto Nicaragüense de Turismo, creado por Decreto Nº. 161 del 14 de noviembre de 1979 y del Ministerio de Turismo, creado por Decreto Nº. 1-93 del 9 de enero de 1993.
 
 2) Todos los inmuebles que adquiera, sea por donación, por compra o por cualquiera de las otras formas que las leyes autorizan.
 

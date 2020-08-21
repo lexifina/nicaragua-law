@@ -1,6 +1,8 @@
 # Artículo 12
 
-Atribuciones del Consejo Directivo. Para el debido cumplimiento de sus atribuciones, el Consejo Directivo, tendrá las siguientes funciones:
+Atribuciones del Consejo Directivo
+
+Para el debido cumplimiento de sus atribuciones, el Consejo Directivo, tendrá las siguientes funciones:
 
 1) Definir la política nacional en materia turística.
 

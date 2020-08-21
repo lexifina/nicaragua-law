@@ -12,7 +12,7 @@ Se consideran empresas de servicios como de industria turística, las siguientes
 
 5) Oficinas o Agencias de guías de turismo.
 
-6) Restaurantes, cafeterías, bares, ranchos de diversión, centro nocturnos, casinos o salas de juegos y similares.
+6) Restaurantes, cafeterías, bares, ranchos de diversión, centros nocturnos, casinos o salas de juegos y similares.
 
 7) Centros de exhibición y venta de artesanías y toda obra de artes manuales.
 

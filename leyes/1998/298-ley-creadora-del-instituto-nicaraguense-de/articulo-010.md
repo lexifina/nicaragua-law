@@ -1,19 +1,33 @@
 # Artículo 10
 
-El Consejo Directivo a cuyo cargo estará la dirección y administración superior del "INTUR" se integrará de la siguiente manera:
+El Consejo Directivo es la máxima autoridad administrativa para la dirección y administración del INTUR, siendo una entidad colegiada con participación de instituciones del sector público y de organizaciones del sector turístico privado integrado de la siguiente manera:
 
-1) El Presidente, quién lo presidirá o el Vice Presidente en su defecto.
+1) La Codirectora o Codirector General y Administrativo del Instituto Nicaragüense de Turismo, quien lo presidirá.
 
-2) Un representante del Ministerio de Salud.
+2) El Ministro de Hacienda y Crédito Público.
 
-3) Un representante del Ministerio de Fomento, Industria y Comercio.
+3) El Ministro de Economía Familiar, Comunitaria, Cooperativa y Asociativa.
 
-4) Un representante del Ministerio de Hacienda y Crédito Público.
+4) El Ministro de Fomento, Industria y Comercio.
 
-5) Un representante del Ministerio de Transporte e Infraestructura.
+5) El Ministro de Transporte e Infraestructura.
 
-6) Un representante del Ministerio del Ambiente y de los Recursos Naturales.
+6) El Ministro del Ambiente y de los Recursos Naturales.
 
-7) Cinco representantes del Sector Privado Nacional, con reconocida experiencia y representatividad en el ramo del turismo de una lista presentada por la Cámara Nacional de Turismo y otras asociaciones de la Industria Turística con su personería jurídica, tomando en cuenta los principales polos de desarrollo turístico (Matagalpa, Estelí, Jinotega, Costa Atlántica, Centro y Pacífico) .
+7) El Ministro de Salud.
 
-8) Un representante de cada gobierno regional de la Costa Atlántica.
+8) El Presidente Ejecutivo del Instituto Nicaragüense de Fomento Municipal.
+
+9) El Director Ejecutivo de la Asociación de Municipios de Nicaragua.
+
+10) Un Representante de la Región Autónoma del Caribe Sur.
+
+11) Un Representante de la Región Autónoma del Caribe Norte.
+
+12) Un representante por la Cámara Nacional de Turismo de Nicaragua; un representante por la Cámara Nicaragüense de la Pequeña y Mediana Industria Turística y un representante por la Cámara Nicaragüense de Microempresarios Turísticos, y tres (3) miembros más del sector privado nombrados por el Presidente de la República, para un total de seis (6) miembros.
+
+13) Un miembro de la Comisión de Turismo de la Asamblea Nacional, en calidad de observador, Nombrado por esta Comisión.
+
+En los casos de los numerales del 1 al 9, deberán los funcionarios señalados asistir a las reuniones del Consejo Directivo, pudiendo delegar a un funcionario de alto nivel con capacidad de decisión. Los miembros señalados en el inciso 12, del presente artículo, tendrán derecho a voz y no a voto, cuando este Consejo trate asuntos relacionados a concesiones o incentivos otorgados por la Ley.
+
+Ninguno de los miembros del Consejo recibirá beneficio pecuniario distinto del salario en la institución que representa.

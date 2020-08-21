@@ -1,6 +1,6 @@
 # Artículo 40
 
-La inscripción en el Registro Nacional de Turismo y la obtención del Título Licencia, según corresponda, podrán cancelarse en los siguientes casos:
+La inscripción en el Registro Nacional de Turismo y la obtención del Título – Licencia, según corresponda, podrán cancelarse en los siguientes casos:
 
 1) Por solicitud expresa de la empresa de servicios turísticos cuando cese en sus operaciones.
 
