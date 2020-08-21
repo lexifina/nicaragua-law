@@ -6,7 +6,7 @@ Las Empresas de Servicios Turísticos que obtengan su inscripción en el Registr
 
 2) Difundir la categoría que corresponda a la calidad de sus servicios;
 
-3) Participar en los programas de promoción coordinador por "INTUR";
+3) Participar en los programas de promoción coordinados por "INTUR";
 
 4) Participar en los programas de capacitación turística que promueva o lleve a cabo "INTUR", y
 

@@ -1,6 +1,6 @@
 # Artículo 33
 
-Son obligaciones de las Empresas de Servicios Turísticos a que se refiere el Arto. 29 de la Ley Creadora, las siguientes:
+Son obligaciones de las Empresas de Servicios Turísticos a que se refiere el Artículo 29 de la Ley Creadora, las siguientes:
 
 1) Cumplir con lo que dispone la Ley Creadora, este Reglamento y demás normas y disposiciones que regulen su funcionamiento;
 

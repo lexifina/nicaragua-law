@@ -10,6 +10,6 @@ Los hoteles y demás servicios de hospedaje, deberán:
 
 4) Los hoteles y demás servicios de hospedaje serán responsables ante "INTUR" de la buena conservación de ese libro y no poner obstáculos a quienes puedan utilizarlos;
 
-5) "INTUR" podrá efectuar revisiones periódicas en cada Libro Oficial de de Reclamaciones entregados a los hoteles y demás servicios de hospedaje, y
+5) "INTUR" podrá efectuar revisiones periódicas en cada Libro Oficial de Reclamaciones entregados a los hoteles y demás servicios de hospedaje, y
 
 6) El incumplimiento de estas disposiciones dará lugar a que "INTUR" aplique las sanciones establecidas en el Artículo 42 de la Ley Creadora.

@@ -1,6 +1,6 @@
 # Artículo 16
 
-El Secretario General es nombrado por el Presidente de "INTUR", y desempeñará las funciones siguientes:
+El Secretario General es nombrado por el Codirector o Codirectora de "INTUR'', y desempeñará las funciones siguientes:
 
 1) Asistir a las sesiones del Consejo Directivo con derecho a voz, pero sin voto;
 
