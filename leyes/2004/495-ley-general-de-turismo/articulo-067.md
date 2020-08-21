@@ -14,6 +14,4 @@ e) Cumplir las prescripciones y reglas particulares de los establecimientos o de
 
 f) Brindar información en los casos requeridos, principalmente a fines de elaborar informes estadísticos.
 
-Sección 2:
-
-De La Protección al Turista.
+Sección 2 De la Protección al Turista

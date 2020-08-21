@@ -6,17 +6,17 @@ INTUR: Instituto Nicaragüense de Turismo.
 
 CD: Consejo Directivo.
 
-Ley No. 298: Ley Creadora del Instituto Nicaragüense de Turismo (INTUR).
+Ley Nº. 298: Ley Creadora del Instituto Nicaragüense de Turismo (INTUR).
 
-Ley No. 306: Ley de Incentivos para la Industria Turística de la República de Nicaragua.
+Ley Nº. 306: Ley de Incentivos para la Industria Turística de la República de Nicaragua.
 
-CPT: Comité de Proyectos Turísticos.
+Junta: Junta de Incentivos Turísticos
 
 PNDT: Plan Nacional de Desarrollo Turístico.
 
-ZEPDT: Zonas Especiales de Planeamiento y Desarrollo Turístico.
+Z.E.P.D.T.: Zonas Especiales de Planeamiento y Desarrollo Turístico.
 
-CITUR: Consejo Interuniversitario de Turismo.
+CITUR: Consejo lnteruniversitario de Turismo.
 
 RNT: Registro Nacional de Turismo.
 

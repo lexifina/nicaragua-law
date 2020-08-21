@@ -4,4 +4,4 @@ El Instituto Nicaragüense de Turismo, en coordinación con los órganos turíst
 
 PRESTADORES DE SERVICIOS TURÍSTICOS
 
-Sección 1. De los Prestadores de Servicios Turísticos
+Sección 1 De los Prestadores de Servicios Turísticos

@@ -6,13 +6,13 @@ a) INTUR, quien la presidirá.
 
 b) Cámara de Turismo legalmente constituida en el país.
 
-c) Ministerio del Ambiente y Recursos Naturales (MARENA).
+c) Ministerio del Ambiente y de los Recursos Naturales (MARENA).
 
 d) Ministerio de Salud (MINSA).
 
 e) Ministerio de Transporte e Infraestructura.
 
-f) Ministerio de Educación, Cultura y Deportes (MECD).
+f) Ministerio de Educación.
 
 g) Ministerio de Gobernación (MINGOB).
 

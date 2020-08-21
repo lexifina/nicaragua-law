@@ -4,6 +4,4 @@ El INTUR deberá aportar el apoyo financiero necesario para aquellos municipios 
 
 PROMOCIÓN, FOMENTO Y CAPACITACIÓN TURÍSTICA
 
-Sección 1:
-
-De la Promoción y Fomento al Turismo
+Sección 1 De la Promoción y Fomento al Turismo

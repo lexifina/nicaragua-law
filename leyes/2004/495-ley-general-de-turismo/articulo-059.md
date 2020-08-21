@@ -1,12 +1,12 @@
 # Artículo 59
 
-Además de los derechos establecidos en el artículo 35 de la Ley N°. 298, Ley Creadora del Instituto Nicaragüense de Turismo, los prestadores de servicios turísticos gozarán de los siguientes derechos:
+Además de los derechos establecidos en el Artículo 35 de la Ley Nº. 298, Ley Creadora del Instituto Nicaragüense de Turismo, los prestadores de servicios turísticos gozarán de los siguientes derechos:
 
 a) Ejercer libremente la prestación de los servicios turísticos, previo cumplimiento de los requisitos, condiciones u obligaciones dispuestos en la presente Ley, sin perjuicio del cumplimiento de las otras disposiciones legales.
 
 b) Conocer los planes y programas elaborados por el INTUR, con el propósito de incrementar y fomentar el turismo.
 
-c) Solicitar concesiones y autorizaciones para el establecimiento de servicios turísticos en propiedades bajo la administración del INTUR, de conformidad a lo establecido en el artículo 32 de la presente Ley.
+c) Solicitar concesiones y autorizaciones para el establecimiento de servicios turísticos en propiedades bajo la administración del INTUR, de conformidad a lo establecido en el Artículo 32 de la presente Ley.
 
 d) Optar a la "Certificación de Calidad Turística", extendida por el INTUR, previo cumplimiento de los parámetros establecidos.
 
@@ -20,6 +20,4 @@ h) Por mandato de la presente Ley, se tipifica al sector turismo bajo la categor
 
 i) Todos aquellos dispuestos en la presente Ley, su Reglamento y demás instrumentos legales y normativos de la materia.
 
-Sección 4.
-
-De las Obligaciones de los Prestadores de Servicios Turísticos
+Sección 4 De las Obligaciones de los Prestadores de Servicios Turísticos

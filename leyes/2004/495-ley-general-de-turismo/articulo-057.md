@@ -10,7 +10,7 @@ c) Entretenimiento y centros nocturnos.
 
 d) Turismo interno y receptivo.
 
-e) Trasporte.
+e) Transporte.
 
 f) Guías.
 
@@ -32,6 +32,4 @@ n) Coliseos gallísticos, plazas de toros y cyber cafés.
 
 El Reglamento de la presente Ley, definirá el alcance de estas actividades, se determinarán las clases y sub clases de prestadores de servicios turísticos, determinando las normas y requisitos bajo los cuales realizarán sus actividades.
 
-Sección 2.
-
-Incentivos
+Sección 2 Incentivos

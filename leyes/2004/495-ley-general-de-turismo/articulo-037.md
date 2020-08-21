@@ -1,6 +1,6 @@
 # Artículo 37
 
-Los Gobiernos Regionales (RAAN-RAAS) y municipales en lo competente a su ámbito territorial y dentro de un marco de cooperación y coordinación con INTUR, incluirán dentro de sus funciones las siguientes:
+Los Gobiernos Regionales (RACCN - RACCS) y municipales en lo competente a su ámbito territorial y dentro de un marco de cooperación y coordinación con INTUR, incluirán dentro de sus funciones las siguientes:
 
 a) Crear las estructuras o unidades administrativas destinadas para atender el sector turístico en la circunscripción regional o municipal correspondiente.
 

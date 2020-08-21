@@ -1,6 +1,6 @@
 # Artículo 16
 
-De las atribuciones Generales del INTUR. Además de las atribuciones contempladas en el artículo 6 de la Ley N°. 298, de conformidad con la presente Ley, compete al INTUR las siguientes:
+De las atribuciones Generales del INTUR. Además de las atribuciones contempladas en el Artículo 6 de la Ley Nº. 298, de conformidad con la presente Ley, compete al INTUR las siguientes:
 
 1. Incidir en la inversión pública y privada relacionada con las políticas y proyectos necesarios para el desarrollo de la industria turística.
 

@@ -4,6 +4,4 @@ Los créditos por tarifas o multas, a favor del INTUR, establecidos en la presen
 
 PLANIFICACIÓN DE LA ACTIVIDAD TURÍSTICA
 
-Sección 1.
-
-Del Plan Nacional de Desarrollo Turístico
+Sección 1 Del Plan Nacional de Desarrollo Turístico

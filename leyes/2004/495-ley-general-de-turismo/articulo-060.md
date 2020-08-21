@@ -1,6 +1,6 @@
 # Artículo 60
 
-Además de las obligaciones establecidas en el artículo 36 de la Ley N°. 298, Ley Creadora del Instituto Nicaragüense de Turismo, son obligaciones de los prestadores de servicios turísticos, los siguientes:
+Además de las obligaciones establecidas en el Artículo 36 de la Ley Nº. 298. "Ley Creadora del Instituto Nicaragüense de Turismo", son obligaciones de los prestadores de servicios turísticos, los siguientes:
 
 a) Prestar los servicios turísticos para los cuales hubieran sido autorizados, sin discriminación por razones de nacionalidad, sexo, condición social, raza, discapacidad, credo político o religioso.
 
@@ -16,7 +16,7 @@ f) Proporcionar los bienes y servicios contratados de conformidad a los término
 
 g) Respetar los precios y tarifas establecidos y ofrecidos al usuario.
 
-h) Por mandato de la presente Ley, los prestadores de servicios turísticos, quedan obligados a expedir la factura de los consumos realizados. Se prohíbe a todos los prestadores de servicios turísticos incluir montos en concepto de propinas o pagos adicionales, los usuarios no están obligados a realizar este pago. (Ley N°. 182, Ley de Defensa de los Consumidores, publicado en La Gaceta N°. 213, 14/11/94 y el Reglamento de Alimentos, Bebidas y Diversiones, publicado en la Gaceta N°. 203, 25/10/01). La no aplicación de lo dispuesto con anterioridad constituye violación a la presente Ley, y se considera como falta grave procediendo el INTUR a la aplicación del artículo 83, inciso b de la presente Ley. El órgano rector está en la obligación de hacer cumplir está disposición legal.
+h) Derogado.
 
 i) Respetar las reservaciones hechas por los usuarios, en los términos y condiciones pactadas.
 
@@ -24,7 +24,7 @@ j) Promover la contratación de profesionales competentes egresados de centros d
 
 k) Velar por los intereses y seguridad del turista.
 
-1) Cumplir con las normas técnicas y control de calidad.
+l) Cumplir con las normas técnicas y control de calidad.
 
 m) Conservar el medio ambiente y salubridad cumpliendo las disposiciones legales, reglamentarias y normativas.
 
@@ -36,4 +36,34 @@ p) Cuando se trate de la prestación de servicios de guía de turistas, informar
 
 q) Brindar las facilidades a las personas con discapacidad y a las personas de la tercera edad, garantizando su seguridad, comodidad, libre acceso, desplazamiento y otras establecidas en el Reglamento de la presente Ley.
 
-r) Exhibir en las instalaciones, en lugar visible al público, un llamado con los nombres y números telefónicos de las autoridades a las que pueden acudir los turistas para formular reclamos, los que deben de estar redactados en idioma español y adjuntando lista en inglés.
+r) Exhibir en las instalaciones, en lugar visible al público, un listado con los nombres y números telefónicos de las autoridades a las que pueden acudir los turistas para formular reclamos, los que deben de estar redactados en idioma español y adjuntando lista en inglés.
+
+s) Por mandato de la presente Ley, queda definitivamente prohibido en los establecimientos de la Industria Turística, regulados por el Instituto Nicaragüense de Turismo (INTUR), cualquier tipo de discriminación de los usuarios de los servicios turísticos, ya sea por razones de nacimiento, nacionalidad, credo político, raza, sexo, idioma, origen, religión, opinión, posición económica o condición social, que contravenga lo dispuesto en los artículos 5 y 27 de la Constitución Política de la República de Nicaragua. El prestador de servicios turísticos que violente esta disposición legal, una vez que las autoridades del INTUR, reciban la denuncia y se constate fehacientemente la misma, se procederá administrativamente de conformidad a lo establecido en los artículos 70 al 78 del Reglamento de la presente Ley, dejando abierta la vía penal y civil, para lo que en derecho corresponda al agraviado.
+
+t) Derecho de Admisión: Es la facultad que tienen los titulares de los establecimientos turísticos, para determinar las condiciones de acceso y permanencia en los mismos, dentro de los límites legales y reglamentarios establecidos en la presente Ley. Se ejercerá con respeto a la dignidad de las personas y sus derechos humanos, sin que en ningún caso pueda producirse discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social. El derecho de admisión como facultad delimitada, no es un derecho absoluto e ilimitado, ni mucho menos de una prerrogativa que pueda ejercerse de manera arbitraria, sino como una facultad concurrente con elementos que delimiten su aplicación práctica. En este sentido se considera imprescindible el fomento de un modelo de ocio donde los derechos confluyan con las obligaciones y donde converjan los deberes con potestades.
+
+Son causales taxativas y no enunciativas de Derecho de no Admisión las siguientes:
+
+1. El usuario del servicio turístico que muestre síntomas evidentes de estar en estado de ebriedad;
+
+2. Aquellos usuarios del servicio turístico que violente las disposiciones relativas a la regulación del no fumado, de conformidad a la Ley de la Materia;
+
+3. Cuando se carezca de la edad establecida por la Ley de la materia, para acceder al local o establecimiento:
+
+4. El portar armas de fuego u objetos susceptibles de ser utilizados como tales;
+
+5. Cuando se cumpla con el horario o cierre del local establecido por la Ley de la materia;
+
+6. Quienes manifiesten actitudes violentas o agresivas que pongan en peligro la integridad física de las personas mediante altercados;
+
+7. Quienes porten ropa que inciten a la violencia y el racismo o xenofobia;
+
+8. Aquellos que introduzcan, comercialicen o consuman sustancias prohibidas o drogas o muestren síntomas de haberlas consumido;
+
+9. Los militares que porten uniforme reglamentario, excepto aquellos que se encuentren en el uso de sus funciones;
+
+10. Aquellos o aquellas que se dediquen a promover e incitar al proxenetismo;
+
+11. En dependencia del tipo de establecimiento de la Industria Turística, y por respeto a los usuarios turísticos, no se permitirá la entrada a personas que vistan en shorts, camisola y chinelas de hule. Esta regulación quedará establecida en el Reglamento de la presente Ley.
+
+Los prestadores de servicios turísticos, por mandato de la presente Ley, estarán obligados a colocar carteles con las condiciones de admisión perfectamente legibles en lugares fácilmente visibles en las entradas a sus establecimientos.

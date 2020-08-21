@@ -4,9 +4,9 @@ Son derechos de los usuarios de servicios turísticos, los siguientes:
 
 a) Los establecidos en la Constitución Política.
 
-b) Obtener información comprensible, veraz, objetiva, exacta y completa sobre todas y cada unas de las condiciones, precios y facilidades ofrecidas por los prestadores de servicios.
+b) Obtener información comprensible, veraz, objetiva, exacta y completa sobre todas y cada una de las condiciones, precios y facilidades ofrecidas por los prestadores de servicios.
 
-c) Recibir del prestador del servicio de turístico, calidad sobre la base de los precios contratados, de conformidad a la categoría del establecimiento.
+c) Recibir del prestador del servicio turístico, calidad sobre la base de los precios contratados, de conformidad a la categoría del establecimiento.
 
 d) Ser atendidos con el debido respeto.
 
@@ -18,7 +18,7 @@ g) Ser informado de cualquier riesgo previsible originado en el uso normal de se
 
 h) Formular quejas y reclamos relacionados con la prestación del servicio turístico, conforme a la Ley y obtener repuestas oportunas y adecuadas.
 
-i) Gozar de servicios turísticos en condiciones óptimas de calidad a higiene.
+i) Gozar de servicios turísticos en condiciones óptimas de calidad e higiene.
 
 j) Obtener debida información para la prevención de accidentes.
 

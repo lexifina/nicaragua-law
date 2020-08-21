@@ -1,9 +1,5 @@
 # Artículo 20
 
-Los representantes del sector privado, serán elegidos de ternas presentadas al presidente de la República.
+Los representantes del Sector Privado, serán elegidos de ternas presentadas al Presidente de la República. El Presidente los elegirá dentro del plazo de sesenta (60) días de recibidas. Ejercerán sus funciones por un periodo de tres (3) años, contados a partir de la fecha de su nombramiento. En cumplimiento a lo anteriormente señalado y para evitar la falta de funcionamiento del Consejo Directivo en la toma de decisiones y aprobación de políticas dirigidas al sector turismo, seguirán ejerciendo sus cargos, mientras no sean nombrados por el Presidente de la República los nuevos representantes del Sector Privado.
 
-Todos ejercerán sus funciones por un periodo de tres (3) años contados a partir de la fecha de su nombramiento. Los miembros tendrán derecho a emitir voz y voto, con excepción de los miembros señalados en el numeral 11 del Artículo 18 de la presente Ley, quienes solo tendrán derecho de voz.
-
-Sección 2.
-
-Del Patrimonio, Régimen Financiero e Ingresos a favor del INTUR
+Sección 2 Del Patrimonio, Régimen Financiero e Ingresos a favor del INTUR
