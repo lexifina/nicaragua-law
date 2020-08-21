@@ -1,9 +1,21 @@
 # Artículo 5
 
-Creación de Dirección.
+Del Consejo de Control y Regulación de Casinos y Salas de Juegos de Azar
 
-Créase la Dirección de Casinos y Salas de Juegos del Instituto Nicaragüense de Turismo. La Dirección de Casinos y Salas de Juegos esta bajo las directrices de la máxima autoridad administrativa de la institución, cumpliendo las disposiciones emanadas por el Consejo Directivo del Instituto Nicaragüense de Turismo (INTUR).
+Créase el Consejo de Control y Regulación de Casinos y Salas de Juegos de Azar, como un órgano normativo y de segunda instancia de las resoluciones de la Autoridad de Aplicación, el que estará integrado por las siguientes Instituciones:
 
-La Dirección de Casinos y Salas de Juegos deberá contar con el personal técnico especializado, los recursos técnico materiales suficientes y necesarios para el cumplimiento de sus funciones. Los Funcionarios encargados por parte de la Autoridad de Aplicación, en el ejercicio de sus funciones, deberán garantizar pleno respeto y observancia de las disposiciones contenidas en la presente Ley, su Reglamento y Normativas Generales, las que no podan exceder lo establecido en la presente Ley.
+a) El Ministro o Ministra de Hacienda y Crédito Público o el Viceministro o la Viceministra que se designe. Este integrante lo presidirá;
 
-El nombramiento del Director o Directora de la Dirección de Casinos y Salas de Juegos lo efectuará el Presidente Ejecutivo del INTUR y será ratificado por el Consejo Directivo del Instituto Nicaragüense de Turismo, de acuerdo a las normas y procedimientos internos de dicha institución.
+b) El Director o Directora General de Ingresos, o el Subdirector o la Subdirectora en quien delegue;
+
+c) El Director o Directora General de la Policía Nacional o el Subdirector o la Subdirectora General en quien delegue;
+
+d) El Director o Directora de la Unidad de Análisis Financiero, o el Subdirector o Subdirectora en quien delegue;
+
+e) El Director o Directora de la Oficina de Casinos y Salas de Juegos como Secretario del mismo, con voz pero sin voto.
+
+El Consejo de Control y Regulación de Casinos y Salas de Juegos de Azar, se reunirá como mínimo una vez cada tres meses a convocatoria de su Presidente o Presidenta cursada y notificada con al menos tres días de anticipación. También podrá reunirse en cualquier momento por razones de urgencia calificadas por el Presidente del Consejo, o cuando así lo requieran dos o más miembros del Consejo.
+
+El quórum del Consejo se formará con la asistencia de la mayoría simple de sus miembros.
+
+Los acuerdos se adoptarán por consenso; en caso de desacuerdo el Presidente del Consejo decidirá.

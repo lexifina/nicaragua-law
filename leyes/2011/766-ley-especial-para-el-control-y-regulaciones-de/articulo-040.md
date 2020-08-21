@@ -1,6 +1,6 @@
 # Artículo 40
 
-Condiciones atenuantes.
+Condiciones atenuantes
 
 Constituye infracción sancionable toda acción u omisión por la que se contravenga o incumpla lo establecido en la presente Ley, su Reglamento o las Normativas emitidas por la Autoridad de Aplicación.
 
