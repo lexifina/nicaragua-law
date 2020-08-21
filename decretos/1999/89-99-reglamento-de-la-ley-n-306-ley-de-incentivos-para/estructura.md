@@ -5,7 +5,7 @@
 - CAPÍTULO IV (antes del artículo 6)
 - CAPÍTULO V (antes del artículo 9)
 - CAPÍTULO VI (antes del artículo 10)
-- CAPITULO VII (antes del artículo 11)
+- CAPÍTULO VII (antes del artículo 11)
 - CAPÍTULO VIII (antes del artículo 27)
 - CAPÍTULO IX (antes del artículo 32)
 - CAPÍTULO X (antes del artículo 35)

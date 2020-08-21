@@ -14,11 +14,11 @@ El Contrato de Concesión Turística deberá contener, al menos lo siguiente:
 
 6) Condiciones generales y especiales de la concesión y los derechos y obligaciones de las partes, incluyendo la obligación de pagar indemnizaciones si fuera procedente.
 
-7) Plazo de inicio de la obra que deberá ajustarse a lo dispuesto en el numeral 2 del Artículo. 20 de la Ley, así como la fecha de terminación de la misma.
+7) Plazo de inicio de la obra que deberá ajustarse a lo dispuesto en el numeral 2 del Artículo 20 de la Ley, así como la fecha de terminación de la misma.
 
 8) Indicación de que las vías públicas que se construyen en el área en concesión constituyen bienes de uso común y la obligación de su traspaso al Estado libre de costo.
 
-9) Identificación de las garantías consignadas por el concesionario, la cual se fija en el uno por ciento (1%) del valor de la obra a realizar.
+9) Identificación de las garantías consignadas por el concesionario, la cual se fija en el uno por ciento (1 %) del valor de la obra a realizar.
 
 10) Derecho del concesionario a realizar mejoras o rellenos sobre propiedades del Estado y/o de INTUR.
 

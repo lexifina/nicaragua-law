@@ -12,11 +12,11 @@ Para los efectos de la aplicación de la Ley y de este Reglamento, corresponden 
 
 5. Evaluar las solicitudes que según el Reglamento requieren solicitarse por inscripción en el Registro de Inversiones Turísticas, bajo el concepto de ventanilla única y dentro del período previsto en el Artículo 17 de la Ley, y emitir el Contrato correspondiente a su aprobación (Contrato de Inversión y Promoción, Contrato de Concesión Turística) según el caso y la Actividad Turística, o emitir una Resolución Negativa en caso de denegación del Proyecto.
 
-6. Revisar aquellas solicitudes que de conformidad al presente Reglamento no requieren ser inscritas como proyectos en el Registro de Inversiones Turísticas; y emitir una Certificación de Exoneración o de Crédito Fiscal o "FONCITURs" u los otros documentos que corresponden según el caso para certificar o denegar dichas solicitudes.
+6. Derogado.
 
 7. Formular la programación y redactar planos maestros y las guías urbanísticas de las Z.E.P.D.T., como las partes integrantes del Plan de Desarrollo Turístico del Territorio; identificar y delimitar el perímetro de cada Z.E.P.D.T. para los efectos en beneficios y créditos fiscales previstos en el Artículo 6 de la Ley y en este Reglamento.
 
-8. Agilizar la tramitación de las exoneraciones e incentivos, sin perjuicio de lo que le corresponde al MHCP; colaborar y coordinar con el MHCP y la S.B.I. el manejo, fiscalización y control de los incentivos y beneficios acordados.
+8. Agilizar la tramitación de las exoneraciones e incentivos, sin perjuicio de lo que Je corresponde al MHCP; colaborar y coordinar con el MHCP y la S.B.l. el manejo, fiscalización y control de los incentivos y beneficios acordados.
 
 9. Velar por el cumplimiento y buen uso de las exoneraciones, beneficios y obligaciones acordadas; informar a las autoridades correspondientes el incumplimiento de las mismas, y en dichos casos establecer e implementar las sanciones y anulaciones de contrato que aplican.
 
