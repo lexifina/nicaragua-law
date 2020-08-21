@@ -1,8 +1,8 @@
 # Artículo 13
 
-Participación de los Municipios y de las Regiones Autónomas.
+Participación de los Municipios y de las Regiones Autónomas
 
-Dentro de las funciones asignadas por sus leyes reguladoras, los Municipios, Regiones Autónomas y las Comunidades Indígenas participarán en el desarrollo, fomento y aplicación de esta ley en conjunto con el INTUR en las materias establecidas dentro de su ámbito de competencias, a través del establecimiento de instrumentos y mecanismos de actuación determinados en los Planes Municipales de Ordenamiento y Desarrollo Territorial, Planes de Inversión Municipal y demás formas de concreción operativa.
+Dentro de las funciones asignadas por sus leyes reguladoras, los Municipios, Regiones Autónomas y las Comunidades Indígenas participarán en el desarrollo, fomento y aplicación de esta Ley en conjunto con el INTUR en las materias establecidas dentro de su ámbito de competencias, a través del establecimiento de instrumentos y mecanismos de actuación determinados en los Planes Municipales de Ordenamiento y Desarrollo Territorial, Planes de Inversión Municipal y demás formas de concreción operativa.
 
 La promoción y desarrollo del turismo rural sostenible se coordinará con los actores municipales de turismo y gobiernos territoriales indígenas los que realizarán las siguientes actividades:
 

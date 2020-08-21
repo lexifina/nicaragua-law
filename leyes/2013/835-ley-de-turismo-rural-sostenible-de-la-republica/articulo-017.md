@@ -1,6 +1,6 @@
 # Artículo 17
 
-Instrumentos de promoción del turismo rural sostenible.
+Instrumentos de promoción del turismo rural sostenible
 
 El INTUR mediante normativa establecerá mecanismos de promoción que aseguren el reconocimiento de iniciativas de turismo rural sostenible que destaquen por su nivel de incidencia en el entorno socio económico próximo y en la protección del medio ambiente, en coordinación y con el apoyo de otros entes públicos, los Gobiernos Locales y el sector privado. Tales instrumentos de promoción serán:
 
@@ -14,11 +14,11 @@ El INTUR mediante normativa establecerá mecanismos de promoción que aseguren e
 
 5) Participación en los programas que se implementen, a fines de beneficiar y promover el turismo rural;
 
-6) Gestión ante entidades oficiales o privadas para la implementaron de líneas de créditos;
+6) Gestión ante entidades oficiales o privadas para la implementación de líneas de créditos;
 
 7) Asistencia técnica y asesoramiento en la comercialización de los servicios de turismo rural;
 
-8) Acceso a tecnología de información de agroturismo, a través del sitio web de Turismo Rural que el INTUR establezca;
+8) Acceso a tecnología de información de agroturismo, a través del sitio web de Turismo Rural que el lNTUR establezca;
 
 9) Acceso a los programas de reservaciones internacionales; e
 

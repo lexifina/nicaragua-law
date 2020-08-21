@@ -1,6 +1,6 @@
 # Artículo 1
 
-Objeto de la Ley.
+Objeto de la Ley
 
 La presente ley tiene como objeto promover la formulación e implementación de directrices y acciones que contribuyan al desarrollo del turismo en los territorios rurales del país con un enfoque de desarrollo sostenible.
 

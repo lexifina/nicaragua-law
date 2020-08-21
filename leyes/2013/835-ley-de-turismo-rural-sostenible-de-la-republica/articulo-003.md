@@ -1,6 +1,6 @@
 # Artículo 3
 
-Objetivos Específicos.
+Objetivos Específicos
 
 Son objetivos específicos de esta Ley:
 

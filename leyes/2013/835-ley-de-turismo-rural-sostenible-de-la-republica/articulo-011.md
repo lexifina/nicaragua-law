@@ -1,6 +1,6 @@
 # Artículo 11
 
-Funciones de la Comisión Nacional de Turismo Rural Sostenible.
+Funciones de la Comisión Nacional de Turismo Rural Sostenible
 
 Son funciones de la Comisión Nacional de Turismo Rural Sostenible:
 

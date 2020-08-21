@@ -1,6 +1,6 @@
 # Artículo 15
 
-Implementación de Acciones.
+Implementación de Acciones
 
 El INTUR implementará a través del personal especializado las siguientes acciones:
 

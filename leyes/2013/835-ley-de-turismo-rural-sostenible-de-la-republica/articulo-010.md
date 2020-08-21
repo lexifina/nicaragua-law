@@ -1,6 +1,6 @@
 # Artículo 10
 
-Comisión Nacional de Turismo Rural Sostenible.
+Comisión Nacional de Turismo Rural Sostenible
 
 Créase la Comisión Nacional de Turismo Rural Sostenible, integrada por delegados de los sectores público y privado:
 
@@ -10,7 +10,7 @@ Créase la Comisión Nacional de Turismo Rural Sostenible, integrada por delegad
 
 3) Ministerio de Fomento, Industria y Comercio;
 
-4) Ministerio Agropecuario y Forestal;
+4) Ministerio Agropecuario;
 
 5) Ministerio de Economía Familiar, Comunitaria, Cooperativa y Asociativa;
 
