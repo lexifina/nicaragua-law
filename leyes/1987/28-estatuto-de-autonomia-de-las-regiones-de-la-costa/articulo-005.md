@@ -6,4 +6,4 @@ El español, idioma oficial del Estado, y las lenguas de las Comunidades de la C
 
 Capítulo II
 
-Régimen político administrativo de regiones autónomas y subdivisión territorial interna
+Régimen político administrativo de las regiones autónomas y su división territorial interna

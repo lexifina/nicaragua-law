@@ -6,4 +6,4 @@ En la explotación racional de los recursos mineros, forestales, pesqueros y otr
 
 Capítulo III
 
-De los derechos, deberes y garantías de los habitantes de las comunidades de las regiones autónomas
+De los derechos, deberes y garantías de los habitantes de las comunidades de las Regiones Autónomas
