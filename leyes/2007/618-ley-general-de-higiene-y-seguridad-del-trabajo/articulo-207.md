@@ -8,4 +8,4 @@ b) Diámetro del asiento en mm;
 
 c) Capacidad de descarga en kg/s; y
 
-d) Presión máxima de disparo en N/M2 o Pa.
+d) Presión máxima de disparo en N/m2 o Pa.

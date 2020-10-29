@@ -6,8 +6,6 @@ a) Verificadores (detectores) de ausencia de tensión;
 
 b) Pértigas de expoxiglas (fibra de vidrio);
 
-c) Alfombras aislantes, plataformas aislantes;
-
-d) Mangueras protectoras; y
+c) Alfombras y plataformas aislantes; d) Mangueras protectoras; y
 
 e) Escaleras portátiles de fibra de vidrio o madera.

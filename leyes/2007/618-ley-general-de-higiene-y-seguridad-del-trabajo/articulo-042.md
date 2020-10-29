@@ -1,3 +1,3 @@
 # Artículo 42
 
-Las empresas e instituciones que cuentan con diferentes centros de trabajo, deben constituir tantas Comisiones Mixtas de Higiene y Seguridad de Trabajo, como centros de trabajo tengan.
+Las empresas e instituciones que cuentan con diferentes centros de trabajo, deben constituir tantas Comisiones Mixtas de Higiene y Seguridad del Trabajo, como centros de trabajo tengan.

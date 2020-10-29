@@ -4,4 +4,4 @@ Se prohíbe el uso de interruptores de palanca o de cuchillas que no estén debi
 
 Capítulo V
 
-Equipos y Herramientas Portátiles
+Equipos y Herramientas Portátiles.

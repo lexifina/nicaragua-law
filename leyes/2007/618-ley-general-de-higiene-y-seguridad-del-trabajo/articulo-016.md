@@ -8,9 +8,9 @@ b) Un Delegado Departamental del Instituto Nicaragüense de Seguridad Social;
 
 c) Un Delegado Departamental del Ministerio de Educación;
 
-d) Un Delegado Departamental de la Dirección General de Bomberos;
+d)Un Delegado Departamental de la Dirección General de Bomberos de Nicaragua del Ministerio de Gobernación;
 
-e) Un Delegado Departamental del Ministerio Agropecuario y Forestal;
+e) Un Delegado Departamental del Ministerio Agropecuario;
 
 f) Un Delegado Departamental del Ministerio del Ambiente y de los Recursos Naturales;
 
@@ -18,11 +18,11 @@ g) Un Delegado por las organizaciones sindicales con representación departament
 
 h) Un Delegado por cada organización empresarial;
 
-i) Un Delegado por las universidades que abordan en su pensum académico la materia de higiene y seguridad del trabajo.
+i) Un Delegado por las universidades que abordan en su pensum académico la materia de Higiene y Seguridad del Trabajo;
 
 j) El Consejo Departamental podrá invitar u otras entidades y organizaciones a participar en las reuniones como invitados especiales, para brindar sus aportes con voz, pero sin voto; y
 
-k) Un delegado del Consejo Regional, en el caso de las Regiones Autónomas.
+k) Un Delegado del Consejo Regional, en el caso de las Regiones Autónomas de la Costa Caribe.
 
 Capítulo VI
 

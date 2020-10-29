@@ -1,6 +1,30 @@
 # Artículo 216
 
-El peso de los sacos o bultos que contengan cualquier clase de producto material o mercadería destinado a la manipulación de la carga (carguío por fuerza del hombre), no excederá los siguientes pesos máximos recomendados:
+El peso de los sacos o bultos que contengan cualquier clase de producto material o mercadería destinado a la manipulación de la carga (carguío por fuerza del hombre), no excederá los siguientes pesos máximos recomendados.
+
+Tipo/Sexo
+
+Ligero
+
+Medio*
+
+Pesado**
+
+Hombres
+
+23Kg
+
+40Kg
+
+55 Kg
+
+Mujeres
+
+15 Kg
+
+23Kg
+
+32 Kg
 
 * En circunstancia especiales, trabajadores sanos y entrenados físicamente y en condiciones seguras.
 

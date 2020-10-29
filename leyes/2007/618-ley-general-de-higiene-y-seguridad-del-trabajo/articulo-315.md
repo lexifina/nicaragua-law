@@ -4,4 +4,4 @@ El Ministerio del Trabajo, a través de la Dirección General de Higiene y Segur
 
 Capítulo IV
 
-De las Casas Comercializadoras de los Equipos de Protección Personal
+De las Casas Comercializadoras de los Equipos de Protección Personal.

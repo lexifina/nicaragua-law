@@ -4,4 +4,4 @@ Impulsar y desarrollar programas específicos dirigidos a la promoción de mejor
 
 Capítulo III
 
-De las Investigaciones; Estadísticas de Accidentes y Enfermedades Profesionales
+De las Investigaciones; Estadísticas de Accidentes y Enfermedades Profesionales.
