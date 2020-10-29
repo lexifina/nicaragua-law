@@ -4,30 +4,30 @@ Los accidentes laborales en la actividad de buceo pueden ocurrir en tres momento
 
 a) Sobre los problemas de descenso:
 
-1. Barotrauma de oído.
+1. Baro trauma de oído;
 
-2. Barotrauma de senos paranasales.
+2. Baro trauma de senos paranasales;
 
-3. Barotrauma de los pulmones.
+3.Barotrauma de los pulmones;
 
-4. Intoxicación por oxígeno.
+4. Intoxicación por oxígeno;
 
-5. Intoxicación por narcosis de nitrógeno.
+5. Intoxicación por narcosis de nitrógeno;
 
-6. La enfermedad descompresiva.
+6. La enfermedad descompresiva;
 
-7. Intoxicación por monóxido de carbono.
+7. Intoxicación por monóxido de carbono;
 
 8. Intoxicación por bióxido de carbono.
 
 b) Sobre los problemas en el ascenso:
 
-1. Embolismo arterial y gaseoso (aeroembolia).
+1. Embolismo arterial y gaseoso (aeroembolia);
 
-2. Sobre expansión pulmonar.
+2. Sobre expansión pulmonar;
 
-3. Enfisema mediastinal y subcutáneo.
+3. Enfisema mediastinal y subcutáneo;
 
-4. Neumotoras.
+4. Neumotoras;
 
-5. Desmayo o Lipotimia
+5. Desmayo o Lipotimia.
