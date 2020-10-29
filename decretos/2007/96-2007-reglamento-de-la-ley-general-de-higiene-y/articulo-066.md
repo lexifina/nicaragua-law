@@ -4,4 +4,6 @@ Recepcionada la demanda por riesgo laboral en la Inspectoría de Higiene y Segur
 
 PROCEDIMIENTO SANCIONADOR DE LOS RIESGOS PROFESIONALES
 
-DE LAS SANCIONES QUE IMPONEN LAS INSPECTORIAS DE HIGIENE Y SEGURIDAD DEL TRABAJO
+Capítulo I
+
+De las Sanciones que Imponen las Inspectorías de Higiene y Seguridad del Trabajo

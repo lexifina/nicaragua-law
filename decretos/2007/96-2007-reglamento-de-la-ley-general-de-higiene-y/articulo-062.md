@@ -8,7 +8,7 @@ Identificación de la empresa
 
 Identificación del accidentado
 
-Datos de la investigación
+Datos de la investigación.
 
 2. Recopilación de Datos sobre el Accidente
 

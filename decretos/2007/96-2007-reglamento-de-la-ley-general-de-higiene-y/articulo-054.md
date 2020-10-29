@@ -1,7 +1,7 @@
 # Artículo 54
 
-La Dirección General de Seguridad e Higiene del Trabajo es parte integrante del Sistema General de Inspección del Trabajo y depende jerárquicamente de la máxima autoridad del Ministerio del Trabajo.
+La Dirección General de Higiene y Seguridad del Trabajo es parte integrante del Sistema General de Inspección del Trabajo y depende jerárquicamente de la máxima autoridad del Ministerio del Trabajo.
 
-Nota: En la publicación de La Gaceta, Diario Oficial se cita Del Capítulo VI pasa al Capítulo VIII.
+Capítulo VIII
 
-DE LOS DERECHOS DEL INSPECTOR DE HIGIENE Y SEGURIDAD DEL TRABAJO
+De los Derechos del Inspector de Higiene y Seguridad del Trabajo
