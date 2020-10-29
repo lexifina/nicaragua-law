@@ -2,7 +2,7 @@
 
 Requisitos de las actuaciones
 
-Los Inspectores del Trabajo poseen autonomía técnica y funcional, sin embargo deben cumplir con las obligaciones y requisitos establecidos en la presente Ley. En particular los Inspectores observarán en su actuación:
+Los Inspectores del Trabajo poseen autonomía técnica y funcional, sin embargo, deben cumplir con las obligaciones y requisitos establecidos en la presente Ley. En particular los Inspectores observarán en su actuación:
 
 a) El cumplimiento en plazo de las órdenes de inspección que se le encomienden;
 
