@@ -1,5 +1,7 @@
 # Artículo 53
 
-En los conflictos de trabajo, las federaciones y confederaciones no tendrán más intervención que la de brindar asesoría y el apoyo moral o económico que necesiten los trabajadores afectados.
+En los conflictos de trabajo de cualquier naturaleza, las federaciones, confederaciones y centrales, tienen derecho a participar en los mismos observando los procedimientos establecidos para la solución de conflictos de trabajo.
 
-FUERO SINDICAL
+Capítulo XVII
+
+Fuero Sindical
