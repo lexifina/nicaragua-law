@@ -1,0 +1,5 @@
+# Artículo 7
+
+Otros incentivos
+
+De igual forma están exentos los pagos de dividendos, participaciones en ganancias, excedentes, rentas, regalías e intereses pagados por el Inversionista Desarrollador o la Compañía Naviera a sus partes interesadas, accionistas o socios durante el Período de Incentivos Fiscales, ya sean residentes en el país o no, así como las transferencias, ventas u otras distribuciones (incluyendo las transferencias indirectas) por parte del, o del Inversionista Desarrollador o por parte de la, o la Compañía Naviera durante el Período de Incentivos Fiscales estarán exentos de todos y cada uno de los Impuestos (incluidos los Impuestos sobre ganancias de capital, Impuestos sobre transmisiones, Impuestos sobre la renta y retenciones de Impuestos). Los pagos efectuados a los contratistas durante el Período de Incentivo Fiscal estarán exentos de Impuestos (incluyendo el Impuesto al Valor Agregado y retenciones de impuestos), distintos de retenciones de Impuestos aplicables a pagos a residentes nicaragüenses.
