@@ -6,7 +6,7 @@ El Director del Museo Nacional tendrá las siguientes atribuciones:
 
 2) Acatar y hacer cumplir todas las disposiciones que la Dirección Superior del Instituto Nicaragüense de Cultura le oriente.
 
-3) Estar presente o hacerse representar en todos los actos y funciones que efectúe el Museo Nacional
+3) Estar presente o hacerse representar en todos los actos y funciones que efectúe el Museo Nacional.
 
 4) Presentar a la Dirección Superior del Instituto Nicaragüense de Cultura, informes sobre las actividades relacionadas con su cargo.
 
@@ -22,9 +22,9 @@ El Director del Museo Nacional tendrá las siguientes atribuciones:
 
 10) Contratar el suministro de bienes y servicios necesarios para el cumplimiento de sus actividades técnicas y científicas, previa autorización de la Dirección Superior del Instituto Nicaragüense de Cultura.
 
-11) Suscribir los contratos y convenios que celebre el Museo Nacional con instituciones publicas o privadas o con particulares, previa autorización de la Dirección Superior del Instituto Nicaragüense de Cultura.
+11) Suscribir los contratos y convenios que celebre el Museo Nacional con instituciones públicas o privadas o con particulares, previa autorización de la Dirección Superior del Instituto Nicaragüense de Cultura.
 
-12) Presentar a consideración de la Dirección Superior del Instituto Nicaragüense de Cultural, los proyectos de Presupuesto Anual del Museo Nacional y del Plan Anual de Trabajo y actividades.
+12) Presentar a consideración de la Dirección Superior del Instituto Nicaragüense de Cultura, los proyectos de Presupuesto Anual del Museo Nacional y del Plan Anual de Trabajo y actividades.
 
 13) Presentar para su aprobación, a la Dirección Superior del Instituto Nicaragüense de Cultura, la propuesta de Memoria Anual del Museo Nacional y el estado de cuentas del respectivo ejercicio presupuestario.
 
@@ -32,6 +32,6 @@ El Director del Museo Nacional tendrá las siguientes atribuciones:
 
 15) Promover actividades de extensión cultural y de difusión científica, adecuadas a las funciones del Museo Nacional.
 
-16) Coordinar la representación nacional ante organismos regionales o internacionales a los que esté vinculado el Museo Nacional
+16) Coordinar la representación nacional ante organismos regionales o internacionales a los que esté vinculado el Museo Nacional.
 
 17) Someter a la Dirección Superior del Instituto Nicaragüense de Cultura, el proyecto de reglamento interno del Museo Nacional y disponer lo necesario para su cumplimiento.

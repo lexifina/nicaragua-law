@@ -6,7 +6,7 @@ Son funciones y atribuciones del Museo Nacional las siguientes:
 
 2) Llevar un registro e inventario actualizado de sus colecciones.
 
-3) Controlar todo material recolectado producto de actividades de rescate y salvamento o de investigaciones arqueológicas, realizadas por extranjeros o nacionales y que no sean promovidas y coordinadas por los museos municipales, comunitarios, públicos o privados, será depositado en el Museo Nacional, al que también se debe entregar una copia escrita de los resultados de las investigaciones, él que podrá dejar en depósito el material arqueológico en el museo local más próximo del área del rescate o la investigación.
+3) Controlar todo material recolectado producto de actividades de rescate y salvamento o de investigaciones arqueológicas, realizadas por extranjeros o nacionales y que no sean promovidas y coordinadas por los museos municipales, comunitarios, públicos o privados, será depositado en el Museo Nacional, al que también se debe entregar una copia escrita de los resultados de las investigaciones, el que podrá dejar en depósito el material arqueológico en el museo local más próximo del área del rescate o la investigación.
 
 4) Desarrollar programas de extensión cultural, de difusión y formación museológica en la población, creando a la vez, conciencia de la importancia de la protección y conservación del Patrimonio cultural y natural del país.
 
@@ -14,7 +14,7 @@ Son funciones y atribuciones del Museo Nacional las siguientes:
 
 6) Cumplir en lo que corresponda, con lo establecido por la Ley de Protección al Patrimonio Cultural de la Nación.
 
-7) Organizar, dirigir y controlar los proyectos de investigaciones, científicas en los campos de su competencia, divulgando posteriormente los resultados de sus propias investigaciones.
+7) Organizar, dirigir y controlar los proyectos de investigaciones científicas en los campos de su competencia, divulgando posteriormente los resultados de sus propias investigaciones.
 
 8) Realizar el montaje de exposiciones de sus colecciones permanentes y periódicas y mantener su actualización.
 
@@ -24,14 +24,16 @@ Son funciones y atribuciones del Museo Nacional las siguientes:
 
 11) Asistir técnicamente a la Dirección Superior del Instituto Nicaragüense de Cultura, en materia de su competencia.
 
-12) Prestar los servicios de asesoramiento y consulta que las instituciones del estado le soliciten en los campos de su competencia.
+12) Prestar los servicios de asesoramiento y consulta que las instituciones del Estado le soliciten en los campos de su competencia.
 
 13) Promover y apoyar la realización de cursos y programas de capacitación para el perfeccionamiento técnico de los recursos humanos de las áreas de su competencia.
 
 14) Proponer a la Dirección Superior del Instituto Nicaragüense de Cultura, programas de cooperación, investigación e intercambio, y solicitar autorización para celebrar convenios con otros museos e instituciones culturales del país y del exterior que puedan contribuir al mejor desarrollo de sus funciones.
 
-15) Controlar y supervisar los proyectos de investigación realizados por organismos nacionales o extranjeros, una vez autorizados por la Dirección de Patrimonio.
+15) Derogado.
 
 16) Cualquier otra función que en los campos de su competencia se le asignen por disposiciones legales o de reglamento.
 
-DE LA DIRECCIÓN
+Capítulo IV
+
+De la Dirección
