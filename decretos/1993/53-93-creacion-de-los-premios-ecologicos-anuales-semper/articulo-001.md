@@ -10,6 +10,6 @@ c) Premios Pochote: Al municipio o autoridad municipal que más haya contribuido
 
 d) Premios Guanacaste: Al agricultor, productor agropecuario o cooperativa agrícola que más esfuerzo haya realizado en labores de reforestación, protección de la regeneración natural, control de incendios forestales o conservación de las fuentes de agua en su propiedad.
 
-e) Premios Caoba: A los empresarios que más efectivamente introduzcan en su industria procesos, ajustes y técnicas que contribuyan al control de la contaminación y la purificación del medio ambiente.
+e) Premios Caoba: A los empresarios que más efectivamente introduzca en su industria procesos, ajustes y técnicas que contribuyan al control de la contaminación y la purificación del medio ambiente.
 
 f) Premios Chilamate: Al periodista o profesional de radio, prensa o televisión, o al medio de comunicación que más haya contribuido con sus escritos, comentarios, programas o campañas a los esfuerzos nacionales para la protección y defensa del medio ambiente.
