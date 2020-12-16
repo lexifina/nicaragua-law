@@ -1,11 +1,13 @@
 # Artículo 39
 
-Los Consejos Regionales, serán a su vez los entes de carácter autonómico de participación donde las organizaciones juveniles tendrán parte, entre otras, en asuntos como:
+Los Concejos y Cabildos Municipales son espacios de participación juvenil a nivel municipal, donde las organizaciones juveniles tendrán parte en asuntos tales como:
 
-1) Crear espacios para la participación de las y los jóvenes de las comunidades indígenas, étnias y de ancestría africana.
+1) Gestión de asuntos locales.
 
-2) Desarrollar iniciativas en uso y disfrute de los recursos naturales.
+2) Incidencia para el fortalecimiento de la gestión municipal.
 
-3) Fortalecer la participación en la gestión y administración regional.
+3) Integración de los jóvenes a las brigadas de protección del medio ambiente.
 
-4) Promover y gestionar recursos que impulsen proyectos de desarrollo de la juventud en las regiones autónomas.
+4) Proponer a través de las instancias correspondientes anteproyectos de ordenanzas y/o resoluciones sobre temas propios de la juventud.
+
+5) Desarrollo de proyectos juveniles y consecución de recursos que fomenten actividades de desarrollo.

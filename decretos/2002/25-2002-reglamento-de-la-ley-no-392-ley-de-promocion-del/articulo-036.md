@@ -1,11 +1,9 @@
 # Artículo 36
 
-El Ministerio del Ambiente y Recursos Naturales en coordinación con la Secretaría de la Juventud, otras entidades estatales, organizaciones no gubernamentales y de la sociedad civil será el responsable de aplicar oponer en práctica todas las acciones de conservación, promoción y protección al medio ambiente relacionadas con la juventud y previstas en la Ley 392 y su Reglamento.
+El Ministerio del Ambiente y de los Recursos Naturales en coordinación con el Ministerio de la Juventud, otras entidades estatales, organizaciones no gubernamentales y de la sociedad civil será el responsable de aplicar o poner en práctica todas las acciones de conservación, promoción y protección al medio ambiente relacionadas con la juventud y previstas en la Ley Nº. 392 y su Reglamento.
 
-Título IV
+PARTICIPACIÓN DE LA JUVENTUD Y EJERCICIO DE DERECHOS POLÍTICOS
 
-Participación de la Juventud y Ejercicio de Derechos Políticos
-
-Capítulo l
+Capítulo I
 
 Espacios de Participación Juvenil

@@ -1,3 +1,3 @@
 # Artículo 37
 
-Se establece que las instancias principales de participación de la juventud, en relación a los diferentes niveles en la distribución político - administrativa del país, serán: La Comisión Nacional de la Juventud (CNJ), los Consejos Regionales Autónomos de la Costa Atlántica y los Concejos y Cabildos Municipales.
+Los principales espacios de participación de la Juventud, con relación a los diferentes niveles de la división política administrativa del país son: El Ministerio de la Juventud, los Consejos Regionales Autónomos de la Costa Caribe y los Concejos y Cabildos Municipales.

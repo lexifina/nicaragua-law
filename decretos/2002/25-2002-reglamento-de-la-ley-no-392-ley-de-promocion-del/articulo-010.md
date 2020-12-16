@@ -1,6 +1,6 @@
 # Artículo 10
 
-Para efectos del Artículo anterior la Secretaría de la Juventud realizará al menos, las siguientes funciones:
+Para efectos del Artículo anterior el Ministerio de la Juventud realizará al menos, las siguientes funciones:
 
 1) Identificar las áreas preferentes de creación de las Cooperativas Juveniles y de las PYMESJ.
 
@@ -8,7 +8,7 @@ Para efectos del Artículo anterior la Secretaría de la Juventud realizará al 
 
 3) Promover la capacitación técnica para las y los jóvenes en las áreas que se requieran para la conformación y el funcionamiento de las Cooperativas Juveniles y de las PYMESJ.
 
-4) Estimular y promoverla suscripción de convenios entre la banca privada y los organismo especializados que trabajan con créditos para extender la cobertura a las Cooperativas Juveniles y de las PYMESJ.
+4) Estimular y promover la suscripción de convenios entre la banca privada y los organismos especializados que trabajan con créditos para extender la cobertura a las Cooperativas Juveniles y de las PYMESJ.
 
 5) Promover la búsqueda de fondos con bajos costos financieros para alimentar el sistema de crédito de las Cooperativas Juveniles y de las PYMESJ.
 

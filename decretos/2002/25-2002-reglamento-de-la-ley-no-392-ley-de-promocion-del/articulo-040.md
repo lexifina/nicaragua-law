@@ -1,13 +1,3 @@
 # Artículo 40
 
-Los Consejos y Cabildos Municipales serán los espacios de participación juvenil en el ámbito municipal donde las organizaciones juveniles tendrán participación en asuntos de:
-
-1) Gestión de asuntos locales.
-
-2) Incidencia para el fortalecimiento de la gestión municipal.
-
-3) Integración de los jóvenes a las brigadas de protección del medio ambiente.
-
-4) Proponer a través de las instancias correspondientes anteproyectos de ordenanzas y/o resoluciones sobre temas propios de la juventud.
-
-5) Desarrollo de proyectos juveniles y consecución de recursos que fomenten actividades de desarrollo.
+El Consejo de la Juventud de Nicaragua (CJN) es la instancia propia de la juventud, en representación de las organizaciones y organismos no gubernamentales que trabajan con la juventud, a nivel Nacional, Regional, Departamental y Municipal. El Consejo de la Juventud de Nicaragua y sus instancias regionales, departamentales y municipales, tendrán participación en las instancias consultivas y de coordinación de políticas públicas de juventud creadas y/o coordinadas por el Gobierno de la República, a nivel nacional y en dichas circunscripciones.
