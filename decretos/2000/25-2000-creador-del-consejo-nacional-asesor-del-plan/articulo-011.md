@@ -10,4 +10,4 @@ El Secretario de EL CONSEJO tendrá las siguientes funciones:
 
 4. Controlar el archivo de correspondencia.
 
-5. Comunicar e informar a los miembros de EL CONSEJO lo relacionado acerca de la implementación del Plan Maestro del Sitio.
+5. Comunicar e informar a los miembros de EL CONSEJO lo relacionado acerca de la implementación del Plan Maestro de EL SITIO.

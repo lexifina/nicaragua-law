@@ -2,7 +2,7 @@
 
 Para el cumplimiento de los objetivos mencionados en el artículo anterior EL CONSEJO tendrá las siguientes funciones:
 
-1. Actualizar en Coordinación con el Instituto Nicaragüense de Cultura y demás instancias que lo conforman, el Plan Maestro de Manejo de EL SITIO.
+1. Actualizar en coordinación con el Instituto Nicaragüense de Cultura y demás instancias que lo conforman, el Plan Maestro de Manejo de EL SITIO.
 
 2. Discutir y formular recomendaciones de carácter ambiental, arqueológico, turístico y de cualquier otra índole, destinadas a aportar en las labores de protección, conservación y difusión de EL SITIO.
 
