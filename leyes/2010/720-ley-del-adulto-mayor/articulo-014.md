@@ -1,8 +1,8 @@
 # Artículo 14
 
-Integración del Consejo.
+Integración del Consejo
 
-El Consejo Nacional del Adulto Mayor (CONAM), estará integrado en forma permanente por la máxima autoridad de las Instituciones y Entidades siguientes:
+El Consejo Nacional del Adulto Mayor (CONAM), estará integra do en forma permanente por la máxima autoridad de las Instituciones y Entidades siguientes:
 
 1. Ministerio de la Familia, Adolescencia y Niñez, quien lo preside;
 
@@ -22,6 +22,6 @@ El Consejo Nacional del Adulto Mayor (CONAM), estará integrado en forma permane
 
 Serán invitadas, con voz pero sin voto, otras Instituciones o Entidades que decida este Consejo cuando el tema así lo requiera.
 
-Los miembros del CONAM tendrán un suplente con las mismas facultades en ausencia del titular, quien será nombrado por las instituciones o entidades correspondientes.
+Los miembros del CONAM tendrán un suplente con las mismas facultades en ausencia del titular, quien será nombrad o por las instituciones o entidades correspondientes.
 
 En caso de empate en las decisiones de este Consejo, el Presidente tendrá voto dirimente.

@@ -1,6 +1,6 @@
 # Artículo 8
 
-Deberes.
+Deberes
 
 El Adulto Mayor tiene los deberes siguientes:
 

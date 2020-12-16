@@ -1,6 +1,6 @@
 # Artículo 5
 
-Fondo Nacional del Adulto Mayor.
+Fondo Nacional del Adulto Mayor
 
 Créase el Fondo Nacional del Adulto Mayor, el cual tendrá como una de sus fuentes de financiamiento las utilidades de al menos un sorteo de la Lotería Nacional cada año. También podrá recibir transferencias presupuestarias, donaciones u otros ingresos obtenidos de forma lícita.
 

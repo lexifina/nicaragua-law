@@ -1,6 +1,6 @@
 # Artículo 21
 
-Infracciones y Sanciones.
+Infracciones y Sanciones
 
 Las infracciones por violaciones por parte de los servidores públicos a lo establecido en la presente Ley, serán tenidas como falta grave y serán sancionados conforme al régimen laboral aplicable que le corresponda.
 

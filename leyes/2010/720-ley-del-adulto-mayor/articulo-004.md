@@ -1,6 +1,6 @@
 # Artículo 4
 
-Fines y Objetivos.
+Fines y Objetivos
 
 Son fines y objetivos de la presente Ley:
 
@@ -22,6 +22,6 @@ Son fines y objetivos de la presente Ley:
 
 9. Fomentar acciones que generen fuentes de trabajo estables para el Adulto Mayor que esté en posibilidades de trabajar, promoviendo su inserción laboral en las entidades públicas y privadas tomando en cuenta sus conocimientos y experiencias.
 
-10. Eliminar cualquier forma de discriminación hacia el Adulto Mayor por motivo de su edad, capacidad física, credo político, raza, sexo, idioma, religión, opinión, origen, posición económica o condición social. Todo en base a lo establecido en el párrafo primero del artículo 27 de la Constitución Política de la República de Nicaragua.
+10. Eliminar cualquier forma de discriminación hacia el Adulto Mayor por motivo de su edad, capacidad física, credo político, raza, sexo, idioma, religión, opinión, origen, posición económica o condición social. Todo en base a lo establecido en el párrafo primero del Artículo 27 de la Constitución Política de la República de Nicaragua.
 
 11. Promover y divulgar para su implementación el contenido de la presente Ley a través de las instituciones del Estado, del sector privado, de instituciones educativas públicas o privadas y otras instancias de información y comunicación.

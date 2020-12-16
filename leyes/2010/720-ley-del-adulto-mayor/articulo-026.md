@@ -1,5 +1,5 @@
 # Artículo 26
 
-Reglamento.
+Reglamento
 
 La presente Ley será reglamentada por el Presidente de la República.

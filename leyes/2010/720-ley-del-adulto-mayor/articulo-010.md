@@ -1,6 +1,6 @@
 # Artículo 10
 
-Deberes del Estado.
+Deberes del Estado
 
 Corresponde al Estado, por medio de sus instituciones:
 

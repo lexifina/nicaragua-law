@@ -1,6 +1,6 @@
 # Artículo 19
 
-Funciones de la Secretaría Ejecutiva.
+Funciones de la Secretaría Ejecutiva
 
 Son funciones de la Secretaría Ejecutiva las siguientes:
 

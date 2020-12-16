@@ -1,6 +1,6 @@
 # Artículo 18
 
-Secretaria Ejecutiva.
+Secretaría Ejecutiva
 
 La Secretaría ejecutiva es la instancia que ejecuta y da seguimiento a las diferentes resoluciones, acuerdos y decisiones del Consejo Nacional del Adulto Mayor (CONAM). Tendrá su sede en Managua y formará parte de la estructura administrativa del Ministerio de la Familia, Adolescencia y Niñez, quien deberá asignarle de su presupuesto los recursos financieros y humanos necesarios para su funcionamiento.
 

@@ -1,6 +1,6 @@
 # Artículo 3
 
-Principios.
+Principios
 
 Son principios de esta Ley los siguientes:
 

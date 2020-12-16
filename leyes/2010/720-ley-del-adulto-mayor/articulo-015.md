@@ -1,6 +1,6 @@
 # Artículo 15
 
-Atribuciones del Consejo.
+Atribución es del Consejo
 
 El Consejo Nacional del Adulto Mayor tendrá las atribuciones siguientes:
 
@@ -12,9 +12,9 @@ El Consejo Nacional del Adulto Mayor tendrá las atribuciones siguientes:
 
 4. Velar por el cumplimiento de declaraciones, convenios, leyes, reglamentos y demás disposiciones conexas, referentes a la protección de los derechos del Adulto Mayor.
 
-5. Promover la suscripción y ratificación de los convenios y tratados internacionales a favor del Adulto Mayor.
+5. Promover la suscripción y ratificación de los convenios y trata dos internacionales a favor del Adulto Mayor.
 
-6. Velar por la implementación y cumplimiento de los programas, proyectos y servicios que ejecutan las instituciones públicas y privadas a favor del Adulto Mayor, principalmente el Instituto Nicaragüense de Seguridad Social, el Ministerio de Salud, Ministerio de la Familia, Adolescencia y Niñez y demás carteras del sector social.
+6. Velar por la implementación y cumplimiento de los programas, proyectos y Servicios que ejecutan las instituciones públicas y privadas a favor del Adulto Mayor, principalmente el Instituto Nicaragüense de Seguridad Social, el Ministerio de Salud, Ministerio de la Familia, Adolescencia y Niñez y demás carteras del sector social.
 
 7. Promover la actualización y armonización de la legislación nacional, para el cumplimiento efectivo de los derechos y deberes del Adulto Mayor.
 

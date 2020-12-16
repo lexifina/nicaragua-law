@@ -1,5 +1,5 @@
 # Artículo 27
 
-Vigencia.
+Vigencia
 
-La presente Ley entrará en vigencia tres meses posteriores a su publicación en la Gaceta Diario Oficial.
+La presente Ley entrará en vigencia tres meses posteriores a su publicación en La Gaceta, Diario Oficial.

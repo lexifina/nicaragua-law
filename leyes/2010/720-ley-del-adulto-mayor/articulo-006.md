@@ -1,6 +1,6 @@
 # Artículo 6
 
-Derechos.
+Derechos
 
 Son derechos del Adulto Mayor, además de lo consignado en la Constitución Política de la República de Nicaragua y demás normas jurídicas, los siguientes:
 
@@ -12,7 +12,7 @@ Son derechos del Adulto Mayor, además de lo consignado en la Constitución Pol�
 
 4. Participar en forma dinámica en actividades recreativas, culturales y deportivas.
 
-5. Adquisición de una vivienda digna. En los proyectos de vivienda de interés social, se les dará trato preferencial al Adulto Mayor para la adquisición y disfrute de una vivienda digna. Asimismo se les procurará proveer facilidades de financiamiento para la adquisición o remodelación de su vivienda.
+5. Adquisición de una vivienda digna. En los proyectos de vivienda de interés social, se les dará trato preferencial al Adulto Mayor para la adquisición y disfrute de una vivienda digna. Así mismo se les procurará proveer facilidades de financiamiento para la adquisición o remodelación de su vivienda.
 
 6. Ser sujeto y beneficiario de políticas de crédito por parte de las Instituciones del Estado que atienden al sector productivo, siempre que el Adulto Mayor desarrolle este tipo de actividad económica.
 
@@ -20,9 +20,9 @@ Son derechos del Adulto Mayor, además de lo consignado en la Constitución Pol�
 
 8. El trato digno y preferencial en las gestiones que realice ante todas las entidades públicas o privadas.
 
-9. Obtener gratuitamente por parte de la Secretaría Ejecutiva del CONAM, el carnet que le identifica como Adulto Mayor.
+9. Obtener gratuitamente por parte de la Secretaría Ejecutiva del CONAM, el carné que le identifica como Adulto Mayor.
 
-10. Estar plenamente informado de todos los servicios que puede recibir el Adulto Mayor de parte de las instituciones del Estado o de las Empresas Privadas, de conformidad con el artículo 27 de la Ley No. 621, "Ley de Acceso a la Información Pública".
+10. Estar plenamente informado de todos los servicios que puede recibir el Adulto Mayor de parte de las instituciones del Estado o de las Empresas Privadas, de conformidad con el Artículo 27 de la Ley Nº. 621, Ley de Acceso a la Información Pública.
 
 11. A ser informado directamente o a través de su familia sobre su situación económica, de salud y otros aspectos relativos a su condición de Adulto Mayor.
 
