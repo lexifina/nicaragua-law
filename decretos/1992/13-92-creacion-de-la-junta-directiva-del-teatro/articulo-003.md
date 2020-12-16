@@ -2,18 +2,20 @@
 
 La Junta Directiva estará integrada de la siguiente manera:
 
-a) El Director del Instituto Nicaragüense de Cultura, quien la presidirá;
+a) El Codirector General del Instituto Nicaragüense de Cultura, quien la presidirá.
 
-b) Un Delegado del Ministerio de Educación;
+b) Suprimido.
 
-c) Un Delegado del Instituto Nicaragüense de Turismo;
+c) Un delegado del Ministerio de Educación.
 
-d) Un Delegado del Banco Central de Nicaragua;
+d) Un Delegado del Instituto Nicaragüense de Turismo.
 
-e) Un Representante del sector artístico, cultural o intelectual del país;
+e) Un Delegado del Banco Central de Nicaragua.
 
-f) Un Representante del sector Empresarial del país;
+f) Un Representante del Sector Artístico, Cultural o Intelectual del país.
 
-g) Un Delegado de la Presidencia de la República.
+g) Un Representante del Sector Empresarial del país.
 
-Los miembros de la Junta Directiva a que se refieren los Acápite e), f) y g) serán designados por el Presidente de la República.
+h) Un Delegado de la Presidencia de la República.
+
+Los Miembros de la Junta Directiva a que se refieren los acápites f), g) y h) serán designados por el Presidente de la República.
