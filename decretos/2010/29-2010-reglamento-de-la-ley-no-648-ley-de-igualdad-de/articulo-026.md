@@ -8,4 +8,6 @@ El Estado, debe garantizar que los medios de comunicación social dirijan la inf
 
 3. Eviten un lenguaje sexista, excluyente y discriminatorio en contra de las mujeres, así como evitar contenidos en donde se establezca a la mujer como un objeto sexual o donde se incite y justifique la violencia.
 
-ÁMBITO CULTURAL
+Capítulo V
+
+Ámbito Cultura l

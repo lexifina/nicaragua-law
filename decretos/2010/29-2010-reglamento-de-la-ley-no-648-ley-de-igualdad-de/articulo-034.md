@@ -1,5 +1,7 @@
 # Artículo 34
 
-El Poder Ejecutivo procurará asignarle el presupuesto necesario para garantizar las condiciones materiales y de recursos humanos al Instituto Nicaragüense de la Mujer, para que este realice de manera efectiva las atribuciones derivas de la Ley y el presente Reglamento.
+El Poder Ejecutivo procurará asignarle el presupuesto necesario para garantizar las condiciones materiales y de recursos humanos al Ministerio de la Mujer, para que este realice de manera efectiva las atribuciones derivadas de la Ley y el presente Reglamento.
 
-PROCURADURÍA ESPECIAL DE LA MUJER DE LA PROCURADURÍA PARA LA DEFENSA DE LOS DERECHOS HUMANOS
+Capítulo II
+
+Procuraduría Especial de la Mujer de la Procuraduría para la Defensa de los Derechos Humanos

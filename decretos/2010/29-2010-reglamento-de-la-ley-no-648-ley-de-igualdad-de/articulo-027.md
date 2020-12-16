@@ -8,4 +8,6 @@ El Estado, Empresas, instituciones públicas, los Gobiernos Regionales y Municip
 
 3. Promover el rescate y la difusión amplia del conocimiento de la personalidad y la obra de las mujeres que hayan contribuido en la vida artística y cultural.
 
-ÁMBITO DERECHO DE LA FAMILIA
+Capítulo VI
+
+Ámbito Derecho de la Familia

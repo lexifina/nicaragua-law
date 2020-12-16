@@ -1,12 +1,16 @@
-REGLAMENTO DE LA LEY N°. 648, LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES
+TEXTO CONSOLIDADO, DECRETO EJECUTIVO Nº. 29-2010, REGLAMENTO DE LA LEY Nº. 648, LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES
 
-DECRETO EJECUTIVO N°. 29-2010, aprobado el 16 de junio de 2010
+DECRETO EJECUTIVO N°. 29-2010, aprobado el 06 de agosto de 2020
 
-Publicado en La Gaceta, Diario Oficial N°. 121 del 28 de junio de 2010
+Publicado en La Gaceta, Diario Oficial N°. 232 del 16 de diciembre de 2020
 
-Gobierno de Reconciliación y Unidad Nacional
+ASAMBLEA NACIONAL
 
-DECRETO No. 29-2010
+Digesto Jurídico Nicaragüense de la Materia de Familia, Mujer, Niñez, Juventud, Adulto Mayor y Equidad de Género
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 6 de agosto de 2020, del Decreto Ejecutivo Nº. 29-2010, Reglamento de la Ley Nº. 648, Ley de Igualdad de Derechos y Oportunidades, aprobado el 16 de junio de 2010 y publicado en La Gaceta, Diario Oficial Nº. 121 del 28 de junio de 2010, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1034, Ley del Digesto Jurídico Nicaragüense de la Materia de Familia, Mujer, Niñez, Juventud, Adulto Mayor y Equidad de Género, aprobada el 6 de agosto de 2020.
+
+DECRETO Nº. 29-2010
 
 El Presidente de la República
 
@@ -18,7 +22,7 @@ Que nuestra Constitución Política, establece que todas las personas son iguale
 
 II
 
-Que la Ley No. 648, “Ley de Igualdad de Derechos y Oportunidades”, vino a fortalecer estos preceptos constitucionales, permitiendo redefinir las políticas públicas del Estado, las que tiene como reto importante, la no discriminación por razón de sexo y raza.
+Que la Ley Nº. 648, Ley de Igualdad de Derechos y Oportunidades, vino a fortalecer estos preceptos constitucionales, permitiendo redefinir las políticas públicas del Estado, las que tiene como reto importante, la no discriminación por razón de sexo y raza.
 
 III
 
@@ -36,10 +40,10 @@ El siguiente:
 
 DECRETO
 
-REGLAMENTO DE LA LEY NO. 648, LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES.
+REGLAMENTO DE LA LEY Nº. 648, LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES
 
 TÍTULO I
 
 DISPOSICIONES GENERALES
 
-CAPÍTULO I
+Capítulo I

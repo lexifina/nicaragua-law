@@ -10,14 +10,16 @@ Para el efectivo cumplimiento de las disposiciones de la Ley y el Reglamento, so
 
 4. Ministerio de la Familia, Adolescencia y Niñez.
 
-5. Ministerio del Ambiente y de los Recursos Naturales en coordinación con el Instituto Nicaragüense de la Mujer.
+5. Ministerio del Ambiente y de los Recursos Naturales en coordinación con el Ministerio de la Mujer.
 
-6. Instituto de Desarrollo Rural.
+6. Ministerio de Economía Familiar, Comunitaria, Cooperativa y Asociativa.
 
-7. Ministerio Agropecuario y Forestal.
+7. Ministerio Agropecuario.
 
 8. Instituto Nacional de Información de Desarrollo (INIDE).
 
-9. Instituto Nicaragüense de la Mujer.
+9. Ministerio de la Mujer.
 
-SANCIONES ADMINISTRATIVAS
+Capítulo V
+
+Sanciones Administrativas
