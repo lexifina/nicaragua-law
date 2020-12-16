@@ -1,6 +1,6 @@
 # Artículo 8
 
-Son atribuciones del consejo de Dirección artística las siguientes:
+Son atribuciones del Consejo de Dirección Artística las siguientes:
 
 1. Autorizar los planes y programas de estudio de las diversas instituciones y asociaciones independientes del Estado dedicadas a la enseñanza artística si desean gozar de los beneficios y reconocimiento que este Decreto concede.
 
@@ -12,6 +12,6 @@ Son atribuciones del consejo de Dirección artística las siguientes:
 
 5. Proponer a la Dirección Superior del Instituto Nicaragüense de Cultura ante - proyectos de ley, decretos o reglamentos relacionados con los campos de competencia de El CENEAPAC.
 
-6. Coordinar la representación nacional e internacional ante organismo a los que esté vinculado El CENEAPAC.
+6. Coordinar la representación nacional e internacional ante organismos a los que esté vinculado El CENEAPAC.
 
-7. Proponer a la Dirección Superior del Instituto Nicaragüense de Cultura la creación del ordenes, premios, distinciones y reconocimientos a personas, organismos o Instituciones destacadas por sus aportes a la música, la danza, el teatro y las artes.
+7. Proponer a la Dirección Superior del Instituto Nicaragüense de Cultura la creación de órdenes, premios, distinciones y reconocimientos a personas, organismos o Instituciones destacadas por sus aportes a la música, la danza, el teatro y las artes.

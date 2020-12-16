@@ -1,10 +1,14 @@
-CREACIÓN DEL CENTRO NICARAGÜENSE DE ENSEÑANZA ARTÍSTICA PABLO ANTONIO CUADRA
+TEXTO CONSOLIDADO, DECRETO EJECUTIVO N°. 72-97, DECRETO DE CREACIÓN DEL CENTRO NICARAGÜENSE DE ENSEÑANZA ARTÍSTICA “PABLO ANTONIO CUADRA”
 
-DECRETO EJECUTIVO N°. 72-97, aprobado el 15 de diciembre de 1997
+DECRETO EJECUTIVO N°. 72-97, aprobado el 25 de junio de 2020
 
-Publicado en La Gaceta, Diario Oficial N°. 241 del 18 de diciembre de 1997
+Publicado en La Gaceta, Diario Oficial N°. 232 del 16 de diciembre de 2020
 
-DECRETO N°. 72-97,
+Digesto Jurídico Nicaragüense de la Materia de Cultura
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 25 de junio de 2020, del Decreto Ejecutivo N°. 72-97, Creación del Centro Nicaragüense de Enseñanza Artística “Pablo Antonio Cuadra”, aprobado el 15 de diciembre de 1997 y publicado en La Gaceta, Diario Oficial N°. 241 del 18 de diciembre de 1997, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial N°. 203 del 25 de octubre de 2017 y la Ley N°. 1032, Ley del Digesto Jurídico Nicaragüense de la Materia de Cultura, aprobada el 25 de junio de 2020.
+
+DECRETO N°. 72-97
 
 El Presidente de la República de Nicaragua
 
@@ -20,7 +24,7 @@ Que para alcanzar eficazmente este propósito, el Estado deberá crear las Insti
 
 III
 
-Que siendo el Instituto Nicaragüense de Cultura la Institución Cultural y Artística superior de la República dedicada entre otras cosas a la instrucción y formación de todas aquellas personas que eligieron las artes como su opción profesional.
+Que siendo el Instituto Nicaragüense de Cultura la Institución cultural y artística superior de la República dedicada entre otras cosas a la instrucción y formación de todas aquellas personas que eligieron las artes como su opción profesional.
 
 En uso de las facultades que le confiere la Constitución Política
 
@@ -30,8 +34,8 @@ El siguiente:
 
 DECRETO
 
-DE CREACIÓN DEL CENTRO NICARAGÜENSE DE ENSEÑANZA ARTÍSTICA PABLO ANTONIO CUADRA
+DE CREACIÓN DEL CENTRO NICARAGÜENSE DE ENSEÑANZA ARTÍSTICA “PABLO ANTONIO CUADRA”
 
-CAPITULO I
+Capítulo I
 
-DISPOSICIONES GENERALES
+Disposiciones Generales

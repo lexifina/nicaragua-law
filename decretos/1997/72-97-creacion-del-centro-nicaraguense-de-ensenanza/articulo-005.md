@@ -12,7 +12,7 @@ Son funciones y atribuciones de El CENEAPAC las siguientes:
 
 5. Asistir técnicamente a la Dirección Superior del Instituto Nicaragüense de Cultura en materia de su competencia.
 
-6. Prestar los servicios de asesoramiento y consulta que las instituciones del estado y los municipios le soliciten en los campos de su competencia.
+6. Prestar los servicios de asesoramiento y consulta que las instituciones del Estado y los municipios le soliciten en los campos de su competencia.
 
 7. Organizar diferentes eventos de promoción, difusión, recreación y especialización de las disciplinas artísticas que se imparten en el centro.
 
@@ -24,8 +24,10 @@ Son funciones y atribuciones de El CENEAPAC las siguientes:
 
 11. Diseñar y presentar para su aprobación a la Dirección Superior del Instituto Nicaragüense de Cultura los pensum académicos de las escuelas.
 
-12. Extender a los artistas egresados de las diferentes escuelas el título correspondiente debidamente rubricado y registrado, el que de conformidad con el cumplimiento de las normas de el CENEAPAC y este Decreto, gozará de todas las prerrogativas que la ley concede.
+12. Extender a los artistas egresados de las diferentes escuelas el título correspondiente debidamente rubricado y registrado, el que de conformidad con el cumplimiento de las normas de El CENEAPAC y este Decreto, gozará de todas las prerrogativas que la ley concede.
 
 13. Cualquier otra función que en los campos de su competencia se asignen por disposiciones legales.
 
-DE LA DIRECCIÓN
+Capítulo IV
+
+De la Dirección

@@ -12,8 +12,10 @@ El administrador de El CENEAPAC tendrá las atribuciones siguientes:
 
 5. Llevar un registro e inventario actualizado de todos los bienes propiedad del centro.
 
-6. Acatar y hacer cumplir el reglamento interno del Instituto Nicaragüense de Cultura aplicando sus políticas de personal y control disciplinario.
+6. Acatar y hacer cumplir el reglamento interno del Instituto Nicaragüense de Cultura, aplicando sus políticas de personal y control disciplinario.
 
 7. Conocer de las necesidades técnico - materiales de las distintas escuelas y dar respuesta a ellas de acuerdo a la disponibilidad de los recursos.
 
-DE SU ORGANIZACIÓN
+Capítulo VI
+
+De su Organización

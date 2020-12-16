@@ -14,7 +14,7 @@ Para llevar a cabo su cometido, EL CENEAPAC contará con los recursos patrimonia
 
 6. Los aportes de la cooperación externa e internacional.
 
-7. El producto de una o mas emisiones anuales de sellos postales alusivos a El CENEAPAC, que sea autorizado por la Presidencia de la República.
+7. El producto de una o más emisiones anuales de sellos postales alusivos a El CENEAPAC, que sea autorizado por la Presidencia de la República.
 
 8. Los ingresos que generen las actividades artísticas de promoción de El CENEAPAC, de acuerdo con la ley.
 
