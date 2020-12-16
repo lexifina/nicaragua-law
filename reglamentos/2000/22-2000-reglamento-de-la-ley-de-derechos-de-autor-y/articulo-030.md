@@ -1,9 +1,11 @@
 # Artículo 30
 
-Registro de la Sociedad.- Para efectos de registro, deberá precisarse con claridad su objeto o fines, de acuerdo a lo siguiente:
+Registro de la Sociedad
 
-a. por rama o categoría de creación de obras;
+Para efectos de registro, deberá precisarse con claridad su objeto o fines, de acuerdo a lo siguiente:
 
-b. por categoría de titulares de derechos conexos;
+a. Por rama o categoría de creación de obras;
 
-c. por modalidad de explotación, cuando concurran en su titularidad varias categorías de creación de obras o de titulares de derechos conexos, y siempre que la naturaleza de los derechos encomendados a su gestión así lo justifique.
+b. Por categoría de titulares de derechos conexos;
+
+c. Por modalidad de explotación, cuando concurran en su titularidad varias categorías de creación de obras o de titulares de derechos conexos, y siempre que la naturaleza de los derechos encomendados a su gestión así lo justifique.

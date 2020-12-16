@@ -1,6 +1,8 @@
 # Artículo 18
 
-Actos de Comunicación Pública.- De conformidad al Arto. 23 de la Ley, son actos de comunicación pública, especialmente los siguientes:
+Comunicación Pública
+
+De conformidad con el numeral 2.5 del Artículo 2, los Artículos 23, 86, 87 y 92 de la Ley, son actos de comunicación pública, especialmente los siguientes:
 
 1. Las representaciones escénicas, recitaciones, disertaciones y ejecuciones públicas de las obras dramáticas, dramáticos-musicales, literarias y artísticas de cualquier forma o procedimiento.
 
@@ -17,3 +19,9 @@ Actos de Comunicación Pública.- De conformidad al Arto. 23 de la Ley, son acto
 7. El acceso público a bases de datos informáticos por medio de telecomunicación, cuando éstas se incorporan o constituyen obras protegidas.
 
 8. La difusión, por cualquier procedimiento conocido o por conocerse, de los signos, las palabras, los sonidos o las imágenes.
+
+9. La puesta a disposición del público de fonogramas, interpretaciones o ejecuciones fijadas ya sea por medios alámbricos o inalámbricos, de tal manera que el público pueda tener acceso a ellas desde el lugar y al momento en que cada uno de sus miembros elija.
+
+10. La radiodifusión y comunicación al público de interpretaciones o ejecuciones no fijadas, excepto cuando la interpretación o ejecución constituya una ejecución radiodifundida.
+
+Los actos listados en el presente artículo son complementarios en cuanto corresponda a los derechos establecidos en los artículos 86, 87 y 92 de la Ley N°. 312, Ley de Derecho de Autor y Derechos Conexos y su reforma Ley N°. 577, Ley de Reformas y Adiciones a la Ley N°. 312, Ley de Derecho de Autor y Derechos Conexos.

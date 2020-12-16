@@ -1,17 +1,19 @@
 # Artículo 51
 
-Otras Inscripciones.- Para la inscripción de decisiones judiciales, arbitrales o administrativas que impliquen declaración, constitución, aclaración, adjudicación, modificación, limitación, gravamen, transmisión de derechos, medidas cautelares o cualquier otras disposición o decisión que afecte una declaración o inscripción ante el registro, deberá acompañarse el documento debidamente certificado, legalizado o traducido, según corresponda, indicando la información siguiente:
+Otras Inscripciones
 
-1. Nombre y cargo de la autoridad que emitió la decisión.
+Para la inscripción de decisiones judiciales, arbitrales o administrativas que impliquen declaración, constitución, aclaración, adjudicación, modificación, limitación, gravamen, transmisión de derechos, medidas cautelares o cualquier otras disposición o decisión que afecte una declaración o inscripción ante el Registro, deberá acompañarse el documento debidamente certificado, legalizado o traducido, según corresponda, indicando la información siguiente:
 
-2. Parte o partes intervinientes.
+1) Nombre y cargo de la autoridad que emitió la decisión.
 
-3. Clase de decisión.
+2) Parte o partes intervinientes.
 
-4. Objeto y efectos del acto.
+3) Clase de decisión.
 
-5. Lugar y fecha del pronunciamiento.
+4) Objeto y efectos del acto.
 
-6. Nombre y demás datos que permitan la identificación del solicitante de la inscripción.
+5) Lugar y fecha del pronunciamiento.
 
-7. Cualquier otra información que el solicitante considere oportuna.
+6) Nombre y demás datos que permitan la identificación del solicitante de la inscripción.
+
+7) Cualquier otra información que el solicitante considere oportuna.
