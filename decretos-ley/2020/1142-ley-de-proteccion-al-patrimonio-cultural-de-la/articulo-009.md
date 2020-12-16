@@ -1,0 +1,3 @@
+# Artículo 9
+
+Cuando un organismo estatal o una persona natural o jurídica, nacional o extranjero, desarrollen proyectos de cualquier índole, en inmuebles, conjuntos urbanos o rurales y zonas arqueológicas o paleontológicas que estén comprendidas en esta Ley, deberán destinar el porcentaje que señale la Dirección de Patrimonio, que oscilará entre el 1 y el 10% del presupuesto total de las obras a realizarse, para el rescate, conservación o restauración, según el caso, de los bienes del Patrimonio Cultural que fueren afectados por la ejecución de las obras, depositando ese porcentaje a nombre del Fisco.
