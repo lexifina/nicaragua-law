@@ -6,9 +6,9 @@ Créase EL CONSEJO NACIONAL DEL PODER CIUDADANO PARA LA PROTECCIÓN Y CONSERVACI
 
 2. Ministro de Educación.
 
-3. Presidenta en funciones del Instituto Nicaragüense de Turismo.
+3. Codirectora o Codirector General y Administrativo del Instituto Nicaragüense de Turismo.
 
-4. Director General del Instituto Nicaragüense de Cultura.
+4. Codirector General del Instituto Nicaragüense de Cultura.
 
 5. Secretario Permanente de la Comisión Nicaragüense de Cooperación con la UNESCO.
 
@@ -18,19 +18,19 @@ Créase EL CONSEJO NACIONAL DEL PODER CIUDADANO PARA LA PROTECCIÓN Y CONSERVACI
 
 8. Antiguos portadores de la tradición: señores JOSÉ LÓPEZ, PABLO GUTIÉRREZ, CARLOS SOTELO, JOSÉ FLORES, MARCO ANTONIO PUTOY.
 
-9. Dos Reconocidos Estudiosos de la Obra El Güegüense.
+9. Dos reconocidos estudiosos de la Obra El Güegüense.
 
-10. Dos Reconocidos Investigadores.
+10. Dos reconocidos investigadores.
 
-11. Dos Reconocidos Folcloristas.
+11. Dos reconocidos folcloristas.
 
-12. Dos Reconocidos y destacados Teatristas.
+12. Dos reconocidos y destacados teatristas.
 
-13. Dos Reconocidos y destacados Directores de Grupos de Danza.
+13. Dos reconocidos y destacados directores de grupos de danza.
 
-14. Dos Reconocidos y destacados Músicos y Arreglistas.
+14. Dos reconocidos y destacados músicos y arreglistas.
 
-15. Dos Reconocidos y destacados Artistas Plásticos.
+15. Dos reconocidos y destacados artistas plásticos.
 
 16. Un destacado representante de la Asociación Cultural El Güegüense (ASCG).
 
