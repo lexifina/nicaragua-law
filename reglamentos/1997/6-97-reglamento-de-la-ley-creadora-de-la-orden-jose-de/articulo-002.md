@@ -2,12 +2,14 @@
 
 La Orden comprende los siguientes grados:
 
-a) Gran Cruz
+Collar
 
-b) Gran Oficial
+Gran Cruz
 
-c) Encomienda
+Gran Oficial
 
-d) Oficial
+Encomienda
 
-e) Caballero
+Oficial
+
+Caballero

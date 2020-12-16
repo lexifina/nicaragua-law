@@ -1,3 +1,3 @@
 # Artículo 10
 
-La Orden José de Marcoleta se concederá a Funcionarios y Empleados del Servicio Exterior que hubieren cumplido 25 años al servicio de Nicaragua. Sin embargo, no se otorgará a aquellos funcionarios o empleados que hayan sido objeto de medidas o sanciones disciplinarias que demeriten su honorabilidad, a juicio del Consejo.
+La “Orden José de Marcoleta” podrá ser conferida a funcionarios y empleados del Servicio Exterior que hubieren cumplido un mínimo de 5 años al servicio de Nicaragua. No obstante, no se otorgará a aquellos funcionarios o empleados que hayan sido objeto de medidas o sanciones disciplinarias que determinen su honorabilidad, a juicio del Consejo.
