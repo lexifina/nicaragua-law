@@ -1,6 +1,6 @@
 # Artículo 3
 
-Definiciones de la Presente Ley: Para los efectos de la presente Ley, se entenderá por:
+Definiciones de la presente Ley: Para los efectos de la presente Ley, se entenderá por:
 
 a. Respeto a la dignidad humana: Igual valoración que tiene, tanto la mujer como el hombre y que merece el respeto y la protección de sus derechos humanos y libertades fundamentales sin distinción alguna de raza, etnia, sexo, edad, lengua, religión, opinión, ideología, política, origen, posición económica o condición humana o social.
 

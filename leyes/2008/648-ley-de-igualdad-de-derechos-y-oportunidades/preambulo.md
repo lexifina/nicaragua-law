@@ -1,10 +1,16 @@
-LEY N°. 648, LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES
+TEXTO CONSOLIDADO, LEY N°. 648, LEY DE IGUALDAD DE DERECHOS Y OPORTUNIDADES
 
-Aprobada el 14 de febrero de 2008
+Aprobado el 06 de agosto de 2020
 
-Publicada en La Gaceta, Diario Oficial N°. 51 del 12 de marzo de 2008
+Publicado en La Gaceta, Diario Oficial N°. 232 del 16 de diciembre de 2020
 
-Ley No. 648
+ASAMBLEA NACIONAL
+
+Digesto Jurídico Nicaragüense de la Materia de Familia, Mujer, Niñez, Juventud, Adulto Mayor y Equidad de Género
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 6 de agosto de 2020, de la Ley Nº. 648, Ley de Igualdad de Derechos y Oportunidades, aprobada el 14 de febrero de 2008 y publicada en La Gaceta, Diario Oficial Nº. 51 del 12 de marzo de 2008, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1034, Ley del Digesto Jurídico Nicaragüense de la Materia de Familia, Mujer, Niñez, Juventud, Adulto Mayor y Equidad de Género, aprobada el 06 de agosto de 2020.
+
+LEY N°. 648
 
 El Presidente de la República de Nicaragua
 
@@ -18,7 +24,7 @@ CONSIDERANDO
 
 I
 
-Que la Constitución Política de la República de Nicaragua en su artículo 5, reconoce como principio de la Nación nicaragüense, entre otros, "el respeto a la dignidad de la persona", también establece en el párrafo primero del artículo 27, que "todas las personas son iguales ante la ley y tienen derecho a igual protección. No habrá discriminación por motivos de nacimientos, nacionalidad, credo político, raza, sexo, idioma, religión, opinión, origen, posición económica o condición social." Por su parte el artículo 48 establece la igualdad incondicional de todos los nicaragüenses en el goce de sus derechos políticos; en el ejercicio de los mismos y en el cumplimiento de sus deberes y responsabilidades; existe igualdad absoluta entre el hombre y la mujer, y para evitar que esta norma quede sólo como una solemne declaración, la Constitución Política de la República de Nicaragua, establece la obligación del Estado de eliminar los obstáculos que impidan de hecho la igualdad entre los nicaragüenses y su participación efectiva en la vida política, económica, social y cultural del país.
+Que la Constitución Política de la República de Nicaragua en su Artículo 5, reconoce como principio de la Nación nicaragüense, entre otros, "el respeto a la dignidad de la persona", también establece en el párrafo primero del Artículo 27, que "todas las personas son iguales ante la ley y tienen derecho a igual protección. No habrá discriminación por motivos de nacimientos, nacionalidad, credo político, raza, sexo, idioma, religión, opinión, origen, posición económica o condición social". Por su parte el Artículo 48 establece la igualdad incondicional de todos los nicaragüenses en el goce de sus derechos políticos; en el ejercicio de los mismos y en el cumplimiento de sus deberes y responsabilidades; existe igualdad absoluta entre el hombre y la mujer, y para evitar que esta norma quede sólo como una solemne declaración, la Constitución Política de la República de Nicaragua, establece la obligación del Estado de eliminar los obstáculos que impidan de hecho la igualdad entre los nicaragüenses y su participación efectiva en la vida política, económica, social y cultural del país.
 
 II
 

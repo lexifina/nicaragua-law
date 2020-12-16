@@ -12,6 +12,6 @@ El Ministerio de Salud en el diseño, ejecución y evaluación de políticas, pl
 
 5) Cumplimiento efectivo de las disposiciones contenidas en las leyes laborales y de materia de seguridad social relativa a la protección de las mujeres trabajadoras en estado de embarazo y lactancia.
 
-6) Impulsar modelos de salud intercultural en los pueblos indígenas de las Regiones Autónomas de la Costa Atlántica, Pacífico, Centro y Norte del país, así como en las comunidades afrodescendientes, por lo que se debe asignar partidas presupuestarias para su puesta en práctica.
+6) Impulsar modelos de salud intercultural en los pueblos indígenas de las Regiones Autónomas de la Costa Caribe, Pacífico, Centro y Norte del país, así como en las comunidades afrodescendientes, por lo que se debe asignar partidas presupuestarias para su puesta en práctica.
 
 7) En el ejercicio de una maternidad y paternidad responsable, las mujeres y los hombres deberán contar con toda la información y educación científica actualizada, oportuna, veraz, suficiente y completa, al igual que los servicios de salud reproductiva necesaria, para la planificación familiar.

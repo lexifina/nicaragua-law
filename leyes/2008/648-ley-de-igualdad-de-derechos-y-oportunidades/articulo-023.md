@@ -2,7 +2,7 @@
 
 Las instituciones estatales deben diseñar, ejecutar, evaluar políticas, planes, programas y proyectos, que deben aplicarse conforme a los siguientes lineamientos:
 
-1) El modelo educativo, las políticas, planes, programas y proyectos que de estos se deriven, deben eliminar las desigualdades en el acceso y permanencia a la educación; los estereotipos sexistas en el diseño curricular y promover los valores de respeto a los derechos humanos, equidad y solidaridad. También deberán estimular relaciones de mutua valoración humana equivalentes entre mujeres y hombres, modelos de convivencia y de respeto a la diversidad étnica y cultural.
+1) El modelo educativo, las políticas, planes, programas y proyectos que de estos se deriven, deben eliminarlas desigualdades en el acceso y permanencia a la educación; los estereotipos sexistas en el diseño curricular y promover los valores de respeto a los derechos humanos, equidad y solidaridad. También deberán estimular relaciones de mutua valoración humana equivalentes entre mujeres y hombres, modelos de convivencia y de respeto a la diversidad étnica y cultural.
 
 2) Desarrollar programas especiales a corto plazo dirigidos a mujeres, diseñados en función de sus tiempos, necesidades, características regionales y municipales que garanticen su formación educativa integral, incluyendo programas bilingües biculturales para las Regiones Autónomas.
 
@@ -22,4 +22,4 @@ Las instituciones estatales deben diseñar, ejecutar, evaluar políticas, planes
 
 10) Garantizar la igualdad de oportunidades efectiva en las actividades correspondientes a las disciplinas deportivas y culturales, dirigidas a contribuir al desarrollo físico saludable, al enriquecimiento artístico y al entretenimiento de mujeres y hombres, velando para que las personas con capacidades diferentes puedan ejercer plenamente el acceso a las mismas.
 
-11) El Estado garantizará que las niñas y adolescentes que durante el periodo escolar resulten embarazadas, no podrán ser objeto de discriminación, maltrato, ni exclusión por su condición, en ninguna institución pública y privada.
+11) El Estado garantizará que las niñas y adolescentes que durante el período escolar resulten embarazadas, no podrán ser objeto de discriminación, maltrato, ni exclusión por su condición, en ninguna institución pública y privada.

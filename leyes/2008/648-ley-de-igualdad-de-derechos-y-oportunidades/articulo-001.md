@@ -1,3 +1,5 @@
 # Artículo 1
 
-Es objeto de la presente Ley promover la igualdad y equidad en el goce de los derechos humanos, civiles, políticos, económicos, sociales y culturales entre mujeres y hombres; establecer los principios generales que fundamenten políticas públicas dirigidas a garantizar el ejercicio efectivo en la igualdad real, en la aplicación de la norma jurídica vigente de mujeres y hombres, para asegurar el pleno desarrollo de la mujer y establecer los mecanismos fundamentales a través de los cuales todos los órganos de la administración pública y demás Poderes del Estado, gobiernos regionales y municipales garantizarán la efectiva igualdad entre mujeres y hombres.
+Es objeto de la presente Ley promover la igualdad y equidad en el goce de los derechos humanos, civiles, políticos, económicos, sociales y culturales entre mujeres y hombres; establecer los principios generales que fundamenten políticas públicas dirigidas a garantizar el ejercicio efectivo en la igualdad real, en la aplicación de la norma jurídica vigente de mujeres y hombres, para asegurar el pleno desarrollo de la mujer y
+
+establecer los mecanismos fundamentales a través de los cuales todos los órganos de la administración pública y demás Poderes del Estado, gobiernos regionales y municipales garantizarán la efectiva igualdad entre mujeres y hombres.

@@ -1,6 +1,6 @@
 # Artículo 33
 
-El Poder Ejecutivo deberá asegurar que el Instituto Nicaragüense de la Mujer:
+El Poder Ejecutivo deberá asegurar que el Ministerio de la Mujer:
 
 1) Participe, en conjunto con las instituciones competentes, en la planificación estratégica, económica y social, para garantizar el enfoque de género y el cumplimiento de la presente Ley;
 
