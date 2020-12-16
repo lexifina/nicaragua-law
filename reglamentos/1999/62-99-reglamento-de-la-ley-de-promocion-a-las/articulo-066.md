@@ -1,3 +1,3 @@
 # Artículo 66
 
-El presente Decreto entrará en vigencia a partir de su publicación en “La Gaceta Diario Oficial”.
+El presente Decreto entrará en vigencia a partir de su publicación en “La Gaceta, Diario Oficial”.

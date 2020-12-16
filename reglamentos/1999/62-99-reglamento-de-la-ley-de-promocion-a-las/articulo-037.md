@@ -1,7 +1,7 @@
 # Artículo 37
 
-En el caso de que personas naturales o jurídicas extranjeras deseen realizar las obras mencionadas en el artículo anterior deberán cumplir con los requisitos del artículo 33 del presente Reglamento.
+Derogado.
 
-Capítulo Vl
+Capítulo VI
 
 De la actuación de Artistas Extranjeros en Territorio Nacional

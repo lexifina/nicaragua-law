@@ -6,6 +6,6 @@ Para la ubicación de obras de arte público monumental se deberán tomar en cue
 
 2. Unidad de imagen urbana.
 
-3. paisaje natural, urbano, cultural e histórico.
+3. Paisaje natural, urbano, cultural e histórico.
 
 4. Valoración ambiental del entorno.

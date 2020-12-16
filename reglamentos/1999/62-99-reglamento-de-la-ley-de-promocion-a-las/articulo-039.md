@@ -4,11 +4,11 @@ Todo contrato o convenio que regule la relación contractual entre artistas extr
 
 1. Nombres y apellidos, denominación y domicilio de la persona jurídica o natural que contrata al artista internacional.
 
-2. Nombre del artista o representante con detalle del numero de sus integrantes, genero y formato.
+2. Nombre del artista o representante con detalle del número de sus integrantes, género y formato.
 
-3. Monto del Contrato, en caso de no especificar el monto del contrato, la DGI en coordinación con el INC. estimaran el monto del mismo.
+3. Monto del Contrato, en caso de no especificar el monto del contrato, la DGI en coordinación con el I.N.C. estimarán el monto del mismo.
 
-4. Plazo por el que fueron convenidos los espectáculos y numero determinado de ellos.
+4. Plazo por el que fueron convenidos los espectáculos y número determinado de ellos.
 
 5. Determinación de las modalidades bajo las que se desarrollan los espectáculos.
 

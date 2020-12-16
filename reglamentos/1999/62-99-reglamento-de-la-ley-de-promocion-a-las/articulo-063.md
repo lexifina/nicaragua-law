@@ -1,6 +1,6 @@
 # Artículo 63
 
-Para dar cumplimiento a lo establecido en el artículo 33 de la Ley, se exonera de impuestos fiscales y aduaneros los siguientes:
+Para dar cumplimiento a lo establecido en el Artículo 33 de la Ley, se exonera de impuestos fiscales y aduaneros los siguientes:
 
 Instrumentos Musicales:
 
@@ -8,95 +8,93 @@ Instrumentos Musicales:
 
 2. Instrumentos musicales de viento madera.
 
-3. Instrumentos musicales de viento madera.
+3. Instrumentos musicales de percusión mayor y menor.
 
-4. Instrumentos musicales de percusión mayor y menor.
+4. Estuches para todo tipo de instrumentos musicales y equipos.
 
-5. Estuches para todo tipo de Instrumentos musicales y equipos.
+5. Stand para instrumentos musicales y equipos.
 
-6. Stand para instrumentos musicales y equipos.
-
-7. Accesorios y repuestos para instrumentos musicales.
+6. Accesorios y repuestos para instrumentos musicales.
 
 Sonido, Luces y Grabación
 
-8. Equipo de Audio en general.
+7. Equipo de audio en general.
 
-9. Equipo de reproducción de sonido.
+8. Equipo de reproducción de sonido.
 
-10. Equipo de grabación y reproducción de sonido.
+9. Equipo de grabación y reproducción de sonido.
 
-11. Equipo de iluminación escénica, teatro, salas y efectos especiales.
+10. Equipo de iluminación escénica, teatro, salas y efectos especiales.
 
-12. Cables, accesorios y repuestos para Equipo de iluminación.
+11. Cables, accesorios y repuestos para equipo de iluminación.
 
-13. Equipo computarizado de Audio, grabación y reproducción de sonido y efectos especiales de luces.
+12. Equipo computarizado de audio, grabación y reproducción de sonido y efectos especiales de luces.
 
-14. Equipos y accesorios eléctricos.
+13. Equipos y accesorios eléctricos.
 
-15. Plantas de energía eléctrica.
+14. Plantas de energía eléctrica.
 
 Audiovisuales
 
-16. Equipos, cámaras materiales y accesorios para la producción, grabación y proyección de audiovisuales.
+15. Equipos, cámaras, materiales y accesorios para la producción, grabación y proyección de audiovisuales.
 
-17. Equipos, cámaras. materiales y accesorios para 1er. producción fotográfica.
+16. Equipos, cámaras, materiales y accesorios para la producción fotográfica.
+
+17. Equipos y accesorios computarizados para la producción de audiovisuales.
 
 Vestuario y maquillaje
 
-18. Equipos y accesorios computarizado para la producción de audiovisuales.
+18. Telas y accesorios para la elaboración de vestuario para todo tipo de disciplina artística.
 
-19. Telas y accesorios para la elaboración de vestuario para todo tipo de disciplina artística.
+19. Zapatos y accesorios para vestuarios y escenarios.
 
-20. Zapatos y accesorios para vestuarios y escenarios.
+20. Utilería y accesorios para vestuario y escenarios.
 
-21. Utilería y accesorios para vestuario y escenarios.
+21. Materiales y accesorios para maquillaje.
 
-22. Materiales y accesorios para maquillaje.
-
-23. Vestuarios confeccionados.
+22. Vestuarios confeccionados.
 
 Materiales para Artes Plásticas
 
-24. Lápices y papelería en general.
+23. Lápices y papelería en general.
 
-25. Fijador y atomizador para trabajos de pintura.
+24. Fijador y atomizador para trabajos de pintura.
 
-26. Oleos, acrílicos y acuarelas.
+25. Oleos, acrílicos y acuarelas.
 
-27. Espátulas, pinceles y bastidores.
+26. Espátulas, pinceles y bastidores.
 
-28. Pinturas, aceites, ceras, barnices y tintes.
+27. Pinturas, aceites, ceras, barnices y tintes.
 
-29. Telas para pinar.
+28. Telas para pinar.
 
-30. Caballetes y estuches completos para pintura.
+29. Caballetes y estuches completos para pintura.
 
 Gráficas
 
-31. Equipos y accesorios para serigrafía.
+30. Equipos y accesorios para serigrafía.
 
-32. Tintes y productos químicos.
+31. Tintes y productos químicos.
 
 Escultura
 
-33. Artículos, accesorios y herramientas para tallar madera, piedra y metales.
+32. Artículos, accesorios y herramientas para tallar madera, piedra y metales.
 
-34. Artículos y accesorios para hornos de cerámica.
+33. Artículos y accesorios para hornos de cerámica.
 
-35. Compresores de aire.
+34. Compresores de aire.
 
-36. Materia prima para la elaboración de esculturas.
+35. Materia prima para la elaboración de esculturas.
 
-37. Material didáctico para clases de arte en general.
+36. Material didáctico para clases de arte en general.
 
-38. Papel pautado para música.
+37. Papel pautado para música.
 
 Otros
 
-39. Libros, revistas y audiovisuales.
+38. Libros, revistas y audiovisuales.
 
-40. Lonas, carpas y accesorios para la construcción de circos.
+39. Lonas, carpas y accesorios para la construcción de circos.
 
 Capítulo XII
 
