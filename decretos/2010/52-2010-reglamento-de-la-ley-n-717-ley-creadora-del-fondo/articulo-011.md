@@ -1,12 +1,14 @@
 # Artículo 11
 
-ATRIBUCIONES DE LA SECRETARÍA TÉCNICA. La Secretaría Técnica tendrá las siguientes facultades y obligaciones:
+ATRIBUCIONES DE LA SECRETARÍA TÉCNICA
+
+La Secretaría Técnica tendrá las siguientes facultades y obligaciones:
 
 a) Proponer al Comité Administrador las políticas generales del Fondo para la compra de tierras.
 
 b) Participar en las reuniones del Comité Administrador con derecho a voz, pero sin voto.
 
-c) Promover y fortalecer las relaciones del Fondo, con organismos públicos y privados, nacionales e internacionales;
+c) Promover y fortalecer las relaciones del Fondo, con organismos públicos y privados, nacionales e internacionales.
 
 d) Formar, ejecutar y controlar los programas de trabajo.
 
@@ -18,4 +20,6 @@ g) Proponer los actos jurídicos que requiere la administración del Fondo.
 
 h) Cumplir en tiempo y forma todas las indicaciones dadas por el Comité Administrador del Fondo o el Presidente del mismo, en su caso.
 
-RÉGIMEN ECONÓMICO, BIENES Y RECURSOS DEL FONDO O DEL BANCO DE TIERRAS
+Capítulo III
+
+Régimen Económico, Bienes y Recursos del Fondo o del Banco de Tierras
