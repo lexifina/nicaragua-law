@@ -1,5 +1,0 @@
-- CAPÍTULO I (antes del artículo 1)
-- DISPOSICIONES GENERALES Y DEFINICIONES (antes del artículo 1)
-- CAPÍTULO II (antes del artículo 5)
-- CAPÍTULO III (antes del artículo 15)
-- CAPÍTULO VI (antes del artículo 31)

@@ -12,6 +12,6 @@ Los miembros del Consejo tendrán las siguientes responsabilidades.
 
 5. Representar al Consejo cuando se le solicite.
 
-6. Velar por que se acaten todas las resoluciones de CONICINE
+6. Velar por que se acaten todas las resoluciones de CONICINE.
 
 7. Velar por que la actividad cinematográfica nacional funcione adecuadamente.

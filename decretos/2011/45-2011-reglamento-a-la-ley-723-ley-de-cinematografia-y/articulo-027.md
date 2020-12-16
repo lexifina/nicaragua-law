@@ -1,5 +1,7 @@
 # Artículo 27
 
-Para los efectos del artículo 3 estará sujeto a la Legislación aduanera Vigente.
+Para los efectos del Artículo 3 estará sujeto a la legislación aduanera vigente.
 
-DE LA PROMOCIÓN CINEMATOGRÁFICA Y AUDIOVISUAL
+Capítulo IV
+
+De la Promoción Cinematográfica y Audiovisual

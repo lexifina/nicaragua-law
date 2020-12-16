@@ -1,6 +1,6 @@
 # Artículo 20
 
-Los libros del Registro de la Cinemateca Nacional de Nicaragua serán los siguientes:
+Los libros del Registro de la Cinemateca Nacional serán los siguientes:
 
 1. Libro de Diario
 
