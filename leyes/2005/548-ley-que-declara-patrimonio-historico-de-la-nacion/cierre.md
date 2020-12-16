@@ -1,7 +1,11 @@
-Dada en la ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional, a los siete días del mes julio del año dos mil cinco. RENÉ NÚÑEZ TÉLLEZ, Presidente de la Asamblea Nacional. – MARÍA AUXILIADORA ALEMÁN ZEAS, Secretaria de la Asamblea Nacional.
+Dada en la ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional, a los siete días del mes julio del año dos mil cinco. RENE NUÑEZ TÉLLEZ, Presidente de la Asamblea Nacional.- MARÍA AUXILIADORA ALEMÁN ZEAS, Secretaria de la Asamblea Nacional.
 
 Por tanto: Téngase como Ley de la República. Publíquese y Ejecútese. Managua, dos de agosto del año dos mil cinco. Enrique Bolaños Geyer, Presidente de la República de Nicaragua.
 
-Observación: El Texto Consolidado de la Ley N°. 548, Ley que Declara Patrimonio Histórico de la Nación, la Casa de la Insigne Maestra Josefa Toledo de Aguerri, fue aprobado y publicado en la Ley del Digesto Jurídico Nicaragüense de la Materia de Cultura.
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por la Ley N°. 612, Ley de Reforma y Adición a la Ley N°. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en La Gaceta, Diario Oficial N°. 20 del 29 de enero de 2007.
+
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los veinticinco días del mes de junio del año dos mil veinte. MSP. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+
+Observación: El Texto Consolidado, Ley N°. 548,Ley que Declara Patrimonio Histórico de la Nación, la Casa de la Insigne Maestra Josefa Toledo de Aguerri, se encuentra incorporado en el Anexo IV Registro de Normas Consolidadas de la Ley del Digesto Jurídico Nicaragüense de la Materia de Cultura.
 
 .
