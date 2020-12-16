@@ -1,0 +1,3 @@
+# Artículo 2
+
+A partir de la vigencia de la presente Ley, pasan a ser propiedad del Estado la casa en donde nació el General Augusto Cesar Sandino y la casa que perteneció a su padre Don Gregorio Sandino, ambas situadas en la población de Niquinohomo, municipio de Niquinohomo, departamento de Masaya, cuya descripción y localización se establecen en los próximos artículos. La transferencia de dichos bienes del patrimonio de los actuales propietarios al dominio del Estado se operará, por esta vez y dada la especial relevancia del caso, por el solo ministerio de la ley con la promulgación del presente Decreto Legislativo.
