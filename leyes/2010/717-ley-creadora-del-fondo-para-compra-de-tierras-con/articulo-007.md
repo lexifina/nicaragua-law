@@ -1,6 +1,6 @@
 # Artículo 7
 
-De las Atribuciones del Comité.
+De las Atribuciones del Comité
 
 El Comité Administrador del Fondo deberá establecer políticas, procedimientos y mecanismos administrativos necesarios para el cumplimento de los objetivos que persigue la creación de este Fondo.
 

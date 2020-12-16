@@ -1,5 +1,5 @@
 # Artículo 16
 
-Reglamentación.
+Reglamentación
 
-La presente Ley será reglamentada de conformidad con el artículo 141 de la Constitución Política de la República de Nicaragua.
+La presente Ley será reglamenta da de conformidad con el Artículo 141 de la Constitución Política de la República de Nicaragua.

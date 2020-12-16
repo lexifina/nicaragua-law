@@ -1,6 +1,6 @@
 # Artículo 2
 
-Objetivos del Fondo.
+Objetivos del Fondo
 
 Este Fondo tendrá como objetivos:
 
@@ -9,5 +9,7 @@ Este Fondo tendrá como objetivos:
 2. Promover el empoderamiento de la mujer en el sector rural al convertirse en propietaria de un medio de producción que garantice la soberanía económica y alimentaria de ella y su núcleo familiar.
 
 3. Fortalecer y ampliar el sistema productivo rural, coadyuvando con ello a los esfuerzos para reducir la pobreza y pobreza extrema que se expresan especialmente en el campo.
+
+Capítulo II
 
 Del Fondo para Compra de Tierra con Equidad de Género

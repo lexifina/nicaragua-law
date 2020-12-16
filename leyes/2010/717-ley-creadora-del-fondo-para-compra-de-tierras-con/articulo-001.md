@@ -1,6 +1,6 @@
 # Artículo 1
 
-Objeto de la Ley.
+Objeto de la Ley
 
 La presente Ley tiene como objeto crear un fondo para compra de tierra con equidad de género para mujeres rurales, con el fin de otorgar apropiación jurídica y material de la tierra a favor de las mujeres rurales, lo que permitirá, además de mejorar la calidad de vida del núcleo familiar, el acceso a los recursos financieros, priorizando a aquellas mujeres cabezas de familia, de bajos recursos económicos.
 

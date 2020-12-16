@@ -1,6 +1,6 @@
 # Artículo 10
 
-De la Unidad Administradora del Fondo.
+De la Unidad Administradora del Fondo
 
 El Banco de Fomento a la Producción o la entidad financiera que tenga a su cargo la unidad administradora que maneje los recursos del Fondo, deberán promocionar el uso del mismo, convocando a los movimientos cooperativos de mujeres rurales a participar de manera ordenada y transparente para acceder a la tenencia de la tierra por esta vía, cumpliendo con los requisitos y procedimientos que el ordenamiento jurídico determine.
 
