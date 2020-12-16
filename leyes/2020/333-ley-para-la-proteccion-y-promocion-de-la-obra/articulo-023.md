@@ -1,0 +1,3 @@
+# Artículo 23
+
+Quien contravenga lo dispuesto en los artículos anteriores, será obligado administrativamente a suprimir dicho nombre y a retirar la imagen, so pena de ser multado si no lo hace, de conformidad con lo establecido en el Decreto N°. 1142, Ley de Protección del Patrimonio Cultural de la Nación. La multa impuesta será destinada al Fisco para fines de conservación de bienes muebles o inmuebles protegidos por esta Ley según lo determine la Presidencia de la República, a través del Instituto Nicaragüense de Cultura.
