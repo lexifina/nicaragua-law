@@ -1,14 +1,20 @@
-LEY Nº. 392, LEY DE PROMOCIÓN DEL DESARROLLO INTEGRAL DE LA JUVENTUD
+TEXTO CONSOLIDADO, LEY N°. 392, LEY DE PROMOCIÓN DEL DESARROLLO INTEGRAL DE LA JUVENTUD
 
-Aprobada el 09 de mayo de 2001
+Aprobado el 06 de agosto de 2020
 
-Publicada en la Gaceta Diario Oficial N°. 126 de 04 de julio de 2001
+Publicado en La Gaceta, Diario Oficial N°. 232 del 16 de diciembre de 2020
 
-Ley No. 392
+ASAMBLEA NACIONAL
+
+Digesto Jurídico Nicaragüense de la Materia de Familia, Mujer, Niñez, Juventud, Adulto Mayor y Equidad de Género
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 6 de agosto de 2020, de la Ley Nº. 392, Ley de Promoción del Desarrollo Integral de la Juventud, aprobada el 09 de mayo de 2001 y publicada en La Gaceta, Diario Oficial Nº. 126 del 4 de julio de 2001, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1034, Ley del Digesto Jurídico Nicaragüense de la Materia de Familia, Mujer, Niñez, Juventud, Adulto Mayor y Equidad de Género, aprobada el 6 de agosto de 2020.
+
+LEY N°. 392
 
 EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
-Hace Saber al pueblo nicaragüense que:
+Hace saber al pueblo nicaragüense que:
 
 LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
 
@@ -16,11 +22,11 @@ CONSIDERANDO
 
 I
 
-Que Nicaragua es una población de hombres y mujeres, jóvenes, que representan el 67% de la población entre 0 y 25 años de edad y el 64% de la población oscila aproximadamente entre lo 18 y 30 años, por lo que el futuro del país necesita de su incorporación a las actividades productivas, económicas, sociales y políticas en condiciones que les permita aportar al desarrollo nacional.
+Que Nicaragua es una población de hombres y mujeres jóvenes, que representan el 67% de la población entre 0 y 25 años de edad y el 64% de la población oscila aproximadamente entre los 18 y 30 años, por lo que el futuro del país necesita de su incorporación a las actividades productivas, económicas, sociales y políticas en condiciones que les permita aportar al desarrollo nacional.
 
 II
 
-Que dada la importancia que tiene la población joven por el ritmo de crecimiento que lleva, ellos serán quienes en el futuro determinarán el tamaño de la familia y del grado de oportunidades que se les dé para elevar sus niveles de educación, salud, dependerá su desarrollo como recursos humano con potencialidades de generar bienestar económico, siempre y cuando se invierta adecuadamente ellos, como base del capital humano de Nicaragua.
+Que dada la importancia que tiene la población joven por el ritmo de crecimiento que lleva, ellos serán quienes en el futuro determinarán el tamaño de la familia y del grado de oportunidades que se les dé para elevar sus niveles de educación, salud, dependerá su desarrollo como recurso humano con potencialidades de generar bienestar económico, siempre y cuando se invierta adecuadamente en ellos, como base del capital humano de Nicaragua.
 
 III
 
@@ -34,10 +40,10 @@ En uso de sus facultades:
 
 HA DICTADO
 
-La siguiente;
+La siguiente:
 
 LEY DE PROMOCIÓN DEL DESARROLLO INTEGRAL DE LA JUVENTUD
 
-CAPITULO I
+Capítulo I
 
-PRINCIPIOS GENERALES
+Principios Generales
