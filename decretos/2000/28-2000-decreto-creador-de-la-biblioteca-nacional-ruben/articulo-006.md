@@ -2,7 +2,7 @@
 
 La Biblioteca Nacional, estará integrada por:
 
-1. Hemeroteca Nacional.
+1. Hemeroteca Nacional,
 
 2. Red Nacional de Bibliotecas Públicas, y
 

@@ -1,6 +1,6 @@
 # Artículo 25
 
-La Biblioteca Nacional gozará de franquicia postal y telegráfica, a partir de la entrada en vigencia del presente Decreto.
+Derogado.
 
 Capítulo VIII
 

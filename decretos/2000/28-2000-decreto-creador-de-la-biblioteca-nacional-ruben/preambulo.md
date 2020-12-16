@@ -1,8 +1,12 @@
-DECRETO CREADOR DE LA BIBLIOTECA NACIONAL RUBÉN DARÍO
+TEXTO CONSOLIDADO, DECRETO EJECUTIVO N°. 28-2000, DECRETO CREADOR DE LA BIBLIOTECA NACIONAL RUBÉN DARÍO
 
-DECRETO EJECUTIVO N°. 28-2000, aprobado el 03 de abril de 2000
+DECRETO EJECUTIVO N°. 28-2000, aprobado el 25 de junio de 2020
 
-Publicado en La Gaceta, Diario Oficial N°. 78 del 26 de abril de 2000
+Publicado en La Gaceta, Diario Oficial N°. 232 del 16 de diciembre de 2020
+
+Digesto Jurídico Nicaragüense de la Materia de Cultura
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 25 de junio de 2020, del Decreto Ejecutivo N°. 28-2000, Creador de la “Biblioteca Nacional Rubén Darío”, aprobado el 03 de abril de 2000 y publicado en La Gaceta, Diario Oficial N°. 78 del 26 de abril de 2000, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial N°. 203 del 25 de octubre de 2017 y la Ley N°. 1032, Ley del Digesto Jurídico Nicaragüense de la Materia de Cultura, aprobada el 25 de junio de 2020.
 
 DECRETO N°. 28-2000
 
@@ -30,8 +34,8 @@ El siguiente
 
 DECRETO
 
-CREADOR DE LA BIBLIOTECA NACIONAL RUBÉN DARÍO
+CREADOR DE LA “BIBLIOTECA NACIONAL RUBÉN DARÍO”
 
 Capítulo I
 
-De la Creación de la Biblioteca Nacional "Rubén Darío "
+De la Creación de la “Biblioteca Nacional Rubén Darío”
