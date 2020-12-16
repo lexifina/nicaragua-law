@@ -1,7 +1,7 @@
 # Artículo 2
 
-La Editorial Nueva Nicaragua (ENN) así concebida, estará adscrita a la Junta de Gobierno de Reconstrucción Nacional de quien dependerá directamente.
+La Editorial Nueva Nicaragua estará adscrita a la Universidad Nacional Autónoma de Nicaragua, de quien dependerá directamente.
 
-Capitulo II
+Capítulo II
 
-De la administración
+De la Administración
