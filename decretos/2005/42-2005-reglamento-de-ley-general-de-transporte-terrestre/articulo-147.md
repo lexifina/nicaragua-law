@@ -1,5 +1,7 @@
 # Artículo 147
 
+Participación
+
 En el Consejo Nacional de Transporte (CNTT) participaran cuatro delegados de las organizaciones de concesionarios del transporte intermunicipal, nacional e internacional, representativos de las siguientes modalidades.
 
 1. Un delegado por las organizaciones del transporte de pasajeros y transporte mixto.
@@ -8,6 +10,4 @@ En el Consejo Nacional de Transporte (CNTT) participaran cuatro delegados de las
 
 3. Un delegado por las organizaciones del transporte de turismo e internacional de pasajeros.
 
-4. Un delegado por las organizaciones del transporte especial
-
-Formas de Elección
+4. Un delegado por las organizaciones del transporte especial.

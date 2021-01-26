@@ -15,5 +15,3 @@ Todo vehículo de servicio público de transporte colectivo de pasajeros cumplir
 5. Las puertas y gradas de ingreso y egreso deberán tener un ancho mínimo de 0.80 mts., la altura del primer escalón con respecto al pavimento será de un máximo de 0.40 mts. y el piso de la unidad podrá ser bajo y permitir el fácil acceso desde la acera y contar con el espacio suficiente para permitir el acceso de una persona en silla de ruedas y pasamanos.
 
 6. En todos los medios de transporte público se le permitirá a las personas con discapacidad ingresar y utilizar las ayudas técnicas que requieran tales como: bastones, muletas, silla de ruedas, perro guía, y otros dispositivos análogos.
-
-Sillas Plegables

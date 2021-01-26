@@ -1,6 +1,8 @@
 # Artículo 157
 
-Realizado el estudio a que se refiere el artículo anterior, si del mismo se advierte necesidad pública insatisfecha, el MTI o las municipalidades expedirá la declaratoria correspondiente, en la que se expresará lo siguiente:
+Declaratoria
+
+Realizado el estudio a que se refiere el Artículo anterior, si del mismo se advierte necesidad pública insatisfecha, el MTI o las municipalidades expedirá la declaratoria correspondiente, en la que se expresará lo siguiente:
 
 1. Breve relación de los antecedentes.
 
@@ -13,5 +15,3 @@ Realizado el estudio a que se refiere el artículo anterior, si del mismo se adv
 5. Número de concesiones que habrán de licitarse para la satisfacción del servicio.
 
 6. Los demás datos que se estimen necesarios para aclarar o completar la anterior información.
-
-Convocatoria

@@ -1,17 +1,23 @@
 # Artículo 137
 
-El certificado de pesos y dimensiones de los vehículos de transporte de carga con capacidad mayor de las ocho toneladas, se tramitará ante el FOMAV y tendrá un año de validez a partir de la fecha de emisión, y contendrá los siguientes datos:
+Certificado de Pesos y Dimensiones
 
-1. Fecha de emisión
+El Certificado de Pesos y Dimensiones de los vehículos de transporte de carga con capacidad mayor a las ocho toneladas, se tramitará ante el Departamento de Pesos y Dimensiones de la Dirección General de Vialidad del MTI, tendrá una vigencia de cinco años, será refrendado anualmente, y deberá contener por lo menos los siguientes datos:
 
-2. Número de Registro del certificado
+1. Nombre del propietario y asociación a que pertenece.
 
-3. Nombre del propietario de vehículo
+2. Número de Registro del Certificado.
 
-4. Número de placa
+3. Fecha del inicio de trámite y de vencimiento.
 
-5. Departamento donde se registra el vehículo
+4. Datos del vehículo (tipo de vehículo, clasificación, marca, modelo, año, chasis, motor, color, placa, tarjeta de circulación, departamento, dirección, clase, categoría, tipo).
 
-6. Características generales del vehículo tales como: Tipo, marca, modelo, peso vacío, peso máximo permitido, número de peso por eje.
+5. Peso del vehículo Kg. (tara, carga, peso, combustible).
 
-Obtención o Renovación
+6. Peso Máximo por grupo de Eje.
+
+7. Peso Máximo Permisible.
+
+8. Distancia entre Ejes.
+
+9. Observaciones.

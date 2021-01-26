@@ -1,5 +1,5 @@
 # Artículo 145
 
-Cuando la carga a transportar sea líquida y se utilicen vehículos cisterna, no procederá el balanceo.
+Carga Líquida
 
-Traslado de Ganado
+Cuando la carga a transportar sea líquida y se utilicen vehículos cisterna, no procederá el balanceo.

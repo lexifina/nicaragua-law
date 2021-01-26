@@ -1,9 +1,5 @@
 # Artículo 126
 
-Cualquier vehículo de transporte de carga con placas extranjeras, en transito por el territorio nacional, deberá presentar los siguientes documentos ante la autoridad correspondiente.
+Documentos de Viaje
 
-1. Declaración de Transito Internacional (DTI)
-
-2. Formulario Aduanero Único Centroamericano (FAUCA)
-
-Registro
+Cualquier vehículo de transporte de carga con placas extranjeras, en tránsito por el territorio nacional, deberá presentar los documentos determinados por el Artículo 8 del Reglamento sobre el Régimen de Tránsito Aduanero Internacional.

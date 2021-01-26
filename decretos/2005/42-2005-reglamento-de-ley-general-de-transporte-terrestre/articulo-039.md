@@ -1,5 +1,5 @@
 # Artículo 39
 
-Los servicios de transporte turístico estarán asociados cuando menos a uno de los servicios complementarios relativos a hoteles, hospedajes, restaurantes que formen parte de un sistema integrado por operadores turísticos.
+Actividad Turística
 
-Turismo de Lujo
+Los servicios de transporte turístico estarán asociados cuando menos a uno de los servicios complementarios relativos a hoteles, hospedajes, restaurantes que formen parte de un sistema integrado por operadores turísticos.

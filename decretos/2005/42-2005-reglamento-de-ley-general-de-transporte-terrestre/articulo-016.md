@@ -1,16 +1,18 @@
 # Artículo 16
 
-Queda estrictamente prohibido a los conductores de unidades del servicio de transporte publico, lo siguiente:
+Prohibiciones
+
+Queda estrictamente prohibido a los conductores de unidades del servicio de transporte público, lo siguiente:
 
 1. Presentarse al trabajo con síntomas de haber ingerido licor, en estado de embriaguez o bajo la influencia de narcóticos u otras drogas, o ingerirlas en horas de trabajo.
 
-2. Realizar paradas o desviar el vehículo de su recorrido oficial, abandonarlo en la vía publica para realizar asuntos personales o ajenos.
+2. Realizar paradas o desviar el vehículo de su recorrido oficial, abandonarlo en la vía pública para realizar asuntos personales o ajenos.
 
 3. Trasladar usuarios a otra unidad sin autorización del inspector, así como negar el servicio solicitado habiendo capacidad en la unidad, salvo cuando se trate de trasladar o rescatar pasajeros de una unidad descompuesta.
 
 4. Permitir el transporte de materiales tóxicos, explosivos o inflamables que atenten contra la seguridad del usuario.
 
-5. Alterar las anotaciones realizadas por los chequeadores de las cooperativas y empresas en su rol u Hoja de despacho, o en cualquier otro documento.
+5. Alterar las anotaciones realizadas por los chequeadores de las cooperativas y empresas en su rol u Hoja de Despacho, o en cualquier otro documento.
 
 6. Aprovisionarse de combustible con pasajeros a bordo.
 
@@ -33,5 +35,3 @@ Queda estrictamente prohibido a los conductores de unidades del servicio de tran
 15. Realizar peligrosas maniobras de competencia con otras unidades dentro de la misma ruta o corredor, que pongan en peligro la vida de los usuarios.
 
 16. Usar radios o parlantes en alto volumen de sonido.
-
-Cursos de Capacitación

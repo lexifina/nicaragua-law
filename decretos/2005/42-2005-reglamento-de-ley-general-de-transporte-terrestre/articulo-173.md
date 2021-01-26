@@ -1,25 +1,25 @@
 # Artículo 173
 
-Cuando existan impugnaciones a la recomendación del Comité de Licitación, la máxima autoridad del MTI o de las municipalidades constituirá un Comité Revisor compuesto de por:
+Comité Revisor
 
-I.- Cuando se trata de concesiones intermunicipales:
+Cuando existan impugnaciones a la recomendación del Comité de Licitación, la máxima autoridad del MTI o de las municipalidades constituirá un Comité Revisor compuesto por:
 
-a.- El Secretario General del MTI
+I. Cuando se trata de concesiones intermunicipales:
 
-b.- Un asesor legal
+a. El Secretario General del MTI.
 
-c.- Un especialista en materia de transporte
+b. Un asesor legal.
 
-II.- Cuando se trata de concesiones intramunicipales:
+c. Un especialista en materia de transporte.
 
-a.- Un delegado del Concejo Municipal.
+II. Cuando se trata de concesiones intramunicipales:
 
-b.- Un asesor legal
+a. Un delegado del Concejo Municipal.
 
-c.- Un especialista en materia de transporte
+b. Un asesor legal.
+
+c. Un especialista en materia de transporte.
 
 Este Comité deberá rendir un informe de sus consideraciones sobre los puntos planteados en las impugnaciones a la autoridad máxima de este organismo, con copia a cada oferente cinco días hábiles a partir de su constitución.
 
 El Comité Revisor podrá hacerse asesorar por especialistas o expertos de reconocido prestigio profesional, o procedentes de las cátedras universitarias relacionadas con la materia que está en disputa, cuando el caso lo amerite.
-
-Recurso por Nulidad ante la Contraloría General de la República

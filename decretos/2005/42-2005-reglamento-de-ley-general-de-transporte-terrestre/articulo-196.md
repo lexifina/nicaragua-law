@@ -1,6 +1,8 @@
 # Artículo 196
 
-Además de las causales previstas en la Ley # 524 y el presente Reglamento, los títulos que materialicen las concesiones contendrán invariablemente las causas de revocación siguientes:
+Cancelación
+
+Además de las causales previstas en la Ley Nº. 524, Ley General de Transporte Terrestre y el presente Reglamento, los títulos que materialicen las concesiones contendrán invariablemente las causas de revocación siguientes:
 
 1. Matricular más de un vehículo con la misma concesión.
 
@@ -15,5 +17,3 @@ Además de las causales previstas en la Ley # 524 y el presente Reglamento, los 
 6. La violación de las condiciones previstas en el título de concesión.
 
 7. Abandono injustificado por más de un mes.
-
-Procedimientos de Cancelación

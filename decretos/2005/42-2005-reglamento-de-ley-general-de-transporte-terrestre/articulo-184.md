@@ -1,5 +1,5 @@
 # Artículo 184
 
-Las concesiones podrán ser otorgadas de manera individual, por cooperativa o empresa.
+Características
 
-Fusión
+Las concesiones podrán ser otorgadas de manera individual, por cooperativa o empresa.

@@ -1,5 +1,5 @@
 # Artículo 49
 
-Se prohíbe el ingreso de vendedores de comidas y bebidas, y de cualquier objeto, dentro de las unidades de transporte colectivo de pasajeros.
+Vendedores
 
-Cesto de Basura
+Se prohíbe el ingreso de vendedores de comidas y bebidas, y de cualquier objeto, dentro de las unidades de transporte colectivo de pasajeros.

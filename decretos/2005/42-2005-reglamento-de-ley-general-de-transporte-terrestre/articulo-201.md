@@ -1,7 +1,7 @@
 # Artículo 201
 
-Las municipalidades enviarán trimestralmente al MTI la información estadística sobre la cantidad de concesionarios, certificados de operación por cada modalidad intramunicipal, con el objetivo de actualizar la base de datos que alimentará los actualizaciones o elaboración de posteriores planes nacionales de transporte.
+Envío de Información
 
-CERTIFICADOS DE OPERACIÓN
+Las municipalidades enviarán trimestralmente al MTI la información estadística sobre la cantidad de concesionarios, certificados de operación por cada modalidad intramunicipal, con el objetivo de actualizar la base de datos que alimentará las actualizaciones o elaboración de posteriores planes nacionales de transporte.
 
-El Certificado de Operación
+CERTICADOS DE OPERACIÓN

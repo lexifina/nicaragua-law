@@ -1,25 +1,25 @@
 # Artículo 21
 
+Portación de Documentos
+
 El conductor de la unidad de transporte deberá portar los siguientes documentos:
 
 1. Licencia de conducir en la categoría respectiva.
 
-2. Certificado de operación vigente
+2. Certificado de operación vigente.
 
 3. Diploma de haber cursado el Programa Educativo mínimo y obligatorio impartido en las Escuelas de Capacitación.
 
-4. Licencia de circulación del vehículo, cuyos datos deberán coincidir con los datos del certificado de operación
+4. Licencia de circulación del vehículo, cuyos datos deberán coincidir con los datos del certificado de operación.
 
-5. El correspondiente carnet que lo autoriza como conductor de un vehículo de transporte de pasajeros
+5. El correspondiente carnet que lo autoriza como conductor de un vehículo de transporte de pasajeros, para cuya obtención deberá reunir los requisitos exigidos por el MTI y las municipalidades, en su caso.
 
-6. Certificado de Seguro de Licencia del Conductor vigente
+6. Certificado de Seguro de Licencia del Conductor vigente.
 
-7. Certificado de Seguro del Vehículo de daños a Terceros vigente
+7. Certificado de Seguro del Vehículo de daños a Terceros vigente.
 
-8. Certificado de Seguro de Pasajeros vigente
+8. Certificado de Seguro de Pasajeros vigente.
 
-9. Certificado de Inspección Mecánica del vehículo vigente
+9. Certificado de Inspección Mecánica del vehículo vigente.
 
-El conductor que no porte estos documentos será multado por las autoridades competentes, conforme lo establecido en el arto 26, numerales 43 y 49 de la Ley No. 431.
-
-Cobrador
+El conductor que no porte estos documentos será multado por las autoridades competentes, conforme lo establecido en el Artículo 26, numerales 43 y 49 de la Ley Nº. 431, Ley para el Régimen de Circulación Vehicular e Infracciones de Tránsito.

@@ -1,5 +1,5 @@
 # Artículo 77
 
-Es el servicio básico de transporte público colectivo a nivel de cada municipalidad.
+Transporte Urbano Colectivo
 
-Casco urbano
+Es el servicio básico de transporte público colectivo a nivel de cada municipalidad.

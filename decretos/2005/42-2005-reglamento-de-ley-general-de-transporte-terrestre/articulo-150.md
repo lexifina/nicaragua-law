@@ -1,5 +1,5 @@
 # Artículo 150
 
-Para la elección de los delegados se utilizaran los procedimientos mencionados en el arto 148 con la diferencia de que al ser organizaciones municipales se dará prioridad a la que tenga el mayor numero de afiliados
+Formas de Elección
 
-Sociedad Civil
+Para la elección de los delegados se utilizaran los procedimientos mencionados en el Artículo 148 con la diferencia de que al ser organizaciones municipales se dará prioridad a la que tenga el mayor número de afiliados.

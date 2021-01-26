@@ -1,5 +1,7 @@
 # Artículo 156
 
+Estudio Técnico
+
 Con base en el Plan Nacional de Transporte, de oficio la autoridad de transporte determinará una vez al año, si es o no procedente realizar estudios técnicos para declarar la existencia de necesidad pública de transporte de pasajeros que deba ser satisfecha con la creación de nuevas rutas o líneas de transporte.
 
 Cualquier estudio técnico para convocar a licitación pública de nuevas rutas de transporte deberá contener mínimamente lo siguiente.
@@ -18,9 +20,9 @@ Cualquier estudio técnico para convocar a licitación pública de nuevas rutas 
 
 7. Descripción de las oficinas públicas existentes, talleres, estaciones de servicio de combustibles y demás que la autoridad de transporte estime necesarias.
 
-8. Descripción de la infraestructura vial, indicando las principales vías troncales y secundarias de comunicación, señalando en su caso las que deban usarse en ciertos tramos para la satisfacción de la necesidad del servicio publico de transporte de pasajeros. En todos los casos se hará el señalamiento de los correspondientes derechos de vía.
+8. Descripción de la infraestructura vial, indicando las principales vías troncales y secundarias de comunicación, señalando en su caso las que deban usarse en ciertos tramos para la satisfacción de la necesidad del servicio público de transporte de pasajeros. En todos los casos se hará el señalamiento de los correspondientes derechos de vía.
 
-9. Cantidad de viajes totales origen destino que realiza la población, necesarios para conocer qué cantidad de gente se moviliza y hacia donde.
+9. Cantidad de viajes totales origen destino que realiza la población, necesarios para conocer qué cantidad de gente se moviliza y hacia dónde.
 
 10. Medios existentes de transporte, con indicación de los tipos y capacidad de los vehículos, así como clases, modalidades y tipos de servicio.
 
@@ -31,5 +33,3 @@ Cualquier estudio técnico para convocar a licitación pública de nuevas rutas 
 13. Análisis de los principales desplazamientos de personas, para los que no se tiene servicio público de transporte o que teniéndolo es insuficiente.
 
 14. Propuesta de los lugares más adecuados para el establecimiento de paradas y terminales.
-
-Declaratoria

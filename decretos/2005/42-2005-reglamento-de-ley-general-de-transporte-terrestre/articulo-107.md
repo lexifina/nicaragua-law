@@ -1,6 +1,8 @@
 # Artículo 107
 
-Estas son las principales definiciones técnicas de los vehículos de transporte de carga:
+Definiciones Técnicas
+
+Estos son los principales conceptos técnicos referentes a los vehículos de transporte de carga:
 
 1. Rueda doble de ancho: Es aquella cuyo ancho sea mayor de 38 centímetros.
 
@@ -20,7 +22,7 @@ Estas son las principales definiciones técnicas de los vehículos de transporte
 
 9. Eje triple tipo b: Es aquel que no dispone de un mecanismo de transferencia.
 
-10. Peso bruto vehicular (pbv): Es la suma del peso del vehículo o combinación de vehículos y la carga que el mismo transporta, incluido el peso del conductor y cualquier otra persona transportada al mismo tiempo.
+10. Peso bruto Vehicular (pbv): Es la suma del peso del vehículo o combinación de vehículos y la carga que el mismo transporta, incluido el peso del conductor y cualquier otra persona transportada al mismo tiempo.
 
 11. Acoplamiento: Mecanismo de conexión que une al vehículo tractor con el vehículo remolcado.
 
@@ -30,11 +32,11 @@ Estas son las principales definiciones técnicas de los vehículos de transporte
 
 14. Altura: La dimensión vertical total de cualquier vehículo sobre el suelo, inclusive cualquier carga o el dispositivo para sostenerla.
 
-15. Longitud: Es la dimensión total de cualquier vehículo o combinación de vehículos entre sus extremos delantero y trasero, inclusive cualquier carga o el dispositivo para sostenerla.
+15. Longitud: Dimensión total del vehículo o combinación en el sentido longitudinal desde la parte anterior a la posterior.
 
 16. Peso por eje: Es el peso total trasmitido sobre el pavimento por un conjunto de dos o más llantas, cuyo centro está en un solo plano vertical transversal.
 
-17. Carga: Los bienes que se transportan en vehículos, inclusive los que se transportan en un remolque o semiremolque.
+17. Carga: Los bienes que se transportan en vehículos, inclusive los que se transportan en un remolque o semirremolque.
 
 18. Carga divisible: Carga que puede reducirse en su peso y/o dimensiones.
 
@@ -46,10 +48,18 @@ Estas son las principales definiciones técnicas de los vehículos de transporte
 
 22. Tonelada métrica: Mil kilogramos, equivalentes a dos mil doscientas cuatro libras.
 
-23. Responsable de basculas: Es el trabajador técnico que ejecutará la aplicación de la Ley General de Transporte Terrestre y su Reglamento y todas las normas existentes para efectos del control del transporte de carga.
+23. Responsable de Básculas: Es el trabajador técnico que ejecutará la aplicación de la Ley General de Transporte Terrestre y su Reglamento y todas las normas existentes para efectos del control del transporte de carga.
 
-24. Supervisor de básculas: Es el trabajador técnico que bajo la conducción del Responsable de Báscula, vigilara que las operaciones de pesaje y control realizadas garanticen el buen uso y mantenimiento de la red vial.
+24. Supervisor de Básculas: Es el trabajador técnico que bajo la dirección del Responsable del Departamento de Ingeniería de Tráfico, verifica que las operaciones de pasaje y control realizadas garanticen el buen uso y mantenimiento de la red vial.
 
-25. Operador de básculas: Es el trabajador técnico cuyo trabajo consiste en auxiliar al Responsable de Básculas en las funciones que tiene asignadas.
+25. Operador de Básculas: Es el trabajador técnico cuyo trabajo consiste en auxiliar al Responsable de Básculas en las funciones que tiene asignadas.
 
-Tara de un Vehículo
+26. Vida Útil: Tiempo esperado de uso sin daños estructurales considerables en la superficie de rodamiento si se trata de vías, en la subestructura y la superestructura si se tratara de puentes, pasos elevados, pasos inferiores, túneles y alcantarillas.
+
+27. Evasión: Cuando un conductor no ingrese con su vehículo al punto de control si así se lo indica un funcionario autorizado o la señalización vial.
+
+28. Fuga: Cuando no se lo puedan constatar por cualquier motivo los pesos y dimensiones del vehículo que ha accedido al punto de control porque el conductor huye del lugar.
+
+29. Infraestructura Vial: Puentes, carreteras y otras obras que conforman una vía pública.
+
+30. Punto de Control: Lugar designado por el MTI para el control de los pesos y dimensiones de los vehículos afectados por la presente Normativa, conocidos como básculas. Los Puntos de Control podrán estar ubicados en estaciones fijas o en diferentes puntos de la Red Vial Nacional con estaciones móviles.

@@ -1,5 +1,5 @@
 # Artículo 118
 
-Los medios de transporte o traslado de carga especializada no incluye contenedores, volquetes, cargadores frontales y patroles.
+Carga Especializada
 
-Multimodal
+Los medios de transporte o traslado de carga especializada no incluyen contenedores, volquetes, cargadores frontales y patroles.
