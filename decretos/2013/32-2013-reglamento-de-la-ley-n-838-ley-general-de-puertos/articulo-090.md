@@ -1,6 +1,8 @@
 # Artículo 90
 
-Deber de Notificación. Los administradores portuarios o su representante en su caso, están obligados a comunicar de inmediato, a las autoridades que conforman la Comisión de Investigación de Accidentes todo accidente o siniestro que ocurra dentro del recinto portuario.
+Deber de Notificación
+
+Los administradores portuarios o su representante en su caso, están obligados a comunicar de inmediato, a las autoridades que conforman la Comisión de Investigación de Accidentes todo accidente o siniestro que ocurra dentro del recinto portuario.
 
 La notificación puede ser:
 

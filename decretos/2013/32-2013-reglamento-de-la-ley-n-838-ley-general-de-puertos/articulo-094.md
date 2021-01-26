@@ -1,6 +1,8 @@
 # Artículo 94
 
-De las Audiencias. En la primera audiencia se procederá de la siguiente forma:
+De las Audiencias
+
+En la primera audiencia se procederá de la siguiente forma:
 
 a) Si antes de la hora señalada para la audiencia, alguna de las personas notificadas presenta excusa razonable, acompañada de prueba, de su impedimento para asistir, se señalará nueva fecha y hora para que tenga lugar sin que pueda haber otro aplazamiento.
 

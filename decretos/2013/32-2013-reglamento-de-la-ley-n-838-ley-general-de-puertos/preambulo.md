@@ -1,14 +1,14 @@
-REGLAMENTO DE LA LEY N°. 838, LEY GENERAL DE PUERTOS DE NICARAGUA
+TEXTO CONSOLIDADO, DECRETO EJECUTIVO N°. 32-2013, REGLAMENTO DE LA LEY Nº. 838, LEY GENERAL DE PUERTOS DE NICARAGUA
 
-DECRETO EJECUTIVO N°. 32-2013, aprobado el 15 de agosto de 2013
+DECRETO EJECUTIVO N°. 32-2013, aprobado el 02 de septiembre de 2020
 
-Publicada en La Gaceta, Diario Oficial N°. 200 del 22 de octubre de 2013
+Publicado en La Gaceta Diario, Oficial N°. 17 del 26 de enero de 2021
 
-Gobierno de Reconciliación y Unidad Nacional
+Digesto Jurídico Nicaragüense de la Materia de Transporte
 
-Unida Nicaragua Triunfa
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 2 de septiembre de 2020, del Decreto Ejecutivo Nº. 32-2013, Reglamento de la Ley Nº. 838, Ley General de Puertos de Nicaragua, aprobado el 15 de agosto de 2013 y publicado en La Gaceta, Diario Oficial Nº. 200 del 22 de octubre de 2013, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1036, Ley del Digesto Jurídico Nicaragüense de la Materia de Transporte, aprobada el 2 de septiembre de 2020.
 
-DECRETO No. 32-2013
+DECRETO N° 32-2013
 
 El Presidente de la República
 
@@ -18,7 +18,7 @@ CONSIDERANDO
 
 I
 
-Que el veintiuno de Mayo del año dos mil trece, se publicó en La Gaceta, Diario Oficial No. 92, la Ley No. 838 “Ley General de Puertos de Nicaragua”
+Que el veintiuno de mayo del año dos mil trece, se publicó en La Gaceta, Diario Oficial Nº. 92, la Ley Nº. 83 8, Ley General de Puertos de Nicaragua.
 
 II
 
@@ -36,12 +36,12 @@ El siguiente:
 
 DECRETO
 
-REGLAMENTO DE LA LEY No. 838, LEY GENERAL DE PUERTOS DE NICARAGUA.
+REGLAMENTO DE LA LEY Nº. 838, LEY GENERAL DE PUERTOS DE NICARAGUA
 
 TÍTULO I
 
 DE LAS DISPOSICIONES GENERALES
 
-Capítulo único
+CAPÍTULO ÚNICO
 
-Objeto y definiciones
+OBJETO Y DEFINICIONES

@@ -1,6 +1,8 @@
 # Artículo 65
 
-Requisitos Para Revisión de Tarifas y Derechos Portuarios. Para la revisión de Tarifas y Derechos Portuarios, las administraciones portuarias podrán solicitar a la DGTA la revisión de tarifas y derechos portuarios para lo cual deberá acompañar, los siguientes requisitos:
+Requisitos Para Revisión de Tarifas y Derechos Portuarios
+
+Para la revisión de Tarifas y Derechos Portuarios, las administraciones portuarias podrán solicitar a la DGTA la revisión de tarifas y derechos portuarios para lo cual deberá acompañar, los siguientes requisitos:
 
 a) Pliego tarifario conteniendo las tarifas por servicios portuarios que se solicita de aprobado por parte de la DGTA.
 

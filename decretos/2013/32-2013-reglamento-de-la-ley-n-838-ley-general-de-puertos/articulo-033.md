@@ -1,6 +1,8 @@
 # Artículo 33
 
-Certificación de Máquinas y equipos. La Administración Portuaria deberá mantener certificación vigente de las máquinas y equipos portuarios, expedida por especialistas autorizados por la DGTA para tal fin.
+Certificación de Máquinas y equipos
+
+La Administración Portuaria deberá mantener certificación vigente de las máquinas y equipos portuarios, expedida por especialistas autorizados por la DGTA para tal fin.
 
 Los certificados requeridos son:
 

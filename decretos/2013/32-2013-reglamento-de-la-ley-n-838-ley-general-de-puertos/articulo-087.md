@@ -1,14 +1,16 @@
 # Artículo 87
 
-Funciones de la Comisión de Investigación de Accidentes. La Comisión de Investigación de Accidentes deberá iniciar la investigación del accidente o siniestro a más tardar dentro de las setenta y dos (72) horas de haber tenido conocimiento.
+Funciones de la Comisión de Investigación de Accidentes
+
+La Comisión de Investigación de Accidentes deberá iniciar la investigación del accidente o siniestro a más tardar dentro de las setenta y dos (72) horas de haber tenido conocimiento.
 
 Una vez culminada la investigación, emitirá un dictamen fundado que contenga, entre otros, los siguientes aspectos:
 
-a) Las circunstancias bajo las cuales se produjo el accidente o siniestro.
+a) Las circunstancias bajo las cuales se produjo el accidente o siniestro;
 
 b) Un análisis de los aspectos técnicos y náuticos relevante relacionados a la ocurrencia del accidente;
 
-c) La Inspección del área donde ocurrió el accidente, con sus respectivo croquis, fotos y videos;
+c) La Inspección del área donde ocurrió el accidente, con sus respectivos croquis, fotos y videos;
 
 d) La recolección de pruebas materiales, declaraciones de testigos y personal involucrado;
 

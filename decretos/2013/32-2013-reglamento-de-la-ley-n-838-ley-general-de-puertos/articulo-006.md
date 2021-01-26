@@ -1,3 +1,5 @@
 # Artículo 6
 
-Formulación de las Políticas y Planes en materia portuaria. Autoridades competentes. Durante los doce (12) meses subsiguientes a la entrada en vigor del Reglamento de la Ley, la EPN a través de DPN trabajará en conjunto con la DGTA y La Fuerza Naval, la elaboración de la propuesta de Políticas Nacionales en materia portuaria, y del Plan Nacional de Desarrollo Portuario, los cuales serán remitidos al Presidente Ejecutivo de EPN para su presentación a la Junta Directiva de EPN, para que conozca y enriquezca según sus atribuciones, antes de su aprobación por el Presidente de la República.
+Formulación de las Políticas y Planes en materia portuaria. Autoridades competentes
+
+Durante los doce (12) meses subsiguientes a la entrada en vigor del Reglamento de la Ley, la EPN a través de DPN trabajará en conjunto con la DGTA y La Fuerza Naval, la elaboración de la propuesta de Políticas Nacionales en materia portuaria, y del Plan Nacional de Desarrollo Portuario, los cuales serán remitidos al Presidente Ejecutivo de EPN para su presentación a la Junta Directiva de EPN, para que conozca y enriquezca según sus atribuciones, antes de su aprobación por el Presidente de la República.
