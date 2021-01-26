@@ -20,7 +20,7 @@ Atendiendo su operación y tipo de vehículo, el INTUR clasificará en:
 
 3. Turismo de lujo - aire acondicionado y servicio higiénico.
 
-f) Transporte especial: Es el que moviliza personas en rutas e itinerarios muy particulares. Establecen sus propios recorridos y tienen paradas diferentes a las usadas por el transporte público. No esta disponible al público en general, solamente para el usuario específico que lo solicita y se clasifica así:
+f) Transporte especial: Es el que moviliza personas en rutas e itinerarios muy particulares. Establecen sus propios recorridos y tienen paradas diferentes a las usadas por el transporte público. No está disponible al público en general, solamente para el usuario específico que lo solicita y se clasifica así:
 
 1. Transporte escolar: Es el que se realiza con el único objetivo de transportar estudiantes, desde su casa de habitación hasta el centro de estudios o viceversa.
 

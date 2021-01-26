@@ -1,11 +1,17 @@
 # Artículo 41
 
-El MTI es el órgano administrativo encargado de otorgar concesiones y permisos en el servicio de transporte público en las siguientes modalidades:
+Autoridad Administrativa para Otorgar Concesiones y Permisos
 
-a) Nivel internacional.
+El Ministerio de Transporte e Infraestructura es la autoridad administrativa encargada de otorgar las concesiones y permisos en el servicio de transporte público y los Certificados de Pesos y Dimensiones en las siguientes modalidades:
 
-b) Intermunicipal (incluido taxis interlocales y transporte escolar).
+1. Nivel Internacional;
 
-c) Transporte turístico.
+2. Intermunicipal, que incluye taxis interlocales;
 
-d) Transporte de carga pesada y/o especializada.
+3. Transporte Turístico;
+
+4. Transporte Escolar Intermunicipal; y
+
+5. Transporte de Carga Pesada y/o Especializada, por medio del Departamento de Pesos y Dimensiones de la Dirección General de Vialidad.
+
+Los vehículos automotores de placa o matrícula extranjera, deberán adquirir la boleta de pesaje de báscula en la delegación o puesto fronterizo por donde vaya a ingresar.

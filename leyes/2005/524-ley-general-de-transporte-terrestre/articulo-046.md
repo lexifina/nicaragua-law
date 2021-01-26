@@ -8,7 +8,7 @@ b) El representante del MTI en el municipio, quien ejercerá las funciones de Vi
 
 c) El Jefe de la Seguridad de Tránsito de la localidad o su delegado.
 
-d) El responsable de la oficina de transporte intramunicipal.
+d) El responsable de la oficina de transporte intrarnunicipal.
 
 e) Un representante de los organismos de la sociedad civil, que represente a los usuarios.
 

@@ -2,7 +2,7 @@
 
 Para mantener vigente el contrato de concesión de explotación de una ruta de transporte terrestre de pasajeros, el concesionario tendrá que cumplir con las siguientes obligaciones:
 
-a) No cobrar más de la tarifa autorizada por el MTl.
+a) No cobrar más de la tarifa autorizada por el MTI.
 
 b) Cubrir plenamente la Ruta especificada en la concesión y a respetar los itinerarios y horarios.
 

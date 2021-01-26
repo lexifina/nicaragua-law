@@ -1,5 +1,11 @@
 # Artículo 49
 
-Las concesiones serán otorgadas por un período de veinte años prorrogables, serán obtenidas mediante licitación pública, conforme las reglas establecidas en la presente Ley. En caso que el aspirante a concesionario sea una persona jurídica con fines de lucro, este deberá por lo menos un 51% de capital nicaragüense.
+Período de Validez de las Concesiones
 
-La adjudicación de varias concesiones o líneas a una misma persona podrá hacerse siempre que con ello no se constituya monopolio, el MTI o las municipalidades, en su caso, establecerán las normativas pertinentes a fin de evitar la concertación monopólica.
+Las Concesiones serán otorgadas por un período de veinte años prorrogables, serán obtenidas mediante licitación pública conforme las reglas establecidas en la presente Ley. En los casos de las personas jurídicas dedicadas al negocio del transporte, en cualquiera de las modalidades contempladas en la presente Ley, deberán estar inscritas en el Registro Mercantil y sujetas al principio de reciprocidad y los convenios de integración centroamericana.
+
+Las empresas extranjeras de carga internacional para poder instalarse y operar en el país, deberán cumplir con los requisitos siguientes:
+
+1. Que el 51 % del total de su capital sea propiedad de personas nicaragüense o sujetas al principio de reciprocidad y los convenios de integración centroamericana; y
+
+2. Que el control efectivo y la dirección o gerencia de la empresa estén en manos de un nicaragüense.

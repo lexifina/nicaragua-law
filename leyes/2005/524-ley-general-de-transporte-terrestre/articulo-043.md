@@ -6,7 +6,7 @@ a) Proponer políticas, planes y estrategias para impulsar el desarrollo de la a
 
 b) Proponer la creación de leyes y reglamentos que modernicen la actividad del transporte.
 
-c) Servir como instancia para el diálogo en los conflictos que sudan entre los diversos actores del sector transporte.
+c) Servir como instancia para el diálogo en los conflictos que surjan entre los diversos actores del sector transporte.
 
 d) Servir como instancia de consulta si así lo estima a bien el Ministro del MTI en apelaciones por sanciones y cancelación de concesiones.
 
