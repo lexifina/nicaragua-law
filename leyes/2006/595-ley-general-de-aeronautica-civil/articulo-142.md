@@ -1,6 +1,8 @@
 # Artículo 142
 
-Requisitos Mínimos del Billete de Pasaje. El billete de pasaje deberá contener:
+Requisitos mínimos del billete de pasaje
+
+El billete de pasaje deberá contener:
 
 1. Lugar y fecha de emisión.
 

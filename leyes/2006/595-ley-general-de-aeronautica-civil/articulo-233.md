@@ -1,6 +1,8 @@
 # Artículo 233
 
-Pérdida de Aeronave. Se considerará perdida una aeronave, salvo prueba en contrario, en los casos siguientes:
+Pérdida de aeronave
+
+Se considerará perdida una aeronave, salvo prueba en contrario, en los casos siguientes:
 
 1. Por declaración del operador o propietario de la aeronave.
 

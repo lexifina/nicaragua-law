@@ -1,6 +1,8 @@
 # Artículo 151
 
-Ejemplares de la Guía Aérea. La guía aérea se extenderá en tres ejemplares:
+Ejemplares de la guía aérea
+
+La guía aérea se extenderá en tres ejemplares:
 
 1. Para el transportista, firmado por el remitente.
 

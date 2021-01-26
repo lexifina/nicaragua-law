@@ -1,6 +1,8 @@
 # Artículo 38
 
-Documentos de Abordo. Toda aeronave que vuele sobre el territorio nacional u opere en él, deberá portar los documentos siguientes:
+Documentos de abordo
+
+Toda aeronave que vuele sobre el territorio nacional u opere en él, deberá portar los documentos siguientes:
 
 1. Certificado de matrícula.
 
@@ -16,4 +18,4 @@ Documentos de Abordo. Toda aeronave que vuele sobre el territorio nacional u ope
 
 7. Si lleva carga, un manifiesto y declaraciones detalladas de la misma.
 
-8. Cual otro que puedan establecer las regulaciones técnicas.
+8. Cualquier otro que puedan establecer las regulaciones técnicas.

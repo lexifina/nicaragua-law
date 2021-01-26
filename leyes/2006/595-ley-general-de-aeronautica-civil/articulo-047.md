@@ -1,6 +1,8 @@
 # Artículo 47
 
-Condiciones de Operación. El establecimiento y operación de un aeródromo se hará previa autorización y habilitación de la Autoridad Aeronáutica, la que determinará por medio de regulaciones técnicas, las normas pertinentes sobre su instalación, destino y funcionamiento.
+Condiciones de operación
+
+El establecimiento y operación de un aeródromo se hará previa autorización y habilitación de la Autoridad Aeronáutica, la que determinará por medio de regulaciones técnicas, las normas pertinentes sobre su instalación, destino y funcionamiento.
 
 Si no se cumplen o dejan de cumplirse las condiciones que motivaron la habilitación o se contravinieren las normas técnicas, la Autoridad Aeronáutica deberá suspender o dejar sin efecto dicha habilitación.
 

@@ -1,6 +1,8 @@
 # Artículo 123
 
-Contenido de los Certificados de Explotador Aéreo y Autorizaciones. Los Certificados de Explotador Aéreo y Autorizaciones contendrán:
+Contenido de los Certificados de Explotador Aéreo y Autorizaciones
+
+Los Certificados de Explotador Aéreo y Autorizaciones contendrán:
 
 1. Los puntos terminales de la ruta, así como los intermedios si los hay, con iniciación de aquellos que constituyan paradas comerciales y las que sean únicamente escalas técnicas;
 

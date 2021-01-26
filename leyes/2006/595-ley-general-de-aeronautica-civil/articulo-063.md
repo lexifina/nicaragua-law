@@ -1,6 +1,8 @@
 # Artículo 63
 
-Clases de Registro Aeronáutico. Los registros serán:
+Clases de Registro Aeronáutico
+
+Los registros serán:
 
 1. Registro de la Propiedad Aeronáutica, en el que se inscribirán:
 
@@ -36,4 +38,4 @@ d) Los actos y resoluciones administrativas que autoricen la infraestructura aer
 
 e) Los Certificados de Explotador Aéreo, las concesiones y autorizaciones que conforme la presente Ley y reglamentos conexos se extiendan para ejercer el servicio de transporte aéreo.
 
-f) Los demás documentos de trascendencia administrativa cuya inscripción exijan esta Ley o sus reglamentos.
+f) Los demás documentos de trascendencia administrativa cuya inscripción ex1Jan esta Ley o sus reglamentos.

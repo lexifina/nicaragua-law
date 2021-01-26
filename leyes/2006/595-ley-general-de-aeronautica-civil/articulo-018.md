@@ -1,6 +1,8 @@
 # Artículo 18
 
-Requisitos para Ser Director General. Sin perjuicio de lo establecido en el artículo 152 Cn. para ser Director General, se requieren las siguientes calidades: Deberán tener probada experiencia e idoneidad técnica en el sector aeronáutica
+Requisitos para ser Director General
+
+Sin perjuicio de lo establecido en el Artículo 152 Cn. para ser Director General, se requieren las siguientes calidades: Deberán tener probada experiencia e idoneidad técnica en el sector aeronáutica:
 
 1. Ser nacional de Nicaragua.
 

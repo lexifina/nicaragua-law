@@ -1,6 +1,8 @@
 # Artículo 107
 
-Facultades del Piloto al Mando. El piloto al mando podrá:
+Facultades del piloto al mando
+
+El piloto al mando podrá:
 
 1. Desembarcar pasajeros, tripulantes y carga, en escalas intermedias, por motivos que puedan perjudicar el orden o la seguridad de la aeronave.
 

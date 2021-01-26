@@ -1,6 +1,8 @@
 # Artículo 130
 
-Suspensión y Revocación. Los Certificados de Explotador Aéreo o Autorizaciones que el INAC emita al tenor de lo preceptuado en este Título, finalizan por el vencimiento del plazo establecido en ellos.
+Suspensión y revocación
+
+Los Certificados de Explotador Aéreo o Autorizaciones que el INAC emita al tenor de lo preceptuado en este Título, finalizan por el vencimiento del plazo establecido en ellos.
 
 El INAC, en cualquier momento, podrá suspender o revocar total o parcialmente los Certificados de Explotador Aéreo o Autorizaciones cuando:
 
@@ -12,9 +14,9 @@ El INAC, en cualquier momento, podrá suspender o revocar total o parcialmente l
 
 4. Si se interrumpen las operaciones sin causa justificada.
 
-5. Si la empresa es declarada en insolvencia, quiebra, liquidación o disolución, conforme a la ley y no ofrece, a criterio del INAC, garantías que resulten adecuadas para asegurar la prestación de los servicios.
+5. Si la empresa es declarada en insolvencia, quiebra, liquidación o disolución, conforme a la Ley y no ofrece, a criterio del INAC, garantías que resulten adecuadas para asegurar la prestación de los servicios.
 
-6. Si el Certificado de Explotador Aéreo y Autorización para la prestación de los servicios es cedido, transferido o explotado en contravención con lo dispuesto en el Certificado o Autorización, y/o lo dispuesto en la presente ley, regulaciones técnicas y normas complementarias.
+6. Si el Certificado de Explotador Aéreo y Autorización para la prestación de los servicios es cedido, transferido o explotado en contravención con lo dispuesto en el Certificado o Autorización, y/o lo dispuesto en la presente Ley, regulaciones técnicas y normas complementarias.
 
 7. Se verifique la falta de reciprocidad por parte de otro Estado para el otorgamiento de similares derechos aerocomerciales concedidos por Nicaragua.
 

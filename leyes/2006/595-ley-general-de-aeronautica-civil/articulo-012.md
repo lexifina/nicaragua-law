@@ -1,8 +1,10 @@
 # Artículo 12
 
-Atribuciones y Funciones Administrativas del INAC. Las atribuciones y las funciones administrativas del INAC, conforme a los procedimientos y regulaciones establecidas y demás normas jurídicas, son las siguientes:
+Atribuciones y funciones administrativas del INAC
 
-1. Administrar y ejecutar su presupuesto así como llevar los registros correspondientes.
+Las atribuciones y las funciones administrativas del INAC, conforme a los procedimientos y regulaciones establecidas y demás normas jurídicas, son las siguientes:
+
+1. Administrar y ejecutar su presupuesto, así como llevar los registros correspondientes.
 
 2. Establecer precios públicos en concepto de prestación de sus servicios, los cuales deberán ser publicados en La Gaceta, Diario Oficial.
 
@@ -18,6 +20,6 @@ Atribuciones y Funciones Administrativas del INAC. Las atribuciones y las funcio
 
 8. Celebrar contratos administrativos y convenios de cooperación interinstitucional con organismos e instituciones nacionales o internacionales.
 
-9. Dictar los reglamentos internos de organización y funcionamiento del INAC y el del propio Consejo.
+9. Dictar los reglamentos internos y de Organización del INAC.
 
 10. Las demás que le faculten esta Ley y el ordenamiento jurídico.

@@ -1,6 +1,8 @@
 # Artículo 105
 
-Duración de sus Funciones. El ejercicio de las funciones del piloto al mando comienza desde que se inicia la preparación del vuelo, y finaliza cuando éste concluye.
+Duración de sus funciones
+
+El ejercicio de las funciones del piloto al mando comienza desde que se inicia la preparación del vuelo, y finaliza cuando éste concluye.
 
 En caso de interrupción anormal del vuelo, continuará ejerciendo sus funciones hasta que los pasajeros y la carga transportada estén en lugar seguro o bajo la responsabilidad del explotador o sus agentes o de las autoridades aeronáuticas que corresponda.
 

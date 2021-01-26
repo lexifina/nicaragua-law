@@ -1,6 +1,8 @@
 # Artículo 6
 
-Régimen Jurídico. Las cuestiones jurídicas nacidas de la aeronáutica civil se regirán por las siguientes fuentes del derecho:
+Régimen Jurídico
+
+Las cuestiones jurídicas nacidas de la aeronáutica civil se regirán por las siguientes fuentes del derecho:
 
 1. La presente Ley.
 

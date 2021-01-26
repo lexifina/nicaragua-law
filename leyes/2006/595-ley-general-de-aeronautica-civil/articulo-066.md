@@ -1,6 +1,8 @@
 # Artículo 66
 
-Concepto de Explotador de Servicio Público de Transporte Aéreo. Son legítimos explotadores las siguientes personas naturales o jurídicas:
+Concepto de explotador de servicio público de transporte aéreo
+
+Son legítimos explotadores las siguientes personas naturales o jurídicas:
 
 1. El propietario de la aeronave o quien la use por cuenta propia o por medio de sus dependientes, cuando se trate de servicios aéreos privados. Salvo prueba en contrario, el propietario es la persona cuyo nombre aparece en el Registro Aeronáutico Nacional. Se presume que el propietario es el explotador de la aeronave, a menos que hubiese transferido ese carácter por contrato debidamente inscrito en el Registro Aeronáutico Nacional.
 

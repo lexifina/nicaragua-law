@@ -1,6 +1,8 @@
 # Artículo 39
 
-Anotaciones en los Documentos de Abordo. Se anotará en los documentos de abordo lo siguiente:
+Anotaciones en los Documentos de Abordo
+
+Se anotará en los documentos de abordo lo siguiente:
 
 1. Diario de Abordo: El piloto al mando deberá dejar constancia de cualquier hecho o incidente anormal o extraordinario que ocurra abordo desde el punto de vista técnico operacional.
 

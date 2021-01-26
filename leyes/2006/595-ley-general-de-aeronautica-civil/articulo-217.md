@@ -1,6 +1,8 @@
 # Artículo 217
 
-Presunción de Culpa del Organismo de Tránsito Aéreo (OTA). Existirá presunción de culpa del OTA en los casos siguientes:
+Presunción de culpa del Organismo de Tránsito Aéreo (OTA)
+
+Existirá presunción de culpa del OTA en los casos siguientes:
 
 1. Si los daños provienen de falla de los equipos eléctricos, electrónicos o mecánicos automáticos de comunicación. Para desvirtuar tal posibilidad de culpa, el OTA deberá probar que sus funcionarios, agentes o dependientes de cualquier naturaleza, tomaron todas las medidas reglamentarias y posibles para evitar la falla.
 

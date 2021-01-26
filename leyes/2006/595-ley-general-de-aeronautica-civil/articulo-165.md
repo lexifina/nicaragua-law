@@ -1,6 +1,8 @@
 # Artículo 165
 
-Sistema Computarizado de Reserva. El sistema computarizado de reserva es el que individualiza un sistema computarizado por el que indistintamente:
+Sistema Computarizado de Reserva
+
+El sistema computarizado de reserva es el que individualiza un sistema computarizado por el que indistintamente:
 
 1. Se ofrece información sobre los horarios, disponibilidad de asiento o capacidad de carga, tarifas y servicios conexos del transporte aéreo.
 

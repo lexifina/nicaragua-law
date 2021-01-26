@@ -1,10 +1,14 @@
-LEY N°. 595, LEY GENERAL DE AERONÁUTICA CIVIL
+TEXTO CONSOLIDADO, LEY N°. 595, LEY GENERAL DE AERONÁUTICA CIVIL
 
-Aprobada el 03 de agosto del 2006
+Aprobado el 02 de septiembre de 2020
 
-Publicado en La Gaceta, Diario Oficial N°. 193 del 05 de octubre del 2006
+Publicado en La Gaceta Diario, Oficial N°. 17 del 26 de enero de 2021
 
-LEY N° 595
+Digesto Jurídico Nicaragüense de la Materia de Transporte
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 2 de septiembre de 2020, de la Ley Nº. 595, Ley General de Aeronáutica Civil, aprobada el 03 de agosto de 2006 y publicada en La Gaceta, Diario Oficial Nº. 193 del 5 de octubre de 2006, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1036, Ley del Digesto Jurídico Nicaragüense de la Materia de Transporte, aprobada el 2 de septiembre de 2020.
+
+Ley N°. 595
 
 EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 

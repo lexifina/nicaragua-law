@@ -1,6 +1,8 @@
 # Artículo 257
 
-Otras Sanciones Administrativas. Será sujeto de multa administrativa de quinientos (500.00) a diez mil (10,000.00) Derechos Especiales de Giro y sancionado con inhabilitación de seis (6) meses hasta por cinco (5) años de la licencia según corresponda, sin perjuicio de las responsabilidades y sanciones civiles y penales:
+Otras sanciones administrativas
+
+Será sujeto de multa administrativa de quinientos (500.00) a diez mil (10,000.00) Derechos Especiales de Giro y sancionado con inhabilitación de seis (6) meses hasta por cinco (5) años de la licencia según corresponda, sin perjuicio de las responsabilidades y sanciones civiles y penales:
 
 1. Quien clandestinamente o de mala fe, condujere una aeronave sobre zonas prohibidas o restringidas a la circulación aérea; o atravesare clandestina y maliciosamente la frontera por lugares distintos a los establecidos por la Autoridad Aeronáutica para entrar o salir del país.
 

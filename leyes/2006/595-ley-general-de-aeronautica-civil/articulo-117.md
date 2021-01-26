@@ -1,6 +1,8 @@
 # Artículo 117
 
-Obligaciones de los Controladores de Tránsito Aéreo. Son obligaciones de los controladores de tránsito aéreo las siguientes:
+Obligaciones de los Controladores de Tránsito Aéreo
+
+Son obligaciones de los controladores de tránsito aéreo las siguientes:
 
 1. Portar la respectiva licencia que los acredita como controlador de tránsito aéreo actualizada, así como su respectivo certificado médico. Estas licencias deberán delimitar su habilitación, sea en aeródromo, radar, o aproximación;
 
@@ -14,4 +16,4 @@ Obligaciones de los Controladores de Tránsito Aéreo. Son obligaciones de los c
 
 6. Cumplir y hacer cumplir las normas establecidas en el documento número 4444 del Organismo de Aviación Civil Internacional, OACI;
 
-7. Cumplir con cualquier otra disposición establecida por el INAC o por medio del Organismo de Aviación Civil Internacional, OACI;
+7. Cumplir con cualquier otra disposición establecida por el INAC o por medio del Organismo de Aviación Civil Internacional, OACI.

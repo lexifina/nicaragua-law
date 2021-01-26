@@ -1,6 +1,8 @@
 # Artículo 150
 
-Indicaciones Mínimas de la Guía Aérea. La guía aérea deberá indicar como mínimo:
+Indicaciones mínimas de la guía aérea
+
+La guía aérea deberá indicar como mínimo:
 
 1. Lugar y fecha de su otorgamiento.
 
@@ -18,4 +20,4 @@ Indicaciones Mínimas de la Guía Aérea. La guía aérea deberá indicar como m
 
 8. Valor declarado de las mercaderías.
 
-9. Cualquier otras condiciones que acordaren los contratantes, de conformidad con la parte final del artículo precedente.
+9. Cualquier otras condiciones que acordaren los contratantes, de conformidad con la parte final del Artículo precedente.

@@ -1,6 +1,8 @@
 # Artículo 88
 
-Abandono de Aeronave. El hallazgo de una aeronave sin persona alguna a bordo o en custodia de la misma, se notificará a su presunto propietario o utilizador.
+Abandono de aeronave
+
+El hallazgo de una aeronave sin persona alguna a bordo o en custodia de la misma, se notificará a su presunto propietario o utilizador.
 
 Se considerará abandonada una aeronave o los componentes de ella:
 

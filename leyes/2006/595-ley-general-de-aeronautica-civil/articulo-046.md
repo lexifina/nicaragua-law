@@ -1,6 +1,8 @@
 # Artículo 46
 
-Aeródromo. Aeródromo es toda área delimitada, terrestre o acuática, habilitada por la Autoridad Aeronáutica y destinada a la llegada, salida y maniobras en la superficie de las aeronaves.
+Aeródromo
+
+Aeródromo es toda área delimitada, terrestre o acuática, habilitada por la Autoridad Aeronáutica y destinada a la llegada, salida y maniobras en la superficie de las aeronaves.
 
 Los aeródromos se dividen en civiles y militares. Son aeródromos militares los destinados exclusivamente a fines militares. Son aeródromos civiles todos los demás. Las disposiciones de esta Ley se aplican a los aeródromos civiles.
 

@@ -1,6 +1,8 @@
 # Artículo 181
 
-Posibilidad de Realizar Actividades Aerocomerciales. En aquellos lugares donde la necesidad pública lo requiriese, el Estado podrá autorizar a los aeroclubes a realizar actividades aerocomerciales complementarias, siempre y cuando:
+Posibilidad de realizar actividades aerocomerciales
+
+En aquellos lugares donde la necesidad pública lo requiriese, el Estado podrá autorizar a los aeroclubes a realizar actividades aerocomerciales complementarias, siempre y cuando:
 
 1. No afecte intereses de transportistas aéreos.
 

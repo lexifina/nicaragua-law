@@ -1,5 +1,15 @@
 # Artículo 235
 
-Investigación. La Autoridad Aeronáutica está obligada a coordinar, administrar e investigar técnicamente todos los accidentes e incidentes de aeronaves en Nicaragua y a participar en las investigaciones de accidentes que ocurran a aeronaves nicaragüenses en aguas o territorios de otro Estado, excepto sobre aeronaves nicaragüenses de uso militar, para determinar así sus causas y establecer las medidas tendientes a evitar su repetición; posteriormente deberá procederse a la aplicación de la sanción correspondiente a los infractores, según sea el caso.
+De la Agencia Nicaragüense de Investigación de Accidentes e Incidentes Crease la Agencia Nicaragüense de Investigación de Accidentes e Incidentes, como un ente técnico y especializado con el objeto de dar cumplimiento a las Normas Internacionales de la Organización de Aviación Civil Internacional (OACI), así como las aplicables a las actividades previstas en la presente Ley, con el fin de que en las investigaciones no se determine la culpa o responsabilidad, sino las causas probables del accidente. El coordinador de la Agencia Nicaragüense de Investigación de Accidentes e Incidentes, será nombrado por el Presidente de la República y tendrá a su cargo la representación legal de la Agencia.
 
-En accidentes de aeronaves con matrícula extranjera se permitirá la colaboración para la investigación del Estado en que se encuentre matriculada.
+El patrimonio de la Agencia Nicaragüense de Investigación de Accidentes e Incidentes, estará integrado por:
+
+a) El 12% de los ingresos netos percibidos en el INAC, por derecho de uso de terminal del Aeropuerto Internacional;
+
+b) Las donaciones nacionales o internacionales, sea en dinero o especie;
+
+c) Los bienes inmuebles, muebles, valores o derechos que comprendan la infraestructura requerida para el cumplimiento de sus funciones de la Agencia Nicaragüense de Investigación de Accidentes e Incidentes; y
+
+d) El cobro de los gastos de las investigaciones de accidentes.
+
+Mientras se conforma la Agencia Nicaragüense de Investigación de Accidentes e Incidentes, de manera transitoria, el Instituto Nicaragüense de Aeronáutica Civil INAC estará en cumplimiento al Anexo 13 de la OACI.

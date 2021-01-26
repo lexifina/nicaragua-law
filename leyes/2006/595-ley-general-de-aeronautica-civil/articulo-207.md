@@ -1,6 +1,8 @@
 # Artículo 207
 
-Sujeto de la Responsabilidad. Para los efectos de la responsabilidad prevista en el artículo anterior, se considera operador en sus respectivos casos:
+Sujeto de la responsabilidad
+
+Para los efectos de la responsabilidad prevista en el Artículo anterior, se considera operador en sus respectivos casos:
 
 1. A la empresa de transporte aéreo.
 

@@ -1,6 +1,8 @@
 # Artículo 215
 
-Responsabilidad del Transportador Contractual y del Transportador de Hecho. Si el contrato de transporte aéreo es celebrado con un transportador y prestado por otro, la responsabilidad frente al usuario que contrató el servicio es mancomunada y solidaria y se rige por las disposiciones del presente título.
+Responsabilidad del transportador contractual y del transportador de hecho
+
+Si el contrato de transporte aéreo es celebrado con un transportador y prestado por otro, la responsabilidad frente al usuario que contrató el servicio es mancomunada y solidaria y se rige por las disposiciones del presente Título.
 
 En tal sentido, el usuario puede dirigir su reclamo o demandar a cualquiera de ellos de manera independiente o simultánea.
 

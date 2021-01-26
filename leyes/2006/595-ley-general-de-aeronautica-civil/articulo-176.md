@@ -1,6 +1,8 @@
 # Artículo 176
 
-Aeronáutica Civil no Comercial. Bajo la designación de aeronáutica civil no comercial se cuentan:
+Aeronáutica civil no comercial
+
+Bajo la designación de aeronáutica civil no comercial se cuentan:
 
 1. Las aeronaves ejecutivas que se usan para efectuar el traslado de personas y bienes de empresas.
 

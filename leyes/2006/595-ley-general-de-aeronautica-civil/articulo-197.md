@@ -1,6 +1,8 @@
 # Artículo 197
 
-Casos en que el Transportista está Exento de Responsabilidad. Los transportistas aéreos estarán exentos de responsabilidades por daños y perjuicios causados en los casos siguientes:
+Casos en que el transportista está exento de responsabilidad
+
+Los transportistas aéreos estarán exentos de responsabilidades por daños y perjuicios causados en los casos siguientes:
 
 1. A pasajeros: por culpa o negligencia inexcusable de la víctima.
 
@@ -14,4 +16,4 @@ c) Cuando los bienes se transporten a petición escrita del remitente en vehícu
 
 d) Cuando sean falsas las declaraciones o instrucciones del embarcador, del consignatario o destinatario de los bienes, o del titular de la carta de porte, respecto del manejo de la carga.
 
-e) En el caso de daños a terceros de acuerdo con esta ley, cuando éstos sean consecuencia directa de conflictos armados o disturbios civiles o si el transportista hubiere sido privado del uso de la aeronave por acto de autoridad pública.
+e) En el caso de daños a terceros de acuerdo con esta Ley, cuando éstos sean consecuencia directa de conflictos armados o disturbios civiles o si el transportista hubiere sido privado del uso de la aeronave por acto de autoridad pública.

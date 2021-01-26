@@ -1,6 +1,8 @@
 # Artículo 249
 
-Tipos de Sanciones Administrativas. Las infracciones a la presente Ley, su reglamento y regulaciones técnicas, serán sancionadas por el INAC, dependiendo de su gravedad:
+Tipos de sanciones administrativas
+
+Las infracciones a la presente Ley, su Reglamento y regulaciones técnicas, serán sancionadas por el INAC, dependiendo de su gravedad:
 
 1. Apercibimiento o amonestación.
 

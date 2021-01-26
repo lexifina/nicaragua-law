@@ -1,6 +1,8 @@
 # Artículo 121
 
-Clasificación. Los servicios de transporte aéreo comercial pueden ser regulares o no regulares; nacionales o internacionales, y de pasajeros, carga o correo.
+Clasificación
+
+Los servicios de transporte aéreo comercial pueden ser regulares o no regulares; nacionales o internacionales, y de pasajeros, carga o correo.
 
 Son regulares aquellos realizados en forma continua y sistemática de acuerdo con condiciones prefijadas, tales como itinerarios y horarios. Son no-regulares todos los demás.
 

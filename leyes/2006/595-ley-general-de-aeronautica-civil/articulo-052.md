@@ -1,6 +1,8 @@
 # Artículo 52
 
-Clasificación de los Aeródromos. Los aeródromos destinados a la circulación aérea pública deberán ser certificados por la Autoridad Aeronáutica de conformidad a las regulaciones técnicas. Los aeródromos se clasifican conforme a las categorías otorgadas por la Autoridad Aeronáutica de acuerdo a las Normas Internacionales de la OACI y son las siguientes:
+Clasificación de los aeródromos
+
+Los aeródromos destinados a la circulación aérea pública deberán ser certificados por la Autoridad Aeronáutica de conformidad a las regulaciones técnicas. Los aeródromos se clasifican conforme a las categorías otorgadas por la Autoridad Aeronáutica de acuerdo a las Normas Internacionales de la OACI y son las siguientes:
 
 Categoría 1: Aeródromo destinado a servicios de grandes distancias y habilitado para operar en todas circunstancias.
 

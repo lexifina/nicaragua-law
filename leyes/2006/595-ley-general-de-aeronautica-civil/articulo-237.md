@@ -1,6 +1,8 @@
 # Artículo 237
 
-Obligación de Declaración. Toda persona está obligada a declarar ante la autoridad aeronáutica, en todo cuanto se relacione con la investigación de accidentes de aviación.
+Obligación de declaración
+
+Toda persona está obligada a declarar ante la Agencia Nicaragüense de Investigación de Accidentes e Incidentes, en todo cuanto se relacione con la investigación de accidentes de aviación.
 
 De producirse un accidente mortal, deberá realizarse una necropsia completa incluyendo examen de toxicología de los fallecidos y se tomarán, teniendo en cuenta las circunstancias del caso, las disposiciones necesarias para que un patólogo, preferentemente con experiencia en investigación de accidentes, las efectúe.
 

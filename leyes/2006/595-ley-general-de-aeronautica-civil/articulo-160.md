@@ -1,6 +1,8 @@
 # Artículo 160
 
-Establecimiento de las Tarifas y Precios del Transporte Aéreo Internacional. Las tarifas o precios del Transporte Aéreo Internacional, serán las designadas por las líneas aéreas y deberán ser informadas periódicamente a la Autoridad Aeronáutica a criterio de la misma, cada seis meses, y extraordinariamente cuando ocurra cualquier incremento o reducción con relación a la última tarifa aprobada.
+Establecimiento de las Tarifas y Precios del Transporte Aéreo Internacional
+
+Las tarifas o precios del Transporte Aéreo Internacional, serán las designadas por las líneas aéreas y deberán ser informadas periódicamente a la Autoridad Aeronáutica a criterio de la misma, cada seis meses, y extraordinariamente cuando ocurra cualquier incremento o reducción con relación a la última tarifa aprobada.
 
 La Autoridad Aeronáutica deberá dar seguimiento sistemático a las tarifas y su comportamiento, a efectos de evitar que en las tarifas ocurra lo siguiente:
 

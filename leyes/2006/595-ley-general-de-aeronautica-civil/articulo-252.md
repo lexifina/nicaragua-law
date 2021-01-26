@@ -1,6 +1,8 @@
 # Artículo 252
 
-Multa Administrativa para los Miembros de la Tripulación. Será sujeto de multa administrativa de quinientos (500) a diez mil (10,000.00) Derechos Especiales de Giro, el miembro de la tripulación de mando que cometa las infracciones siguientes:
+Multa administrativa para los miembros de la tripulación
+
+Será sujeto de multa administrativa de quinientos (500) a diez mil (10,000.00) Derechos Especiales de Giro, el miembro de la tripulación de mando que cometa las infracciones siguientes:
 
 1. Omitir informar a la Autoridad Aeronáutica más cercana los incidentes o accidentes aéreos graves, dentro de las setenta y dos horas (72 h) siguientes a que haya tenido conocimiento de ellos.
 
@@ -14,6 +16,6 @@ Multa Administrativa para los Miembros de la Tripulación. Será sujeto de multa
 
 6. Carecer de los seguros, no llevar a bordo las pólizas de los mismos o cuando éstos no estén vigentes.
 
-7. Violar cualquier disposición contenida en la presente Ley, su reglamento y regulaciones técnicas.
+7. Violar cualquier disposición contenida en la presente Ley, su Reglamento y regulaciones técnicas.
 
 La reincidencia implica suspensión o cancelación de la certificación respectiva o inhabilitación de licencia según el caso.

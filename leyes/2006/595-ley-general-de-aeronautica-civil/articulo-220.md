@@ -1,6 +1,8 @@
 # Artículo 220
 
-Competencia de los Tribunales Nicaragüenses. Las autoridades judiciales nicaragüenses serán competentes para conocer y decidir conforme a las disposiciones de esta Ley:
+Competencia de los tribunales nicaragüenses
+
+Las autoridades judiciales nicaragüenses serán competentes para conocer y decidir conforme a las disposiciones de esta Ley:
 
 1. Cuando se trate de reclamos contra empresas nicaragüenses que exploten servicios aéreos de transporte público internacional, y no se alegue en tiempo, y prueba que se han sometido expresamente a otra jurisdicción.
 

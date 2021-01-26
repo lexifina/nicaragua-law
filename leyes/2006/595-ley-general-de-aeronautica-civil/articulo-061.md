@@ -1,6 +1,8 @@
 # Artículo 61
 
-Inscripción y Nacionalidad. La inscripción de una aeronave en el Registro Aeronáutico Nacional de Nicaragua, le confiere nacionalidad nicaragüense, sin perjuicio de la validez de los actos jurídicos realizados con anterioridad a la inscripción.
+Inscripción y nacionalidad
+
+La inscripción de una aeronave en el Registro Aeronáutico Nacional de Nicaragua, le confiere nacionalidad nicaragüense, sin perjuicio de la validez de los actos jurídicos realizados con anterioridad a la inscripción.
 
 Ninguna aeronave podrá estar válidamente matriculada en más de un Estado. Las aeronaves matriculadas en otro Estado podrán adquirir la matrícula nicaragüense, previa cancelación de la matrícula anterior.
 

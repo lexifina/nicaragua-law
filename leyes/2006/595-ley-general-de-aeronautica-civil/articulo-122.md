@@ -1,6 +1,8 @@
 # Artículo 122
 
-Certificados de Explotador Aéreo y Autorizaciones. La Autoridad Aeronáutica emitirá certificados de explotador aéreo o autorización, para los siguientes casos:
+Certificados de Explotador Aéreo y Autorizaciones
+
+La Autoridad Aeronáutica emitirá certificados de explotador aéreo o autorización, para los siguientes casos:
 
 1. Cuando se trate de servicios de transporte aéreo regular nacional o internacional, el INAC otorgará Certificado de Explotador Aéreo. El Certificado de Explotador Aéreo no implica exclusividad para operar en una ruta.
 

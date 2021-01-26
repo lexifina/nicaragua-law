@@ -1,6 +1,8 @@
 # Artículo 186
 
-Obligación de Indemnizar. El transportista, será responsable de los daños y perjuicios causados durante el transporte:
+Obligación de indemnizar
+
+El transportista, será responsable de los daños y perjuicios causados durante el transporte:
 
 1. Por muerte, lesiones o cualquier otro daño sufrido por el pasajero.
 

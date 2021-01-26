@@ -1,6 +1,8 @@
 # Artículo 60
 
-Deber de Registro e Inscripción. El Registro Aeronáutico Nacional Funcionará como dependencia del INAC, en la Capital de la República, será público y estará a cargo de un Registrador designado por la Autoridad Aeronáutica.
+Deber de registro e inscripción
+
+El Registro Aeronáutico Nacional Funcionará como dependencia del INAC, en la Capital de la República, será público y estará a cargo de un Registrador designado por la Autoridad Aeronáutica.
 
 El Registro Aeronáutico Nacional constará de un Registro de Propiedad Aeronáutica y un Registro Aeronáutico Administrativo.
 

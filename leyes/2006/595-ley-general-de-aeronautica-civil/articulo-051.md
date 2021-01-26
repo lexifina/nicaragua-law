@@ -1,6 +1,8 @@
 # Artículo 51
 
-Suspensión, Cancelación o Restricción. La Autoridad Aeronáutica, podrá suspender, cancelar o restringir la operación de un aeródromo o helipuerto, por razones de interés general de la aviación o por incumplimiento de las condiciones sobre las cuales fue otorgada la autorización o por los casos siguientes entre otros:
+Suspensión, cancelación o restricción
+
+La Autoridad Aeronáutica, podrá suspender, cancelar o restringir la operación de un aeródromo o helipuerto, por razones de interés general de la aviación o por incumplimiento de las condiciones sobre las cuales fue otorgada la autorización o por los casos siguientes entre otros:
 
 1. Cuando sea solicitada por su propietario.
 

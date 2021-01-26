@@ -1,6 +1,8 @@
 # Artículo 106
 
-Obligaciones del Piloto al Mando. Son obligaciones del piloto al mando:
+Obligaciones del piloto al mando
+
+Son obligaciones del piloto al mando:
 
 1. Tener a bordo la documentación exigida.
 

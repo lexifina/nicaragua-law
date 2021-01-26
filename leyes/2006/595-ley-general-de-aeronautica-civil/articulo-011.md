@@ -1,6 +1,8 @@
 # Artículo 11
 
-Atribuciones y Funciones Económicas del INAC. Las atribuciones y las funciones económicas del INAC, conforme a los procedimientos, regulaciones y normas jurídicas establecidas, son las siguientes:
+Atribuciones y Funciones Económicas del INAC
+
+Las atribuciones y las funciones económicas del INAC, conforme a los procedimientos, regulaciones y normas jurídicas establecidas, son las siguientes:
 
 1. Otorgar, modificar, revalidar, suspender, cancelar o revocar certificados de explotación de servicio público de transporte aéreo interno, regular y no regular, a empresas nacionales.
 
@@ -14,6 +16,6 @@ Atribuciones y Funciones Económicas del INAC. Las atribuciones y las funciones 
 
 6. Aprobar, otorgar, renovar, revocar, o anular las concesiones de aeródromos o aeropuertos.
 
-7. No obstante lo dispuesto en el inciso anterior, habida cuenta que el Estado Nacional es siempre el responsable de la protección al vuelo, le corresponderá al INAC, en todo caso, autorizar y supervisar el funcionamiento de los servicios aeronáuticos que han sido delegados, contratados o dados en concesión, de conformidad con el Arto. 53.
+7. No obstante lo dispuesto en el inciso anterior, habida cuenta que el Estado Nacional es siempre el responsable de la protección al vuelo, le corresponderá al INAC, en todo caso, autorizar y supervisar el funcionamiento de los servicios aeronáuticos que han sido delegados, contratados o dados en concesión, de conformidad con el Artículo 53.
 
 8. Recibir, gestionar, tramitar, suscribir, negociar, créditos y donaciones, de personas nacionales o internacionales para el mejor desempeño de sus funciones.

@@ -1,10 +1,10 @@
 # Artículo 13
 
-Patrimonio. El patrimonio del INAC, estará integrado por:
+Patrimonio
 
-1. Los ingresos que reciba de conformidad con el numeral 2 del artículo precedente.
+El patrimonio del INAC, estará integrado por:
 
-Aquellos que deriven de la prestación de sus servicios vinculados con la aviación civil.
+1. Los ingresos que reciba de conformidad con el numeral 2 del Artículo precedente. Aquellos que deriven de la prestación de sus servicios vinculados con la aviación civil.
 
 2. El siete por ciento (7%) de los ingresos por derecho de uso de terminal de los aeródromos públicos en el territorio nacional. La transferencia anual no será nunca menor al equivalente de US$ 1, 200,000.00 (Un Millón Doscientos Mil Dólares) o su equivalente en moneda de curso legal.
 

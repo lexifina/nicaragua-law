@@ -1,6 +1,8 @@
 # Artículo 205
 
-Responsabilidad por Daños al Equipaje Registrado, Carga o Mercancías. El transportista deberá responder por lo siguiente:
+Responsabilidad por daños al equipaje registrado, carga o mercancías
+
+El transportista deberá responder por lo siguiente:
 
 1. La responsabilidad del transportista en caso de pérdida, destrucción, avería o retraso de la carga o mercancía, se limitará a diecisiete (17) DEG por kilogramo, salvo pacto en contrario. En este caso el transportista estará obligado a pagar hasta el importe de la suma pactada.
 
