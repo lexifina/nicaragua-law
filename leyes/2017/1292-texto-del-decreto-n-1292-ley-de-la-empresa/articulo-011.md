@@ -40,7 +40,7 @@ c) Los puntos de agenda a tratar concernientes al ejercicio de las funciones y a
 
 a) Los proyectos de Reglamentos Internos que regirán el funcionamiento de la Empresa;
 
-b) El proyecto de Presupuesto de Ingresos y Egresos y periódicamente los estados financieros de la Empresa:
+b) El proyecto de Presupuesto de Ingresos y Egresos y periódicamente los estados financieros de la Empresa;
 
 c) Los programas, proyectos y estudios relativos al desarrollo, promoción y conducción de la Empresa; y
 
@@ -50,4 +50,4 @@ d) Los proyectos de régimen tarifario, así como las propuestas de modificacion
 
 16) Otras que le delegue el Presidente de la República.
 
-Del Comité Técnico
+DEL COMITÉ TÉCNICO

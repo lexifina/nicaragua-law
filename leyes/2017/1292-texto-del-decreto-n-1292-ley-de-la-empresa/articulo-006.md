@@ -10,6 +10,6 @@ La Junta Directiva conocerá y aprobará las propuestas que le haga el Gerente G
 
 3) Los reglamentos necesarios para el funcionamiento y administración de los aeropuertos nacionales e internacionales.
 
-4) Además tendrá otras funciones que le delegue el Presidente de la República.
+4) Además, tendrá otras funciones que le delegue el Presidente de la República.
 
-La Junta Directiva de la Empresa, deberá presentar de forma mensual al Consejo Consultivo creado por mandato de esta ley, los programas, proyectos y estudios relacionados al desarrollo, promoción y conducción de la misma, a fin de que éste emita sus aportes y contribuciones.
+La Junta Directiva de la Empresa, deberá presentar de forma mensual al Consejo Consultivo creado por mandato de esta Ley, los programas, proyectos y estudios relacionados al desarrollo, promoción y conducción de la misma, a fin de que éste emita sus aportes y contribuciones.

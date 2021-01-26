@@ -1,10 +1,16 @@
-TEXTO DEL DECRETO N°. 1292, LEY DE LA EMPRESA ADMINISTRADORA DE AEROPUERTOS INTERNACIONALES, CON SUS REFORMAS INCORPORADAS
+TEXTO CONSOLIDADO, DECRETO - LEY N°. 1292, LEY DE LA EMPRESA ADMINISTRADORA DE AEROPUERTOS INTERNACIONALES
 
-Publicado en La Gaceta, Diario Oficial N°. 62 del 29 de marzo de 2017
+DECRETO - LEY N°. 1292, aprobada el 02 de septiembre de 2020
 
-TEXTO DEL DECRETO No. 1292, LEY DE LA EMPRESA ADMINISTRADORA DE AEROPUERTOS INTERNACIONALES, CON SUS REFORMAS INCORPORADAS
+Publicada en La Gaceta Diario, Oficial N°. 17 del 26 de enero de 2021
 
-"Decreto N°. 1292
+Digesto Jurídico Nicaragüense de la Materia de Transporte
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 2 de septiembre de 2020, del Decreto JGRN Nº. 1292, Ley de la Empresa Administradora de Aeropuertos Internacionales, aprobado el 11 de agosto de 1983 y publicado en La Gaceta, Diario Oficial Nº. 186 del 16 de agosto de 1983, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1036, Ley del Digesto Jurídico Nicaragüense de la Materia de Transporte, aprobada el 2 de septiembre de 2020.
+
+Ley de la Empresa Administradora de Aeropuertos Internacionales
+
+Decreto N°. 1292
 
 LA JUNTA DE GOBIERNO DE RECONSTRUCCIÓN NACIONAL DE LA REPÚBLICA DE NICARAGUA
 
@@ -18,4 +24,4 @@ LEY DE LA EMPRESA ADMINISTRADORA DE AEROPUERTOS INTERNACIONALES
 
 CAPÍTULO I
 
-De la Creación y domicilio
+DE LA CREACIÓN Y DOMICILIO

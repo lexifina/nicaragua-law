@@ -8,8 +8,10 @@ La Junta Directiva es el órgano superior de la Empresa Administradora de Aeropu
 
 2) Un funcionario del Instituto Nicaragüense de Aeronáutica Civil; quien actuará como Secretario de la Junta Directiva;
 
-3) Un funcionario del Ministerio de Hacienda y Crédito Público; y
+3) Un funcionario del Ministerio de Hacienda y Crédito Público;
 
-4) Un miembro de la iniciativa privada escogido de una terna presentada por el Consejo Superior de la Empresa Privada.
+4) Un funcionario de la Dirección General de Migración y Extranjería; y
+
+5) Un miembro de la iniciativa privada escogido de una terna presentada por el Consejo Superior de la Empresa Privada.
 
 Los miembros de la Junta Directiva serán nombrados por el Presidente de la República.

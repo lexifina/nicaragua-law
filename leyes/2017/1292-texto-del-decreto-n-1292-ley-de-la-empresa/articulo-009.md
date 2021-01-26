@@ -12,7 +12,7 @@ El Consejo Consultivo, será nombrado por el Presidente de la República y estar
 
 4) Instituto de Protección y Sanidad Agropecuaria;
 
-5) Agencia de Promoción de Inversiones y Exportaciones (PRONicaragua);
+5) Agencia de Promoción de Inversiones y Exportaciones (PRO Nicaragua);
 
 6) Ejército de Nicaragua;
 
