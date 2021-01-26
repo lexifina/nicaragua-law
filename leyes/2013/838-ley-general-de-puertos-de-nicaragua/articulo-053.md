@@ -10,4 +10,4 @@ BIENES E INFRAESTRUCTURA, DESARROLLO Y EXPLOTACIÓN DE LOS PUERTOS
 
 Capítulo I
 
-Dominio de los bienes portuarios
+Dominio de los Bienes Portuarios

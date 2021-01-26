@@ -2,13 +2,11 @@
 
 Sometimiento a leyes nacionales y solución de controversias
 
-Los contratos de concesión o arrendamiento, serán regulados exclusivamente por las leyes de la República de Nicaragua.
-
-Las controversias que surjan por razón de la interpretación o aplicación del contrato serán sometidas a:
+Los contratos de concesión o arrendamiento, serán regulados exclusivamente por las leyes de la República de Nicaragua. Las controversias que surjan por razón de la interpretación o aplicación del contrato serán sometidas a:
 
 1) Arreglo amistoso entre las partes;
 
-2) Mediación ante la Dirección de Resolución Alterna de Conflicto de la Corte Suprema de Justicia; o
+2) Mediación ante la Dirección de Resolución Alterna de Conflictos de la Corte Suprema de Justicia; o
 
 3) Arbitraje, de conformidad con las leyes de la República de Nicaragua.
 

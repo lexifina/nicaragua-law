@@ -6,6 +6,6 @@ Se considera de interés prioritario la inversión pública y privada en el desa
 
 Capítulo II
 
-De la organización portuaria nacional.
+De la Organización Portuaria Nacional.
 
 Autoridades superiores

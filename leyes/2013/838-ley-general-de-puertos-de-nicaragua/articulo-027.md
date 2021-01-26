@@ -10,7 +10,7 @@ b) El Ministro de Hacienda y Crédito Público;
 
 c) El Ministro de Fomento, Industria y Comercio;
 
-d) El Presidente Ejecutivo del Instituto Nicaragüense de Turismo;
+d) El Codirector o Codirectora del Instituto Nicaragüense de Turismo;
 
 e) El Director General de la Dirección General de Servicios Aduaneros;
 
@@ -26,10 +26,10 @@ j) Un representante de las empresas de estiba, con amplio conocimiento y experie
 
 k) Un representante de los trabajadores de la EPN; y
 
-l) En su caso, el representante de los Consejos Regionales de las Regiones Autónomas de la Costa Atlántica.
+l) En su caso, el representante de los Consejos Regionales de las Regiones Autónomas de la Costa Caribe.
 
 El Presidente Ejecutivo de la EPN, preside la Junta Directiva y nombrará en su primera reunión de entre los miembros de la misma una persona para la Secretaría.
 
 En los casos de los literales desde el a) hasta el g), deberán asistir a las reuniones de la Junta Directiva, en su caso, el Ministro, el Presidente, el Director, el Jefe de la Fuerza Naval, o en su defecto un funcionario de alto nivel con capacidad de decisión debidamente acreditado. En los casos de los literales h) al k), la máxima autoridad o la persona a quien estos designen debidamente acreditada.
 
-En las reuniones donde se traten asuntos que incumben a las Regiones Autónomas de la Costa Atlántica, participará con voz y voto la representación del Gobierno Regional correspondiente, debidamente acreditada.
+En las reuniones donde se traten asuntos que incumben a las Regiones Autónomas de la Costa Caribe, participará con voz y voto la representación del Gobierno Regional correspondiente, debidamente acreditada.

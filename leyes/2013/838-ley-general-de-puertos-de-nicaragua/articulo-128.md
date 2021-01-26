@@ -10,4 +10,4 @@ DE LAS SANCIONES
 
 Capítulo único
 
-De las sanciones pecuniarias y su graduación
+De las Sanciones Pecuniarias y su Graduación

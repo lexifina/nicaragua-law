@@ -8,4 +8,4 @@ a) La Empresa Portuaria Nacional que en lo sucesivo podrá ser nominada indistin
 
 b) La Dirección General de Transporte Acuático que en lo sucesivo podrá ser nominada indistintamente como DGTA. Es la autoridad marítima y portuaria nacional, competente para ejercer las facultades que la Ley le otorga en todo el ámbito nacional.
 
-c) La Fuerza Naval del Ejército de Nicaragua. Es autoridad marítima y ejerce las funciones de Policía marítima, fluvial y lacustre en los puertos, zonas costeras y espacios marítimos nacionales. En coordinación con la DGTA, vela por el cumplimiento de las normas de navegación, seguridad, control y registro de la navegación y salvaguarda de la vida humana.
+c) La Fuerza Naval del Ejército de Nicaragua. Es autoridad marítima y ejerce las funciones de policía marítima, fluvial y lacustre en los puertos, zonas costeras y espacios marítimos nacionales. En coordinación con la DGTA, vela por el cumplimiento de las normas de navegación, seguridad, control y registro de la navegación y salvaguarda de la vida humana.

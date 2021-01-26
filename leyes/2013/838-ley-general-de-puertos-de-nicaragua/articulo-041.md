@@ -10,7 +10,7 @@ b) Organizar el puerto de acuerdo con las necesidades del servicio, en cumplimie
 
 c) Controlar la entrada y salida de las naves en el puerto, el practicaje, maniobras, atraques, anclaje, amarre y desamarre de las mismas;
 
-d) Dirigir dentro del puerto el movimiento de los buques para organizar y controlar el embarque, desembarque, traslado y movimiento de la carga o pasajeros y dictar las órdenes para el efectivo almacenamiento de ésta.
+d) Dirigir dentro del puerto el movimiento de los buques para organizar y controlar el embarque, desembarque, traslado y movimiento de la carga o pasajeros y dictar las órdenes para el efectivo almacenamiento de ésta;
 
 e) Organizar los servicios del puerto, y hacer cumplir la disciplina, orden y seguridad en las actividades portuarias;
 
@@ -18,7 +18,7 @@ f) Velar por el eficaz desarrollo y funcionamiento de los servicios del puerto y
 
 g) Cumplir con las directrices emanadas por la DGTA relativas a las normas de seguridad de conformidad al Código PBIP del Convenio Internacional SOLAS;
 
-h) Ejercer en coordinación con la DGTA y la Fuerza Naval del Ejército de Nicaragua la autoridad y dirección sobre los servicios de vigilancia portuario, de prevención de siniestros, accidentes y la formulación y aplicación de los planes especiales de contingencia.
+h) Ejercer en coordinación con la DGTA y la Fuerza Naval del Ejército de Nicaragua la autoridad y dirección sobre los servicios de vigilancia portuario, de prevención de siniestros, accidentes y la formulación y aplicación de los planes especiales de contingencia;
 
 i) Supervisar el cumplimiento de los términos de los contratos de concesión, arrendamiento o sociedades mixtas, en todo lo relativo a la administración y operatividad del puerto;
 
@@ -40,4 +40,4 @@ q) Todas las demás funciones que le delegue el Presidente Ejecutivo, la Junta D
 
 Capítulo IV
 
-Autoridad marítima y portuaria
+Autoridad Marítima y Portuaria

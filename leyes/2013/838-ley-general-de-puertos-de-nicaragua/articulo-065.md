@@ -8,4 +8,4 @@ a) Ordenar al titular el desmantelamiento de las instalaciones, a los fines de d
 
 b) Otorgar a un nuevo titular el puerto en concesión o autorización según sea el caso, de conformidad con los procedimientos ya establecidos; y
 
-c) Ceder el puerto a las Regiones Autónomas de la Costa Atlántica o municipios, en cuyo territorio se encuentre ubicado, para su operación como puerto de uso público, si es de interés de la EPN y existiera capacidad para su administración.
+c) Ceder el puerto a las Regiones Autónomas de la Costa Caribe o municipios, en cuyo territorio se encuentre ubicado, para su operación como puerto de uso público, si es de interés de la EPN y existiera capacidad para su administración.

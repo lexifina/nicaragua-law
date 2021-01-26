@@ -20,7 +20,7 @@ c) Elaborar y presentar a la Junta Directiva, a través del Presidente Ejecutivo
 
 d) Elaborar el informe anual de la EPN y someterlo a la Junta Directiva, a través de la Presidencia Ejecutiva;
 
-e) Gestionar ante las autoridades marítimas competentes, la retención de un buque cuando los intereses de la EPN lo demanden; y
+e) Gestionar ante las autoridades marítimas competentes, la retención de un buque cuando los intereses de la EPN lo demanden;
 
 f) Gestionar ante la Fuerza Naval del Ejército de Nicaragua, la retención de un buque cuando los intereses de la EPN lo demanden; y
 

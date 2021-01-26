@@ -1,10 +1,16 @@
-LEY N°. 838, LEY GENERAL DE PUERTOS DE NICARAGUA
+TEXTO CONSOLIDADO, LEY Nº. 838,LEY GENERAL DE PUERTOS DE NICARAGUA
 
-Aprobada el 14 de mayo de 2013
+Aprobado el 02 de septiembre de 2020
 
-Publicada en La Gaceta, Diario Oficial N°. 92 del 21 de mayo de 2013
+Publicado en La Gaceta Diario, Oficial N°. 17 del 26 de enero de 2021
 
-LEY N°. 838
+Digesto Jurídico Nicaragüense de la Materia de Transporte
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 2 de septiembre de 2020, de la Ley Nº. 838, Ley General de Puertos de Nicaragua, aprobada el 14 de mayo de 2013 y publicada en La Gaceta, Diario Oficial Nº. 92 del 21 de mayo de 2013, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 103 6, Ley del Digesto Jurídico Nicaragüense de la Materia de Transporte, aprobada el 2 de septiembre de 2020.
+
+LEY GENERAL DE PUERTOS DE NICARAGUA
+
+LEY Nº. 838
 
 El Presidente de la República de Nicaragua
 
@@ -16,7 +22,7 @@ LA ASAMBLEA NACIONAL
 
 I
 
-Que la Constitución Política de la República de Nicaragua, establece que “El territorio nacional es el comprendido entre el Mar Caribe y el Océano Pacífico y las Repúblicas de Honduras y Costa Rica. La soberanía, jurisdicción y derechos de Nicaragua se extienden a las islas, cayos y bancos adyacentes, así como a las aguas interiores, el mar territorial, la zona contigua, la plataforma continental, la zona económica exclusiva y el espacio aéreo correspondiente, de conformidad con la ley y las normas de Derecho Internacional”.
+Que la Constitución Política de la República de Nicaragua, establece que el territorio nacional es el comprendido entre el Mar Caribe y el Océano Pacífico y las Repúblicas de Honduras y Costa Rica. La soberanía, jurisdicción y derechos de Nicaragua se extienden a las islas, cayos y bancos adyacentes, así como a las aguas interiores, el mar territorial, la zona contigua, la plataforma continental, la zona económica exclusiva y el espacio aéreo correspondiente, de conformidad con la ley y las normas de Derecho Internacional.
 
 II
 
@@ -32,7 +38,7 @@ Que los mecanismos de gestión pública propios de un Estado eficaz, deben ajust
 
 V
 
-Que el Estado en ejercicio de su soberanía y en el mejor interés público se propone implementar un nuevo modelo portuario, que incorpore la energía de la inversión pública nacional, regional, municipal, y comunal, o privada nacional o extranjera, actuando dichos inversionistas como socios y catalizadores, con las debidas garantías de ley. El Estado garantizará los derechos de los pobladores de las Regiones Autónomas de la Costa Atlántica, de conformidad con la Constitución Política de la República de Nicaragua, Ley No. 28, “Estatuto de la Autonomía de las Regiones de la Costa Atlántica de Nicaragua”, publicada en La Gaceta, Diario Oficial No. 238 de 30 de octubre de 1987 y Ley No. 445, “Ley del Régimen de Propiedad Comunal de los Pueblos Indígenas y las Comunidades Étnicas de las Regiones Autónomas de la Costa Atlántica de Nicaragua y de los Ríos Bocay, Coco, Indio y Maíz”, publicada en La Gaceta, Diario Oficial No. 16 del 23 de enero de 2003.
+Que el Estado en ejercicio de su soberanía y en el mejor interés público se propone implementar un nuevo modelo portuario, que incorpore la energía de la inversión pública nacional, regional, municipal, y comunal, o privada nacional o extranjera, actuando dichos inversionistas como socios y catalizadores, con las debidas garantías de Ley. El Estado garantizará los derechos de los pobladores de las Regiones Autónomas de la Costa Caribe, de conformidad con la Constitución Política de la República de Nicaragua, Ley Nº. 28, "Estatuto de Autonomía de las Regiones de la Costa Caribe de Nicaragua", publicada en La Gaceta, Diario Oficial Nº. 238 del 30 de octubre de 1987 y Ley Nº. 445, "Ley del Régimen de Propiedad Comunal de los Pueblos Indígenas y las Comunidades Étnicas de las Regiones Autónomas de la Costa Caribe de Nicaragua y de los Ríos Bocay, Coco, Indio y Maíz", publicada en La Gaceta, Diario Oficial Nº. 16 del 23 de enero de 2003.
 
 VI
 
@@ -50,7 +56,7 @@ HA ORDENADO
 
 La siguiente:
 
-LEY N°. 838
+LEY Nº. 838
 
 LEY GENERAL DE PUERTOS DE NICARAGUA
 

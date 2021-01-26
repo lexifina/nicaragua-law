@@ -34,7 +34,7 @@ La EPN tendrá las funciones y atribuciones siguientes:
 
 15) Prestar servicios a los buques que atraquen en los puertos bajo su propiedad o administración;
 
-16) Elaborar propuestas de tarifas para los servicios prestados a los buques que atraquen en los puertos de su propiedad o administración y para la carga que se maneje en ellos, sometiéndolas a la aprobación de la DGTA.
+16) Elaborar propuestas de tarifas para los servicios prestados a los buques que atraquen en los puertos de su propiedad o administración y para la carga que se maneje en ellos, sometiéndolas a la aprobación de la DGTA;
 
 17) Elaborar los Reglamentos que regirán la prestación de los servicios portuarios, sometiéndolos a la aprobación de la DGTA;
 
@@ -48,9 +48,9 @@ La EPN tendrá las funciones y atribuciones siguientes:
 
 22) Administrar su patrimonio en forma eficaz, a fin de destinar los recursos económicos para la realización de sus objetivos;
 
-23) Mantener actualizada en coordinación con la DGTA, Instituto Nicaragüense de Estudios Territoriales (INETER) y la Fuerza Naval del Ejército de Nicaragua, la delimitación de las áreas jurisdiccionales marítimas, fluviales, lacustres y terrestres de los puertos nacionales, en consulta con otras Instituciones o autoridades Regionales o locales, en su caso. Los puertos ubicados en territorios fronterizos, su desarrollo se regirá de acuerdo a lo establecido en la Ley No. 749, “Ley de Régimen Jurídico de Fronteras”, publicada en La Gaceta, Diario Oficial No. 244 del 22 de diciembre del 2010;
+23) Mantener actualizada en coordinación con la DGTA, Instituto Nicaragüense de Estudios Territoriales (INETER) y la Fuerza Naval del Ejército de Nicaragua, la delimitación de las áreas jurisdiccionales marítimas, fluviales, lacustres y terrestres de los puertos nacionales, en consulta con otras Instituciones o autoridades Regionales o locales, en su caso. Los puertos ubicados en territorios fronterizos, su desarrollo se regirá de acuerdo a lo establecido en la Ley Nº. 749, "Ley de Régimen Jurídico de Fronteras", publicada en La Gaceta, Diario Oficial Nº. 244 del 22 de diciembre del 2010;
 
-24) Disponer de prácticos en todos los puertos de actividad internacional bajo su propiedad, debidamente autorizados por la DGTA.
+24) Disponer de prácticos en todos los puertos de actividad internacional bajo su propiedad, debidamente autorizados por la DGTA;
 
 25) Mantener actualizados los reglamentos portuarios, debidamente autorizados por la DGTA y aplicar a los infractores las sanciones administrativas y pecuniarias establecidas;
 

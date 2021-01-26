@@ -6,4 +6,4 @@ Los transportistas terrestres, los proveedores de naves, los agentes aduanales y
 
 Capítulo V
 
-Del régimen de responsabilidad
+Del Régimen de Responsabilidad

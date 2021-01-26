@@ -2,4 +2,4 @@
 
 Extensión de limitación de la responsabilidad
 
-Las exoneraciones y límites de responsabilidad previstas en el presente Título, serán aplicables en los recintos extra portuarios, tales como: los denominados puertos secos, terminales de contenedores, depósitos multimodales, zonas de apoyo logístico y similares que se encuentren bajo la administración y control del operador o administrador portuario. Serán aplicables, igualmente, en aquellos casos en los cuales el transporte terrestre sea contratado por cuenta del porteador marítimo o el dueño de la mercancía.
+Las exoneraciones y límites de responsabilidad previstas en el presente Título, serán aplicables en los recintos extra portuarios, tales como: los denominados puertos secos, terminales de contenedores, depósitos multimodales, zonas de apoyos logísticos y similares que se encuentren bajo la administración y control del operador o administrador portuario. Serán aplicables, igualmente, en aquellos casos en los cuales el transporte terrestre sea contratado por cuenta del porteador marítimo o el dueño de la mercancía.

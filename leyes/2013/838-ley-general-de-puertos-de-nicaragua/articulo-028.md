@@ -1,6 +1,8 @@
 # Artículo 28
 
-Funciones y atribuciones de la Junta Directiva de la EPN La Junta Directiva de la EPN, tendrá las facultades necesarias para el cumplimiento de sus cometidos. La Junta Directiva conocerá las propuestas del Presidente Ejecutivo para la toma de decisiones relativas a los órganos de dirección de EPN y en particular tendrá bajo su responsabilidad las funciones y atribuciones siguientes:
+Funciones y atribuciones de la Junta Directiva de la EPN
+
+La Junta Directiva de la EPN, tendrá las facultades necesarias para el cumplimiento de sus cometidos. La Junta Directiva conocerá las propuestas del Presidente Ejecutivo para la toma de decisiones relativas a los órganos de dirección de EPN y en particular tendrá bajo su responsabilidad las funciones y atribuciones siguientes:
 
 a) La dirección de todas las actividades de la EPN, para cuyo ejercicio tendrá las facultades propias de un mandatario generalísimo;
 
@@ -22,7 +24,7 @@ i) Autorizar todos los actos jurídicos y contratos relacionados a comprar, perm
 
 j) A propuestas del Presidente Ejecutivo, autorizar el arrendamiento de áreas, instalaciones y equipos para la prestación de servicios portuarios y complementarios;
 
-k) Aprobar la participación de la EPN en sociedades con objetivos similares a los de la EPN.
+k) Aprobar la participación de la EPN en sociedades con objetivos similares a los de la EPN;
 
 l) Velar para que los servicios portuarios que se presten en régimen de libre concurrencia se efectúen en condiciones tales que impidan el monopolio o la exclusividad de los mismos;
 
@@ -32,14 +34,10 @@ n) Aprobar o modificar en su caso, el programa anual y el proyecto de presupuest
 
 o) Aprobar las propuestas presentadas por el Presidente Ejecutivo, referente a la estructura orgánica de la EPN, y sus órganos de dirección, sus modificaciones, actualizaciones y reestructuraciones;
 
-p) Nombrar al Director General de la DPN y al Gerente General de la
-
-EPN, a propuestas del Presidente Ejecutivo;
+p) Nombrar al Director General de la DPN y al Gerente General de la EPN, a propuestas del Presidente Ejecutivo;
 
 q) Aprobar la contratación de la auditoría externa y conocer sus informes;
 
-r) Convocar a sesiones ordinarias y extraordinarias por medio del
-
-Presidente de la Junta Directiva o quien haga sus veces; y
+r) Convocar a sesiones ordinarias y extraordinarias por medio del Presidente de la Junta Directiva o quien haga sus veces; y
 
 s) Cualquier otra función que el Presidente Ejecutivo le someta.

@@ -1,6 +1,6 @@
 # Artículo 80
 
-Cláusulas mínimas del contrato de concesión y sociedad mixta
+, Cláusulas mínimas del contrato de concesión y sociedad mixta
 
 El contrato de concesión y sociedades mixtas para la construcción, el desarrollo y la administración de terminales marítimas o portuarias, deberán contener como mínimo, lo siguiente:
 
@@ -22,9 +22,7 @@ h) Las cláusulas relativas al régimen económico financiero de la concesión y
 
 i) El monto a pagar por el derecho a la obtención de la concesión o sociedad mixta;
 
-j) Tarifas aplicables, criterios para su fijación, sus incrementos, que el concesionario o la sociedad deba pagar a la EPN; derechos e impuestos a pagar a la Dirección General de Ingresos y a la Dirección General de
-
-Servicios Aduaneros, según corresponda, así como los plazos para realizar dichos pagos;
+j) Tarifas aplicables, criterios para su fijación, sus incrementos, que el concesionario o la sociedad deba pagar a la EPN; derechos e impuestos a pagar a la Dirección General de Ingresos y a la Dirección General de Servicios Aduaneros, según corresponda, así como los plazos para realizar dichos pagos;
 
 k) Las causas para la revisión de los compromisos contractuales;
 
@@ -36,7 +34,9 @@ n) Área territorial en la cual el concesionario o la sociedad puede ejercer sus
 
 o) Mecanismos de renovación del contrato, con indicación clara de los requisitos que debe cumplir el concesionario o la sociedad para solicitar al Estado la renovación de su contrato;
 
-p) Exoneraciones aduaneras y fiscales que el Estado conceda a la empresa concesionaria o a la sociedad. En los contratos se especificarán las exoneraciones de derechos e impuestos correspondientes, conforme lo dispuesto en la legislación de la materia;
+p) Exoneraciones aduaneras y fiscales que el Estado conceda a la empresa concesionaria o a la sociedad.
+
+En los contratos se especificarán las exoneraciones de derechos e impuestos correspondientes, conforme lo dispuesto en la legislación de la materia;
 
 q) El establecimiento de los derechos de los usuarios;
 

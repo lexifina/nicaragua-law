@@ -8,4 +8,4 @@ DEL RÉGIMEN ECONÓMICO DEL SISTEMA PORTUARIO
 
 Capítulo I
 
-Del régimen tarifario
+Del Régimen Tarifario

@@ -4,7 +4,7 @@ Causales de suspensión de la concesión
 
 La suspensión de la concesión no podrá ser superior a seis meses y serán causales para ello las siguientes:
 
-a) La concesionaria no pueda cubrir las indemnizaciones por daños que se originen con motivo de la prestación de los servicios portuarios que sean superiores a las pólizas o garantías previstas en los artículos 240 y 243 del Reglamento a la Ley de Transporte Acuático y en la presente Ley;
+a) La concesionaria no pueda cubrir las indemnizaciones por daños que se originen con motivo de la prestación de los servicios portuarios que sean superiores a las pólizas o garantías previstas en los Artículos 240 y 243 del Reglamento a la Ley de Transporte Acuático y en la presente Ley;
 
 b) La concesionaria incurra en reincidencia en la aplicación de tarifas superiores a las autorizadas;
 

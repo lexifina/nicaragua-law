@@ -24,7 +24,7 @@ i) Regular la construcción, remodelación, rehabilitación, mantenimiento, cons
 
 j) Aprobar los estudios de diseño de construcción de puertos, de conformidad a los requisitos y parámetros que se establezcan en las leyes vinculantes y el Reglamento de la presente Ley;
 
-k) Resolver en segunda instancia las apelaciones que provengan de las resoluciones administrativas emitidas por el Presidente Ejecutivo de la EPN en materia de su competencia. Los demás recursos de conformidad con los procedimientos establecidos en la Ley No. 290, “Ley de Organización, Competencias y Procedimientos del Poder Ejecutivo” y sus reformas;
+k) Resolver en segunda instancia las apelaciones que provengan de las resoluciones administrativas emitidas por el Presidente Ejecutivo de la EPN en materia de su competencia. Los demás recursos de conformidad con los procedimientos establecidos en la Ley Nº. 290, "Ley de Organización, Competencias y Procedimientos del Poder Ejecutivo" y sus reformas;
 
 l) Supervisar a los operadores y prestadores de servicios públicos portuarios, en lo que respecta al cumplimiento efectivo de las tarifas aprobadas, exigiendo la pública exhibición de las mismas;
 
@@ -36,8 +36,8 @@ o) Representar al país ante organismos internacionales e intervenir en las nego
 
 p) Dictar sanciones por incumplimiento a la presente Ley, su Reglamento y regulaciones, de conformidad a las disposiciones legales pertinentes; y
 
-q) Ejercer las demás atribuciones que expresamente se determinen en la presente Ley, su reglamento y el ordenamiento jurídico nacional.
+q) Ejercer las demás atribuciones que expresamente se determinen en la presente Ley, su Reglamento y el ordenamiento jurídico nacional.
 
 Capítulo V
 
-Consultas, cooperación y coordinación interinstitucional
+Consultas, Cooperación y Coordinación Interinstitucional

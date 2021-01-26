@@ -12,9 +12,9 @@ c) Las administraciones portuarias que no presenten a la EPN en el lapso estable
 
 d) Las administraciones de puertos de uso privado que no remitan a la DGTA la información relativa a los movimientos de carga y buques, presupuestos, planes de inversión, y cualquier información que solicite la DGTA, serán sancionadas, con multa de 500 DEG o su equivalente en córdobas al tipo de cambio oficial, por cada mes de retraso;
 
-e) Las administraciones portuarias que no elaboren el plan de acción ambiental portuario y lo sometan a la aprobación de la DGTA, serán sancionadas, con multa de 500 DEG o su equivalente en córdobas al tipo de cambio oficial, por cada mes de retraso.
+e) Las administraciones portuarias que no elaboren el plan de acción ambiental portuario y lo sometan a la aprobación de la DGTA, serán sancionadas, con multa de 500 DEG o su equivalente en córdobas al tipo de cambio oficial, por cada mes de retraso;
 
-f) Las administraciones portuarias que no elaboren los planes de contingencia según los lineamientos establecidos por la DGTA para garantizar la continuidad del servicio, serán sancionadas, con multa de 500 DEG o su equivalente en córdobas al tipo de cambio oficial, por cada mes de retraso.
+f) Las administraciones portuarias que no elaboren los planes de contingencia según los lineamientos establecidos por la DGTA para garantizar la continuidad del servicio, serán sancionadas, con multa de 500 DEG o su equivalente en córdobas al tipo de cambio oficial, por cada mes de retraso;
 
 g) Las administraciones portuarias que no presenten a la DGTA, en el plazo establecido, las evaluaciones periódicas de la batimetría a los fines de garantizar el calado oficial de cada puerto, serán sancionadas, con multa entre 1,000 y 5,000 DEG o su equivalente en córdobas al tipo de cambio oficial;
 
@@ -32,6 +32,6 @@ m) El concesionario que ceda o traspase la concesión otorgada sin la autorizaci
 
 n) Quienes incumplan en la aplicación de las normas técnicas de diseño constructivas en las obras de infraestructura portuaria, tal como lo establecen las NTON-2000 y el Reglamento de la Construcción, pagarán multa entre 1,000 y 5,000 DEG o su equivalente en córdobas al tipo de cambio oficial;
 
-o) Quien construya sin el previo permiso constructivo otorgado por la DGTA, sin perjuicio de poder ordenar la destrucción parcial o total de las obras, previa inspección y constatación de la no aplicación de las normas técnicas constructivas vigentes, pagará multa de entre 1,000 y 5,000 DEG o su equivalente en córdobas al tipo de cambio oficial; y.
+o) Quien construya sin el previo permiso constructivo otorgado por la DGTA, sin perjuicio de poder ordenar la destrucción parcial o total de las obras, previa inspección y constatación de la no aplicación de las normas técnicas constructivas vigentes, pagará multa de entre 1,000 y 5,000 DEG o su equivalente en córdobas al tipo de cambio oficial; y
 
 p) Quien opere con documentos vencidos pagará multa de entre 500 y 3,000 DEG o su equivalente en córdobas al tipo de cambio oficial.

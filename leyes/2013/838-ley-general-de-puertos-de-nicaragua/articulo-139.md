@@ -6,4 +6,4 @@ Toda concesión, autorización, arriendo u otro tipo de contrato que se deriven 
 
 Capítulo III
 
-Disposiciones finales
+Disposiciones Finales
