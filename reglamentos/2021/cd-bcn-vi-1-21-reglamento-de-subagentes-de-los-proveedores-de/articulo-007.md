@@ -1,0 +1,3 @@
+# Artículo 7
+
+Lista de subagentes. Los proveedores de servicios de pagos de remesas deberán remitir al BCN, la lista de subagentes con los que opere indicando al menos el tipo de subagente (persona natural o jurídica); nombre completo del subagente; número de identificación del subagente persona natural; nombre y número de identificación del representante legal; lista de socios o accionistas del subagente con una participación igual o mayor al 5% del patrimonio y la información sobre los beneficiarios finales de estos; dirección; teléfono de contacto; detalle de las agencias de servicios; correo electrónico de contacto; página web del subagente persona jurídica; fecha de contratación; y fecha de inicio de operaciones.

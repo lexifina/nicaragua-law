@@ -1,0 +1,3 @@
+# Artículo 15
+
+Instituciones financieras supervisadas que sean subagentes. Los bancos sujetos a la supervisión de la SIBOIF y las instituciones de microfinanzas supervisadas por la CONAMI que funjan como subagentes deberán registrarse ante el BCN y cumplir con el resto de las disposiciones del Reglamento de Administradores de Servicios de Pagos de Remesas aprobado por el BCN, en lo que fuere aplicable, incluyendo su régimen de sanciones. Asimismo, las Sociedades Financieras sujetas a la supervisión de la SIBOIF que funjan como subagentes, deberán obtener licencia del BCN y cumplir con las disposiciones de dicho reglamento, incluyendo su régimen de sanciones.
