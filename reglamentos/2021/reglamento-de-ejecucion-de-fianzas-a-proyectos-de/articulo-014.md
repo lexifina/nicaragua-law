@@ -1,0 +1,3 @@
+# Artículo 14
+
+Conforme el seguimiento realizado por la Dirección de Inversiones Turísticas (DIT) e informe presentado sobre el avance del proyecto, sesenta (60) días antes de la culminación del plazo, y si este presenta un avance como mínimo de un ochenta y cinco (85) por ciento en obras y ejecución del monto de inversión aprobado, cumple con los demás requisitos establecidos por ley para la actividad turística en que está aprobada la inversión y las instalaciones se encuentran aptas para funcionar, será razón suficiente para la no ejecución de la Fianza y proceder a la Declaración en Operaciones del Proyecto, previa solicitud del inversionista a la Junta de Incentivos Turísticos.
