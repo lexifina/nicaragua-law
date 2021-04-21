@@ -1,0 +1,3 @@
+# Artículo 2
+
+Alcance. Este reglamento es aplicable a los usuarios y proveedores de servicios y/o productos financieros relacionados con los sistemas de pagos, servicios de tecnología financiera de servicios de pago, servicios de pago de remesas, y servicios de compra venta y/o cambio de monedas, sujetos a la regulación del Banco Central de Nicaragua, en la medida en que tales disposiciones sean pertinentes, total o parcialmente, a los productos y servicios ofrecidos por las personas proveedoras, dadas las particularidades de estos productos y servicios, la naturaleza, el alcance y el tamaño de la actividad del proveedor, la necesidad de brindar información oportuna a los consumidores o usuarios y los términos del presente reglamento.
