@@ -1,0 +1,3 @@
+# Artículo 35
+
+De los requisitos con que deben contar los Centros Técnicos Privados. Los Centros Técnicos Privados deberán estar debidamente constituidos, de conformidad con las leyes del país, así como demostrar que cuentan con las condiciones requeridas para desarrollar oferta formativa de Educación Técnica y/o Formación Profesional, considerando la infraestructura, el equipamiento, el personal docente y administrativo necesario u otras según los requisitos aplicables, lo cual será verificado por el INATEC a través de las instancias pertinentes, evaluando las solicitudes de acreditación, las que pueden ser autorizadas o denegadas.
