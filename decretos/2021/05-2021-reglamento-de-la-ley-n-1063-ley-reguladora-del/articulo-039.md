@@ -1,0 +1,5 @@
+# Artículo 39
+
+Del funcionamiento territorial de los Centros Técnicos Privados. Los Centros Técnicos Privados que desarrollen acciones formativas en modalidad presencial, deberán operar en la circunscripción territorial según la acreditación otorgada. Cuando requieran funcionar en otra circunscripción deberá contar con la respectiva acreditación para cada sucursal.
+
+En caso de que un Centro Técnico Privado requiera desarrollar una acción formativa fuera de las instalaciones autorizadas, deberá contar con la autorización del INATEC, cumpliendo con los requisitos y procedimientos correspondientes, teniendo en cuenta que el local donde se desarrolle debe contar con las condiciones necesarias y estar ubicado dentro de la circunscripción autorizada en su acreditación de funcionamiento. En caso de ofertar la modalidad virtual el centro podrá matricular estudiantes de cualquier parte del país, siempre y cuando la formación sea completamente en línea (e-learning), operando desde el centro acreditado. Para oferta en modalidad semi presencial (b-learning) deberá sujetarse a lo establecido para la formación presencial.
