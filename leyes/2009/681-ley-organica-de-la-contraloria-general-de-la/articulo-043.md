@@ -1,6 +1,6 @@
 # Artículo 43
 
-Auditoría Gubernamental.
+Auditoría Gubernamental
 
 La auditoría gubernamental consiste en un examen objetivo, sistemático y profesional de las operaciones u actividades o de ambas a la vez, practicado con posterioridad a su ejecución, con la finalidad de verificarlas, evaluarlas y elaborar el correspondiente informe que debe contener comentarios, conclusiones y recomendaciones.
 

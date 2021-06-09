@@ -1,10 +1,10 @@
 # Artículo 30
 
-Marco Normativo General.
+Marco Normativo General
 
 Para regular el funcionamiento del Sistema de Control y Fiscalización, la Contraloría General de la República, expedirá:
 
-1. Normas Técnicas de Control Interno (NTCI), que constituyen el marco de referencia mínimo obligatorio en materia de control interno, para que la Administración Pública prepare los procedimientos y reglamentos específicos para el funcionamiento de sus Sistemas de Administración (SA) y las Unidades de Auditoría Interna (UAI). Igualmente estas normas sirven de instrumento de evaluación tanto del diseño como del funcionamiento de los SA y de las UAI, en función del control interno y por consiguiente, suministra bases objetivas para definir el grado de responsabilidad de los Servidores Públicos en relación con la aplicación de las normas técnicas de control interno;
+1. Normas Técnicas de Control Interno (NTCI), que constituyen el marco de referencia mínimo obligatorio en materia de control interno, para que la Administración Pública prepare los procedimientos y reglamentos específicos para el funcionamiento de sus Sistemas de Administración (SA) y las Unidades de Auditoría Interna (UAI). Igualmente, estas normas sirven de instrumento de evaluación tanto del diseño como del funcionamiento de los SA y de las UAI, en función del control interno y por consiguiente, suministra bases objetivas para definir el grado de responsabilidad de los Servidores Públicos en relación con la aplicación de las normas técnicas de control interno;
 
 2. Normas de Auditoría Gubernamental, Local e Internacional, que constituyen los principales criterios técnicos, para sistematizar la ejecución de las auditorías en la Administración Pública y garantizar la calidad del servicio. Estas normas están dirigidas específicamente a la ejecución de las auditorías identificadas en la presente Ley;
 

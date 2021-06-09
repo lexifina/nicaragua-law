@@ -1,8 +1,8 @@
 # Artículo 73
 
-Atribución para Establecer Responsabilidades.
+Atribución para Establecer Responsabilidades
 
-Sobre la base de los resultados de la auditoría gubernamental a que se refiere el numeral 1 del artículo 9 de la presente Ley, o de procesos administrativos, el Consejo Superior de la Contraloría General de la República podrá determinar responsabilidades administrativas, civiles y presumir responsabilidad penal.
+Sobre La base de los resultados de La auditoría gubernamental a que se refiere el numeral 1 del Artículo 9 de la presente Ley, o de procesos administrativos, el Consejo Superior de la Contraloría General de la República podrá determinar responsabilidades administrativas, civiles y presumir responsabilidad penal.
 
 Cuando de los resultados de la Auditoria Gubernamental practicada por las Unidades de Auditoría Internas aparecieren hechos que puedan generar responsabilidad administrativa se dejará constancia de ello en el pertinente informe y la máxima autoridad declarará dicha responsabilidad y aplicará las sanciones previstas en la presente Ley.
 

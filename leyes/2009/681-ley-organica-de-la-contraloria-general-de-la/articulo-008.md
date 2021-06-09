@@ -1,6 +1,6 @@
 # Artículo 8
 
-Financiamiento.
+Financiamiento
 
 El presupuesto de la Contraloría General de la República se financiará con:
 

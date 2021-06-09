@@ -1,6 +1,6 @@
 # Artículo 52
 
-Garantía del Debido Proceso.
+Garantía del Debido Proceso
 
 Es el trámite que debe realizarse en todo proceso administrativo mediante el cual toda persona tiene derecho a:
 

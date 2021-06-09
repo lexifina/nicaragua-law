@@ -1,6 +1,6 @@
 # Artículo 74
 
-Objeciones a Órdenes Superiores e Insistencia.
+Objeciones a Órdenes Superiores e Insistencia
 
 Ningún servidor público podrá ser relevado de su responsabilidad legal alegando el incumplimiento de órdenes superiores.
 

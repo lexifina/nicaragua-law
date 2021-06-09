@@ -1,6 +1,6 @@
 # Artículo 98
 
-Interrupción de la Prescripción.
+Interrupción de la Prescripción
 
 La prescripción se interrumpirá por el reconocimiento expreso o tácito de la obligación por parte del deudor, o por la citación legal del auto de pago.
 

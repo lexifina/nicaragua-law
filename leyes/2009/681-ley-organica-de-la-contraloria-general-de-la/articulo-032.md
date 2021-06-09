@@ -1,6 +1,6 @@
 # Artículo 32
 
-Componentes del Sistema de Control y Fiscalización.
+Componentes del Sistema de Control y Fiscalización
 
 La ejecución del Sistema de Control de la Administración Pública y Fiscalización de los Bienes y Recursos del Estado, se realizará por medio de:
 

@@ -1,6 +1,6 @@
 # Artículo 4
 
-Principios.
+Principios
 
 Se establecen los siguientes principios que serán de obligatorio cumplimiento para los servidores públicos cuyas funciones regula la presente Ley:
 
@@ -8,7 +8,7 @@ a. Imparcialidad del Sistema: El Sistema de Control de la Administración Públi
 
 b. Independencia: La Contraloría General de la República es un Órgano Independiente sometido únicamente al cumplimiento de la Constitución Política de la República de Nicaragua y las leyes.
 
-El Consejo Superior de la Contraloría General de la República es un Órgano y los servidores públicos que ejercen labores de auditoría deben actuar libres de influencias políticas o de cualquier índole.
+El Consejo Superior de la Contraloría General de la República y los servidores públicos que ejercen labores de auditoría deben actuar libres de influencias políticas o de cualquier índole.
 
 Su criterio debe ser independiente, libre de prejuicios o intereses, con el fin de preservar la imparcialidad y objetividad a las que la institución está obligada.
 
@@ -16,7 +16,7 @@ Los miembros del Consejo Superior y los servidores públicos que ejercen labores
 
 c. Transparencia: El Consejo Superior deberá actuar con la debida transparencia y motivar sus decisiones y acciones; está obligado a rendir cuentas de su gestión, y hacer públicos los resultados de sus investigaciones, después de ser notificados los auditados.
 
-d. Legalidad y Debido Proceso: Todo Servidor Público debe actuar con irrestricto apego a la Ley. En su actuar institucional sólo deben hacer lo que la legislación y normatividad les faculta, cumplir estrictamente con las obligaciones que le imponen.
+d. Legalidad y Debido Proceso: Todo Servidor Público debe actuar con irrestricto apego a la Ley. En su actuar institucional sólo debe hacer lo que la legislación y normatividad les faculta, cumplir estrictamente con las obligaciones que le imponen.
 
 El Consejo Superior de la Contraloría General de la República y los servidores públicos que ejercen labores de auditoría deben actuar invariablemente según el mandato de la ley y evitar interpretaciones subjetivas.
 

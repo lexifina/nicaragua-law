@@ -1,6 +1,6 @@
 # Artículo 102
 
-Entidades y Organismos.
+Entidades y Organismos
 
 Cada entidad y organismo público tiene como deber fundamental, el cumplimiento de los fines y objetivos institucionales de conformidad con el ordenamiento jurídico, mediante la utilización de los medios y recursos asignados y la aplicación de los sistemas establecidos en esta Ley.
 

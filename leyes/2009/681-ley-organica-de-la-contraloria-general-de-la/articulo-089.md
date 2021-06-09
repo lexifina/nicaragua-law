@@ -1,8 +1,8 @@
 # Artículo 89
 
-Recurso.
+Recurso
 
-Contra la resolución de responsabilidad civil dictada por el Consejo Superior de la Contraloría General de la República procederá el recurso de revisión ante el mismo consejo a solicitud de parte, de conformidad con las siguientes causales:
+Contra la resolución de responsabilidad civil dictada por el Consejo Superior de la Contraloría General de la República procederá el recurso de revisión ante el mismo Consejo a solicitud de parte, de conformidad con las siguientes causales:
 
 1. Cuando las resoluciones hubieren sido expedidas con evidente error de hecho o de derecho, que apareciere de los documentos que constan en el propio expediente, o de disposiciones legales expresas;
 

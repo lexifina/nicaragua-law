@@ -1,6 +1,6 @@
 # Artículo 92
 
-Improcedencia del Recurso.
+Improcedencia del Recurso
 
 No procederá el recurso de revisión en los casos siguientes:
 

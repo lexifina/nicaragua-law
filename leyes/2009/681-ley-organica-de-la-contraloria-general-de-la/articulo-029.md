@@ -1,10 +1,12 @@
 # Artículo 29
 
-Integración del Sistema de Control y Fiscalización. Integran el Sistema de Control de la Administración Pública y Fiscalización de los Bienes y Recursos del Estado:
+Integración del Sistema de Control y Fiscalización
+
+Integran el Sistema de Control de la Administración Pública y Fiscalización de los Bienes y Recursos del Estado:
 
 1. La Contraloría General de la República;
 
-2. Las Unidades de Auditoría Interna de las entidades sujetas a esta ley;
+2. Las Unidades de Auditoría Interna de las entidades sujetas a esta Ley;
 
 3. Las máximas autoridades y los niveles directivos y gerenciales de las entidades sujetas a esta Ley; y
 

@@ -1,8 +1,8 @@
 # Artículo 80
 
-Gradualidad de la Sanción.
+Gradualidad de la Sanción
 
-La aplicación de las sanciones se hace teniendo en consideración lo siguiente:
+La aplicación de las sanciones se hace teniendo en consideración Lo siguiente:
 
 1. La gravedad de la violación de la norma;
 

@@ -1,6 +1,6 @@
 # Artículo 16
 
-Atribuciones y Funciones del Consejo Superior.
+Atribuciones y Funciones del Consejo Superior
 
 Al Consejo Superior de la Contraloría General de la República, le corresponde ejercer las atribuciones, facultades y funciones siguientes:
 

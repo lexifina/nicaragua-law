@@ -1,8 +1,8 @@
 # Artículo 55
 
-Formalidades de la Notificación.
+Formalidades de la Notificación
 
-Todas las notificaciones se harán de forma personal ajustándose a los procedimientos y requisitos que establece el Código de Procedimiento Civil.
+Todas las notificaciones se harán de forma personal ajustándose a los procedimientos y requisitos que establece la Ley Nº. 902, Código Procesal Civil de la República de Nicaragua.
 
 Las notificaciones dentro de las fases del procedimiento serán notificadas en el domicilio del interesado, o por correo certificado, o por telegrama, con acuse de recibo.
 

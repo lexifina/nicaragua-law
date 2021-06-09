@@ -1,6 +1,6 @@
 # Artículo 54
 
-Notificación Inicial.
+Notificación Inicial
 
 El procedimiento administrativo de cualquier naturaleza dará inició con notificación sobre el carácter, alcance y fines del procedimiento, dar intervención y tener como parte a los interesados, previniendo a los servidores o ex servidores, que estuvieren vinculados con las operaciones a examinar y a los terceros conocidos vinculados con tales operaciones, que dicho proceso podrá finalizar con el establecimiento de hallazgos que podrían derivar responsabilidades administrativas, civiles o presunciones de responsabilidad penal.
 

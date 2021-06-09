@@ -1,6 +1,6 @@
 # Artículo 9
 
-Atribuciones y Funciones.
+Atribuciones y Funciones
 
 La Contraloría General de la República ejercerá las atribuciones y funciones que le señala la Constitución Política y, concretamente, las siguientes:
 
@@ -42,11 +42,11 @@ d. El cumplimiento de las demás funciones que le confieren la Constitución Pol
 
 15. Ordenar a la máxima autoridad de la institución correspondiente la ejecución de sanciones administrativas, o aplicarlas si fuera el caso.
 
-16. Remitir de inmediato a conocimiento de los Tribunales de justicia, la Procuraduría General de la República y de la Fiscalía General de la República las conclusiones y todas las evidencias acumuladas, cuando de los resultados de la investigación de auditoría se presumiera responsabilidad penal.
+16. Remitir de inmediato a conocimiento de los Tribunales de Justicia, la Procuraduría General de la República y de la Fiscalía General de la República las conclusiones y todas las evidencias acumuladas, cuando de los resultados de la investigación de auditoría se presumiera responsabilidad penal.
 
 17. Emitir opinión profesional sobre los estados financieros que el Ministerio de Hacienda y Crédito Público presente anualmente a la Asamblea Nacional, y ponerla en conocimiento de ésta.
 
-18. Examinar y evaluar el registro de los Bienes del Estado que deberá ser llevado por cada una de las Entidades y Organismos de la administración pública, y velar por el adecuado control y uso de los mismos.
+18. Examinar y evaluar el registro de los Bienes del Estado que deberá ser llevado por cada una de las Entidades y Organismos de la Administración Pública, y velar por el adecuado control y uso de los mismos.
 
 19. Examinar y evaluar que se lleve una debida custodia de:
 
@@ -54,21 +54,17 @@ Todos los documentos que acrediten posesión activa del Estado, tales como accio
 
 - Los documentos cancelados del Crédito Público, después de verificar su autenticidad.
 
-20. Evaluar el uso de:
-
-- Recibos fiscales que son los que deberán extender las receptorías fiscales de la República.
-
-- Los recibos' de otras oficinas públicas.
+20. Evaluar el uso de: - Recibos fiscales que son los que deberán extender las receptorías fiscales de la República. - Los recibos de otras oficinas públicas.
 
 21. Examinar la incineración o destrucción de toda clase de especies fiscales, postales y monetarias.
 
 22. Evaluar las emisiones de bonos estatales.
 
-23. Aplicar la Ley No. 438, "Ley de Probidad de los Servidores Públicos".
+23. Aplicar la Ley Nº. 438, Ley de Probidad de los Servidores Públicos.
 
 24. Fiscalizar toda contratación que entrañe ingresos o egresos, u otros recursos del Estado y/o de la Administración Pública; y cuando las contrataciones no se ajusten a las disposiciones legales sobre la materia se aplicará el procedimiento de denuncia de nulidad, así como la determinación de las respectivas responsabilidades a que hubiere lugar.
 
-25. Efectuar publicaciones especiales de la presente ley, sus reformas y regulaciones.
+25. Efectuar publicaciones especiales de la presente Ley, sus reformas y regulaciones.
 
 26. Efectuar seguimiento al cumplimiento de las recomendaciones de los informes de auditoría y a la ejecución de las responsabilidades y sanciones administrativas.
 
@@ -86,7 +82,7 @@ Todos los documentos que acrediten posesión activa del Estado, tales como accio
 
 33. Solicitar en los asuntos de su competencia, directamente ante la autoridad judicial competente, el levantamiento del sigilo bancario y la presentación de documentos públicos o privados en manos de personas naturales o jurídicas de derecho público o privado cuando estas se nieguen a presentarlas de forma voluntaria.
 
-34. Supervisar que las entidades comprendidas en el ámbito de aplicación de la Ley No. 621, "Ley de Acceso a la Información Pública", tengan una Oficina de Acceso a la Información Pública; que tengan en línea la información básica que debe ser difundida de oficio por estas entidades; que den respuestas a las solicitudes de información pública que se le solicite en un plazo no mayor de quince días hábiles después de recibida aquella y promover modalidades de participación ciudadana en la fiscalización del patrimonio público, de conformidad con la ley de la materia.
+34. Supervisar que las entidades comprendidas en el ámbito de aplicación de la Ley Nº. 621, Ley de Acceso a la Información Pública, tengan una Oficina de Acceso a la Información Pública; que tengan en línea la información básica que debe ser difundida de oficio por estas entidades; que den respuestas a las solicitudes de información pública que se le solicite en un plazo no mayor de quince días hábiles después de recibida aquella y promover modalidades de participación ciudadana en la fiscalización del patrimonio público, de conformidad con la ley de la materia.
 
 35. En el caso de exclusiones de procedimiento, la Contraloría General de la República deberá aplicar sistemas de control más rigurosos para garantizar el buen uso de los bienes del Estado.
 

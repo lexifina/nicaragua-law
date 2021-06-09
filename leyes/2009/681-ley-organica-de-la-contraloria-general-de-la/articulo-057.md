@@ -1,6 +1,6 @@
 # Artículo 57
 
-Comunicación Constante y Evidencia.
+Comunicación Constante y Evidencia
 
 En el curso del procedimiento de auditoría, los auditores gubernamentales y los servidores públicos que realizan labores de auditoría, mantendrán constante comunicación con los servidores o ex servidores de la entidad u organismo auditado y con los terceros relacionados con las actividades examinadas.
 

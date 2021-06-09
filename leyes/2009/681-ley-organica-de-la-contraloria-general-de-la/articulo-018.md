@@ -1,6 +1,6 @@
 # Artículo 18
 
-Funciones del Vicepresidente.
+Funciones del Vicepresidente
 
 Corresponde al Vicepresidente del Consejo Superior de la Contraloría General de la República:
 

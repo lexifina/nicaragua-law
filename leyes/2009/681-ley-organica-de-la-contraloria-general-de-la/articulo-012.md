@@ -1,6 +1,6 @@
 # Artículo 12
 
-Calidades para ser Miembro.
+Calidades para ser Miembro
 
 Para ser electo miembro del Consejo Superior de la Contraloría General de la República se requieren las siguientes calidades:
 

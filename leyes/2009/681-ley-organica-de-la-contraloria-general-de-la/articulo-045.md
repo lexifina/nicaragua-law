@@ -1,6 +1,6 @@
 # Artículo 45
 
-Materia Objeto de la Auditoría Gubernamental.
+Materia Objeto de la Auditoría Gubernamental
 
 Mediante auditoría gubernamental, la que podrá llevarse a cabo sobre todas o una parte de las operaciones o transacciones, se deberá examinar, verificar y evaluar en las entidades y organismos públicos:
 

@@ -1,6 +1,6 @@
 # Artículo 49
 
-Acceso a la Información.
+Acceso a la Información
 
 La Contraloría General de la República, su Consejo Superior y, en general, los auditores gubernamentales internos y externos y los servidores públicos que ejercen labores de auditoría, tendrán acceso libre, directo e irrestricto a registros, archivos, y documentos almacenados en cualquier medio que sustenten la información en cuanto a la naturaleza de las operaciones auditadas.
 

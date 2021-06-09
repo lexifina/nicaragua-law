@@ -1,12 +1,12 @@
 # Artículo 21
 
-Formas y Causales de Suspensión y Destitución.
+Formas y Causales de Suspensión y Destitución
 
-De acuerdo con lo establecido en el numeral 11 del artículo 138 de la Constitución Política de la República de Nicaragua, los Miembros Propietarios y Miembros Suplentes del Consejo Superior de la Contraloría General de la República solamente podrán ser suspendidos o destituidos de su cargo por la Asamblea Nacional.
+De acuerdo con lo establecido en el numeral 11 del Artículo 138 de la Constitución Política de la República de Nicaragua, los Miembros Propietarios y Miembros Suplentes del Consejo Superior de la Contraloría General de la República solamente podrán ser suspendidos o destituidos de su cargo por la Asamblea Nacional.
 
 Son causales de Destitución:
 
-1. Obstaculizar de manera evidente el cumplimiento de las disposiciones constitucionales de los artículos 155 y 156 de la Constitución Política de la República de Nicaragua;
+1. Obstaculizar de manera evidente el cumplimiento de las disposiciones constitucionales de los Artículos 155 y 156 de la Constitución Política de la República de Nicaragua;
 
 2. La falta de acción o la omisión de sus obligaciones que produjeren la caducidad, la prescripción o el silencio administrativo en que deban pronunciarse;
 
@@ -14,7 +14,7 @@ Son causales de Destitución:
 
 4. Abandono injustificado de sus funciones, para lo cual se entenderá ausencias temporales injustificadas en cuatro sesiones ordinarias continuas del Consejo Superior y falta de acreditación del Miembro Suplente;
 
-5. Por incurrir en cualquiera de las prohibiciones del artículo 8 o en las Incompatibilidades establecidas en los literales a) y e) del artículo 10, ambos de la Ley No. 438, "Ley de Probidad de los Servidores Públicos";
+5. Por incurrir en cualquiera de las prohibiciones del Artículo 8 o en las Incompatibilidades establecidas en los literales a) y c) del Artículo 10, ambos de la Ley Nº. 438, Ley de Probidad de los Servidores Públicos;
 
 6. Usar en beneficio propio o de terceros información reservada o privilegiada de la que se tenga conocimiento en el ejercicio de su cargo; y
 
@@ -26,7 +26,7 @@ La suspensión en el cargo de los Miembros Propietarios y Miembros Suplentes ser
 
 1. La falta de acción para el inicio de una auditoría cuando esta fuera procedente;
 
-2. Por incurrir en cualquiera de las incompatibilidades establecidas en el literal b) del artículo 10 de la Ley No. 438, "Ley de Probidad de los Servidores Públicos";
+2. Por incurrir en cualquiera de las incompatibilidades establecidas en el literal b) del Artículo 10 de la Ley Nº. 438, Ley de Probidad de los Servidores Públicos;
 
 3. Participar activamente en reuniones, manifestaciones de carácter político, electoral o partidista;
 

@@ -1,6 +1,6 @@
 # Artículo 42
 
-Objetivos del Control Sucesivo sobre la Gestión del Presupuesto.
+Objetivos del Control Sucesivo sobre la Gestión del Presupuesto
 
 El control sucesivo sobre la gestión tiene como objetivos:
 

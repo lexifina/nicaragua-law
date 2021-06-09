@@ -1,6 +1,6 @@
 # Artículo 17
 
-Atribuciones y Funciones del Presidente del Consejo.
+Atribuciones y Funciones del Presidente del Consejo
 
 Al Presidente del Consejo Superior de la Contraloría le corresponde:
 
@@ -16,4 +16,6 @@ Al Presidente del Consejo Superior de la Contraloría le corresponde:
 
 6. Comunicar y notificar a las máximas autoridades de las entidades el inicio de las auditorías, así como las responsabilidades administrativas y civiles determinadas por el Consejo, y las presunciones de responsabilidad penal;
 
-8. Cumplir las demás atribuciones y funciones que le delegare el Consejo Superior, así como aquellas de competencia legal de la Contraloría que no estuvieren asignadas a otras autoridades o funcionarios de la misma.
+7. Presentar Informes a la Asamblea Nacional, previa aprobación del Consejo Superior; y
+
+8. Cumplir las demás atribuciones y funciones que le delegaren el Consejo Superior, así como aquellas de competencia legal de la Contraloría que no estuvieren asignadas a otras autoridades o funcionarios de la misma.
