@@ -1,14 +1,14 @@
 # Artículo 5
 
-Son Atribuciones del Consejo Nacional de Planificación Económica Social (CONPES) las siguientes:
+Son atribuciones del Consejo Nacional de Planificación Económica Social (CONPES) las siguientes:
 
 1. Evacuar las consultas que le formule el Presidente de la República sobre asuntos específicos de interés nacional o territorial.
 
 2. Organizar el Sistema Nacional de Participación para apoyar la toma de decisiones en temas de interés Nacional, Regional y Local; y para evacuar consultas sobre las políticas, estrategias, leyes y otros temas que requieran los poderes del Estado.
 
-3. Asesorar al Presidente de la República en la formulación seguimiento y evaluación de políticas, planes y programas económicos sociales, cuando así se los solicite.
+3. Asesorar al Presidente de la República en la formulación, seguimiento y evaluación de políticas, planes y programas económicos sociales, cuando así se los solicite.
 
-4. Elaborar recomendaciones sobre anteproyectos de políticas o leyes de carácter económico, social o de interés nacional, que le solicite el Presidente de la República.
+4. Elaborar recomendaciones sobre anteproyectos de políticas o leyes de carácter económico, social o de interés nacional, que le solicite el Presidente de la República
 
 5. Dar seguimiento a los planes y políticas contempladas en el Plan Nacional de Desarrollo.
 
