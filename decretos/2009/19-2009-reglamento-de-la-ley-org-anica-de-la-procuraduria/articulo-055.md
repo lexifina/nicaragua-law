@@ -1,6 +1,8 @@
 # Artículo 55
 
-Delegaciones de la Procuraduría General de la República. Son Delegaciones de la Procuraduría General de la República, las siguientes:
+Delegaciones de la Procuraduría General de la República
+
+Son Delegaciones de la Procuraduría General de la República, las siguientes:
 
 1. Procuradurías Departamentales y de las Regiones Autónomas.
 

@@ -1,6 +1,8 @@
 # Artículo 57
 
-Funciones y deberes de las Procuradurías Departamentales y de las Regiones Autónomas. Las Procuradurías Departamentales y de las Regiones Autónomas, tendrán potestad para actuar en el ámbito en el territorio que le corresponde. Además, de las funciones que tiene en relación al territorio que cubran, tendrán las siguientes funciones y deberes:
+Funciones y deberes de las Procuradurías Departamentales y de las Regiones Autónomas
+
+Las Procuradurías Departamentales y de las Regiones Autónomas, tendrán potestad para actuar en el ámbito en el territorio que le corresponde. Además, de las funciones que tiene en relación al territorio que cubran, tendrán las siguientes funciones y deberes:
 
 1. Desarrollar en el territorio de su competencia, las estrategias y políticas institucionales definidas por la Dirección Superior.
 
@@ -18,8 +20,8 @@ Funciones y deberes de las Procuradurías Departamentales y de las Regiones Aut�
 
 8. Remitir a la Dirección Superior informes de sus actos de gestión, casos de su conocimiento y cualquier otro que le solicite la misma.
 
-10. Asesorar a la Dirección Superior en asuntos de su conocimiento.
+9. Asesorar a la Dirección Superior en asuntos de su conocimiento.
 
-11. Las establecidas en las funciones comunes de las Procuradurías Nacionales, en cuanto le sean aplicables.
+10. Las establecidas en las funciones comunes de las Procuradurías Nacionales, en cuanto le sean aplicables.
 
-12. Cualquier otra que sea asignada por la Dirección Superior.
+11. Cualquier otra que sea asignada por la Dirección Superior.

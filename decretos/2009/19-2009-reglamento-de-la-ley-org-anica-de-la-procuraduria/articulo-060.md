@@ -1,6 +1,8 @@
 # Artículo 60
 
-Funciones y deberes de las Procuradurías Municipales. Las Procuradurías Municipales tendrán la potestad para actuar en el ámbito del territorio municipal que establece el Acuerdo de su nombramiento y. tendrán las siguientes funciones y deberes:
+Funciones y deberes de las Procuradurías Municipales
+
+Las Procuradurías Municipales tendrán la potestad para actuar en el ámbito del territorio municipal que establece el Acuerdo de su nombramiento y, tendrán las siguientes funciones y deberes:
 
 1. Desarrollar en el territorio de su competencia, las estrategias y políticas institucionales definidas por la Dirección Superior.
 

@@ -1,6 +1,8 @@
 # Artículo 53
 
-Competencia. Auditoría Interna es la encargada de vigilar el correcto ejercicio de la Administración y el cumplimiento de los procedimientos contables.
+Competencia
+
+Auditoría Interna es la encargada de vigilar el correcto ejercicio de la Administración y el cumplimiento de los procedimientos contables.
 
 Estará dirigida por un Auditor con título de Contador Público debidamente autorizado, quien se auxiliará del personal necesario.
 

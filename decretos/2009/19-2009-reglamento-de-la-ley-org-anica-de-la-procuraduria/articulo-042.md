@@ -1,6 +1,8 @@
 # Artículo 42
 
-Organización de la División Administrativa Financiera. La División Administrativa Financiera contará con cuatro oficinas:
+Organización de la División Administrativa Financiera
+
+La División Administrativa Financiera contará con cuatro oficinas:
 
 1. Servicios Administrativos y Proyectos.
 

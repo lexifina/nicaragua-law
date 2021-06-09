@@ -1,6 +1,8 @@
 # Artículo 48
 
-Funciones de Recursos Humanos. Son funciones de Recursos Humanos las siguientes:
+Funciones de Recursos Humanos
+
+Son funciones de Recursos Humanos las siguientes:
 
 1. Elaborar y revisar mensualmente la nómina fiscal de salarios.
 

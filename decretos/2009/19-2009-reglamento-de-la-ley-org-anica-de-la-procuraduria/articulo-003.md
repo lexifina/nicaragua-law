@@ -1,6 +1,8 @@
 # Artículo 3
 
-Organización. Para el cumplimiento de los asuntos de su competencia, la Procuraduría General de la República se integra de la siguiente manera:
+Organización
+
+Para el cumplimiento de los asuntos de su competencia, la Procuraduría General de la República se integra de la siguiente manera:
 
 1. Dirección Superior.
 
@@ -26,6 +28,8 @@ Organización. Para el cumplimiento de los asuntos de su competencia, la Procura
 
 2.3. Comisión Nacional de Revisión de Confiscaciones.
 
+2.4. Intendencia de la Propiedad.
+
 3. Órganos de Apoyo
 
 3.1. Secretaría Ejecutiva.
@@ -40,7 +44,7 @@ Organización. Para el cumplimiento de los asuntos de su competencia, la Procura
 
 4. Delegaciones
 
-4.1. Procuradurías Departamentales y de las Regiones Autónomas.
+4. 1. Procuradurías Departamentales y de las Regiones Autónomas.
 
 4.2. Procuradurías Municipales.
 

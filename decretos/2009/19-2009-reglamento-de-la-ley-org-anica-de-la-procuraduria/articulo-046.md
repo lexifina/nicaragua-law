@@ -1,6 +1,8 @@
 # Artículo 46
 
-Funciones de Tesorería. Son funciones de Tesorería, las siguientes:
+Funciones de Tesorería
+
+Son funciones de Tesorería, las siguientes:
 
 1. Resguardar y administrar los fondos rotativos del Presupuesto anual de la Procuraduría General de la República.
 

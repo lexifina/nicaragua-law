@@ -8,13 +8,15 @@ Para refrendar todos sus documentos escritos, utilizarán sello los siguientes f
 
 3. Procuradurías Nacionales.
 
-4. Notarías del Estado
+4. Notarías del Estado.
 
 5. Comisión Nacional de Revisión de Confiscaciones.
 
+5. bis Intendencia de la Propiedad.
+
 6. Secretaría Ejecutiva.
 
-7. División Administrativa Financiera
+7. División Administrativa Financiera.
 
 8. Recursos Humanos.
 
@@ -22,11 +24,11 @@ Para refrendar todos sus documentos escritos, utilizarán sello los siguientes f
 
 10. Auditoría Interna.
 
-11. Servicios Administrativos
+11. Servicios Administrativos.
 
-12. Contabilidad
+12. Contabilidad.
 
-13. Presupuesto
+13. Presupuesto.
 
 14. Tesorería.
 

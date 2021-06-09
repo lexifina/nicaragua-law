@@ -1,6 +1,8 @@
 # Artículo 34
 
-Órganos de Apoyo. Son Órganos de Apoyo, los siguientes:
+Órganos de Apoyo
+
+Son Órganos de Apoyo, los siguientes:
 
 1. Secretaría Ejecutiva.
 

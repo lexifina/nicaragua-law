@@ -1,6 +1,8 @@
 # Artículo 43
 
-Funciones de Servicios Administrativos. Son funciones de Servicios Administrativos, las siguientes:
+Funciones de Servicios
+
+Administrativos Son funciones de Servicios Administrativos, las siguientes:
 
 1. Regular el sistema de compras y contrataciones de la Institución, de acuerdo a las disposiciones legales pertinentes.
 

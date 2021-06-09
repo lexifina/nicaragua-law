@@ -1,6 +1,8 @@
 # Artículo 18
 
-Competencia. La Procuraduría de la Propiedad tiene a su cargo la representación del Estado en los asuntos sobre propiedades que hayan sido objeto de afectación, asignación o transferencia, en los que el Estado tenga interés. Ejercerá las acciones que correspondan en materia de su competencia, sin perjuicio de las funciones y atribuciones asignadas a otras instituciones estatales. A tales efectos el Procurador de la Propiedad o sus Procuradores Auxiliares, siguiendo las instrucciones de la Dirección Superior ejercerán las acciones judiciales pertinentes para la restitución de bienes que hayan sido transferidos a particulares en perjuicio del patrimonio del Estado o de sus órganos, contraviniendo la Constitución y las leyes.
+Competencia
+
+La Procuraduría de la Propiedad tiene a su cargo la representación del Estado en los asuntos sobre propiedades que hayan sido objeto de afectación, asignación o transferencia, en los que el Estado tenga interés. Ejercerá las acciones que correspondan en materia de su competencia, sin perjuicio de las funciones y atribuciones asignadas a otras instituciones estatales. A tales efectos el Procurador de la Propiedad o sus Procuradores Auxiliares, siguiendo las instrucciones de la Dirección Superior ejercerán las acciones judiciales pertinentes para la restitución de bienes que hayan sido transferidos a particulares en perjuicio del patrimonio del Estado o de sus órganos, contraviniendo la Constitución y las leyes.
 
 Asimismo dichos servidores públicos, dentro del ámbito de sus competencias tendrán la facultad de realizar los trámites correspondientes a fin de asegurar la legalización de propiedades del Sector Reformado Urbano y Agrario, y los Asentamientos Humanos Espontáneos, en conformidad con las leyes de la materia.
 

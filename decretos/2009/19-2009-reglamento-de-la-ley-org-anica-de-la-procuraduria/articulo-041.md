@@ -1,6 +1,8 @@
 # Artículo 41
 
-Funciones de la División Administrativa Financiera. Son funciones de la División Administrativa Financiera, las siguientes:
+Funciones de la División Administrativa Financiera
+
+Son funciones de la División Administrativa Financiera, las siguientes:
 
 1. Ordenar por conducto de las diferentes oficinas, la prestación de los servicios administrativos que sean necesarios para el buen funcionamiento de todas las dependencias.
 
@@ -20,7 +22,7 @@ Funciones de la División Administrativa Financiera. Son funciones de la Divisi�
 
 9. Prestar la colaboración y facilidades necesarias a los auditores gubernamentales, durante el curso de las auditorías o exámenes especiales.
 
-10. Entregar oportunamente la información financiera requerida por la Dirección Superior, por Auditoría Interna, por la Contraría General de la República y por el Ministerio de Hacienda Crédito Público y por cualquier otra instancia competente.
+10. Entregar oportunamente la información financiera requerida por la Dirección Superior, por Auditoría Interna, por la Contraloría General de la República y por el Ministerio de Hacienda y Crédito Público y por cualquier otra instancia competente.
 
 11. Organizar y darle cumplimiento a las actividades de seguridad interna y coordinar el área de transporte.
 

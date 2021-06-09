@@ -1,1 +1,0 @@
-- CAPÍTULO VI (antes del artículo 67)

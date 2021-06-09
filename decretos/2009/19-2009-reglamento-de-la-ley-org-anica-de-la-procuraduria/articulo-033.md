@@ -1,6 +1,8 @@
 # Artículo 33
 
-Funciones. Las funciones de la Comisión Nacional de Revisión de Confiscaciones son las siguientes:
+Funciones
+
+Las funciones de la Comisión Nacional de Revisión de Confiscaciones son las siguientes:
 
 1. Revisar las solicitudes presentadas por los anteriores propietarios de bienes afectados, siguiendo el procedimiento administrativo establecido de conformidad con la ley.
 
@@ -8,16 +10,12 @@ Funciones. Las funciones de la Comisión Nacional de Revisión de Confiscaciones
 
 3. Dictar resoluciones administrativas en los reclamos presentados.
 
-4. Dar trámite a Recursos Administrativos interpuestos contra las Resoluciones dictadas en esa instancia, de conformidad con lo establecido en la de la materia.
+4. Dar trámite a Recursos Administrativos interpuestos contra las Resoluciones dictadas en esa instancia, de conformidad con lo establecido en la ley de La materia.
 
 5. Orientar a los Procuradores Auxiliares de la Propiedad en los asuntos relacionados con los procesos de reclamo de propiedades.
 
 6. Cualesquiera otras que les sean otorgadas por la ley.
 
-Capítulo VI
+Capítulo V bis
 
-Órganos de Apoyo
-
-Sección I
-
-Parte General
+Intendencia de la Propiedad

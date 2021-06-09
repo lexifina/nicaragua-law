@@ -1,6 +1,8 @@
 # Artículo 51
 
-Funciones de Relaciones Públicas y Ciudadanía. Son funciones de Relaciones Públicas y Ciudadanía, las siguientes:
+Funciones de Relaciones Públicas y Ciudadanía
+
+Son funciones de Relaciones Públicas y Ciudadanía, las siguientes:
 
 1. Apoyar y asesorar a la Dirección Superior de la Procuraduría y demás dependencias, en la relación con los medios de comunicación.
 

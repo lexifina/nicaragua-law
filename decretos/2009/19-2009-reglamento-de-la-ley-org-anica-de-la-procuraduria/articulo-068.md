@@ -1,6 +1,8 @@
 # Artículo 68
 
-Funciones del Consejo Superior de la Procuraduría General de la República. Son funciones del Consejo Superior de la Procuraduría General de la República, las siguientes:
+Funciones del Consejo Superior de la Procuraduría General de la República
+
+Son funciones del Consejo Superior de la Procuraduría General de la República, las siguientes:
 
 1. Promover la unidad y el trabajo coordinado de los integrantes del Consejo.
 

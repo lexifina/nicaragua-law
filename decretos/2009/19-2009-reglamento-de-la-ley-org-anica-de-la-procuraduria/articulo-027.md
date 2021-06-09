@@ -1,6 +1,8 @@
 # Artículo 27
 
-Funciones. Son funciones de la Procuraduría Penal, las siguientes:
+Funciones
+
+Son funciones de la Procuraduría Penal, las siguientes:
 
 1. Realizar la averiguación previa de hechos revestidos de carácter penal, conocidos a través de denuncia o de oficio y cuando sea procedente: denunciar, requerir y participar como parte víctima u ofendido ante los órganos de investigación penal por los hechos delictuosos que sean de su competencia.
 
@@ -8,7 +10,7 @@ Funciones. Son funciones de la Procuraduría Penal, las siguientes:
 
 3. Ejercer la acción civil en sede penal con la finalidad de solicitar la restitución, reparación del daño o indemnización por perjuicios cuando no se haya ordenado en la sentencia condenatoria firme, según proceda. Asimismo, la Procuraduría Civil podrá, ejercer la acción civil que corresponda, conforme las leyes de la materia.
 
-4. Tramitar las solicitudes de Auxilio Judicial Internacional en materia penal que se formularen a otros países o que se recibiere de otras autoridades homologas, dentro del marco de aquellos Instrumentos Internacionales donde la Procuraduría General de la República ha sido designada como la Autoridad Central.
+4. Tramitar las solicitudes de Auxilio Judicial Internacional en materia penal que se formularen a otros países o que se recibiere de otras autoridades homólogas, dentro del marco de aquellos Instrumentos Internacionales donde la Procuraduría General de la República ha sido designada como la Autoridad Central.
 
 5. Tramitar todas las solicitudes procedentes de la Comisión y la Corte Interamericana de Derechos Humanos en materia de su competencia, así como de cualquier organismo o Corte Internacional en donde el Estado de Nicaragua sea parte.
 

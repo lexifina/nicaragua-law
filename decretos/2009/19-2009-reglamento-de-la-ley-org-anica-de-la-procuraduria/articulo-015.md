@@ -1,6 +1,8 @@
 # Artículo 15
 
-Funciones. Las funciones de la Procuraduría Constitucional y de lo Contencioso Administrativo, son las siguientes:
+Funciones
+
+Las funciones de la Procuraduría Constitucional y de lo Contencioso Administrativo, son las siguientes:
 
 1. Ejercer la representación del Estado y participar activamente en la sustanciación de los Recursos de Amparo, Inconstitucionalidad.
 

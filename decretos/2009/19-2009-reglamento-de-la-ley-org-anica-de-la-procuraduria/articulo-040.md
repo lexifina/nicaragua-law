@@ -1,6 +1,8 @@
 # Artículo 40
 
-División Administrativa Financiera. La División Administrativa Financiera estará encargada de asesorar a la Dirección Superior, en la administración de los recursos económicos. El Director Administrativo Financiero será nombrado por el Procurador General de la República y deberá reunir los siguientes requisitos:
+División Administrativa Financiera
+
+La División Administrativa Financiera estará encargada de asesorar a la Dirección Superior, en la administración de los recursos económicos. El Director Administrativo Financiero será nombrado por el Procurador General de la República y deberá reunir los siguientes requisitos:
 
 1. Ser graduado en Administración de Empresas o carreras afines.
 

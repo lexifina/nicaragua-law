@@ -1,6 +1,8 @@
 # Artículo 13
 
-Funciones. Las funciones de la Procuraduría Civil, son las siguientes:
+Funciones
+
+Las funciones de la Procuraduría Civil, son las siguientes:
 
 1. Ejercer la representación del Estado en los juicios civiles y mercantiles, que deban ventilarse en los diferentes juzgados y tribunales del país, así como asesorar y coordinar a los Procuradores Departamentales y de las Regiones Autónomas, Procuradores Itinerantes Nacionales, Procuradores Municipales, Procuradores Auxiliares, y Procuradores Auxiliares de los Ministerios y demás Órganos de la Administración Pública, en materia civil, que se hayan delegado para garantizar la correcta representación del Estado.
 

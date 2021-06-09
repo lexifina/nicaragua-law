@@ -1,6 +1,8 @@
 # Artículo 38
 
-Coordinador con Procuradurías. El Coordinador de Procuradurías, tendrá las siguientes funciones:
+Coordinador con Procuradurías
+
+El Coordinador de Procuradurías, tendrá las siguientes funciones:
 
 1. Servir de enlace y medio de comunicación, a lo interno y externo de la Procuraduría General de la República.
 

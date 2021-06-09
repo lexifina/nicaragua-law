@@ -1,6 +1,8 @@
 # Artículo 45
 
-Funciones de Presupuesto. Son funciones de Presupuesto, las siguientes:
+Funciones de Presupuesto
+
+Son funciones de Presupuesto, las siguientes:
 
 1. Velar por el cumplimiento de las políticas y normas dictadas por la Dirección General de Presupuesto para la formulación, programación de la ejecución y evaluación del presupuesto de la Institución.
 

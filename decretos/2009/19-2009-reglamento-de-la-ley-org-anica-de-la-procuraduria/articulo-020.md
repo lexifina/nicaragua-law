@@ -1,6 +1,8 @@
 # Artículo 20
 
-Funciones. La Procuraduría de la Propiedad tendrá las siguientes funciones:
+Funciones
+
+La Procuraduría de la Propiedad tendrá las siguientes funciones:
 
 1. Ejercer, en representación del Estado, cualquier acción legal tendiente a resolver asuntos o controversias surgidas por la afectación o transferencia de propiedades, en las que el Estado tenga interés.
 

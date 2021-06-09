@@ -1,6 +1,8 @@
 # Artículo 70
 
-Calidades de los Procuradores. Para ser Procurador Nacional, Municipal, Itinerante, Auxiliar, Departamental y de las Regiones Autónomas, se requiere:
+Calidades de los Procuradores
+
+Para ser Procurador Nacional, Municipal, Itinerante, Auxiliar, Departamental y de las Regiones Autónomas, se requiere:
 
 1. Ser mayor de veinte y un años de edad.
 

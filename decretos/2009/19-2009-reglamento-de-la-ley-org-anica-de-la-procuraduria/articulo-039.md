@@ -1,6 +1,8 @@
 # Artículo 39
 
-Funciones de Informática. Las funciones de Informática son las siguientes:
+Funciones de Informática
+
+Las funciones de Informática son las siguientes:
 
 1. La actualización y mantenimiento de la estructura informática de la Procuraduría General de la República.
 

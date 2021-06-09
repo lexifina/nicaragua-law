@@ -1,6 +1,8 @@
 # Artículo 31
 
-Requisitos. Son requisitos para ser Notario del Estado:
+Requisitos
+
+Son requisitos para ser Notario del Estado:
 
 1. Ser mayor de veinte y cinco años de edad.
 

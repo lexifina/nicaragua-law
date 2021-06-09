@@ -1,6 +1,8 @@
 # Artículo 49
 
-Adquisiciones. Adquisiciones es la encargada del proceso de compras de bienes y servicios de la Procuraduría General de la República, a través del procedimiento establecido en las normas administrativas y jurídicas, de la materia.
+Adquisiciones
+
+Adquisiciones es la encargada del proceso de compras de bienes y servicios de la Procuraduría General de la República, a través del procedimiento establecido en las normas administrativas y jurídicas, de la materia.
 
 Son funciones de Adquisiciones las siguientes:
 

@@ -1,10 +1,12 @@
 # Artículo 54
 
-Funciones de Auditoría Interna. Son Funciones de Auditoría Interna, las siguientes:
+Funciones de Auditoría Interna
+
+Son Funciones de Auditoria Interna, las siguientes:
 
 1. Programar, coordinar, dirigir y controlar las actividades de la unidad a su cargo.
 
-2. Diseñar y mantener actualizado el manual de auditoría interna que obliga la Ley Orgánica de la Contraloría General de la República.
+2. Diseñar y mantener actualizado el manual de auditoría interna que obliga la Ley Nº. 681, Ley Orgánica de la Contraloría General de la República y del Sistema de Control de la Administración Pública y Fiscalización de los Bienes y Recursos del Estado.
 
 3. Supervisar la calidad técnica de los exámenes realizados.
 
@@ -14,7 +16,7 @@ Funciones de Auditoría Interna. Son Funciones de Auditoría Interna, las siguie
 
 6. Cumplir y hacer cumplir las disposiciones legales, reglamentarias, técnicas y todas las demás regulaciones de Auditoría Gubernamental.
 
-7. Cumplir con las obligaciones impuestas por la Ley Orgánica de la Contraloría General de la República.
+7. Cumplir con las obligaciones impuestas por la Ley Nº. 681, Ley Orgánica de la Contraloría General de la República y del Sistema de Control de la Administración Pública y Fiscalización de los Bienes y Recursos del Estado.
 
 Capítulo V
 

@@ -1,6 +1,8 @@
 # Artículo 5
 
-Atribuciones y Funciones. Para el cumplimiento de las atribuciones y funciones de la Ley Orgánica de la Procuraduría General de la República, el Procurador General de la República, deberá:
+Atribuciones y Funciones
+
+Para el cumplimiento de las atribuciones y funciones de la Ley Nº. 411, Ley Orgánica de la Procuraduría General de la República, el Procurador General de la República, deberá:
 
 1. Asesorar, cuando lo solicite el Gobierno o cualquiera de sus órganos, sobre la constitucionalidad de los proyectos de disposiciones o normas de cualquier rango, que hayan de someterse a la aprobación del mismo.
 
@@ -20,7 +22,7 @@ Atribuciones y Funciones. Para el cumplimiento de las atribuciones y funciones d
 
 9. Velar que los Procuradores y demás servidores públicos de la Institución, cumplan con las obligaciones y ejerzan las atribuciones que las leyes le encomienden.
 
-10. Determinar las facultades de cada Procurador, fijar o delegar facultades, a los servidores públicos subalternos, según sea el caso, mediante disposiciones de carácter general o especial, sin perder por ello la posibilidad del ejercicio directo.
+10. Determinar las facultades de cada Procurador, filar o delegar facultades, a los servidores públicos subalternos, según sea el caso, mediante disposiciones de carácter general o especial, sin perder por ello la posibilidad del ejercicio directo.
 
 11. Solicitar con carácter obligatorio a cualquier oficina de gobierno, institución u organismo del Estado, los informes y certificaciones que estime convenientes, para tramitar asuntos de su competencia.
 

@@ -1,6 +1,8 @@
 # Artículo 17
 
-Funciones. Las funciones de la Procuraduría de Finanzas, son las siguientes:
+Funciones
+
+Las funciones de la Procuraduría de Finanzas, son las siguientes:
 
 1. Coordinar con los Procuradores Auxiliares las acciones legales necesarias en esta materia, para garantizar la aplicación de la ley y la protección de los recursos financieros del Estado.
 
