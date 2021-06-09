@@ -12,10 +12,10 @@ d) Del Campo;
 
 e) Infraestructura;
 
-f) Costa Atlántica;
+f) Costa Caribe;
 
 g) Laboral;
 
-h) Producción y Competitividad
+h) Producción y Competitividad.
 
 Cada comisión de trabajo estará integrada por los miembros que demanden las particularidades de cada sector, incluyendo un Coordinador electo por mayoría simple en el seno de cada comisión, y un Secretario.

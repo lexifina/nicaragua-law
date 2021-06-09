@@ -8,7 +8,7 @@ b) El Secretario Adjunto quien presidirá en ausencia del Secretario Ejecutivo;
 
 c) Los Coordinadores (as) de las Comisiones de Trabajos;
 
-d) Los veinte Miembros del CONPES nombrados por Presidente de la República;
+d) Los veinte Miembros del CONPES nombrados por el Presidente de la República;
 
 e) Los diecisiete Miembros de los Gabinetes del Poder Ciudadano;
 
