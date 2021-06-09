@@ -1,6 +1,8 @@
 # Artículo 4
 
-Calidades del Secretario Ejecutivo. El Secretario Ejecutivo del Consejo Nacional tendrá las siguientes calidades:
+Calidades del Secretario Ejecutivo
+
+El Secretario Ejecutivo del Consejo Nacional tendrá las siguientes calidades:
 
 . Ser Nacional de Nicaragua.
 

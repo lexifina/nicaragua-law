@@ -1,8 +1,10 @@
 # Artículo 38
 
-Principio de vinculación. La obligación de colaboración de que trata el artículo 42, de la Ley, se refiere a que las personas naturales o jurídicas, que sean requeridas por el Ministerio Público, deberán brindarle cualquier información, documentos, informes u otro elementos relacionados con el delito investigado, del cual tengan conocimiento.
+Principio de vinculación
 
-La petición de colaboración podrá ser solicitada directamente por el Fiscal General de la República, o por otro funcionario delegado por esa autoridad, así como por el Fiscal Regional, Departamental o Director de Unidad Especializada, sin perjuicio de lo establecido en el artículo 33 de la Ley No. 346 Ley Orgánica del Ministerio Público, publicada en la Gaceta Numero 196 del 17 de Octubre del año 2000.
+La obligación de colaboración de que trata el artículo 42, de la Ley, se refiere a que las personas naturales o jurídicas, que sean requeridas por el Ministerio Público, deberán brindarle cualquier información, documentos, informes u otros elementos relacionados con el delito investigado, del cual tengan conocimiento.
+
+La petición de colaboración podrá ser solicitada directamente por el Fiscal General de la República, o por otro funcionario delegado por esa autoridad, así como por el Fiscal Regional, Departamental o Director de Unidad Especializada, sin perjuicio de lo establecido en el Artículo 33 de la Ley Nº. 346, Ley Orgánica del Ministerio Público, publicada en La Gaceta Número 196 del 17 de octubre del año 2000.
 
 El requerimiento de colaboración deberá hacerse por escrito, y en caso de urgencia se podrá realizar por correo electrónico, telefax, o cualquier otro medio de comunicación interpersonal, que así lo haga constar.
 

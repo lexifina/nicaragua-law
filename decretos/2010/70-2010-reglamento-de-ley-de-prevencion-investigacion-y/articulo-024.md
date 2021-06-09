@@ -1,6 +1,8 @@
 # Artículo 24
 
-Vigilancia de fronteras. El Ejército de Nicaragua, a través de las Unidades Militares territoriales en el caso de las fronteras terrestres, la Fuerza Naval en los puertos y la Dirección de Información para la Defensa en los aeropuertos internacionales y nacionales, de conformidad a la legislación nacional vigente, coordinará con las entidades enunciadas en el Arto. 24 de la ley, el sistema de control, fiscalización e información que permita prevenir y contrarrestar la comisión de infracciones o delitos regulados en la Ley.
+Vigilancia de fronteras
+
+El Ejército de Nicaragua, a través de las Unidades Militares territoriales en el caso de las fronteras terrestres, la Fuerza Naval en los puertos y la Dirección de Información para la Defensa en los aeropuertos internacionales y nacionales, de conformidad a la legislación nacional vigente, coordinará con las entidades enunciadas en el artículo 24 de la ley, el sistema de control, fiscalización e información que permita prevenir y contrarrestar la comisión de infracciones o delitos regulados en la Ley.
 
 El sistema de control, fiscalización e información del Ejército se desarrollará a través de patrullaje terrestre, marítimo y aéreo, vigilancia electrónica, sondeos, telemática y otros que durante el desempeño del servicio sean necesarios para el cumplimiento de lo dispuesto en la Ley.
 

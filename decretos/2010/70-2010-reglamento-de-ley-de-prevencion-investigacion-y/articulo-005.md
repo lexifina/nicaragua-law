@@ -1,6 +1,8 @@
 # Artículo 5
 
-Programas de Educación. Las instituciones rectoras de los respectivos Subsistemas Educativos, en coordinación con el Consejo Nacional deberán incluir programas educativos integrales, orientados a la prevención de los delitos referidos en la Ley, para ello, cada Subsistema Educativo deberá:
+Programas de Educación
+
+Las instituciones rectoras de los respectivos Subsistemas Educativos, en coordinación con el Consejo Nacional deberán incluir programas educativos integrales, orientados a la prevención de los delitos referidos en la Ley, para ello, cada Subsistema Educativo deberá:
 
 a. Incluir en la currícula de Educación Básica, Media, técnica y Superior y de Formación Docente, la temática de prevención de delitos referidos en la Ley y la promoción de valores en los diferentes niveles educativos, en coordinación con la Secretaría del Consejo Nacional.
 

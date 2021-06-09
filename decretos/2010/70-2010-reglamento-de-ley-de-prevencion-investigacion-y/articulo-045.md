@@ -1,12 +1,14 @@
 # Artículo 45
 
-Registro Oficial e Identificación de usuarios. El registro oficial referido en el art. 65 de la Ley debe contener como mínimo los siguientes datos:
+Registro Oficial e Identificación de usuarios
+
+El registro oficial referido en el Artículo 65 de la Ley debe contener como mínimo los siguientes datos:
 
 1. Fecha, hora y lugar en el que se presta el servicio.
 
 2. Nombres y apellidos del cliente o usuario, y su número de cédula de identidad ciudadana, pasaporte vigente o carné estudiantil.
 
-3. Dirección domiciliar y número de teléfono
+3. Dirección domiciliar y número de teléfono.
 
 4. Identificación del servicio que se presta.
 
@@ -16,4 +18,4 @@ Este registro incluye a las empresas o personas naturales que enajenen de cualqu
 
 A este registro tendrán acceso sin mayor trámite, las autoridades de Policía y el Ministerio Público en el ejercicio de sus funciones y atribuciones.
 
-Medidas especiales para las personas sujetas a protección.
+Medidas especiales para las personas sujetas a protección
