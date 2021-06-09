@@ -10,4 +10,4 @@ Los particulares que presenten recursos deberán señalar cómo desean que les s
 
 91.4. Cuando el particular presente el recurso de apelación por medios electrónicos a través del sistema que establezca la Coordinación de Acceso a la Información correspondiente se entenderá que acepta que las notificaciones le sean efectuadas por dicho sistema, salvo que señale un medio distinto para efectos de las notificaciones.
 
-En caso de que el particular no precise la forma en que se le debe notificar la resolución, o no cubra el pago del servicio de mensajería que se menciona en la fracción II de este artículo, la notificación se realizará mediante la tabla de avisos que la Coordinación de Acceso a la Información correspondiente lleva para tal efecto.
+En caso de que el particular no precise la forma en que se le debe notificar la resolución, o no cubra el pago del servicio de mensajería que se menciona en el párrafo 2 de este Artículo, la notificación se realizará mediante la tabla de avisos que la Coordinación de Acceso a la Información correspondiente lleva para tal efecto.

@@ -1,6 +1,6 @@
 # Artículo 41
 
-Para dar cumplimiento a lo establecido en los literales e) y f) del artículo 20 de la Ley, las entidades obligadas correspondientes deberán publicar en sus sitios de Internet, la información relativa a la justificación para el otorgamiento de permisos, concesiones o licencias para la contratación de personal de carrera, temporales, de confianza y de asesores y consultores externos que se otorguen conforme la ley, así como los resultados de dichas contrataciones, licitaciones y procesos de las adquisiciones de bienes o servicios. Dicha información deberá contener como mínimo:
+Para dar cumplimiento a lo establecido en los literales e) y f) del Artículo 20 de la Ley, las entidades obligadas correspondientes deberán publicar en sus sitios de Internet, la información relativa a la justificación para el otorgamiento de permisos, concesiones o licencias, para la contratación de personal de carrera, temporales, de confianza y de asesores y consultores externos que se otorguen conforme la ley, así como los resultados de dichas contrataciones, licitaciones y procesos de las adquisiciones de bienes o servicios. Dicha información deberá contener como mínimo:
 
 41.1. La unidad administrativa que otorgue el permiso, concesión o licencia, autorización, exoneración, subsidio o adjudicación de licitación; o que celebre el contrato.
 

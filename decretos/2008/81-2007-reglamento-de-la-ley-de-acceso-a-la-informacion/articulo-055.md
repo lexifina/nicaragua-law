@@ -1,8 +1,8 @@
 # Artículo 55
 
-La máxima autoridad de la entidad obligada deberá emitir un acuerdo que clasifique la información como reservada, en el que se indicará:
+La máxima autoridad de la entidad obligada deberá emitir un acuerdo que clasifique la información co1no reservada, en el que se indicará:
 
-55.1. La fuente de información;
+55.1. La fuente de información.
 
 55.2. La justificación por la cual se clasifica, de conformidad con los siguientes elementos:
 

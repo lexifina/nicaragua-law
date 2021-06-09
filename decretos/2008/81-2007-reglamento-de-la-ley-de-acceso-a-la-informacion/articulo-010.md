@@ -6,7 +6,7 @@ La OAIP a través del responsable de la misma como del personal calificado a su 
 
 10.2. Requerir la información a la unidad administrativa o área de la entidad que la haya creado, generado, obtenido o que la tenga en su posesión o control.
 
-10.3. Recabar y difundir la información a que se refiere el artículo 20 y 21 de la Ley según sea el caso, además de propiciar que las unidades administrativas la actualicen periódicamente, según se requiera.
+10.3. Recabar y difundir la información a que se refiere el Artículo 20 y 21 de la Ley según sea el caso, además de propiciar que las unidades administrativas la actualicen periódicamente, según se requiera.
 
 10.4. Atender y dar trámite a las solicitudes de acceso a la información dentro de los plazos establecidos por la Ley.
 
@@ -18,7 +18,7 @@ La OAIP a través del responsable de la misma como del personal calificado a su 
 
 10.8. Definir, atender y orientar las acciones y lineamientos relativos a la creación e institucionalización de los sistemas de archivos a nivel institucional, creando para ello las unidades de Archivo Administrativo Central, y para los Centros de Documentación ya existentes, y la creación de esta última estructura, cuando la entidad así lo requiera, de modo que éstos se constituyan en instancias de apoyo que le permitan garantizar la buena organización y difusión de la información y que le asegure así el mejor acceso a la misma.
 
-10.9. Elaborar y facilitar los índices de la información bajo su resguardo.
+10.9. Elaborar y facilitar los índices de la información balo su resguardo.
 
 10.10. Garantizar los formatos, las solicitudes y llevar un registro de las solicitudes de acceso a la información, en el que se detalle el número de solicitudes atendidas, número de solicitudes resueltas favorablemente para el solicitante, número de solicitudes denegadas, materia sobre la que versan las solicitudes y costos.
 
@@ -30,7 +30,7 @@ La OAIP a través del responsable de la misma como del personal calificado a su 
 
 10.14. Integrar el Comité de Clasificación de la Información de la entidad, con el fin de proponer la clasificación de la información a la máxima autoridad de la misma y de coadyuvar con la OAIP en la obtención de la información y demás procedimientos para asegurar la mayor eficiencia en la gestión de solicitudes de acceso a la información.
 
-10.15. Elaborar y rendir Informe Anual sobre el desarrollo de sus atribuciones, así como el reporte cuantitativo y cualitativo del cumplimiento dado por la entidad, el que debe ser publicado a través del Sitio o Página Web Institucional, conforme lo establecido en el artículo 47 del presente Reglamento.
+10.15. Elaborar y rendir Informe Anual sobre el desarrollo de sus atribuciones, así como el reporte cuantitativo y cualitativo del cumplimiento dado por la entidad, el que debe ser publicado a través del Sitio o Página Web Institucional, conforme lo establecido en el Artículo 47 del presente Reglamento.
 
 10.16. Velar por la organización y funcionamiento de la OAIP a su cargo y por el cumplimiento de la Ley y este Reglamento.
 

@@ -1,6 +1,6 @@
 # Artículo 47
 
-Para dar cumplimiento a lo establecido en el literal j) del artículo 20 de la Ley, las entidades obligadas correspondientes deberán publicar en su sitio de Internet, un Informe Anual de actividades que incluya un resumen de los resultados de las solicitudes de acceso a la información pública, el que deberá contener como mínimo lo siguiente:
+Para dar cumplimiento a lo establecido en el literal j) del Artículo 20 de la Ley, las entidades obligadas correspondientes deberán publicar en su sitio de Internet, un Informe Anual de actividades que incluya un resumen de los resultados de las solicitudes de acceso a la información pública, el que deberá contener como mínimo lo siguiente:
 
 47.1. Actividades programadas y realizadas durante el año calendario.
 

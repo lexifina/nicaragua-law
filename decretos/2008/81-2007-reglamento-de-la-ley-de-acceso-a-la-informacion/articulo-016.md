@@ -8,7 +8,7 @@ Los miembros de la Coordinación de Acceso a la Información Pública deberán r
 
 16.3. Tener cuando menos treinta años de edad el día de su designación.
 
-16.4. Haberse destacado en actividades profesionales o académicas, relacionadas con la materia de la Ley de Acceso a la Información.
+16.4. Haberse destacado en actividades profesionales o académicas, relacionadas con la materia de la Ley Nº. 621, Ley de Acceso a la Información Pública.
 
 16.5. No ser miembro activo de una directiva nacional, departamental o municipal de un partido político.
 
@@ -18,4 +18,4 @@ Los miembros de la Coordinación de Acceso a la Información Pública deberán r
 
 16.8. Estar en pleno goce de sus derechos individuales.
 
-16.9. Haber sido electo en concurso público para el cargo conforme lo establecido en este reglamento.
+16.9. Haber sido electo en concurso público para el cargo conforme lo establecido en este Reglamento.

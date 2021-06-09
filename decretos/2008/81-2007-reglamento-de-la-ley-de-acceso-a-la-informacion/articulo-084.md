@@ -4,4 +4,6 @@ En caso de que los solicitantes no sean localizados en los domicilios que propor
 
 DE LOS RECURSOS ANTE LA DENEGATORIA
 
-RECURSO DE APELACIÓN
+Capítulo I
+
+Recurso de Apelación

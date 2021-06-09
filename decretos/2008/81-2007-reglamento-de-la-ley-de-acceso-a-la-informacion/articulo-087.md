@@ -1,6 +1,6 @@
 # Artículo 87
 
-Procede el recurso de apelación establecido en el artículo 37 de la Ley, ante la Coordinación de Acceso a la Información Pública de cada Poder del Estado, de los Consejos Regionales de las Regiones Autónomas de la Costa Atlántica y de los Concejos Municipales, según el caso en los siguientes supuestos:
+Procede el recurso de apelación establecido en el Artículo 37 de la Ley, ante la Coordinación de Acceso a la Información Pública de cada Poder del Estado, de los Consejos Regionales de las Regiones Autónomas de la Costa Caribe y de los Consejos Municipales, según el caso en los siguientes supuestos:
 
 87.1. Contra toda negativa expresa a la solicitud de acceso dentro del término de 6 días de notificada la resolución de la OAIP.
 

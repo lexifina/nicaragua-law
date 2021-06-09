@@ -10,7 +10,7 @@ La máxima autoridad de cada entidad obligada tendrá las obligaciones siguiente
 
 7.4. Adoptar las medidas necesarias que permitan garantizar el ejercicio del derecho de acceso a la información pública dentro de su competencia funcional e institucional.
 
-7.5. Clasificar la información de carácter reservado y/o privado, total o parcialmente, a propuesta del Comité de Clasificación de la Información de la entidad
+7.5. Clasificar la información de carácter reservado y/o privado, total o parcialmente, a propuesta del Comité de Clasificación de la Información de la entidad.
 
 7.6. Emitir o adecuar, en su caso, a propuesta del responsable de la OAIP, los lineamientos generales, criterios específicos y disposiciones técnicas para la organización y conservación de los archivos y documentación, incluyendo los plazos y forma de entrega, tomando como base los lineamientos que emita la Coordinación de Acceso a la Información Pública correspondiente y la Comisión Permanente Conjunta del Instituto Nicaragüense de Cultura y el Instituto Nacional de Información de Desarrollo.
 
@@ -22,4 +22,6 @@ La máxima autoridad de cada entidad obligada tendrá las obligaciones siguiente
 
 LOS ÓRGANOS DE APLICACIÓN DE LA LEY
 
-LAS OFICINAS DE ACCESO A LA INFORMACIÓN PÚBLICA
+Capítulo I
+
+Las Oficinas de Acceso a la Información Pública

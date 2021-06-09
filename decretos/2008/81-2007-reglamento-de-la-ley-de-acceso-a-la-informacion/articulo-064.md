@@ -4,4 +4,6 @@ Cuando una entidad reciba una solicitud de acceso a un expediente, archivo o doc
 
 La OAIP deberá dar acceso a las partes no clasificadas como privadas públicas de los expedientes, archivos o documentos a que se refiere el párrafo que antecede, en las que se omitan los documentos o las partes o secciones de éstos que contengan información privada, aún en los casos en que no se haya requerido al particular titular de la información para que otorgue su consentimiento, o bien se obtenga una negativa expresa o tácita del mismo.
 
-ORGANIZACIÓN DE ARCHIVOS
+Capítulo V
+
+Organización de Archivos

@@ -1,8 +1,8 @@
 # Artículo 77
 
-El plazo establecido en el artículo anterior podrá ser prorrogado por 10 días hábiles si concurren algunas de las circunstancias siguientes:
+El plazo establecido en el Artículo anterior podrá ser prorrogado por 10 días hábiles si concurren algunas de las circunstancias siguientes:
 
-77.1. Que los elementos de información requeridos se encuentran en todo o en parte en otra entidad o dependencia o se encuentre alejada de la OAIP donde se solicitó.
+77.1. Que los elementos de información requeridos se encuentran en todo o en parte en otra entidad o dependencia o se encuentre alelada de la OAIP donde se solicitó.
 
 77.2. Que la solicitud requiera de alguna consulta previa con otros órganos administrativos.
 

@@ -1,6 +1,6 @@
 # Artículo 49
 
-La información a que se refiere el acápite m) de la Ley, deberá contener como mínimo lo siguiente:
+La información a que se refiere el literal m) del Artículo 20 de la Ley, deberá contener como mínimo lo siguiente:
 
 49.1. Número de recursos interpuestos en contra de resoluciones administrativas de la entidad.
 

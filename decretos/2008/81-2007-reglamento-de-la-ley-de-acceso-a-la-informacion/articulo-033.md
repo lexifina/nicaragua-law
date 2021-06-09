@@ -4,4 +4,6 @@ La Comisión Nacional de Acceso a la Información podrá conformar Comisiones co
 
 DE LA INFORMACIÓN
 
-INFORMACIÓN MÍNIMA A SER DIFUNDIDA DE OFICIO
+Capítulo I
+
+Información Mínima a ser Difundida de Oficio

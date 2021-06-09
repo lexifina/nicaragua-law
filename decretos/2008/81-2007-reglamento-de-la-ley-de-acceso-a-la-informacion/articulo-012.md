@@ -12,4 +12,6 @@ Los miembros del Comité de Clasificación solo podrán ser sustituidos en sus f
 
 El Comité de Clasificación podrá integrar a los funcionarios que considere necesario para asesorarlo o apoyarlo en sus funciones, quienes podrán asistir a las sesiones con voz pero sin voto. Las resoluciones que expida el Comité de Clasificación serán públicas.
 
-DE LA COORDINACIÓN DE ACCESO A LA INFORMACIÓN PÚBLICA
+Capítulo II
+
+De la Coordinación de Acceso a la Información Pública

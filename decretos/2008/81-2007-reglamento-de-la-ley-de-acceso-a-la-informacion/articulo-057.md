@@ -2,7 +2,7 @@
 
 Los índices de expedientes clasificados como reservados deberán contener:
 
-57.1. El rubro temático.
+57.1 El rubro temático.
 
 57.2. La unidad administrativa que generó, obtuvo, adquirió, transformó o conserva la información.
 
@@ -18,4 +18,4 @@ Los índices de expedientes clasificados como reservados deberán contener:
 
 57.8. La fecha y la Resolución por la cual la entidad o dependencia prorrogó el período de reserva.
 
-57.9. La fecha y la Resolución de desclasificación de la información de carácter reservado en cualquiera de los supuestos señalados en el artículo 60 de este Reglamento.
+57.9. La fecha y la Resolución de desclasificación de La información de carácter reservado en cualquiera de los supuestos señalados en el Artículo 60 de este Reglamento.
