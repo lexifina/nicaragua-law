@@ -1,5 +1,5 @@
 # Artículo 4
 
-Competencia.
+Competencia
 
 Corresponde a la Contraloría General de la República la aplicación de la presente Ley.

@@ -1,6 +1,6 @@
 # Artículo 8
 
-Prohibiciones.
+Prohibiciones
 
 Se prohíbe a los servidores públicos:
 
@@ -8,9 +8,9 @@ a) Utilizar la función pública en provecho de cualquier persona natural o jur�
 
 b) Involucrar a personas ajenas a la función pública en el ejercicio de sus funciones, salvo lo que la ley disponga.
 
-c) En todo los Poderes e instituciones del Estado y sus dependencias, no se podrá hacer recaer nombramiento en personas que tengan parentesco dentro del cuarto grado de consanguinidad y segundo de afinidad con la autoridad que hace el nombramiento, y en su caso, con la persona de donde hubiere emanado esta autoridad. Esta prohibición no comprende los nombramientos que correspondan al cumplimiento de la Ley del Servicio Civil y de la Carrera Administrativa, la de Carrera Docente, de Carrera Judicial, de Carrera del Servicio Exterior y demás leyes similares que se dictaren.
+c) En todos los Poderes e instituciones del Estado y sus dependencias, no se podrá hacer recaer nombramiento en personas que tengan parentesco dentro del cuarto grado de consanguinidad y segundo de afinidad con la autoridad que hace el nombramiento, y en su caso, con la persona de donde hubiere emanado esta autoridad. Esta prohibición no comprende los nombramientos que correspondan al cumplimiento de la Ley Nº. 476, Ley del Servicio Civil y de la Carrera Administrativa, Ley Nº. 114, Ley de Carrera Docente, Ley Nº. 501, Ley de Carrera Judicial, Ley Nº. 358, Ley del Servicio Exterior y demás leyes similares que se dictaren.
 
-d) Presentar, personalmente o a través de un tercero, servicios de asesoramiento en asuntos relacionados a su cargo o realizar gestiones en nombre de los mismos.
+d) Prestar, personalmente o a través de un tercero, servicios de asesoramiento en asuntos relacionados a su cargo o realizar gestiones en nombre de los mismos.
 
 e) Utilizar la función pública para presionar a particulares o subalternos a respaldar una causa o campaña política partidaria o para impedir, favorecer u obstaculizar de cualquier manera la afiliación o desafiliación de los servidores públicos en organizaciones civiles o en partidos políticos.
 
@@ -24,7 +24,7 @@ i) Solicitar o aceptar, en beneficio propio, comisiones en dinero o en especie p
 
 j) Retardar o negar injustificadamente el trámite de asuntos o prestación de servicios que le corresponde realizar en el ámbito de su competencia.
 
-k) Adquirir por sí o por medio de otra persona, bienes que se pongan a la venta por la institución donde se desempeña salvo que dicha venta sea autorizada por el Ministerio de Hacienda y Crédito Público de acuerdo con sus propias normas.
+k) Adquirir por sí o por medio de otra persona, bienes que se pongan a la venta por la institución donde se desempeña, salvo que dicha venta sea autorizada por el Ministerio de Hacienda y Crédito Público de acuerdo con sus propias normas.
 
 l) Hacer gestiones que privilegien a terceros.
 

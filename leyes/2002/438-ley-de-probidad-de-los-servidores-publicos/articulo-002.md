@@ -1,6 +1,6 @@
 # Artículo 2
 
-Finalidades de la presente Ley.
+Finalidades de la presente Ley
 
 a) Proteger el patrimonio del Estado.
 

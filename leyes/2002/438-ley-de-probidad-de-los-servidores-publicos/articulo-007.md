@@ -1,12 +1,12 @@
 # Artículo 7
 
-De los deberes de los Servidores Públicos.
+De los Deberes de los Servidores Públicos
 
 Sin perjuicio de lo que estipule la ley de la materia, los servidores públicos están obligados a:
 
 a) Cumplir fielmente sus obligaciones en el ejercicio de la función pública observando la Constitución Política y las leyes del país.
 
-b) Vigilar y salvaguardar el patrimonio de Estado y cuidar que sea utilizado debida y racionalmente de conformidad con los fines a que se destinan.
+b) Vigilar y salvaguardar el patrimonio del Estado y cuidar que sea utilizado debida y racionalmente de conformidad con los fines a que se destinan.
 
 c) Ejercer la función pública a favor de los intereses generales de la sociedad, atender y escuchar las peticiones y problemas del administrado y procurar resolverlos.
 
@@ -16,7 +16,7 @@ e) Presentar la declaración patrimonial y cualquier aclaración que de la misma
 
 f) Abstenerse de participar en actividades o intereses incompatibles con sus funciones.
 
-g) Desempeñar la función pública sin discriminar en sus actuaciones a ninguna persona por razones de nacimiento, nacionalidad credo político, raza, sexo, idioma, religión, opinión, edad, origen, posición económica o condición social, ni dar tratamiento preferencial a persona alguna.
+g) Desempeñar la función pública sin discriminar en sus actuaciones a ninguna persona por razones de nacimiento, nacionalidad, credo político, raza, sexo, idioma, religión, opinión, edad, origen, posición económica o condición social, ni dar tratamiento preferencial a persona alguna.
 
 h) Poner en conocimiento ante su superior o autoridad correspondiente los actos que puedan causar perjuicio al Estado y que conozca por la naturaleza de las funciones que desempeña.
 
@@ -28,4 +28,6 @@ k) Desempeñar la función pública sin obtener beneficios adicionales prohibido
 
 l) Los demás que establezcan las leyes especiales de la materia.
 
-RÉGIMEN DE RESTRICCIONES AL EJERCICIO DE LA FUNCIÓN PÚBLICA
+Capítulo III
+
+Régimen de Restricciones al Ejercicio de la Función Pública

@@ -1,5 +1,9 @@
 # Artículo 28
 
-Conservación de las Declaraciones Patrimoniales.
+Conservación de las Declaraciones
 
-Las Declaraciones Patrimoniales serán conservadas por la Contraloría, por el término de diez años contados a partir del cese en las funciones del respectivo servidor público.
+Patrimoniales Las Declaraciones Patrimoniales serán conservadas por la Contraloría, por el término de diez años contados a partir del cese en las funciones del respectivo servidor público.
+
+Capítulo VI
+
+Disposiciones Finales

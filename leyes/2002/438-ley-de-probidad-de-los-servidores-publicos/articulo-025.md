@@ -1,8 +1,8 @@
 # Artículo 25
 
-Presentación de Declaración Patrimonial por Cese de la Función Pública.
+Presentación de Declaración
 
-El servidor público, al cesar en sus funciones, queda obligado a presentar su Declaración Patrimonial en los plazos siguientes:
+Patrimonial por Cese de la Función Pública El servidor público, al cesar en sus funciones, queda obligado a presentar su Declaración Patrimonial en los plazos siguientes:
 
 a) Los servidores públicos por elección, dentro de los treinta días posteriores a la entrega de su cargo.
 
