@@ -8,4 +8,4 @@ a) Si se provoca lesiones leves, será sancionado con pena de ocho meses a un a�
 
 b) Si se provoca lesiones graves, será sancionado con pena de dos años y ocho meses a seis años y ocho meses de prisión;
 
-c) Si se provoca lesiones gravísima, será sancionado con pena de siete años y seis meses a trece años y cuatro meses de prisión.
+c) Si se provoca lesiones gravísimas, será sancionado con pena de siete años y seis meses a trece años y cuatro meses de prisión.

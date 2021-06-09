@@ -6,4 +6,4 @@ El objetivo de esta política es garantizar medidas para prevenir, atender, prot
 
 Capítulo III
 
-Jueza o juez técnico y cómputo del plazo de la prescripción para el ejercicio de la acción penal
+Jueza o Juez técnico y cómputo del plazo de la prescripción para el ejercicio de la acción penal

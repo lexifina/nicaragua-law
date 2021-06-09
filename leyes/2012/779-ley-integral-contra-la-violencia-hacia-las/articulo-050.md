@@ -8,4 +8,4 @@ POLÍTICAS DE PREVENCIÓN, ATENCIÓN Y PROTECCIÓN A LA MUJER
 
 Capítulo I
 
-De los mecanismo para la implementación de las medidas de prevención, atención y protección a la mujer
+De los mecanismos para la implementación de las medidas de prevención, atención y protección a la mujer

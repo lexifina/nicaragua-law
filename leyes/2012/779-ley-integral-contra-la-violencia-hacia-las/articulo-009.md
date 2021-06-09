@@ -2,24 +2,22 @@
 
 Femicidio
 
-Comete el delito de femicidio el hombre que, en el marco de las relaciones desiguales de poder entre hombres y mujeres, diere muerte a una mujer ya sea en el ámbito público o privado, en cualquiera de las siguientes circunstancias:
+El hombre que en el marco de las relaciones interpersonales de pareja, diere muerte a una mujer en cualquiera de las siguientes circunstancias:
 
-a) Haber pretendido infructuosamente establecer o restablecer una relación de pareja o de intimidad con la víctima;
+a) Haber pretendido infructuosamente mantener o restablecer una relación de pareja o de intimidad con la víctima;
 
-b) Mantener en la época en que se perpetre el hecho, o haber mantenido con la víctima, relaciones familiares, conyugales, de convivencia, de intimidad o noviazgo, amistad, compañerismo, relación laboral, educativa o tutela;
+b) Mantener en la época en la que se perpetre el hecho o haber mantenido con la víctima relaciones conyugales, de convivencia de intimidad o de noviazgo;
 
 c) Como resultado de la reiterada manifestación de violencia en contra de la víctima;
 
-d) Como resultado de ritos grupales, de pandillas, usando o no armas de cualquier tipo;
+d) Por el menosprecio del cuerpo de la víctima para satisfacción de instintos sexuales, o la comisión de actos de mutilación genital o cualquier otro tipo de mutilación, en una relación de pareja;
 
-e) Por el menosprecio del cuerpo de la víctima para satisfacción de instintos sexuales, o la comisión de actos de mutilación genital o cualquier otro tipo de mutilación;
+e) Por misoginia;
 
-f) Por misoginia;
+f) Cuando el hecho se cometa en presencia de los hijos e hijas o ante niño, niña o adolescentes.
 
-g) Cuando el hecho se cometa en presencia de las hijas o hijos de la víctima;
+Será sancionado con pena de veinte a veinticinco años de prisión. Si concurren dos o más de las circunstancias mencionadas en los literales anteriores se aplicará la pena máxima.
 
-h) Cuando concurra cualquiera de las circunstancias de calificación contempladas en el delito de asesinato en el Código Penal.
+Cuando concurran las circunstancias constitutivas y agravantes previstas en el delito de asesinato la pena será de veinte a treinta años.
 
-Cuando el hecho se diera en el ámbito público la pena será de quince a veinte años de prisión. Si ocurre en el ámbito privado la pena será de veinte a veinticinco años de prisión. En ambos casos si concurriera dos o más de las circunstancias mencionadas en los incisos anteriores se aplicará la pena máxima.
-
-Las penas establecidas en el numeral anterior serán aumentadas en un tercio cuando concurra cualquiera de las circunstancias del asesinato, hasta un máximo de treinta años de prisión.
+Se entenderá por relación interpersonal aquella que nace de las relaciones de pareja, de convivencia entre un hombre y una mujer, entiéndase, relaciones afectivas con el cónyuge, excónyuge, conviviente, exconviviente, novio o exnovio.

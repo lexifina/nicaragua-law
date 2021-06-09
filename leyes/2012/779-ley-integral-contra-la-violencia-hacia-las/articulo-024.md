@@ -2,7 +2,7 @@
 
 Medidas precautelares
 
-Cuando se estuviere en presencia de acciones u omisiones que puedan constituir delitos a que se refiere esta Ley, la Policía Nacional a través de la Comisaría de la Mujer y la Niñez, los jefes de delegaciones distritales y municipales o el Ministerio Público, podrán ordenar y adoptar las medidas precautelares siguientes:
+Cuando se estuviere en presencia de acciones u omisiones que puedan constituir delitos a que se refiere esta Ley, la Policía Nacional a través de la Comisaría de la Mujer, la Niñez y Adolescencia, los jefes de delegaciones distritales y municipales o el Ministerio Público, podrán ordenar y adoptar las medidas precautelares siguientes:
 
 a) Ordenar el abandono inmediato del hogar al presunto agresor, independientemente de su titularidad, en tanto la violencia es un riesgo para la integridad, física, psíquica, sexual y el patrimonio de la mujer. El agresor no podrá retirar los enseres domésticos o menaje de casa. Únicamente se le autorizará llevar sus bienes de uso personal, instrumentos, herramientas de trabajo y estudio;
 
@@ -18,9 +18,9 @@ f) Solicitar la intervención del Ministerio de la Familia, Adolescencia y Niñe
 
 g) Prohibir al presunto agresor realizar actos de intimidación, persecución, acoso o perturbación contra la mujer, cualquier miembro del grupo familiar o las personas relacionadas con la denunciante, ya sea por sí mismo o a través de terceros, por cualquier medio electrónico, escrito y audio visual;
 
-h) Secuestrar y retener inmediatamente las armas de fuego o armas corto punzantes y contundentes que se encuentren en manos del presunto agresor, independientemente de que porte o no permiso; y de su profesión u oficio. En todos los casos las armas retenidas deberán ser remitidas a la Policía Nacional y su destino se determinará de acuerdo a las disposiciones de la Ley No. 510, “Ley Especial para el Control y Regulación de Armas de Fuego, Municiones, Explosivos y otros Materiales Relacionados”, Ley No. 228, “Ley de la Policía Nacional” y Ley No. 406, “Código Procesal Penal de la República de Nicaragua” y Ley No. 641, “Código Penal”;
+h) Secuestrar y retener inmediatamente las armas de fuego o armas corto punzantes y contundentes que se encuentren en manos del presunto agresor, independientemente de que porte o no permiso; y de su profesión u oficio. En todos los casos las armas retenidas deberán ser remitidas a la Policía Nacional y su destino se determinará de acuerdo a las disposiciones de la Ley Nº. 510, Ley Especial para el Control y Regulación de Armas de Fuego, Municiones, Explosivos y otros Materiales Relacionados, Ley Nº. 872, Ley de Organización, Funciones, Carrera y Régimen Especial de Seguridad Social de la Policía Nacional, Ley Nº. 406, Código Procesal Penal de la República de Nicaragua y Ley Nº. 641, Código Penal;
 
-i) Prohibir al presunto agresor que introduzca o mantenga armas en la casa de habitación para intimidar, amenazar o causar daño a alguna de las personas integrantes del grupo familiar.
+i) Prohibir al presunto agresor que introduzca o mantenga armas en la casa de habitación para intimidar, amenazar o causar daño a alguna de las personas integrantes del grupo familiar;
 
 j) Levantar un inventario de los bienes muebles existentes en el domicilio familiar, a fin de salvaguardar el patrimonio de la mujer y sus hijos. Esta medida se ejecutará cuando se aplique la medida del literal a) y c) de este artículo; y
 

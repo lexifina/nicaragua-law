@@ -6,4 +6,4 @@ Presentada la solicitud, la autoridad competente ordenará de inmediato la aplic
 
 La resolución que ordena la aplicación de una medida precautelar, deberá notificarse y ejecutarse dentro de las siguientes veinticuatro horas de dictada y no cabrá recurso alguno contra ella.
 
-La resolución se notificará al denunciado o acusado, de manera personal por medio de la Comisaría de la Mujer y la Niñez o de la Dirección de Auxilio Judicial de la Policía Nacional o el Ministerio Público. La notificación se podrá realizar en el domicilio o en cualquier lugar donde se encuentre el presunto agresor y a cualquier hora para los delitos establecidos en la presente Ley.
+La resolución se notificará al denunciado o acusado, de manera personal por medio de la Comisaría de la Mujer, la Niñez y Adolescencia o de la Dirección de Auxilio Judicial de la Policía Nacional o el Ministerio Público. La notificación se podrá realizar en el domicilio o en cualquier lugar donde se encuentre el presunto agresor y a cualquier hora para los delitos establecidos en la presente Ley.

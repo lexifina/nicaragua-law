@@ -18,7 +18,7 @@ f) Promover la colaboración y participación de las entidades, asociaciones y o
 
 g) Fomentar la capacitación permanente y la especialización de las y los operadores de justicia, que intervienen en el proceso de información, atención y protección a las víctimas.
 
-h) Fomentar la capacitación permanente y especialización de las y los funcionarios de la Comisaría de la Mujer y Niñez, y del Ministerio Público.
+h) Fomentar la capacitación permanente y especialización de las y los funcionarios de la Comisaría de la Mujer, Niñez y Adolescencia, y del Ministerio Público.
 
 i) Establecer y fortalecer medidas de protección de emergencia y cautelares que garanticen los derechos protegidos en la presente Ley, así como la protección personal, física, emocional, laboral y patrimonial de la mujer víctima de violencia.
 

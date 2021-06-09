@@ -4,7 +4,7 @@ Competencia Objetiva
 
 En los términos relacionados en el presente artículo, los Juzgados de Distrito Especializados en Violencia, son competentes para conocer y resolver en primera instancia los procesos relacionados con los delitos tipificados en la presente Ley y además, los siguientes delitos:
 
-a) Del Título I, Libro II de la Ley N°. 641, “Código Penal”, y que específicamente se encuentran contemplados en los siguientes Capítulos:
+a) Del Título I, Libro II de la Ley Nº. 641, Código Penal, y que específicamente se encuentran contemplados en los siguientes Capítulos:
 
 1. Capítulo I, Delitos Contra la Vida
 
@@ -18,13 +18,13 @@ Art. 145. Aborto Imprudente
 
 Art. 148. De las Lesiones en el que está por nacer
 
-3. Capítulo III, Lesiones y Riña Tumultuaria
+3. Capitulo III, Lesiones y Riña Tumultuaria
 
-Art. 155. Violencia doméstica o intrafamiliar
+Art. I55. Violencia doméstica o intrafamiliar
 
 Art. 156. Contagio Provocado
 
-b) Del Título II, Libro II de la Ley N°. 641, “Código Penal”, y que específicamente se encuentran contemplados en los siguientes Capítulos:
+b) Del Título II, Libro II de la Ley Nº. 641, Código Penal, y que específicamente se encuentran contemplados en los siguientes Capítulos:
 
 1. Capítulo II, Delitos contra la Libertad e Integridad Sexual
 
@@ -56,7 +56,7 @@ Art. 179. Proxenetismo agravado
 
 Art. 180. Rufianería
 
-Art. 182. Trata de personas con fines de esclavitud, explotación sexual o adopción.
+Art. 182. Trata de personas
 
 2. Capítulo III, Delitos Contra la Libertad de Actuar
 
@@ -64,7 +64,7 @@ Art. 188. Inseminación sin Consentimiento
 
 Art. 189. Inseminación Fraudulenta
 
-c) Del Título V, Libro II de la Ley N°. 641, “Código Penal”, y que específicamente se encuentran contemplados en los siguientes Capítulos:
+c) Del Título V, Libro II de la Ley Nº. 641, Código Penal, y que específicamente se encuentran contemplados en los siguientes Capítulos:
 
 1. Capítulo I, Delitos Contra el Estado Civil
 

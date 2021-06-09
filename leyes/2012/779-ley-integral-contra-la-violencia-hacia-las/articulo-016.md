@@ -1,6 +1,6 @@
 # Artículo 16
 
-Violencia en el ejercicio de la función pública contra la mujer.
+Violencia en el ejercicio de la función pública contra la mujer
 
 Quien en el ejercicio de la función pública, independientemente de su cargo, de forma dolosa, retarde, obstaculice, deniegue la debida atención o impida que la mujer acceda al derecho a la oportuna respuesta en la institución a la cual ésta acude, a los fines de gestionar algún trámite relacionado con los derechos que garantiza la presente Ley, será sancionado con pena de doscientos a quinientos días multa e inhabilitación especial en el ejercicio del cargo por un período de tres a seis meses. Sin perjuicio de las responsabilidades administrativas que correspondan.
 

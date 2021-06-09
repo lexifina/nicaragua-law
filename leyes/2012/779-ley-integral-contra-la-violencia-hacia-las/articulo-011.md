@@ -2,7 +2,7 @@
 
 Violencia psicológica
 
-Quien mediante acción u omisión con el propósito de denigrar, controlar las acciones, comportamientos y creencias de la mujer que haya sido o sea su cónyuge, excónyuge, conviviente en unión de hecho estable, exconviviente en unión de hecho estable, novio, exnovio, ascendiente, descendiente, pariente colaterales por consanguinidad, afinidad y cualquier otra relación interpersonal; ejerza amenaza directa o indirecta, intimidación, manipulación, humillación, aislamiento, ofensas, vigilancia, comparaciones destructivas, chantaje, acoso, hostigamiento y cualquier otra circunstancia análoga que tenga como resultado un perjuicio en la salud psicológica, por la devaluación de su autoestima o el desarrollo personal, será sancionado de la siguiente manera:
+Quien mediante acción u omisión con el propósito de denigrar, controlar las acciones, comportamientos y creencias de la mujer que haya sido o sea su cónyuge, ex cónyuge, conviviente en unión de hecho estable, ex conviviente en unión de hecho estable, novio, ex novio, ascendiente, descendiente, pariente colaterales por consanguinidad, afinidad y cualquier otra relación interpersonal; ejerza amenaza directa o indirecta, intimidación, manipulación, humillación, aislamiento, ofensas, vigilancia, comparaciones destructivas, chantaje, acoso, hostigamiento y cualquier otra circunstancia análoga que tenga como resultado un perjuicio en la salud psicológica, por la devaluación de su autoestima o el desarrollo personal, será sancionado de la siguiente manera:
 
 a) Si se provoca daño a su integridad psíquica que requiera, tratamiento psicoterapéutico, será sancionado con pena de ocho meses a un año y cuatro meses de prisión;
 

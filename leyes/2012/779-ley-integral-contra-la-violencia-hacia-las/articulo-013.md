@@ -12,4 +12,4 @@ b) Si el hecho se cometiere en presencia de las hijas o hijos de la víctima;
 
 c) Si el autor del delito se valiere del cargo como funcionario público o de su pertenencia al cuerpo policial o militar;
 
-d) Si el hecho se cometiere con armas cortopunzantes, contundente, de fuego u objeto capaz de causar daño a la integridad física o a la salud.
+d) Si el hecho se cometiere con armas corto punzantes, contundente, de fuego u objeto capaz de causar daño a la integridad física o a la salud.
