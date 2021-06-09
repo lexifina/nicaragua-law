@@ -8,6 +8,6 @@ b) Las empresas consultoras o profesionales encargadas de elaborar el estudio t�
 
 c) Los funcionarios estatales vinculados directa o indirectamente a los servicios públicos objetos de la transacción;
 
-d) Las sociedades en las que participen las personas referidas en los incisos anteriores. -
+d) Las sociedades en las que participen las personas referidas en los incisos anteriores.
 
-Esta prohibición es igualmente aplicable a los parientes dentro del tercer grado de consanguinidad y segundo de afinidad de las personas mencionadas.-
+Esta prohibición es igualmente aplicable a los parientes dentro del tercer grado de consanguinidad y segundo de afinidad de las personas mencionadas.
