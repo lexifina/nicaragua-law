@@ -1,8 +1,10 @@
 # Artículo 19
 
-Compromiso. El servidor público asumirá compromiso consigo mismo, con sus valores, con el trabajo mismo, con una filosofía o cultura organizacional que implica una obligatoriedad moral. El desempeño del ejercicio de la función pública, implica tomar conocimiento del presente Código y asumir el compromiso de su debido cumplimiento.
+Compromiso
 
-El Compromiso será practicado bajo los siguientes criterios:
+El servidor público asumirá compromiso consigo mismo, con sus valores, con el trabajo mismo, con una filosofía o cultura organizacional que implica una obligatoriedad moral. El desempeño del ejercicio de la función pública, implica tomar conocimiento del presente Código y asumir el compromiso de su debido cumplimiento.
+
+El Compromiso será practicado balo los siguientes criterios:
 
 a) El servidor público tiene una obligación moral y legal con el Pueblo, de dedicar su trabajo y empeño a la consecución del bienestar general.
 
@@ -12,7 +14,7 @@ c) Todo servidor público debe mantener una actitud que permita fortalecer la so
 
 d) Todo servidor público deberá divulgar entre sus compañeros de trabajo la existencia y el contenido del Código de Conducta e instar a su cumplimiento.
 
-e) El servidor público, como custodio principal de los bienes del Estado donde se desempeña, deberá dar inmediatamente parte a sus superiores o al ente correspondiente de los daños causados a dichos bienes
+e) El servidor público, como custodio principal de los bienes del Estado donde se desempeña, deberá dar inmediatamente parte a sus superiores o al ente correspondiente de los daños causados a dichos bienes.
 
 f) El servidor público debe identificarse con su institución y sentir orgullo de pertenecer a la misma.
 

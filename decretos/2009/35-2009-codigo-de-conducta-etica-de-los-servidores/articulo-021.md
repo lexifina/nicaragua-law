@@ -1,8 +1,10 @@
 # Artículo 21
 
-La Accesibilidad. Exige del servidor público la ejecución clara y limpia de los actos del servicio e implica que estos tienen el carácter público, por lo que deben ser accesibles a toda persona natural o jurídica que tenga interés en el asunto, garantizando el acceso a la información, sin más límites que el que imponga la ley y el interés público y los derechos de privacidad de los particulares, así como el uso racional de los recursos públicos ofreciendo certeza sobre su actuación y generando credibilidad
+La Accesibilidad
 
-La accesibilidad será practicada bajo los siguientes criterios:
+Exige del servidor público la ejecución clara y limpia de los actos del servicio e implica que estos tienen el carácter público, por lo que deben ser accesibles a toda persona natural o jurídica que tenga interés en el asunto, garantizando el acceso a la información, sin más límites que el que imponga la ley y el interés público y los derechos de privacidad de los particulares, así como el uso racional de los recursos públicos ofreciendo certeza sobre su actuación y generando credibilidad.
+
+La accesibilidad será practicada balo los siguientes criterios:
 
 a) Toda persona tiene derecho a conocer la información pública de conformidad con la ley de la materia. El servidor público no debe omitirla o falsearla, sin menoscabo de lo establecido en la ley.
 

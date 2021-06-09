@@ -1,31 +1,33 @@
 # Artículo 32
 
-Órgano de Apoyo para la Promoción del Código de Conducta Ética del Servidor Público del Poder Ejecutivo. Se creará el Comité Técnico de Ética Pública, que estará conformado por el Oficial de Ética Pública a que se refiere el artículo 31 que antecede, de las siguientes instituciones:
+Órgano de Apoyo para la Promoción del Código de Conducta Ética del Servidor Público del Poder Ejecutivo
 
-a) Ministerio de Educación MINED
+Se creará el Comité Técnico de Ética Pública, que estará conformado por el Oficial de Ética Pública a que se refiere el Artículo 31 que antecede, de las siguientes instituciones:
 
-b) Ministerio de Gobernación MIGOB
+a) Ministerio de Educación
 
-c) Ministerio de la Familia, Adolescencia y Niñez MIFAMILIA
+b) Ministerio de Gobernación
 
-d) Ministerio de Salud MINSA
+c) Ministerio de la Familia, Adolescencia y Niñez
 
-e) Ministerio del Ambiente y de los Recursos Naturales MARENA
+d) Ministerio de Salud
 
-f) O Procuraduría General de la República PGR
+e) Ministerio del Ambiente y de Los Recursos Naturales
 
-g) Dirección General de Función Pública DIGEFUP
+f) Procuraduría General de la República
 
-h) Instituto Nicaragüense de la Juventud INJUVE
+g) Dirección General de Función Pública
 
-i) Instituto de la Mujer INIM
+h) Ministerio de La Juventud
 
-j) Instituto Nicaragüense de Fomento Municipal INIFOM
+i) Ministerio de la Mujer
 
-k) Instituto Nacional Tecnológico INATEC
+j) Instituto Nicaragüense de Fomento Municipal
 
-l) Policía Nacional PN
+k) Instituto Nacional Tecnológico
 
-m) Instituto Nicaragüense de Cultura INC
+l) Policía Nacional
+
+m) Instituto Nicaragüense de Cultura
 
 Este Comité Técnico estará presidido por la Oficina de Ética Pública, y su funcionamiento estará regulado por un Reglamento Interno que elaborará el Comité.

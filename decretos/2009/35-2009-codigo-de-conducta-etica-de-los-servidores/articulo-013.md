@@ -1,8 +1,10 @@
 # Artículo 13
 
-La Honestidad. En todo servidor público debe regir la honestidad, misma que exige actuar teniendo en cuenta que los fines públicos excluyen cualquier comportamiento que vaya en detrimento de la población debiendo olvidar el provecho personal o de un tercero.
+La Honestidad
 
-La honestidad de los servidores públicos será practicada bajo los siguientes criterios:
+En todo servidor público debe regir la honestidad, misma que exige actuar teniendo en cuenta que los fines públicos excluyen cualquier comportamiento que vaya en detrimento de la población debiendo olvidar el provecho personal o de un tercero.
+
+La honestidad de los servidores públicos será practicada balo los siguientes criterios:
 
 a) Los servidores públicos deberán rechazar en el ejercicio de sus funciones los regalos, invitaciones, favores, dádivas, pago de viajes, uso de medios de transporte o cualquier clase de halagos, beneficios materiales o inmateriales, ofrecidos por personas o grupos interesados en obtener beneficios por acción u omisión en virtud de sus funciones en el cargo.
 
@@ -10,7 +12,7 @@ b) El servidor público deberá abstenerse en forma absoluta de ejercer sus func
 
 c) Los servidores públicos se abstendrán de celebrar contratación en los que tenga interés personal, familiar o comercial que sea incompatible con el ejercicio de su cargo, obteniendo beneficios para sí o a sabiendas para terceras personas.
 
-d) Los servidores públicos se inhibirán de conocer o participar por sí o por terceras personas en asuntos en los cuales tengan directa o indirectamente especial interés, en detrimento del bien común.
+d) Los servidores públicos se inhibirán de conocer o participar por si o por terceras personas en asuntos en los cuales tengan directa o indirectamente especial interés, en detrimento del bien común.
 
 e) Las entrevistas con personeros o particulares interesados en una determinada decisión deberán ser efectuadas en la respectiva oficina o lugar de trabajo del servidor público.
 
@@ -26,4 +28,4 @@ j) El servidor público mostrará la rectitud de su conducta escogiendo siempre,
 
 k) El servidor público ejercerá con moderación y discreción las prerrogativas inherentes al cargo y se abstendrá de ello cuando cause algún perjuicio a los legítimos intereses de los usuarios de los servicios públicos.
 
-I) El servidor público bajo ninguna circunstancia retardará o dificultará a cualquier ciudadano el ejercicio regular de su derecho y menos en forma que pueda causarle daño moral o material.
+l) El servidor público balo ninguna circunstancia retardará o dificultará a cualquier ciudadano el ejercicio regular de su derecho y menos en forma que pueda causarle daño moral o material.

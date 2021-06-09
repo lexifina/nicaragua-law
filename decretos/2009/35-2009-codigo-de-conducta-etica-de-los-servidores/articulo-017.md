@@ -1,12 +1,14 @@
 # Artículo 17
 
-Responsabilidad. Conlleva el cumplimiento de las funciones del cargo, las tareas encomendadas, dentro de los plazos establecidos, así como la disposición permanente de rendir cuentas y asumir las consecuencias de los resultados de su trabajo y de su conducta personal.
+Responsabilidad
 
-La responsabilidad de los servidores públicos será practicada bajo los siguientes criterios:
+Conlleva el cumplimiento de las funciones del cargo, las tareas encomendadas, dentro de los plazos establecidos, así como la disposición permanente de rendir cuentas y asumir las consecuencias de los resultados de su trabajo y de su conducta personal.
 
-a) Todo superior jerárquico dentro de la Administración Pública velará porque en los actos de juramentación y toma de posesión de los cargos se lean partes seleccionadas de este Código y se entregue un ejemplar al nuevo titular.
+La responsabilidad de Los servidores públicos será practicada balo Los siguientes criterios:
 
-b) El servidor público debe reconocer sus limitaciones al momento de realizar actividades de servicio público, en especial cuando se trate de contacto directo con el usuario y solicitar si fuere necesario la debida capacitación y colaboración en el área donde lo requiera.
+a) Todo superior jerárquico dentro de La Administración Pública velará porque en Los actos de juramentación y toma de posesión de los cargos se lean partes seleccionadas de este Código y se entregue un ejemplar al nuevo titular.
+
+b) El servidor público debe reconocer sus limitaciones al momento de realizar actividades de servicio público, en especial cuando se trate de contacto directo con el usuario y solicitar si fuere necesario La debida capacitación y colaboración en el área donde lo requiera.
 
 c) Los servidores públicos no deben evadir los compromisos contraídos con las personas que acudan en solicitud de la debida prestación de servicios.
 

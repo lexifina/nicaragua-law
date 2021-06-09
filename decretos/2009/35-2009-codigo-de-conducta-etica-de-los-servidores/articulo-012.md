@@ -1,5 +1,9 @@
 # Artículo 12
 
-Principio de Dignidad. Implica el irrestricto respeto a la persona.
+Principio de Dignidad
 
-VALORES Y CONDUCTAS ÉTICAS DE LOS SERVIDORES PÚBLICOS
+Implica el irrestricto respeto a la persona.
+
+Capítulo III
+
+Valores y Conductas Éticas de los Servidores Públicos

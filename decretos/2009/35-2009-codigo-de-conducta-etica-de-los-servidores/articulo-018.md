@@ -1,6 +1,8 @@
 # Artículo 18
 
-Compañerismo. El compañerismo implica asumir una actitud de cordialidad, armonía, amistad y sobre todo un trato basado en el respeto y la colaboración.
+Compañerismo
+
+El compañerismo implica asumir una actitud de cordialidad, armonía, amistad y sobre todo un trato basado en el respeto y la colaboración.
 
 El Compañerismo será practicado de acuerdo a los siguientes criterios:
 

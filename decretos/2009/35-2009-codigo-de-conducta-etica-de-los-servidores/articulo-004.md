@@ -1,6 +1,8 @@
 # Artículo 4
 
-Principios. A los efectos de este Código son PRINCIPIOS ÉTICOS en la conducta de los servidores públicos:
+Principios
+
+A los efectos de este Código son PRINCIPIOS ÉTICOS en la conducta de los servidores públicos:
 
 a) Bien Común
 
