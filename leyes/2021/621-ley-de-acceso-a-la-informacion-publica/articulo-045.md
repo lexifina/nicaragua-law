@@ -1,0 +1,3 @@
+# Artículo 45
+
+Las Universidades públicas y privadas y los Institutos Técnicos incluirán dentro de sus actividades académicas curriculares y extracurriculares, temas que promuevan la importancia social, política y económica del ejercicio del derecho de acceso a la información pública y del derecho de Habeas Data. La Comisión Nacional de Educación, impulsará conjuntamente con instituciones de educación superior, la integración de un centro de investigación, difusión y docencia sobre derecho de acceso a la información pública, que promueva la socialización de conocimiento sobre el tema y coadyuve con la Comisión en sus tareas sustantivas.

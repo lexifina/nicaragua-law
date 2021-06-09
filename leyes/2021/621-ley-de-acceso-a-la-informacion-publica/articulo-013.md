@@ -1,0 +1,3 @@
+# Artículo 13
+
+Créase la Coordinación de Acceso a la Información Pública en cada poder del Estado, Gobiernos Regionales Autónomos de la Costa Caribe y Gobiernos Municipales, cuya función principal es velar en el ámbito de su competencia, por el cumplimiento de la presente Ley y constituirse como segunda instancia para conocer y resolver los recursos de apelación que se interpongan contra las resoluciones denegatorias a las solicitudes de acceso a la información pública. En el caso de los Municipios, éstos elegirán a tres delegados que integrarán la coordinación de acceso a la información pública.
