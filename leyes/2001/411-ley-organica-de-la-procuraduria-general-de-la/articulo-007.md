@@ -1,6 +1,6 @@
 # Artículo 7
 
-Del Procurador General de la República.
+Del Procurador General de la República
 
 El Procurador General de la República es el funcionario ejecutivo superior de la Procuraduría General de la República, con rango de Ministro de Estado, tiene a su cargo su Representación Legal, judicial y extrajudicial, así como la administración de la Institución.
 

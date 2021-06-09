@@ -1,6 +1,6 @@
 # Artículo 12
 
-Funciones.
+Funciones
 
 El Procurador General de la República tiene a su cargo las siguientes funciones:
 
@@ -14,7 +14,7 @@ El Procurador General de la República tiene a su cargo las siguientes funciones
 
 5. Velar porque los funcionarios de la Institución desempeñen fielmente su cargo y deducirles responsabilidades en que puedan incurrir.
 
-6. Dirigir, organizar y administrar la Procuraduría General de la República para lo cual podrá dictar los reglamentos y disposiciones pertinentes y tomar medidas y providencias que sean necesarias.
+6. Dirigir, organizar y administrar la Procuraduría General de la República para la cual podrá dictar los reglamentos y disposiciones pertinentes y tomar las medidas y providencias que sean necesarias.
 
 7. Pedir informe a todos los funcionarios, empleados públicos e instituciones y exigirles que cooperen con él, en las diligencias que necesite llevar a cabo en el ejercicio de sus funciones.
 

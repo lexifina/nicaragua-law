@@ -1,6 +1,6 @@
 # Artículo 2
 
-Atribuciones.
+Atribuciones
 
 Son atribuciones de la Procuraduría General de la República las siguientes:
 
@@ -40,4 +40,6 @@ Son atribuciones de la Procuraduría General de la República las siguientes:
 
 18. Cualesquiera otras atribuciones que le sean otorgadas por Ley.
 
-DE LA ORGANIZACIÓN DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
+Capítulo II
+
+De la Organización de la Procuraduría General de la República
