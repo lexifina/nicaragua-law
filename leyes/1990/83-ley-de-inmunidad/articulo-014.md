@@ -4,4 +4,4 @@ La Secretaría de la Asamblea Nacional deberá extender certificación sobre la 
 
 Capítulo IV
 
-Disposiciones finales
+Disposiciones Finales
