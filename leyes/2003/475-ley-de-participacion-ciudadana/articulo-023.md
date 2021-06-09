@@ -1,5 +1,5 @@
 # Artículo 23
 
-Autenticación.
+Autenticación
 
 Las firmas se deben autenticar por notario público.

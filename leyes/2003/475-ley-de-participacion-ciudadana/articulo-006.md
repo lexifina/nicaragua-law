@@ -1,6 +1,6 @@
 # Artículo 6
 
-Formas y mecanismos de participación ciudadana.
+Formas y mecanismos de participación ciudadana
 
 La presente Ley establece las formas y los mecanismos de participación ciudadana en las diferentes instancias y niveles de la administración pública a los que se refiere la presente Ley.
 

@@ -1,6 +1,6 @@
 # Artículo 5
 
-Ejercicio de la participación ciudadana.
+Ejercicio de la participación ciudadana
 
 La participación ciudadana se ejercerá en el ámbito nacional, regional, departamental y municipal, de conformidad a lo establecido en la presente Ley, y sin perjuicio de otros mecanismos de participación ya existente.
 

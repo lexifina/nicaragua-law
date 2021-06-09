@@ -1,6 +1,6 @@
 # Artículo 87
 
-Audiencia.
+Audiencia
 
 Al ciudadano, en su calidad de denunciante, se le debe de notificar de la admisión o no de su petición o denuncia en un plazo máximo de diez días hábiles, para lo cual se le citará a una audiencia directa y personal por el superior jerárquico del funcionario contra el cual se procede con el objetivo de notificarle lo resuelto.
 

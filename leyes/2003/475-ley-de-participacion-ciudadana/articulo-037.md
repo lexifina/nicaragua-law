@@ -1,6 +1,6 @@
 # Artículo 37
 
-Período de consulta.
+Período de consulta
 
 Una vez que la iniciativa de resolución u ordenanza ha sido enviada a la comisión respectiva para su debido dictamen, ésta dispondrá de un plazo no mayor de noventa días para la elaboración del programa de consulta a los sectores interesados, tales como las instituciones del Estado, los gobiernos regionales autónomos y los municipales, según sea el caso, y así estos emitan sus respectivos criterios.
 
@@ -10,4 +10,6 @@ Las consultas ilustrarán el trabajo de la Comisión y se deberá hacer referenc
 
 DE LA PARTICIPACIÓN CIUDADANA EN LA FORMULACIÓN DE POLÍTICAS PÚBLICAS
 
-PARTICIPACIÓN CIUDADANA EN LA FORMULACIÓN DE POLÍTICAS PÚBLICAS NACIONALES
+Capítulo I
+
+Participación Ciudadana en la Formulación de Políticas Públicas Nacionales

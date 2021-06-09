@@ -1,6 +1,6 @@
 # Artículo 69
 
-Consulta ciudadana.
+Consulta ciudadana
 
 La consulta ciudadana podrá realizarse, a iniciativa del Concejo Municipal o de la población, cada vez que sea necesario para conocer la opinión de la comunidad sobre aquellos asuntos que por su naturaleza sean de importancia para los moradores, tales como:
 

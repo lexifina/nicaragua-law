@@ -1,9 +1,9 @@
 # Artículo 78
 
-Solicitud de audiencia pública.
+Solicitud de audiencia pública
 
-Los pobladores podrán solicitar audiencia pública al alcalde o al vicealcalde para solicitar las explicaciones del caso cuando se presenten incumplimiento de los acuerdos y resoluciones del cabildo.
+Los pobladores podrán solicitar audiencia pública al Alcalde o Alcaldesa o al Vice Alcalde o Vice Alcaldesa para solicitar las explicaciones del caso cuando se presenten incumplimiento de los acuerdos y resoluciones del cabildo.
 
-DE LA PARTICIPACIÓN DE LOS POBLADORES EN LA ELABORACIÓN DEL PLAN O ESTRATEGIA DE
+Capítulo V
 
-DESARROLLO Y EL PLAN DE INVERSIÓN
+De la Participación de los Pobladores en la Elaboración del Plan o Estrategia de Desarrollo y el Plan de Inversión

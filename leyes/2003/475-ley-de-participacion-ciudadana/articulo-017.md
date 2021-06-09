@@ -1,6 +1,6 @@
 # Artículo 17
 
-Participación de los partidos políticos.
+Participación de los partidos políticos
 
 Forman parte de las diferentes instancias de participación ciudadana, los partidos políticos o alianzas de partidos políticos que tengan representación en la Asamblea Nacional.
 

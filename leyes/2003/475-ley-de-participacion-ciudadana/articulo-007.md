@@ -1,6 +1,6 @@
 # Artículo 7
 
-Principios rectores de la participación ciudadana.
+Principios rectores de la participación ciudadana
 
 El derecho de participación ciudadana establecido en la Constitución Política de la República, se regirá de conformidad a los principios generales siguientes:
 

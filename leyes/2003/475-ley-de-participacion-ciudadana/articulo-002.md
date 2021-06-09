@@ -1,6 +1,6 @@
 # Artículo 2
 
-Instrumentos de participación ciudadana.
+Instrumentos de participación ciudadana
 
 Para los fines y efectos de la presente Ley los instrumentos de participación ciudadana son los siguientes:
 

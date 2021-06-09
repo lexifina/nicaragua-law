@@ -1,6 +1,6 @@
 # Artículo 84
 
-Presentación.
+Presentación
 
 En todos los casos, la petición o denuncia se deberá de realizar de forma escrita ante el funcionario superior el que levantará un acta en original y copia, en la que expresamente se establezca el pedimento o denuncia respectiva.
 

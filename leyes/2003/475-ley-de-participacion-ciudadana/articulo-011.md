@@ -1,6 +1,6 @@
 # Artículo 11
 
-Requisitos.
+Requisitos
 
 Para los fines y efectos de la iniciativa ciudadana de ley debe reunir los requisitos siguientes:
 

@@ -1,12 +1,12 @@
 # Artículo 4
 
-Definiciones básicas.
+Definiciones básicas
 
 Para los fines y efectos de la presente Ley, se establecen las siguientes definiciones básicas:
 
 1. Ciudadano: Son todas las personas naturales en pleno goce de sus derechos civiles y políticos en capacidad de ejercer derechos y obligaciones en lo que hace al vínculo jurídico con el Estado.
 
-2. Democracia: Sistema político y forma organizativo de la sociedad, en la que ésta participa y decide libremente la construcción y perfeccionamiento del sistema político, económico y social de la nación.
+2. Democracia: Sistema político y forma organizativa de la sociedad, en la que ésta participa y decide libremente la construcción y perfeccionamiento del sistema político, económico y social de la nación.
 
 3. Democracia representativa: Es el ejercicio del poder político del pueblo por medio de sus representantes y gobernantes libremente electos por medio del sufragio universal, igual, directo y secreto, sin que ninguna otra persona o reunión de personas pueda arrogarse este poder o representación en donde el pueblo, la nación y la sociedad son los elementos fundamentales para la elección de las personas que se encargarán de la dirección y administración del país.
 

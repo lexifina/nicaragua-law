@@ -1,6 +1,6 @@
 # Artículo 14
 
-Presentación.
+Presentación
 
 La iniciativa de ley será presentada ante la Secretaría de la Asamblea Nacional, personalmente por el representante legal del Comité Promotor o por medio de una persona especialmente autorizada.
 

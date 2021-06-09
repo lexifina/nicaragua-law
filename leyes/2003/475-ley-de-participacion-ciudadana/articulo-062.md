@@ -1,6 +1,6 @@
 # Artículo 62
 
-Finalidades.
+Finalidades
 
 Las asociaciones de pobladores podrán tener como finalidades las siguientes:
 

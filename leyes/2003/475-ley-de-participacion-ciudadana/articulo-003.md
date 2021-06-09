@@ -1,6 +1,6 @@
 # Artículo 3
 
-Perfeccionamiento de los instrumentos de participación ciudadana.
+Perfeccionamiento de los instrumentos de participación ciudadana
 
 Para los fines y efectos de la presente Ley, se desarrollan los instrumentos de participación ciudadana establecidos en la Constitución Política y otras leyes, siendo estos los siguientes:
 

@@ -1,6 +1,6 @@
 # Artículo 85
 
-Requisitos.
+Requisitos
 
 Para los fines y efectos de la presentación de la petición o denuncia se deben de cumplir los siguientes requisitos:
 

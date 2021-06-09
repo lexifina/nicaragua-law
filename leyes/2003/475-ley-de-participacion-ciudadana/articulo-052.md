@@ -1,6 +1,6 @@
 # Artículo 52
 
-Funciones del Comité de Desarrollo Municipal.
+Funciones del Comité de Desarrollo Municipal
 
 Son funciones del Comité de Desarrollo Municipal las siguientes:
 
@@ -8,9 +8,9 @@ Son funciones del Comité de Desarrollo Municipal las siguientes:
 
 2. Realizar propuestas de proyectos u obras civiles que vayan en pro del desarrollo económico y social del municipio y sus moradores;
 
-3. Contribuir en los procesos del diagnóstico y planificación participativa de políticas sectoriales.
+3. Contribuir en los procesos del diagnóstico y planificación participativa de políticas sectoriales;
 
-4. Conocer y emitir opinión anualmente sobre la propuesta del presupuesto municipal y de su ejecución a fines de cada período de conformidad con la Ley de Régimen Presupuestario Municipal.
+4. Conocer y emitir opinión anualmente sobre la propuesta del presupuesto municipal y de su ejecución a fines de cada período de conformidad con la Ley Nº. 376, Ley de Régimen Presupuestario Municipal;
 
 5. Conocer y emitir opinión, del informe anual de gestión del gobierno municipal, con respecto a la ejecución presupuestaria;
 
@@ -22,6 +22,6 @@ Son funciones del Comité de Desarrollo Municipal las siguientes:
 
 9. Incorporar a los diputados departamentales y los nacionales, cuando así lo solicitaren;
 
-10. Contribuir con el alcalde en el desarrollo de los proyectos en beneficio de la comunidad;
+10. Contribuir con el Alcalde o Alcaldesa en el desarrollo de los proyectos en beneficio de la comunidad;
 
 11. Cualquier otra que la presente Ley y su Reglamento le establezca.
