@@ -1,6 +1,6 @@
 # Artículo 88
 
-Deberes del agente encubierto.
+Deberes del agente encubierto
 
 Quien se desempeñe como agente encubierto deberá:
 

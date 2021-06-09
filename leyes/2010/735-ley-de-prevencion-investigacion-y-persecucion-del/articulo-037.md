@@ -1,6 +1,6 @@
 # Artículo 37
 
-Medidas cautelares.
+Medidas cautelares
 
 Además de las establecidas en el Código Procesal Penal, el juez a solicitud del Ministerio Público o de la víctima constituido en acusador particular podrá decretar las siguientes medidas cautelares:
 

@@ -1,6 +1,6 @@
 # Artículo 46
 
-De las funciones del Director o Directora de la Unidad.
+De las funciones del Director o Directora de la Unidad
 
 El Director o Directora de la Unidad tendrá las siguientes funciones:
 
@@ -10,7 +10,7 @@ b) Recibir los bienes, productos e instrumentos que el órgano jurisdiccional, l
 
 c) Emitir las normativas y demás disposiciones, a los que deberán de ajustarse los depositarios, administradores, gestores e interventores de los bienes incautados;
 
-d) Organizar, coordinar y ejecutar los procesos derivados de las ventas en públicas subasta;
+d) Organizar, coordinar y ejecutar los procesos derivados de las ventas en pública subasta;
 
 e) Organizar, coordinar y llevar a cabo los procesos relacionados con la incautación de bienes cuando sea requerido por la autoridad competente;
 

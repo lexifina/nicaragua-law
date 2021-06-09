@@ -1,6 +1,6 @@
 # Artículo 52
 
-Contrataciones entre La Unidad y terceros.
+Contrataciones entre La Unidad y terceros
 
 La Unidad podrá nombrar o contratar administradores, depositarios, gestores o interventores de los mismos, además podrá celebrar contratos de arrendamiento de acuerdo a lo dispuesto en el Reglamento de esta Ley.
 

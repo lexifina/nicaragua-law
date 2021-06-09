@@ -1,6 +1,6 @@
 # Artículo 92
 
-Proceso para juzgamiento.
+Proceso para juzgamiento
 
 Para el enjuiciamiento de los delitos del crimen organizado se seguirá el procedimiento penal establecido en el Código Procesal Penal y en el Código Penal, con la aplicación preferente de las disposiciones especiales establecidas en esta Ley.
 

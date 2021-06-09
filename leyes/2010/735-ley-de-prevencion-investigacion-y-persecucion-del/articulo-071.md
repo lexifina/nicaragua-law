@@ -1,6 +1,6 @@
 # Artículo 71
 
-Autoridad competente.
+Autoridad competente
 
 Se designa como autoridad competente para la aplicación de las disposiciones establecidas en el presente Capítulo al Ministerio Público, que será la Institución encargada de la aplicación y administración de las medidas de protección que se dispongan y de la aplicación efectiva de los mecanismos de cooperación interinstitucional e internacional.
 

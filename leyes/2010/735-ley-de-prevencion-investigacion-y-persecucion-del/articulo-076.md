@@ -1,6 +1,6 @@
 # Artículo 76
 
-Anticipo jurisdiccional de prueba en caso de víctima, testigo o perito.
+Anticipo jurisdiccional de prueba en caso de víctima, testigo o perito
 
 Además de los casos establecidos en el Código Procesal Penal, procede aplicar el anticipo jurisdiccional de prueba cuando se trate de una víctima, testigo o perito, cuya seguridad, vida o integridad física corran riesgo con motivo de su participación en el proceso y se presuma razonablemente que su declaración en juicio no será posible pues no se reducirá el riesgo o éste podría aumentar. Así mismo, cuando el testigo o perito se encuentre ante circunstancias de fuerza mayor, tenga que salir fuera del país o cuando la víctima, testigo, corran el peligro de ser expuesto a presiones mediante violencia, amenaza, oferta o promesa de dinero u otros beneficios análogos. En todos los casos en que se haya acordado la reserva de las características físicas del declarante, por la existencia de un riesgo para su vida o integridad física, se procederá a recibir su testimonio en forma anticipada.
 

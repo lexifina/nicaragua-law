@@ -1,6 +1,6 @@
 # Artículo 54
 
-Calidades del interventor.
+Calidades del interventor
 
 Para ser interventor de los bienes, objetos, productos e instrumentos se requiere de las siguientes calidades:
 

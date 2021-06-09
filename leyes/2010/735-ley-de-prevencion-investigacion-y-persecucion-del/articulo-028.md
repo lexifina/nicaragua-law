@@ -1,9 +1,5 @@
 # Artículo 28
 
-Identificación presuntiva.
+Identificación presuntiva
 
-Cuando la Policía Nacional incaute o retenga marihuana, cocaína, morfina, heroína o cualquier otro estupefaciente, psicotrópico o sustancia controlada, realizará su identificación técnica presuntiva o de campo, precisará su cantidad, peso y datos personales de quienes aparecieren vinculados al hecho y describirá cualquier otra circunstancia útil a la investigación.
-
-Lo señalado en el párrafo anterior deberá contar en el acta de incautación e identificación técnica suscrita por el investigador policial y el Fiscal si estuviera presente.
-
-Se faculta al funcionario policial actuante que deba practicar las diligencias, a trasladar a un lugar seguro y con condiciones adecuadas estupefacientes, psicotrópicos y otras sustancias controladas, evidencias y personas involucradas, por razones de seguridad, ambientales, climatológicas, geográficas o cualquier otra situación que ponga en riesgo a las personas, evidencias o la correcta ejecución de las diligencias, haciendo constar en el acta esta situación.
+Cuando la Policía Nacional incaute o retenga marihuana, cocaína, morfina, heroína o cualquier otro estupefaciente, psicotrópico o sustancia controlada, realizará su identificación técnica presuntiva o de campo, precisará su cantidad, peso y datos personales de quienes aparecieren vinculados al hecho y describirá cualquier otra circunstancia útil a la investigación. Lo señalado en el párrafo anterior deberá contar en el acta de incautación e identificación técnica suscrita por el investigador policial y el Fiscal si estuviera presente. Se faculta al funcionario policial actuante que deba practicar las diligencias, a trasladar a un lugar seguro y con condiciones adecuadas estupefacientes, psicotrópicos y otras sustancias controladas, evidencias y personas involucradas, por razones de seguridad, ambientales, climatológicas, geográficas o cualquier otra situación que ponga en riesgo a las personas, evidencias o la correcta ejecución de las diligencias, haciendo constar en el acta esta situación.

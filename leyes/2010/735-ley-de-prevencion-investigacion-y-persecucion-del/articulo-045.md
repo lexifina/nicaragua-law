@@ -1,6 +1,6 @@
 # Artículo 45
 
-Del nombramiento y las calidades de la persona a cargo de la Dirección.
+Del nombramiento y las calidades de la persona a cargo de la Dirección
 
 El nombramiento y remoción de la persona a cargo de la Dirección, denominada Director o Directora de la Unidad estará a cargo del Consejo Nacional Contra el Crimen Organizado a propuesta del Ministro de Hacienda y Crédito Público y tendrá las siguientes calidades:
 

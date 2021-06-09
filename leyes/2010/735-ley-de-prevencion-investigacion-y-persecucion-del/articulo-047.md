@@ -1,6 +1,6 @@
 # Artículo 47
 
-Estructura administrativa.
+Estructura administrativa
 
 La Unidad Administradora de Bienes Incautados, Decomisados o Abandonados, tendrá la siguiente estructura administrativa:
 

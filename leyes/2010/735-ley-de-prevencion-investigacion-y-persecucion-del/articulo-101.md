@@ -1,5 +1,11 @@
 # Artículo 101
 
-Derogatoria expresa.
+Derogatoria expresa
 
-Se derogan: a) Ley No. 177, Ley de Estupefacientes, Sicotrópicos y Sustancias Controladas, publicada en La Gaceta, Diario Oficial, No. 138 del 25 de julio de 1994; b) sus reformas y adiciones aprobadas por Ley No. 285, Ley de Estupefacientes, Sicotrópicos y Otras Sustancias Controladas, Lavado de Dinero y Activos Provenientes de Actividades Ilícitas, publicada en La Gaceta, Diario Oficial No. 69 del 15 de abril de 1999, con excepción de los Capítulos IV y V, que quedan aplicables hasta que entre en vigencia una Ley de Análisis Financiero y las listas y cuadros de las sustancias aprobadas como anexos de la Ley No. 285, Ley de Estupefacientes, Sicotrópicos y Otras Sustancias Controladas, Lavado de Dinero y Activos Provenientes de Actividades Ilícitas, publicadas en La Gaceta, Diario Oficial No. 70 del 16 de abril del año 1999, y las adiciones posteriores, que quedan incorporadas a la presente ley; mientras no se modifiquen; y c) Decreto Ejecutivo No. 74-99, Reglamento a la Ley No. 285, Ley de Reforma y Adiciones a la Ley No. 177, "Ley de Estupefacientes, Sicotrópicos y Sustancias Controladas", publicado en La Gaceta, Diario Oficial No. 124 del 30 de Junio de 1999.
+Se derogan:
+
+a) Ley Nº. 177, Ley de Estupefacientes, Sicotrópicos y Sustancias Controladas, publicada en La Gaceta, Diario Oficial Nº. 13 8 del 25 de julio de 1994;
+
+b) sus reformas y adiciones aprobadas por Ley Nº. 285, Ley de Estupefacientes, Sicotrópicos y Otras Sustancias Controladas, Lavado de Dinero y Activos Provenientes de Actividades Ilícitas, publicada en La Gaceta, Diario Oficial Nº. 69 del 15 de abril de 1 999, con excepción de los Capítulos IV y V, que quedan aplicables hasta que entre en vigencia una Ley de Análisis Financiero y las listas y cuadros de las sustancias aprobadas como anexos de la Ley Nº. 285, Ley de Estupefacientes, Sicotrópicos y Otras Sustancias Controladas, Lavado de Dinero y Activos Provenientes de Actividades Ilícitas, publicadas en La Gaceta, Diario Oficial Nº. 70 del 16 de abril del año 1999, y las adiciones posteriores, que quedan incorporadas a la presente ley; mientras no se modifiquen; y
+
+c) Decreto Ejecutivo Nº. 74-99, Reglamento a la Ley Nº. 285, Ley de Reforma y Adiciones a la Ley Nº. 177, Ley de Estupefacientes, Sicotrópicos y Sustancias Controladas", publicado en La Gaceta, Diario Oficial Nº. 124 del 30 de Junio de 1999.

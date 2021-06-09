@@ -1,6 +1,6 @@
 # Artículo 55
 
-Subasta pública.
+Subasta pública
 
 Cuando los bienes sean declarados decomisados por la autoridad competente, se procederá a la venta en subasta pública, sobre la base de su tasación pericial y de acuerdo a lo establecido en el Reglamento de esta Ley, salvo lo prescrito en esta Ley.
 

@@ -1,8 +1,8 @@
 # Artículo 95
 
-Actos de cooperación o asistencia internacional.
+Actos de cooperación o asistencia internacional
 
-Las Autoridades Judiciales, el Ministerio Público, la Policía Nacional, el Ejército de Nicaragua podrán prestar y solicitar asistencia a otros Estados, conforme lo establezcan los instrumentos internacionales suscritos por Nicaragua, o través del Ministerio de Relaciones Exteriores, en actuaciones operativas, actos de investigación y procesos judiciales, todo de conformidad con la legislación nacional, siendo estas las siguientes:
+Las Autoridades Judiciales, el Ministerio Público, la Policía Nacional, el Ejército de Nicaragua podrán prestar y solicitar asistencia a otros Estados, conforme lo establezcan los instrumentos internacionales suscritos por Nicaragua, o a través del Ministerio de Relaciones Exteriores, en actuaciones operativas, actos de investigación y procesos judiciales, todo de conformidad con la legislación nacional, siendo estas las siguientes:
 
 a) Recibir entrevistas o declaraciones a personas. Siempre que hubiera reciprocidad, las autoridades nacionales podrán permitir la presencia de autoridades extranjeras requirentes en las entrevistas o declaraciones;
 

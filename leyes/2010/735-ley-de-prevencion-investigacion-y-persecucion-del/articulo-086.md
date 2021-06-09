@@ -1,6 +1,6 @@
 # Artículo 86
 
-Finalidad de las operaciones encubiertas.
+Finalidad de las operaciones encubiertas
 
 Se consideran lícitas las operaciones encubiertas que habiendo cumplido con los requisitos anteriores, tengan como finalidad:
 

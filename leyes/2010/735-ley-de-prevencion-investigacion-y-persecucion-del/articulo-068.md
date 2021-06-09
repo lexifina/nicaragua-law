@@ -1,6 +1,6 @@
 # Artículo 68
 
-Situación de riesgo o peligro.
+Situación de riesgo o peligro
 
 Se entiende como situación de riesgo o peligro, la existencia razonable de una amenaza o daño contra la vida, integridad personal, libertad y seguridad de las personas a que se refiere el artículo anterior.
 

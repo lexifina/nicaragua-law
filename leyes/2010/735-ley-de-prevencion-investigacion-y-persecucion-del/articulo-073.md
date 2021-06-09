@@ -1,6 +1,6 @@
 # Artículo 73
 
-Medidas de protección.
+Medidas de protección
 
 Para efectos de aplicación de la presente Ley se adoptará como mínimo las medidas de protección siguientes:
 
@@ -14,8 +14,6 @@ d) Fijar a efectos de citaciones y notificaciones, como domicilio especial de la
 
 e) El traslado, alejamiento del lugar del riesgo y reubicación temporal o definitiva de las personas sujetas a protección dentro o fuera del país;
 
-f) Cambio de identidad, medida que será utilizada de manera excepcional.
-
-Además de las medidas señaladas, la Policía Nacional, el Ministerio Público, el juez o tribunal podrán considerar la aplicación de cualquier otra medida de protección que consideren necesaria.
+f) Cambio de identidad, medida que será utilizada de manera excepcional. Además de las medidas señaladas, la Policía Nacional, el Ministerio Público, el juez o tribunal podrán considerar la aplicación de cualquier otra medida de protección que consideren necesaria.
 
 Para la aplicación de estas medidas de protección, las instituciones públicas o privadas deberán prestarle la más rápida y eficaz cooperación a la autoridad competente.

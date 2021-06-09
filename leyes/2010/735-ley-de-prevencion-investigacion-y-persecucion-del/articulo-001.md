@@ -1,6 +1,6 @@
 # Artículo 1
 
-Objeto de la Ley.
+Objeto de la Ley
 
 La presente ley tiene por objeto regular las funciones del Estado para prevenir, detectar, investigar, perseguir y procesar los delitos relacionados con el crimen organizado y la administración y disposición de los bienes, objetos, productos, equipos u otros instrumentos utilizados o destinados a ser utilizados en la comisión de los delitos comprendidos en esta Ley.
 

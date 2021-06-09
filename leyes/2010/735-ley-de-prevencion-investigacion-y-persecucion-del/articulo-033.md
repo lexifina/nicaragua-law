@@ -1,6 +1,6 @@
 # Artículo 33
 
-Retención, incautación, secuestro y ocupación de objetos, productos o instrumentos.
+Retención, incautación, secuestro y ocupación de objetos, productos o instrumentos
 
 Todo bien inmueble o mueble, objetos, productos e instrumentos utilizados en la comisión de los delitos de crimen organizado y las utilidades o beneficios de su acción delictiva, serán objeto de retención, incautación, secuestro y ocupación por la Policía Nacional, quien los conservará de acuerdo a lo establecido en el Código Procesal Penal.
 

@@ -1,6 +1,6 @@
 # Artículo 80
 
-Terminación de medidas de protección aplicadas a nivel internacional.
+Terminación de medidas de protección aplicadas a nivel internacional
 
 Cuando se hayan aplicado en virtud de cooperación o asistencia jurídica internacional, terminarán en los casos siguientes:
 

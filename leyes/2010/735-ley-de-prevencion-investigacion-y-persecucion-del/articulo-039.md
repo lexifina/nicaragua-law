@@ -1,6 +1,6 @@
 # Artículo 39
 
-Allanamiento.
+Allanamiento
 
 Para efectos de los delitos a que se refiere esta ley y facilitar la detención de los imputados, la Policía Nacional o el Ministerio Público solicitará a la autoridad judicial, la orden de allanamiento, detención y secuestro. Una vez asignado el juez competente, tanto el Ministerio Público como la Policía Nacional tendrán acceso directo al juez, quien resolverá en término de una hora. Concedida la orden judicial, el allanamiento podrá ejecutarse en el término máximo de diez días.
 

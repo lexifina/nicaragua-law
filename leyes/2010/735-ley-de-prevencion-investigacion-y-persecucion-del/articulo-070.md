@@ -1,12 +1,12 @@
 # Artículo 70
 
-Principios para aplicar medidas de protección.
+Principios para aplicar medidas de protección
 
 Para la aplicación de estas medidas especiales de protección se tendrá en cuenta los principios siguientes:
 
 a) Principio de Necesidad: Las medidas de protección sólo podrán ser aplicadas en cuanto fueren necesarias para garantizar la seguridad de las personas sujetas a protección;
 
-b) Principio de Proporcionalidad: Las medidas de protección responderán a nivel de riesgo o peligro en nue se encuentre la persona destinataria de la misma;
+b) Principio de Proporcionalidad: Las medidas de protección responderán a nivel de riesgo o peligro en que se encuentre la persona destinataria de la misma;
 
 c) Principio de Confidencialidad: En todos los aspectos relacionados a las medidas de protección aplicadas a las personas sujetas a protección, se deberá guardar la confidencialidad debida, tanto en su preparación, expedición y ejecución. Los funcionarios que infrinjan esta disposición incurrirán en sanciones, penales, civiles y administrativas;
 

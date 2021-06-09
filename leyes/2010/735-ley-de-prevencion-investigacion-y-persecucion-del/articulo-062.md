@@ -1,6 +1,6 @@
 # Artículo 62
 
-Interceptación de comunicaciones.
+Interceptación de comunicaciones
 
 En los casos de investigación de los delitos previstos en esta Ley, a solicitud expresa y fundada del Fiscal General de la República o del Director General de la Policía Nacional, los Jueces de Distrito de lo Penal podrán autorizar a éste el impedir, interrumpir, interceptar o grabar comunicaciones, correspondencia electrónica; otros medios radioeléctricos e informáticos de comunicaciones, fijas, móviles, inalámbricas y digitales o de cualquier otra naturaleza, únicamente a los fines de investigación penal y de acuerdo a las normas establecidas en el Código Procesal Penal.
 

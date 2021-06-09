@@ -1,6 +1,6 @@
 # Artículo 44
 
-Objetivo de la Unidad.
+Objetivo de la Unidad
 
 La Unidad tendrá como objetivo la recepción, administración, guarda, custodia, inversión, subasta, donación, devolución o destrucción de bienes, objetos, productos e instrumentos de las actividades delictivas a que se refiere la presente Ley.
 

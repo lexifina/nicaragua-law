@@ -1,6 +1,6 @@
 # Artículo 77
 
-Atribuciones de la Policía Nacional sobre personas protegidas.
+Atribuciones de la Policía Nacional sobre personas protegidas
 
 Para lograr la ejecución expedita de las medidas establecidas en el presente Capítulo, en auxilio a las funciones del Ministerio Público, la Policía Nacional cumplirá las acciones siguientes:
 

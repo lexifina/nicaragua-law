@@ -1,6 +1,6 @@
 # Artículo 10
 
-Funciones de la Secretaría Ejecutiva.
+Funciones de la Secretaría Ejecutiva
 
 La Secretaría Ejecutiva del Consejo Nacional tendrá las siguientes funciones:
 

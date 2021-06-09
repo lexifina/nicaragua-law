@@ -1,6 +1,6 @@
 # Artículo 42
 
-Del principio de vinculación.
+Del principio de vinculación
 
 Cuando se trate de los delitos referidos en esta Ley, el Ministerio Público, podrá pedir la colaboración de cualquier persona natural o jurídica, estando obligados a prestársela sin demora.
 

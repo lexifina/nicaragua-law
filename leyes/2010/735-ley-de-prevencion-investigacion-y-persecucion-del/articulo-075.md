@@ -1,8 +1,8 @@
 # Artículo 75
 
-De las solicitudes de las medidas de protección.
+De las solicitudes de las medidas de protección
 
-Las solicitudes de colaboración de la autoridad central serán dirigidas a la máxima autoridad de la Policía Nacional, del Ejercito de Nicaragua, del Sistema Penitenciaria y del Poder Judicial según sea el caso, por escrito y especificando las medidas de protección que deban adoptarse.
+Las solicitudes de colaboración de la autoridad central serán dirigidas a la máxima autoridad de la Policía Nacional, del Ejército de Nicaragua, del Sistema Penitenciario y del Poder Judicial según sea el caso, por escrito y especificando las medidas de protección que deban adoptarse.
 
 En caso de que la solicitud no exprese claramente las medidas de protección la autoridad pertinente solicitará a la autoridad central las aclaraciones necesarias para efectuar lo requerido.
 
