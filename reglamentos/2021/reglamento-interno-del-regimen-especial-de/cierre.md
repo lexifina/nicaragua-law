@@ -1,0 +1,3 @@
+Dado en la ciudad de Managua, República de Nicaragua, el día quince de abril del año dos mil veinte. (f) María Amelia Coronel Kinloch, Presidenta del Consejo Directivo. (f) José Adrián Chavarría Montenegro, Vicepresidente del Consejo Directivo, (f) Mauricio Lenin Soza Robelo, Miembro del Consejo Directivo, (f) Carlota Espinoza Aragón, Miembro del Consejo Directivo, (f) Enrique Antonio Salazar Alemán, Miembro del Consejo Directivo, (f) Lester Roberto Luna Raudes, Miembro del Consejo Directivo, (f) Corania del Carmen Salablanca Selva, Secretaria del Consejo Directivo. (f) Corania del Carmen Salablanca Selva. Secretaria del Consejo Directivo del ISSDHU.
+
+.
