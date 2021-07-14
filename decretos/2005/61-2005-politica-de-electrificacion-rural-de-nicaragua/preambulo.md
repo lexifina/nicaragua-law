@@ -1,10 +1,14 @@
-POLÍTICA DE ELECTRIFICACIÓN RURAL DE NICARAGUA
+TEXTO CONSOLIDADO, DECRETO EJECUTIVO Nº. 61-2005, POLÍTICA DE ELECTRIFICACIÓN RURAL DE NICARAGUA
 
-DECRETO EJECUTIVO N°. 61-2005, aprobado el 06 de septiembre del 2005
+DECRETO EJECUTIVO Nº. 61-2005, aprobado el 11 de noviembre de 2020
 
-Publicado en la Gaceta, Diario Oficial N°. 179 del 16 de septiembre del 2005
+Publicado en La Gaceta, Diario Oficial N°. 130 del 14 de julio de 2021
 
-DECRETO No. 61-2005
+Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 11 de noviembre de 2020, del Decreto Ejecutivo Nº. 61-2005, Política de Electrificación Rural de Nicaragua, aprobado el 06 de septiembre de 2005 y publicado en La Gaceta, Diario Oficial Nº. 179 del 16 de septiembre de 2005, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 201 7 y la Ley Nº. 1045, Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero, aprobada el 11 de noviembre de 2020.
+
+DECRETO Nº. 61-2005
 
 El Presidente de la República de Nicaragua,
 
@@ -20,11 +24,11 @@ Que el artículo 105 de la Constitución Política establece la obligación del 
 
 III
 
-Que la Ley No. 272, Ley de Industria Eléctrica, publicada en La Gaceta, Diario Oficial, No. 74 del 23 de abril de 1998, establece que la Comisión Nacional de Energía (CNE) es el órgano interinstitucional a cargo de promover y ejecutar la electrificación en el área rural y en las poblaciones menores donde no haya interés de participar de parte de cualquiera de los agentes económicos que se dediquen a las actividades de la industria eléctrica.
+Que la Ley Nº. 272, Ley de Industria Eléctrica, publicada en La Gaceta, Diario Oficial Nº. 74 del 23 de abril de 1998, establece que el Ministerio de Energía y Minas es el órgano interinstitucional a cargo de promover y ejecutar la electrificación en el área rural y en las poblaciones menores donde no haya interés de participar de parte de cualquiera de los agentes económicos que se dediquen a las actividades de la industria eléctrica.
 
 IV
 
-Que el Decreto Presidencial No. 13-2004 publicado en La Gaceta, Diario Oficial No. 45 del 4 de marzo de 2004, estableció la Política Energética Nacional que sirve de guía para que el Estado, a través de la Comisión Nacional de Energía (CNE) elabore los Planes Estratégicos del sector energético y establezca las políticas y estrategias específicas de los diferentes subsectores energéticos.
+Que el Decreto Presidencial Nº. 13-2004 publicado en La Gaceta, Diario Oficial Nº. 45 del 4 de marzo de 2004, estableció la Política Energética Nacional que sirve de guía para que el Estado, a través del Ministerio de Energía y Minas elabore los Planes Estratégicos del sector energético y establezca las políticas y estrategias específicas de los diferentes subsectores energéticos.
 
 V
 
@@ -40,7 +44,7 @@ Que Nicaragua, puede utilizar su gran potencial de energías renovables junto co
 
 VIII
 
-Que es necesario establecer una Política de Electrificación Rural que sirva de guía para la elaboración y ejecución del Plan Nacional de Electrificación Rural (PLANER), en armonía con el Plan Nacional de Desarrollo (PND).
+Que es necesario establecer una Política de Electrificación Rural que sirva de guía para la elaboración y ejecución del Plan Nacional de Electrificación Rural (PLANER), en armonía con el Programa Nacional de Desarrollo Humano (PNDH).
 
 En uso de las facultades que le confiere la Constitución Política,
 
