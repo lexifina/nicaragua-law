@@ -2,4 +2,4 @@
 
 Derogado.
 
-De las Autoridades de Administración o Aplicación
+DE LAS AUTORIDADES DE ADMINISTRACIÓN O APLICACIÓN

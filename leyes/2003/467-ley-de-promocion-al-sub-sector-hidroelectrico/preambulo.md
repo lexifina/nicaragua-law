@@ -1,22 +1,22 @@
-TEXTO CONSOLIDADO 2011. LEY N°. 467, LEY DE PROMOCIÓN AL SUB-SECTOR HIDROELÉCTRICO
+TEXTO CONSOLIDADO, LEY Nº. 467, LEY DE PROMOCIÓN AL SUB- SECTOR HIDROELÉCTRICO
 
-Aprobada el 07 de julio del 2011
+Aprobado el 11 de noviembre de 2020
 
-Publicada en la Gaceta, Diario Oficial Nº. 174 del 12 de septiembre de 2012
+Publicado en La Gaceta, Diario Oficial N°. 130 del 14 de julio de 2021
 
-Digesto Jurídico del Sector Energético 2011.
+Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero
 
-El presente texto contiene incorporadas todas las normas, reformas y derogaciones vigentes y consolidadas al de 7 julio de 2011, de la Ley No. 467, Ley de Promoción al Sub-Sector Hidroeléctrico, aprobada el 9 de julio de 2003, publicada en La Gaceta, Diario Oficial No. 169 del 5 de septiembre de 2003, y se ordena su publicación en La Gaceta, Diario Oficial, conforme se establece en el parágrafo II del Título Preliminar del Código Civil y el Título Quinto de la Ley No. 606, Ley Orgánica del Poder Legislativo.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 11 de noviembre de 2020, de la Ley Nº. 467, Ley de Promoción al Sub-Sector Hidroeléctrico, aprobada el 09 de julio de 2003 y publicada en La Gaceta, Diario Oficial Nº. 169 del 5 de septiembre de 2003, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1045, Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero, aprobada el 11 de noviembre de 2020.
 
-LEY No. 467
+LEY Nº. 467
 
-EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA,
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
 Hace saber al pueblo nicaragüense que:
 
-LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA,
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
 
-CONSIDERANDO:
+CONSIDERANDO
 
 I
 
@@ -48,12 +48,12 @@ Que es necesario el establecimiento de incentivos económicos para fomentar el d
 
 En uso de sus facultades;
 
-HA DICTADO:
+HA DICTADO
 
 La siguiente:
 
-LEY DE PROMOCIÓN AL SUB-SECTOR HIDROELÉCTRICO
+LEY DE PROMOCIÓN AL SUB- SECTOR HIDROELÉCTRICO
 
 CAPÍTULO I
 
-Disposiciones Generales
+DISPOSICIONES GENERALES
