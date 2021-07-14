@@ -1,6 +1,6 @@
 # Artículo 79
 
-El formato de Anexo de Sanciones e Indemnizaciones para cada tipo de licencia y para una concesión a elaborar por el INE incluirá como mínimo:
+El formato de Anexo de Sanciones e Indemnizaciones para cada tipo de licencia y para una concesión a elaborar por el MEM incluirá como mínimo:
 
 1) Identificación de los parámetros de calidad a medir y sus tolerancias.
 

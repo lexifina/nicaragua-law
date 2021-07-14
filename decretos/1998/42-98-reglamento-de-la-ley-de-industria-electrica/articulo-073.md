@@ -15,3 +15,5 @@ Todo contrato de concesión o de licencia incluirá anexos, en que se identifica
 6) Manejo de aguas, de tratarse de una licencia de generación hidroeléctrica.
 
 7) Otros atendiendo a la naturaleza del contrato.
+
+Artículo 7 4 El Ministerio de Energía y Minas elaborará un formato de contrato de concesión, un formato de cada tipo de contrato de licencia y un formato para cada tipo de Anexo.

@@ -1,6 +1,6 @@
 # Artículo 35
 
-De conformidad a lo establecido en el Arto. 39 de la Ley, toda persona que proyecte una urbanización deberá presentar al concesionario de distribución del área los siguientes documentos para su aprobación:
+De conformidad a lo establecido en el Artículo 39 de la Ley, toda persona que proyecte una urbanización deberá presentar al concesionario de distribución del área los siguientes documentos para su aprobación:
 
 1) Solicitud de que se brinde el servicio público de distribución al área a urbanizar.
 
@@ -8,7 +8,7 @@ De conformidad a lo establecido en el Arto. 39 de la Ley, toda persona que proye
 
 3) Ubicación y Plano del terreno que se va a urbanizar.
 
-4) Memoria descriptiva y de cálculo.
+4) Memoria descriptiva y de cálculo
 
 5) Planos de la distribución eléctrica y alumbrado público proyectados.
 

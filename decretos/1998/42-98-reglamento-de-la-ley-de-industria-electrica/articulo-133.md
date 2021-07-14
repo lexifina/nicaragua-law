@@ -1,5 +1,3 @@
 # Artículo 133
 
-Efectuada la verificación por el Ministerio de Energía y Minas, se dictará la Resolución, otorgando la prórroga o denegando la solicitud, según que el concesionario o titular de licencia, haya o no, cumplido con lo establecido en este Reglamento.
-
-Una vez otorgada la prórroga el concesionario o titular de licencia, después de diez días de notificado el otorgamiento de la prórroga deberá publicarla en La Gaceta, Diario Oficial. Posterior a su publicación se procederá a firmar el contrato respectivo, siguiendo el procedimiento estipulado según el caso, para las concesiones o licencias.
+Efectuada la verificación por la DGE del Ministerio de Energía y Minas, el Ministro de Energía y Minas dictará la Resolución, otorgando la prórroga o denegando la solicitud, según que el concesionario o titular de licencia, haya o no, cumplido con lo establecido en este Reglamento. Una vez otorgada la prórroga el concesionario o titular de licencia, después de diez días de notificado el otorgamiento de la prórroga deberá publicarla en La Gaceta, Diario Oficial. Posterior a su publicación se procederá a firmar el contrato respectivo, siguiendo el procedimiento estipulado según el caso, para las concesiones o licencias.

@@ -1,6 +1,6 @@
 # Artículo 128
 
-A efecto de asegurar que el solicitante llevará a cabo los trabajos comprometidos una vez que le fuere otorgada, el concesionario o titular de licencia a la suscripción del contrato, deberá entregar al MEMuna garantía de cumplimiento por un monto igual al 7% del valor de la inversión inicial para licencias de transmisión y generación hidroeléctrica, 4% para concesiones de distribución, y 1% para las restantes licencias de generación.
+A efecto de asegurar que el solicitante llevará a cabo los trabajos comprometidos una vez que le fuere otorgada, el concesionario o titular de licencia a la suscripción del contrato, deberá entregar al MEM una garantía de cumplimiento por un monto igual al 7% del valor de la inversión inicial para licencias de transmisión y generación hidroeléctrica, 4% para concesiones de distribución, y 1 % para las restantes licencias de generación.
 
 Esta garantía de cumplimiento será otorgada por cualquier Institución Financiera legalmente constituida en el país y con documentación que avale su calificación como aceptable.
 

@@ -6,6 +6,6 @@ El formato de Anexo de Equipamiento para cada tipo de licencia y para una conces
 
 2) Requisito de documentación a presentar que acredite que el solicitante cuenta con capacidad técnica en la actividad.
 
-3) Cláusulas indicando la obligación de demostrar el cumplimiento de las normas de operación y diseño vigentes del INE.
+3) Cláusulas indicando la obligación de demostrar el cumplimiento de las normas de operación y diseño vigentes del MEM.
 
 4) Identificación de los estudios a presentar, incluyendo estudios del impacto de la conexión al sistema de transmisión.

@@ -1,16 +1,16 @@
-TEXTO CONSOLIDADO 2011. DECRETO EJECUTIVO N°. 42-98, REGLAMENTO DE LA LEY N°. 272, LEY DE LA INDUSTRIA ELÉCTRICA
+TEXTO CONSOLIDADO, DECRETO EJECUTIVO Nº. 42-98, REGLAMENTO DE LA LEY DE LA INDUSTRIA ELÉCTRICA
 
-DECRETO EJECUTIVO N°. 42-98, aprobado el 7 de julio de 2011
+DECRETO EJECUTIVO Nº. 42-98, aprobado el 11 de noviembre de 2020
 
-Publicado en La Gaceta, Diario Oficial N°. 176 del 17 de septiembre de 2012
+Publicado en La Gaceta, Diario Oficial N°. 130 del 14 de julio de 2021
 
-Digesto Jurídico del Sector Energético 2011
+Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero
 
-El presente texto contiene incorporadas todas las normas, reformas y derogaciones vigentes y consolidadas al 7 de julio de 2011, del Decreto No. 42-98, Reglamento de la Ley No. 272, Ley de la Industria Eléctrica, aprobado el 15 de junio de 1998, publicado en La Gaceta, Diario Oficial No. 116 del 23 de junio de 1998, y se ordena su publicación en La Gaceta, Diario Oficial, conforme se establece en el parágrafo II del Título Preliminar del Código Civil y el Título Quinto de la Ley No. 606, Ley Orgánica del Poder Legislativo.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 11 de noviembre de 2020, del Decreto Ejecutivo Nº. 42-98, Reglamento de la Ley de la Industria Eléctrica, aprobado el 15 de junio de 1998 y publicado en La Gaceta, Diario Oficial Nº. 116 del 23 de junio de 1998, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 201 7 y la Ley Nº. 1045, Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero, aprobada el 11 de noviembre de 2020.
 
-DECRETO N°. 42-98
+DECRETO Nº. 42-98
 
-EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+El PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
 En uso de las facultades que le confiere la Constitución Política,
 

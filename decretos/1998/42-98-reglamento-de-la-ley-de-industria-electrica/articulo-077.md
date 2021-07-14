@@ -1,8 +1,8 @@
 # Artículo 77
 
-El formato de Anexo de Obras para cada tipo de licencia y para una concesión a elaborar por el INE incluirá como mínimo:
+El formato de Anexo de Obras para cada tipo de licencia y para una concesión a elaborar por el MEM incluirá como mínimo:
 
-1) Descripción de los datos a suministrar de las características y localización de la obra, de acuerdo a lo indicado en el Arto. 76 de la Ley, indicando el formato correspondiente, incluyendo planos y cronogramas de obra.
+1) Descripción de los datos a suministrar de las características y localización de la obra, de acuerdo a lo indicado en el Artículo 76 de la Ley, indicando el formato correspondiente, incluyendo planos y cronogramas de obra.
 
 2) Requisito de documentación a presentar que acredite que el solicitante cuenta con la capacidad económica para financiar la obra.
 

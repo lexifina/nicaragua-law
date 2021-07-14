@@ -14,11 +14,11 @@ Concesionario: es el titular de una concesión.
 
 CNDC: Centro Nacional de Despacho de Carga.
 
-DGE: Dirección General de Electricidad del INE.
+DGE: Dirección General de Electricidad del MEM o del INE.
 
-Exportador: es el Agente Económico o Gran Consumidor que vende energía eléctrica a otro país a través de interconexiones internacionales.
+Exportador: es el agente económico o Gran Consumidor que vende energía eléctrica a otro país a través de interconexiones internacionales.
 
-Importador: es el Agente Económico o Gran Consumidor que compra energía eléctrica de otro país a través de interconexiones internacionales.
+Importador: es el agente económico o Gran Consumidor que compra energía eléctrica de otro país a través de interconexiones internacionales.
 
 Interconexiones Internacionales: es el conjunto de líneas y equipamiento de transmisión asociado que conecta al Sistema de Transmisión de Nicaragua con los sistemas de transmisión de otros países.
 

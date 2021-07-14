@@ -1,6 +1,6 @@
 # Artículo 78
 
-El formato de Anexo Ambiental para cada tipo de licencia y para una concesión a elaborar por el INE incluirá como mínimo:
+El formato de Anexo Ambiental para cada tipo de licencia y para una concesión a elaborar por el MEM incluirá como mínimo:
 
 1) Descripción de los estudios de impacto ambiental a presentar.
 
