@@ -20,7 +20,7 @@ g) Preparar y presentar a la aprobación de la Junta Directiva el informe anual 
 
 h) Presentar a la Junta Directiva con la periodicidad que ésta establezca, la ejecución Presupuestaria y los Estados Financieros;
 
-i) Proponer y recomendar para aprobación de la Junta Directiva la política de precios de la Empresa;
+i) Proponer y recomendar para aprobación de la Junta Directiva la Política de Precios de la Empresa;
 
 j) Proponer y recomendar para aprobación de la Junta Directiva los reglamentos, normativas y políticas de la Empresa; y
 
