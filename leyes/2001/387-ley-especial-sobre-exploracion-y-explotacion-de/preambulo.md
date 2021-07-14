@@ -1,12 +1,14 @@
-TEXTO CONSOLIDADO 2011. LEY Nº. 387, LEY ESPECIAL SOBRE EXPLORACIÓN Y EXPLOTACIÓN DE MINAS
+TEXTO CONSOLIDADO, LEY Nº. 387, LEY ESPECIAL SOBRE EXPLORACIÓN Y EXPLOTACIÓN DE MINAS
 
-Aprobado el 07 de julio de 2011
+Aprobado el 11 de noviembre de 2020
 
-Publicada en La Gaceta, Diario Oficial N°. 174 del 12 de septiembre de 2012
+Publicado en La Gaceta, Diario Oficial N°. 130 del 14 de julio de 2021
 
-Digesto Jurídico del Sector Energético 2011.
+Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero
 
-El presente texto contiene incorporadas todas las normas, reformas y derogaciones vigentes y consolidadas al 7 de julio de 2011, de la Ley No. 387, Ley Especial sobre Exploración y Explotación de Minas, aprobada el 13 de marzo de 2001, publicada en La Gaceta, Diario Oficial No. 151 del 13 de agosto de 2001, y se ordena su publicación en La Gaceta, Diario Oficial, conforme se establece en el parágrafo II del Título Preliminar del Código Civil y el Título Quinto de la Ley No. 606, Ley Orgánica del Poder Legislativo.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 11 de noviembre de 2020, de la Ley Nº. 387, Ley Especial sobre Exploración y Explotación de Minas, aprobada el 13 de marzo de 2001 y publicada en La Gaceta, Diario Oficial Nº. 151 del 13 de agosto de 2001, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 201 7 y la Ley Nº. 1045, Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero, aprobada el 11 de noviembre de 2020.
+
+LEY Nº. 387
 
 EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
@@ -22,7 +24,7 @@ Que Nicaragua alberga importantes yacimientos minerales, que constituyen parte d
 
 II
 
-Que la explotación racional y sostenible de los recursos naturales debe estar al servicio de la satisfacción de las necesidades del pueblo nicaragüense y del desarrollo del país.
+Que la explotación nacional y sostenible de los recursos naturales debe estar al servicio de la satisfacción de las necesidades del pueblo nicaragüense y del desarrollo del país.
 
 III
 
@@ -34,7 +36,7 @@ Que es voluntad del Gobierno de la República de Nicaragua promover las inversio
 
 V
 
-Que se hace necesario modernizar el marco jurídico de la actividad minera en el país, a fin de dar seguridad jurídica a los inversionistas y proteger los intereses del Estado nicaragüense incorporando, entre otros, la preservación del medio ambiente y la eliminación de la discrecionalidad.
+Que se hace necesario modernizar el marco jurídico de la actividad minera en el país, a fin de dar seguridad jurídica a los inversionistas y proteger los intereses del Estado nicaragüense incorporado, entre otros, la preservación del medio ambiente y la eliminación de la discrecionalidad.
 
 En uso de sus facultades;
 

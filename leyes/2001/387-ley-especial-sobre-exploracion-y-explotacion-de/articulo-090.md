@@ -2,7 +2,7 @@
 
 Cualquier violación a las obligaciones y regulaciones establecidas en esta Ley, cometidas por los concesionarios mineros, será sancionada con una multa pecuniaria de hasta el equivalente a Veinte mil dólares de los Estados Unidos de América, y en especial las siguientes infracciones:
 
-1) Hacer falsa declaración para la implantación de un mojón.
+1) Hacer falsa declaración para la implementación de un mojón.
 
 2) Destruir, trasladar o modificar ilícitamente los mojones.
 

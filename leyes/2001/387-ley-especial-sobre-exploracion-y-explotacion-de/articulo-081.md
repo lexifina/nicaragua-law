@@ -2,11 +2,11 @@
 
 Los concesionarios mineros enviarán anualmente al Ministerio de Energía y Minas los informes o documentos siguientes:
 
-a) Personal empleado
+a) Personal empleado.
 
 b) Informe sobre la Seguridad Industrial de la empresa.
 
-c) Informe sobre las actividades geológico mineras efectuados y sus resultados.
+c) Informe sobre las actividades geológicas mineras efectuados y sus resultados.
 
 d) Informes de producción minera.
 

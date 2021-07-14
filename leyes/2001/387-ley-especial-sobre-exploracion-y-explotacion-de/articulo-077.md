@@ -1,12 +1,12 @@
 # Artículo 77
 
-El Ministerio de Energía y Minas es la instancia competente en materia de inspección, vigilancia y fiscalización de las operaciones relacionadas con el aprovechamiento racional de los yacimientos minerales. Sin perjuicio de lo establecido en la Ley de Organización, Competencia y Procedimiento del Poder Ejecutivo, tendrá las siguientes funciones y atribuciones.
+El Ministerio de Energía y Minas es la instancia competente en materia de inspección, vigilancia y fiscalización de las operaciones relacionadas con el aprovechamiento racional de los yacimientos minerales. Sin perjuicio de lo establecido en la Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, tendrá las siguientes funciones y atribuciones:
 
 a) Conocer del aprovechamiento racional de los yacimientos minerales.
 
 b) Tener acceso a todos los trabajos e instalaciones del concesionario minero.
 
-c) Conocer en conjunto con el MARENA, sin perjuicio de las facultades que le corresponden a éste, lo siguientes:
+c) Conocer en conjunto con el MARENA, sin perjuicio de las facultades que le corresponden a éste, lo siguiente:
 
 - Los Estudios de Impactos Ambientales de los proyectos mineros.
 
@@ -20,4 +20,4 @@ d) Aplicar las sanciones correspondientes por incumplimiento de las obligaciones
 
 e) Conocer del cumplimiento en materia de prevención, higiene y seguridad laboral, sin perjuicio de las facultades que le corresponden al Ministerio del Trabajo.
 
-f) No Vigente.
+f) Sin vigencia.
