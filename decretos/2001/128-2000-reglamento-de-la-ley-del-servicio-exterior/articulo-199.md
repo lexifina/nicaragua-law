@@ -26,7 +26,7 @@ Se podrá autorizar permiso o ausencia:
 
 7.5 Si la muerte de los parientes, mencionados en el numeral anterior, tiene lugar en Nicaragua y el funcionario no opta por viajar al país, se le podría conceder de uno (1) a tres (3) días de permiso.
 
-7.6 Cuando la muerte de los referidos parientes tiene lugar en el país sede y en ese mismo lugar se verifica el sepelio, tendrá cinco (5) días de permiso.
+7 .6 Cuando la muerte de los referidos parientes tiene lugar en el país sede y en ese mismo lugar se verifica el sepelio, tendrá cinco (5) días de permiso.
 
 8. Todos los permisos deberán ser comunicados al Área correspondiente y a la Dirección General Administrativa y Financiera del Ministerio de Relaciones Exteriores, una vez que hayan sido autorizados.
 

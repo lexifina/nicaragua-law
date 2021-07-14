@@ -1,6 +1,6 @@
 # Artículo 9
 
-Los candidatos a participar en el Concurso Público de Ingreso al Servicio Exterior, deberán acreditar el cumplimiento de los requisitos del caso mediante la presentación a la Academia Diplomática " ;José de Marcoleta" de sus solicitudes de inscripción, en formulario que será facilitado por la misma Academia y contendrá los siguientes datos proporcionados bajo promesa de decir verdad:
+Los candidatos a participar en el Concurso Público de Ingreso al Servicio Exterior, deberán acreditar el cumplimiento de los requisitos del caso mediante la presentación a la Academia Diplomática "José de Marcoleta" de sus solicitudes de inscripción, en formulario que será facilitado por la misma Academia y contendrá los siguientes datos proporcionados bajo promesa de decir verdad:
 
 1. Nombre completo, nacionalidad, estado civil y domicilio;
 

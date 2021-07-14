@@ -12,17 +12,17 @@ Son obligaciones de los miembros del Servicio Exterior:
 
 5. Asistir cumplidamente a su oficina y desempeñar las funciones que le han sido encomendadas con la lealtad, dedicación y eficiencia que requiere la naturaleza de éstas.
 
-6. Guardar discreción absoluta y confidencialidad acerca de los asuntos que conozcan con motivo de su desempeño oficial. En tal sentido los miembros del Servicio Exterior deberá abstenerse de:
+6. Guardar discreción absoluta y confidencialidad acerca de los asuntos que conozcan con motivo de su desempeño oficial. En tal sentido los miembros del Servicio Exterior deberán abstenerse de:
 
-6.1 Brindar documentos originales, copias o fotocopias de los mismos, así como cualquier otro tipo de información a los medios de información del Estado sede o del Estado acreditante, sin la debida autorización del superior inmediato.
+6.1. Brindar documentos originales, copias o fotocopias de los mismos, así como cualquier otro tipo de información a los medios de información del Estado sede o del Estado acreditante, sin la debida autorización del superior inmediato.
 
-6.2 Obtener y trasladar documentos oficiales o confidenciales fuera de la Oficina respectiva sin la debida autorización del superior inmediato, aún cuando estuviesen a su cargo las gestiones correspondientes.
+6.2. Obtener y trasladar documentos oficiales o confidenciales fuera de la Oficina respectiva sin la debida autorización del superior inmediato, aun cuando estuviesen a su cargo las gestiones correspondientes.
 
 La obligación de discreción absoluta y confidencialidad de los funcionarios subsistirá aún después de retirarse del Servicio Exterior, cuando se trate de asuntos cuya divulgación pudiese causar perjuicio a los intereses nacionales.
 
 Independientemente de las sanciones administrativas que se impongan a quienes violaren esta obligación, podrán ser aplicadas las penas que establezcan otras leyes nacionales.
 
-7. Cumplir con la Ley de Integridad Moral de los Funcionarios y Empleados Públicos.
+7. Cumplir con la Ley Nº. 438, Ley de Probidad de los Servidores Públicos.
 
 8. Observar una conducta personal compatible con la dignidad de la Representación de la República.
 
@@ -36,7 +36,7 @@ Igualmente, no podrán participar directa o indirectamente en actividades comerc
 
 12. Abstenerse de contraer deudas en nombre propio con personas naturales o jurídicas, nacionales o extranjeras del Estado sede, que excedan su capacidad de pago.
 
-13. Abstenerse de recibir obsequios cuyo valor unitario exceda los US $ 250.00 dólares.
+13. Abstenerse de recibir obsequios cuyo valor unitario exceda los US$ 250.00 dólares.
 
 14. Cobrar por los servicios prestados exactamente los derechos establecidos por la ley, y extender los correspondientes recibos.
 

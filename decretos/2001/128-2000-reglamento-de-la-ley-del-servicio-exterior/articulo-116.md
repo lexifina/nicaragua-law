@@ -2,11 +2,11 @@
 
 En todas las oficinas Consulares debe llevarse:
 
-1. Un REGISTRO DE NICARAGÜENSES, en el cual se inscribirán los nicaragüenses residentes en la respectiva Circunscripción Consular.
+1. UN REGISTRO DE NICARAGÜENSES, en el cual se inscribirán los nicaragüenses residentes en la respectiva Circunscripción Consular.
 
 Los funcionarios consulares procurarán por todos los medios a su alcance que todos los nicaragüenses residentes en su circunscripción se inscriban en su oficina, e informarán periódicamente a la Dirección General Consular los medios que han puesto en práctica para invitar a sus nacionales a inscribirse y los resultados obtenidos.
 
-El funcionario consular debe exigir, para toda inscripción en el Registro de Nicaragüenses, que se compruebe previamente por el interesado su nacionalidad con documentos fehacientes. A falta de éstos, podrá demostrar su nacionalidad mediante presentación de una declaración jurada suscrita por dos testigos idóneos y de nacionalidad nicaragüense ó mediante entrevista personal ante el funcionario Consular competente.
+El funcionario consular debe exigir, para toda inscripción en el Registro de Nicaragüenses, que se compruebe previamente por el interesado su nacionalidad con documentos fehacientes. A falta de éstos, podrá demostrar su nacionalidad mediante presentación de una declaración jurada suscrita por dos testigos idóneos y de nacionalidad nicaragüense o mediante entrevista personal ante el funcionario Consular competente.
 
 En esa inscripción, deberá expresarse el nombre y apellido del inscrito, edad, lugar y fecha de nacimiento, estado civil, profesión u oficio, y se incluirá una fotografía del inscrito.
 

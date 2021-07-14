@@ -1,6 +1,6 @@
 # Artículo 18
 
-La Comisión de Ingreso Ad-hoc, fijará las modalidades y contenido del examen previsto en la ley, sujetándose a las siguientes bases:
+La Comisión de Ingreso Ad-hoc, fijará las modalidades y contenido del examen previsto en la Ley, sujetándose a las siguientes bases:
 
 1. Que los candidatos presenten los mismos exámenes en igualdad de condiciones.
 

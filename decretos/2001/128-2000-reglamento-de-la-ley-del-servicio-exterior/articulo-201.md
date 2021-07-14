@@ -4,13 +4,13 @@ Los miembros del Servicio Exterior gozarán de vacaciones:
 
 1. Treinta días al año, más los días feriados nacionales y sufragarán todos los gastos que ocasionen sus vacaciones.
 
-2. Las vacaciones deberán ser planificadas por el Jefe de la Misión, Representación Permanente u Oficina Consular y aprobadas por el Ministerio de Relaciones Exteriores a través de la Dirección General Administrativa y Financiera. Dicha planificación no deberá; afectar ni interrumpir el trabajo de la Misión, Representación Permanente u Oficina Consular.
+2. Las vacaciones deberán ser planificadas por el Jefe de la Misión, Representación Permanente u Oficina Consular y aprobadas por el Ministerio de Relaciones Exteriores a través de la Dirección General Administrativa Financiera. Dicha planificación no deberá; afectar ni interrumpir el trabajo de la Misión, Representación Permanente u Oficina Consular.
 
-3. Todas las Misiones, Representaciones Permanentes y Oficinas Consulares deberán enviar sus planes de vacaciones a la Dirección General Administrativa y Financiera durante el mes de Diciembre de cada año para su análisis con las Direcciones de Política Exterior correspondientes. Estos planes serán devueltos en Enero del año siguiente, con las aprobaciones o modificaciones que correspondan.
+3. Todas las Misiones, Representaciones Permanentes y Oficinas Consulares deberán enviar sus planes de vacaciones a la División General de Recursos Humanos durante el mes de diciembre de cada año para su análisis, registro y control con las Direcciones de Política Exterior correspondientes. Estos planes serán devueltos por la División General de Recursos Humanos en enero del año siguiente, con las aprobaciones o modificaciones que correspondan.
 
-El plan de vacaciones de los Jefes de Misión, Representación Permanente u Oficina Consular deberá ser remitido para su aprobación, previa consulta con el área correspondiente, a la Dirección General Administrativa y Financiera, en las mismas fechas establecidas en el párrafo precedente.
+El plan de vacaciones de los Jefes de Misión, Representación Permanente u Oficina Consular deberá ser remitido para su aprobación, previa consulta con el área correspondiente, a la División General de Recursos Humanos, en las mismas fechas establecidas en el párrafo precedente.
 
-El plan de vacaciones de los funcionarios adscritos al Ministerio de Relaciones Exteriores deberá ser presentado por la correspondiente Dirección General a la Dirección General Administrativa y Financiera en los términos expresados.
+El plan de vacaciones de los funcionarios adscritos al Ministerio de Relaciones Exteriores deberá ser presentado por la correspondiente División General de Recursos Humanos en los términos expresados.
 
 4. Las vacaciones podrán ser interrumpidas por el Ministerio de Relaciones Exteriores o el Jefe de Misión, Representación Permanente u Oficina Consular correspondiente, cuando las necesidades del servicio así lo exijan, debiendo ser reprogramadas de acuerdo al procedimiento establecido anteriormente.
 

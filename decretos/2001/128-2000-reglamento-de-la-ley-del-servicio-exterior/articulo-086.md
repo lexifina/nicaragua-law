@@ -36,7 +36,7 @@ Solamente el Ministerio de Relaciones Exteriores podrá renunciar a la inmunidad
 
 15. Conceder asilo en los casos y en la forma determinada por el Derecho Internacional y las Convenciones sobre el particular suscritas y ratificadas por Nicaragua.
 
-16. Respetar las leyes y reglamentos del Estado ante cuyo Gobierno estén acreditados, haciendo las reclamaciones pertinentes cuando la aplicación de esos ordenamientos signifiquen una violación del derecho internacional y de las obligaciones convencionales que el Gobierno de ese Estado haya asumido con nuestro Gobierno.
+16. Respetar las leyes y reglamentos del Estado ante cuyo Gobierno estén acreditados, haciendo las reclamaciones pertinentes cuando la aplicación de esos ordenamientos signifique una violación del derecho internacional y de las obligaciones convencionales que el Gobierno de ese Estado haya asumido con nuestro Gobierno.
 
 17. Solicitar la autorización del Ministerio de Relaciones Exteriores para hacerse cargo de la representación diplomática o consular de otro Estado.
 

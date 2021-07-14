@@ -18,6 +18,6 @@ El régimen de pago que se establezca será el apropiado a las finanzas nacional
 
 5. Cuando un miembro del Servicio Exterior, autorice al Ministerio de Relaciones Exteriores a realizar deducciones de su asignación, con el fin de entregarlas a sus familiares u otros beneficiarios, estas deducciones podrán ser entregadas en moneda dólar americano.
 
-6. Los Cónsules Honorarios no percibirán asignaciones por parte del Gobierno de Nicaragua. Cubrirán de su propio peculio los gastos que origine el establecimiento y mantenimiento del Consulado honorario. Sin embargo, en casos especiales, se podrá autorizar alguna asignación para gastos de oficina.
+6. Los Cónsules Honorarios no percibirán asignaciones por parte del Gobierno de Nicaragua. Cubrirán de su propio peculio los gastos que originen el establecimiento y mantenimiento del Consulado honorario. Sin embargo, en casos especiales, se podrá autorizar alguna asignación para gastos de oficina.
 
 DE LOS FONDOS ASIGNADOS AL EXTERIOR

@@ -10,8 +10,6 @@ Prolongación del período ordinario de ascenso;
 
 Suspensión del servicio hasta por un mes sin goce de sueldo;
 
-Traslado;
-
-Petición de renuncia;
+Traslado; Petición de renuncia;
 
 Destitución.
