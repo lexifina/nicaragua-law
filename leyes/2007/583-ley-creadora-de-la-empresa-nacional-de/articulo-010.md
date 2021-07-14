@@ -1,5 +1,5 @@
 # Artículo 10
 
-Desempeño en el Cargo. Los miembros de la Junta Directiva en la Empresa Nacional de Transmisión Eléctrica, ENATREL, se desempeñarán en sus cargos y funciones con criterio propio, y serán los únicos responsables de sus gestiones ante la Ley y los resultados de la Empresa.
+Desempeño en el cargo
 
-En el desempeño del cargo directivo no se le pagará dietas al Presidente, a los Vocales, ni a los demás miembros de la Junta Directiva que ocupen cargos públicos.
+Los miembros de la Junta Directiva de ENATREL, se desempeñarán en sus cargos y funciones con criterio propio, con apego a la Constitución Política de la República de Nicaragua y las leyes de la materia, serán responsables de sus actuaciones. En el desempeño del cargo directivo no se les pagará dietas, con excepción de gastos o viáticos.

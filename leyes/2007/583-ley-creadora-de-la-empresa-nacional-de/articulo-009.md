@@ -1,11 +1,9 @@
 # Artículo 9
 
-Sesiones de Junta Directiva y Quórum. La Junta Directiva podrá celebrar Sesiones Ordinarias una vez al mes, correspondiendo a la Junta Directiva establecer la fecha de realización, y extraordinaria cuantas veces sea necesaria de acuerdo a los intereses de la Empresa y el Estado.
+Funcionamiento de la Junta Directiva
 
-Las Sesiones Extraordinarias serán convocadas por el Presidente de la Junta Directiva, sea por iniciativa propia o a solicitud de al menos dos de sus miembros. El Presidente de la Junta Directiva regulará el orden de las Sesiones y deberá dar la agenda de trabajo al menos con cuarenta y ocho horas de anticipación y hacer públicas las resoluciones que se adopten, salvo aquellos casos, que a criterio de la Junta Directiva deban ser estrictamente de uso interno.
+La Junta Directiva de ENATREL, podrá celebrar sesiones ordinarias de forma trimestral. Podrá celebrar sesiones extraordinarias cuantas veces sean necesarias de acuerdo a las necesidades de ENATREL y de las políticas institucionales del sector eléctrico del país. El Presidente Ejecutivo de ENATREL, en su condición de Secretario de la Junta Directiva, coordinará las convocatorias de las sesiones ordinarias y extraordinarias.
 
-Las resoluciones se adoptarán por mayoría simple del total de los miembros de la Junta Directiva que asista a las Sesiones respectivas de acuerdo con lo que se establezca en el Reglamento Interno de la Junta Directiva. En los casos de empate, el Presidente de la Junta podrá ejercer el voto decisorio.
+Las sesiones extraordinarias serán convocadas a iniciativa del Presidente de la Junta Directiva o a solicitud del Presidente Ejecutivo de ENATREL. El Presidente de la Junta Directiva regulará el orden de las sesiones y por medio del Secretario de la Junta Directiva deberá dar a conocer la agenda por lo menos con setenta y dos horas de anticipación y hacer públicas las resoluciones que se adopten, salvo los casos contemplados en la Ley Nº. 621, Ley de Acceso a la Información Pública.
 
-En los casos de ausencia, inhabilidad o incapacidad del Presidente de la Junta Directiva a una o más Sesiones, presidirá el Vicepresidente, y se mandará a integrar al suplente del Presidente como miembro.
-
-El quórum de la Junta Directiva para las Sesiones se constituye con cuatro de sus miembros.
+Las resoluciones se adoptarán por mayoría simple del total de los miembros de la Junta Directiva que asistan a las sesiones respectivas de acuerdo con lo que se establezca en el Reglamento Interno de la Junta Directiva. En los casos de empate, el Presidente de la Junta Directiva podrá ejercer el voto decisorio. En los casos de ausencia, inhabilidad o incapacidad del Presidente de la Junta Directiva a una o más sesiones, presidirá el Presidente Ejecutivo de ENATREL. El quórum de la Junta Directiva para las sesiones ordinarias o extraordinarias se constituye con mayoría simple de sus miembros.

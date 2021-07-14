@@ -1,5 +1,7 @@
 # Artículo 1
 
-Objeto. Crease la Empresa Nacional de Transmisión Eléctrica, ENATREL, como un Ente Descentralizado del Poder Ejecutivo con autonomía técnica y administrativa, adscrita al Ministerio de Energía y Minas, entidad de servicio público y del dominio del Estado Nicaragüense, con personalidad jurídica y patrimonio propio, de duración indefinida y con plena capacidad para adquirir derechos y contraer obligaciones, la que en adelante también se podrá denominar simplemente por sus siglas ENATREL.
+Objeto
 
-La empresa creada por la presente Ley no podrá ser objeto de privatización, ni de participación de particulares en su patrimonio bajo ninguna modalidad, siendo una empresa eminentemente de carácter estatal y de interés social. El personal de la Empresa estará amparado a lo dispuesto en la Ley No. 476, Ley de Servicio Civil y de la Carrera Administrativa, publicada en La Gaceta, Diario Oficial, No. 235 del 11 de diciembre del 2003.
+La Empresa Nacional de Transmisión Eléctrica, en adelante ENATREL, es una empresa pública descentralizada del Estado, con autonomía técnica, administrativa y financiera, bajo la rectoría del Ministerio de Energía y Minas, siendo una entidad de servicio público y del dominio del Estado Nicaragüense, con personalidad jurídica y patrimonio propio, de duración indefinida y con plena capacidad para adquirir derechos y contraer obligaciones.
+
+La Empresa Nacional de Transmisión Eléctrica creada por la Ley Nº. 583, no podrá ser objeto de privatización, siendo una empresa eminentemente de carácter estatal y de interés social.

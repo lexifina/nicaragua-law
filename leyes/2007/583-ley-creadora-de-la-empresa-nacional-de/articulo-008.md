@@ -1,27 +1,27 @@
 # Artículo 8
 
-Determinación de Política Empresarial y Funciones de la Junta Directiva. La Junta Directiva de la Empresa Nacional de Transmisión Eléctrica, ENATREL determinará y dirigirá la política empresarial de ésta, teniendo presente sus objetivos y finalidades establecidos por la presente ley.
+Atribuciones de la Junta Directiva
 
-La Junta Directiva tendrá las facultades siguientes:
+Son atribuciones de la Junta Directiva de ENATREL, las siguientes:
 
-1. Aprobar el Presupuesto General Anual de Operaciones e Inversiones;
+1. Determinar y aprobar la política empresarial de ENATREL, teniendo presente su finalidad y actividades establecidas en la presente Ley;
 
-2. Aprobar los estados financieros de la Empresa;
+2. Aprobar el presupuesto anual de operaciones e inversiones;
 
-3. Aprobar la participación accionaria en sociedades, empresas, de derecho público, privado, o mixtas, siempre y cuando la actividad comercial sea compatible con la actividad de Transmisión Eléctrica, o cuando lo fuere no existieren limitaciones en su participación de acuerdo a la legislación de la materia del país en que tenga su domicilio dicha sociedad o empresa;
+3. Aprobar los estados financieros internos y auditados anuales de la Empresa;
 
-4. Aprobar la contratación de empréstitos nacionales e internacionales, la emisión de bonos y otros títulos valores similares de conformidad a lo establecido en la Constitución Política de la República;
+4. Aprobar la contratación de empréstitos nacionales e internacionales, la emisión de bonos y otros títulos valores similares de conformidad a lo establecido en la Constitución Política de la República de Nicaragua y leyes especiales;
 
-5. Aprobar los planes tarifarios, las normativas técnicas, y reglamentos de transmisión o transporte para ser sometidos a la aprobación del Ente Regulador de la Industria Eléctrica;
+5. Ratificar la participación accionaria de ENATREL en sociedades, empresas, de derecho público, privado, o mixtas;
 
-6. Otorgar poderes de cualquier clase o naturaleza con las facultades que juzgare necesarias;
+6. Otorgar poderes de cualquier clase o naturaleza con las facultades que considere necesarias;
 
-7. Aprobar la enajenación, hipoteca o gravamen de los bienes inmuebles de la Empresa, todo de conformidad con lo establecido en la Ley de Disposición de Bienes del Estado;
+7. Aprobar la enajenación, hipoteca o gravamen de los bienes inmuebles de la Empresa, todo de conformidad con lo establecido en las leyes de la materia;
 
-8. Nombrar al Auditor Interno de la Empresa, quien estará subordinado a la misma Junta, de acuerdo a lo establecido por la Ley;
+8. Solicitar al Consejo Superior de la Contraloría General de la República el nombramiento del Auditor Interno de la Empresa y suspender o destituir al que haya sido seleccionado por la Contraloría General de la República conforme la Ley de la materia;
 
-9. Aprobar los informes de Auditoría Externa;
+9. Establecer y aprobar la estructura organizativa y funcional de la Empresa, sus reformas y adiciones, los Reglamentos Internos de la Empresa, sus manuales y demás normativas aplicables;
 
-10. Aprobar la estructura organizativa interna y funcional, los reglamentos internos de la Empresa y sus reformas; y
+10. Conocer de los informes de auditoría interna y externa, resolviendo lo que en derecho corresponda; y
 
-11. Ejercer las demás funciones de carácter general que sean pertinentes a los objetivos y finalidades de la Empresa.
+11. Ejercer las demás funciones de carácter general que sean pertinentes a los objetivos y finalidades de ENATREL.

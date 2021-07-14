@@ -1,14 +1,14 @@
-TEXTO CONSOLIDADO 2011. LEY N°. 583, LEY CREADORA DE LA EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA, ENATREL
+TEXTO CONSOLIDADO, LEY Nº. 583, LEY CREADORA DE LA EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA, ENATREL
 
-Aprobado el 07 de julio de 2011
+Aprobado el 11 de noviembre de 2020
 
-Publicado en La Gaceta, Diario Oficial N°. 175 del 13 de septiembre de 2012
+Publicado en La Gaceta, Diario Oficial N°. 130 del 14 de julio de 2021
 
-Digesto Jurídico del Sector Energético 2011
+Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero
 
-El presente texto contiene incorporadas todas las normas, reformas y derogaciones vigentes y consolidadas al 7 de julio de 2011, de la Ley No. 583, Ley Creadora de la Empresa Nacional de Transmisión Eléctrica, ENATREL, aprobada el 16 de noviembre de 2006, publicada en La Gaceta, Diario Oficial No. 4 del 5 de enero de 2007, y se ordena su publicación en La Gaceta, Diario Oficial, conforme se establece en el parágrafo II del Título Preliminar del Código Civil y el Título Quinto de la Ley No. 606, Ley Orgánica del Poder Legislativo.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 11 de noviembre de 2020, de la Ley Nº. 583, Ley Creadora de la Empresa Nacional de Transmisión Eléctrica, ENATREL, aprobada el 16 de noviembre de 2006 y publicada en La Gaceta, Diario Oficial Nº. 4 del 5 de enero de 2007, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1045, Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero, aprobada el 11 de noviembre de 2020.
 
-LEY No. 583
+LEY Nº. 583
 
 EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
@@ -20,20 +20,20 @@ CONSIDERANDO
 
 I
 
-Con fundamento en el artículo 105 de la Constitución Política en el que se establece la obligación del Estado para promover, facilitar y regular la prestación de los servicios públicos básicos de energía, comunicación, agua, transporte, infraestructura vial, puertos y aeropuertos a la población, y lo dispuesto en la Ley No. 272, Ley de Industria Eléctrica, y sus reformas, artículos 3, 27 y 135, publicadas en La Gaceta, Diario Oficial, número 74 del 23 de abril de mil novecientos noventa y ocho, y la publicación en La Gaceta, Diario Oficial No. 243 del 15 de diciembre del año 2004, respectivamente, se hace necesaria la creación de la Empresa Nacional de Transmisión Eléctrica, ENATREL.
+Con fundamento en el Artículo 105 de la Constitución Política en el que se establece la obligación del Estado para promover, facilitar y regular la prestación de los servicios públicos básicos de energía, comunicación, agua, transportes, infraestructura vial, puertos y aeropuertos a la población, y lo dispuesto en la Ley Nº. 272, Ley de Industria Eléctrica, y sus reformas, Artículos 3, 2 7 y 13 5, publicada en La Gaceta, Diario Oficial, número 74 del 23 de abril de mil novecientos noventa y ocho, y la publicación en La Gaceta, Diario Oficial Nº. 243 del 15 de diciembre del año 2004, respectivamente, se hace necesaria la creación de la Empresa Nacional de Transmisión Eléctrica, ENATREL.
 
 II
 
-Que la Ley No. 272, Ley de Industria Eléctrica, sus reformas y adiciones contenida en la Ley No. 494, Ley de Reforma y Adición al Artículo 135 de la Ley No. 272, se establece la disolución, de conformidad a lo dispuesto por el derecho privado, de la Empresa Nacional de Transmisión Eléctrica, S.A., ENTRESA, y se manda a la creación de una Empresa de Servicio Público de Transmisión de Propiedad Estatal, la cual será sucesora de la Empresa Nacional de Transmisión Eléctrica, S.A., ENTRESA y se continuará con el segmento de Transmisión Eléctrica de la Empresa Nicaragüense de Electricidad.
+Que la Ley Nº. 272, Ley de Industria Eléctrica, sus reformas y adiciones contenida en la Ley Nº. 494, Ley de Reforma y Adición al Artículo 135 de la Ley Nº. 272, se establece la disolución, de conformidad a lo dispuesto por el derecho privado, de la Empresa Nacional de Transmisión Eléctrica, S. A., ENTRESA, y se manda a la creación de una Empresa de Servicio Público de Transmisión de Propiedad Estatal, la cual será sucesora de la Empresa Nacional de Transmisión Eléctrica, S.A., ENTRESA, y se constituirá con el segmento de Transmisión Eléctrica de la Empresa Nicaragüense de Electricidad.
 
 III
 
-Que de acuerdo a lo dispuesto en la Ley No. 272, Ley de Industria Eléctrica, artículo 27, el cual establece de forma expresa que la Empresa Nacional de Transmisión Eléctrica debe ser propiedad del Estado, para cumplir con el espíritu de servicio público establecido en el artículo 3 de la citada Ley, sus reformas y adiciones, esta empresa tendrá una estructura de Empresa Pública y estará bajo la tutela y control de la Presidencia de la República a través de la figura de un Ente Descentralizado, de conformidad a lo establecido en el artículo 4 de la Ley No. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en la Gaceta, Diario Oficial el día 3 de junio de 1998.
+Que de acuerdo a lo dispuesto en la Ley Nº. 272, Ley de Industria Eléctrica, Artículo 27, el cual establece de forma expresa que la Empresa Nacional de Transmisión Eléctrica debe ser propiedad del Estado, para cumplir con el espíritu de servicio público establecido en el Artículo 3 de la citada Ley, sus reformas y adiciones, esta empresa tendrá una estructura de Empresa Pública y estará bajo la tutela y control de la Presidencia de la República a través de la figura de un Ente Descentralizado, de conformidad a lo establecido en el Artículo 4 de la Ley Nº. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en la Gaceta, Diario Oficial el día 3 de junio de 1998.
 
 En uso de sus facultades;
 
 HA DICTADO
 
-La siguiente,
+La siguiente:
 
 LEY CREADORA DE LA EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA, ENATREL
