@@ -4,21 +4,23 @@ El Consejo de Dirección estará integrado por un número de tres miembros de re
 
 Los miembros del Consejo Directivo podrán ser destituidos por las siguientes causales:
 
-a)Negligencia comprobada en el cargo.
+a) Negligencia comprobada en el cargo.
 
 b) Ausencia injustificada en su cargo.
 
-c) Contravención a lo dispuesto en el artículo 130 de la Constitución Política.
+c) Contravención a lo dispuesto en el Artículo 130 de la Constitución Política.
 
 d) Por estar coludido con las empresas a quienes están encargados de fiscalizar.
 
-e)Por condena mediante sentencia firme a pena de privación de libertad o de inhabilitación para ejercer el cargo, por delito que merezca pena más que correccional.
+e) Por condena mediante sentencia firme a pena de privación de libertad o de inhabilitación para ejercer el cargo, por delito que merezca pena más que correccional.
 
 La solicitud de destitución se hará mediante informe con la firma de treinta diputados. La Junta Directiva enviará copia del informe a los directivos y los convocará en la siguiente sesión para que ejerzan su defensa ante el Plenario, podrán estar acompañados con los técnicos que estimen convenientes.
 
 Posterior a su comparecencia a Plenario, se someterá a votación la destitución del o los directivos del INE, la aprobación de la destitución deberá contar con el 60% de los votos del total de los diputados.
 
-El Consejo de Dirección deberá reunirse en Sesión Ordinaria por lo menos una vez al mes, pudiendo celebrar sesiones extraordinarias cuando las necesidades lo requieran o lo solicite cualquiera de sus miembros. La convocatoria se hará por escrito con siete días de anticipación. Habrá quórum con la asistencia de dos miembros. Las resoluciones se tomarán por mayoría de votos, pudiendo ejercer el Presidente el doble voto en caso de empate.
+El Consejo de Dirección deberá reunirse en Sesión Ordinaria por lo menos una vez al mes, pudiendo celebrar sesiones extraordinarias cuando las necesidades lo requieran o lo solicite cualquiera de sus miembros.
+
+La convocatoria se hará por escrito con siete días de anticipación. Habrá quórum con la asistencia de dos miembros. Las resoluciones se tomarán por mayoría de votos, pudiendo ejercer el Presidente el doble voto en caso de empate.
 
 El Consejo de Dirección tendrá las siguientes facultades:
 

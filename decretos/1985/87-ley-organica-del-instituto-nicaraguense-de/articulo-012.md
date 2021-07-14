@@ -8,6 +8,4 @@ b) Representar al Instituto ante el Presidente de la República, organismos gube
 
 c) Ejercer la administración, coordinación y supervisión del funcionamiento del Instituto.
 
-Capítulo IV
-
-Patrimonio
+PATRIMONIO

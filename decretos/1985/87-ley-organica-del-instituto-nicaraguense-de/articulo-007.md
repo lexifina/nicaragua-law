@@ -2,6 +2,4 @@
 
 Derogado.
 
-Capítulo III
-
-Dirección y Administración
+DIRECCIÓN Y ADMINISTRACIÓN
