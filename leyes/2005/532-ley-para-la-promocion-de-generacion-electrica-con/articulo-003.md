@@ -1,8 +1,10 @@
 # Artículo 3
 
-PROYECTOS. Los nuevos proyectos de generación de energía con fuentes renovables y las ampliaciones de los proyectos en operación con fuentes renovables a beneficiarse con esta Ley, deberán estar acordes con:
+Proyectos
 
-1. La Política Energética Nacional aprobada por la Presidencia de la República;
+Los nuevos proyectos de generación de energía con fuentes renovables y las ampliaciones de los proyectos en operación con fuentes renovables a beneficiarse con esta Ley, deberán estar acordes con:
+
+1. La Política Energética Nacional aprobada por la Presidencia de la República.
 
 2. Los lineamientos dados en el Plan de Expansión Indicativo vigente.
 

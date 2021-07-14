@@ -1,3 +1,5 @@
 # Artículo 5
 
-INTERÉS NACIONAL. Se declara de interés nacional el desarrollo y aprovechamiento Nacional de los recursos energéticos renovables.
+Interés Nacional
+
+Se declara de interés nacional el desarrollo y aprovechamiento racional de los recursos energéticos renovables.
