@@ -1,16 +1,16 @@
-TEXTO CONSOLIDADO 2011. DECRETO EJECUTIVO N°. 46-94, CREACIÓN DE LA EMPRESA NICARAGÜENSE DE ELECTRICIDAD (ENEL)
+TEXTO CONSOLIDADO, DECRETO EJECUTIVO Nº. 46-94, CREACIÓN DE LA EMPRESA NICARAGÜENSE DE ELECTRICIDAD (ENEL)
 
-DECRETO EJECUTIVO N°. 46-94, aprobado 07 de julio de 2011
+DECRETO EJECUTIVO Nº. 46-94, aprobado el 11 de noviembre de 2020
 
-Publicado en La Gaceta, Diario Oficial N°. 172 del 10 de septiembre de 2012
+Publicado en La Gaceta, Diario Oficial N°. 130 del 14 de julio de 2021
 
-Digesto Jurídico del Sector Energético 2011.
+Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero
 
-El presente texto contiene incorporadas todas las normas, reformas y derogaciones vigentes y consolidadas al 7 de julio de 2011, del Decreto No. 46-94, Creación de la Empresa Nicaragüense de Electricidad (ENEL), aprobado el 28 de octubre de 1994, publicado en La Gaceta, Diario Oficial No. 204 del 1 de noviembre de 1994, y se ordena su publicación en La Gaceta, Diario Oficial, conforme se establece en el parágrafo II del Título Preliminar del Código Civil y el Título Quinto de la Ley No. 606, Ley Orgánica del Poder Legislativo.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 11 de noviembre de 2020, del Decreto Ejecutivo Nº. 46-94, Creación de la Empresa Nicaragüense de Electricidad (ENEL), aprobado el 28 de octubre de 1994 y publicado en La Gaceta, Diario Oficial Nº. 204 del 1 de noviembre de 1994, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1045, Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero, aprobada el 11 de noviembre de 2020.
 
-DECRETO N°. 46-94
+DECRETO Nº. 46-94
 
-EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA,
+El Presidente de la República de Nicaragua,
 
 CONSIDERANDO
 
@@ -22,12 +22,12 @@ POR TANTO
 
 En uso de las facultades que le confiere la Constitución Política,
 
-HA DICTADO:
+HA DICTADO
 
 El siguiente Decreto de:
 
 CREACIÓN DE LA EMPRESA NICARAGÜENSE DE ELECTRICIDAD (ENEL)
 
-Capítulo I
+CAPÍTULO I
 
-Constitución y Domicilio
+CONSTITUCIÓN Y DOMICILIO

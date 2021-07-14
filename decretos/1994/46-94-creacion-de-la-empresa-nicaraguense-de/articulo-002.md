@@ -4,6 +4,4 @@ La Empresa tendrá su domicilio legal en la ciudad de Managua, pudiendo establec
 
 Asimismo, la Empresa podrá acreditar corresponsales, representantes o agentes en el exterior, cuando la Junta Directiva lo considere conveniente.
 
-Capítulo II
-
-Objetivos y Funciones
+OBJETIVOS Y FUNCIONES
