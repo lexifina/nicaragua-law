@@ -1,3 +1,3 @@
 # Artículo 81
 
-No Vigente.
+Sin vigencia.

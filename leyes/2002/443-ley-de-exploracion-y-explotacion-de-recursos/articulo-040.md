@@ -1,6 +1,8 @@
 # Artículo 40
 
-Declaratoria de caducidad de la concesión. Es facultad del Ministerio de Energía y Minas a propuesta del Ente Regulador o por si, la declaratoria de caducidad de concesión, basado en el incumplimiento de las condiciones específicas que se establezcan en el contrato de otorgamiento de la concesión y además por las siguientes causales:
+Declaratoria de caducidad de la concesión
+
+Es facultad del Ministerio de Energía y Minas a propuesta del Ente Regulador o por si, la declaratoria de caducidad de concesión, basado en el incumplimiento de las condiciones específicas que se establezcan en el contrato de otorgamiento de la concesión y además por las siguientes causales:
 
 a) Si el concesionario no celebra el contrato de exploración o explotación dentro de los plazos establecidos en la presente Ley para ello.
 

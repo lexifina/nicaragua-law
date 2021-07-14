@@ -1,8 +1,8 @@
 # Artículo 29
 
-Una vez notificado el interesado sobre la adjudicación de la concesión de explotación, éste deberá, dentro de un período de noventa días calendario a partir de la fecha de la notificación, a firmar con el Ministerio de Energía y Minas el contrato de explotación de recursos geotérmicos. Dicho contrato será convenido y firmado entre el concesionario y el Ministerio de Energía y Minas y deberá contener al menos:
+Una vez notificado el interesado sobre la adjudicación de la conces10n de explotación, éste deberá, dentro de un período de noventa días calendario a partir de la fecha de la notificación, a firmar con el Ministerio de Energía y Minas el contrato de explotación de recursos geotérmicos. Dicho contrato será convenido y firmado entre el concesionario y el Ministerio de Energía y Minas y deberá contener al menos:
 
-a) Ubicación del área de la concesión y sus respectivas coordenadas U.T. M;
+a) Ubicación del área de la concesión y sus respectivas coordenadas U.T.M;
 
 b) Delimitación del reservorio geotérmico;
 

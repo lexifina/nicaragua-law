@@ -1,6 +1,6 @@
 # Artículo 83
 
-Los contratos o concesiones otorgadas bajo el imperio de leyes anteriores y que no fueren adaptados a la presente Ley no podrán:
+Los contratos o concesiones otorgados bajo el imperio de leyes anteriores y que no fueren adaptados a la presente Ley no podrán:
 
 a) Obtener prórroga de los mismos;
 
