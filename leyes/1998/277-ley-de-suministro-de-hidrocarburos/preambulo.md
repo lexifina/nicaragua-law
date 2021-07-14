@@ -1,14 +1,14 @@
-TEXTO CONSOLIDADO 2011. LEY N°. 277, LEY DE SUMINISTRO DE HIDROCARBUROS
+TEXTO CONSOLIDADO, LEY Nº. 277, LEY DE SUMINISTRO DE HIDROCARBUROS
 
-Aprobada el 26 de noviembre de 1997
+Aprobado el 11 de noviembre de 2020
 
-Publicada en La Gaceta, Diario Oficial N°. 173 del 11 de septiembre de 2012
+Publicado en La Gaceta, Diario Oficial N°. 130 del 14 de julio de 2021
 
-DIGESTO JURÍDICO DEL SECTOR ENERGÉTICO 2011
+Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero
 
-El presente texto contiene incorporadas todas las normas, reformas y derogaciones vigentes y consolidadas al 7 de julio de 2011, de la Ley No. 277, Ley de Suministro de Hidrocarburos, aprobada el 26 de noviembre de 1997, publicada en La Gaceta, Diario Oficial No. 25 del 6 de febrero de 1998, y se ordena su publicación en La Gaceta, Diario Oficial, conforme se establece en el parágrafo II del Título Preliminar del Código Civil y el Título Quinto de la Ley No. 606, Ley Orgánica del Poder Legislativo.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 11 de noviembre de 2020, de la Ley Nº. 277, Ley de Suministro de Hidrocarburos, aprobada el 26 de noviembre de 1997 y publicada en La Gaceta, Diario Oficial Nº. 25 del 6 de febrero de 1998, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario. Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1045, Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero, aprobada el 11 de noviembre de 2020.
 
-LEY No. 277
+LEY Nº. 277
 
 EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 

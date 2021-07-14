@@ -1,6 +1,8 @@
 # Artículo 28
 
-Causales de extinción de las licencias. Son causales de extinción de las Licencias y las Autorizaciones las siguientes:
+Causales de extinción de las licencias
+
+Son causales de extinción de las Licencias y las Autorizaciones las siguientes:
 
 a) Por el vencimiento del plazo de la misma.
 

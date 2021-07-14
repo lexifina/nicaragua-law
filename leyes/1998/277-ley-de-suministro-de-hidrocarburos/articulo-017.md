@@ -1,6 +1,8 @@
 # Artículo 17
 
-Requisitos para la solicitud de Autorización de Construcción de Instalaciones para hidrocarburos. Las personas naturales y jurídicas interesadas en obtener Autorización para realizar las actividades para la Construcción de Instalaciones para hidrocarburos referidas en la presente Ley, deberán presentar al Ministerio de Energía y Minas la solicitud del interesado por escrito en los formatos establecidos en el reglamento de la presente Ley, la que deberá incluir la información y requisitos siguientes:
+Requisitos para la solicitud de Autorización de Construcción de Instalaciones para hidrocarburos
+
+Las personas naturales y jurídicas interesadas en obtener Autorización para realizar las actividades para la Construcción de Instalaciones para hidrocarburos referidas en la presente Ley, deberán presentar al Ministerio de Energía y Minas la solicitud del interesado por escrito en los formatos establecidos en el reglamento de la presente Ley, la que deberá incluir la información y requisitos siguientes:
 
 a) Documentos que acrediten la representación legal del solicitante;
 

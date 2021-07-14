@@ -1,6 +1,8 @@
 # Artículo 27
 
-Cancelación de licencias. Las Licencias y las Autorizaciones serán canceladas por el Ministerio de Energía y Minas, por si o a solicitud del Ente Regulador, en los siguientes casos:
+Cancelación de licencias
+
+Las Licencias y las Autorizaciones serán canceladas por el Ministerio de Energía y Minas, por si o a solicitud del Ente Regulador, en los siguientes casos:
 
 a) Por incumplimientos graves a las disposiciones de la presente Ley, su Reglamento, normas y especificaciones técnicas y de las condiciones especiales establecidas en la Licencia o Autorización, que pongan en peligro la vida humana, la propiedad y el medio ambiente.
 

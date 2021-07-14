@@ -1,10 +1,10 @@
 # Artículo 22
 
-Vigencia y disposición de las licencias y cambios tecnológicos. La vigencia de las licencias será por períodos que oscilarán entre cinco y veinte años y estarán sujetas al tipo de actividades que realicen los agentes económicos en la cadena de suministro de hidrocarburos.
+Vigencia y disposición de las licencias y cambios tecnológicos
 
-Las licencias para los distribuidores minoristas y detallistas de Gas
+La vigencia de las licencias será por períodos que oscilarán entre cinco y veinte años y estarán sujetas al tipo de actividades que realicen los agentes económicos en la cadena de suministro de hidrocarburos.
 
-Licuado de Petróleo (GLP), será de un año.
+Las licencias para los distribuidores minoristas y detallistas de Gas Licuado de Petróleo (GLP), será de un año.
 
 Las licencias mencionadas en los dos párrafos anteriores serán clasificadas en el Reglamento de la presente Ley.
 

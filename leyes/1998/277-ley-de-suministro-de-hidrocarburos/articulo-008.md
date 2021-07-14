@@ -1,8 +1,10 @@
 # Artículo 8
 
-Autoridad de aplicación y sus funciones. La aplicación de la presente Ley corresponde al Ministerio de Energía y Minas, órgano ministerial del Estado, rector del sector energético y minero del país, que en lo sucesivo de esta Ley se podrá denominar por las siglas MEM, conforme a la Ley No. 290, Ley de Organización, Competencia y Procedimiento del Poder Ejecutivo”, sin menoscabo de las funciones de regulación y fiscalización que le corresponden al Instituto Nicaragüense de Energía, como ente regulador. El MEM, como ente rector y el INE, como ente regulador tendrán, en relación al subsector de hidrocarburos, las atribuciones y facultades siguientes:
+Autoridad de aplicación y sus funciones
 
-I. Al Ministerio de Energía y Minas le corresponde las atribuciones y facultades siguientes:
+La aplicación de la presente Ley corresponde al Ministerio de Energía y Minas, órgano ministerial del Estado, rector del sector energético y minero del país, que en lo sucesivo de esta Ley se podrá denominar por las siglas MEM, conforme a la Ley Nº. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, sin menoscabo de las funciones de regulación y fiscalización que le corresponden al Instituto Nicaragüense de Energía, como ente regulador. El MEM, como ente rector y el INE, como ente regulador tendrán, en relación al subsector de hidrocarburos, las atribuciones y facultades siguientes:
+
+l. Al Ministerio de Energía y Minas le corresponde las atribuciones y facultades siguientes:
 
 1) Elaborar, aprobar y poner en vigencia por sí o a propuesta del Ente Regulador, las normas, criterios, especificaciones y regulaciones técnicas que regirán las actividades de la cadena de suministro de hidrocarburos de conformidad con la política energética nacional, los planes indicativos y las estrategias nacionales relativos al subsector hidrocarburos;
 
@@ -18,7 +20,7 @@ I. Al Ministerio de Energía y Minas le corresponde las atribuciones y facultade
 
 7) Establecer, administrar y mantener debidamente actualizado el Sistema Nacional de Información de Hidrocarburos sobre las distintas actividades y operaciones para el monitoreo y control de la cadena de suministro de hidrocarburos en el país;
 
-8) Establecer, administrar y mantener debidamente actualizado el Registro Central de Hidrocarburos, en el cual se registrarán los titulares de licencias de Suministro de Hidrocarburos, así como las Autorizaciones para las Construcciones petroleras;
+8) Establecer, administrar y mantener debidamente actualizado el Registro Central de Hidrocarburos, en el cual se registrarán los titulares de Licencias de Suministro de Hidrocarburos, así como las Autorizaciones para las Construcciones petroleras;
 
 9) Apoyar a los inversionistas y participantes en la obtención de los permisos que sean necesarios, ante otras entidades del Poder Ejecutivo, las Municipalidades e Instituciones Autónomas del Estado para el desarrollo de las actividades del suministro de hidrocarburos; y
 
@@ -52,7 +54,7 @@ II. Al Instituto Nicaragüense de Energía le corresponde las atribuciones y fac
 
 11) Ejercer las demás funciones que le confiere la presente Ley y su Reglamento, sin menoscabo de las establecidas en las otras leyes del Sector Energético.
 
-El Instituto Nicaragüense de Energía, en el ámbito de su competencia, será el único organismo facultado por parte del Estado de las actividades, operaciones e instalaciones de la cadena de suministro de hidrocarburos. Para el cumplimiento de las atribuciones de regulación y supervisión de conformidad al ámbito de su competencia y funciones establecidas por la presente ley, el Instituto Nicaragüense de Energía podrá realizar las inspecciones necesarias e instruirá, supervisará y documentará los expedientes respectivos que a su vez deberán contar con los documentos, resultados de laboratorio de las toma de muestras, fotografías, pruebas, ensayos, así como la información y documentación pertinente, en cualquiera de las instalaciones de los participantes en la cadena de suministro de hidrocarburos.
+El Instituto Nicaragüense de Energía, en el ámbito de su competencia, será el único organismo facultado por parte del Estado de las actividades, operaciones e instalaciones de la cadena de suministro de hidrocarburos. Para el cumplimiento de las atribuciones de regulación y supervisión de conformidad al ámbito de su competencia y funciones establecidas por la presente ley, el Instituto Nicaragüense de Energía podrá realizar las inspecciones necesarias e instruirá, supervisará y documentará los expedientes respectivos que a su vez deberán contar con los documentos, resultados de laboratorio de las tomas de muestras, fotografías, pruebas, ensayos, así como la información y documentación pertinente, en cualquiera de las instalaciones de los participantes en la cadena de suministro de hidrocarburos.
 
 De las actividades realizadas por las autoridades, sus funcionarios y agentes del Instituto Nicaragüense de Energía, estos deberán levantar el o las actas informativas correspondientes, las que deben de contener las recomendaciones de estricto y obligatorio cumplimiento con los plazos indicados. Se le entregará el original al titular de la Licencia por medio de su representante legal o por medio de quien haya atendido la inspección en su lugar.
 

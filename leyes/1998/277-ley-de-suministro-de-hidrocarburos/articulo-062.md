@@ -1,3 +1,5 @@
 # Artículo 62
 
-Transporte de hidrocarburos por usuarios finales. Quedan exentos los productores agropecuarios, avícolas, industria de la construcción y consumidores finales, que en sus propios medios de transporte o en aquellos que pertenezcan a terceros, de la prohibición de transportación de hidrocarburos establecida en la presente Ley, cuando sean necesarios para el desarrollo de las actividades propias y de interés productivo o personal, para lo cual únicamente bastará la presentación de la factura de compra en la Estación de Servicio, siempre y cuando no implique actividades con fines comerciales del mismo producto.
+Transporte de hidrocarburos por usuarios finales
+
+Quedan exentos los productores agropecuarios, avícolas, industria de la construcción y consumidores finales, que en sus propios medios de transporte o en aquellos que pertenezcan a terceros, de la prohibición de transportación de hidrocarburos establecida en la presente Ley, cuando sean necesarios para el desarrollo de las actividades propias y de interés productivo o personal, para lo cual únicamente bastará la presentación de la factura de compra en la Estación de Servicio, siempre y cuando no implique actividades con fines comerciales del mismo producto.

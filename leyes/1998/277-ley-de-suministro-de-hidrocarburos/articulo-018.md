@@ -1,3 +1,3 @@
 # Artículo 18
 
-Derogado.
+Sin Vigencia.

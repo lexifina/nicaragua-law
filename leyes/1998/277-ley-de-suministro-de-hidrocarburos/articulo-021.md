@@ -1,3 +1,3 @@
 # Artículo 21
 
-Derogado.
+Sin Vigencia.

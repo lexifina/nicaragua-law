@@ -1,6 +1,8 @@
 # Artículo 52
 
-Uso potencial de terceros. Se establece el uso potencial por terceros, de las facilidades disponibles, no usadas o con capacidad parcialmente usada, de los titulares de licencias. Los titulares de licencias que lo soliciten al ente regulador, negociarán el servicio de las capacidades disponibles con los propietarios y/o operadores de instalaciones que tengan la capacidad para transporte por ductos y almacenamiento de hidrocarburos y para las cuales no existen razones económicas o técnicas que lo impidan. Para dicha negociación se establecen las siguientes condiciones y procedimientos:
+Uso potencial de terceros
+
+Se establece el uso potencial por terceros, de las facilidades disponibles, no usadas o con capacidad parcialmente usada, de los titulares de Licencias. Los titulares de Licencias que lo soliciten al ente regulador, negociarán el servicio de las capacidades disponibles con los propietarios y/o operadores de instalaciones que tengan la capacidad para transporte por ductos y almacenamiento de hidrocarburos y para las cuales no existen razones económicas o técnicas que lo impidan. Para dicha negociación se establecen las siguientes condiciones y procedimientos:
 
 1) El interesado deberá ser titular de Licencia o solicitante de Licencia, para la actividad respectiva, según lo establecido en la presente Ley;
 

@@ -1,6 +1,8 @@
 # Artículo 1
 
-La presente Ley tiene como objeto establecer el régimen legal para las actividades, los participantes y las instalaciones que forman parte de la cadena de suministro de hidrocarburos en el país. La aplicación de la presente Ley está orientada a asegurar:
+La presente Ley tiene como objeto establecer el régimen legal para las actividades, los participantes y las instalaciones que forman parte de la cadena de suministro de hidrocarburos en el país.
+
+La aplicación de la presente Ley está orientada a asegurar:
 
 a) Que el suministro de hidrocarburos sea continuo, eficiente, seguro, adecuado y económico para el país y los consumidores.
 
