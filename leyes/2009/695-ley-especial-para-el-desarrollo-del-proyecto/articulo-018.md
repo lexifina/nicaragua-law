@@ -1,13 +1,23 @@
 # Artículo 18
 
-Conexiones de Transmisión de Energía. Serán a cargo y cuenta de El Desarrollador de El Proyecto el financiamiento y la construcción de las obras del Sistema Secundario de Transmisión (SST), que resulte necesario para que el Proyecto Hidroeléctrico Tumarin se conecte al Sistema Nacional de Transmisión (SNT); las referidas inversiones serán reconocidas en el precio de compra venta de potencia y energía, lo que será negociado por la Comisión Negociadora.
+Conexiones de Transmisión de Energía e Infraestructura de Transporte
 
-También será obligación de El Desarrollador realizar las obras de refuerzo que sean necesarios en el Sistema Nacional de Transmisión (SNT), sean estas en subestaciones, líneas o cualquier otra instalación, para asegurar que la producción del Proyecto Hidroeléctrico Tumarin tenga un acceso físico y comercial adecuado y seguro, sea para el Mercado Eléctrico Nacional (MEN), como para el Mercado Eléctrico Regional (MER). El Instituto Nicaragüense de Energía (INE), reconocerá la inversión realizada en los reforzamientos del Sistema Nacional de Transmisión (SNT), autorizando su traslado a la Tarifa de Peaje.
+Con la finalidad de beneficiar al consumidor final a través de la moderación tarifaria, será responsabilidad del Estado de la República de Nicaragua, por medio de la instancia que él determine o a quien corresponda:
 
-De acuerdo con la Normativa de Transporte establecida en la Resolución 04-2000, El Desarrollador deberá de pagar, en concepto de remuneración a la Empresa Nacional de Transmisión Eléctrica (ENATREL) lo siguiente:
+a) La realización de las obras de refuerzo que sean necesarias en el Sistema Nacional de Transmisión (SNT), sean estas en subestaciones, líneas, equipos de compensación reactiva o cualquier otro equipo o instalación del SNT, para asegurar que la producción del Proyecto Hidroeléctrico Tumarín tenga un acceso físico y comercial adecuado y seguro, sea para el Mercado Eléctrico Nacional, como para el Mercado Eléctrico Regional; y,
 
-1. Los Costos Reconocidos de Operación y Mantenimiento (CROM), autorizado por el INE en la determinación de la Remuneración Anual General (RAG); y
+b) La verificación, adecuación, reforzamiento y mantenimiento de las obras de infraestructura vial y mantenimiento de la infraestructura portuaria necesaria para garantizar la ejecución de las actividades de El Desarrollador durante todo el período de vigencia de la Licencia de Generación.
 
-2. El Costo de Funcionamiento del Centro Nacional del Despacho de Carga (CNDC).
+Con relación a los literales a) y b), la ejecución deberá efectuarse dentro de los plazos y condiciones que no afecten el cumplimiento del CEP. Con relación al literal a), la inversión de estas obras será reconocida conforme la Remuneración Anual General de la Empresa Nacional de Transmisión Eléctrica descrita en la normativa de transporte. Con relación al literal b), El Desarrollador tendrá libre tránsito y paso durante todo el período de vigencia de la Licencia de Generación que le permita el eficiente tránsito para el cumplimiento de objeto de desarrollo de El Proyecto.
 
-El Desarrollador de El Proyecto recibirá de parte de la Empresa Nacional de Transmisión Eléctrica (ENATREL), un monto mensual para reembolsar el costo de las obras de reforzamiento del Sistema Nacional de Transmisión (SNT), recibidas a satisfacción por la Empresa de Transmisión Eléctrica (ENATREL), calculado en base a las inversiones hechas y a una tasa de descuento a aplicarse durante la vida útil de las mismas, todo debidamente autorizado por el Instituto Nicaragüense de Energía (INE).
+El Desarrollador deberá elaborar el Estudio de Impacto a la Red y aquellos otros estudios y análisis solicitados por ENATREL para garantizar la correcta conexión de El Proyecto al Sistema Nacional de Transmisión (SNT). Si, del resultado de esos estudios eléctricos basados en las características técnicas de los equipos a ser instalados por El Desarrollador, se concluye a criterio de ENATREL que El Desarrollador debe tomar las medidas para garantizar la correcta conexión y operación de El Proyecto a fin de no afectar la entrega de energía y la seguridad operativa del SIN, siempre que las mismas sean en la bahía de la subestación Mulukukú y en la Central Hidroeléctrica Tumarín, estas serán asumidas por El Desarrollador.
+
+La CONEPHIT establecerá las reglas de compensación a El Desarrollador en el caso de eventuales costos generados por retrasos en la construcción de la infraestructura que sean necesarios al desarrollo de El Proyecto y no esté bajo la responsabilidad de El Desarrollador; así como los atrasos imputables a El Desarrollador.
+
+Será responsabilidad de El Desarrollador, además de las obras establecidas en el Artículo 4 de la presente Ley, la ejecución de las siguientes infraestructuras:
+
+1) La construcción de las obras del sistema secundario de transmisión, que incluye la longitud total de dos líneas simples de transmisión independientes, en 230 kilovoltios (kV) entre las subestaciones Tumarín y Mulukukú con sus respectivas bahías de conexión con el Sistema Nacional de Transmisión (SNT), conforme diseños aprobados por la Empresa Nacional de Transmisión Eléctrica, (ENATREL);
+
+2) La construcción del tramo de carretera en su longitud total que comunicará el poblado de San Pedro del Norte con el sitio de construcción de la Central Hidroeléctrica Tumarín y de los puentes necesarios en el referido tramo, conforme diseños aprobados por el Ministerio de Transporte e Infraestructura, (MTI).
+
+El punto de entrega de la energía del Proyecto Hidroeléctrico Tumarín será la subestación ubicada en Mulukukú.

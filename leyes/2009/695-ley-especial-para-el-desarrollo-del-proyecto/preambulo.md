@@ -1,10 +1,14 @@
-LEY N°. 695, LEY ESPECIAL PARA EL DESARROLLO DEL PROYECTO HIDROELÉCTRICO TUMARÍN
+TEXTO CONSOLIDADO, LEY Nº. 695, LEY ESPECIAL PARA EL DESARROLLO DEL PROYECTO HIDROELÉCTRICO TUMARÍN
 
-Aprobada el 01 de julio de 2009
+Aprobado el 11 de noviembre de 2020
 
-Publicada en La Gaceta, Diario Oficial N°. 140 del 28 de julio de 2009
+Publicado en La Gaceta, Diario Oficial N°. 130 del 14 de julio de 2021
 
-LEY No. 695
+Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 11 de noviembre de 2020, de la Ley Nº. 695, Ley Especial para el Desarrollo del Proyecto Hidroeléctrico Tumarín, aprobada el 01 de julio de 2009 y publicada en La Gaceta, Diario Oficial Nº. 140 del 28 de julio de 2009, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1045, Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero, aprobada el 11 de noviembre de 2020.
+
+Ley Nº. 695
 
 El Presidente de la República de Nicaragua
 
@@ -24,13 +28,13 @@ II
 
 Que es obligación y responsabilidad del Estado promover, facilitar y regular la prestación de los servicios públicos básicos en cualquiera de sus modalidades, entre los que se incluye la energía eléctrica como uno de los elementos fundamentales y primordiales, para asegurar calidad de vida y bienestar de la población; siendo la energía eléctrica la base esencial para el desarrollo sostenible del país.
 
-II
+III
 
-Que para el Estado es inexcusable aplazar el desarrollo de proyectos de generación eléctrica a base de la utilización sostenible de los recursos renovables del país, que favorezcan la transformación de la actual matriz de generación eléctrica la cual durante el año dos mil ocho, se distribuía en un sesenta y seis por ciento (66%) a base de fuentes térmicas, búnker y diesel, un diecisiete punto seis por ciento (17.6%) a base de plantas hidroeléctricas y un dieciséis punto cuatro por ciento (16.4%) proviene de plantas geotérmicas y biomasa. Es indispensable a los intereses nacionales el impulso de proyectos hidroeléctricos como el Proyecto Tumarín, que además de coadyuvar en el cambio de la matriz de generación, contribuirá a superar la crisis energética declarada en la Ley No. 554 "Ley de Estabilidad Energética" y sus Reformas, por lo que el desarrollo de este Proyecto Hidroeléctrico debe ser considerado y declarado de interés nacional y social.
+Que para el Estado es inexcusable aplazar el desarrollo de proyectos de generación eléctrica a base de la utilización sostenible de los recursos renovables del país, que favorezcan la transformación de la actual matriz de generación eléctrica la cual durante el año dos mil ocho, se distribuía en un sesenta y seis por ciento (66%) a base de fuentes térmicas, búnker y diesel, un diecisiete punto seis por ciento (17.6%) a base de plantas hidroeléctricas y un dieciséis punto cuatro por ciento (16.4%) proviene de plantas geotérmicas y biomasa. Es indispensable a los intereses nacionales el impulso de proyectos hidroeléctricos como el Proyecto Tumarín, que además de coadyuvar en el cambio de la matriz de generación, contribuirá a superar la crisis energética declarada en la Ley Nº. 554 "Ley de Estabilidad Energética" y sus Reformas, por lo que el desarrollo de este Proyecto Hidroeléctrico debe ser considerado y declarado de interés nacional y social.
 
 IV
 
-Que al tenor de los preceptos Constitucionales de la República nicaragüenses, los recursos naturales son patrimonio nacional. La preservación del ambiente y la conservación, su desarrollo y explotación racional de los recursos naturales, corresponde al Estado a través de convenios de explotación y contratos con empresas, nacionales o extranjeras, públicas, privadas, o mixtas, por lo que es deber del Estado asegurar el desarrollo energético del país usando los recursos naturales renovables, garantizando el uso racional y sostenible de los mismos y presentando soluciones estructurales permanentes para la generación de electricidad constante, mediante el estímulo para desarrollar energía limpia y eficiente, utilizando prioritariamente fuentes renovables que contribuyan a disminuir los costos, a precios razonables al consumidor y competitivos, que además contribuyan a disminuir la contaminación y otros efectos nocivos sobre el medio ambiente, sobre todo que asegure el desarrollo sostenible del país a mediano y largo plazo, produciendo ahorro de divisas y con impactos positivos en el desarrollo económico y social de la nación por medio de proyectos que transmitan confianza a la población en general, así como a los diversos sectores productivos e inversionistas sean estos nacionales o extranjeros.
+Que al tenor de los preceptos Constitucionales de la República Nicaragüense, los recursos naturales son patrimonio nacional. La preservación del ambiente y la conservación, su desarrollo y explotación racional de los recursos naturales, corresponde al Estado a través de convenios de explotación y contratos con empresas, nacionales o extranjeras, públicas, privadas, o mixtas, por lo que es deber del Estado asegurar el desarrollo energético del país usando los recursos naturales renovables, garantizando el uso racional y sostenible de los mismos y presentando soluciones estructurales permanentes para la generación de electricidad constante, mediante el estímulo para desarrollar energía limpia y eficiente, utilizando prioritariamente fuentes renovables que contribuyan a disminuir los costos, a precios razonables al consumidor y competitivos, que además contribuyan a disminuir la contaminación y otros efectos nocivos sobre el medio ambiente, sobre todo que asegure el desarrollo sostenible del país a mediano y largo plazo, produciendo ahorro de divisas y con impactos positivos en el desarrollo económico y social de la nación por medio de proyectos que transmitan confianza a la población en general, así como a los diversos sectores productivos e inversionistas sean estos nacionales o extranjeros.
 
 V
 
@@ -50,4 +54,4 @@ En uso de sus facultades
 
 Ha ordenado la siguiente:
 
-LEY ESPECIAL PARA EL DESARROLLO DEL PROYECTO HIDROELÉCTRICO TUMARIN
+LEY ESPECIAL PARA EL DESARROLLO DEL PROYECTO HIDROELÉCTRICO TUMARÍN
