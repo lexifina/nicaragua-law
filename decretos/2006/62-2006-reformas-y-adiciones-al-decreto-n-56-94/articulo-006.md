@@ -1,3 +1,3 @@
 # Artículo 6
 
-La Dirección General de Hidrocarburos del INE notificará al interesado de la aprobación o del rechazo de la solicitud de la licencia dentro de un período no mayor de treinta (30) días hábiles a partir de la recepción de la misma. Cuando se trate de la solicitud de la autorización a que se refiere el artículo 2, el período máximo de notificación será de noventa (90) días hábiles. En caso de que el interesado no sea notificado dentro del período correspondiente, podrá recurrir ante el Consejo de Dirección del INE quien tendrá un plazo de quince (15) días hábiles para resolver. Si no lo hiciere, se tendrá por aprobada la solicitud.
+Derogado.

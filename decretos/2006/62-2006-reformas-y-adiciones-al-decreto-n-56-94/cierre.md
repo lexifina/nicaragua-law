@@ -1,7 +1,9 @@
 Dado en la ciudad de Managua, Casa de la Presidencial, el día veintiséis de septiembre del año dos mil seis. Enrique Bolaños Geyer, Presidente de la República de Nicaragua.
 
-NOTA DE CONSOLIDACIÓN. Este texto contiene la reforma integral del Decreto 56-94, Reglamento para la Distribución y Comercialización de Hidrocarburos, publicado en La Gaceta, Diario Oficial No. 240 del 22 de diciembre de 1994 e incorpora las modificaciones producidas por el Decreto 56-2010, “Reforma al Decreto No. 56-94, Reglamento para la Importación y Comercialización de Hidrocarburos y su Reforma Contenida en el Decreto No. 62-2006”, publicado en La Gaceta, Diario Oficial No. 163 del 26 de agosto de 2010.
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por: 1. Decreto Ejecutivo Nº. 56-2010, Reforma al Decreto Nº. 56-94, Reglamento para la Importación y Comercialización de Hidrocarburos y su Reforma contenida en el Decreto Nº. 62-2006, publicado en La Gaceta, Diario Oficial Nº. 163 del 26 de agosto de 2010; y 2. Decreto Ejecutivo Nº. 50-2014, Reforma al Decreto Nº. 62-2006, "Reformas y Adiciones al Decreto Nº. 56-94, Reglamento para la Importación y Comercialización de Hidrocarburos", publicado en La Gaceta, Diario Oficial Nº. 10 del 16 de enero de 2015.
 
-Dado en la ciudad de Managua, en el Salón de Sesiones de la Asamblea Nacional, a los siete días del mes de julio del año dos mil once.- Ing. René Núñez Téllez, Presidente de la Asamblea Nacional. Dr. Wilfredo Navarro, Secretario de la Asamblea Nacional.
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los once días del mes de noviembre del año dos mil veinte. Dip. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+
+Observación: El Texto Consolidado, Decreto Ejecutivo N°. 62-2006, Reformas y Adiciones al Decreto Nº. 56-94, Reglamento para la Importación y Comercialización de Hidrocarburos, se encuentra incorporado en el Anexo IV Registro de Normas Consolidadas de la Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero.
 
 .

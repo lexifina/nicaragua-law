@@ -1,8 +1,8 @@
 # Artículo 7
 
-El INE será el organismo responsable de la aplicación del presente Decreto a través de la Dirección General de Hidrocarburos. EI INE, a esos efectos, tendrá las siguientes atribuciones:
+El INE será el organismo responsable de la aplicación del presente Decreto a través de la Dirección General de Hidrocarburos. El INE, a esos efectos, tendrá las siguientes atribuciones:
 
-a) Otorgar las licencias y autorizaciones a las que se refieren los artículos 1 y 2 del presente Decreto.
+a) Derogado.
 
 b) Calcular y publicar los precios máximos al consumidor final del Gas Licuado de Petróleo de acuerdo a lo dispuesto en el presente Decreto.
 
@@ -14,4 +14,4 @@ e) Aplicar las sanciones correspondientes por violaciones al presente Decreto y 
 
 f) Emitir las normas administrativas y técnicas complementarias para la aplicación del presente Decreto.
 
-g) Mantener actualizado un Sistema de Información Agregada, sobre las actividades de importación y exportación, ventas, inventarios y precios de facturación de los derivados del petróleo, para el monitoreo y evaluación del abastecimiento de hidrocarburos en el país.
+g) Derogado.

@@ -1,16 +1,16 @@
-TEXTO CONSOLIDADO 2011, DECRETO EJECUTIVO N°. 62-2006, REFORMAS Y ADICIONES AL DECRETO N°. 56-94, REGLAMENTO PARA LA IMPORTACIÓN Y COMERCIALIZACIÓN DE HIDROCARBUROS
+TEXTO CONSOLIDADO, DECRETO EJECUTIVO Nº. 62-2006, REFORMAS Y ADICIONES AL DECRETO Nº. 56-94, REGLAMENTO PARA LA IMPORTACIÓN Y COMERCIALIZACIÓN DE HIDROCARBUROS
 
-DECRETO EJECUTIVO N°. 62-2006, aprobado el 07 de julio 2011
+DECRETO EJECUTIVO Nº. 62-2006, aprobado el 11 de noviembre de 2020
 
-Publicado en La Gaceta, Diario Oficial N°. 177 del 18 de septiembre de 2012
+Publicado en La Gaceta, Diario Oficial N°. 130 del 14 de julio de 2021
 
-Digesto Jurídico del Sector Energético 2011.
+Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero
 
-El presente texto contiene incorporadas todas las normas, reformas y derogaciones vigentes y consolidadas al 7 de julio de 2011, del Decreto No. 62-2006, Reformas y Adiciones al Decreto No. 56-94, Reglamento para la Importación y Comercialización de Hidrocarburos, aprobado el 26 de septiembre de 2006, publicado en La Gaceta, Diario Oficial No. 191 del 3 de octubre de 2006, y se ordena su publicación en La Gaceta, Diario Oficial, conforme se establece en el parágrafo II del Título Preliminar del Código Civil y el Título Quinto de la Ley No. 606, Ley Orgánica del Poder Legislativo.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 11 de noviembre de 2020, del Decreto Ejecutivo Nº. 62-2006, Reformas y Adiciones al Decreto Nº. 56-94, Reglamento para la Importación y Comercialización de Hidrocarburos, aprobado el 26 de septiembre de 2006 y publicado en La Gaceta, Diario Oficial Nº. 191 del 3 de octubre de 2006, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1045, Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero, aprobada el 11 de noviembre de 2020.
 
-DECRETO No. 62-2006
+DECRETO Nº. 62-2006
 
-EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA,
 
 CONSIDERANDO
 
@@ -24,7 +24,7 @@ Que desde el año 1992 con la promulgación del Decreto 25-95 que reforma la Ley
 
 III
 
-Que con la promulgación del Decreto No. 106-99 del 30 de agosto de 1999, publicado en La Gaceta, Diario Oficial No. 170 de 16 de septiembre de 1999, se liberó el Sistema de Precios de Paridad de Importación de Derivados del Petróleo, en lo relacionado a Gasolina, Diesel y Kerosene, exceptuando de esta derogación lo referido al Gas Licuado de Petróleo (G.L.P).
+Que con la promulgación del Decreto Nº. 106-99 del 30 de agosto de 1999, publicado en La Gaceta, Diario Oficial Nº. 170 de 16 de septiembre de 1999, se liberó el Sistema de Precios de Paridad de Importación de Derivados del Petróleo, en lo relacionado a Gasolina, Diésel y Kerosene, exceptuando de esta derogación lo referido al Gas Licuado de Petróleo (G.L.P).
 
 IV
 
@@ -36,7 +36,7 @@ Que es responsabilidad del Estado, garantizar la seguridad, continuidad y confia
 
 VI
 
-Que el artículo 52 de la Ley No. 277, Ley de Suministro de Hidrocarburos, publicada en La Gaceta, Diario Oficial No. 25 del 6 de febrero de 1998, faculta al Presidente de la República para derogar o reformar el Sistema de Precios de Paridad de Importación de Hidrocarburos mientras se trasmita a un sistema de total de libre mercado.
+Que el Artículo 52 de la Ley Nº. 277, Ley de Suministro de Hidrocarburos, publicada en La Gaceta, Diario Oficial Nº. 25 del 6 de febrero de 1998, faculta al Presidente de la República para derogar o reformar el Sistema de Precios de Paridad de Importación de Hidrocarburos mientras se trasmita a un sistema de total de libre mercado.
 
 En uso de sus facultades que le confiere la Constitución Política,
 
@@ -44,4 +44,4 @@ El siguiente:
 
 DECRETO
 
-REFORMAS Y ADICIONES AL DECRETO No. 56-94, REGLAMENTO PARA LA IMPORTACIÓN Y COMERCIALIZACIÓN DE HIDROCARBUROS
+REFORMAS Y ADICIONES AL DECRETO Nº. 56-94, REGLAMENTO PARA LA IMPORTACIÓN Y COMERCIALIZACIÓN DE HIDROCARBUROS
