@@ -1,6 +1,6 @@
 # Artículo 101
 
-Oposición.
+Oposición
 
 El dueño del predio sirviente podrá oponerse a la imposición de las Servidumbres en los siguientes casos:
 

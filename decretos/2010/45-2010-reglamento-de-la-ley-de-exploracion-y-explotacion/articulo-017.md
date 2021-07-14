@@ -1,6 +1,6 @@
 # Artículo 17
 
-Término de duración de la Concesión de Exploración.
+Término de duración de la Concesión de Exploración
 
 El término de duración de la Concesión de Exploración de Recursos Geotérmicos, en ningún caso podrá ser mayor de tres años, este término iniciará a partir de la fecha del otorgamiento de la misma.
 

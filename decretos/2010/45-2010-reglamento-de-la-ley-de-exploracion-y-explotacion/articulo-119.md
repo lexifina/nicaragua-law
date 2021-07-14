@@ -1,6 +1,6 @@
 # Artículo 119
 
-Rangos de las Multas.
+Rangos de las Multas
 
 Para los efectos del Artículo que antecede, se establecen los siguientes rangos:
 
@@ -16,7 +16,7 @@ Para los efectos del Artículo que antecede, se establecen los siguientes rangos
 
 6. Impedir o dificultar las labores efectuadas por las autoridades del MEM de velar por el cumplimiento de las normas y disposiciones en la Ley y el Reglamento, de US$ 10.000.00 a US$ 30,000.00 por cada vez.
 
-7. Por incumplimiento de las regulaciones, normas y especificaciones técnicas debidamente aprobados por el MEM, de US$ 10,000.00 a US$ 100.000.00
+7. Por incumplimiento de las regulaciones, normas y especificaciones técnicas debidamente aprobados por el MEM, de US$ 10,000.00 a US$ 100.000.00.
 
 8. Incumplimiento o retardo en la entrega de la información requerida por el MEM, de US$ 10,000.00 a US$ 100,000.00.
 

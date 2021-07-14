@@ -1,8 +1,8 @@
 # Artículo 3
 
-Definiciones.
+Definiciones
 
-Sin perjuicio de las definiciones establecidas en el artículo 6 de la Ley, para efectos del presente Reglamento se adoptarán las siguientes definiciones:
+Sin perjuicio de las definiciones establecidas en el Artículo 6 de la Ley, para efectos del presente Reglamento se adoptarán las siguientes definiciones:
 
 CASO FORTUITO: Es todo daño o accidente o cualquier tipo de acontecimiento que proviene de la naturaleza que no haya podido ser previsto por el hombre, o que previstos, sean inevitables, tales como, pero no limitados a: naufragio, huracanes, incendios, inundaciones, terremotos, erupciones volcánicas, torrentes, sequías, granizo, fuego, rayos y otros desastres naturales de igual o parecida índole que sean de tal naturaleza que demoren, restrinjan o impidan la realización de cualquier acción oportuna o la prestación de cualquier obligación del Concesionario conforme los términos de la Ley y este Reglamento.
 
@@ -18,7 +18,7 @@ FUERZA MAYOR: Es toda situación producida por hechos del hombre, los cuales no 
 
 INE: Es el Instituto Nicaragüense de Energía.
 
-MEM: Es el Ministerio de Energía y Minas
+MEM: Es el Ministerio de Energía y Minas.
 
 PLAN DE INVERSIONES: Documento que presenta el monto total de la inversión a realizar por la concesionaria durante la ejecución del cronograma de inversiones, detallado en actividades y sub actividades.
 

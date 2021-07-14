@@ -1,8 +1,8 @@
 # Artículo 34
 
-Derechos del Estado.
+Derechos del Estado
 
-Si el Concesionario no hiciere uso de su derecho Inherente y Preferente para optar a la Concesión de Explotación, a que se refiere el artículo 24 de este Reglamento dentro del plazo y términos en él señalados, deberá dentro de los sesenta días, posteriores a la expiración del plazo para hacer uso de ese derecho, traspasar a propiedad del Estado y bajo el control del MEM, todos los datos obtenidos y estudios efectuados en el área de exploración.
+Si el Concesionario no hiciere uso de su Derecho Inherente y Preferente para optar a la Concesión de Explotación, a que se refiere el Artículo 24 de este Reglamento dentro del plazo y términos en él señalados, deberá dentro de los sesenta días, posteriores a la expiración del plazo para hacer uso de ese derecho, traspasar a propiedad del Estado y bajo el control del MEM, todos los datos obtenidos y estudios efectuados en el área de exploración.
 
 Dichos estudios deberán contener así mismo, todo dato relativo a cualquier otra riqueza o recurso natural distinta del objeto de la Concesión que hubiere encontrado el Concesionario en el curso de sus investigaciones o exploración. Se consideran no terminadas las obligaciones del Concesionario para con el Estado, mientras no transfiera los estudios o datos a que se refiere este artículo.
 

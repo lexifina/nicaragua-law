@@ -1,8 +1,8 @@
 # Artículo 90
 
-Tasas Mínimas del Canon de Superficie.
+Tasas Mínimas del Canon de Superficie
 
-Se establecen las siguientes tasas mínimas anuales en concepto de Canon, por el derecho de Área por kilómetro cuadrado concedido en la Concesión de Exploración o Explotación al que hace mención el artículo 66 de la Ley.
+Se establecen las siguientes tasas mínimas anuales en concepto de Canon, por el derecho de Área por kilómetro cuadrado concedido en la Concesión de Exploración o Explotación al que hace mención el Artículo 66 de la Ley.
 
 Canon Superficial:
 
@@ -10,7 +10,7 @@ a)
 
 Concesión de Exploración
 
-U$/km2
+U$/km 2
 
 Primer y Segundo año
 
@@ -24,7 +24,7 @@ b)
 
 Concesión de Explotación
 
-U$/km2
+U$/km 2
 
 Primer y Segundo año
 
@@ -34,8 +34,6 @@ Tercer y Cuarto año
 
 400
 
-> 5 años
+≥ 5 años 750
 
-750
-
-A estas tasas o las que se acuerden en el Contrato, se le aplicará el índice de inflación del “Consumer Price Index”, conforme a la publicación oficial de la Secretaría de Comercio de los Estados Unidos de América. El MEM revisará la tasa cada dos años.
+A estas tasas o las que se acuerden en el Contrato, se le aplicará el índice de inflación del "Consumer Price Index", conforme a la publicación oficial de la Secretaria de Comercio de los Estados Unidos de América. El MEM revisará la tasa casa dos años.

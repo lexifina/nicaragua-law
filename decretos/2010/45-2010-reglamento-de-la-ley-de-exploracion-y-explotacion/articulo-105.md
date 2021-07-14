@@ -1,6 +1,6 @@
 # Artículo 105
 
-Parámetros para fijar la Indemnización.
+Parámetros para fijar la Indemnización
 
 El dueño del predio sirviente tendrá derecho a que se le pague:
 

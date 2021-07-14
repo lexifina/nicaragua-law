@@ -1,6 +1,6 @@
 # Artículo 66
 
-Solicitud de Cesión.
+Solicitud de Cesión
 
 El Concesionario deberá presentar Solicitud de cesión de la Concesión la cual deberá ir acompañada de los documentos e información señalada en el correspondiente formato de Concesión.
 

@@ -1,8 +1,8 @@
 # Artículo 8
 
-Contenido de la Solicitud.
+Contenido de la Solicitud
 
-La Solicitud será presentada conforme a los formatos proporcionados por el MEM, debiendo contener además de lo prescrito en el artículo 16 de la Ley, la siguiente información:
+La Solicitud será presentada conforme a los formatos proporcionados por el MEM, debiendo contener además de lo prescrito en el Artículo 16 de la Ley, la siguiente información:
 
 I. PERSONA NATURAL:
 
@@ -26,8 +26,6 @@ II. PERSONA JURÍDICA:
 
 3. Objeto de la Sociedad.
 
-4. Nombres y generales de Ley del Representante Legal domiciliado en el país.
+4. Nombres y generales de ley del Representante Legal domiciliado en el país.
 
-5. Dirección para recibir notificaciones en la ciudad de Managua.
-
-En ambos casos se deberá señalar lugar, fecha, objeto, indicación exacta del área y firma de la solicitud.
+5. Dirección para recibir notificaciones en la ciudad de Managua. En ambos casos se deberá señalar lugar, fecha, objeto, indicación exacta del área y firma de la solicitud.

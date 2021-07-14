@@ -1,6 +1,6 @@
 # Artículo 122
 
-Recurso.
+Recurso
 
 Una vez enterado el importe, el Concesionario podrá recurrir de Apelación por la imposición de la multa ante la máxima autoridad, en un plazo no mayor de tres días hábiles a partir de la fecha de pago. Esta Apelación deberá ser resuelta en un plazo no mayor de quince días hábiles.
 

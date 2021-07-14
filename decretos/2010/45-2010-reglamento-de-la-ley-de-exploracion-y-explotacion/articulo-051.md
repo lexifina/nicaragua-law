@@ -1,6 +1,6 @@
 # Artículo 51
 
-Procedimiento para la Extinción de la Concesión.
+Procedimiento para la Extinción de la Concesión
 
 Por Vencimiento del Plazo:
 
@@ -12,8 +12,8 @@ Para efectos de la renuncia expresa de la Concesión por el Concesionario, en un
 
 Por Caducidad:
 
-Para efectos de la Caducidad de la Concesión se aplicará el procedimiento establecido en los artículos 40, 41, 42 y 45 de la Ley.
+Para efectos de la Caducidad de la Concesión se aplicará el procedimiento establecido en los Artículos 40, 41, 42 y 45 de la Ley.
 
-Pro Cancelación:
+Por Cancelación:
 
-Previo a la Cancelación de la Concesión, el MEM procederá a la investigación y a la comprobación de los hechos, con participación del interesado por un periodo de treinta días. Concluida la investigación, el MEM resolverá lo que conforme a derecho corresponda, debiendo notificar el Acuerdo al Concesionario.
+Previo a la Cancelación de la Concesión, el MEM procederá a la investigación y a la comprobación de los hechos, con participación del interesado por un período de treinta días. Concluida la investigación, el MEM resolverá lo que conforme a derecho corresponda, debiendo notificar el Acuerdo al Concesionario.

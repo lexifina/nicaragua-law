@@ -1,6 +1,6 @@
 # Artículo 25
 
-Contenido de la Solicitud del Derecho Inherente y Preferente.
+Contenido de la Solicitud del Derecho Inherente y Preferente
 
 El Concesionario que haga uso de su derecho Inherente y Preferente, deberá presentar su Solicitud acompañada de un Programa de Desarrollo detallado del primer quinquenio de operación de campo o reservorio, en los términos previstos en la Ley, este Reglamento, el Contrato y las Normativas Técnicas y presentar la documentación legal y financiera pertinente, que permita conocer la situación actualizada de la empresa.
 

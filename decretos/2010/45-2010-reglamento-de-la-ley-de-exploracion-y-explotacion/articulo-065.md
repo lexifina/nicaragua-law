@@ -1,6 +1,6 @@
 # Artículo 65
 
-Requisitos de la Cesión.
+Requisitos de la Cesión
 
 Para la aprobación de la cesión total o parcial, de una Concesión, se deberá cumplir con los siguientes requisitos:
 

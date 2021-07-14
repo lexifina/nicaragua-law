@@ -1,6 +1,6 @@
 # Artículo 26
 
-Programa de Desarrollo.
+Programa de Desarrollo
 
 El Programa de Desarrollo tendrá como mínimo, lo siguiente:
 
@@ -12,7 +12,7 @@ El Programa de Desarrollo tendrá como mínimo, lo siguiente:
 
 4. Informe de evaluación del potencial geotérmico del campo y predicción del comportamiento del yacimiento.
 
-5. Copia de Solicitud del Permiso Ambiental y los Términos de Referencia del Estudio de Impacto ambiental emitidos por MARENA.
+5. Copia de Solicitud del Permiso Ambiental y los Términos de Referencia del Estudio de Impacto Ambiental emitidos por MARENA.
 
 6. Equipo que sea necesario y apropiado para permitir el aprovechamiento adecuado del área de explotación.
 

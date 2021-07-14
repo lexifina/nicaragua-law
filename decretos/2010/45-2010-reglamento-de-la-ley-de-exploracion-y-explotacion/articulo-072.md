@@ -1,6 +1,6 @@
 # Artículo 72
 
-Objeciones del MEM.
+Objeciones del MEM
 
 Dentro de los sesenta (60) días de recibido el Programa, el MEM puede presentar las objeciones que considere pertinentes, debiendo notificarlas al Concesionario por escrito especificando cada una de ellas.
 

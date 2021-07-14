@@ -1,6 +1,6 @@
 # Artículo 7
 
-Garantía de Mantenimiento de Solicitud.
+Garantía de Mantenimiento de Solicitud
 
 El Solicitante deberá de adjuntar a su Solicitud una Garantía de Mantenimiento de la misma, a favor del MEM, por un monto de cincuenta mil dólares netos de los Estados Unidos de América (U$ 50,000.00) o su equivalente en Córdobas, misma que será devuelta una vez rendida la Garantía de Cumplimiento y suscrito el Contrato respectivo.
 

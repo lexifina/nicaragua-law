@@ -1,6 +1,6 @@
 # Artículo 83
 
-Medidas Preventivas de Control y Mitigación.
+Medidas Preventivas de Control y Mitigación
 
 Toda área de Contrato deberá contar con las medidas preventivas de control y mitigación necesarias para cumplir con las normas de protección del medio ambiente, para ello el Concesionario, en el desarrollo de sus actividades, deberá tomar las medidas necesarias para la protección del medio ambiente, incluyendo la no contaminación de las aguas, la atmósfera y la tierra, sujetándose para ello a las normas que sobre el medio ambiente se dicten para el sector eléctrico y el sub-sector de Geotermia.
 

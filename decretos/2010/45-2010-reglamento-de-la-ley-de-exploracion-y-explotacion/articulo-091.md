@@ -1,8 +1,8 @@
 # Artículo 91
 
-Impuesto Anual por Vapor Producido.
+Impuesto Anual por Vapor Producido
 
-El impuesto al que hace referencia el artículo 67 de la Ley por producción de vapor del área de Concesión será el 1% del Costo del Vapor producido anualmente. Este pago será cancelado dentro de los primeros treinta (30) días de cada año y calculado de la siguiente manera:
+El impuesto al que hace referencia el Artículo 67 de la Ley por producción de vapor del área de Concesión será el 1 % del Costo del Vapor producido anualmente. Este pago será cancelado dentro de los primeros treinta (30) días de cada año y calculado de la siguiente manera:
 
 Imp
 
@@ -32,13 +32,13 @@ Pa
 
 =
 
-Po x I ACTn
+Po x IACTn
 
 Po
 
 =
 
-(lo * FRC(n,i) + Costo O&M)/Qo
+(lo * FRC (n,i) + Costo O &M)/Qo
 
 Po
 
@@ -46,19 +46,19 @@ Po
 
 Precio base
 
-lo
+Lo
 
 =
 
 Inversión base
 
-FRC(n,i)
+FRC (n,i)
 
 =
 
 Factor de recuperación de capital
 
-n
+N
 
 =
 
@@ -74,7 +74,7 @@ Costo O-M
 
 =
 
-Costo de Operación y Mantenimiento del campo geotérmico.
+Costo de Operación y Mantenimiento del campo geotérmico
 
 Qo
 
@@ -82,36 +82,36 @@ Qo
 
 Producción de vapor Nominal
 
-I ACTn
+IACTn
 
 =
 
-IPMn /IPMo
+IPMn/IPMo
 
-I ACTn
-
-=
-
-índice de actualización de precio en el año n
-
-I PMn
+IACTn
 
 =
 
-índice de precio de referencia en el año n
+Índice de actualización de precio en el año n
 
-I PMo
+IPMn
+
+=
+
+Índice de precio de referencia en el año n
+
+IPMo
 
 =
 
 Índice de precio de referencia inicial
 
-FRC(n,i)
+FRC (n, i)
 
 =
 
-donde i: (TIR)
+iX (1 +i) n
 
-n: Años
+----------- donde i: (TIR)
 
-El impuesto será efectivo a partir del quinto (5) año del inicio de la entrada en operación de la planta geotermoeléctrica o hasta en el año en que el Concesionario muestre resultados financieros con ingresos positivos de conformidad a la Legislación Fiscal vigente.
+(1+i) n-1 n: Años

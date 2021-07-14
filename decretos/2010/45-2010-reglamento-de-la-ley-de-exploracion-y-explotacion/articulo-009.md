@@ -1,10 +1,10 @@
 # Artículo 9
 
-Información Mínima de la Solicitud.
+Información Mínima de la Solicitud
 
-Para evaluar la capacidad legal, técnica y financiera del Solicitante de que habla el artículo 16 de la Ley, se adjuntará a la Solicitud como mínimo, la siguiente información:
+Para evaluar la capacidad legal, técnica y financiera del Solicitante de que habla el Artículo 16 de la Ley, se adjuntará a la Solicitud como mínimo, la siguiente información:
 
-I. Capacidad Jurídica:
+l. Capacidad Jurídica:
 
 1. Nombre completo y generales de ley del Solicitante, incluyendo nacionalidad y calidad en que actúa.
 
@@ -26,9 +26,9 @@ Para acreditar su capacidad técnica, el Solicitante deberá presentar:
 
 1. Información que demuestre su experiencia en el campo de la Exploración y la Explotación Geotérmica en los últimos diez (10) años y cualquier otra información de que tanto el Solicitante como el MEM estimen pertinente.
 
-2. Lista de países y proyectos donde el Solicitante haya realizado actividades de Exploración o Explotación de Recursos Geotérmicos, incluyendo aquellos en los que ha actuado con operador.
+2. Lista de países y proyectos donde el Solicitante haya realizado actividades de Exploración o Explotación de Recursos Geotérmicos, incluyendo aquellos en los que ha actuado como operador.
 
-3. Listado y curriculum de los principales profesionales y técnicos que serán directamente empleados por el Solicitante y que estarán a cargo de las operaciones.
+3. Listado y currículum de los principales profesionales y técnicos que serán directamente empleados por el Solicitante y que estarán a cargo de las operaciones.
 
 4. Lista de proyectos de preservación y conservación del medio ambiente en los que el Solicitante haya participado en los últimos cinco (5) años.
 
