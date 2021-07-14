@@ -1,6 +1,6 @@
 # Artículo 60
 
-Crease el Consejo de Operación que tendrá como función principal establecer y fiscalizar los aspectos técnicos para garantizar que la operación integrada del SIN sea segura, confiable y económica.
+Créase el Consejo de Operación que tendrá como función principal establecer y fiscalizar los aspectos técnicos para garantizar que la operación integrada del SIN sea segura, confiable y económica.
 
 El Consejo de Operación está integrado por Representantes de cada actividad de la industria eléctrica que integran el Sistema Interconectado Nacional de conformidad con lo establecido en el Reglamento de la presente Ley, que rige su estructura, organización y funciones.
 

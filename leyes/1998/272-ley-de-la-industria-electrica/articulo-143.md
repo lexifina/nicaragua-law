@@ -1,3 +1,3 @@
 # Artículo 143
 
-No Vigente.
+Sin vigencia.

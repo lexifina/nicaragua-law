@@ -4,8 +4,8 @@ El concesionario o titular de licencia, en el acto de suscripción del contrato 
 
 Esta garantía podrá ser retirada por el interesado sí:
 
-1)Concluyen las obras iniciales objeto de la concesión o licencia recibidas a satisfacción del Ministerio de Energía y Minas.
+1) Concluyen las obras iniciales objeto de la concesión o licencia recibidas a satisfacción del Ministerio de Energía y Minas.
 
-2)El Ministerio de Energía y Minas lo autoriza para invertirlo en obras.
+2) El Ministerio de Energía y Minas lo autoriza para invertirlo en obras.
 
 Se considerarán como inversión inicial, las obras civiles o líneas a construir en el primer año.

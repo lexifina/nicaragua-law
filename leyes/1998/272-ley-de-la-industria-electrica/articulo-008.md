@@ -16,7 +16,7 @@ Centro Nacional de Despacho de Carga (CNDC): Es la unidad responsable de la oper
 
 Cliente: Es el consumidor final de energía eléctrica, que es abastecido por un distribuidor mediante la firma de un contrato de servicio eléctrico.
 
-Ministerio de Energía y Minas: Es el organismo rector del sector energético del país a cargo de la formulación de la política y planificación del sector energía.
+MEM: Ministerio de Energía y Minas: Es el organismo rector del sector energético del país a cargo de la formulación de la política y planificación del sector energía.
 
 Cogenerador: Es el Agente Económico que produce simultáneamente potencia eléctrica y energía térmica en el mismo proceso.
 
@@ -28,13 +28,13 @@ Distribuidor: Es el Agente Económico que bajo concesión distribuye y comercial
 
 ENEL: Es la Empresa Nicaragüense de Electricidad.
 
-Gran Consumidor: Es aquel consumidor servido a un voltaje igual o mayor a 13.8 Kilovoltios (Kv) y con una carga concentrada de por lo menos 2,000 Kilowatts (Kw) Periódicamente el INE podrá definir los niveles de voltaje y carga.
+Gran Consumidor: Es aquel consumidor servido a un voltaje igual o mayor a 13.8 Kilovoltios (Kv) y con una carga concentrada de por lo menos 2,000 Kilowatts (Kw). Periódicamente el INE podrá definir los niveles de voltaje y carga.
 
 INE: Instituto Nicaragüense de Energía. Es un Ente Descentralizado bajo la rectoría sectorial de la Presidencia de la República, que funge como ente regulador del sector energético del país.
 
 Instalaciones Internas: Son las instalaciones usadas por un cliente o consumidor para el uso del servicio eléctrico y ubicadas dentro del predio donde recibe el servicio.
 
-MARENA: Es el Ministerio del Ambiente y Recursos Naturales.
+MARENA: Es el Ministerio del Ambiente y de los Recursos Naturales.
 
 MIFIC: Es el Ministerio de Fomento, Industria y Comercio.
 
@@ -68,6 +68,10 @@ Sistema Interconectado Nacional (SIN): Es el conjunto de centrales de generació
 
 Sistema Nacional de Transmisión: Es el sistema de transmisión integrado a nivel nacional que incluye las interconexiones internacionales.
 
-DE LAS POLÍTICAS Y PLANIFICACIÓN
+Generación Distribuida: Es la generación de energía eléctrica destinada al autoconsumo y conectada al Sistema de Distribución.
 
-Articulo. 9. Derogado.
+Generador Distribuido: Es la persona natural o jurídica, propietaria de una instalación de Generación Distribuida. El Generador Distribuido no será considerado Agente Económico.
+
+Normativa de Generación Distribuida: Es la norma que establece las condiciones, requisitos, criterios, procedimientos y regulaciones que deben cumplir las personas naturales o jurídicas que proyecten la instalación, conexión y operación de una instalación de Generación Distribuida, al Sistema de Distribución.
+
+DE LAS POLÍTICAS Y PLANIFICACIÓN

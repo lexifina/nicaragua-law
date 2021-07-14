@@ -1,3 +1,3 @@
 # Artículo 134
 
-No Vigente.
+Sin vigencia.
