@@ -1,9 +1,19 @@
 # Artículo 16
 
-Porcentaje de Participación del Estado en la Empresa Desarrolladora
+Línea directa manifiesta
 
-Una vez otorgada a CHN la Certificación de la Operación Comercial plena por parte de los acreedores calificados, El Desarrollador transferirá al Estado de la República de Nicaragua, sin costo adicional alguno a su aporte como dueño del recurso el diez por ciento del monto total de las acciones que conforman y representan el capital social de la misma.
+La comprobación, con la presencia del INE, de la existencia de una línea directa manifiesta en un servicio eléctrico facultará a la Empresa Distribuidora para:
 
-Una vez transferida estas acciones, la participación porcentual del Estado de la República de Nicaragua no podrá ser reducida hasta el término del período de vigencia de la Licencia de Generación Hidroeléctrica.
+a) Retirar de inmediato la línea directa.
 
-Esta participación accionaria del Estado de la República de Nicaragua, será representada por la Empresa Nicaragüense de Electricidad o sus sucesores, lo que le otorga el derecho de tener al menos un cargo en su Junta Directiva, con derecho a voz y voto; previo a la transferencia antes. Referida, otros derechos, privilegios y obligaciones de estas acciones serán convenidas entre El Desarrollador y la Empresa Nicaragüense de Electricidad.
+b) Indicar al Cliente, Consumidor o Representante la situación encontrada y tomar la medición de corriente instantánea de la línea directa.
+
+c) Solicitar al Cliente, Consumidor o Representante que permita el acceso a sus instalaciones para la realización de un censo de carga, con el propósito de confirmar la medición de la corriente instantánea y los equipos conectados.
+
+Si el Cliente o Consumidor se niega a la realización del censo de carga, la Empresa Distribuidora procederá a la suspensión inmediata del servicio.
+
+d) Entregar al Cliente, Consumidor o Representante, copia del Acta de Inspección, firmada por el representante o funcionario del INE, indicando la detección de la línea directa y comunicándole que deberá presentarse a la Oficina Comercial de la Empresa Distribuidora que le corresponda, en un plazo no mayor de setenta y dos horas, para solventar su situación.
+
+Si el Cliente, Consumidor o Representante, se negara a recibir el Acta de Inspección, se hará constar en la misma esta situación, ante la presencia del funcionario del INE.
+
+e) Si el Cliente o Consumidor no se presenta en el plazo establecido para solventar su situación en la Empresa Distribuidora, esta procederá a la suspensión del servicio.

@@ -1,17 +1,85 @@
 # Artículo 21
 
-Beneficios fiscales y otros incentivos
+Análisis y Cálculo de la Energía Sustraída
 
-El Desarrollador gozará de los incentivos fiscales comprendidos en la Ley N°. 532, "Ley para la Promoción de Generación Eléctrica con Fuentes Renovables", cuyo texto consolidado fue publicado en La Gaceta, Diario Oficial N°. 175 del 13 de septiembre del 2012.
+El Cliente, Consumidor o Usuario detectado por primera vez en situación de sustracción de la energía, se le aplicará una sanción cifrada en unidades de energía en Kilovatios horas (kWh) valoradas al precio de la tarifa que corresponda en el momento en que es detectada la infracción y en función del consumo facturado en el último mes.
 
-No obstante lo establecido en la Ley referida en el párrafo anterior, los plazos de exoneración contenidos en los numerales 4., 5., y 6. del artículo 7 de dicha Ley, serán de quince años; en lo correspondiente al numeral 4., las exoneraciones de los tributos municipales sobre bienes inmuebles, matricula e Impuesto sobre Ingresos, se aplicarán de la siguiente manera: el setenta y cinco por ciento (75%) durante los primeros cuatro años; el cincuenta por ciento (50%) durante los siguientes seis años y el veinticinco por ciento (25%) durante los últimos cinco años
+El Cliente, Consumidor o Usuario que clasifique por uso de la energía en la tarifa domiciliar, General menor e industrial menor, en la primera detección de sustracción de energía, se le facturará en concepto de energía sustraída, la siguiente cantidad cifrada en Kilovatios Hora.
 
-Respecto a lo establecido en el numeral 3, del artículo 7 de la Ley N°. 532 antes referida, el impuesto sobre la renta tendrá una alícuota del tres por ciento (3%) a pagar sobre las utilidades generadas durante todo el período de vigencia de la Licencia de Generación. El Desarrollador estará exento del pago de los anticipos y del pago mínimo definitivo del impuesto sobre la renta durante todo el período de vigencia de la Licencia de Generación Hidroeléctrica. Igualmente, durante este mismo período estarán exentos del pago del impuesto sobre la renta los ingresos derivados por venta de bonos de dióxido de carbono.
+Sanción cifrada en Kilovatios – Hora
 
-Asimismo El Desarrollador gozará de la exoneración de los impuestos municipales sobre la construcción y ampliaciones de obras de El Proyecto.
+Uso del Servicio
 
-Para los efectos del cómputo del inicio del plazo de las exoneraciones otorgadas por esta Ley, en lo que corresponde al Impuesto sobre la Renta y los Impuestos Municipales sobre Ingresos será la fecha del inicio de la operación comercial de El Proyecto; para las demás exoneraciones el cómputo del inicio del plazo será la fecha de publicación de la presente Ley en La Gaceta, Diario Oficial, no requiriéndose la Licencia de Generación Hidroeléctrica.
+Rango de Consumo Kwh
 
-Sin perjuicio de lo anterior, durante el plazo de vigencia de la Licencia de Generación Hidroeléctrica, estarán exentos del impuesto sobre la renta los dividendos, participaciones en utilidades e intereses pagados por El Desarrollador a sus accionistas o socios residentes o no en el país; de igual forma se exonera del impuesto sobre la renta y cualquier forma de aplicación de este impuesto, por el mismo plazo, a las personas naturales o jurídicas no residentes que presten servicios de asesoría y consultoría a El Desarrollador y al Contratista durante el período de construcción. Así mismo, estarán exentos el Contratista EPC y el Contratista EP en la etapa de construcción de El Proyecto, del pago del impuesto sobre la renta, pago mínimo definitivo del impuesto sobre la renta, los anticipos al mismo, las retenciones por pago de dividendos o participaciones en utilidades a sus accionistas o socios residentes o no y los tributos municipales sobre bienes inmuebles, matrícula e impuesto sobre ingresos; para tal efecto El Desarrollador deberá registrar a su Contratista EPC y a su Contratista EP en la etapa de construcción, ante el Ministerio de Hacienda y Crédito Público y el Ministerio de Energía y Minas.
+Energía Sustraída (kwh)
 
-Los beneficios fiscales y otros incentivos otorgados por mandato de la presente Ley a favor de El Desarrollador, persistirán a su favor en los casos en que hubiere constituido Contratos de Fideicomiso con instituciones financieras autorizadas y supervisadas por la Superintendencia de Bancos y de Otras Instituciones Financieras, de conformidad con lo dispuesto en la Ley N°. 741, "Ley sobre el Contrato de Fideicomiso", publicada en La Gaceta, Diario Oficial N°. 11 del 19 de enero de 2011.
+Domiciliar
+
+0-200
+
+150
+
+201-500
+
+300
+
+501 a más
+
+700
+
+General Menor
+
+0-200
+
+150
+
+201 - 500
+
+300
+
+501 a más
+
+700
+
+Industrial Menor
+
+0-200
+
+150
+
+201-500
+
+300
+
+501 a más
+
+700
+
+Usuario
+
+El Usuario se clasificará en función del uso final de la energía, facturando al usuario domiciliar 150kwh y el Industrial y General Menor 300 kwh
+
+Se penalizará la reincidencia, con un importe equivalente a dos veces los kilovatios hora de la primera factura de energía sustraída.
+
+El Cliente o Consumidor cuyo uso final de la energía corresponda a otras tarifas distintas a la Domiciliar, General Menor, e Industrial Menor, cuando se detecte la primera infracción en el uso responsable de la energía, se facturará el equivalente a un mes de energía sustraída, tomando como base para su análisis el comportamiento promedio del consumo histórico facturado hasta un máximo de 24 meses previo a la detección de la primera infracción, cuya factura en ningún caso, podrá ser menor a 700 kWh. La reincidencia se sancionará con el doble del importe en kilovatios hora de la primera factura de Energía Sustraída.
+
+A los Usuarios detectados en sustracción de la energía, cuyo uso final corresponda a otras tarifas distintas a la Domiciliar, General Menor, e Industrial Menor, cuando se detecte la primera infracción en el uso responsable de la energía, se facturará el equivalente a un mes de energía sustraída, la que se calculará en base al censo de carga y el importe de la energía sustraída en ningún caso será menor de 700 kWh a la tarifa existente al momento de la infracción. La reincidencia se sancionará con el doble del importe en kilovatios hora de la primera factura de Energía Sustraída.
+
+Para todos los Clientes, Consumidores, o Usuarios indistintamente de su clasificación tarifaria o uso final de la energía, a partir de la tercera detección de Sustracción de Energía, la Empresa Distribuidora calculará la Energía Sustraída por los meses en que se presentó la infracción hasta un máximo de doce meses. Tomando como base para su análisis el comportamiento del consumo facturado hasta un máximo de veinticuatro meses previo a la detección de la infracción y considerando los métodos de cálculo de la Energía Sustraída en el orden de prelación que se describen a continuación:
+
+a) Censo de carga: Se tomará como base la carga instalada y los consumos promedios de los equipos eléctricos instalados en el local donde se suministra la energía eléctrica, de acuerdo con las tablas de capacidades y consumos promedios aprobados por el INE. La energía sustraída será la diferencia entre el consumo que debió registrar el medidor según el censo de carga y el consumo facturado durante el período considerado. En el caso de los Clientes sujetos a la aplicación del presente Artículo, el INE deberá elaborar una Tabla sobre las horas uso de equipos eléctricos, la cual deberá estar aprobada y publicada en La Gaceta, Diario Oficial, quince días después de la vigencia de la presente Ley.
+
+b) Prueba de laboratorio: El porcentaje de energía que según el laboratorio no está siendo registrado por el equipo de medición debidamente certificado en presencia del Instituto Nicaragüense de Energía o del cliente o consumidor, si este presencia la prueba. Los medidores que sean retirados producto de la aplicación de esta Ley serán resguardados por el Instituto Nicaragüense de Energía con sus correspondientes sellos, en una bolsa sellada y lacrada, para su posterior traslado al laboratorio.
+
+c) Mediciones de corrientes instantáneas: Cuando el cliente, consumidor o Usuario rechace la toma de un censo de carga, el cálculo de energía sustraída se obtendrá como producto de la corriente instantánea medida de la línea directa, multiplicada por la tensión de la línea, las horas usos mensuales según el tipo de cliente o consumidor, y el período ya sea meses o fracción en que existió la infracción.
+
+d) Promedio de consumo real: Media de consumo real registrado en el medidor a lo largo de los dos siguientes ciclos completos de facturación tras la normalización del suministro. La energía sustraída será la diferencia entre el dato definido anteriormente y la energía que fue facturada para un mismo período.
+
+Para el análisis y cálculo de la energía sustraída conforme éste procedimiento, se contabilizarán todas las detecciones de energía sustraída anteriores a la entrada en vigencia de la presente Ley.
+
+A efectos de lograr la normalización del servicio público de la energía eléctrica, se decreta un período de regularización de ciento ochenta días a partir de la vigencia de la presente Ley, para:
+
+a) Aquellos clientes, consumidores o usuarios en situación de sustracción de energía, que de su propia voluntad y previo a la detección de sustracción, soliciten la normalización de su situación ante las empresas distribuidoras de energía DISNORTE y DISSUR;
+
+b) Aquellos clientes y consumidores en situación de mora en el pago de sus facturas, que de su propia voluntad comparezcan a suscribir un acuerdo de pago con las empresas distribuidoras de energía DISNORTE y DISSUR, no se les facturarán intereses acumulados a la fecha.

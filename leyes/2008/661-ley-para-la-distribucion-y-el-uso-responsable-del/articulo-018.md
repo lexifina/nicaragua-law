@@ -1,23 +1,15 @@
 # Artículo 18
 
-Conexiones de Transmisión de Energía e Infraestructura de Transporte
+Verificación de los dispositivos de medición
 
-Con la finalidad de beneficiar al consumidor final a través de la moderación tarifaria, será responsabilidad del Estado de la República de Nicaragua, por medio de la instancia que él determine o a quien corresponda:
+1. Verificación: La Empresa Distribuidora o sus representantes con la presencia del personal del INE procederán a verificar los dispositivos de medición con las características establecidas en la Normativa de Servicio Eléctrico, una vez finalizada la verificación se procederá con la inspección de sellos.
 
-a) La realización de las obras de refuerzo que sean necesarias en el Sistema Nacional de Transmisión (SNT), sean estas en subestaciones, líneas, equipos de compensación reactiva o cualquier otro equipo o instalación del SNT, para asegurar que la producción del Proyecto Hidroeléctrico Tumarín tenga un acceso físico y comercial adecuado y seguro, sea para el Mercado Eléctrico Nacional, como para el Mercado Eléctrico Regional; y,
+2. Inspección de sellos: Se realiza la inspección con la comprobación de los sellos de aro, de caja o borne y de calibración:
 
-b) La verificación, adecuación, reforzamiento y mantenimiento de las obras de infraestructura vial y mantenimiento de la infraestructura portuaria necesaria para garantizar la ejecución de las actividades de El Desarrollador durante todo el período de vigencia de la Licencia de Generación Hidroeléctrica.
+a) Si el medidor no posee sello de aro, caja o borne, o el sello está roto o se nota que ha sido alterado, se retira el medidor de la base (socket) para confirmar el estado del sello de calibración.
 
-Con relación a los literales a) y b), la ejecución deberá efectuarse dentro de los plazos y condiciones que no afecten el cumplimiento del CEP. Con relación al literal a), la inversión de estas obras será reconocida conforme la Remuneración Anual General de la Empresa Nacional de Transmisión Eléctrica descrita en la normativa de transporte. Con relación al literal b), El Desarrollador tendrá libre tránsito y paso durante todo el período de vigencia de la Licencia de Generación Hidroeléctrica que le permita el eficiente tránsito para el cumplimiento de objeto de desarrollo de El Proyecto.
+b) Si el medidor no tiene sello de calibración, o este, está roto o se ve que ha sido manipulado, se retira el medidor y en su lugar se instala otro equipo de medición. A continuación se procede con lo estipulado en el Reemplazo del Medidor por Inspección.
 
-El Desarrollador deberá elaborar el Estudio de Impacto a la Red y aquellos otros estudios y análisis solicitados por ENATREL para garantizar la correcta conexión de El Proyecto al Sistema Nacional de Transmisión (SNT). Si, del resultado de esos estudios eléctricos basados en las características técnicas de los equipos a ser instalados por El Desarrollador, se concluye a criterio de ENATREL que El Desarrollador debe tomar las medidas para garantizar la correcta conexión y operación de El Proyecto a fin de no afectar la entrega de energía y la seguridad operativa del SIN, siempre que las mismas sean en la bahía de la subestación Mulukukú y en la Central Hidroeléctrica Tumarín, estas serán asumidas por El Desarrollador.
+c) De detectarse puentes internos en el medidor, se tratará la infracción como una línea directa manifiesta.
 
-La CONEPHIT establecerá las reglas de compensación a El Desarrollador en el caso de eventuales costos generados por retrasos en la construcción de la infraestructura que sean necesarios al desarrollo de El Proyecto y no esté bajo la responsabilidad de El Desarrollador; así como los atrasos imputables a El Desarrollador.
-
-Será responsabilidad de El Desarrollador, además de las obras establecidas en el artículo 4 de la presente Ley, la ejecución de las siguientes infraestructuras:
-
-1) La construcción de las obras del sistema secundario de transmisión, que incluye la longitud total de dos líneas simples de transmisión independientes, en 230 kilovoltios (kV) entre la subestaciones Tumarín y Mulukukú con sus respectivas bahías de conexión con el Sistema Nacional de Transmisión (SNT), conforme diseños aprobados por la Empresa Nacional de Transmisión Eléctrica, ENATREL);
-
-2) La construcción del tramo de carretera en su longitud total que comunicará el poblado de San Pedro del Norte con el sitio de construcción de la Central Hidroeléctrica Tumarín y de los puentes necesarios en el referido tramo, conforme diseños aprobados por el Ministerio de Transporte e Infraestructura, (MTI).
-
-El punto de entrega de la energía del Proyecto Hidroeléctrico Tumarín será la subestación ubicada en Mulukukú.
+3. Reemplazo del Medidor por Inspección: De acuerdo con lo indicado en la verificación, si la prueba de precisión del medidor resulta con un error diferente al valor establecido en la Normativa de Servicio Eléctrico o el medidor no tiene sellos de aro y de calibración, y no exista evidencia de línea directa manifiesta se procederá a realizar cálculo de energía sustraída y no facturada o facturada en exceso, de acuerdo a lo establecido en la Normativa de Servicio Eléctrico.

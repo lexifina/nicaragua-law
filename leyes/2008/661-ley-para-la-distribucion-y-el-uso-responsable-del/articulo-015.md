@@ -1,45 +1,7 @@
 # Artículo 15
 
-Miembros de la Comisión Negociadora
+Revisión de las Instalaciones
 
-La Comisión Negociadora estará integrada por un miembro permanente de cada una de las entidades del gobierno señaladas a continuación:
+La Empresa Distribuidora podrá revisar la acometida, desde el poste o barra secundaria hasta el medidor, transformadores de tensión e intensidad. Cuando se trate de inspeccionar el medidor deberá contar con la presencia del INE.
 
-1) El Ministerio de Energía y Minas, quien la preside, representado por el Ministro o el Viceministro;
-
-2) El Presidente del Consejo de Dirección del Instituto Nicaragüense de Energía (INE), o su representante que deberá de ser uno de los miembros del Consejo Directivo;
-
-3) El Ministro del Ambiente y de los Recursos Naturales o el Viceministro;
-
-4) El Titular de la Autoridad Nacional del Agua o su delegado o quien haga las funciones de ésta;
-
-5) El Ministro de Hacienda y Crédito Público o su Viceministro;
-
-6) El Presidente de la Comisión de Infraestructura y Servicios Públicos o cualquiera de los vicepresidentes.
-
-También podrán participar en calidad de invitados a la Comisión los representantes de las Instituciones Públicas siguientes:
-
-1) El Presidente del Consejo Regional Autónomo de la Costa Caribe Sur o su delegado;
-
-2) El Director de la Empresa Nacional de Transmisión Eléctrica (ENATREL);
-
-3) Un representante de las Empresas Distribuidoras de Energía Eléctrica;
-
-4) Un representante del Ministerio de Fomento Industria y Comercio;
-
-5) Un representante de las diferentes organizaciones de defensa de los consumidores designados entre ellos mismos; y
-
-6) El Codirector o Codirectora del Sistema Nacional de Prevención, Mitigación y Atención de Desastres;
-
-7) La Procuraduría General de la República, representada por el Procurador General o el Procurador en quien él delegue;
-
-8) El Codirector o Codirectora del Instituto Nicaragüense de Estudios Territoriales;
-
-9) El Alcalde o Alcaldesa de la Cruz de Río Grande; y
-
-10) Cualquier otra Institución que a criterio de los miembros permanentes de la Comisión lo estimen necesario.
-
-En todos los casos los miembros permanentes e invitados se podrán hacer acompañar de sus respectivos asesores técnicos, sean estos nacionales o internacionales, quienes tendrán derecho a voz pero sin voto.
-
-La Secretaría Ejecutiva de la Comisión la desempeñará un funcionario público especialmente nombrado para tal efecto con las facilidades presupuestarias y materiales del cargo. Físicamente funcionará en las instalaciones del Ministerio de Energía y Minas, y se subordina a la Comisión Negociadora.
-
-La asistencia a las reuniones de la Comisión Negociadora será obligatoria para todos los miembros que la integran, quienes deberán ser permanentes y contar con sus respectivos suplentes asignados con facultades resolutivas. En ningún caso habrá pago de dietas o estipendios, sesionará tantas veces como resulte necesario para el cumplimiento de sus funciones, la convocatoria la efectuará el Presidente de ésta, por medio del Secretario Ejecutivo y el quórum para su funcionamiento será de la mitad más uno del total de sus miembros, sus resoluciones se adoptarán por mayoría simple del total de los presentes. Esta Comisión deberá estar instalada treinta días después de entrada en vigencia la presente Ley y su funcionamiento será a partir de la fecha de su instalación.
+La calibración de medidores realizadas por el Ente Regulador INE, se tendrá que efectuar en los laboratorios de la Universidad Nacional de Ingeniería, mientras el INE no posea sus propios laboratorios. La calibración deberá realizarse bajo la dirección y seguimiento técnico de profesionales del INE, observada por un delegado de la Dirección de Defensa del Consumidor del Ministerio de Fomento, Industria y Comercio, y un delegado de cualquiera de las Organizaciones de la Sociedad Civil, que tenga como objetivo la defensa al consumidor, para lo cual deberá ser invitado permanentemente. De comprobarse la alteración del medidor, se deberá proceder a aplicar las sanciones correspondientes a la empresa y la devolución de lo cobrado indebidamente al cliente, de conformidad a lo establecido en la Ley Nº. 272, "Ley de la Industria Eléctrica.

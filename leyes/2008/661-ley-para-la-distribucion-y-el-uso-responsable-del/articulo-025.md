@@ -1,5 +1,5 @@
 # Artículo 25
 
-Vigencia
+Derechos de Clientes y Consumidores
 
-La presente Ley es de orden público e interés social y entrará en vigencia a partir de la fecha de su publicación en La Gaceta, Diario Oficial.
+El procedimiento previsto en el Capítulo II de la presente Ley será aplicado asegurando el respeto y garantía de los derechos de los Clientes o Consumidores consignados en la Ley Nº 272, Ley de la Industria Eléctrica, su Reglamento y la Normativa de Servicio Eléctrico.
