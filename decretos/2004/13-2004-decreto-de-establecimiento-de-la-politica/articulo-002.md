@@ -1,8 +1,10 @@
 # Artículo 2
 
-Principios de la Política. El sector energía es un componente clave en las estrategias de desarrollo sostenible del país. Los principios generales de la política energética nacional están basados en las leyes y demás normativas del sector existentes en el país, así:
+Principios de la Política
 
-1. Corresponde a la Comisión Nacional de Energía la conducción de esta política sectorial.
+El sector energía es un componente clave en las estrategias de desarrollo sostenible del país. Los principios generales de la política energética nacional están basados en las leyes y demás normativas del sector existentes en el país, así:
+
+1. Corresponde al Ministerio de Energía y Minas la conducción de esta política sectorial.
 
 2. La política energética nacional debe estar acorde con la Constitución Política, los Convenios Internacionales, Leyes de la República y las políticas económicas, sociales y ambientales del Estado.
 
@@ -10,7 +12,7 @@ Principios de la Política. El sector energía es un componente clave en las est
 
 4. Respetar el principio del dominio del Estado sobre los recursos naturales.
 
-5. Garantizar la sostenibilidad económica y financiera de los proyectos de inversión en sector energético.
+5. Garantizar la sostenibilidad económica y financiera de los proyectos de inversión en el sector energético.
 
 6. Garantizar el suministro y aprovechamiento de los combustibles fósiles nacionales considerando siempre la preservación del medio ambiente.
 

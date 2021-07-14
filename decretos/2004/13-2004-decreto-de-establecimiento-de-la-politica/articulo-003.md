@@ -1,6 +1,8 @@
 # Artículo 3
 
-Objetivos específicos. La Política Energética Nacional tiene como objetivos específicos los siguientes:
+Objetivos específicos
+
+La Política Energética Nacional tiene como objetivos específicos los siguientes:
 
 1. Coordinarse con el Plan Nacional de Desarrollo.
 
