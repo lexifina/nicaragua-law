@@ -1,0 +1,3 @@
+# Artículo 69
+
+Si no se produjere el acuerdo directo a que se refiere el artículo anterior, el monto de las compensaciones e indemnizaciones que deben ser abonadas por el concesionario, será fijado por peritos nombrados uno por cada parte. Si los peritos no se pusieren de acuerdo, la Comisión Nacional de Energía nombrará un tercer perito para que dirima la discordia. El avalúo dado por el tercer perito deberá ser aceptado sin lugar a reclamo algo en la vía administrativa, pero podrá ser controvertido judicialmente, sin que ello impida la imposición de la servidumbre, según lo establezca el Reglamento de esta Ley.

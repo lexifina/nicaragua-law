@@ -1,0 +1,5 @@
+# Artículo 7
+
+Derogado.
+
+DEL USO DE LAS AGUAS PARA LA INDUSTRIA ELÉCTRICA

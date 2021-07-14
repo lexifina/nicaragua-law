@@ -1,0 +1,5 @@
+# Artículo 45
+
+Derogado.
+
+DE LAS OBRAS E INSTALACIONES

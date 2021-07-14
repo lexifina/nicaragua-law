@@ -1,0 +1,5 @@
+# Artículo 10
+
+Derogado.
+
+DE LAS CONCESIONES Y DE LOS PERMISOS

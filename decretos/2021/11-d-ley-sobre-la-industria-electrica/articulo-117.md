@@ -1,0 +1,5 @@
+# Artículo 117
+
+Derogado.
+
+DE LAS FALTAS Y DE LAS SANCIONES
