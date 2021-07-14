@@ -10,11 +10,11 @@ A) CAPACIDAD TÉCNICA:
 
 3) Descripción de la tecnología a utilizar.
 
-4) Programa de trabajo a realizar
+4) Programa de trabajo a realizar.
 
 B) CAPACIDAD FINANCIERA:
 
-1) Ultimo balance auditado de la empresa.
+1) Último balance auditado de la empresa.
 
 2) Presupuesto para financiar el programa de trabajo propuesto.
 

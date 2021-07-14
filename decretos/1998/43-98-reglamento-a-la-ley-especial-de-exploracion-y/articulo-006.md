@@ -1,16 +1,16 @@
 # Artículo 6
 
-Los interesados en obtener un permiso deberán presentar ante la Dirección General de Hidrocarburos del INE, su correspondiente solicitud que deberá contener, además de lo prescrito en el Arto. 10 de la Ley, la siguiente información particular:
+Los interesados en obtener un permiso, deberán presentar ante la Dirección General de Hidrocarburos del MEM, el instrumento que demuestren el cumplimiento de lo establecido en el Artículo uno (1) bis de la presente reforma, en el que conste la participación de ENIH; los requisitos prescritos en el Artículo 10 de la ley, y la siguiente información particular:
 
 A) PERSONA NATURAL:
 
-1. Nombres y Apellidos del Solicitante
+1. Nombres y Apellidos del Solicitante.
 
-2. Nacionalidad
+2. Nacionalidad.
 
-3. Profesión
+3. Profesión.
 
-4. Domicilio
+4. Domicilio.
 
 5. Designación de Representante Legal domiciliado en el país, en caso en que el solicitante no tuviere domicilio permanente en Nicaragua.
 
@@ -26,6 +26,6 @@ B) PERSONA JURÍDICA:
 
 4. Nombres y generales de Ley del Representante Legal domiciliado en el país.
 
-5. Dirección para recibir notificaciones en la ciudad de Managua
+5. Dirección para recibir notificaciones en la ciudad de Managua.
 
 En ambos casos, se deberá señalar, lugar, fecha, objeto, indicación exacta del área y firma de la solicitud.

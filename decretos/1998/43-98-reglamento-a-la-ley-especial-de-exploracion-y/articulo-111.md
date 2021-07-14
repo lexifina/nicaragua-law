@@ -14,7 +14,7 @@ El programa de desarrollo contendrá como mínimo, lo siguiente:
 
 6) Medios de transporte de la producción neta hasta el punto de fiscalización acordado, así como otras instalaciones de transporte y almacenamiento hasta el punto o puntos de comercialización interna o externa.
 
-7) Estudio de Impacto Ambiental de conformidad con el Arto. 51 de la Ley.
+7) Estudio de Impacto Ambiental de conformidad con el Artículo 51 de la Ley.
 
 8) Equipo que sea necesario y apropiado para permitir el aprovechamiento adecuado del área de explotación.
 

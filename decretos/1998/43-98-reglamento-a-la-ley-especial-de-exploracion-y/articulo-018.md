@@ -2,7 +2,7 @@
 
 Para evaluar la capacidad técnico-financiera, las personas interesadas en celebrar un Contrato deberán presentar, al menos, la siguiente información:
 
-I. CAPACIDAD JURÍDICA:
+l. Capacidad Jurídica:
 
 1) Nombre completo y generales de ley del solicitante, incluyendo nacionalidad y calidad en que actúa.
 
@@ -10,7 +10,9 @@ I. CAPACIDAD JURÍDICA:
 
 3) Declaración por un representante autorizado de la compañía por la que se certifica que a la fecha de la solicitud, el solicitante no se encuentra en quiebra o circunstancia similar, no tiene ningún impedimento legal para celebrar Contrato con el Estado de Nicaragua, ni ningún otro impedimento de cualquier otra naturaleza que pueda afectar el cumplimiento de sus obligaciones contractuales futuras.
 
-II. CAPACIDAD FINANCIERA
+4) Instrumentos que demuestren el cumplimiento de lo establecido en el Artículo 1 bis, en el que conste la participación de ENIH; se exceptúa de lo anterior los casos de concurrencia de oferta que sigan el procedimiento de licitación pública, los que deberán suscribirse de previo a la negociación y firma de los Contratos.
+
+II. Capacidad Financiera
 
 Para acreditar la capacidad financiera, se presentarán los estados financieros de los tres (3) últimos períodos anuales anteriores al año en que se efectúe la concurrencia de ofertas o la negociación directa, y que se detallan a continuación:
 
@@ -30,15 +32,15 @@ Para acreditar la capacidad financiera, se presentarán los estados financieros 
 
 4) Cualquier otra información que respalde la capacidad financiera que el solicitante considere relevante.
 
-III. CAPACIDAD TÉCNICA
+III. Capacidad Técnica
 
 Para acreditar su capacidad técnica, el solicitante deberá presentar:
 
-1) Información que demuestre su experiencia en el campo de la exploración y explotación petrolera en los últimos diez (10) años, indicando el número de descubrimientos de Hidrocarburos efectuados, porcentaje de éxitos obtenidos, sistemas y capacidad de transporte que se posea y cualquier otra información que tanto el solicitante como el INE estimen pertinente.
+1) Información que demuestre su experiencia en el campo de la exploración y explotación petrolera en los últimos diez (10) años, indicando el número de descubrimientos de Hidrocarburos efectuados, porcentaje de éxitos obtenidos, sistemas y capacidad de transporte que se posea y cualquier otra información que tanto el solicitante como el Ministerio de Energía y Minas estimen pertinente.
 
 2) Lista de países y proyectos donde el solicitante haya realizado actividades de exploración o explotación de Hidrocarburos, incluyendo aquellos en los que ha actuado como operador.
 
-3) Listado y curriculum de los principales profesionales y técnicos que serán directamente empleados por el solicitante y que estarán a cargo de las operaciones.
+3) Listado y currículum de los principales profesionales y técnicos que serán directamente empleados por el solicitante y que estarán a cargo de las operaciones.
 
 4) Lista de proyectos de preservación y conservación del medio ambiente en los que el solicitante haya participado en los últimos cinco (5) años.
 

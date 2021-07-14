@@ -8,17 +8,17 @@ CONTRATISTA: Toda persona, natural o jurídica, nacional o extranjera, que ha en
 
 CONTRATO: Es el Acuerdo o Convenio de Exploración y Explotación de Hidrocarburos celebrado entre el representante del Estado y el Contratista de conformidad con la Ley y su Reglamento.
 
-DOCUMENTO DE PRESENTACIÓN DE OFERTAS: Es el instrumento preparado por el INE y que contiene las bases y condiciones en que se funda un concurso para la presentación de ofertas una vez que sea determinado la apertura de áreas.
+DOCUMENTO DE PRESENTACIÓN DE OFERTAS: Es el instrumento preparado por el Ministerio de Energía y Minas y que contiene las bases y condiciones en que se funda un concurso para la presentación de ofertas una vez que sea determinada la apertura de áreas.
 
-GARANTÍA O FIANZA DE CUMPLIMIENTO: Obligación accesoria que el Contratista debe otorgar a favor y a satisfacción del INE, para garantizar los trabajos mínimos obligatorios correspondientes a cada sub período de la etapa de exploración.
+GARANTÍA O FIANZA DE CUMPLIMIENTO: Obligación accesoria que el Contratista debe otorgar a favor y a satisfacción del Ministerio de Energía y Minas, para garantizar los trabajos mínimos obligatorios correspondientes a cada sub período de la etapa de exploración.
 
-GARANTÍA O FIANZA DE MANTENIMIENTO DE OFERTA: Obligación accesoria que el oferente calificado debe rendir a favor del INE para asegurarle la invariabilidad de la oferta presentada.
+GARANTÍA O FIANZA DE MANTENIMIENTO DE OFERTA: Obligación accesoria que el oferente calificado debe rendir a favor del Ministerio de Energía y Minas para asegurar la invariabilidad de la oferta presentada.
 
-INE: Instituto Nicaragüense de Energía.
+MEM: Ministerio de Energía y Minas.
 
-LEY: Ley Especial de Exploración y Explotación de Hidrocarburos No. 286 publicada en el Diario Oficial La Gaceta No. 109 del 12 de Junio de 1998.
+LEY: Ley Especial de Exploración y Explotación de Hidrocarburos Nº. 286 publicada en el Diario Oficial, La Gaceta Nº. 109 del 12 de junio de 1998.
 
-MARENA: Ministerio del Ambiente y Recursos Naturales
+MARENA: Ministerio del Ambiente y de los Recursos Naturales
 
 PERMISO: Autorización de Reconocimiento Superficial.
 

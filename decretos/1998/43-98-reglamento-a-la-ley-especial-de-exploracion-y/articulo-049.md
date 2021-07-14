@@ -1,6 +1,6 @@
 # Artículo 49
 
-Para hacer uso del derecho de oposición a que se refiere el último párrafo del Arto. 16 de la Ley, cualquier persona que se considere afectada, deberá de expresar en la interposición del recurso al menos, lo siguiente:
+Para hacer uso del derecho de oposición a que se refiere el último párrafo del Artículo 16 de la Ley, cualquier persona que se considere afectada, deberá de expresar en la interposición del recurso al menos, lo siguiente:
 
 1. Generales de ley del recurrente y lugar para recibir notificación.
 
