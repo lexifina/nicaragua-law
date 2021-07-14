@@ -2,9 +2,9 @@
 
 Créese un Fondo de Crisis Energética, que estará constituido por:
 
-a. El 50% de los excedentes que se identifiquen por el Ente Regulador, de acuerdo a lo establecido en el artículo 2 de la presente Ley.
+a. El 50% de los excedentes que se identifiquen por el Ente Regulador, de acuerdo a lo establecido en el Artículo 2 de la presente Ley.
 
-b. El arrendamiento y demás ingresos por la concesión de Petronic.
+b. Derogado.
 
 Dirigen la administración del Fondo, un Consejo integrado por los titulares de las siguientes instituciones:
 

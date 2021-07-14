@@ -1,3 +1,3 @@
 # Artículo 10
 
-Derogado.
+Sin vigencia.
