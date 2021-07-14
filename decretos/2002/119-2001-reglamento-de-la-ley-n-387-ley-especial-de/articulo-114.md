@@ -1,3 +1,3 @@
 # Artículo 114
 
-No Vigente.
+Sin vigencia.

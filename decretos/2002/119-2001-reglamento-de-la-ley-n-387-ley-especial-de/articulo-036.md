@@ -6,4 +6,4 @@ Transcurrido el término concedido a los Consejos Municipales, con su opinión o
 
 Dichas autoridades deben remitir copia certificada de lo resuelto por el Consejo respectivo.
 
-El MEM, por medio de resolución ministerial, definirá los criterios técnicos para el proceso de obtener la opinión de los Consejos Municipales y la aprobación respectiva de los Consejos Regionales. Cuando no exista pronunciamiento dentro de los términos establecidos en el párrafo primero del presente artículo, para cada una de estas autoridades, se entenderá que no existe objeción alguna por parte del Consejo respectivo al otorgamiento de la concesión solicitada.
+El MEM, por medio de resolución ministerial, definirá los criterios técnicos para el proceso de obtener la opinión de los Consejos Municipales y la aprobación respectiva de los Consejos Regionales. Cuando no exista pronunciamiento de los Consejos dentro de los términos establecidos en el párrafo primero del presente Artículo, para cada una de estas autoridades, se entenderá que no existe objeción alguna por parte del Consejo respectivo al otorgamiento de la concesión solicitada.
