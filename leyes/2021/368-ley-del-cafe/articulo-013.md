@@ -1,0 +1,5 @@
+# Artículo 13
+
+Sin Vigencia.
+
+ÓRGANO COMPETENTE DEL CONSEJO NACIONAL DEL CAFÉ
