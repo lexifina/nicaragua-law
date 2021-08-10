@@ -1,12 +1,12 @@
-TEXTO CONSOLIDADO, DECRETO EJECUTIVO N°. 22-93, CREACIÓN DEL INSTITUTO NICARAGÜENSE DE TECNOLOGÍA AGROPECUARIA
+TEXTO CONSOLIDADO, DECRETO EJECUTIVO Nº. 22-93, CREACIÓN DEL INSTITUTO NICARAGÜENSE DE TECNOLOGÍA AGROPECUARIA
 
-DECRETO EJECUTIVO N°. 22-93, aprobado el 16 de octubre de 2019
+DECRETO EJECUTIVO Nº. 22-93, aprobado el 03 de marzo de 2021
 
-Publicado en La Gaceta, Diario Oficial N°. 240 del 16 de diciembre de 2019
+Publicado en La Gaceta, Diario Oficial N°. 148 del 10 de agosto de 2021
 
-Digesto Jurídico Nicaragüense de la Materia Soberanía y Seguridad Alimentaria y Nutricional
+Digesto Jurídico Nicaragüense de la Materia Soberanía y Seguridad Alimentaria y Nutricional (SSAN)
 
-El presente texto contiene incorporadas todas sus modificaciones consolidadas al 16 de octubre de 2019, del Decreto Ejecutivo Nº. 22-93, Creación del Instituto Nicaragüense de Tecnología Agropecuaria, aprobado el 26 de marzo de 1993 y publicado en La Gaceta, Diario Oficial Nº. 61 del 26 de marzo de 1993, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1005, Ley de Actualización del Digesto Jurídico Nicaragüense de la Materia Soberanía y Seguridad Alimentaria y Nutricional, aprobada el 16 de octubre de 2019.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 03 de marzo de 2021, del Decreto Ejecutivo Nº. 22-93, Creación del Instituto Nicaragüense de Tecnología Agropecuaria, aprobado el 26 de marzo de 1993 y publicado en La Gaceta, Diario Oficial Nº. 61 del 26 de marzo de 1993, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1067, Ley del Digesto Jurídico Nicaragüense de la Materia Soberanía y Seguridad Alimentaria y Nutricional (SSAN), aprobada el 03 de marzo de 2021.
 
 CREACIÓN DEL INSTITUTO NICARAGÜENSE DE TECNOLOGÍA AGROPECUARIA
 

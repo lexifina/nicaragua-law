@@ -2,7 +2,7 @@
 
 Al Consejo Directivo le corresponde dirigir la ejecución de la política oficial en materia de generación y transferencia de tecnología agropecuaria en nombre del INTA. En particular tiene las siguientes funciones:
 
-a) Conocer y aprobar anualmente el presupuesto de ingresos y gastos de la institución, previa coordinación sectorial a nivel de CONAGRO, para su remisión, por parte del Presidente del Consejo Directivo al Ministerio de Hacienda y Crédito Púbico para su inclusión en el correspondiente proyecto de presupuesto anual de la República;
+a) Conocer y aprobar anualmente el presupuesto de ingresos y gastos de la institución, previa coordinación sectorial a nivel del CONAGRO, para su remisión, por parte del Presidente del Consejo Directivo al Ministerio de Hacienda y Crédito Púbico para su inclusión en el correspondiente proyecto de presupuesto anual de la República;
 
 b) Conocer y aprobar los planes anuales operativos de la institución;
 

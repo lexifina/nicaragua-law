@@ -2,7 +2,7 @@
 
 Al INTA le corresponde las siguientes atribuciones principales:
 
-a) Ejecutar los programas estatales de generación y transferencia de tecnología agropecuaria formulados y definidos por el Ministerio Agropecuario en coordinación con las instituciones del sector agropecuario miembros de CONAGRO, y con la participación de un representante del Consejo Directivo del Instituto Nicaragüense de Tecnología Agropecuaria;
+a) Ejecutar los programas estatales de generación y transferencia de tecnología agropecuaria formulados y definidos por el Ministerio Agropecuario en coordinación con las instituciones del sector agropecuario, miembros del CONAGRO, y con la participación de un representante del Consejo Directivo del Instituto Nicaragüense de Tecnología Agropecuaria;
 
 b) Participar como instancia de asesoramiento técnico en el ámbito del Consejo Nacional Agropecuario (CONAGRO) en la formulación de la política nacional de generación y transferencia de tecnología agropecuaria;
 

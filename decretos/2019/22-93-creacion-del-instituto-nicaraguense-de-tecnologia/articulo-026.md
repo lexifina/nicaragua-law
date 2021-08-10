@@ -4,14 +4,14 @@ Hasta tanto se efectivice la transferencia de los bienes que señala el Artícul
 
 a) Centro Nacional de Investigación de Granos Básicos, ubicado en Managua;
 
-b) Centro Experimental “Las Segovias”, ubicado en Estelí;
+b) Centro Experimental "Las Segovias'', ubicado en Estelí;
 
-c) Centro Experimental “Valle de Sébaco”, ubicado en Sébaco Matagalpa;
+c) Centro Experimental "Valle de Sébaco", ubicado en Sébaco Matagalpa;
 
-d) Centro Experimental “Campos Azules”, ubicado en Masatepe, Masaya;
+d) Centro Experimental "Campos Azules'', ubicado en Masatepe, Masaya;
 
-e) Centro Experimental “Santa Rosa”, ubicado en Managua;
+e) Centro Experimental "Santa Rosa'', ubicado en Managua;
 
-f) Centro Experimental “El Recreo”, ubicado en Zelaya Sur; y
+f) Centro Experimental "El Recreo", ubicado en la Región Autónoma de la Costa Caribe Sur; y
 
-g) Estación Experimental “San José de las Latas”, ubicada en Matagalpa.
+g) Estación Experimental "San José de las Latas", ubicada en Matagalpa.
