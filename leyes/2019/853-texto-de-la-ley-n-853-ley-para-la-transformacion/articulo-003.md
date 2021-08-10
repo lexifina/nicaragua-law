@@ -18,7 +18,7 @@ Para los efectos de aplicación de la presente Ley se establecen las definicione
 
 7) CETREX: Centro de Trámites de las Exportaciones.
 
-8) Comprador en el Exterior: Persona natural o jurídica domiciliada en el exterior, quien compra café a Nicaragua para su posterior exportación al país que éste designe en el respectivo contrato.
+8) Comprador en el Exterior: Persona natural o jurídica domiciliada en el exterior, quien compra café a Nicaragua para su posterior exportación al país que este designe en el respectivo contrato.
 
 9) CONATRADEC: Comisión Nacional para la Transformación y Desarrollo de la Caficultura.
 
@@ -32,7 +32,7 @@ Para los efectos de aplicación de la presente Ley se establecen las definicione
 
 14) Fideicomiso: Operación en virtud de la cual el Fideicomitente transmite la titularidad sobre un bien o conjunto de bienes o derechos determinados al Fiduciario, quien se obliga a administrarlos a favor del beneficiario y transmitirlos al Fideicomisario y al Fideicomitente cuando se cumpla con un plazo, condición u otra causa de extinción de la obligación.
 
-15) Fideicomiso del Café: Es el fideicomiso constituido por el CONATRADEC en el Banco de Fomento a la Producción para administrar los aportes al FTDC.
+15) Fideicomiso del Café: Es el fideicomiso constituido por la CONATRADEC en el Banco de Fomento a la Producción para administrar los aportes al FTDC.
 
 16) FTDC: Fondo para la Transformación y Desarrollo de la Caficultura.
 
@@ -40,21 +40,21 @@ Para los efectos de aplicación de la presente Ley se establecen las definicione
 
 18) INTA: Instituto Nicaragüense de Tecnología Agropecuaria.
 
-19) MAG: Ministerio Agropecuario.
+19) MAG: Ministerio Agropecuario
 
 20) MEFCCA: Ministerio de Economía Familiar, Comunitaria, Cooperativa y Asociativa.
 
 21) MIFIC: Ministerio de Fomento Industria y Comercio.
 
-22) PPRI: Precio Promedio de Referencia Internacional del año Cafetalero.
+22) PPRI: Precio Promedio de Referencia Internacional del Año Cafetalero.
 
-23) Productor: Es toda, Persona natural o jurídica que se dedica al cultivo de café en cualquier parte del territorio nacional, inscrito en el Registro Único de la Caficultura de Nicaragua (RUCN).
+23) Productor: Es toda persona natural o jurídica que se dedica al cultivo de café en cualquier parte del territorio nacional, inscrito en el Registro Único de la Caficultura de Nicaragua (RUCN).
 
 24) PNTDC: Programa Nacional de Transformación y Desarrollo de la Caficultura.
 
 25) RUCN: Registro Único de la Caficultura de Nicaragua.
 
-26) Zonas cafetaleras: Zona apta del territorio nacional para el cultivo del café.
+26) Zonas Cafetaleras: Zona apta del territorio nacional para el cultivo del café.
 
 27) Café: Incluye a café arábica y robusta.
 

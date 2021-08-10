@@ -1,8 +1,8 @@
 # Artículo 12
 
-Funciones del Comité Técnico Nacional para la Transformación y Desarrollo de la Caficultura
+Funciones del Comité Técnico Nacional para la Transformación y Desarrollo de la Caficultora
 
-Son funciones del Comité Técnico Nacional para la Transformación y Desarrollo de la Caficultora, las siguientes:
+Son funciones del Comité Técnico Nacional para la Transformación y Desarrollo de la Caficultura, las siguientes:
 
 1) Proponer a la SEC reformas al PNTDC para su aprobación por la CONATRADEC;
 

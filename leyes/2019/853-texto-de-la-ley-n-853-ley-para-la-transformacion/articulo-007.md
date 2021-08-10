@@ -1,6 +1,6 @@
 # Artículo 7
 
-Creación de la Comisión Nacional para la Transformación y Desarrollo de la Caficultora
+Creación de la Comisión Nacional para la Transformación y Desarrollo de la Caficultura
 
 Créase la Comisión Nacional para la Transformación y Desarrollo de la Caficultura (CONATRADEC), como el órgano competente y responsable de administrar el FTDC y de promover el fomento, la transformación y desarrollo de la caficultura.
 

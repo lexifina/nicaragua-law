@@ -6,7 +6,7 @@ La CONATRADEC otorgará al Banco de Fomento a la Producción, como fiduciario de
 
 1) Administrar en Fideicomiso el FTDC;
 
-2) Emitir, teniendo como respaldo el Fideicomiso del FTDC, los Certificados de Créditos para la Transformación de la Caficultora (CCTC) del PNTDC, con una cobertura de hasta el treinta por ciento (30%) del área financiada, los cuales también podrán garantizar financiamiento para renovación, rehabilitación y habilitación (mantenimiento) cafetalera;
+2) Emitir, teniendo como respaldo el Fideicomiso del FTDC, los Certificados de Créditos para la Transformación de la Caficultura (CCTC) del PNTDC, con una cobertura de hasta el treinta por ciento (30%) del área financiada, los cuales también podrán garantizar financiamiento para renovación, rehabilitación y habilitación (mantenimiento) cafetalera;
 
 3) Redimir los CCTC de acuerdo a las condiciones que en este se establezcan;
 

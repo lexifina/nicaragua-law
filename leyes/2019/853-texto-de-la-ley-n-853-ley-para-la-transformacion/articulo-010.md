@@ -1,10 +1,10 @@
 # Artículo 10
 
-Funciones de la SEC:
+Funciones de la SEC
 
 1) Dar cumplimiento a los planes y programas de trabajo aprobados por la CONATRADEC;
 
-2) Participar en las reuniones de CONATRADEC;
+2) Participar en las reuniones de la CONATRADEC;
 
 3) Proponer a la CONATRADEC planes y proyectos de cooperación ante organismos, agencias, e instituciones públicas y privadas, vinculadas a la Caficultura y ante organismos internacionales;
 
@@ -12,7 +12,7 @@ Funciones de la SEC:
 
 5) Proponer a la CONATRADEC planes y programas de trabajo y sugerir el orden de prioridades;
 
-6) Elaborar normativas, procedimiento crediticios y esquema de financiamiento del PNTDC para ser aprobado por la CONATRADEC;
+6) Elaborar normativas, procedimientos crediticios y esquema de financiamiento del PNTDC para ser aprobado por la CONATRADEC;
 
 7) Recomendar a la CONATRADEC reformas al PNTDC y al FTDC;
 
@@ -38,4 +38,4 @@ Funciones de la SEC:
 
 18) Cualquier otra función que le delegue la CONATRADEC.
 
-DEL COMITÉ TÉCNICO NACIONAL PARA LA TRANSFORMACJÓN Y DESARROLLO DE LA CAFICULTURA (CTNC)
+DEL COMITÉ TÉCNICO NACIONAL PARA LA TRANSFORMACIÓN Y DESARROLLO DE LA CAFICULTURA (CTNC)
