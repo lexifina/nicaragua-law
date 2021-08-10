@@ -1,0 +1,5 @@
+# Artículo 73
+
+El acceso a la pesca de los túnidos y especies afines altamente migratorias, se obtendrá mediante una licencia de pesca especial otorgada por el INPESCA por cada buque atunero que se encuentre en condiciones óptimas para operar. Esta licencia tendrá una vigencia de dos (2) años renovables si no se desembarca ni procesa el producto en Nicaragua, y cinco (5) años renovables si desembarca y procesa el producto en el país. También se podrá otorgar licencia con vigencia de diez (10) años renovables a los que ejecuten proyectos de inversión en tierra a largo plazo. Por tratarse de un recurso administrado por Comisiones Internacionales de las que Nicaragua es parte, el Poder Ejecutivo elaborará un Reglamento Especial donde se establezcan las regulaciones, los procedimientos y sanciones correspondientes.
+
+Para el otorgamiento de la licencia se tomará en cuenta la Cuota reconocida a Nicaragua por la Comisión Interamericana del Atún Tropical (CIAT) o por otros organismos internacionales de los cuales llegue a ser parte el país.

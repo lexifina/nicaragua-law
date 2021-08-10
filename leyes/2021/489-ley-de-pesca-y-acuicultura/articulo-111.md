@@ -1,0 +1,7 @@
+# Artículo 111
+
+A las personas naturales o jurídicas poseedoras de licencias o permisos de pesca para aprovechamiento comercial, se les podrá autorizar, en época de veda de la especie objetivo, a aprovechar otros recursos hidrobiológicos que se encuentren inexplotados o subexplotados lo cual tendrá un tratamiento de permiso temporal sujeto al cumplimiento de las obligaciones establecidas en la Ley. El Reglamento dispondrá el procedimiento respectivo.
+
+Se establece el derecho de suspensión previa de los tributos que graven el diésel para las actividades pesqueras y la acuícola industrial, cuando dicho insumo se utilice en la captura de productos que se destinen al mercado nacional y de exportación. La Comisión Nacional de Promoción de Exportaciones del MIFIC, a través de la Secretaría Técnica en coordinación con el Ministerio de Hacienda y Crédito Público y la Dirección General de Ingresos, administrará la aplicación de la presente disposición. Asimismo, para la pesca y la acuicultura artesanal, se establece el mecanismo de suspensión previa de los tributos que graven el diésel y la gasolina cuando dichos insumos se utilicen para la captación de productos que se destinen a la exportación; el procedimiento para la aplicación de este beneficio se establecerá en el Reglamento de la presente Ley.
+
+El Estado promoverá la creación de un Instituto o Escuela para la formación y capacitación de personal y técnicos especializados en actividades pesqueras, principalmente en las de orden artesanal.
