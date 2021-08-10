@@ -1,0 +1,9 @@
+Dado en la Ciudad de Managua, Casa de la Presidencia, a los once días del mes de junio de mil novecientos noventa y dos. Violeta Barrios de Chamorro, Presidente de la República de Nicaragua.
+
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por: 1. Ley Nº. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en La Gaceta, Diario Oficial Nº. 102 del 3 de junio de 1998; 2. Decreto Ejecutivo Nº. 41-2004, Reforma del Decreto Nº. 36-92, publicado en La Gaceta, Diario Oficial Nº. 110 del 7 de junio de 2004; 3. Decreto Ejecutivo Nº. 43-2009, De Nombramiento y Delegación Interorgánica de Atribuciones a la Financiera Nicaragüense de Inversiones S.A. (FNI S.A.) para que se constituya en la Estructura Orgánica y Funcional que garantice el traspaso y legalidad de la concentración, ordenamiento y armonización de los recursos destinados al BANCO PRODUZCAMOS, publicado en La Gaceta, Diario Oficial Nº. 114 del 19 de junio de 2009; 4. Ley Nº. 804, Ley de Reforma y Adición a la Ley Nº. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en La Gaceta, Diario Oficial Nº. 134 del 17 de julio de 2012; y 5. Ley Nº. 864, Ley de Reforma a la Ley Nº. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en La Gaceta, Diario Oficial Nº. 91 del 20 de mayo de 2014.
+
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los tres días del mes de marzo del año dos mil veintiuno. Dip. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+
+Observación: El Texto Consolidado, Decreto Ejecutivo Nº. 36-92, Creación del Consejo Nacional Agropecuario, se encuentra incorporado en el Anexo IV, Registro de Normas Consolidadas de la Ley del Digesto Jurídico Nicaragüense de la Materia Soberanía y Seguridad Alimentaria y Nutricional (SSAN).
+
+.
