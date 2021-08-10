@@ -1,0 +1,5 @@
+# Artículo 68
+
+Se prohíbe a la pesca artesanal, en sus actividades de extracción la captura de especies que son de uso exclusivo de la pesca deportiva, el incumplimiento de esta disposición se aplicará lo dispuesto en el numeral 5 del Artículo 123 de la Ley.
+
+ACOPIO Y RECOLECCIÓN DE OSTRAS

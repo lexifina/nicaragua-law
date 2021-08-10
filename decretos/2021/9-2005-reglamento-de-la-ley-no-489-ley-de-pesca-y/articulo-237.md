@@ -1,0 +1,3 @@
+# Artículo 237
+
+En los casos de conductas ilícitas tipificadas como delitos contra los recursos hidrobiológicos definidas por la Ley, las autoridades del INPESCA informarán de los hechos a la Procuraduría para la Defensa del Medio Ambiente y de Recursos Naturales y esta en su caso, dará parte a la Fiscalía General de la República, para que ejerza sus facultades y responsabilidades, al tenor de lo dispuesto en el Código de Procedimiento Penal. Los ciudadanos que se consideren ofendidos en la comisión de los delitos referidos, podrán ejercer las facultades y prerrogativas que les otorga el procedimiento penal vigente en relación a su capacidad de acción.

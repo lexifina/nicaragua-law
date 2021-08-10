@@ -1,0 +1,7 @@
+# Artículo 152
+
+Asimismo, en el caso de concesiones de acuicultura a otorgarse en las Regiones Autónomas de la Costa Caribe, operará el mismo período de tiempo establecido en el Artículo anterior para obtener el permiso ambiental si lo requiere y efectuar las consultas para obtener la aprobación previa de las Comisiones de Recursos Naturales de los Consejos Regionales de la Costa Caribe. En caso de no requerir permiso ambiental, las Comisiones de Recursos Naturales de los Consejos Regionales tendrán un plazo no mayor de cuarenta y cinco (45) días a partir de su fecha de recepción para emitir su resolución de aprobación previa.
+
+Los Consejos Regionales de la Costa Caribe, a través de la Comisión de Recursos Naturales trasladarán la solicitud a la Secretaría de Recursos Naturales (SERENA) del Gobierno Regional, quien deberá emitir su dictamen técnico, por medio de una resolución y posterior remisión a la Comisión de Recursos Naturales para su dictamen e inclusión en agenda parlamentaria del Consejo Regional Autónomo de la Costa Caribe para su resolución.
+
+En caso de negativa de las Comisiones de Recursos Naturales de los Consejos Regionales, el INPESCA podrá intervenir aportando nuevos elementos que permitan reconsiderar la negativa. Si el Consejo Regional persiste en su negativa, el INPESCA rechazará la solicitud sin perjuicio de las acciones que el solicitante pueda ejercer en la vía que corresponda.

@@ -1,0 +1,3 @@
+# Artículo 166
+
+En relación a los productores o acuicultores que a la fecha de entrada en vigencia de este Reglamento, estén operando sin concesión otorgada por el Estado, tendrán el plazo de tres (3) meses para legalizar su situación. Vencido este plazo, el Estado se reservará el derecho de solicitar ante los tribunales de justicia correspondientes la adjudicación de la infraestructura existente en la granja. Esto no se aplica para el caso de acuicultura en terrenos privados, para los cuales subsistirá siempre la obligación de inscribirse en el INPESCA bajo el apercibimiento de imponer sanciones administrativas por omisión.

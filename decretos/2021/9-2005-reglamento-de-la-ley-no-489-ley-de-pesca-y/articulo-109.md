@@ -1,0 +1,3 @@
+# Artículo 109
+
+Las reparaciones de los barcos pesqueros deben realizarse en astilleros nacionales. Cuando por razones técnicas y de insuficiencia en la capacidad instalada del país, se requiera el traslado de la nave a otro Estado, para su reparación, será imprescindible la presentación de la solicitud a INPESCA adjuntando constancia de los Astilleros Nacionales de que no existe capacidad técnica o instalada. En un plazo no menor de quince (15) días, antes de la fecha programada de su partida, INPESCA evaluará mediante una inspección, la fundamentación de la solicitud y emitirá su dictamen técnico en un plazo no mayor de (10) diez días. Presentado el dictamen técnico, el INPESCA emitirá su resolución en un plazo no mayor de (5) cinco días a partir de esa fecha.
