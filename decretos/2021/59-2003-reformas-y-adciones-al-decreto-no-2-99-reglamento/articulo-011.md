@@ -1,0 +1,3 @@
+# Artículo 11
+
+El Instituto de Protección y Sanidad Agropecuaria, en la primera semana de cada mes, reportará al Ministerio de Hacienda y Crédito Público el monto generado en el mes anterior en concepto de las prestaciones de servicios, multas, sanciones y otros, para que este efectúe su devolución en un plazo no mayor de 30 días, para ser usados en el fortalecimiento de las actividades sanitarias del Instituto de Protección y Sanidad Agropecuaria, cubriendo los costos necesarios de operación, ampliación y modernización de los servicios sanitarios, con el objetivo de que funcionen de manera efectiva, de conformidad con lo dispuesto en el Artículo 67 de la Ley.

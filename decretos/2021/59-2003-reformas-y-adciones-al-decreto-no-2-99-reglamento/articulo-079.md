@@ -1,0 +1,3 @@
+# Artículo 79
+
+El incumplimiento a lo establecido en el Artículo 40 de la Ley, será sancionado con una amonestación escrita enviada al infractor por el Instituto de Protección y Sanidad Agropecuaria. Si a pesar de ello, el infractor reincidiere en el incumplimiento, la Autoridad Competente, pondrá en conocimiento del Procuraduría General de la República, dicha resistencia al cumplimiento de la Ley, para que proceda de acuerdo con las normas establecidas en el Código Penal en lo relativo a los delitos contra la Economía Nacional, la Industria y el Comercio y los delitos contra la Salud Pública.

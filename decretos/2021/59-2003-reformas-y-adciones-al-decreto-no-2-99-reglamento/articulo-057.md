@@ -1,0 +1,3 @@
+# Artículo 57
+
+Si la inspección sanitaria que se realice a los animales, productos y subproductos de origen animal, acuícola y pesquero, en el sitio de ingreso al país, revelare o se sospechare la existencia de plagas y enfermedades de importancia económica o cuarentenaria o no se cumpla con los requisitos establecidos, estos podrán ser retenidos, decomisados y destruidos sin derecho a indemnización alguna. Para los casos en que se determine la presencia de plagas y enfermedades endémicas de importancia económica y si el caso lo amerita, se efectuará tratamiento cuarentenario. Los gastos que demanden la aplicación de las medidas cuarentenarias, serán por cuenta del propietario.

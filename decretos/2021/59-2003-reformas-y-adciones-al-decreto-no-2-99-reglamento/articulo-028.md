@@ -1,0 +1,3 @@
+# Artículo 28
+
+El Instituto de Protección y Sanidad Agropecuaria, para garantizar el funcionamiento del Dispositivo Nacional de Emergencia Agropecuaria, constituirá un Comité Interno de Emergencia en Sanidad Agropecuaria, presidido e integrado por el Director Ejecutivo del Instituto de Protección y Sanidad Agropecuaria, el Director de Salud Animal, Jefe de Epidemiología, Jefe de Vigilancia, Jefe de Cuarentena Animal, Jefes de Servicio de Campo y Laboratorios de Referencias. El Comité también podrá ser integrado por personas naturales o jurídicas, organismos e instituciones nacionales e internacionales, que por una u otra causa deban ser involucradas.

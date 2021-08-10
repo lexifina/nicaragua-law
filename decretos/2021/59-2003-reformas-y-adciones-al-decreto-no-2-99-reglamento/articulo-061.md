@@ -1,0 +1,3 @@
+# Artículo 61
+
+De conformidad con el Artículo 37 de la Ley, los insumos y productos de uso agropecuario, acuícola y pesquero, no contemplados en la Ley, Nº. 280, Ley de Producción y Comercio de Semillas, publicada en La Gaceta, Diario Oficial Nº. 26 del 9 de febrero de 1998 y la Ley Nº. 274, Ley Básica para la Regulación y Control de Plaguicidas, Sustancias Tóxicas, Peligrosas y otras Similares, publicada en La Gaceta, Diario Oficial Nº. 30 del 13 de febrero de 1998, serán objeto de regulación del presente Reglamento, siendo esta regulación responsabilidad del Instituto de Protección y Sanidad Agropecuaria.
