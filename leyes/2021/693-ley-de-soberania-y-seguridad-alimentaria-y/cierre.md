@@ -1,0 +1,11 @@
+Dado en la Sala de Sesiones de la Asamblea Nacional. Managua, a los dieciocho días del mes de junio del año dos mil nueve. Ing. René Núñez Téllez, Presidente de la Asamblea Nacional. Dr. Wilfredo Navarro Moreira, Secretario de la Asamblea Nacional.
+
+Por tanto. Téngase como Ley de la República. Publíquese y Ejecútese. Managua, nueve de julio del año dos mil nueve. DANIEL ORTEGA SAAVEDRA, Presidente de la República.
+
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por: 1. Fe de Erratas a la Ley Nº. 693, Ley de Soberanía y Seguridad Alimentaria y Nutricional, publicada en La Gaceta, Diario Oficial Nº. 169 del 7 de septiembre de 2009; 2. Ley Nº. 854, Ley de Reforma Parcial a la Constitución Política de la República de Nicaragua, publicada en La Gaceta, Diario Oficial Nº. 26 del 10 de febrero de 2014; y 3. Ley Nº. 864, Ley de Reforma a la Ley Nº. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en La Gaceta, Diario Oficial Nº. 91 del 20 de mayo de 2014.
+
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los tres días del mes de marzo del año dos mil veintiuno. Dip. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+
+Observación: El Texto Consolidado, Ley N°. 693, Ley de Soberanía y Seguridad Alimentaria y Nutricional, se encuentra incorporado en el Anexo IV, Registro de Normas Consolidadas de la Ley del Digesto Jurídico Nicaragüense de la Materia Soberanía y Seguridad Alimentaria y Nutricional (SSAN).
+
+.
