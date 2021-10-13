@@ -6,6 +6,6 @@ Una vez hecha la notificación y en un plazo de tres días hábiles, la autorida
 
 Si la autoridad competente lo considera o si una de las partes lo solicita, se abre a prueba por ocho días con todo cargo.
 
-Cumplido el término probatorio, la autoridad competente en los siguientes tres días dictará resolución motivad y debidamente fundamentada.
+Cumplido el término probatorio, la autoridad competente en los siguientes tres días dictará resolución motivada y debidamente fundamentada.
 
-La autoridad competente deberá iniciar de oficio el proceso administrativo un vez que, previa verificación, tenga cono cimiento de a infracción por cualquier medio de comunicación o por inspección técnica que esta realice.
+La autoridad competente deberá iniciar de oficio el proceso administrativo una vez que, previa verificación, tenga conocimiento de la infracción por cualquier medio de comunicación o por inspección técnica que esta realice.

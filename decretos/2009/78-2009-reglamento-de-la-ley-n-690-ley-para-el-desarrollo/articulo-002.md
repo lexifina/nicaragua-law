@@ -2,21 +2,21 @@
 
 Para efecto del presente Reglamento, se entenderá por:
 
-ACANTILADO: Accidente geográfico que consiste en una pendiente mayor sesenta grados o vertical abrupta. Normalmente se alude a acantilado cuando está sobre la costa, pero también pueden ser considerados como tales los que existen en montañas, fallas y orillas de los ríos.
+ACANTILADO: Accidente geográfico que consiste en una pendiente mayor a sesenta grados o vertical abrupta. Normalmente se alude a acantilado cuando está sobre la costa, pero también pueden ser considerados como tales los que existen en montañas, fallas y orillas de los ríos.
 
 AMUNIC: Asociación de Municipios de Nicaragua.
 
 ARCHIPIÉLAGO: Conjunto, generalmente numeroso, de islas agrupadas en una superficie más o menos ubicadas en lagos, mares y océanos.
 
-DERECHO LEGALMENTE ADQUIRIDO. Se consideran como tales aquellos derechos adquiridos de conformidad con la ley por personas naturales o jurídicas, sean nacionales o extranjeras, sobre propiedades ubicadas en la zona costera con anterioridad a la entrada en vigencia de la ley. Estos derechos son reconocidos como tales y el Estado de Nicaragua no podrá negar, derogar, ignorar u otorgarle condiciones menos favorable a las ya existentes de los propietarios de parcelas fundos en las zonas costeras de uso público o restringido.
+DERECHO LEGALMENTE ADQUIRIDO: Se consideran como tales aquellos derechos adquiridos de conformidad con la Ley, por personas naturales o jurídicas, sean nacionales o extranjeras, sobre propiedades ubicadas en la zona costera con anterioridad a la entrada en vigencia de la Ley. Estos derechos son reconocidos como tales y el Estado de Nicaragua no podrá negar, derogar, ignorar u otorgarle condiciones menos favorables a las ya existentes de los propietarios de parcelas o fondos en las zonas costeras de uso público o restringido.
 
-CDZC: Comisión Nacional de Desarrollo de las Zonas Costeras
+CDZC: Comisión Nacional de Desarrollo de las Zonas Costeras.
 
 CONIMIPYME: Consejo Nicaragüense de la Micro, Pequeña y Mediana Empresa.
 
 COSEP: Consejo Superior de la Empresa Privada.
 
-DICTAMEN TÉCNICO: Instrumento Técnico emitido por la CDCZ o SERENA que valora los aspectos territoriales, sociales, ambientales, turísticos y económicos.
+DICTAMEN TÉCNICO: Instrumento Técnico emitido por la CDZC o SERENA que valora los aspectos territoriales, sociales, ambientales, turísticos y económicos.
 
 EL REGLAMENTO: El presente reglamento de la ley para el desarrollo de las zonas costeras.
 
@@ -36,25 +36,23 @@ ISLA: Zona de tierra firme de extensión variable, ubicada en mares, ríos y lag
 
 LEY 690: Ley para el Desarrollo de las Zonas Costeras.
 
-MAREA: El ascenso y descenso rítmico y alternado del a superficie del océano (o nivel del agua) y de los cuerpos de agua conectados con el océano, tales como: estuarios, golfos y canales, que ocurren dos veces al día sobre la mayor parte de la Tierra, y que resultan de la atracción gravitacional de la Luna y en menor grado de la del Sol, actuando desigualmente sobre partes diferentes de la Tierra en rotación.
+MAREA: El ascenso y descenso rítmico y alternado de la superficie del océano (o nivel del agua) y de los cuerpos de agua conectados con el océano, tales como: estuarios, golfos y canales, que ocurren dos veces al día sobre la mayor parte de la Tierra, y que resultan de la atracción gravitacional de la Luna y en menor grado de la del Sol, actuando desigualmente sobre partes diferentes de la Tierra en rotación.
 
 MARENA: Ministerio del Ambiente y los Recursos Naturales.
 
-MARINA TURÍSTICA: Instalación Náuticas con fines recreativos ubicadas en una porción de costa y mar.
-
-MTI: Ministerio de Transporte e Infraestructura.
+MARINA TURÍSTICA: Instalaciones Náuticas con fines recreativos ubicadas en una porción de costa y mar. MTI: Ministerio de Transporte e Infraestructura.
 
 NÚCLEOS URBANOS: Área físicamente localizada, donde se establece una población con patrones propios de poblamiento y los habitantes se encuentran vinculados por intereses comunes de carácter económico, social, cultural e histórico con niveles de infraestructura básica de servicios, dotada del nivel básico de equipamiento social, educativo, sanitario y recreativo. Estos se determinan por los Planes de Ordenamiento y Desarrollo Territorial de los Gobiernos Municipales y los Consejos Regionales.
 
 PN: Policía Nacional.
 
-RAAN: Región Autónoma del Atlántico Norte.
+RACCN: Región Autónoma de la Costa Caribe Norte.
 
-RAAS: Región Autónoma del Atlántico Sur.
+RACCS: Región Autónoma de la Costa Caribe Sur.
 
-SERENA: Secretaria de Recursos Naturales de los Gobiernos Regionales
+SERENA: Secretaría de Recursos Naturales de los Gobiernos Regionales.
 
-SINAP: Sistema Nacional de Áreas Protegidas
+SINAP: Sistema Nacional de Áreas Protegidas.
 
 VALOR PAISAJÍSTICO: Es el valor que se asigna a cada unidad de paisaje y cada recurso paisajístico por razones ambientales, sociales, culturales o visuales. Este valor se establece en función de la calidad paisajística, preferencias de la población y visibilidad.
 

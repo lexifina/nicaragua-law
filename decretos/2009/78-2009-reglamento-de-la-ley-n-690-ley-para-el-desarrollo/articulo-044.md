@@ -1,6 +1,6 @@
 # Artículo 44
 
-Para los efectos del proceso administrativo, señalado en el art. 51 de la Ley, toda persona natural o jurídica podrá interponer denuncia ante la autoridad competente por infracciones la presente ley.
+Para los efectos del proceso administrativo, señalado en el Artículo 51 de la Ley, toda persona natural o jurídica podrá interponer denuncia ante la autoridad competente por infracciones a la presente Ley.
 
 La denuncia se podrá presentar por escrito o de manera verbal, levantándose el acta respectiva, y deberá contener al menos lo siguiente:
 

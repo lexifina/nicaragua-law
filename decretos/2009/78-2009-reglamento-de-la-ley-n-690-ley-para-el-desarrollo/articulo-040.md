@@ -2,7 +2,7 @@
 
 El contrato de concesión deberá contener al menos:
 
-1. Nombre y generales de ley del concesionario y/o acreditación el representante legal en el caso de tratarse de una persona jurídica.
+1. Nombre y generales de ley del concesionario y/o acreditación del representante legal en el caso de tratarse de una persona jurídica.
 
 2. Antecedentes del dominio del Estado.
 
