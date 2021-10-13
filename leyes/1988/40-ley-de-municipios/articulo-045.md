@@ -4,4 +4,4 @@ El patrimonio de los municipios y su gestión administrativa serán fiscalizados
 
 Capítulo II
 
-De los ingresos municipales
+De los Ingresos Municipales

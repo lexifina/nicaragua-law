@@ -1,6 +1,7 @@
 - TÍTULO I (antes del artículo 1)
-- CAPÍTULO II (antes del artículo 4)
 - TÍTULO II (antes del artículo 6)
 - TÍTULO III (antes del artículo 13)
+- TÍTULO IV (antes del artículo 38)
 - TÍTULO V (antes del artículo 42)
+- TÍTULO VI (antes del artículo 62)
 - TÍTULO VII (antes del artículo 70)
