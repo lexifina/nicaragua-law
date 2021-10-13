@@ -1,693 +1,975 @@
 # Artículo 6
 
-El territorio nacional se divide en nueve regiones, diecisiete departamentos y ciento cuarenta y tres municipios, cuya demarcación y límites se detallan en el Anexo I de esta Ley.
+El territorio nacional se divide en dos Regiones Autónomas, quince departamentos y ciento cincuenta y tres municipios, cuya demarcación y límites se detallan en el Anexo I de esta Ley, publicación oficial de los derroteros municipales de la República de Nicaragua realizada por el Instituto Nicaragüense de Estudios Territoriales.
 
 Estas divisiones son las siguientes:
 
-I REGIÓN “LAS SEGOVIAS”, con cabecera regional en la ciudad de Estelí, conformada por tres Departamentos:
-
-1. Nueva Segovia, con cabecera departamental en la ciudad de Ocotal, integrado por once Municipios:
+1. Departamento de Nueva Segovia, con cabecera departamental en la ciudad de Ocotal e integrado por doce municipios, siendo estos los siguientes:
 
 Municipios
 
 Cabeceras
 
-1. Santa María
+1.
 
 Santa María
 
-2. Macuelizo
+Santa María
+
+2.
 
 Macuelizo
 
-3. Dipilto
+Macuelizo
+
+3.
 
 Dipilto
 
-4. Ocotal
+Dipilto
+
+4.
 
 Ocotal
 
-5. Mosonte
+Ocotal
 
-Mosonte
+5.
 
-6. San Fernando
+Mozonte
+
+Mozonte
+
+6.
 
 San Fernando
 
-7. Ciudad Antigua
+San Fernando
+
+7.
 
 Ciudad Antigua
 
-8. El Jícaro
+Ciudad Antigua
 
-Ciudad Sandino
+8.
 
-9. Jalapa
+El Jícaro
+
+El Jícaro
+
+9.
 
 Jalapa
 
-10. Murra
+Jalapa
+
+10.
 
 Murra
 
-11. Quilalí
+Murra
+
+11.
 
 Quilalí
 
-2. Madriz, con cabecera en la ciudad de Somoto, integrado por nueve municipios:
+Wiwilí
 
-Municipios
+12.
 
-Cabeceras
-
-1. Somoto
-
-Somoto
-
-2. Totogalpa
-
-Totogalpa
-
-3. Telpaneca
-
-Telpaneca
-
-4. San Juan de Río Coco
-
-San Juan de Río Coco
-
-5. Yalagüina
-
-Yalagüina
-
-6. Palacagüina
-
-Palacagüina
-
-7. San Lucas
-
-San Lucas
-
-8. Las Sabanas
-
-Las Sabanas
-
-9. San Juan de Cusmapa
-
-San Juan de Cusmapa
-
-3. Estelí, con cabecera en la ciudad de Estelí, que agrupa seis municipios:
-
-Municipios
-
-Cabeceras
-
-1. Pueblo Nuevo
-
-Pueblo Nuevo
-
-2. Condega
-
-Condega
-
-3. San Juan de Limay
-
-San Juan de Limay
-
-4. Estelí
-
-Estelí
-
-5. La Trinidad
-
-La Trinidad
-
-6. San Nicolás
-
-San Nicolás
-
-II REGIÓN “OCCIDENTAL”, con cabecera regional en la ciudad de León, conformada por dos departamentos:
-
-1. Chinandega: con cabecera en la ciudad de Chinandega, integrado por trece municipios:
-
-Municipios
-
-Cabeceras
-
-1. El Viejo
-
-El Viejo
-
-2. Puerto Morazán
-
-Tonalá
-
-3. Somotillo
-
-Somotillo
-
-4. Santo Tomás del Norte
-
-Santo Tomás del Norte
-
-5. Cinco Pinos
-
-Cinco Pinos
-
-6. San Pedro del Norte
-
-San Pedro del Norte
-
-7. San F. del Norte
-
-San F. del Norte
-
-8. Villanueva
-
-Villanueva
-
-9. Chinandega
-
-Chinandega
-
-10. El Realejo
-
-El Realejo
-
-11. Corinto
-
-Corinto
-
-12. Chichigalpa
-
-Chichigalpa
-
-13. Posoltega
-
-Posoltega
-
-2. León: con cabecera en la ciudad de León, integrado por diez municipios:
-
-Municipios
-
-Cabeceras
-
-1. León
-
-León
-
-2. Quezalguaque
-
-Quezalguaque
-
-3. Telica
-
-Telica
-
-4. Larreynaga
-
-Malpaisillo
-
-5. El Sauce
-
-El Sauce
-
-6. Achuapa
-
-Achuapa
-
-7. Santa R. d. Peñón
-
-Santa R. d. Peñón
-
-8. El Jicaral
-
-El Jicaral
-
-9. La Paz Centro
-
-La Paz Centro
-
-10. Nagarote
-
-Nagarote
-
-III REGIÓN “MANAGUA”, con cabecera regional en la ciudad de Managua, que es a su vez capital de la República, integrada por un sólo departamento:
-
-1. Managua, con cabecera en la ciudad de Managua, integrado por siete municipios:
-
-Municipios
-
-Cabeceras
-
-1. San Francisco Libre
-
-San Francisco Libre
-
-2. Tipitapa
-
-Tipitapa
-
-3. Mateare
-
-Mateare
-
-4. Villa Carlos Fonseca
-
-Villa Carlos Fonseca
-
-5. San Rafael del Sur
-
-San Rafael del Sur
-
-6. Managua
-
-Managua
-
-7. Ticuantepe
-
-Ticuantepe
-
-IV REGIÓN “SUR”, con cabecera regional en la ciudad de Granada, conformada por cuatro departamentos:
-
-1. Masaya, con cabecera en la ciudad de Masaya integrado por nueve municipios:
-
-Municipios
-
-Cabeceras
-
-1. La Concepción
-
-La Concepción
-
-2. Nindirí
-
-Nindirí
-
-3. Masaya
-
-Masaya
-
-4. Tisma
-
-Tisma
-
-5. Masatepe
-
-Masatepe
-
-6. Nandasmo
-
-Nandasmo
-
-7. Catarina
-
-Catarina
-
-8. Niquinohomo
-
-Niquinohomo
-
-9. San Juan de Oriente
-
-San Juan de Oriente
-
-2. Carazo, con cabecera en la ciudad de Jinotepe, integrado por ocho municipios:
-
-Municipios
-
-Cabeceras
-
-1. San Marcos
-
-San Marcos
-
-2. Diriamba
-
-Diriamba
-
-3. Dolores
-
-Dolores
-
-4. Jinotepe
-
-Jinotepe
-
-5. El Rosario
-
-El Rosario
-
-6. La Paz de Carazo
-
-La Paz de Carazo
-
-7. Santa Teresa
-
-Santa Teresa
-
-8. La Conquista
-
-La Conquista
-
-3. Granada con cabecera en la ciudad de Granada, integrado por cuatro municipios:
-
-Municipios
-
-Cabeceras
-
-1. Granada
-
-Granada
-
-2. Diriá
-
-Diriá
-
-3. Diriomo
-
-Diriomo
-
-4. Nandaime
-
-Nandaime
-
-4. Rivas, con cabecera en la ciudad de Rivas, integrado por diez municipios:
-
-Municipios
-
-Cabeceras
-
-1. Tola
-
-Tola
-
-2. Belén
-
-Belén
-
-3. Potosí
-
-Potosí
-
-4. Buenos Aires
-
-Buenos Aires
-
-5. Rivas
-
-Rivas
-
-6. San Jorge
-
-San Jorge
-
-7. San Juan del Sur
-
-San Juan del Sur
-
-8. Cárdenas
-
-Cárdenas
-
-9. Moyogalpa
-
-Moyogalpa
-
-10. Altagracia
-
-Altagracia
-
-V REGIÓN “CENTRAL”, con cabecera regional en la ciudad de Juigalpa, conformada por dos departamentos:
-
-1. Boaco, con cabecera en la ciudad de Boaco, integrado por seis municipios:
-
-Municipios
-
-Cabeceras
-
-1. San José de los Remates
-
-San José de los Remates
-
-2. Teustepe
-
-Teustepe
-
-3. Santa Lucía
-
-Santa Lucía
-
-4. Boaco
-
-Boaco
-
-5. Camoapa
-
-Camoapa
-
-6. San Lorenzo
-
-San Lorenzo
-
-2. Chontales, con cabecera en la ciudad de Juigalpa, integrado por ocho municipios:
-
-Municipios
-
-Cabeceras
-
-1. Comalapa
-
-Comalapa
-
-2. Juigalpa
-
-Juigalpa
-
-3. La Libertad
-
-La Libertad
-
-4. Santo Domingo
-
-Santo Domingo
-
-5. San Pedro de Lóvago
-
-San Pedro de Lóvago
-
-6. Santo Tomás
-
-Santo Tomás
-
-7. Acoyapa
-
-Acoyapa
-
-8. Villa Sandino
-
-Villa Sandino
-
-VI REGIÓN “NORTE”, con cabecera regional en la ciudad de Matagalpa, conformada por dos departamentos:
-
-1. Jinotega, con cabecera en la ciudad de Jinotega, integrado por siete municipios:
-
-Municipios
-
-Cabeceras
-
-1. Wiwilí
+Wiwilí de Nueva Segovia
 
 Wiwilí
 
-2. Cuá – Bocay
+2. Departamento de Madriz, con cabecera departamental en la ciudad de Somoto, integrado por nueve municipios:
+
+Municipios
+
+Cabeceras
+
+1.
+
+Somoto
+
+Somoto
+
+2.
+
+Totogalpa
+
+Totogalpa
+
+3.
+
+Telpaneca
+
+Telpaneca
+
+4.
+
+San Juan del Río Coco
+
+San Juan del Río Coco
+
+5.
+
+Yalagüina
+
+Yalagüina
+
+6.
+
+Palacagüina
+
+Palacagüina
+
+7.
+
+San Lucas
+
+San Lucas
+
+8.
+
+Las Sabanas
+
+Las Sabanas
+
+9.
+
+San José de Cusmapa
+
+San José de Cusmapa
+
+3. Departamento de Estelí, con cabecera departamental en la ciudad de Estelí, que agrupa seis municipios:
+
+Municipios
+
+Cabeceras
+
+1.
+
+Pueblo Nuevo
+
+Pueblo Nuevo
+
+2.
+
+Condega
+
+Condega
+
+3.
+
+San Juan de Limay
+
+San Juan de Limay
+
+4.
+
+Estelí
+
+Estelí
+
+5.
+
+La Trinidad
+
+La Trinidad
+
+6.
+
+San Nicolás
+
+San Nicolás
+
+4. Departamento de Chinandega, con cabecera departamental en la ciudad de Chinandega, integrado por trece municipios:
+
+Municipios
+
+Cabeceras
+
+1.
+
+El Viejo
+
+El Viejo
+
+2.
+
+Puerto Morazán
+
+Tonalá
+
+3.
+
+Somotillo
+
+Somotillo
+
+4.
+
+Santo Tomás del Norte
+
+Santo Tomás del Norte
+
+5.
+
+Cinco Pinos
+
+Cinco Pinos
+
+6.
+
+San Pedro del Norte
+
+San Pedro del Norte
+
+7.
+
+San Francisco del Norte
+
+San Francisco del Norte
+
+8.
+
+Villanueva
+
+Villanueva
+
+9.
+
+Chinandega
+
+Chinandega
+
+10.
+
+El Realejo
+
+Realejo
+
+11.
+
+Corinto
+
+Corinto
+
+12.
+
+Chichigalpa
+
+Chichigalpa
+
+13.
+
+Posoltega
+
+Posoltega
+
+5. Departamento de León, con cabecera departamental en la ciudad de León, integrado por diez municipios:
+
+Municipios
+
+Cabeceras
+
+1.
+
+León
+
+León
+
+2.
+
+Quezalguaque
+
+Quezalguaque
+
+3.
+
+Telica
+
+Telica
+
+4.
+
+Larreynaga
+
+Malpaisillo
+
+5.
+
+El Sauce
+
+El Sauce
+
+6.
+
+Achuapa
+
+Achuapa
+
+7.
+
+Santa Rosa del Peñón
+
+Santa Rosa del Peñón
+
+8.
+
+El Jicaral
+
+El Jicaral
+
+9.
+
+La Paz Centro
+
+La Paz Centro
+
+10.
+
+Nagarote
+
+Nagarote
+
+6. Departamento de Managua, con cabecera departamental en la ciudad de Managua, que es a su vez Capital de la República, integrado por los siguientes nueve municipios:
+
+Municipios
+
+Cabeceras
+
+1.
+
+San Francisco Libre
+
+San Francisco Libre
+
+2.
+
+Tipitapa
+
+Tipitapa
+
+3.
+
+Mateare
+
+Mateare
+
+4.
+
+Villa El Carmen
+
+Villa El Carmen
+
+5.
+
+San Rafael del Sur
+
+San Rafael del Sur
+
+6.
+
+Managua
+
+Managua
+
+7.
+
+Ticuantepe
+
+Ticuantepe
+
+8.
+
+El Crucero
+
+El Crucero
+
+9.
+
+Ciudad Sandino
+
+Ciudad Sandino
+
+7. Departamento de Masaya, con cabecera departamental en la ciudad de Masaya, integrado por nueve municipios:
+
+Municipios
+
+Cabeceras
+
+1.
+
+La Concepción
+
+La Concepción
+
+2.
+
+Nindirí
+
+Nindirí
+
+3.
+
+Masaya
+
+Masaya
+
+4.
+
+Tisma
+
+Tisma
+
+5.
+
+Masatepe
+
+Masatepe
+
+6.
+
+Nandasmo
+
+Nandasmo
+
+7.
+
+Catarina
+
+Catarina
+
+8.
+
+Niquinohomo
+
+Niquinohomo
+
+9.
+
+San Juan de Oriente
+
+San Juan de Oriente
+
+8. Departamento de Carazo, con cabecera departamental en la ciudad de Jinotepe, integrado por ocho municipios:
+
+Municipios
+
+Cabeceras
+
+1.
+
+San Marcos
+
+San Marcos
+
+2.
+
+Diriamba
+
+Diriamba
+
+3.
+
+Dolores
+
+Dolores
+
+4.
+
+Jinotepe
+
+Jinotepe
+
+5.
+
+El Rosario
+
+El Rosario
+
+6.
+
+La Paz de Carazo
+
+La Paz de Carazo
+
+7.
+
+Santa Teresa
+
+Santa Teresa
+
+8.
+
+La Conquista
+
+La Conquista
+
+9. Departamento de Granada, con cabecera departamental en la ciudad de Granada, integrado por cuatro municipios:
+
+Municipios
+
+Cabeceras
+
+1.
+
+Granada
+
+Granada
+
+2.
+
+Diriá
+
+Diriá
+
+3.
+
+Diriomo
+
+Diriomo
+
+4.
+
+Nandaime
+
+Nandaime
+
+10. Departamento de Rivas, con cabecera departamental en la ciudad de Rivas, integrado por diez municipios:
+
+Municipios
+
+Cabeceras
+
+1.
+
+Tola
+
+Tola
+
+2.
+
+Belén
+
+Belén
+
+3.
+
+Potosí
+
+Potosí
+
+4.
+
+Buenos Aires
+
+Buenos Aires
+
+5.
+
+Rivas
+
+Rivas
+
+6.
+
+San Jorge
+
+San Jorge
+
+7.
+
+San Juan del Sur
+
+San Juan del Sur
+
+8.
+
+Cárdenas
+
+Cárdenas
+
+9.
+
+Moyogalpa
+
+Moyogalpa
+
+10.
+
+Altagracia
+
+Altagracia
+
+11. Departamento de Boaco, con cabecera departamental en la ciudad de Boaco, integrado por seis municipios:
+
+Municipios
+
+Cabeceras
+
+1.
+
+San José de los Remates
+
+San José de los Remates
+
+2.
+
+Teustepe
+
+Teustepe
+
+3.
+
+Santa Lucía
+
+Santa Lucía
+
+4.
+
+Boaco
+
+Boaco
+
+5.
+
+Camoapa
+
+Camoapa
+
+6.
+
+San Lorenzo
+
+San Lorenzo
+
+12. Departamento de Chontales, con cabecera departamental en la ciudad de Juigalpa, integrado por diez municipios:
+
+Municipios
+
+Cabeceras
+
+1.
+
+Comalapa
+
+Comalapa
+
+2.
+
+Juigalpa
+
+Juigalpa
+
+3.
+
+La Libertad
+
+La Libertad
+
+4.
+
+Santo Domingo
+
+Santo Domingo
+
+5.
+
+San Pedro de Lóvago
+
+San Pedro de Lóvago
+
+6.
+
+Santo Tomás
+
+Santo Tomás
+
+7.
+
+Acoyapa
+
+Acoyapa
+
+8.
+
+Villa Sandino
+
+Villa Sandino
+
+9.
+
+San Francisco de Cuapa
+
+Cuapa
+
+10.
+
+El Coral
+
+El Coral
+
+13. Departamento de Jinotega, con cabecera en la ciudad de Jinotega, integrado por los siguientes ocho municipios:
+
+Municipios
+
+Cabeceras
+
+1.
+
+Wiwilí de Jinotega
+
+Wiwilí de Jinotega
+
+2.
 
 El Cuá
 
-3. San Sebastián de Yalí
+El Cuá
+
+3.
+
+San José de Bocay
+
+San José de Bocay
+
+4.
 
 San Sebastián de Yalí
 
-4. La Concordia
+San Sebastián de Yalí
+
+5.
 
 La Concordia
 
-5. San Rafael del Norte
+La Concordia
+
+6.
 
 San Rafael del Norte
 
-6. Santa María de Pantasma
+San Rafael del Norte
+
+7.
+
+Santa María de Pantasma
 
 Las Praderas
 
-7. Jinotega
+8.
 
 Jinotega
 
-2. Matagalpa, con cabecera en la ciudad de Matagalpa, integrado por trece municipios:
+Jinotega
+
+14. Departamento de Matagalpa, con cabecera departamental en la ciudad de Matagalpa en trece municipios:
 
 Municipios
 
 Cabeceras
 
-1. San Isidro
+1.
 
 San Isidro
 
-2. Sébaco
+San Isidro
+
+2.
 
 Sébaco
 
-3. Ciudad Darío
+Sébaco
+
+3.
 
 Ciudad Darío
 
-4. Terrabona
+Ciudad Darío
+
+4.
 
 Terrabona
 
-5. San Dionisio
+Terrabona
+
+5.
 
 San Dionisio
 
-6. Esquipulas
+San Dionisio
+
+6.
 
 Esquipulas
 
-7. Muy Muy
+Esquipulas
+
+7.
 
 Muy Muy
 
-8. Matagalpa
+Muy Muy
+
+8.
 
 Matagalpa
 
-9. San Ramón
+Matagalpa
+
+9.
 
 San Ramón
 
-10. El Tuma - La Dalia
+San Ramón
+
+10.
+
+El Tuma - La Dalia
 
 La Dalia
 
-11. Rancho Grande
+11.
 
 Rancho Grande
 
-12. Matiguás
+Rancho Grande
+
+12.
 
 Matiguás
 
-13. Río Blanco
+Matiguás
+
+13.
 
 Río Blanco
 
-VIl REGIÓN “AUTÓNOMA ATLÁNTICO NORTE”, con sede administrativa en la citad de Puerto Cabezas, conformada por siete municipios:
+Río Blanco
+
+15. Departamento de Río San Juan, con cabecera departamental en la ciudad de San Carlos, e integrado por seis municipios:
 
 Municipios
 
 Cabeceras
 
-1. Waspán
-
-Waspán
-
-2. Bonanza
-
-Bonanza
-
-3. Rosita
-
-Rosita
-
-4. Puerto Cabezas
-
-Puerto Cabezas
-
-5. Waslala
-
-Waslala
-
-6. Siuna
-
-Siuna
-
-7. Prinzapolka
-
-Prinzapolka
-
-VIII REGIÓN “AUTÓNOMA ATLÁNTICO SUR”, con sede administrativa en la ciudad de Bluefields, conformada por nueve municipios:
-
-Municipios
-
-Cabeceras
-
-1. Paiwás
-
-Bocana de Paiwás
-
-2. La Cruz de Río Grande
-
-La Cruz de Río Grande
-
-3. Laguna de Perlas
-
-Laguna de Perlas
-
-4. Kukrahill
-
-Kukrahill
-
-5. El Rama
-
-El Rama
-
-6. Muelle de los Bueyes
-
-Muelle de los Bueyes.
-
-7. Nueva Guinea
-
-Nueva Guinea
-
-8. Bluefields
-
-BluefieIds
-
-9. Corn Island
-
-Corn Island
-
-IX REGIÓN “RÍO SAN JUAN” con cabecera regional en la ciudad de San Carlos, conformada por el departamento de Río San Juan, cuya cabecera es la misma ciudad de San Carlos, integrado por seis municipios:
-
-Municipios
-
-Cabeceras
-
-1. Morrito
+1.
 
 Morrito
 
-2. El Almendro
+Morrito
+
+2.
 
 El Almendro
 
-3. San Miguelito
+El Almendro
+
+3.
 
 San Miguelito
 
-4. San Carlos
+San Miguelito
+
+4.
 
 San Carlos
 
-5. El Castillo
+San Carlos
 
-Boca de Sábalos
+5.
 
-6. San Juan del Norte
+El Castillo
 
-San Juan del Norte
+El Castillo
 
-De la Creación y Conflictos Limítrofes de Regiones, Departamentos y Municipios
+6.
+
+San Juan de Nicaragua
+
+Graytown
+
+REGIÓN AUTÓNOMA DE LA COSTA CARIBE NORTE, con sede administrativa en la ciudad de Bilwi, también conocida como Puerto Cabezas, integrada con los ocho municipios siguientes:
+
+Municipios Cabeceras
+
+1.
+
+Puerto Cabezas
+
+Puerto Cabezas
+
+2.
+
+Bonanza
+
+Bonanza
+
+3.
+
+Siuna
+
+Siuna
+
+4.
+
+Rosita
+
+Rosita
+
+5.
+
+Waspán
+
+Waspán
+
+6.
+
+Prinzapolka
+
+Prinzapolka
+
+7.
+
+Waslala
+
+Waslala
+
+8.
+
+Mulukukú
+
+Mulukukú
+
+REGIÓN AUTÓNOMA DE LA COSTA CARIBE SUR, con sede administrativa en la ciudad de Bluefields, conformada por doce municipios, siendo estos los siguientes:
+
+Municipios Cabeceras
+
+1. Paiwas Bocana de Paiwas
+
+2. La Cruz de Río Grand La Cruz de Río Grande
+
+3. Laguna de Perlas Laguna de Perlas
+
+4. Kukrahill Kukrahill
+
+5. El Rama El Rama
+
+6. Muelle de los Bueyes Muelle de los Bueyes
+
+7. Nueva Guinea Nueva Guinea
+
+8. Bluefields Bluefields
+
+9. Corn Island Corn Island
+
+10. El Ayote El Ayote
+
+11. Desembocadura de Río Grande Karawala
+
+12. El Tortuguero El Tortuguero
+
+DE LA CREACIÓN Y CONFLICTOS LIMÍTROFES DE DEPARTAMENTOS Y MUNICIPIOS

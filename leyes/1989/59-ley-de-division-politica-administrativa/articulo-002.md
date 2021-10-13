@@ -1,3 +1,3 @@
 # Artículo 2
 
-El territorio nacional se divide para su administración en Regiones, Departamentos y Municipios que ésta ley establece.
+El territorio nacional se divide para su administración en Departamentos, Regiones Autónomas de la Costa Caribe y Municipios que esta ley establece.

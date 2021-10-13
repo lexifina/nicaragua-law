@@ -1,5 +1,7 @@
 # Artículo 1
 
-El territorio nacional se localiza entre los océanos Atlántico y Pacífico y las repúblicas de Honduras y Costa Rica. Comprende las Islas y cayos adyacentes, el suelo y el subsuelo, el mar territorial, las plataformas continentales, los zócalos submarinos, el espacio aéreo y la estratosfera.
+El territorio nacional es el comprendido entre el Mar Caribe y el Océano Pacífico y las Repúblicas de Honduras y Costa Rica.
 
-Los límites precisos del territorio nacional se fijan por leyes y tratados.
+De conformidad con las sentencias de la Corte Internacional de Justicia del ocho de octubre del año dos mil siete y del diecinueve de noviembre del año dos mil doce, Nicaragua limita en el Mar Caribe con Honduras, Jamaica, Colombia, Panamá y Costa Rica. La soberanía, jurisdicción y derechos de Nicaragua se extienden a las islas, cayos, bancos y rocas, situados en el Mar Caribe, Océano Pacífico y Golfo de Fonseca; así como a las aguas interiores, el mar territorial, la zona contigua, la zona económica exclusiva, la plataforma continental y el espacio aéreo correspondiente, de conformidad con la ley y las normas de Derecho Internacional, y las sentencias emitidas por la Corte Internacional de Justicia.
+
+La República de Nicaragua únicamente reconoce obligaciones internacionales sobre su territorio que hayan sido libremente consentidas y de conformidad con la Constitución Política de la República y con las normas de Derecho Internacional. Asimismo, no acepta los tratados suscritos por otros países en los cuales Nicaragua no sea Parte Contratante.

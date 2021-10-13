@@ -1,3 +1,3 @@
 # Artículo 11
 
-Los nombres y cabeceras de regiones y departamentos sólo podrán ser alterados por la Ley.
+Los nombres de los departamentos y las cabeceras departamentales y municipales solo podrán ser alterados por la Ley.
