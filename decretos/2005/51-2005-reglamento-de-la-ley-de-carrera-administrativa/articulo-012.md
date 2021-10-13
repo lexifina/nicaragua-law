@@ -1,8 +1,6 @@
 # Artículo 12
 
-Mecanismos y Condiciones de Reingreso al Sistema de Carrera Administrativa
-
-Municipal
+Mecanismos y Condiciones de Reingreso al Sistema de Carrera Administrativa Municipal
 
 Todos los funcionarios o empleados de carrera que no se encuentren en servicio activo tendrán derecho de solicitar su reincorporación.
 
@@ -10,7 +8,7 @@ Cuando haya varios solicitantes para reincorporarse al servicio activo en puesto
 
 a) Excedentes forzosos;
 
-b) Excedentes voluntarios;
+b) Excedentes voluntarios.
 
 En estos casos si existiera el puesto vacante, bastará la solicitud del interesado para que la Oficina de Recursos Humanos del municipio respectivo, proceda hacer efectivo el reingreso.
 

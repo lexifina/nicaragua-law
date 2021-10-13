@@ -2,7 +2,7 @@
 
 Glosario
 
-Para fines del presente reglamento se establecen los siguientes conceptos básicos:
+Para fines del presente Reglamento se establecen los siguientes conceptos básicos:
 
 Antigüedad: Es el tiempo que una persona tiene de laborar de forma continua dentro la Administración Municipal. Conlleva la adquisición de derechos.
 
@@ -12,7 +12,7 @@ Excedencia: Es aquella situación en la que se suspende la relación orgánica e
 
 Permiso o Licencia: Es la autorización que otorga la Administración Municipal a sus funcionarios o empleados para no concurrir a sus labores por causa justificada y por tiempo determinado.
 
-Promoción: Es el ascenso del funcionario a un cargo inmediatamente superior dentro de la misma administración municipal.
+Promoción: Es el ascenso del funcionario aun cargo inmediatamente superior dentro de la misma Administración Municipal.
 
 Traslado: Es el cambio de ubicación laboral del funcionario y puede darse a solicitud del mismo o por decisión de la Administración y también a lo interno en la propia Administración Municipal o en la Administración de otro municipio, en ningún caso podrán trasladarse con pasivos laborales.
 

@@ -8,6 +8,6 @@ b) Que los puestos se encuentren ubicados en distintas localidades;
 
 c) Que los cargos no sean de dirección;
 
-d) Que el acuerdo a que hace referencia el arto. 83 de la Ley sea firmado entre los respectivos alcaldes municipales y los funcionarios o empleados.
+d) Que el acuerdo a que hace referencia el Artículo 83 de la Ley sea firmado entre los respectivos Alcaldes o Alcaldesa municipales y los funcionarios o empleados.
 
 En ningún caso significará el arrastre de pasivos laborales a la nueva municipalidad donde el ciudadano trasladado ejercerá la función pública.

@@ -2,9 +2,9 @@
 
 Procedimiento del Recurso de Reposición
 
-El recurso lo presentará el funcionario afectado personalmente o por representante acreditado con carta – poder, ante el órgano que dictó la resolución dentro de los diez días hábiles siguientes a la notificación de la resolución, más el término de la distancia si la resolución fuese dictada por la Comisión Departamental de Carrera o la Comisión Nacional.
+El recurso lo presentará el funcionario afectado personalmente o por representante acreditado con carta - poder, ante el órgano que dictó la resolución dentro de los diez días hábiles siguientes a la notificación de la resolución, más el término de la distancia si la resolución fuese dictada por la Comisión Departamental de Carrera Administrativa Municipal o la Comisión Nacional de Carrera Administrativa Municipal.
 
-El escrito expresará el nombre, generales de ley, número de cédula de identidad, domicilio para oír notificaciones, número y fecha de la resolución contra la que se recurre y los agravios que le causa la resolución.
+El escrito expresará el nombre, generales de Ley, número de cédula de identidad, domicilio para oír notificaciones, número y fecha de la resolución contra la que se recurre y los agravios que le causa la resolución.
 
 La interposición del recurso de reposición suspenderá la ejecución de la resolución recurrida.
 

@@ -1,6 +1,6 @@
 # Artículo 14
 
-La excedencia voluntaria se produce a solicitud del funcionario o empleado, y no devengará salario ni prestaciones, tampoco les genera antigüedad y se da en los siguientes casos:
+La Excedencia Voluntaria se produce a solicitud del funcionario o empleado, y no devengará salario ni prestaciones, tampoco les genera antigüedad y se da en los siguientes casos:
 
 a) Prestación de servicios en otras administraciones, que no sean del Sistema de Carrera Administrativa Municipal.
 
@@ -8,4 +8,4 @@ b) Por interés particular. En este caso no podrá durar más de dos años despu
 
 Del Sistema Nacional de Capacitación Municipal
 
-Los artículos 73 al 78 de la Ley crean el SINACAM y mandan a reglamentar su funcionamiento.
+Los Artículos 73 al 78 de la Ley crean el SINACAM y mandan a reglamentar su funcionamiento.

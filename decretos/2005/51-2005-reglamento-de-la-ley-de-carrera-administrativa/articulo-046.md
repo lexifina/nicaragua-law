@@ -6,7 +6,7 @@ a) Muerte del cónyuge, o de parientes del funcionario hasta el segundo grado de
 
 b) Matrimonio del funcionario, cinco días hábiles.
 
-c) Nacimiento de hijo, dos días hábiles.
+c) Nacimiento de hijo, cinco días hábiles.
 
 d) Labores propias de dirigente sindical según lo dispuesto en el Código del Trabajo.
 

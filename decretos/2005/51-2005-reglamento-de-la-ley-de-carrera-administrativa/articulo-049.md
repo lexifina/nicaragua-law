@@ -1,6 +1,8 @@
 # Artículo 49
 
-Para efectos del último párrafo del Arto. 129 de la Ley, en caso de no llegarse a acuerdo en el trámite de mediación se seguirá el procedimiento siguiente:
+De la Mediación Administrativa
+
+Para efectos del último párrafo del Artículo 129 de la Ley, en caso de no llegarse a acuerdo en el trámite de mediación se seguirá el procedimiento siguiente:
 
 a) Se examinarán los reclamos o quejas a la luz de lo que dispone la Ley de Carrera Administrativa Municipal y el presente Reglamento.
 

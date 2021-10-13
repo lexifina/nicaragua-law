@@ -1,6 +1,6 @@
 # Artículo 52
 
-El recurrente deberá de presentar un escrito de apersonamiento, personalmente o por representante acreditado con carta – poder ante el órgano Superior. Este escrito deberá contener:
+El recurrente deberá de presentar un escrito de apersonamiento, personalmente o por representante acreditado con carta - poder ante el Órgano Superior. Este escrito deberá contener:
 
 a) Nombre, generales de ley y número de cédula de identidad;
 
@@ -14,8 +14,8 @@ El órgano que conozca el recurso tendrá un plazo de veinte días para resolver
 
 La falta de apersonamiento oportuno del recurrente ocasionará la deserción del recurso.
 
-Si el Recurso de Apelación dictado por la Comisión Regional y/o Departamental de Carrera no satisface las aspiraciones del recurrente, éste en el mismo plazo señalado en el presente artículo podrá interponer un segundo Recurso de Apelación Administrativa ante la Comisión Nacional de Carrera, al tenor de lo dispuesto en el arto. 128 de la Ley.
+Si el Recurso de Apelación dictado por la Comisión Regional y/o Departamental de Carrera Administrativa Municipal no satisface las aspiraciones del recurrente, éste en el mismo plazo señalado en el presente artículo podrá interponer un segundo Recurso de Apelación Administrativa ante la Comisión Nacional de Carrera Administrativa Municipal, al tenor de lo dispuesto en el Artículo 128 de la Ley.
 
-En todo caso la resolución de la Comisión Nacional de Carrera agota la vía administrativa.
+En todo caso la resolución de la Comisión Nacional de Carrera Administrativa Municipal agota la vía administrativa.
 
-Disposiciones Finales y Transitorias
+De los Órganos de Administración de la Carrera Administrativa Municipal
