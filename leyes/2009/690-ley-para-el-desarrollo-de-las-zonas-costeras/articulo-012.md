@@ -1,6 +1,6 @@
 # Artículo 12
 
-De las Funciones de la Comisión Nacional de Desarrollo de las Zonas Costeras.
+De las Funciones de la Comisión Nacional de Desarrollo de las Zonas Costeras
 
 Son funciones de la Comisión Nacional de Desarrollo de las Zonas Costeras:
 
@@ -8,7 +8,7 @@ a. Formular políticas públicas de desarrollo de las zonas costeras del país y
 
 b. Emitir dictamen técnico sobre el otorgamiento de concesiones.
 
-c. Asesorar a los gobiernos Municipales para la elaboración de los Planes de Desarrollo de las Zonas Costeras.
+c. Asesorar a los Gobiernos Municipales para la elaboración de los Planes de Desarrollo de las Zonas Costeras.
 
 d. Garantizar la coordinación Interinstitucional.
 
@@ -18,4 +18,6 @@ f. Promover la investigación y el uso de tecnologías apropiadas para la conser
 
 g. Asistencia y transferencia técnica y capacidades para el fortalecimiento de las Secretarías de Recursos Naturales (SERENA) de los gobiernos regionales. Cualquier otra medida dirigida al cumplimiento del objeto de la presente Ley.
 
-DE LAS COMPETENCIAS PARA LA APLICACIÓN DE LA LEY
+Capítulo III
+
+De las Competencias para la Aplicación de la Ley

@@ -1,6 +1,6 @@
 # Artículo 19
 
-De las Categorías de Uso de la Zona Costera.
+De las Categorías de Uso de la Zona Costera
 
 Para efectos de la regulación del uso de las zonas costeras se establecen las siguientes categorías:
 
@@ -40,15 +40,15 @@ c. La instalación de tendido aéreo de líneas eléctricas de alta tensión;
 
 d. La instalación permanente de publicidad comercial a través de cualquier medio; y
 
-e. El transito o el estacionamiento de vehículos automotores, en playas determinadas por el gobierno municipal como balnearios concurridos, previo dictamen de la Comisión Nacional de Desarrollo de las Zonas Costeras, porque ponen en peligro la integridad física de las personas.
+e. El tránsito o el estacionamiento de vehículos automotores, en playas determinadas por el Gobierno Municipal como balnearios concurridos, previo dictamen de la Comisión Nacional de Desarrollo de las Zonas Costeras, porque ponen en peligro la integridad física de las personas.
 
 Excepcionalmente se permitirán en esta área, obras, instalaciones y actividades que por su naturaleza, presten los servicios necesarios, complementarios o convenientes para las actividades principales que sean autorizadas en el área de dominio público de la zona costera, así como las instalaciones deportivas descubiertas.
 
-Para las actividades de construcción de terraplenes, desmonte o tala de árboles deberán cumplir las normativas establecidas en las leyes especiales y reglamentarias, con especial énfasis, la Ley No. 217, "Ley General del Medio Ambiente y los Recursos Naturales"; Ley No. 462, "Ley de Conservación, Fomento y Desarrollo Sostenible del Sector Forestal", sus reglamentos; el Decreto Ejecutivo No. 14-99, Reglamento de Áreas Protegidas de Nicaragua; las Normas Técnicas Obligatorias Nicaragüenses y la presente Ley. Todo con el propósito de garantizar la protección de la zona costera, el dominio público y el medio ambiente.
+Para las actividades de construcción de terraplenes, desmonte o tala de árboles deberán cumplir las normativas establecidas en las leyes especiales y reglamentarias, con especial énfasis, la Ley N°. 217, “Ley General del Medio Ambiente y los Recursos Naturales”; Ley N°. 462, “Ley de Conservación, Fomento y Desarrollo Sostenible del Sector Forestal”, sus reglamentos; el Decreto Ejecutivo N°. 01-2007, Reglamento de Áreas Protegidas de Nicaragua; las Normas Técnicas Obligatorias Nicaragüenses y la presente Ley. Todo con el propósito de garantizar la protección de la zona costera, el dominio público y el medio ambiente.
 
 2. Zona Costera de uso Restringido:
 
-Es el área que comprende desde donde termina la zona costera marítima de uso público más doscientos metros hacia tierra firme, y en los lagos será regido de conformidad a la Ley No. 620, "Ley General de Aguas Nacionales" y la Ley No. 217, "Ley General del Medio Ambiente y los Recursos Naturales", en la cual el Estado ejerce dominio con las salvedades establecidas en el artículo 4, literales a y b, cuyo uso estará determinado por el Plan de Desarrollo de las Zonas Costeras, que tomará en cuenta la conformación geomorfológico de nuestras zonas costeras y se regirán conforme el criterio de conservación.
+Es el área que comprende desde donde termina la zona costera marítima de uso público más doscientos metros hacia tierra firme, y en los lagos será regido de conformidad a la Ley N°. 620, “Ley General de Aguas Nacionales” y la Ley N°. 217, “Ley General del Medio Ambiente y los Recursos Naturales”, en la cual el Estado ejerce dominio con las salvedades establecidas en el Artículo 4, literales a y b, cuyo uso estará determinado por el Plan de Desarrollo de las Zonas Costeras, que tomará en cuenta la conformación geomorfológica de nuestras zonas costeras y se regirán conforme el criterio de conservación.
 
 Los usos en esta zona estarán orientados a:
 
@@ -64,7 +64,7 @@ e. Se exceptúan de esta regulación las áreas protegidas legalmente establecid
 
 3. La zona costera de uso comunitario (playas públicas):
 
-Son las playas tanto marítimas como lacustres de la Costa Atlántica o Costa del Caribe nicaragüense cuya definición y delimitación es la misma que la establecida para la zona costera de uso público.
+Son las playas tanto marítimas como lacustres de la Costa Caribe o Costa del Caribe nicaragüense cuya definición y delimitación es la misma que la establecida para la zona costera de uso público.
 
 Las modalidades y condiciones de acceso a las costas y zonas costeras en las Regiones Autónomas y sus usos, serán establecidas por las comunidades en conjunto con los Consejos Regionales, previo dictamen de las Secretarías de Recursos Naturales.
 

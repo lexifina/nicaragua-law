@@ -1,6 +1,6 @@
 # Artículo 8
 
-De los Lineamientos para la Administración de las Zonas Costeras.
+De los Lineamientos para la Administración de las Zonas Costeras
 
 La administración de las zonas costeras será competencia de los gobiernos municipales costeros en coordinación con las instituciones del gobierno central competentes por la materia, estando comprometidos a alcanzar un desarrollo integral bajo los lineamientos siguientes:
 

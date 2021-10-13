@@ -1,6 +1,6 @@
 # Artículo 43
 
-De la Indemnización por Cancelación de Concesión por Causas Ajenas al Concesionario.
+De la Indemnización por Cancelación de Concesión por Causas Ajenas al Concesionario
 
 Fuera de las causales establecidas en el artículo 40 de la presente Ley sólo podrá revocarse una concesión por causas de expreso interés social o utilidad pública de conformidad con la Ley.
 

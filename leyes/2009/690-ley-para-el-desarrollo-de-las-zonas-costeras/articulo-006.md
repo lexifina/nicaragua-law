@@ -1,6 +1,6 @@
 # Artículo 6
 
-De los Bienes de Dominio Público del Estado.
+De los Bienes de Dominio Público del Estado
 
 Para efectos de esta Ley son bienes de dominio público del Estado:
 
@@ -16,4 +16,4 @@ Para efectos de esta Ley son bienes de dominio público del Estado:
 
 6. Todo bien o derecho, recurso natural o mineral que se encuentre dentro de la zona costera de uso público y uso restringido, también aquellos bienes o derechos que sean agregados a dicha zona por accesión, aluvión, o similar.
 
-Todos los bienes enumerados en este artículo comprendidos en las tierras y territorios de las comunidades indígenas y étnicas quedan exceptuados del dominio público. Los bienes enunciados no incluidos en la propiedad comunal pasan a formar parte del patrimonio de las Regiones Autónomas de la Costa Atlántica.
+Todos los bienes enumerados en este artículo comprendidos en las tierras y territorios de las comunidades indígenas y étnicas quedan exceptuados del dominio público. Los bienes enunciados no incluidos en la propiedad comunal pasan a formar parte del patrimonio de las Regiones Autónomas de la Costa Caribe.

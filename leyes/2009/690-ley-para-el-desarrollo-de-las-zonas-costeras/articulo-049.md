@@ -1,6 +1,6 @@
 # Artículo 49
 
-De las Actividades Restringidas en las Zonas Costeras.
+De las Actividades Restringidas en las Zonas Costeras
 
 En las zonas costeras o playas se restringen las siguientes actividades:
 

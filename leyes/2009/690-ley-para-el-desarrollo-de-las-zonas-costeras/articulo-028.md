@@ -1,6 +1,6 @@
 # Artículo 28
 
-De las Obras de Interés Público.
+De las Obras de Interés Público
 
 Se consideran obras de interés público las que son necesarias para la protección, defensa y conservación de las zonas costeras de dominio público y de uso comunitario, así como su uso en:
 

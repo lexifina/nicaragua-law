@@ -1,8 +1,8 @@
 # Artículo 15
 
-Plan de Desarrollo de las Zonas Costeras.
+Plan de Desarrollo de las Zonas Costeras
 
-Los gobiernos municipales costeros y los Consejos Regionales Autónomos, de la Costa Atlántica o Mar Caribe, promoverán la elaboración de Planes de Desarrollo de las Zonas Costeras, sustentándose sobre la base de conservación del Ecotono o Zona de Ecotonía, en coordinación con el Ministerio del Ambiente y de los Recursos Naturales, la Comisión Nacional de Desarrollo de las Zonas Costeras, tomando como base:
+Los Gobiernos Municipales costeros y los Consejos Regionales Autónomos, de la Costa Caribe o Mar Caribe, promoverán la elaboración de Planes de Desarrollo de las Zonas Costeras, sustentándose sobre la base de conservación del Ecotono o Zona de Ecotonía, en coordinación con el Ministerio del Ambiente y de los Recursos Naturales, la Comisión Nacional de Desarrollo de las Zonas Costeras, tomando como base:
 
 a. Plan Nacional de Desarrollo Turístico;
 

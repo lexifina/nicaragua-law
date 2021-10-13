@@ -1,6 +1,6 @@
 # Artículo 25
 
-De la Prohibición de Construcción de Obras.
+De la Prohibición de Construcción de Obras
 
 A partir de la vigencia de la presente Ley se prohíbe en las zonas costeras de uso público la construcción de cualquier obra, cercado, muros o instalaciones que interrumpan y obstaculicen el acceso a las zonas costeras, así como el derecho de libre circulación de la población por ellas.
 

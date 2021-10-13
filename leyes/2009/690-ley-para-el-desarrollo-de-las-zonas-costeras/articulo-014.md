@@ -1,6 +1,6 @@
 # Artículo 14
 
-De la Competencia.
+De la Competencia
 
 En el ámbito de sus competencias los Consejos Regionales y/o Gobiernos Municipales costeros, realizarán las siguientes funciones:
 
@@ -24,7 +24,7 @@ En el ámbito de sus competencias los Consejos Regionales y/o Gobiernos Municipa
 
 Para aquellas áreas protegidas que carezcan de planes de manejo aprobados, se deberá tomar en cuenta lo establecido en los correspondientes planes operativos anuales o en su defecto lo establecido en los objetivos de manejo y directrices de administración de la categoría de manejo de la correspondiente área protegidas.
 
-Las autorizaciones en las áreas protegidas del Sistema Nacional de Áreas Protegidas (SINAP), se realizarán de conformidad con lo establecido en la Ley No. 217, "Ley General del Medio Ambiente y los Recursos Naturales" y el Decreto Ejecutivo No. 01-2007, Reglamento de Áreas Protegidas de Nicaragua, publicado en La Gaceta, Diario Oficial No. 8 del 11 de Enero de 2007.
+Las autorizaciones en las áreas protegidas del Sistema Nacional de Áreas Protegidas (SINAP), se realizarán de conformidad con lo establecido en la Ley N°. 217, “Ley General del Medio Ambiente y los Recursos Naturales” y el Decreto Ejecutivo N°. 01-2007, Reglamento de Áreas Protegidas de Nicaragua, publicado en La Gaceta, Diario Oficial N°. 8 del 11 de enero de 2007.
 
 10. Otorgar concesiones para la utilización de terrenos ejidales o aquellos ubicados dentro de los límites de la zona restringida con fines de uso turístico, recreativo o de uso habitacional.
 
@@ -40,4 +40,4 @@ d. Unidades rodantes de: venta de agua potable, alimentos de preparación rápid
 
 e. Áreas de reforestación y duchas en el área de uso público.
 
-12. En coordinación con el Estado Mayor de la Defensa Civil del Ejército de Nicaragua y demás instituciones del Estado elaborar los planes de prevención, atención y mitigación de desastres naturales.
+12. En coordinación con el Estado Mayor de la Defensa Civil del Ejército de Nicaragua y demás instituciones del Estado, elaborar los planes de prevención, atención y mitigación de desastres naturales.

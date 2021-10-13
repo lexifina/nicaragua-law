@@ -1,12 +1,10 @@
 # Artículo 40
 
-De las Causas de la Revocación de Concesiones.
-
-Son causas de revocación de las concesiones:
+De las Causas de la Revocación de Concesiones Son causas de revocación de las concesiones:
 
 a. Sub-concesionar, arrendar, gravar o realizar cualquier acto o contrato por virtud de la cual otra persona goce total o parcialmente de los derechos del concesionario o realizar cualquier otro acto jurídico o material que altere la concesión;
 
-b. Practicar en el área concesionada uso, aprovechamiento o explotación distinto al que le fue otorgado;
+b. Practicar en el área concesionada uso, aprovechamiento o explotación distinta al que le fue otorgado;
 
 c. El incumplimiento a las normas ambientales vigentes;
 

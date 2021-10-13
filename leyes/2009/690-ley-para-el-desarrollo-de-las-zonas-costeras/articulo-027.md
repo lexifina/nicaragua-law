@@ -1,6 +1,6 @@
 # Artículo 27
 
-Del Uso con Niveles de Intensidad, Peligrosidad o Rentabilidad.
+Del Uso con Niveles de Intensidad, Peligrosidad o Rentabilidad
 
 Los usos que tengan un nivel de intensidad, peligrosidad o rentabilidad baja, o los que requieran la ejecución de obras e instalaciones para fines turísticos dentro de los límites del área de dominio público, solamente podrán hacerlo bajo concesiones debidamente otorgadas por los Gobiernos Municipales en coordinación con la Comisión Nacional de Desarrollo de las Zonas Costeras (CDZC).
 

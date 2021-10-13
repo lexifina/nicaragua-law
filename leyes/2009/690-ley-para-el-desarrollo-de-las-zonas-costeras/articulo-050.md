@@ -10,4 +10,6 @@ b. Colocación de vallas publicitarias que afecten el valor paisajístico;
 
 c. Ocupación del área de dominio público dentro de la zona costera sin previo permiso de concesión. Tales ocupaciones serán consideradas infracciones y no generarán derecho alguno para el infractor.
 
-DEL PROCEDIMIENTO ADMINISTRATIVO
+Capítulo IX
+
+Del Procedimiento Administrativo

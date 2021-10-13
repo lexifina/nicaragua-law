@@ -1,8 +1,8 @@
 # Artículo 53
 
-De la Responsabilidad de las Infracciones.
+De la Responsabilidad de las Infracciones
 
-Serán responsables de las infracciones antes señaladas las personas naturales o jurídicas que incurran en la Comisión de las mismas o quienes instiguen a cometerlas.
+Serán responsables de las infracciones antes señaladas las personas naturales o jurídicas que incurran en la comisión de las mismas o quienes instiguen a cometerlas.
 
 Serán igualmente responsables de las infracciones, los funcionarios en el ejercicio de sus funciones, cuya actuación ocasione daños al dominio público o a terceros:
 

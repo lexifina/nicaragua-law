@@ -1,6 +1,6 @@
 # Artículo 26
 
-Del Reporte de las Obras ya Existentes a la Entrada en Vigencia de la Ley.
+Del Reporte de las Obras ya Existentes a la Entrada en Vigencia de la Ley
 
 En el caso de las construcciones u obras ya existentes a la entrada en vigencia de la presente Ley, que no estén incorporadas en el Plan de Ordenamiento Territorial, la Alcaldía deberá incorporarlas, previa verificación y ubicación de la misma con el propietario.
 

@@ -1,6 +1,6 @@
 # Artículo 39
 
-De la Extinción de la Concesión.
+De la Extinción de la Concesión
 
 Las concesiones se extinguen por cualquiera de las siguientes causas:
 

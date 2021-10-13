@@ -1,10 +1,10 @@
 # Artículo 5
 
-Definiciones Generales.
+Definiciones Generales
 
 Para los efectos de la presente Ley se establecen las siguientes definiciones generales:
 
-ÁLVEO: Lecho o cauce del río o arroyo cubierto por sus aguas y sin pasar a suelo. Lecho del río o superficie de tierra cubierta por las aguas de una corriente natural, cuando ésta circula con su mayor caudal. El suelo que el agua ocupa y desocupa alternativamente en sus crecidas y bajas periódicas. Tratándose de lagos, lagunas, pantanos y demás aguas detenidas, el suelo que ellas ocupan en su mayor altura ordinaria.
+ALVEO: Lecho o cauce del río o arroyo cubierto por sus aguas y sin pasar a suelo. Lecho del río o superficie de tierra cubierta por las aguas de una corriente natural, cuando ésta circula con su mayor caudal. El suelo que el agua ocupa y desocupa alternativamente en sus crecidas y bajas periódicas. Tratándose de lagos, lagunas, pantanos y demás aguas detenidas, el suelo que ellas ocupan en su mayor altura ordinaria.
 
 AMBIENTE: Sistema de elementos bióticos y abióticos, socioeconómicos, culturales y estéticos, que interactúan entre sí, con los individuos y la comunidad en que viven, para determinar su relación y sobrevivencia.
 
@@ -42,11 +42,11 @@ DISTRITO NAVAL: Centros de Operaciones Navales a cuyo cargo está la defensa de 
 
 ECOSISTEMA: Unidad básica de interacción de los organismos bióticos y abióticos, socioeconómicos, culturales y estéticos con los individuos y la comunidad en que viven y su relación con el ambiente.
 
-ECOTONO O ZONA DE ECOTONÍA: Zona de transición natural entre dos ecosistemas distintos. Generalmente, en cada ecotono viven especies propias de ambos ecosistemas y suelen ser zonas de mayor riqueza e interés biológico. Las marismas son lugares de transición entre ecosistemas y presentan gran interés medio ambiental. En el ecotono interactúan, compartiendo un mismo espacio, organismos diversos provenientes de zonas de vidas diferentes, y puede albergar además especies diferentes de las áreas homogéneas que separa, como ocurre con las llamadas comunidades de orla de bosques, que son en sí mismas, ecosistemas lineales.
+ECOTONO O ZONA DE ECOTONÍA: Zona de transición natural entre dos ecosistemas distintos. Generalmente, en cada ecotono viven especies propias de ambos ecosistemas y suelen ser zonas de mayor riqueza e interés biológico. Las marismas son lugares de transición entre ecosistemas y presentan gran interés medio ambiental. En el ecotono interactúan, compartiendo un mismo espacio, organismos diversos provenientes de zonas de vidas diferentes, y puede albergar además especies diferentes de las áreas homogéneas que separan, como ocurre con las llamadas comunidades de orla de bosques, que son en sí mismas, ecosistemas lineales.
 
 Con frecuencia la diversidad y la densidad de las especies presentes en el ecotono son mayores que en las comunidades que lo bordean. Desde el punto de vista sistémico es en el ecotono donde se produce el mayor intercambio de energía. El ecotono representa la zona de máxima interacción entre ecosistemas limítrofes.
 
-HUMEDALES: Con arreglo a la Convención Relativa a los Humedales de importancia, conocida como Convención RAMSAR (Irán 1971) aprobada por Decreto A. N. No. 1599 del 6 de Febrero de 1997, publicado en La Gaceta, Diario Oficial No. 38 del 24 de Febrero de 1997, consisten en: "Extensiones de marismas, pantanos y turberas, o superficies cubiertas de agua, sean éstas de régimen natural o artificial, permanentes o temporales, estancadas o corrientes, dulces, salobres o saladas, incluidas las extensiones de agua marina cuya profundidad en marea baja no exceda de seis metros. También puede comprender sus zonas ribereñas o costeras adyacente, así como las islas o extensiones de agua marina de una profundidad superior a los seis metros en marea baja, cuando se encuentren dentro del humedal".
+HUMEDALES: Con arreglo a la Convención Relativa a los Humedales de importancia, conocida como Convención RAMSAR (Irán 1971) aprobada por Decreto A. N. N°. 1599 del 6 de febrero de 1997, publicado en La Gaceta, Diario Oficial N°. 38 del 24 de febrero de 1997, consisten en: “Extensiones de marismas, pantanos y turberas, o superficies cubiertas de agua, sean éstas de régimen natural o artificial, permanentes o temporales, estancadas o corrientes, dulces, salobres o saladas, incluidas las extensiones de agua marina cuya profundidad en marea baja no exceda de seis metros. También puede comprender sus zonas ribereñas o costeras adyacente, así como las islas o extensiones de agua marina de una profundidad superior a los seis metros en marea baja, cuando se encuentren dentro del humedal”.
 
 INFRAESTRUCTURA TURÍSTICA: Conjunto de obras ingenieras que son utilizadas para la prestación del servicio de turismo.
 

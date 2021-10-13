@@ -1,6 +1,6 @@
 # Artículo 44
 
-De las Regulaciones para las Zonas Declaradas Turísticas.
+De las Regulaciones para las Zonas Declaradas Turísticas
 
 Las áreas que el Instituto Nicaragüense de Turismo (INTUR) declare como zonas prioritarias de desarrollo turístico quedan sujetas a las siguientes regulaciones:
 
@@ -14,6 +14,8 @@ d. En ningún caso podrán otorgarse terrenos para la instalación de industrias
 
 e. Ninguna persona junto con su cónyuge e hijos menores, podrán tener más de una concesión.
 
-f. Los concesionarios deberán ceder al Estado las áreas y facilidades requeridas para usos de las instituciones del Estado para fines de
+f. Los concesionarios deberán ceder al Estado las áreas y facilidades requeridas para usos de las instituciones del Estado para fines de seguridad y defensa nacional.
 
-DEL PLAN DE DESARROLLO DE LAS COSTAS Y ZONAS COSTERAS
+Capítulo VII
+
+Del Plan de Desarrollo de las Costas y Zonas Costeras

@@ -1,6 +1,6 @@
 # Artículo 51
 
-Procedimiento Administrativo para Investigar Infracciones.
+Procedimiento Administrativo para Investigar Infracciones
 
 El procedimiento administrativo para investigar la comisión de infracciones a la presente Ley y su Reglamento podrá iniciarse:
 

@@ -1,6 +1,6 @@
 # Artículo 52
 
-De la Clasificación de las Infracciones.
+De la Clasificación de las Infracciones
 
 Las infracciones conforme a la presente Ley, se clasifican en leves y graves.
 
@@ -24,10 +24,10 @@ b. Obstaculizar el ejercicio de las funciones de los Gobiernos Municipales, Cons
 
 c. Construir sin autorización en el área de la zona restringida;
 
-d. Ejecutar obras, instalaciones, vertidos, cultivos plantaciones o talas en la zona costera sin la debida autorización.
+d. Ejecutar obras, instalaciones, vertidos, cultivos plantaciones o talas en la zona costera sin la debida autorización;
 
 e. Circular o estacionarse, en cualquier época del año, con vehículos automotores (buses, carros, cuadriciclos, motos) en las zonas costeras de uso público o playas determinadas por el municipio como balnearios concurridos, así como la realización de acciones u omisiones que impliquen un riesgo para la salud y seguridad de las vidas humanas, siempre y cuando no constituyan delito;
 
-f. Ceder o comprometer en cualquier otra forma, traspasar o gravar total o parcialmente, las concesiones o los derechos derivados de ella, de conformidad con el artículo 43 de la presente Ley;
+f. Ceder o comprometer en cualquier otra forma, traspasar o gravar total o parcialmente, las concesiones o los derechos derivados de ella, de conformidad con el Artículo 43 de la presente Ley;
 
 g. La reincidencia en la Comisión de infracciones leves.

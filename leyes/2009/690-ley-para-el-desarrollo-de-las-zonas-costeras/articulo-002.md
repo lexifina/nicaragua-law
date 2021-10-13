@@ -1,6 +1,6 @@
 # Artículo 2
 
-Finalidad de la Ley.
+Finalidad de la Ley
 
 La presente ley tiene por finalidad:
 

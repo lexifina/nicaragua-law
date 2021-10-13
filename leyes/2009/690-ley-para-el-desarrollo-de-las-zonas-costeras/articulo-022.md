@@ -1,6 +1,6 @@
 # Artículo 22
 
-De las Restricciones y Prohibiciones de Acceso a la Zona Costera.
+De las Restricciones y Prohibiciones de Acceso a la Zona Costera
 
 Las autoridades competentes podrán restringir y prohibir el acceso a las zonas costeras por las siguientes razones:
 
@@ -12,4 +12,6 @@ c. En caso de que se ponga en peligro la seguridad y defensa de la nación.
 
 d. Por la seguridad de la ciudadanía ante el peligro inminente de eventos naturales.
 
-DE LA UTILIZACIÓN DE LA ZONA COSTERA Y LAS SERVIDUMBRES
+Capítulo V
+
+De la Utilización de la Zona Costera y las Servidumbres
