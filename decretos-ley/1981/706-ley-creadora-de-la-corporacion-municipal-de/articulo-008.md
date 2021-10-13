@@ -2,9 +2,9 @@
 
 El Consejo Superior tendrá además las facultades y atribuciones siguientes:
 
-a) Solicitar al Responsable de la Junta de Reconstrucción de Managua, en la esfera de su competencia, que dicte los reglamentos, acuerdos y demás normas generales de la Corporación;
+a) Solicitar al Alcalde o Alcaldesa de Managua, en la esfera de su competencia, que dicte los reglamentos, acuerdos y demás normas generales de la Corporación;
 
-b) Nombrar al Director y SubDirector;
+b) Nombrar al Director y Sub-Director;
 
 c) Conocer de los informes que está obligado a rendir el Director;
 

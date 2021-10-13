@@ -2,15 +2,15 @@
 
 La política general de COMMEMA, será atribución exclusiva del Consejo Superior el cual estará integrado por:
 
-1) El Responsable de la Junta de Reconstrucción de Managua o su delegado, quien lo presidirá.
+1) El Alcalde o Alcaldesa de Managua o su delegado, quien lo presidirá.
 
-2) Un delegado del Ministerio de Planificación Nacional.
+2) Sin vigencia.
 
-3) Un delegado del Ministerio de Desarrollo Agropecuario.
+3) Un delegado del Ministerio Agropecuario.
 
-4) Un delegado del Ministerio de Comercio Interior.
+4) Sin vigencia.
 
-5) Un delegado del Ministerio de Transporte.
+5) Un delegado del Ministerio de Transporte e Infraestructura.
 
 6) El Director de COMMEMA.
 
@@ -18,4 +18,4 @@ La política general de COMMEMA, será atribución exclusiva del Consejo Superio
 
 8) Dos miembros de las organizaciones populares de Managua.
 
-Los delegados a que se refieren los acápites 7 y 8 de esta disposición serán designados por la Junta de Reconstrucción de Managua.
+Los delegados a que se refieren los acápites 7 y 8 de esta disposición serán designados por la Alcaldía de la ciudad de Managua.
