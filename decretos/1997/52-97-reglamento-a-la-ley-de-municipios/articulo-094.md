@@ -1,5 +1,9 @@
 # Artículo 94
 
-El Registrador Público de la Propiedad Inmueble deberá anotar en el Asiento correspondiente el carácter de cada bien y librar a costa del municipio, las certificaciones correspondientes.
+El Alcalde o Alcaldesa preside el Concejo Municipal y goza de iniciativa privativa para las siguientes ordenanzas:
 
-ADMINISTRACIÓN DE LOS BIENES MUNICIPALES
+El presupuesto anual y su reforma.
+
+El plan de arbitrios y su reforma.
+
+Al ser sometida a consideración del Plenario del Concejo, estas iniciativas pasarán directamente a Comisión, para ser objeto de dictamen.

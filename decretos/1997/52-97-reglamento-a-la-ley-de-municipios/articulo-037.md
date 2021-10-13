@@ -1,3 +1,5 @@
 # Artículo 37
 
-El quórum para las sesiones del Concejo Municipal se constituye con la presencia de más de la mitad de sus miembros. En todos los casos se requerirá la asistencia del Alcalde, salvo lo establecido en el Num. 24 del Artículo 28 de la Ley de Municipios.
+El Concejo Municipal se reunirá una vez al mes ordinariamente, para conocer los asuntos incluidos en el Orden del Día, sesionará extraordinariamente cuando medie solicitud de Concejales o Concejalas, de conformidad con lo estipulado en el Artículo 28 de la Ley o cuando lo convoque el Alcalde o Alcaldesa.
+
+Esta solicitud habrá de hacerse por escrito en el que se razone el asunto o asuntos que la motiven, firmado personalmente por todos los que la suscriben. En este tipo de sesión los Concejales o Concejalas no devengarán dieta alguna.

@@ -1,5 +1,5 @@
 # Artículo 119
 
-Las notificaciones se practicarán con arreglo a lo dispuesto en el Código de Procedimiento Civil.
+En el Libro de Registro de salida se registrarán todos los oficios, notificaciones, órdenes, comunicaciones, certificaciones, expedientes, resoluciones, ordenanzas, bandos y demás disposiciones que emanen de los Gobiernos Municipales y sus Funcionarios.
 
-DE LAS ACTAS Y CERTIFICACIONES
+DE LOS EXPEDIENTES

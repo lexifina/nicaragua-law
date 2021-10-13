@@ -1,3 +1,3 @@
 # Artículo 115
 
-Los expedientes tramitados pasarán periódicamente al archivo y tendrán índices alfabéticos en que se exprese el asunto, número de folios y cuantos detalles se estimen convenientes.
+En todas las municipalidades habrá un registro general para que conste con claridad la entrada de documentos que se reciban y la salida de los mismos.

@@ -1,3 +1,9 @@
 # Artículo 102
 
-El Consejo de Administración de la Empresa deberá solicitar al Concejo Municipal la aprobación de cualquier enajenación, a cualquier título de bienes de capital o bienes inmuebles de la empresa, que la misma deba realizar.
+El Alcalde o Alcaldesa dará cuenta sucinta al Concejo en cada sesión ordinaria, de los Acuerdos y Bandos que hubiere dictado desde la última sesión plenaria ordinaria para que los Concejales o Concejalas conozcan el desarrollo de la administración municipal para efectos del control y fiscalización de las Comisiones del Concejo.
+
+DE LA ECONOMÍA MUNICIPAL
+
+PATRIMONIO MUNICIPAL
+
+DEL REGISTRO DE LOS BIENES MUNICIPALES

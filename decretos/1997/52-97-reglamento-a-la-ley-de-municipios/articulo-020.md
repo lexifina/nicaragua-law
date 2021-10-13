@@ -1,3 +1,3 @@
 # Artículo 20
 
-Dependiendo de su extensión y complejidad, la ordenanza podrá dividirse en títulos, capítulos y secciones.
+El número de miembros del consorcio podrá incrementarse mediante la adhesión, con posterioridad a su constitución, de nuevos miembros, de conformidad con el procedimiento que establezcan los estatutos del consorcio.

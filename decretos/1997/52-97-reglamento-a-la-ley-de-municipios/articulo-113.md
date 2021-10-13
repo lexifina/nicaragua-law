@@ -1,3 +1,3 @@
 # Artículo 113
 
-Concluidos los expedientes, se entregarán en las Secretarías de las Alcaldías que, después de examinarlos, los someterá al conocimiento del Alcalde.
+El Consejo de Administración de la Empresa deberá solicitar al Concejo Municipal la aprobación de cualquier enajenación, a cualquier título de bienes de capital o bienes inmuebles de la empresa, que la misma deba realizar.

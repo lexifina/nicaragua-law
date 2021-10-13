@@ -1,3 +1,3 @@
 # Artículo 101
 
-Las empresas deberán presentar anualmente sus balances al Concejo Municipal por intermedio de su Gerente o Alcalde.
+El Alcalde o Alcaldesa deberá llevar un Libro de Bandos y otro de Acuerdos.

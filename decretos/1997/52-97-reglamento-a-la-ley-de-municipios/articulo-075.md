@@ -1,3 +1,3 @@
 # Artículo 75
 
-La elección y destitución del Alcalde se rige por lo dispuesto en la Legislación Electoral, sin perjuicio de lo establecido en la Constitución Política, la Ley de Municipios y este Reglamento.
+Las Comisiones son cuerpos colegiados auxiliares del Concejo Municipal, integrados por Concejales y Concejalas y asistidos por funcionarios municipales u otras personas. Pueden ser Permanentes o Especiales. Esta disposición regirá para los municipios con diez o más Concejales o Concejalas.

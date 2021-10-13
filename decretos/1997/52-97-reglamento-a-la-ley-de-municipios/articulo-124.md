@@ -1,3 +1,3 @@
 # Artículo 124
 
-Las municipalidades podrán acordar la creación de medallas, emblemas, condecoraciones u otros distintivos honoríficos, a fin de premiar especiales merecimientos, o servicios extraordinarios.
+Concluidos los expedientes, se entregarán en las Secretarías de las Alcaldías, las que después de examinarlos los someterá al conocimiento del Alcalde o Alcaldesa.

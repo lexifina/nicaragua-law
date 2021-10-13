@@ -1,5 +1,3 @@
 # Artículo 39
 
-El Concejo Municipal celebrará sus sesiones en el edificio de la Municipalidad, salvo en los casos de fuerza mayor, en este caso podrá señalar otro local que permita la asistencia de los pobladores.
-
-El Concejo podrá sesionar en otras comunidades del municipio para atender las demandas de los pobladores.
+La convocatoria deberá ir acompañada por el Orden del Día comprensivo de los asuntos a tratar con el suficiente detalle, y los borradores de actas de sesiones anteriores que deben ser aprobadas en la sesión, documentos todos que serán debidamente notificados a los Concejales o Concejalas. La misma deberá expresar el lugar, día y hora de la sesión, así como el carácter de la misma. También deberá acompañar copia del informe presupuestario a presentar.

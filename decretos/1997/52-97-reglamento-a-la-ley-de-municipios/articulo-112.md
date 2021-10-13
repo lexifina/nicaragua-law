@@ -1,3 +1,3 @@
 # Artículo 112
 
-Iniciado un expediente, las entidades municipales están obligadas a resolverlo. No obstante lo anterior, se aplicará la Legislación sobre Procedimiento Administrativo Común por lo que se refiere al silencio administrativo.
+Las empresas deberán presentar anualmente sus balances al Concejo Municipal por intermedio de su Gerente o Alcalde o Alcaldesa.

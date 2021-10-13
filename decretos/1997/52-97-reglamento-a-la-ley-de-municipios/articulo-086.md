@@ -1,3 +1,3 @@
 # Artículo 86
 
-Los Bandos son instrumentos jurídicos, sancionados por el Alcalde, cuyo propósito es el establecer normas generales de gestión necesarias para el cabal desempeño de las atribuciones conferidas en la Ley de Municipios. El Bando puede servir además como medio de publicación de las ordenanzas del Concejo.
+La elección y destitución del Alcalde o Alcaldesa se rige por lo dispuesto en la Legislación Electoral, sin perjuicio de lo establecido en la Constitución Política, la Ley de Municipios y este Reglamento.

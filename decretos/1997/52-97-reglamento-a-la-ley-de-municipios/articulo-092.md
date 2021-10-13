@@ -1,3 +1,3 @@
 # Artículo 92
 
-A partir de la entrada en vigencia del presente reglamento el Alcalde del Municipio correspondiente deberá en un plazo no mayor de ciento ochenta días, investigar los bienes que posea el Municipio a cualquier título.
+Recibidos los autos, el Consejo Supremo Electoral entrará a conocer de las causas que dieron origen al proceso y si se ha observado el procedimiento establecido para resolver de conformidad.

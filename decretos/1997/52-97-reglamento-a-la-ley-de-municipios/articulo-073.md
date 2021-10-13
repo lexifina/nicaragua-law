@@ -1,3 +1,3 @@
 # Artículo 73
 
-Los Miembros de la Comisión podrán percibir dieta por el trabajo que realicen en ellas, cuyos monto será fijado por el Concejo Municipal, en atención el estado de las finanzas municipales y a lo que disponga la Ley de Régimen Presupuestario Municipal.
+El acta se transcribirá en el Libro de Acta autorizándola con las firmas del Alcalde o Alcaldesa y del Secretario. Los actos y decisiones del Concejo Municipal, que no consten en acta no tienen valor legal alguno.

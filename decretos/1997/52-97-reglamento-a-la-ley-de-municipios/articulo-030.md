@@ -1,3 +1,3 @@
 # Artículo 30
 
-El Alcalde convocará por escrito a las sesiones, a través de Secretaría. La convocatoria será notificada a todos los Concejales propietarios y fijada además en la Tabla de Avisos de la Municipalidad.
+Las ordenanzas también podrán ser notificadas mediante la distribución de volantes que las contengan impresas, las que serán distribuidas en parajes públicos y algunas de ellas deberán ser fijadas en la Tabla de Avisos de la Municipalidad.

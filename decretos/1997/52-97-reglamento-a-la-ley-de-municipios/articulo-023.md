@@ -1,3 +1,3 @@
 # Artículo 23
 
-La publicación de la ordenanza deberá contener la fórmula siguiente: "EL ALCALDE MUNICIPAL DE ... hacer saber a sus habitantes QUE EL CONCEJO MUNICIPAL, en uso de sus facultades, ha aprobado la siguiente: Ordenanza".
+Son funciones normativas del Concejo las que establecen las orientaciones generales en los asuntos económicos, políticos y sociales del municipio y las orientaciones particulares sobre temas específicos de interés comunitario, expresadas a través de ordenanzas y resoluciones.

@@ -1,5 +1,5 @@
 # Artículo 58
 
-Si el Secretario no cumpliere a cabalidad con sus funciones será amonestado por el Concejo Municipal. El incumplimiento reiterado causará su separación del cargo, sin que pierda por ello su condición de Concejal.
+La sesión del Concejo finalizará con la lectura de los acuerdos tomados. El Alcalde o Alcaldesa cerrará la sesión con las palabras: “Se cierra la sesión”.
 
-DE LAS ACTAS
+TRANSMISIÓN DE GOBIERNOS LOCALES

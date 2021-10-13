@@ -1,3 +1,3 @@
 # Artículo 127
 
-Derógase en lo que se le oponga el Decreto No. 498 "Reglamento de Organización y Funcionamiento Municipal", publicado en La Gaceta, Diario Oficial No. 44 del 2 de Marzo de 1990.
+Los interesados en un expediente tendrán derecho a conocer, en cualquier momento, del estado de su tramitación, recabando la oportuna información de las Alcaldías correspondientes.

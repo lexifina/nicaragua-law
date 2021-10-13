@@ -1,3 +1,3 @@
 # Artículo 125
 
-Los requisitos y trámites necesarios para la concesión de los honores y distinciones a que se refiere el artículo anterior se determinarán mediante un reglamento especial del Concejo Municipal.
+Para que puedan los expedientes o casos incluirse en el Orden del Día de una sesión del Concejo Municipal, los mismos habrán de estar en poder del Secretario tres días antes por lo menos del señalado para celebrarlo.

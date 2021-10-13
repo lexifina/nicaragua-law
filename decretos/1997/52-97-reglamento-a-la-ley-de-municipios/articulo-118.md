@@ -1,5 +1,19 @@
 # Artículo 118
 
-Las resoluciones de los Concejos Municipales y Acuerdos de los Alcaldes se extenderán a su nombre; cuando dichas diligencias administrativas se dicten por delegación, se hará constar expresamente esta circunstancia y se considerarán dictadas por la autoridad que la haya conferido.
+Los Asientos de salida se referirán a estos conceptos:
 
-Las comunicaciones que se dirijan a las autoridades serán firmadas por los Alcaldes, y las demás que den traslado de Acuerdos o Resoluciones, por el Secretario.
+a) Número de orden.
+
+b) Fecha del documento.
+
+c) Fecha de salida.
+
+d) Autoridad, dependencia municipal de donde procede.
+
+e) Autoridad, persona natural o jurídica a quien se dirige.
+
+f) Extracto de su contenido.
+
+g) Referencia, en su caso, al Asiento de entrada.
+
+h) Observaciones.

@@ -1,7 +1,5 @@
 # Artículo 13
 
-Corresponde al Gobierno Municipal la promoción de todos aquellos programas encaminados a garantizar el disfrute de los derechos humanos, especialmente a los sectores más vulnerables de la comunidad, tales como los niños, mujeres, jóvenes y personas de tercera edad.
+Para los efectos del numeral 3 del Artículo 7 de la Ley, en cada Gobierno Municipal habrá un Libro de Registro de Cartas de Ventas, Guías de Transporte de Ganado y Fierros, donde se asentarán sus características y dibujo, así mismo, el nombre de la persona que lo usará para distinguir el ganado de su propiedad. El Concejo Municipal regulará esta disposición.
 
-DEL CONCEJO MUNICIPAL
-
-DE LAS ATRIBUCIONES, ORDENANZAS DEL CONCEJO MUNICIPAL
+NORMAS DE FUNCIONAMIENTO DE CEMENTERIOS

@@ -1,3 +1,3 @@
 # Artículo 32
 
-Cuando en el Orden del Día se debe tratar algún proyecto de Ordenanza o Resolución, una copia del mismo deberá acompañar a la convocatoria.
+Los proyectos que contengan Iniciativa de Ley para ser presentada ante la Asamblea Nacional deberán ser tramitados como una ordenanza.

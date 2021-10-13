@@ -1,3 +1,3 @@
 # Artículo 64
 
-Las Comisiones son cuerpos colegiados auxiliares del Concejo Municipal, integrados por Concejales y asistidos por funcionarios municipales u otras personas. Pueden ser Permanentes o Especiales. Esta disposición regirá para los municipios con diez o más Concejales.
+El Secretario del Concejo Municipal es el encargado de las Actas y expide las Certificaciones de las mismas.

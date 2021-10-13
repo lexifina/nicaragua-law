@@ -1,7 +1,7 @@
 # Artículo 42
 
-El debate de cada sesión se iniciará preguntando el Alcalde si algún miembro del Concejo tiene que formular alguna observación al acta de la sesión anterior que se hubiere distribuido con la convocatoria. Si no hubieren observaciones se considerará aprobada. Si las hubiera, se debatirán y decidirán las rectificaciones que procedan.
+Las sesiones del Concejo Municipal se desarrollarán conforme el Orden del Día que acompaña a la convocatoria, el cual será fijado por el Alcalde o Alcaldesa asistido por el Secretario.
 
-En ningún caso podrá modificarse el fondo de los acuerdos adoptados y sólo cabrá subsanar los meros errores materiales o de hecho.
+En las sesiones ordinarias se podrán incluir nuevos asuntos o variar el Orden del Día por acuerdo del Concejo mismo.
 
-Al reseñar, en cada acta, la lectura y aprobación de la anterior se consignarán las observaciones y rectificaciones practicadas.
+En las sesiones extraordinarias solamente se podrán tratar los asuntos contenidos en la convocatoria. Son nulos los acuerdos adoptados sobre asuntos no comprendidos en su convocatoria.

@@ -1,3 +1,9 @@
 # Artículo 76
 
-Quien resulte proclamado Alcalde electo tomará posesión ante el Consejo Supremo Electoral, de acuerdo con la forma general establecida para la toma de posesión de los cargos públicos.
+Las Comisiones Permanentes serán:
+
+a) La Comisión de Finanzas, Presupuesto e Infraestructura. Esta atenderá los problemas locales relacionados con esos temas y dictaminará los proyectos de ordenanzas, resoluciones o acuerdos en su caso que se relacionen con los mismos.
+
+b) La Comisión de Asuntos Sociales. Atenderá los problemas locales relacionados con los temas de Niñez, Género, Salud, Educación y Medio Ambiente.
+
+c) La Comisión de Gobernabilidad, que será la que atenderá la Participación Ciudadana.

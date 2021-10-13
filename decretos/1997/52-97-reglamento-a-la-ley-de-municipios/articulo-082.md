@@ -1,3 +1,3 @@
 # Artículo 82
 
-Si la sanción es la suspensión del cargo, el Concejo Municipal establecerá su duración dentro de los límites establecidos en la Ley.
+El Secretario-relator es el órgano de comunicación de la Comisión, levanta el acta de las sesiones de la misma.

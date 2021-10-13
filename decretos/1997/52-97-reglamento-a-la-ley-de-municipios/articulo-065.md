@@ -1,9 +1,3 @@
 # Artículo 65
 
-Las Comisiones Permanentes serán:
-
-a) La Comisión de Finanzas, Presupuesto e Infraestructura. Esta atenderá los problemas locales relacionados con esos temas y dictaminará los proyectos de ordenanzas, resoluciones o acuerdos en su caso que se relacionen con los mismos.
-
-b) La Comisión de Asuntos Sociales. Atenderá los problemas locales relacionados con los temas de Niñez, Género, Salud, Educación, Medio Ambiente.
-
-c) La Comisión de Gobernabilidad, que será la que atenderá la Participación Ciudadana.
+El Secretario recibirá todas las comunicaciones y documentos que los ciudadanos, las instituciones del Estado u otros entes públicos o privados dirijan al Concejo Municipal y, en conjunto con el Alcalde o Alcaldesa, elaborará el Orden del Día de las sesiones.

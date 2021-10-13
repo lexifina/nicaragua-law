@@ -1,3 +1,5 @@
 # Artículo 69
 
-En la primera reunión los miembros de la Comisión nombrará de su seno a un Presidente y a un Secretario-relator, los que durarán, al igual que los demás miembros, un año en el ejercicio de sus cargos, pudiendo ser reelectos.
+Si el Secretario no cumpliere a cabalidad con sus funciones será amonestado por el Concejo Municipal. El incumplimiento reiterado causará su separación del cargo sin que pierda por ello su condición de Concejal o Concejala.
+
+DE LAS ACTAS

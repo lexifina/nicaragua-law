@@ -1,3 +1,3 @@
 # Artículo 70
 
-El Presidente de la Comisión es quien convoca a los miembros a los trabajos de la misma y preside sus deliberaciones.
+De cada sesión el Secretario extenderá acta en la que habrá de constar: lugar de la reunión, con expresión del nombre del municipio y local en que se celebra; día, mes y año; hora en que comienza; nombre y apellidos del Alcalde o Alcaldesa, Vice Alcalde o Vice Alcaldesa y miembros del Concejo presentes, de los ausentes que se hubieren excusado y de los que falten sin excusa; carácter ordinario o extraordinario de la sesión y si se celebra en primera o segunda convocatoria; asistencia del Secretario, o de quien legalmente sustituya asuntos que examinen, opiniones abreviadas de los concejales o concejalas que hubieren intervenido en los debates; votaciones que se verifiquen; acuerdos tomados; hora en que el Alcalde o Alcaldesa levante la sesión.

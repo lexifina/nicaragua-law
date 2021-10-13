@@ -1,5 +1,9 @@
 # Artículo 12
 
-El Gobierno Municipal procurará dar mantenimiento a sus sitios culturales e históricos, de la misma manera conservará el entorno de los paisajes para la promoción tanto del turismo nacional como internacional.
+El Concejo Municipal dictará resolución disponiendo el establecimiento de mercados, las especificaciones de la circulación interna, las normas para el tratamiento de desechos sólidos y líquidos, utilización de sanitarios públicos y lavaderos de conformidad a las disposiciones sanitarias básicas.
 
-PROMOCIÓN DE LOS DERECHOS HUMANOS CON ÉNFASIS EN LOS DE LA NIÑEZ Y LA MUJER
+El Concejo Municipal normará mediante ordenanza el funcionamiento del rastro municipal y los lavaderos públicos, éstas deberán definir el servicio, contener las normas técnicas operativas y funcionamiento, las labores del rastro y sus procedimientos de control.
+
+En donde no hubiere rastros ni lavaderos públicos, el municipio deberá crearlos, dictando las normas de administración, uso y ubicación de los mismos.
+
+REGISTRO DE FIERROS

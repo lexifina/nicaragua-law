@@ -1,3 +1,5 @@
 # Artículo 56
 
-El Secretario es el encargado de custodiar, dentro del recinto de la municipalidad, el Libro de Actas del Concejo Municipal, el que se llevará por duplicado, uno de los cuales estará bajo la custodia del Alcalde.
+Durante el debate en lo particular, los Concejales o Concejalas podrán presentar mociones para modificar el proyecto. Las que deberán ser entregadas por escrito al Secretario para ser tomadas en cuenta en el debate. Una vez aprobada la iniciativa, el Alcalde o Alcaldesa deberá decir, según el caso “se aprueba la Ordenanza o Resolución del Concejo Municipal”.
+
+DE LA VOTACIÓN

@@ -1,9 +1,5 @@
 # Artículo 11
 
-El Concejo Municipal establecerá en el Plan de Arbitrios, los procedimientos y tarifas a cobrar en los cementerios de cada uno de los municipios.
+De conformidad con el Artículo 11 de la Ley de Municipios, las instituciones del Estado que mediante Ley tienen la facultad de prestar servicios o ejecutar obras derivados de sus competencias, comprendidas además en los Artículos 7 y 8 de la Ley de Municipios, deberán delegarlas mediante contrato a los municipios de las categorías A, B, C y D, excepto los acueductos menores de 500 conexiones según lo establece el Artículo 11 de la Ley General de Servicios de Agua Potable y Alcantarillado Sanitario. Al resto de los municipios cuando éstos lo requieran. Para ello, el Alcalde o Alcaldesa deberá presentar el acta o el certificado del Concejo Municipal de la sesión donde se aprobó la solicitud de la concesión, especificando el tipo de obras o servicios que requiere les sean concedidos y el cofinanciamiento acordado para su ejecución. Cuando los municipios se asocien para la prestación de un servicio derivado de las competencias, esta asociación tendrá el tratamiento de los municipios A, B, C y D.
 
-Así mismo llevará un Libro de Registro que asegure el control por separado de los lotes vendidos a perpetuidad, poniéndole el número del terreno, el número de lote y grupo, y el nombre del propietario. El cementerio se ordenará mediante nomenclatura de las calles y avenidas y el señalamiento de las zonas peatonales y vehículares.
-
-El Concejo establecerá las funciones al administrador del cementerio, así como del registrador y contador financiero.
-
-TURISMO MUNICIPAL
+En lo que se refiere a la construcción y administración de las redes de abastecimiento de energía domiciliar y pública, según lo establecido en el Artículo 7, numeral 7, acápite c de la Ley, el proceso de transferencia al municipio se hará con el aval de la empresa responsable de la distribución de energía eléctrica y del Ministerio de Energía y Minas de conformidad con lo establecido en la Ley N°. 272, Ley de la Industria Eléctrica, para lo cual la entidad del Estado encargada de normar el sector eléctrico actuará de amigable componedor.

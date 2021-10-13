@@ -1,3 +1,3 @@
 # Artículo 25
 
-El Proyecto de Plan de Arbitrios del Municipio, el Presupuesto Anual y el Plan de Desarrollo Municipal, lo mismo que las reformas y modificaciones a esos instrumentos deberán aprobarse en forma de ordenanza.
+Son funciones deliberativas del Concejo, discutir temas relacionados con la vida y problemas de los pobladores y tomar acuerdos para resolverlos.

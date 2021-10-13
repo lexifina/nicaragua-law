@@ -1,3 +1,3 @@
 # Artículo 87
 
-El Bando deberá expresarse en forma de articulado. El inicio, duración y modalidades de las fiestas patronales las regulará el Alcalde mediante un Bando.
+Quien resulte proclamado Alcalde o Alcaldesa electo tomará posesión ante el Consejo Supremo Electoral, de acuerdo con la forma general establecida para la toma de posesión de los cargos públicos.

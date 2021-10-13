@@ -1,5 +1,3 @@
 # Artículo 44
 
-Las iniciativas de Ordenanza o Resolución se presentarán por duplicado, al Concejo por conducto de la Secretaría.
-
-La Secretaría lo pasará a la Presidencia del Concejo y éste deberá incluirlo en el Orden del Día. El Alcalde deberá ponerlo en consideración del Plenario, a más tardar dos sesiones después de haber sido presentado.
+Las sesiones extraordinarias se iniciarán con la exposición de las circunstancias que motivaron las mismas e inmediatamente se tratará el o los asuntos del Orden del Día.

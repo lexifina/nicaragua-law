@@ -1,3 +1,3 @@
 # Artículo 33
 
-Entre la convocatoria y la celebración de una sesión ordinaria no podrán transcurrir menos de cinco días hábiles.
+El Proyecto de Plan de Arbitrios del Municipio, el Presupuesto Anual y el Plan de Desarrollo Municipal, lo mismo que las reformas y modificaciones a esos instrumentos deberán aprobarse en forma de ordenanza.

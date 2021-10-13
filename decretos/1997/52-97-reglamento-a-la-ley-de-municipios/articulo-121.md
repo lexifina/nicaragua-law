@@ -1,7 +1,7 @@
 # Artículo 121
 
-No obstante lo dispuesto en el artículo anterior, cuando se utilicen medios mecánicos para la trascripción de las Actas, los Libros se formarán de hojas móviles, las cuales tienen que ser de papel común debidamente encuadernadas y con los requisitos establecidos en el artículo anterior.
+Los expedientes se iniciarán:
 
-RÉGIMEN JURÍDICO
+a) De oficio, cuando se trate de necesidades del servicio público o de exigir responsabilidades civiles a los miembros o funcionarios de las municipalidades.
 
-DE LA EJECUTIVIDAD DE LAS RESOLUCIONES Y ACUERDOS MUNICIPALES
+b) A instancia de parte, cuando se promuevan para resolver pretensiones deducidas por los particulares.

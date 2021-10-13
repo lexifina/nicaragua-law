@@ -1,3 +1,7 @@
 # Artículo 35
 
-Las sesiones ordinarias se iniciarán con la lectura y aprobación del acta de la sesión anterior. Luego el Alcalde informará del cumplimiento de los acuerdos tomados.
+Los acuerdos tomados por el Concejo y que no contengan un carácter normativo o administrativo serán dados a conocer a la población por la Tabla de Avisos de la Municipalidad o el medio que el Concejo estime conveniente.
+
+DEL FUNCIONAMIENTO DEL CONCEJO MUNICIPAL
+
+DE LOS REQUISITOS DE CELEBRACIÓN DE LAS SESIONES

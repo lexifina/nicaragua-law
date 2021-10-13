@@ -1,5 +1,5 @@
 # Artículo 51
 
-El Concejo Municipal que finaliza su mandato sesionará tres días antes de la toma de posesión de las autoridades electas a fin de aprobar el acta de la última sesión celebrada, el arqueo de caja, el inventario del patrimonio municipal, la relación del personal existente y la memoria de gestión.
+A continuación se pasará a la lectura de las iniciativas de Ordenanzas o Resoluciones por el Secretario del Concejo. El Alcalde o Alcaldesa abrirá la discusión y otorgará el uso de la palabra en el orden en que fue solicitada. El Secretario anotará ese orden.
 
-DE LA SECRETARIA
+Si se producen alusiones personales, el Alcalde o Alcaldesa podrá suspenderle el uso de la palabra.

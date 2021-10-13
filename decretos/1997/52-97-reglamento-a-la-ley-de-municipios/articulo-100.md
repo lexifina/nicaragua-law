@@ -1,3 +1,3 @@
 # Artículo 100
 
-Las empresas municipales podrán ser mixtas, con participación de capital privado.
+Los Acuerdos son disposiciones administrativas del Alcalde o Alcaldesa de efectos particulares e individualizados. Los nombramientos que deban hacerse por el Alcalde o Alcaldesa deberán expresarse en forma de Acuerdos.

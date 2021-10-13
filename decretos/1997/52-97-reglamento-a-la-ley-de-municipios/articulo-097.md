@@ -1,11 +1,3 @@
 # Artículo 97
 
-Para los efectos del Artículo 59 de la Ley la resolución creadora deberá contener:
-
-a) La denominación, domicilio y duración de la Empresa.
-
-b) Los objetivos de la misma y sus órganos de Gobierno y Administración.
-
-c) El capital de la Empresa y la contabilidad de la misma, que siempre deberá llevarse por partida doble y el fondo de reserva que deberá constituirse.
-
-d) La forma de liquidar la empresa, en caso de quiebra, disolución, fusión u otras formas de extinción deberán expresar el destino de los activos y pasivos.
+Los Bandos son instrumentos jurídicos, sancionados por el Alcalde o Alcaldesa, cuyo propósito es el establecer normas generales de gestión necesarias para el cabal desempeño de las atribuciones conferidas en la Ley de Municipios. El Bando puede servir además como medio de publicación de las ordenanzas del Concejo.

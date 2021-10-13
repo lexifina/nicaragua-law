@@ -1,3 +1,3 @@
 # Artículo 53
 
-El Secretario del Concejo Municipal es el encargado de las Actas y expide las Certificaciones de las mismas.
+Presentado a la consideración del Plenario este deberá decidir en primer lugar si el asunto amerita ser conocido por el Concejo. Si se rechaza podrá ser tratado hasta el año siguiente.

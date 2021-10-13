@@ -1,3 +1,3 @@
 # Artículo 45
 
-Presentado a la consideración del Plenario, éste deberá decidir en primer lugar si el asunto amerita ser conocido por el Concejo. Si se rechaza podrá ser tratado hasta el año siguiente.
+El quorum para las sesiones del Concejo Municipal se constituye con la presencia de más de la mitad de sus miembros. En todos los casos se requerirá la asistencia del Alcalde o Alcaldesa, salvo lo establecido en el numeral 24 del Artículo 28 de la Ley de Municipios.

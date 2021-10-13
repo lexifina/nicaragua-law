@@ -1,5 +1,3 @@
 # Artículo 29
 
-El Concejo Municipal se reunirá una vez al mes ordinariamente, para conocer los asuntos incluidos en el Orden del Día, sesionará extraordinariamente cuando medie solicitud de concejales, de conformidad con lo estipulado en el Artículo 26 de la Ley o cuando lo convoque el Alcalde.
-
-Esta solicitud habrá de hacerse por escrito en el que se razone el asunto o asuntos que la motiven, firmado personalmente por todos los que la suscriben. En este tipo de sesión los Concejales no devengarán dieta alguna.
+Los proyectos de ordenanzas deberán ser discutidos por el Concejo y una vez aprobados el Alcalde o la Alcaldesa las mandará a publicar. Las ordenanzas que contengan disposiciones de gran importancia para la vida de la población, a juicio del Concejo, deberán publicarse en La Gaceta, Diario Oficial.

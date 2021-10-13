@@ -1,3 +1,3 @@
 # Artículo 68
 
-Cada año, en su primera sesión, el Concejo procederá a integrar sus Comisiones Permanentes.
+El Secretario librará certificaciones del Libro de Actas cuando sea necesario, tanto para los intereses del municipio mismo, como de ciudadanos interesados afectados por las decisiones del Concejo Municipal.

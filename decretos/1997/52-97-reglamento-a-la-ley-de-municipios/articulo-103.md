@@ -1,9 +1,3 @@
 # Artículo 103
 
-Para inscribir la empresa en el Registro Público Mercantil correspondiente, bastará la certificación de la Resolución Creadora, emitidas por el Secretario del Concejo Municipal, para que el Registrador le dé el trámite correspondiente.
-
-PROCEDIMIENTO Y RÉGIMEN JURÍDICO
-
-RÉGIMEN ADMINISTRATIVO
-
-DEL REGISTRO DE DOCUMENTOS
+A partir de la entrada en vigencia del presente Reglamento el Alcalde o Alcaldesa del municipio correspondiente deberá en un plazo no mayor de ciento ochenta días, investigar los bienes que posea el municipio a cualquier título.

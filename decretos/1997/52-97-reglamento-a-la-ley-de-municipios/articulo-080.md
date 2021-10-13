@@ -1,3 +1,3 @@
 # Artículo 80
 
-El funcionario municipal de elección popular que fuere declarado culpable, tendrá derecho a recurrir ante el Consejo Supremo Electoral en revisión de su caso, conforme el acápite 9 del Artículo 34 Cn.
+En la primera reunión los miembros de la Comisión nombrará de su seno a un Presidente y a un Secretario-relator, los que durarán, al igual que los demás miembros, un año en el ejercicio de sus cargos, pudiendo ser reelectos.

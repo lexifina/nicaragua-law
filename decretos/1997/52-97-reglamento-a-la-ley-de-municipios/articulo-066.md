@@ -1,3 +1,3 @@
 # Artículo 66
 
-Las Comisiones Especiales serán conformadas por el Concejo, mediante Ordenanza, para atender problemas específicos que se presenten o para dictaminar normas que por su importancia para la localidad, demanden este tipo de Comisión.
+El Secretario asistirá al Alcalde o Alcaldesa en la conducción del debate en una sesión, anotando el orden de solicitud de uso de la palabra por parte de los Concejales o Concejalas, recepcionando las mociones y llevando la cuenta en las votaciones.

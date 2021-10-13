@@ -1,3 +1,3 @@
 # Artículo 26
 
-Las Resoluciones serán publicadas de la misma manera que las ordenanzas.
+Las ordenanzas del Concejo constituyen la máxima norma local.
