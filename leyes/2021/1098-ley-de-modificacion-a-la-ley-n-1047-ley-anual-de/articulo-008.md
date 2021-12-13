@@ -1,0 +1,3 @@
+# Artículo 8
+
+Modifíquese el Artículo 1, de la Ley Nº. 1047, Ley Anual de Presupuesto General de la República 2021, el cual se leerá así: "Apruébese el Presupuesto General de Ingresos para el ejercicio presupuestario 2021 por un monto estimado de C$ 97, 758,001,556.00 (NOVENTA Y SIETE MIL SETECIENTOS CINCUENTA Y OCHO MILLONES UN MIL QUINIENTOS CINCUENTA Y SEIS CÓRDOBAS NETOS), de los que corresponden a ingresos corrientes el monto de C$ 97,674,854, 709.00 (NOVENTA Y SIETE MIL SEISCIENTOS SETENTA Y CUATRO MILLONES OCHOCIENTOS CINCUENTA Y CUATRO MIL SETECIENTOS NUEVE CÓRDOBAS NETOS) y a ingresos de capital la suma de C$ 83,146,847.00 (OCHENTA Y TRES MILLONES CIENTO CUARENTA Y SEIS MIL OCHOCIENTOS CUARENTA Y SIETE CÓRDOBAS NETOS), que forman parte de la Ley.

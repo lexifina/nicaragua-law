@@ -1,0 +1,3 @@
+# Artículo 1
+
+Increméntese el Presupuesto General de Ingresos para el ejercicio presupuestario 202 l en la suma de C$ 17, 086,788,165.00 (DIECISIETE MIL OCHENTA Y SEIS MILLONES SETECIENTOS OCHENTA Y OCHO MIL CIENTO SESENTA Y CINCO CÓRDOBAS NETOS), de los que C$ 17,004,516,086.00 (DIECISIETE MIL CUATRO MILLONES QUINIENTOS DIECISÉIS MIL OCHENTA Y SEIS CÓRDOBAS NETOS) corresponden a ingresos corrientes y C$ 82,272,079.00 (OCHENTA Y DOS MILLONES DOSCIENTOS SETENTA Y DOS MIL SETENTA Y NUEVE CÓRDOBAS NETOS) a ingresos de capital, de acuerdo a la distribución por fuentes de ingresos contenida en el Anexo Nº. I.
