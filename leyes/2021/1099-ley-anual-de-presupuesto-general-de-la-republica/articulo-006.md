@@ -1,0 +1,3 @@
+# Artículo 6
+
+Sin perjuicio de lo establecido en la Ley Nº. 466, Ley de Transferencias Presupuestarias a los Municipios de Nicaragua y sus Reformas, se establece como medida temporal para el ejercicio presupuestario 2022, el porcentaje del cuatro por ciento (4.0%) sobre el monto estimado de ingresos tributarios establecido en la presente Ley, como asignación para transferencias municipales a las Alcaldías. Por tanto, el monto asignado a la partida de transferencia municipal para el presente ejercicio presupuestario es de C$ 3, 396, 099,100.00 (TRES MIL TRESCIENTOS NOVENTA Y SEIS MILLONES NOVENTA Y NUEVE MIL CIEN CÓRDOBAS NETOS), y cuya distribución es parte de esta Ley.

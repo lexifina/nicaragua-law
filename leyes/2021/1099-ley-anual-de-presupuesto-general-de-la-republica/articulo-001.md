@@ -1,0 +1,3 @@
+# Artículo 1
+
+Apruébese el Presupuesto General de Ingresos para el ejercicio presupuestario 2022, por el monto estimado de C$ 91,542,459,857 .00 (NOVENTA Y UN MIL QUINIENTOS CUARENTA Y DOS MILLONES CUATROCIENTOS CINCUENTA Y NUEVE MIL OCHOCIENTOS CINCUENTA Y SIETE CÓRDOBAS NETOS), de los que C$ 91,458,685,297.00 (NOVENTA Y UN MIL CUATROCIENTOS CINCUENTA Y OCHO MILLONES SEISCIENTOS OCHENTA Y CINCO MIL DOSCIENTOS NOVENTA Y SIETE CÓRDOBAS NETOS) corresponden a ingresos corrientes y C$ 83,774,560.00 (OCHENTA Y TRES MILLONES SETECIENTOS SETENTA Y CUATRO MIL QUINIENTOS SESENTA CÓRDOBAS NETOS) a ingresos de capital, que forman parte de esta Ley, de acuerdo a la distribución por fuente de ingresos.
