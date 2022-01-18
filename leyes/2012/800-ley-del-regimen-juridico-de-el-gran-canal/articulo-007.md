@@ -1,6 +1,6 @@
 # Artículo 7
 
-Del nombramiento.
+Del nombramiento
 
 Los ciudadanos que en nombre y representación del Estado de Nicaragua participen como miembros de la Dirección de la Autoridad de El Gran Canal Interoceánico de Nicaragua, serán nombrados por el Presidente de la República.
 

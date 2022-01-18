@@ -1,6 +1,6 @@
 # Artículo 11
 
-Facultades del Presidente de la Junta Directiva.
+Facultades del Presidente de la Junta Directiva
 
 El Presidente de la Junta Directiva de la Autoridad de El Gran Canal Interoceánico de Nicaragua tendrá las siguientes facultades:
 

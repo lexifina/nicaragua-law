@@ -1,6 +1,6 @@
 # Artículo 12
 
-Funciones de los Directores de la Junta Directiva.
+Funciones de los Directores de la Junta Directiva
 
 Son funciones de los Directores de la Junta Directiva las siguientes:
 

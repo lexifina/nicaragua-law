@@ -1,6 +1,6 @@
 # Artículo 14
 
-Funciones ejecutivas del Presidente de la Junta Directiva.
+Funciones ejecutivas del Presidente de la Junta Directiva
 
 El Presidente tendrá las siguientes funciones ejecutivas:
 
@@ -8,11 +8,11 @@ a) Representar legalmente a la institución con facultades de Apoderado General 
 
 b) Representar a la Autoridad de El Gran Canal Interoceánico de Nicaragua nacional e internacionalmente;
 
-c) Tendrá la potestad de formular propuestas normativas para la Junta Directiva y una vez aprobadas ejecutar las normativas en el área de influencia y zona económica de El Gran Canal de Nicaragua;
+c) Derogado;
 
 d) Ejercer la administración, coordinación y supervisión del funcionamiento de la Institución;
 
-e) Establecer el valor de las tarifas por servicios que se presten, aprobados por la Junta Directiva;
+e) Derogado;
 
 f) Otorgar poderes judiciales y especiales, aprobados por la Junta Directiva;
 
@@ -22,6 +22,6 @@ h) Mantener informado a la Junta Directiva sobre los asuntos que requieran su at
 
 Todo ello, sin perjuicio de las demás funciones que se le otorguen en el Reglamento de la presente Ley.
 
-Capítulo V
+OBLIGACIONES DE LA AUTORIDAD DE EL GRAN CANAL INTEROCEÁNICO DE NICARAGUA
 
-Obligaciones de la Autoridad de El Gran Canal Interoceánico de Nicaragua
+Derogado.

@@ -1,14 +1,14 @@
 # Artículo 6
 
-Objetivos de la Autoridad de El Gran Canal Interoceánico de Nicaragua.
+Objetivos de la Autoridad de El Gran Canal Interoceánico de Nicaragua
 
 La Autoridad de El Gran Canal Interoceánico de Nicaragua tendrá como objetivos los siguientes:
 
-a) Promover y crear la Empresa Gran Nacional de Nicaragua;
+a) Derogado;
 
 b) Gestionar y procurar la obtención del capital inversionista necesario para conformación de ésta;
 
-c) Supervisar todas y cada unas de las fases de estudio, construcción y operación de El Gran Canal de Nicaragua; creando normas y regulaciones que le permitan vigilar y fiscalizar, todo lo concerniente al mismo;
+c) Supervisar todas y cada una de las fases de estudio, construcción y operación de El Gran Canal de Nicaragua; creando normas y regulaciones que le permitan vigilar y fiscalizar, todo lo concerniente al mismo;
 
 d) Velar permanentemente y en forma especialmente prioritaria por la preservación y protección del Gran Lago de Nicaragua, invaluable activo del patrimonio nacional, implementando las medidas técnicas y ambientalistas necesarias para evitar su contaminación y conservar la potabilidad y sustentabilidad de sus aguas;
 
