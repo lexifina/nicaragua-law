@@ -1,0 +1,3 @@
+# Artículo 10
+
+El CIPS se regirá por el presente Decreto, su Reglamento y demás regulaciones administrativas que emita el Ministerio de Salud, el cual queda facultado al efecto para dictar tales disposiciones reglamentarias y administrativas.
