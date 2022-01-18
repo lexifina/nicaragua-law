@@ -1,10 +1,12 @@
 # Artículo 6
 
-El Ente Regulador para el mejor cumplimiento de sus funciones y competencias que le otorga esta Ley. se apoyará en una Comisión Multisectorial integrada por:
+El Ente Regulador para el mejor cumplimiento de sus funciones y competencias que le otorga esta Ley, se apoyará en una Comisión Multisectorial integrada por:
 
 Ministerio de Transporte e Infraestructura, quien la preside.
 
-Ministerio del Ambiente y de los Recursos Naturales (MARENA). Ministerio de Fomento Industria y Comercio (MIFIC).
+Ministerio del Ambiente y de los Recursos Naturales (MARENA).
+
+Ministerio de Fomento Industria y Comercio (MIFIC).
 
 Ministerio de Relaciones Exteriores.
 

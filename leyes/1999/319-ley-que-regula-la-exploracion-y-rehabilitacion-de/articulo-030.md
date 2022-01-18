@@ -10,6 +10,4 @@ Quedan exentos del pago de tarifa de peaje, embarcaciones de las siguientes inst
 
 4) Ministerio de Salud.
 
-5) Ministerio de Educación, Cultura y Deportes.
-
-Asimismo quedan exentos del pago de tarifa de peaje las embarcaciones artesanales de lugareños por razones de sus actividades propias de la zona cuando el paso natural del río se vea afectado por las obras de la concesión y los turistas que naveguen con embarcaciones de poco calado.
+5) Ministerio de Educación. Asimismo, quedan exentos del pago de tarifa de peaje las embarcaciones artesanales de lugareños por razones de sus actividades propias de la zona cuando el paso natural del río se vea afectado por las obras de la concesión y los turistas que naveguen con embarcaciones de poco calado.

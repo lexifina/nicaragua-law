@@ -1,6 +1,6 @@
 # Artículo 33
 
-Las sanciones a las infracciones a que se refiere el artículo anterior serán de:
+Las sanciones a las infracciones a que se refiere el Artículo anterior serán de:
 
 1) Amonestaciones.
 

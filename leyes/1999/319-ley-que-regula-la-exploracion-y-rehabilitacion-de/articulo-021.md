@@ -12,9 +12,9 @@ El contrato de concesión de explotación de obra fluvial, deberá incluir al me
 
 5) Las facultades del delegado fiscalizador a que se refiere el Artículo 8 de esta Ley.
 
-6) Haber rendido garantía de fiel cumplimiento a favor del Estado, por un monto no menor del cinco por ciento ( 5%) del valor inicial de la obra con el fin de asegurar que el Concesionario ejecutará los trabajos objeto de la concesión de obra fluvial.
+6) Haber rendido garantía de fiel cumplimiento a favor del Estado, por un monto no menor del cinco por ciento (5%) del valor inicial de la obra con el fin de asegurar que el Concesionario ejecutará los trabajos objeto de la concesión de obra fluvial.
 
-7) El procedimiento de control contable y de fiscalización de los trabajos técnicos; también se deberá incluir el programa de inversión y el de ejecución de la obra. estipulando las fechas de inicio y de conclusión de la misma.
+7) El procedimiento de control contable y de fiscalización de los trabajos técnicos; también se deberá incluir el programa de inversión y el de ejecución de la obra, estipulando las fechas de inicio y de conclusión de la misma.
 
 8) Los derechos y obligaciones de las partes y las sanciones por el incumplimiento del contrato.
 
@@ -22,4 +22,4 @@ El contrato de concesión de explotación de obra fluvial, deberá incluir al me
 
 10) Las causas de caducidad o extinción de la concesión de explotación y sus consecuencias.
 
-11) Las obligaciones reciprocas al término de la concesión.
+11) Las obligaciones recíprocas al término de la concesión.
