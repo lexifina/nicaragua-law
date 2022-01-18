@@ -1,6 +1,6 @@
 # Artículo 20
 
-El Reglamento de la Presente Ley y el Contrato de Concesión establecerán los mecanismos y procedimientos para establecer y revisar las tarifas vigentes durante la fase de explotación.
+El Reglamento de la presente Ley y el Contrato de Concesión establecerán los mecanismos y procedimientos para establecer y revisar las tarifas vigentes durante la fase de explotación.
 
 Para el establecimiento y revisión de las tarifas, se tomarán en cuenta los parámetros siguientes:
 

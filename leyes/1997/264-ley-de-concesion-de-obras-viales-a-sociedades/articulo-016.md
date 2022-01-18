@@ -1,6 +1,6 @@
 # Artículo 16
 
-Se precederá a declarar la caducidad o extinción de la concesión en los casos de:
+Se procederá a declarar la caducidad o extinción de la concesión en los casos de:
 
 1) Incumplimiento injustificado del programa de trabajo para la ejecución de la obra.
 

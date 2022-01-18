@@ -16,7 +16,7 @@ Todo Contrato de Concesión deberá indicar por lo menos lo siguientes:
 
 7) La forma en que el Estado solucionará el eventual defecto de ingresos si las tarifas autorizadas o reajustadas no resultasen suficientes.
 
-8) El procedimiento de control contable y de fiscalización de los trabajos técnicos. También se deberá incluir el programa de inversión y el de ejecución de la obra, estipulando las fechas de inicio y conclusión de la misma, así como la penalidades en que incurrirá el Concesionario en el caso de incumplimiento de dichos programas.
+8) El procedimiento de control contable y de fiscalización de los trabajos técnicos. También se deberá incluir el programa de inversión y el de ejecución de la obra, estipulando las fechas de inicio y conclusión de la misma, así como las penalidades en que incurrirá el Concesionario en el caso de incumplimiento de dichos programas.
 
 9) Las obligaciones recíprocas al término de la concesión.
 

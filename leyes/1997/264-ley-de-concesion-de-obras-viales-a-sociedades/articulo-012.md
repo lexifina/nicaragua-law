@@ -2,7 +2,7 @@
 
 La concesión podrá ser:
 
-1) A título oneroso, imponiendo al concesionario una contribución determinada en dinero ó una participación sobre sus beneficios a favor del Estado.
+1) A título oneroso, imponiendo al concesionario una contribución determinada en dinero o una participación sobre sus beneficios a favor del Estado.
 
 2) Gratuita, cuando el flujo financiero sustentado en el estudio de la concesión que da origen al Contrato de la misma, determine que no hay necesidad de subvención ni generación de excedentes que permita el traslado de fondos a favor del Estado.
 
