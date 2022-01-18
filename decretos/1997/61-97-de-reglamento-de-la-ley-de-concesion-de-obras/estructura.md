@@ -1,4 +1,4 @@
-- CAPITULO I (antes del artículo 1)
+- CAPÍTULO I (antes del artículo 1)
 - CAPÍTULO II (antes del artículo 3)
 - CAPÍTULO III (antes del artículo 8)
 - CAPÍTULO IV (antes del artículo 10)
@@ -26,5 +26,5 @@
 - CAPÍTULO XXVI (antes del artículo 58)
 - CAPÍTULO XXVII (antes del artículo 59)
 - CAPÍTULO XXVIII (antes del artículo 64)
-- CAPÍTULO XIX (antes del artículo 65)
+- CAPÍTULO XXIX (antes del artículo 65)
 - DISPOSICIONES FINALES (antes del artículo 65)

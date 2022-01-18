@@ -4,11 +4,11 @@ Para fines de este Reglamento se entiende por:
 
 Ley: La Ley de Concesiones de Obras Viales a Sociedades Privadas o Mixtas.
 
-Ley de Contrataciones Administrativas: Ley No. 809 publicada en La Gaceta, Diario Oficial No. 202, del 7 de Septiembre de 1981 denominada Ley de Contrataciones Administrativas del Estado, Entes Descentralizados o Autónomos y Municipalidades.
+Ley de Contrataciones Administrativas: Ley Nº. 737 publicada en La Gaceta, Diario Oficial Nº. 213 y 214 del 8 y 9 de noviembre de 2010 denominada Ley de Contrataciones Administrativas del Sector Público.
 
 Oferta: La proposición formal que hace una persona natural o jurídica para contratar con el Ente Regulador una concesión de obra vial, aceptando participar en la licitación pública dentro de los términos del respectivo aviso de convocatoria y de lo previsto en la Ley de Contrataciones Administrativas.
 
-Ente Regulador: El Ministerio de Construcción y Transporte, denominado abreviadamente MCT.
+Ente Regulador: El Ministerio de Transporte e Infraestructura, denominado abreviadamente MTI.
 
 Concesión: El contrato mediante el cual el Ente Regulador concede a un particular el derecho para la construcción, mantenimiento, rehabilitación, mejoramiento, reconstrucción y/o explotación de obras viales y de las instalaciones conexas, a cambio de percibir un pago determinado por peaje de los usuarios por el servicio brindado, de conformidad con lo dispuesto en la Ley y en el presente Reglamento.
 

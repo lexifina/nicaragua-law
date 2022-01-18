@@ -18,12 +18,12 @@ Además de su publicación en La Gaceta, Diario Oficial, los avisos de convocato
 
 2.2 El programa de trabajo de ejecución de la obra vial.
 
-2.3 La metodología y lo criterios de evaluación y selección de las ofertas.
+2.3 La metodología y los criterios de evaluación y selección de las ofertas.
 
 2.4 Las posibles condiciones económico-financieras de la concesión.
 
 2.5 El programa de mantenimiento de la obra vial.
 
-2.6 Las normas especiales que regularán aspectos tales como mantenimiento, operación, seguridad, uso de la obra, modalidades en la prestación de los servicios, sistemas tarifario, limitaciones, inspección, vigilancia y cualquier otro aspecto que se considere importante regular por razones de conveniencia nacional.
+2.6 Las normas especiales que regularán aspectos tales como mantenimiento, operación, seguridad, uso de la obra, modalidades en la prestación de los servicios, sistemas tarifarios, limitaciones, inspección, vigilancia y cualquier otro aspecto que se considere importante regular por razones de conveniencia nacional.
 
 2.7 Cualquier otro elemento técnico indispensable para publicar, tramitar y adjudicar la licitación.

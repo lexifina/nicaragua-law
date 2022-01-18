@@ -4,6 +4,6 @@ En el contrato de concesión de una obra vial existente se hará una descripció
 
 Los aportes del Ente Regulador, si los hubiese, se tomarán en cuenta, para fijar el plazo y las tarifas de peaje, en los análisis económicos financieros de la concesión, en las características de los servicios y en las reservas que el Ente Regulador pueda hacer.
 
-La anterior información deberá se proporcionada a los oferentes en la convocatoria o invitación a licitación pública.
+La anterior información deberá ser proporcionada a los oferentes en la convocatoria o invitación a licitación pública.
 
 DEL ENTE FISCALIZADOR
