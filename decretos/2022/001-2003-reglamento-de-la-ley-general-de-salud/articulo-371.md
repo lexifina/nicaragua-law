@@ -1,0 +1,3 @@
+# Artículo 371
+
+Son actividades médico legales, las que se realizan en cualquier institución o establecimiento de salud, para proveer atención por enfermedad o por lesión, o procedimientos de observación, intervención y análisis de un cadáver, en los casos en que se pueda derivar responsabilidad penal y/o civil; su resultado se expresa en forma de declaraciones, dictámenes, informes, certificados, reportes, emitidos expresamente por el director del establecimiento de salud, dirigido a las autoridades judiciales o a los funcionarios de los organismos competentes. Para los casos de violencia intrafamiliar, se deben implementar las normas y procedimientos establecidos para tales fines.

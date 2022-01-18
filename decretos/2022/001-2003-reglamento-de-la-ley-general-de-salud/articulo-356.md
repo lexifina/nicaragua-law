@@ -1,0 +1,3 @@
+# Artículo 356
+
+Los recursos del primer grupo definido en el Artículo 352 destinado a acciones de promoción de la salud, prevención, recuperación y rehabilitación, así como las de salud pública se distribuirán entre los SILAIS, considerando criterios de equidad, calidad y eficiencia de tal manera que satisfaga las necesidades de servicio de salud de los habitantes del territorio. Para operativizar tales criterios se tendrán en cuenta el tamaño de la población del respectivo territorio, perfil epidemiológico, costo de las prestaciones, capacidad instalada y la eficiencia en la producción de servicios.
