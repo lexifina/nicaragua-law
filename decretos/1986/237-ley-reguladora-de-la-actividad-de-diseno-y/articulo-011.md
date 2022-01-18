@@ -1,3 +1,3 @@
 # Artículo 11
 
-En caso la solicitud fuere rechazada la Secretaría General del Ministerio de la Construcción notificará tal hecho al interesado.
+En caso la solicitud fuere rechazada, el Ministerio de Transporte e Infraestructura notificará tal hecho al interesado.

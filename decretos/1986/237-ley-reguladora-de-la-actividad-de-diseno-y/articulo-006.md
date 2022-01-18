@@ -16,7 +16,7 @@ f) Solvencia Fiscal y Municipal;
 
 g) Detalle por profesión o especialidad del personal, adjuntando la documentación que lo acredite;
 
-h) Estado financieros y de resultados correspondiente a los dos últimos años, debidamente auditoriados por Contadores Públicos autorizados;
+h) Estados financieros y de resultados correspondiente a los dos últimos años, debidamente auditoriados por Contadores Públicos autorizados;
 
 i) Capacidad instalada, lo que se comprobará acompañando la documentación necesaria;
 

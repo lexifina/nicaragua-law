@@ -1,3 +1,3 @@
 # Artículo 12
 
-De las resoluciones que dicte la Secretaría General cabrá el recurso de revisión ante el Ministerio de la Construcción, quién resolverá sin más trámite.
+De las resoluciones que se dicte, cabrá el recurso de revisión ante el Ministerio de Transporte e Infraestructura, quién resolverá sin más trámite.

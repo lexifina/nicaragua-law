@@ -6,6 +6,6 @@ a) Dedicarse a la actividad de diseño y construcción;
 
 b) Presentar oferta en licitaciones;
 
-c) Gestionar fianzas de Garantías ante el Instituto Nicaragüense de Seguros y Reaseguros;
+c) Gestionar fianzas de Garantía ante el Instituto Nicaragüense de Seguros y Reaseguros;
 
-d) Gestionar a nombre de otro permiso de construcción ante los gobiernos regionales y municipales.
+d) Gestionar a nombre de otro, permisos de construcción ante los Gobiernos Municipales.
