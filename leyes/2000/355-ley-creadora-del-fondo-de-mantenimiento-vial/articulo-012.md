@@ -14,4 +14,6 @@ e) Herencias, legados y donaciones de todo tipo instituidas a favor del FOMAV.
 
 f) Cualquier otro ingreso que le correspondiere recibir.
 
-Los aportes establecidos en el inciso a) serán entregados por la Tesorería General de la República al Fondo de Mantenimiento Vial, tal y como éste lo solicite; todo de acuerdo a lo establecido en el artículo 27 de la Ley de Régimen Presupuestario para los Entes Autónomos, los que son responsables personales y directos de la ejecución de sus respectivos presupuestos.
+g) Los fondos provenientes de la aplicación del Impuesto Especial para el Financiamiento del Fondo de Mantenimiento Vial (IEFOMAV).
+
+Los aportes establecidos en los literales a) y g) serán entregados por la Tesorería General de la República al Fondo de Mantenimiento Vial de conformidad a las normativas presupuestarias vigentes.

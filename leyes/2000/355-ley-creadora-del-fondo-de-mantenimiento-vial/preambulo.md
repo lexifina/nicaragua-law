@@ -1,10 +1,14 @@
-LEY N° 355, LEY CREADORA DEL FONDO DE MANTENIMIENTO VIAL
+TEXTO CONSOLIDADO, LEY Nº. 355, LEY CREADORA DEL FONDO DE MANTENIMIENTO VIAL
 
-Aprobada el 29 de junio 2000.
+Aprobado el 06 de julio de 2021
 
-Publicada en La Gaceta, Diario Oficial N°. 157 del 21 de agosto del 2000
+Publicado en La Gaceta, Diario Oficial N°. 10 del 18 de enero de 2022
 
-LEY No. 355
+Digesto Jurídico Nicaragüense de la Materia de Infraestructura
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 06 de julio de 2021, de la Ley Nº. 355, Ley Creadora del Fondo de Mantenimiento Vial, aprobada el 29 de junio de 2000 y publicada en La Gaceta, Diario Oficial Nº. 157 del 21 de agosto de 2000, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1076, Ley del Digesto Jurídico Nicaragüense de la Materia de Infraestructura, aprobada el 06 de julio de 2021.
+
+LEY Nº. 355
 
 EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
@@ -20,6 +24,6 @@ La siguiente:
 
 LEY CREADORA DEL FONDO DE MANTENIMIENTO VIAL
 
-CAPITULO I
+CAPÍTULO I
 
 CONSTITUCIÓN, DOMICILIO Y COMPETENCIA
