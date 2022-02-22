@@ -16,8 +16,8 @@ Los requisitos del Certificado de Infraestructura para el sector comercial, indu
 
 7. Planos del proceso tecnológico cuando aplique;
 
-8. Planos de los Sistemas de protección contra incendio a instalar;
+8. Planos de los Sistemas de protección contra incendio a instalar; y
 
 9. Cumplir con los demás requisitos de las leyes, reglamentos y normas técnicas aplicables.
 
-DE LOS DISEÑOS DE PROTECCION CONTRA INCENDIOS
+DE LOS DISEÑOS DE PROTECCIÓN CONTRA INCENDIOS

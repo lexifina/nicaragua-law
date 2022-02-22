@@ -6,6 +6,6 @@ Los agentes económicos que realicen importación de hidrocarburos sus derivados
 
 2. Formulario de trámite;
 
-3. Acompañar fotocopia de la guía de embarque;
+3. Acompañar fotocopia de la guía de embarque; y
 
-4. Indicar cantidad, estado físico del producto y sus propiedades de acuerdo a la ficha de seguridad conocida como FDS / MSDS.
+4. Indicar cantidad, estado físico del producto y sus propiedades de acuerdo a la ficha de seguridad conocida como FDS/MSDS.

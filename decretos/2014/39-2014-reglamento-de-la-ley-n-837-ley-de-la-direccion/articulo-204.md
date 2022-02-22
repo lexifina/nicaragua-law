@@ -1,6 +1,8 @@
 # Artículo 204
 
-De los especialistas o técnicos de las Organizaciones de Bomberos Voluntarios. Los requisitos para la acreditación y certificación de las personas especialistas o técnicos de las diferentes organizaciones de bomberos voluntarios que cumplan con las calidades técnicas para el ejercicio del servicio de prevención de incendios, establecidos en el artículo 5 numeral 7 de la Ley, son los siguientes:
+De los especialistas o técnicos de las Organizaciones de Bomberos Voluntarios
+
+Los requisitos para la acreditación y certificación de las personas especialistas o técnicos de las diferentes organizaciones de bomberos voluntarios que cumplan con las calidades técnicas para el ejercicio del servicio de prevención de incendios, establecidos en el Artículo 5 numeral 7 de la Ley, son los siguientes:
 
 1. Solicitud de acreditación en original y copia firmada por el representante de la Asociación;
 
@@ -12,7 +14,7 @@ De los especialistas o técnicos de las Organizaciones de Bomberos Voluntarios. 
 
 5. Curso básico de prevención y extinción de incendio y someterse a un proceso de evaluación técnica ante la Academia Nacional la de Bomberos;
 
-6. Titulación técnica o superior en electricidad industrial (cuando aplique);
+6. Titulación técnica o superior en electricidad industrial (cuando aplique); y
 
 7. Curso de riesgo eléctrico.
 

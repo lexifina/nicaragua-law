@@ -1,6 +1,6 @@
 # Artículo 11
 
-El Consejo de Dirección establecido en el artículo 14 de la Ley 837, tendrá las facultades siguientes:
+El Consejo de Dirección establecido en el Artículo 14 de la Ley Nº. 837, tendrá las facultades siguientes:
 
 1. Elaborar el Plan Estratégico Institucional y elevarlo para su aprobación ante la Dirección Superior del Ministerio de Gobernación;
 
@@ -10,6 +10,6 @@ El Consejo de Dirección establecido en el artículo 14 de la Ley 837, tendrá l
 
 4. Aportar lineamientos y directrices a cumplir por las especialidades y discutir propuestas de funcionamiento;
 
-5. Analizar la situación operativa y el desarrollo de los planes propios de las especialidades;
+5. Analizar la situación operativa y el desarrollo de los planes propios de las especialidades; y
 
 6. Analizar la problemática disciplinaria de sus miembros que tienen incidencias negativas en la imagen institucional y tomar las decisiones para su restablecimiento.

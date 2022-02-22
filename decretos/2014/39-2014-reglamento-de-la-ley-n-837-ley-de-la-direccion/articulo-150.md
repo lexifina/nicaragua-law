@@ -6,6 +6,6 @@ La evaluación realizada por los Jefes (as) deberá medir los indicadores princi
 
 2. Formación profesional, técnica y especializada;
 
-3. Actitudes personales;
+3. Actitudes personales; y
 
 4. Desempeño en el cargo y relaciones interpersonales.

@@ -14,6 +14,6 @@ Para el otorgamiento de un Grado se deben de tomar en cuenta los siguientes requ
 
 6. Ser propuesto por el Mando Inmediato y el Mando Superior;
 
-7. Actitudes personales y morales;
+7. Actitudes personales y morales; y
 
 8. Cumplir con el periodo de permanencia establecido para cada grado.

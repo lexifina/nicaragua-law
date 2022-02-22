@@ -1,6 +1,6 @@
 # Artículo 35
 
-Los requisitos del Certificado de Vivienda o uso habitacional de más de 300 m2, son los siguientes:
+Los requisitos del Certificado de Vivienda o uso habitacional de más de 300m2, son los siguientes:
 
 1. Formulario de trámite;
 
@@ -16,6 +16,6 @@ Los requisitos del Certificado de Vivienda o uso habitacional de más de 300 m2,
 
 7. Plano del Sistema de agua contra incendio si fuera urbanización;
 
-8. Memorias de cálculo;
+8. Memorias de cálculo; y
 
-9. Cumplir con los demás requisitos de las leyes, reglamentos y normas técnicas aplicables;
+9. Cumplir con los demás requisitos de las leyes, reglamentos y normas técnicas aplicables.

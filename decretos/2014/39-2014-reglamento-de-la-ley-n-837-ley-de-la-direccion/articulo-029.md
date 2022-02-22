@@ -10,6 +10,6 @@ Los requisitos de Licencia para instalaciones eléctricas de baja tensión, son 
 
 4. Fotocopia de cédula RUC;
 
-5. Fotocopia Vigente de Constancia de No Retención del 1% (cuando aplique);
+5. Fotocopia Vigente de Constancia de No Retención del 1% (cuando aplique); y
 
 6. Solvencia Fiscal Vigente (cuando aplique).

@@ -22,6 +22,6 @@ Los requisitos del Certificado para Objetivos Peligrosos, P, son los siguientes:
 
 10. Características y descripción de los sistemas y equipos de protección contra incendios fijos o portátiles instalados;
 
-11. Fichas de seguridad de los materiales peligrosos a almacenar y utilizar;
+11. Fichas de seguridad de los materiales peligrosos a almacenar y utilizar; y
 
 12. Copia del Seguro Obligatorio de Incendio de Responsabilidad Civil y daños a terceros.

@@ -1,6 +1,6 @@
 # Artículo 130
 
-La correspondencia jerárquica entre escalafón y cargo será de conformidad a los artículos 18 y 19 de la Ley:
+La correspondencia jerárquica entre escalafón y cargo será de conformidad a los Artículos 18 y 19 de la Ley:
 
 Oficiales Superiores: Director o Directora General, Subdirectores o Subdirectoras Generales.
 

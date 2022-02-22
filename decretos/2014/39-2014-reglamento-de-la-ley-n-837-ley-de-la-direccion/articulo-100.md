@@ -6,7 +6,7 @@ El sistema de educación especializada en materia de bombero, estará integrado 
 
 2. Curso Técnico: Dirigido a oficiales en general;
 
-3. Curso Superior Especializado: Dirigido a los cargos operativos y especializado;
+3. Curso Superior Especializado: Dirigido a los cargos operativos y especializados;
 
 4. Curso Superior de Profesionalización: Dirigido a los Oficiales Superiores, Primeros Oficiales y Oficiales Subalternos; y
 

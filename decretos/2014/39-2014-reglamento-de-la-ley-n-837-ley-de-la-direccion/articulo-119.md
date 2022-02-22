@@ -16,6 +16,6 @@ Las Delegaciones Territoriales, tendrán las siguientes atribuciones:
 
 7. Mantener la disciplina sobre el personal a sus órdenes corrigiendo las irregularidades de acuerdo a las facultades que le otorga el reglamento disciplinario;
 
-8. Mantener informado al mando superior de las actividades ordinarias, hechos o incidentes que están clasificados como relevantes y otros que sean de interés de la institución y que estén debidamente normados;
+8. Mantener informado al mando superior de las actividades ordinarias, hechos o incidentes que están clasificados como relevantes y otros que sean de interés de la institución y que estén debidamente normados; y
 
 9. Cualquier otra atribución que le sea delegada por el mando superior.

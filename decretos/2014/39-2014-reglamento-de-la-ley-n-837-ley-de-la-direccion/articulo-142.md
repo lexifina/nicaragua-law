@@ -1,6 +1,8 @@
 # Artículo 142
 
-Del ingreso. Los requisitos para el ingreso a la Dirección General de Bomberos de Nicaragua, son los siguientes:
+Del ingreso
+
+Los requisitos para el ingreso a la Dirección General de Bomberos de Nicaragua, son los siguientes:
 
 1. Ser ciudadano nicaragüense de comprobada honradez;
 
@@ -12,6 +14,6 @@ Del ingreso. Los requisitos para el ingreso a la Dirección General de Bomberos 
 
 5. Gozar de condiciones físicas y psíquicas, respaldado por Certificación Médica;
 
-6. Técnico con tercer año básico aprobado o bachiller;
+6. Técnico con tercer año básico aprobado o bachiller; y
 
 7. Aprobar el curso básico de bomberos en la Academia Nacional de Bomberos de Nicaragua.

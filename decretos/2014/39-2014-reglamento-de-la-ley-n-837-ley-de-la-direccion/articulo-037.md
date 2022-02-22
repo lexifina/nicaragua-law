@@ -14,6 +14,6 @@ Los requisitos del Certificado de Infraestructura para el sector público, insta
 
 6. Planos de los Sistemas de protección contra incendio a instalar;
 
-7. Cumplir con los demás requisitos de las leyes, reglamentos y normas técnicas aplicables;
+7. Cumplir con los demás requisitos de las leyes, reglamentos y normas técnicas aplicables; y
 
 8. Resolución de Exención de Pago emitida por el Director (a) o en su defecto el Subdirector (a) de la Dirección General.

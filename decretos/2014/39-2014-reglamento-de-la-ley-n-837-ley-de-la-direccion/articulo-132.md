@@ -4,6 +4,6 @@ La situación administrativa en que puede encontrarse el personal de la Direcci�
 
 1. Servicio Activo;
 
-2. Servicio Pasivo;
+2. Servicio Pasivo; y
 
 3. Comisión de Servicio Externo.

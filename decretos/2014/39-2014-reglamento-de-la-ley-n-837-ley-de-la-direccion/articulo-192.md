@@ -18,6 +18,6 @@ Recibir reconocimiento monetario del grado, conforme el salario bruto de acuerdo
 
 8. Subteniente, la suma de Un mil trescientos córdobas netos;
 
-9. Sargento Mayor, la suma de Un mil córdobas netos;
+9. Sargento Mayor, la suma de Un mil córdobas netos; y
 
 10. Sargento, la suma de Ochocientos córdobas netos.

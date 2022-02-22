@@ -1,12 +1,12 @@
 # Artículo 57
 
-Los requisitos del Certificado de instalación de tanques estacionarios para GLP de más de 4000 galones, son los siguientes:
+Los requisitos del Certificado de instalación de tanques estacionarios ·para GLP de más de 4000 galones, son los siguientes:
 
 1. Formulario de trámite;
 
 2. Minuta de pago del arancel correspondiente;
 
-3. Fotocopia de cédula;
+3. Fotocopia de Cédula;
 
 4. Inspección in situ de verificación y cumplimiento;
 
@@ -16,8 +16,8 @@ Los requisitos del Certificado de instalación de tanques estacionarios para GLP
 
 7. Acta de constitución de brigada contra incendios;
 
-8. Cumplir con los demás requisitos de las leyes, reglamentos y normas técnicas aplicables;
+8. Cumplir con los demás requisitos de las leyes, reglamentos y normas técnicas aplicables; y
 
 9. Características de los sistemas y equipos de protección contra incendios instalados.
 
-DEL CERTIFICADO DE INSPECCION A UNIDADES DE TRANSPORTE DE GLP Y OTROS MATE RIALES PELIGROSOS
+DEL CERTIFICADO DE INSPECCIÓN A UNIDADES DE TRANSPORTE DE GLP Y OTROS MATERIALES PELIGROSOS

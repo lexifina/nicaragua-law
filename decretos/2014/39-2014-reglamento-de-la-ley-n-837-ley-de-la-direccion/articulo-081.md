@@ -2,7 +2,7 @@
 
 La Dirección de Extinción de Incendios, Búsqueda y Rescate de la Dirección General de Bomberos de Nicaragua, en el cumplimiento de sus funciones, se ajustará a lo siguiente:
 
-1. Ley 837 y su Reglamento;
+1. Ley Nº. 837 y su Reglamento;
 
 2. Manuales de Procedimientos Administrativos y Operativos de la Autoridad de Aplicación;
 
@@ -12,8 +12,6 @@ La Dirección de Extinción de Incendios, Búsqueda y Rescate de la Dirección G
 
 5. Normas de Actuación y Control de Incidentes con sustancias tóxicas, peligrosas y similares o la Guía de Respuesta de Emergencia, GRE;
 
-6. Normas Técnicas Obligatorias, NTON relativas a la materia;
+6. Normas Técnicas Obligatorias, NTON relativas a la materia; y
 
-7. Y demás normativas técnicas emitidas por la Autoridad de
-
-Aplicación.
+7. Y demás normativas técnicas emitidas por la Autoridad de Aplicación.

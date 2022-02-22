@@ -1,6 +1,6 @@
 # Artículo 43
 
-Los requisitos del Certificado Habitacional, en instalaciones eléctricas monofásica y trifásica hasta 10. kw, son los siguientes:
+Los requisitos del Certificado Habitacional, en instalaciones eléctricas monofásica y trifásica hasta 10 kw, son los siguientes:
 
 1. Formulario de trámite;
 
@@ -10,6 +10,6 @@ Los requisitos del Certificado Habitacional, en instalaciones eléctricas monof�
 
 4. Inspección in situ de verificación y cumplimiento;
 
-5. Plano eléctrico, si así los considera la autoridad de aplicación;
+5. Plano eléctrico, si así los considera la autoridad de aplicación; y
 
 6. Cumplir con los demás requisitos de las leyes, reglamentos y normas técnicas aplicables.

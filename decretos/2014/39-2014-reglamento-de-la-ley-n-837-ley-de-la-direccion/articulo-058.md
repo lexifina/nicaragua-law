@@ -6,10 +6,10 @@ Los requisitos del Certificado de inspección y permiso a vehículos automotores
 
 2. Minuta de pago del arancel correspondiente;
 
-3. Fotocopia de cédula;
+3. Fotocopia de Cédula;
 
 4. Fotocopia de la Licencia de Circulación;
 
-5. Inspección in situ de verificación y cumplimiento;
+5. Inspección in situ de verificación y cumplimiento; y
 
 6. Cumplir con los demás requisitos de las leyes, reglamentos y normas técnicas aplicables.

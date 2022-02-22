@@ -1,6 +1,6 @@
 # Artículo 82
 
-Sin perjuicio de las funciones establecidas en el artículo 40 de la Ley, la Dirección de Extinción de Incendios, Búsqueda y Rescate, tendrá las atribuciones siguientes:
+Sin perjuicio de las funciones establecidas en el Artículo 40 de la Ley, la Dirección de Extinción de Incendios, Búsqueda y Rescate, tendrá las atribuciones siguientes:
 
 1. Actuar de forma autónoma o coordinada con las instituciones de auxilio y de socorro que le permitan disminuir o superar las consecuencias de cualquier incidente, evento adverso, contingencia o siniestro suscitado en cualquier parte del país;
 
@@ -16,12 +16,12 @@ Sin perjuicio de las funciones establecidas en el artículo 40 de la Ley, la Dir
 
 7. Realiza la evaluación del TRIAGE que corresponda;
 
-8. Establecer el Plan de Acción del Incidente, PAI, que puede ser mental o escrito y darlo a conocer;
+8. Establecer el Plan de Acción del Incidente, PAi, que puede ser mental o escrito y darlo a conocer;
 
-9. Coordinar con la autoridad de la materia la función de aislamiento perimetral, sean personas o bienes;
+9. Coordinar con la autoridad de la materia la función de aislamiento perimetral, sean personas o bienes:
 
 10. Informar al Centro Nacional de Comunicaciones sobre la localización, escombro o del incendio;
 
-11. Real izar la reunión posterior del incidente, RPI y elaboración del informe;
+11. Realizar la reunión posterior del incidente, RPI y elaboración del informe; y
 
 12. Elaborar los planes de trabajo anual, trimestral y mensual.

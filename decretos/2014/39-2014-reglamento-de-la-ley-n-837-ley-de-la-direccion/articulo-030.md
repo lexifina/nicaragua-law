@@ -10,8 +10,8 @@ Los requisitos de Licencia para funcionamiento de talleres de soldadura, son los
 
 4. Fotocopia de cédula RUC;
 
-5. Fotocopia Vigente de Constancia de No Retención del 1% (cuando aplique);
+5. Fotocopia Vigente de Constancia de No Retención del 1 %, cuando aplique; y
 
-6. Solvencia Fiscal Vigente (cuando aplique).
+6. Solvencia Fiscal Vigente. cuando aplique.
 
-DE LOS CERTIFICADOS DE REVISION Y APROBACIÓN DE PLANOS DE CONSTRUCCION ELECTRICOS DE OBRAS VERTICALES
+DE LOS CERTIFICADOS DE REVISIÓN Y APROBACIÓN DE PLANOS DE CONSTRUCCIÓN ELÉCTRICOS DE OBRAS VERTICALES

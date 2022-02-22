@@ -6,12 +6,12 @@ Los requisitos del Certificado de instalación de tanques estacionarios para GLP
 
 2. Minuta de pago del arancel correspondiente;
 
-3. Fotocopia de cédula;
+3. Fotocopia de Cédula;
 
 4. Inspección in situ de verificación y cumplimiento;
 
 5. Plan de emergencia;
 
-6. Acta de constitución de brigada contra incendios;
+6. Acta de constitución de brigada contra incendios; y
 
-7. Cumplir con los demás requisitos de las leyes, reglamentos y normas técnicas aplicables;
+7. Cumplir con los demás requisitos de las leyes, reglamentos y normas técnicas aplicables.

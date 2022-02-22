@@ -1,6 +1,6 @@
 # Artículo 65
 
-Sin perjuicio de las funciones establecidas en el artículo 37 de la Ley 837, la Autoridad de Aplicación tendrá las atribuciones siguientes:
+Sin perjuicio de las funciones establecidas en el Artículo 37 de la Ley Nº. 837, la Autoridad de Aplicación tendrá las atribuciones siguientes:
 
 1. Realizar inspección ocular y material en el sitio del siniestro;
 
@@ -10,6 +10,6 @@ Sin perjuicio de las funciones establecidas en el artículo 37 de la Ley 837, la
 
 4. Usar la técnica establecida a fin de realizar conclusión objetiva para el sustento del dictamen técnico correspondiente;
 
-5. Ocupar las piezas u objetos necesarios para determinar el origen y la causa del siniestro, levantando acta de ocupación que será firmada por el dueño del inmueble o su representante legal;
+5. Ocupar las piezas u objetos necesarios para determinar el origen y la causa del siniestro, levantando acta de ocupación que será firmada por el dueño del inmueble o su representante legal; y
 
 6. Auxiliarse de instituciones públicas o privadas que dispongan de equipos técnicos que permitan una mejor conclusión del peritaje técnico para lo cual se celebraran los convenios o protocolos necesarios.

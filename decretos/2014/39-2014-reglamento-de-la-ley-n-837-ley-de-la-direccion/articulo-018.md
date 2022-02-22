@@ -12,6 +12,6 @@ Los requisitos de Licencia a técnicos eléctricos, son los siguientes:
 
 5. Currículum Vitae;
 
-6. Fotocopia de tres o más constancias o actas de recepción de trabajos realizados;
+6. Fotocopia de tres o más constancias o actas de recepción de trabajos realizados; y
 
 7. Certificado de curso de riesgo eléctrico o seguridad en los lugares de trabajo.

@@ -14,6 +14,6 @@ Los requisitos de Licencia para soldadores eléctricos o autógenos, son los sig
 
 6. Currículum Vitae;
 
-7. Certificado del curso de riesgo eléctrico o seguridad en los lugares de trabajo;
+7. Certificado del curso de riesgo eléctrico o seguridad en los lugares de trabajo; y
 
 8. Certificado de entrenamiento por capacitadores externos acreditados o por la Academia Nacional de Bomberos.

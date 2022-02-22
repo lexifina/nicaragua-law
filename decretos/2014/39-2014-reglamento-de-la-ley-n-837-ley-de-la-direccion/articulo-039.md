@@ -10,6 +10,6 @@ El Certificado del Diseño de Protección Contra Incendios debe comprender la Me
 
 4. Descripción de la geometría del edificio, volumen, superficies útiles y construidas, accesos y evacuación;
 
-5. Definición constructiva con descripción de su comportamiento al fuego;
+5. Definición constructiva con descripción de su comportamiento al fuego; y
 
 6. Protección contra incendios.

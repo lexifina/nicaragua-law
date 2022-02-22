@@ -6,6 +6,6 @@ Los requisitos del Certificado de las instalaciones para uso de tanques domicili
 
 2. Minuta de pago del arancel correspondiente;
 
-3. Fotocopia de cédula;
+3. Fotocopia de Cédula: y
 
-4. Inspección in situ de verificación y cumplimiento
+4. Inspección in situ de verificación y cumplimiento.

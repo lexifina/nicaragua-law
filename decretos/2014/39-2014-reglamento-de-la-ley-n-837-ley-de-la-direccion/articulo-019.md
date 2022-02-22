@@ -8,6 +8,6 @@ Los requisitos de Licencia para ingenieras e ingenieros eléctricos o electromec
 
 3. Fotocopia de Título, Diplomas o Certificados de formación profesional;
 
-4. Currículum Vitae;
+4. Currículum Vitae; y
 
 5. Minuta de Depósito del pago del arancel correspondiente.

@@ -1,6 +1,6 @@
 # Artículo 135
 
-En la causal del artículo anterior del presente Reglamento, numeral 2, conservan sus derechos plenos. En la causal establecida en el numeral 1, de conformidad a las causas que den origen a la sanción, perderá los derechos establecidos en el Reglamento Disciplinario.
+En la causal del Artículo anterior del presente Reglamento, numeral 2, conservan sus derechos plenos. En la causal establecida en el numeral 1, de conformidad a las causas que den origen a la sanción, perderá los derechos establecidos en el Reglamento Disciplinario.
 
 En las causales de los numerales 3 y 4, a petición propia se reconocerá el tiempo de servicio para efectos de permanencia, pero el funcionario pierde todos sus derechos, los que son restituidos al incorporarse nuevamente a sus funciones. La autorización en estos casos puede ser hasta de tres (3) años como máximo.
 

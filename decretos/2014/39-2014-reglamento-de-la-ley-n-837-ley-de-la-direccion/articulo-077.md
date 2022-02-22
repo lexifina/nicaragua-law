@@ -4,6 +4,6 @@ Los agentes económicos que comercialicen hidrocarburos, sus derivados y otros p
 
 1. Formulario de trámite;
 
-2. Minuta de pago del arancel correspondiente;
+2. Minuta de pago del arancel correspondiente; y
 
 3. Cumplir con las medidas de seguridad contra incendios establecidas en las NTON correspondientes.

@@ -10,6 +10,6 @@ El pago del título de acuerdo al nivel de profesionalización, se establecerá 
 
 4. Título Universitario, el 12%;
 
-5. Maestría, el 14%;
+5. Maestría, el 14%; y
 
 6. Doctorado, el 15%.

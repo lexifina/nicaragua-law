@@ -4,6 +4,6 @@ Se conformarán comisiones de evaluación al desempeño en cada Dirección, Divi
 
 1. Recibir la documentación que certifique los niveles académicos y cursos especializados del evaluado;
 
-2. Revisar que cumplan todos los requisitos y la calidad de la evaluación;
+2. Revisar que cumplan todos los requisitos y la calidad de la evaluación; y
 
 3. Informar al evaluado si fue rechazado para optar al grado, explicando las razones que tuvo la Comisión Central o de la Estructura para rechazarlo.

@@ -10,6 +10,6 @@ Los requisitos de Licencia para ingenieras e ingenieros en sistema contra incend
 
 4. Fotocopia de Título, Diplomas o Certificados de formación profesional;
 
-5. Currículum Vitae;
+5. Currículum Vitae; y
 
 6. Certificado o diplomas de cursos de la especialidad que solicita habilitar.

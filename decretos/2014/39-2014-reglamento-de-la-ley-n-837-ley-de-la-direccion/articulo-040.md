@@ -1,14 +1,14 @@
 # Artículo 40
 
-La Dirección General de Bomberos de Nicaragua, aprobará los planos eléctricos previo cumplimiento de los requisitos mínimos siguientes:
+La Dirección General de Bomberos de Nicaragua. aprobará los planos eléctricos previo cumplimiento de los requisitos mínimos siguientes:
 
-1. Simbología que indique los elementos involucrados en la información gráfica, con las características eléctricas y las alturas de montaje;
+1. Simbología que indique los elementos involucrados en la información gráfica, con las características eléctricas y las alturas de montaje:
 
 2. Distribución de las plantas físicas con la información gráfica de todos los circuitos eléctricos.
 
 3. Características eléctricas y físicas de cada tablero o panel;
 
-4. Carga eléctrica conectada y demandada;
+4. Carga eléctrica conectada y demandada:
 
 5. Factor de potencia y factor de demanda;
 
@@ -26,13 +26,13 @@ La Dirección General de Bomberos de Nicaragua, aprobará los planos eléctricos
 
 12. Cuando la carga instalada amerite la instalación de un transformador o banco de transformadores, indicar el tipo de conexión (estrella o delta), voltajes de operación y capacidad instalada en kilovatios-amperios, indicando el factor de potencia del sistema. Asimismo detalles constructivos de bóvedas de transformadores, cuartos de control, cuartos para planta de emergencia, encierros y toda infraestructura que aloje sistemas de transformación de voltaje o corriente;
 
-13. Diagrama de trayectoria de canalizaciones para alimentadores de acometida a tableros y sub tableros y sus características (tipo, dimensiones, etc);
+13. Diagrama de trayectoria de canalizaciones para alimentadores de acometida a tableros y sub tableros y sus características (tipo, dimensiones, etc.);
 
 14. Notas aclaratorias que complementen la información gráfica que permita definir con claridad todos los criterios empleados en el diseño;
 
 15. Diagramas adicionales que complementen la información del sistema de montaje o construcción de algunos elementos eléctricos a instalar;
 
-16. La escala en los planos de áreas interiores para detalle de circuitos ramales deberá ser tal que la información sea legible;
+16. La escala en los planos de áreas interiores para detalle de circuitos ramales deberá ser tal que la información sea legible; y
 
 17. Tabla de resumen con la información indicada;
 
