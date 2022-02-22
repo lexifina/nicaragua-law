@@ -1,7 +1,53 @@
 # Artículo 11
 
-Las cuotas para financiar las prestaciones que actualmente otorga el Instituto en los diversos regímenes y en las zonas aplicadas, son las siguientes:
+Las cuotas para financiar las prestaciones que actualmente otorga el Instituto en los diversos regímenes, a partir del 1 de febrero de 2019 son las siguientes:
 
-1) Régimen de Invalidez, Vejez, Muerte y Riesgos Profesionales
+1) La cotización de los afiliados obligatorios al Régimen de Invalidez, Vejez, Muerte y Riesgos Profesionales será distribuida de la siguiente manera:
 
-2) Régimen I.V.M y R.P. con Aporte Solidario para el sostenimiento del Sistema Nacional Unico de Salud, Según el Arto. 90 de la Ley de Seguridad Social.
+a) Para la Rama IVM:
+
+- A cargo del empleador:
+
+13.50%, para los empleadores que tengan 50 trabajadores o más;
+
+12.50%, para los empleadores que tengan menos de 50 trabajadores.
+
+- A cargo del trabajador: 4. 75%
+
+b) Para la Rama de Riesgos Profesionales:
+
+- A cargo del empleador 1.50%
+
+c) Para la Rama de Víctimas de Guerra:
+
+- A cargo del empleador 1.50%
+
+- A cargo del trabajador 0.25%
+
+2) La cotización de los afiliados obligatorios al Régimen Integral será distribuida en la siguiente manera:
+
+a) Para la Rama de IVM:
+
+-A cargo del empleador:
+
+13.50% para los empleadores que tengan 50 trabajadores o más;
+
+12.50% para los empleadores que tengan menos de 50 trabajadores.
+
+-A cargo del trabajador: 4. 75%
+
+b) Para la Rama de Riesgos Profesionales:
+
+- A cargo del empleador: 1.50%
+
+c) Para la Rama de Víctimas de Guerra:
+
+-A cargo del empleador: 1.50%
+
+d) Para la Rama de Enfermedad y Maternidad:
+
+-A cargo del Empleador 6.00%
+
+-A cargo del Trabajador 2.25%
+
+-A cargo del Estado 1.75%

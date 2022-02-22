@@ -1,27 +1,23 @@
 # Artículo 85
 
-La pensión mensual de invalidez, vejez, e incapacidad permanente total, estará constituida por una cuantía básica y de incrementos anuales computados de acuerdo con el número de cotizaciones semanales en los términos siguientes:
+La cuantía mensual de la pensión de invalidez, vejez e incapacidad permanente total, se calculará multiplicando la remuneración básica mensual por la tasa de reemplazo. La tasa de reemplazo es la suma de un factor básico y un factor anual.
 
-1) Cuando la remuneración base mensual es inferior al doble de salario mínimo vigente para los trabajadores en general:
+Para el cálculo inicial de la cuantía mensual se aplicarán los siguientes criterios:
 
-a) 45% de la remuneración base mensual, que en ningún caso puede ser inferior al salario mínimo en la actividad respectiva.
+a) El factor básico será de 0.20;
 
-b) Más de 1.591 % de la remuneración base mensual por cada 50 cotizaciones semanales o fracción mayor de 25 que tuviere acreditado el asegurado en exceso sobre las primeras 150 cotizadas, sin límite hasta alcanzar el 100 de dicho salario.
+b) El factor anual se calculará multiplicando 0.01 por cada 52 semanas cotizadas del asegurado en exceso sobre las primeras 150 semanas cotizadas.
 
-El monto de la pensión no podrá ser inferior a los dos tercios del salario mínimo en la actividad respectiva.
+c) Al asegurado que habiendo cotizado 15 o más años, haya cumplido la edad de retiro y continúe trabajando, al factor anual se le sumará 0.0 1, por cada 52 semanas cotizadas después de los 60 años de edad, hasta un máximo de 0.10;
 
-2) Cuando la remuneración base mensual es superior al doble del salario mínimo vigente para los trabajadores en general
+d) La tasa de reemplazo máxima es de 0.7;
 
-a) 40% de la remuneración base mensual.
+e) La cuantía de la pensión inicial no podrá ser inferior al monto establecido en el Artículo 107 del Decreto Nº. 974, Ley de Seguridad Social.
 
-b) Más 1.365% de la remuneración base mensual por cada 50 cotizaciones semanales o fracción mayor de 25 que tuviere acreditado el asegurado en exceso sobre las primeras 150 cotizadas, hasta alcanzar el límite del 80% de la remuneración base.
+f) La pensión máxima total con sus asignaciones familiares no podrá exceder el 100% del salario base respectivo, ni la cantidad en córdobas equivalentes a unos mil quinientos dólares (US$ 1 ,500.00) mensuales en la fecha del otorgamiento de la pensión;
 
-El monto de la pensión de este grupo no podrá ser inferior a la que correspondiere al grupo anterior.
+g) Recibirán además sobre la cuantía de la pensión, asignaciones familiares equivalentes al 13.5% por la esposa o esposo inválido y 9% por cada hijo menor de 15 años o ascendientes a su cargo mayores de 60 años;
 
-En ambos casos al asegurado que habiendo cotizado quince o más años, ha cumplido la edad de retiro correspondiente y continúe trabajando a fin de aportar su experiencia al desarrollo de país, se le reconocerá además 1% adicional por cada cincuenta semanas cotizadas, efectuadas durante el período comprendido entre la fecha del cumplimiento de estos requisitos y la fecha de disfrute de la pensión.
+h) Por los hijos y ascendientes inválidos a su cargo, se mantendrán las asignaciones mientras dure la invalidez. Igualmente se mantendrán las asignaciones de los hijos hasta los 21 años, en los términos señalados en el Artículo 69 del Reglamento de la Ley de Seguridad Social.
 
-Este incremento se aplicará hasta la edad de 65 años, y a partir de esta edad, al que continúe trabajando recibirá el porcentaje normal señalado en los acápites b) de los números 1 y 2 respectivamente de este artículo.
-
-Percibirán además sobre la cuantía de la pensión, asignaciones familiares equivalentes al 15% por la esposa o esposo inválido y 10% por cada hijo menor de 15 años o ascendientes a su cargo, mayores de 60 años. La pensión con sus asignaciones familiares no podrá exceder del 100% del salario base respectivo, ni de la cantidad que se señale como sueldo máximo mensual en la Administración Pública.
-
-Por los hijos y ascendientes inválidos a su cargo, se mantendrán las asignaciones mientras dure la invalidez. Igualmente se mantendrán las asignaciones de los hijos hasta los 21 años, en los términos señalados en el Arto 69.
+Los pensionados tendrán derecho a recibir anualmente un pago adicional en concepto de décimo tercer mes, que se otorgará en los mismos términos que se reconoce a los trabadores activos de conformidad con la ley respectiva.

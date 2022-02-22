@@ -1,3 +1,3 @@
 # Artículo 32
 
-Una vez seleccionada la categoría para los efecto del pago de las cotizaciones, sólo podrá variarse después de año y siempre en sentido decreciente, salvo que se hubieren revalorizado las pensiones en general y en cuyo caso se podrá elevar la categoría a la inmediata superior, si lo solicita el asegurado.
+Una vez seleccionado el salario para los efectos del pago de cotizaciones, este solo podrá variarse después de un año, en forma descendente no pudiendo ser inferior al salario mínimo y en forma ascendente hasta el equivalente al valor de la tasa de deslizamiento de la moneda con relación al dólar de los Estados Unidos de Norteamérica, correspondiente al año inmediato anterior.

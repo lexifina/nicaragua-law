@@ -8,6 +8,6 @@ b) Las maestras de educación de cualquier nivel al cumplir 55 años de edad, si
 
 Los maestros varones podrán jubilarse a partir de los 55 años, si acreditan 1,500 cotizaciones semanales;
 
-c) Los trabajadores que acrediten haber cotizado quince o más años en labores mineras, al cumplir cincuenta y cinco año de edad;
+c) Los trabajadores que acrediten haber cotizado 15 o más años en labores mineras, al cumplir 55 años de edad;
 
-d) El asegurado que se incorpora en el Seguro Social habiendo cumplido 45 años de edad. En este caso deberá haber cotizado la mitad del tiempo comprendido entre la fecha de su incorporación y la fecha del cumplimiento de la edad cortes pendiente o de la última semana cotizada con posterioridad con un mínimo absoluto de 250 cotizaciones semanales Si éste hubiere sido trasladado para prestar servicios fuera de las zonas de aplicación del Seguro Social, no se tomar en cuenta los períodos no cotizados respectivos, para lo efectos del cálculo del periodo de calificación.
+d) El asegurado que se incorpora en el Seguro Social habiendo cumplido 45 años de edad. En este caso deberá haber cotizado la mitad del tiempo comprendido entre la fecha de su incorporación y la fecha del cumplimiento de la edad correspondiente o de la última semana cotizada con posterioridad con un mínimo absoluto de 250 cotizaciones semanales. Si este hubiere sido trasladado para prestar servicios fuera de las zonas de aplicación del Seguro Social, no se tomarán en cuenta los períodos no cotizados respectivos, para lo efectos del cálculo del periodo de calificación.

@@ -1,7 +1,7 @@
 # Artículo 41
 
-Las personas que ya se encuentren inscritos al Seguro Facultativo en categorías inferiores a la que le corresponda a su actividad ocupacional según la Ley del Salario Mínimo vigente, deberán contribuir con base en ésta categoría, a partir del mes calendario siguiente al de la vigencia del presente Reglamento.
+Las personas que ya se encuentren inscritas al Seguro Facultativo, deberán contribuir en base a un salario que no podrá ser inferior al que le corresponde a su actividad ocupacional según la Ley del Salario Mínimo Vigente.
 
-De las prestaciones
+DE LAS PRESTACIONES
 
-De la Invalidez
+DE LA INVALIDEZ

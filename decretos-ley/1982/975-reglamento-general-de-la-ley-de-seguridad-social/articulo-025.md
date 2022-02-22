@@ -1,3 +1,11 @@
 # Artículo 25
 
-La inscripción facultativa podrá solicitarse en las oficinas administrativas centrales o en las delegaciones del Instituto del lugar de residencia del solicitante. Si reside en zona del país cubierta por el Seguro Social con aporte solidario para el SNUS, la inscripción podrá comprender todas las contingencias (excluyendo los Riesgos Profesionales) o la rama de Invalidez, Vejez y Muerte.
+La inscripción al Régimen Facultativo podrá solicitarse en las oficinas administrativas centrales o en las delegadas para este fin por el Instituto Nicaragüense de Seguridad Social (INSS), siempre y cuando el solicitante resida en zonas cubiertas por el seguro social. La inscripción podrá comprender cualquiera de las modalidades de seguro facultativo descritas a continuación:
+
+1. Facultativo Integral: Comprende Seguro de Enfermedad y Maternidad, Seguro de Invalidez, Vejez y Muerte, se excluye de esta modalidad el Seguro de Riesgos Profesionales.
+
+2. Facultativo IVM: Comprende Seguro de Invalidez, Vejez y Muerte, se excluye de esta modalidad el Seguro de Enfermedad y Maternidad y el Seguro de Riesgos Profesionales.
+
+3. Facultativo de Salud: Comprende las prestaciones de salud establecidas en el Reglamento de Enfermedad y Maternidad, incluyendo subsidio de lactancia. Se excluye de esta modalidad las prestaciones económicas de corto plazo (subsidios) y otras prestaciones en especies, así como también el Seguro de Riesgos Profesionales y el Seguro de Invalidez, Vejez y Muerte. (Pensiones).
+
+El Consejo Directivo del Instituto Nicaragüense de Seguridad Social, fijará los requisitos y procedimientos para la implementación de estas modalidades.

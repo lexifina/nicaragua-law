@@ -1,7 +1,7 @@
 # Artículo 16
 
-Las cotizaciones se pagarán por períodos semanales según sea la categoría de salario y régimen a que esté cubierto el asegurado, de conformidad con las tablas respectivas siguientes:
+La facturación de las cotizaciones Obrero-Patronales se realizará, aplicando el porcentaje establecido por el Reglamento de la Ley de Seguridad Social, sobre la remuneración que reciba el asegurado durante el mes.
 
-1) REGIMEN I.V.M y R.P.:
+El salario mínimo objeto de cotización, no podrá ser inferior al establecido para la actividad económica del empleador, salvo que se trate de períodos incompletos, en cuyo caso se procederá de acuerdo a los establecido en la normativa correspondiente.
 
-2) REGIMEN I.V.M. y R.P. CON APORTE SOLIDARIO:
+A partir del 1 de febrero de 2019 no existirá límite máximo para la remuneración objeto de cotización.

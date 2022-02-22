@@ -1,3 +1,3 @@
 # Artículo 30
 
-Las personas que no han sido aseguradas anteriormente, no deben ser mayores de cincuenta y cinco años a la fecha de solicitar su inscripción facultativa y deberán indicar e régimen de seguro y la categoría en que desean estar asegurados sin que pueda ser inferior a la que corresponde a su actividad ocupacional, según la Ley de Salario Mínimo vigente.
+Las personas que no han sido aseguradas anteriormente, no deben ser mayores de 55 años a la fecha de solicitar su inscripción facultativa y deberán indicar el régimen de seguro y el salario por el cual desean cotizar, sin que este sea inferior al que le corresponde a su actividad ocupacional según la Ley de Salario Mínimo, ni superior al monto máximo del salario objeto de cotización dentro del régimen obligatorio.
