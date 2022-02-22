@@ -2,7 +2,7 @@
 
 Defensa del Policía
 
-Para efectos de garantizar el efectivo ejercicio del derecho a la defensa de los miembros de la Policía Nacional que sean sometidos a procedimientos disciplinarios, conforme lo establecido en este reglamento, se creará un área de defensa para los policías, que tendrá entre sus funciones las siguientes:
+Para efectos de garantizar el efectivo ejercicio del derecho a la defensa de los miembros de la Policía Nacional que sean sometidos a procedimientos disciplinarios, conforme lo establecido en este Reglamento, se creará un área de defensa para los policías, que tendrá entre sus funciones las siguientes:
 
 1) Constituir y coordinar el equipo de defensores de los policías.
 
@@ -15,7 +15,5 @@ Para efectos de garantizar el efectivo ejercicio del derecho a la defensa de los
 5) Cualquier otra actividad compatible con la naturaleza de la Defensa del Policía.
 
 El área de Defensa llevará un control sobre los profesionales del Derecho existentes en las diferentes estructuras de la Policía Nacional, los cuales podrán ser llamados a asumir las defensas de oficio en los casos en que el presunto infractor no designe defensor.
-
-Capítulo VI
 
 DE LOS RECURSOS Y SU TRÁMITE

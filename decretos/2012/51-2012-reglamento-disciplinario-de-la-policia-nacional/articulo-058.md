@@ -10,7 +10,7 @@ El escrito de apelación deberá de contenerlos aspectos mínimos siguientes:
 
 3) Datos generales del recurrente, nombre y apellidos, cargo, grado, ubicación, número de Chapa de Identificación Policial (CHIP).
 
-4) Resolución o sanción contra la que se recurre, autoridad que la emitió, fecha y lugar en que se emitió y número de resolución si posee.
+4) Resolución o sanción contra la que se recurre, autoridad que la emitió, fecha y lugar ·en que se emitió y número de resolución si posee.
 
 5) Exposición de los agravios que le causa la sanción o resolución recurrida.
 

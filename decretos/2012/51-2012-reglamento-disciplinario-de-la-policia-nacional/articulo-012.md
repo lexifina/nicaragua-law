@@ -4,7 +4,7 @@ Circunstancias Atenuantes
 
 Son circunstancias atenuantes:
 
-1) Cometer la infracción, por provocación o amenaza real, inmediata e inminente que ponga en riesgo su vida, la integridad o la de tercero.
+1) Cometer la infracción, por provocación o amenaza real, inmediata e inminente que ponga en riesgo su vida. la integridad o la de tercero.
 
 2) La conducta anterior constantemente buena del infractor.
 

@@ -14,12 +14,12 @@ Si de las investigaciones realizadas, Asuntos Internos no encuentra mérito, com
 
 La comunicación será escrita y contendrá mínimamente lo siguiente:
 
-1) Datos generales del caso
+1) Datos generales del caso.
 
-2) Breve resumen de los hechos
+2) Breve resumen de los hechos.
 
-3) Detalle breve de las evidencias
+3) Detalle breve de las evidencias.
 
-4) Infracción cometida
+4) Infracción cometida.
 
-5) Sanción impuesta
+5) Sanción impuesta.

@@ -6,7 +6,7 @@ Los miembros de la Policía Nacional que sean sometidos a procesos de investigac
 
 1) Ser notificado sobre el inicio de una investigación en su contra y conocer los detalles de la denuncia o presuntas infracciones que se le imputan.
 
-2) Ser entrevistado en el proceso de investigación que se le siga, sobre los hechos que se le imputan.
+2) Ser entrevistado en el proceso de investigación que se le siga. sobre los hechos que se le imputan.
 
 3) Asumir su propia defensa, nombrar a un defensor o pedir que se le asigne uno de oficio, para que le asista y asesore cuando se determine llevar a cabo una investigación disciplinaria.
 

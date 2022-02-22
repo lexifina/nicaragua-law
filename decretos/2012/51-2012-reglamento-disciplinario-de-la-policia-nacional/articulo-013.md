@@ -20,6 +20,4 @@ Son circunstancias agravantes:
 
 8) Cometer la infracción mientras cumple misiones en el exterior.
 
-Sección Segunda
-
-Sanciones Disciplinarias
+SANCIONES DISCIPLINARIAS

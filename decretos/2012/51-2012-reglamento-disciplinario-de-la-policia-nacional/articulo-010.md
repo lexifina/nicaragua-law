@@ -4,7 +4,7 @@ Infracciones Muy graves
 
 Constituyen infracciones muy graves las siguientes:
 
-1) Divulgar información, sobre asuntos del servicio sin estar autorizado,o filtrar datos de la vida privada de las personas o de menores, cuya identidad deba de ser protegida por la ley.
+1) Divulgar información, sobre asuntos del servicio sin estar autorizado, o filtrar datos de la vida privada de las personas o de menores, cuya identidad deba de ser protegida por la ley.
 
 2) Expresar opinión personal sobre aspectos del servicio, de tal manera que comprometa la actitud imparcial y profesional en su condición de funcionario.
 
@@ -12,7 +12,7 @@ Constituyen infracciones muy graves las siguientes:
 
 4) Disponer de personal de planta, auxiliar o de servicio, destinado a otras funciones, para ser utilizado en asuntos o actividades lucrativas.
 
-5) Excederse en el uso de la fuerza o de la técnica, usando violencia innecesaria, sin existir justificación, o sin la gradualidad y proporcionalidad debida, al efectuar detenciones u otras actuaciones policiales.
+5) Excederse en el uso de la fuerza o de la técnica. usando violencia innecesaria, sin existir justificación, o sin la gradualidad y proporcionalidad debida, al efectuar detenciones u otras actuaciones policiales.
 
 6) Recibir dádivas o valores a cambio de un servicio público, que está obligado a otorgar.
 
@@ -30,9 +30,9 @@ Constituyen infracciones muy graves las siguientes:
 
 13) Incumplir la aplicación de una medida disciplinaria grave.
 
-14) Producir falsa alarma, desorden o confusión en el personal.
+14) Producir falsa alarma. desorden o confusión en el personal.
 
-15) No proceder con la energía necesaria, para garantizar la disciplina y la eficiencia en el servicio.
+15) No proceder con la energía necesaria. para garantizar la disciplina y la eficiencia en el servicio.
 
 16) Desatender, por su condición de funcionario policial, aquellas disposiciones de las autoridades o de instituciones públicas que de acuerdo a ley sean de ineludible cumplimiento.
 
@@ -44,7 +44,7 @@ Constituyen infracciones muy graves las siguientes:
 
 20) Ocultar información a la institución o simular situación inexistente, con la pretensión de obtener algún beneficio a su favor o de terceros.
 
-21) Promover de forma manifiesta y pública expresiones irrespetuosas en contra de la Constitución Política de la República, los símbolos patrios o la institución policial.
+21) Promover de forma manifiesta y pública expresiones irrespetuosas en contra de la Constitución Política de la República. los símbolos patrios o la institución policial.
 
 22) Omitir información al superior, sobre la comisión de un delito o de infracción disciplinaria.
 
@@ -62,8 +62,8 @@ Constituyen infracciones muy graves las siguientes:
 
 29) Establecer o mantener relaciones o vínculos no autorizados con entidades u organismos nacionales o internacionales que puedan afectar o comprometer el trabajo policial.
 
-30) No presentar en el tiempo establecido, la declaración de probidad, que por su condición o nivel jerárquico está obligado.
+30) No presentar en el tiempo establecido, la declaración de probidad. que por su condición o nivel jerárquico está obligado.
 
-31) El involucramiento en actos que afecten la ética, el decoro, la imagen y prestigio del cuerpo policial.
+31) El involucramiento en actos que afecten la ética. el decoro, la imagen y prestigio del cuerpo policial.
 
 32) El personal policial activo que induzca y/o involucre a un estudiante de policía en procedimientos y actos que son sancionados por este Reglamento Disciplinario.

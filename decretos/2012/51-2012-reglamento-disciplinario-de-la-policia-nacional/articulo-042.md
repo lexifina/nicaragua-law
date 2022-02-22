@@ -10,6 +10,6 @@ El Presidente de la Comisión de Honor y Disciplina se constituye en la máxima 
 
 3) Verificar la presencia de las partes y ordenar el inicio de la audiencia oral.
 
-4) Velar que la Audiencia se desarrolle en un ambiente de respeto y conforme los procedimientos establecidos en este reglamento.
+4) Velar que la Audiencia se desarrolle en un ambiente de respeto y conforme los procedimientos establecidos en este Reglamento.
 
 5) Limitar prudentemente el tiempo de las intervenciones de las partes.

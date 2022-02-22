@@ -2,7 +2,7 @@
 
 Controles Administrativos
 
-Para la efectiva aplicación de las normas establecidas en el presente reglamento se deberán llevar al menos los siguientes controles administrativos:
+Para la efectiva aplicación de las normas establecidas en el presente Reglamento se deberán llevar al menos los siguientes controles administrativos:
 
 1) De entrada de documentos y correspondencia.
 

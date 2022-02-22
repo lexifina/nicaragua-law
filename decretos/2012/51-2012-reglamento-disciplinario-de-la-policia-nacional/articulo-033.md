@@ -1,6 +1,6 @@
 # Artículo 33
 
-Procedimiento para infracciones leves y graves (Sumario).
+Procedimiento para infracciones leves y graves (Sumario)
 
 Para conocer y sancionar las infracciones disciplinarias por infracciones leves y graves contempladas en el presente Reglamento, el Jefe o funcionario competente y con potestad disciplinaria, actuará de forma ágil conforme el procedimiento que se describe a continuación:
 

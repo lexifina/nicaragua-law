@@ -30,6 +30,4 @@ El Acta-Resolución se leerá en el mismo acto teniéndose por notificada a las 
 
 Asuntos Internos comunicará los resultados de la audiencia y decisión de la Comisión al denunciante.
 
-Capítulo V
-
 DERECHO A LA DEFENSA

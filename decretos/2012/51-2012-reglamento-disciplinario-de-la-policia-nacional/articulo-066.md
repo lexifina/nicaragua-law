@@ -10,14 +10,14 @@ Los Jefes (as), de estructuras y los Jefe (as) u oficiales de las Oficinas de Pe
 
 Las notificaciones deberán contener al menos lo siguiente:
 
-1 .Lugar, fecha y hora de notificación
+1) Lugar, fecha y hora de notificación.
 
-2. Grado, cargo, nombre y apellidos del funcionario que hace la notificación.
+2) Grado, cargo, nombre y apellidos del funcionario que hace la notificación.
 
-3. Referencias de la resolución o acto que está notificando.
+3) Referencias de la resolución o acto que está notificando.
 
-4. Firma del notificador y del notificado.
+4) Firma del notificador y del notificado.
 
-5. Entrega de copia del acto o resolución que se notifica.
+5) Entrega de copia del acto o resolución que se notifica.
 
 La negativa de la persona a firmar la notificación, no invalidará el acto, pero el funcionario que notifica debe hacer constar esta circunstancia en el documento correspondiente.

@@ -4,7 +4,7 @@ Finalidad
 
 El presente Reglamento Disciplinario tiene por finalidad:
 
-1) Cohesionar a los miembros de la Policía Nacional, alrededor de la Misión de la Institución, sus Principios y Valores Éticos.
+1) Cohesionar a los miembros de la Policía Nacional, alrededor de la Misión de la Institución. sus Principios y Valores Éticos.
 
 2) Establecer las conductas que constituyen infracciones disciplinarias, los procedimientos administrativos para su aplicación, así como las sanciones correspondientes.
 

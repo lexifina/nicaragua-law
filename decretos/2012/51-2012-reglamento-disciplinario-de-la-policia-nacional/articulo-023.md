@@ -16,8 +16,8 @@ Para la aplicación de este Reglamento, la competencia se organiza de la siguien
 
 5) Los Jefes de Direcciones y Divisiones tienen competencia para conocer y sancionar las infracciones leves y graves.
 
-6) Los Jefes de Departamentos y Oficinas tienen competencia para conocer y sancionar todas las infracciones leves y graves exceptuando el numeral 4 del artículo 16.
+6) Los Jefes de Departamentos y Oficinas tienen competencia para conocer y sancionar todas las infracciones leves y graves exceptuando el numeral 4 del Artículo 16.
 
-7) Los Jefes de Secciones y Unidades tienen competencia para conocer y sancionar las infracciones leves, exceptuando el numeral 4 del artículo 15.
+7) Los Jefes de Secciones y Unidades tienen competencia para conocer y sancionar las infracciones leves, exceptuando el numeral 4 del Artículo 15.
 
-8) Los Primeros Oficiales, tienen competencia para conocer las infracciones leves y aplicar únicamente la sanción establecida en el numeral 1 del artículo 15.
+8) Los Primeros Oficiales, tienen competencia para conocer las infracciones leves y aplicar únicamente la sanción establecida en el numeral 1 del Artículo 15.
