@@ -4,13 +4,13 @@ Atribuciones y funciones del Director o Directora General
 
 Corresponde al Director o Directora General de la Policía Nacional, ejercer las atribuciones y funciones siguientes:
 
-1) Guardar respeto, obediencia, lealtad al cumplir y hacer cumplir la Constitución Política de la República de Nicaragua, la presente ley y las demás leyes, reglamentos, decretos, resoluciones, normativas y disposiciones internas que se relacionen con la actividad propia de la institución.
+1) Guardar respeto, obediencia, lealtad al cumplir y hacer cumplir la Constitución Política de la República de Nicaragua, la presente Ley y las demás leyes, reglamentos, decretos, resoluciones, normativas y disposiciones internas que se relacionen con la actividad propia de la institución.
 
 2) Garantizar el cumplimiento de las órdenes que emanen del Presidente de la República y Jefe Supremo de la Policía Nacional, de acuerdo a sus atribuciones constitucionales y legales.
 
 3) Informar oportunamente al Presidente de la República en su carácter de Jefe Supremo, sobre los acontecimientos más relevantes relacionados con el orden público y la seguridad ciudadana ocurridos en el territorio nacional.
 
-4) Solicitar al Presidente de la República en su carácter de Jefe Supremo de la Policía Nacional el apoyo del Ejército de Nicaragua en casos excepcionales, cuando la estabilidad de la república esté amenazada por graves alteraciones al orden público y desórdenes internos, y la capacidad institucional fuera excedida.
+4) Solicitar al Presidente de la República en su carácter de Jefe Supremo de la Policía Nacional el apoyo del Ejército de Nicaragua en casos excepcionales, cuando la estabilidad de la República esté amenazada por graves alteraciones al orden público y desórdenes internos, y la capacidad institucional fuera excedida.
 
 5) Presentar al Presidente de la República y Jefe Supremo de la Policía Nacional, en reunión nacional de mandos, el informe anual sobre gestión institucional y el estado de la seguridad ciudadana en el país.
 
@@ -18,9 +18,9 @@ Corresponde al Director o Directora General de la Policía Nacional, ejercer las
 
 7) Cumplir y hacer cumplir las obligaciones y ejercer los derechos que se deriven de tratados, acuerdos, y convenios internacionales en materia de policía, suscritos y ratificados por el Estado de Nicaragua.
 
-8) Organizar, dirigir y administrar sus órganos, servicios y personal de acuerdo a las necesidades operativas y conforme a lo dispuesto en la presente ley y demás leyes del país.
+8) Organizar, dirigir y administrar sus órganos, servicios y personal de acuerdo a las necesidades operativas y conforme a lo dispuesto en la presente Ley y demás leyes del país.
 
-9) Otorgar mandatos generales de administración, o de cualquier otra naturaleza con todas o algunas de las facultades que le corresponden, a los funcionarios policiales que estime conveniente, para el buen cumplimiento de los fines, misión y funciones institucionales.
+9) Otorgar mandatos generales de administración, o de cualquier otra naturaleza con todas o algunas de las facultade que le corresponden, a los funcionarios policiales que estime conveniente, para el buen cumplimiento de los fines, misión y funciones institucionales.
 
 10) Otorgar los actos y concertar los contratos que expresa o tácitamente estuvieren comprendidos dentro del giro ordinario de la actividad de la Policía Nacional, inclusive aquellos que fueren consecuencia necesaria de los mismos, salvo los que la ley prohíba.
 
@@ -40,9 +40,9 @@ Corresponde al Director o Directora General de la Policía Nacional, ejercer las
 
 18) Solicitar al Presidente de la República autorización para ausentarse temporalmente y depositar el mando en una Subdirección General.
 
-19) Emitir órdenes, disposiciones, resoluciones, aprobar manuales y normativas internas que garanticen el cumplimiento de la presente ley, para el funcionamiento apropiado de la Policía Nacional.
+19) Emitir órdenes, disposiciones, resoluciones, aprobar manuales y normativas internas que garanticen el cumplimiento de la presente Ley, para el funcionamiento apropiado de la Policía Nacional.
 
-20) Otorgar los grados policiales desde el Escalafón Ejecutivo a Oficiales Superiores, de conformidad con lo establecido en la presente ley y normativas correspondientes.
+20) Otorgar los grados policiales desde el Escalafón Ejecutivo a Oficiales Superiores, de conformidad con lo establecido en la presente Ley y normativas correspondientes.
 
 21) Crear condecoraciones policiales y otorgarlas a policías o personalidades nacionales o extranjeras que reúnan los méritos necesarios, y proponer al Presidente de la República, la imposición de las condecoraciones que este otorga.
 
@@ -50,6 +50,6 @@ Corresponde al Director o Directora General de la Policía Nacional, ejercer las
 
 23) Presentar para su aprobación al Presidente de la República como Jefe Supremo o Jefa Suprema de la Policía Nacional, propuesta de políticas generales orientadas al fortalecimiento de la seguridad ciudadana y humana, y de la atención y enfrentamiento al crimen organizado, al narcotráfico y delitos conexos.
 
-24) Promover la educación, instrucción y cultura del personal de la institución, estimular la labor de cada uno de sus subalternos y recompensar las acciones meritorias de éstos.
+24) Promover la educación, instrucción y cultura del personal de la institución, estimular la labor de cada uno de sus subalternos y recompensar las acciones meritorias de estos.
 
 25) Ejercer las demás funciones y facultades que le corresponden de conformidad con la Ley, los reglamentos, normativas y disposiciones de la materia.

@@ -6,10 +6,6 @@ El Consejo de Género es la instancia consultiva y asesora de la Jefatura de la 
 
 CARRERA POLICIAL
 
-Capítulo I
+NORMAS GENERALES
 
-Normas Generales
-
-Sección I
-
-Régimen, funcionarios, órganos
+RÉGIMEN, FUNCIONARIOS, ÓRGANOS

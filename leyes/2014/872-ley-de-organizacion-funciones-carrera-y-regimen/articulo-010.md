@@ -32,9 +32,9 @@ c) Incapacidad física y mental declarada de conformidad con la ley.
 
 8) Autorizar las solicitudes de ausencias temporales del Director o Directora General de la Policía Nacional.
 
-9) Otorgar e imponer a propuesta del Director o Directora General, condecoraciones a miembros de la Policía Nacional en servicio activo, a exmiembros de la Policía Nacional póstumamente, a personalidades nacionales o extranjeras que hagan mérito por su contribución a la seguridad ciudadana y al desarrollo y fortalecimiento de la institución policial.
+9) Otorgar e imponer a propuesta del Director o Directora General, condecoraciones a miembros de la Policía Nacional en servicio activo, a ex miembros de la Policía Nacional póstumamente, a personalidades nacionales o extranjeras que hagan mérito por su contribución a la seguridad ciudadana y al desarrollo y fortalecimiento de la institución policial.
 
-10) Recibir y aprobar el proyecto de Presupuesto Anual de la Policía Nacional, para su incorporación al Proyecto de Ley Anual del Presupuesto General de la República conforme se establece en la Ley No. 550, “Ley de Administración Financiera y del Régimen Presupuestario”, publicada en La Gaceta, Diario Oficial No. 167 del 29 de agosto del año 2005.
+10) Recibir y aprobar el proyecto de Presupuesto Anual de la Policía Nacional, para su incorporación al Proyecto de Ley Anual del Presupuesto General de la República conforme se establece en la Ley Nº. 550, Ley de Administración Financiera y del Régimen Presupuestario, publicada en La Gaceta, Diario Oficial Nº. 167 del 29 de agosto del año 2005.
 
 11) Aprobar Políticas de Estado y directrices en materia de seguridad ciudadana y humana, y persecución, prevención e investigación del delito de crimen organizado, terrorismo, narcotráfico y delitos comunes.
 

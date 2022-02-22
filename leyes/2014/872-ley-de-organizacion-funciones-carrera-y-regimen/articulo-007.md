@@ -4,9 +4,7 @@ Funciones
 
 Para el cumplimiento de su misión constitucional, la Policía Nacional, desempeñará sus funciones generales en los siguientes ámbitos:
 
-1) En el ámbito de prevención y seguridad ciudadana y humana.
-
-Son las funciones y facultades de la Policía Nacional orientadas a garantizar la vida, la seguridad e integridad física de las personas y sus bienes, el libre ejercicio de sus derechos, el mantenimiento del orden público y la prevención de los delitos, estas funciones son:
+1) En el ámbito de prevención y seguridad ciudadana y humana. Son las funciones y facultades de la Policía Nacional orientadas a garantizar la vida, la seguridad e integridad física de las personas y sus bienes, el libre ejercicio de sus derechos, el mantenimiento del orden público y la prevención de los delitos, estas funciones son:
 
 a) Garantizar la seguridad y la convivencia ciudadana y humana, y desarrollar estrategias, planes y acciones para la prevención de delitos con un enfoque proactivo, en conjunto con expresiones organizadas de los distintos sectores de la comunidad.
 
@@ -38,7 +36,7 @@ m) Autorizar, regular, realizar inspecciones, controlar o suspender en su caso a
 
 n) Prevenir, normar, controlar, regular la fabricación, tenencia y portación de armas de fuego, municiones, explosivos, pólvora y similares; emitir las licencias relacionadas con este tipo de bienes, su importación y exportación, comercialización e intermediación; diseño y elaboración de pirotécnicos; talleres, clubes de tiro y caza, de coleccionistas. Así como otorgar las licencias de armas de fuego y municiones de los servicios de vigilancia y seguridad privada. Aplicar las sanciones por la comisión de infracciones administrativas. Todo conforme a la ley de la materia y reglamentaciones específicas.
 
-En el caso del Ejército de Nicaragua se regirá por lo que dispone la Ley No. 181, “Ley de Organización, Jurisdicción y Previsión Social Militar”, cuyo texto íntegro con sus reformas incorporadas fue publicada en La Gaceta, Diario Oficial No. 41 del 3 de Marzo de 2014 y la Ley No. 510, “Ley Especial para el Control y Regulación de Armas de Fuego, Municiones, Explosivos y Otros Materiales Relacionados”, publicada en La Gaceta, Diario Oficial No. 40 del 25 de febrero del 2005.
+En el caso del Ejército de Nicaragua se regirá por lo que dispone la Ley Nº. 181, Ley de Organización, Jurisdicción y Previsión Social Militar, cuyo texto íntegro con sus reformas incorporadas fue publicada en La Gaceta, Diario Oficial Nº. 41 del 3 de marzo de 2014 y la Ley Nº. 510, Ley Especial para el Control y Regulación de Armas de Fuego, Municiones, Explosivos y Otros Materiales Relacionados, publicada en La Gaceta, Diario Oficial Nº. 40 del 25 de febrero del 2005.
 
 o) Autorizar, regular, controlar, otorgar permisos, licencias, autorizaciones especiales para los expendios de bebidas alcohólicas, determinando los lugares y horarios para su funcionamiento, tomando en cuenta la necesidad de preservación del orden público y la convivencia ciudadana. Así mismo imponer las sanciones administrativas por las infracciones cometidas, incluyendo multas, suspensión temporal o cierre definitivo y el decomiso del producto que se pretenda comercializar de forma ilegal, de conformidad con las reglamentaciones y normativas correspondientes.
 
@@ -62,13 +60,13 @@ e) Captar, recibir y analizar cuantos datos tengan interés para la protección 
 
 f) Elaborar y desarrollar planes y operaciones a fin de contrarrestar los delitos del crimen organizado, terrorismo, narcotráfico, delitos de estupefacientes, psicotrópicos y otras sustancias controladas, sus precursores y delitos conexos, así como la actividad delictiva común, incluyendo operaciones antinarcóticas, operaciones encubiertas y procedimientos especiales de investigación.
 
-g) La investigación para el descubrimiento y comprobación de los hechos presuntamente delictivos, será efectuada conforme las reglas lógicas, técnicas y métodos científicos propios de tal actividad, salvo las limitaciones establecidas en la Constitución Política, los tratados y convenios internacionales ratificados y la ley. El resultado de su investigación será presentado como informe al Ministerio Público o a la autoridad judicial competente.
+g) La investigación para el descubrimiento y comprobación de los hechos presuntamente delictivos, será efectuada conforme las reglas lógicas, técnicas y métodos científicos propios de tal actividad, salvo las limitaciones establecidas en la Constitución Política, los tratados y convenios internacionales ratificados y la Ley. El resultado de su investigación será presentado como informe al Ministerio Público o a la autoridad judicial competente.
 
 h) Organizar y actualizar el servicio de archivo policial, recibiendo, ordenando, clasificando y almacenando toda la información y documentación relacionada a la investigación de los delitos y faltas, personas detenidas, armas de fuego, permisos y licencias y otros trámites administrativos que se realicen en la Policía Nacional.
 
 i) Expedir los certificados de antecedentes policiales y penales, a las personas que lo requieran y las anulaciones de acuerdo a los procedimientos establecidos.
 
-j) Cumplir y hacer cumplir las resoluciones que emanen de las autoridades judiciales y otras debidamente facultadas por la ley, de acuerdo con los respectivos procedimientos legales.
+j) Cumplir y hacer cumplir las resoluciones que emanen de las autoridades judiciales y otras debidamente facultadas por la Ley, de acuerdo con los respectivos procedimientos legales.
 
 k) Citar a toda persona que pudiera aportar datos de interés a las investigaciones que se realicen, para efectos de entrevistarlos o recibir sus declaraciones en la forma y con las garantías que establezca la Ley.
 

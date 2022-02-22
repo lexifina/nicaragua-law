@@ -6,4 +6,4 @@ Como una modalidad de participación de la comunidad, se crea la Policía Volunt
 
 La Policía Voluntaria estará adscrita y subordinada a las Delegaciones de Policía respectivas y corresponde a la Especialidad de Seguridad Pública ejecutar la captación, organización, supervisión y control de las fuerzas que integren este cuerpo.
 
-En el caso de las Regiones Autónomas de la Costa Caribe, el Alto Wangky y Bocay, en los territorios indígenas y afrodesdendientes, la Policía Voluntaria será seleccionada de conformidad con el proceso del régimen comunal, de acuerdo con sus usos, costumbres y tradiciones.
+En el caso de las Regiones Autónomas de la Costa Caribe, el Alto Wangky y Bocay, en los territorios indígenas y afrodescendientes, la Policía Voluntaria será seleccionada de conformidad con el proceso del régimen comunal, de acuerdo con sus usos, costumbres y tradiciones.

@@ -2,7 +2,7 @@
 
 Baja
 
-Se comprende como baja, el egreso de cualquier miembro de la Policía Nacional, mediante el cual se cancela el vínculo laboral entre éste y la institución, y como consecuencia finaliza la carrera policial. La baja se otorga por cualquiera de las causales siguientes:
+Se comprende como baja, el egreso de cualquier miembro de la Policía Nacional, mediante el cual se cancela el vínculo laboral entre este y la institución, y como consecuencia finaliza la carrera policial. La baja se otorga por cualquiera de las causales siguientes:
 
 1) Muerte del funcionario policial.
 

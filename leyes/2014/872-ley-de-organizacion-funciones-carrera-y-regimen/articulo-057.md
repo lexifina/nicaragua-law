@@ -6,10 +6,6 @@ Los oficiales que pasen a condición de retiro, podrán ser llamados por el Pres
 
 Por necesidad institucional, la Policía Nacional podrá contratar a los oficiales en condición de retiro para llevar a cabo asesorías técnicas o especializadas, programas de formación u otras en el ámbito de la seguridad ciudadana.
 
-Capítulo V
+RESPONSABILIDADES, RÉGIMEN DISCIPLINARIO Y PROCESOS JUDICIALES
 
-Responsabilidades, régimen disciplinario y procesos judiciales
-
-Sección I
-
-Responsabilidades y régimen disciplinario
+RESPONSABILIDADES Y RÉGIMEN DISCIPLINARIO

@@ -10,4 +10,4 @@ Conforme a la Constitución Política de la República de Nicaragua y la present
 
 3) La Jefatura de Especialidades Nacionales y de Órganos de Apoyo
 
-4) La Jefatura de Delegaciones Policiales
+4) La Jefatura de Delegaciones Policiales.

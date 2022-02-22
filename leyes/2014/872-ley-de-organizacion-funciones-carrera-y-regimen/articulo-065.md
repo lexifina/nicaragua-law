@@ -6,6 +6,4 @@ Toda detención y condena de miembros de la Policía Nacional deberá ser inform
 
 Las y los miembros de la Policía Voluntaria, cuando sean procesados por la comisión de delitos o faltas ocurridas en ocasión del cumplimiento del servicio policial, estarán sujetos a lo establecido en la presente Sección.
 
-Capítulo VI
-
-Régimen Económico
+RÉGIMEN ECONÓMICO

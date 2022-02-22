@@ -6,7 +6,7 @@ Los miembros de la policía tendrán derecho a:
 
 1) Una remuneración justa y otros incentivos salariales que contemple su nivel de formación académica y especialidad policial, riesgo, categoría, grado, antigüedad, nivel académico y responsabilidad.
 
-2) Gozar de estabilidad laboral. Solamente procederá la baja por los motivos y mediante los procedimientos pertinentes, en los casos contemplados en la presente ley y la normativa interna correspondiente.
+2) Gozar de estabilidad laboral. Solamente procederá la baja por los motivos y mediante los procedimientos pertinentes, en los casos contemplados en la presente Ley y la normativa interna correspondiente.
 
 3) Una jornada laboral justa y condiciones de trabajo razonablemente adecuadas, que le facilite el desempeño eficiente de sus funciones.
 
@@ -40,4 +40,4 @@ Los miembros de la policía tendrán derecho a:
 
 18) Gratuidad o compensación económica en el uso del servicio de transporte urbano colectivo para el ejercicio de sus funciones.
 
-19) Una pensión complementaria en caso de muerte en cumplimiento del deber o a consecuencia de éste, que la recibirán sus beneficiarios, de acuerdo a la disponibilidad presupuestaria.
+19) Una pensión complementaria en caso de muerte en cumplimiento del deber o a consecuencia de este, que la recibirán sus beneficiarios, de acuerdo a la disponibilidad presupuestaria.

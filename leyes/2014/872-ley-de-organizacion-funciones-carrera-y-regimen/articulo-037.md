@@ -2,9 +2,7 @@
 
 Forma de ingreso
 
-El ingreso a la carrera policial se realiza a través de convocatoria pública o interna, según corresponda, para el nivel o escalafón respectivo, la aprobación de los cursos de formación establecidos y el cumplimiento de los demás requisitos definidos en la normativa interna correspondiente y la aprobación por la comisión de ingreso.
-
-En los procesos de convocatoria pública se tendrá en cuenta la opinión de los miembros de la comunidad de donde procede el aspirante.
+El ingreso a la carrera policial se realiza a través de convocatoria pública o interna, según corresponda, para el nivel o escalafón respectivo, la aprobación de los cursos de formación establecidos y el cumplimiento de los demás requisitos definidos en la normativa interna correspondiente y la aprobación por la comisión de ingreso. En los procesos de convocatoria pública se tendrá en cuenta la opinión de los miembros de la comunidad de donde procede el aspirante.
 
 Una vez aprobado se ingresará a la Policía Nacional de acuerdo a los escalafones siguientes:
 

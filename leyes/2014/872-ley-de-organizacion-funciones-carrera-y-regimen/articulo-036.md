@@ -24,6 +24,4 @@ Los miembros de la Policía Nacional tienen los siguientes deberes:
 
 10) Los demás establecidos por la presente Ley y otras normas jurídicas.
 
-Sección III
-
-Ingreso y tiempo de servicio
+INGRESO Y TIEMPO DE SERVICIO

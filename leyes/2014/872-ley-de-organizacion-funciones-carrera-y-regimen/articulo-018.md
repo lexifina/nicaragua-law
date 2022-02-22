@@ -6,18 +6,18 @@ Los Órganos de Apoyo tienen la responsabilidad de brindar a la institución ase
 
 Los Órganos de Apoyo, entre otros son los siguientes:
 
-1) Academia de Policía
+1) Academia de Policía.
 
-2) Personal y Cuadros
+2) Personal y Cuadros.
 
-3) Servicios Médicos Policiales
+3) Servicios Médicos Policiales.
 
-4) Administración General
+4) Administración General.
 
-5) Finanzas
+5) Finanzas.
 
-6) Desarrollo, Programas y Proyectos
+6) Desarrollo, Programas y Proyectos.
 
-7) Telemática
+7) Telemática.
 
 El Director o Directora General de la Policía Nacional, podrá crear otros Órganos de Apoyo, de acuerdo a las necesidades institucionales.

@@ -38,6 +38,4 @@ Los grados establecidos en esta Ley son los únicos que se impondrán a los miem
 
 2.4. Policía. Permanencia mínima tres años.
 
-Sección II
-
-Ascensos en Grados
+ASCENSOS EN GRADOS

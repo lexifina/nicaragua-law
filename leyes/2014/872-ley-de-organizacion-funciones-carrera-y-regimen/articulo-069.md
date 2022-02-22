@@ -6,6 +6,8 @@ La Policía Nacional gozará de exención o exoneración de impuestos, tasas, o 
 
 RÉGIMEN ESPECIAL DE SEGURIDAD SOCIAL
 
-Capítulo I
+DEROGADO
 
-De la Institución y sus objetivos
+DE LA INSTITUCIÓN Y SUS OBJETIVOS
+
+Derogado

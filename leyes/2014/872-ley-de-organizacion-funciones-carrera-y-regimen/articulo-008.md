@@ -14,8 +14,6 @@ d) De acuerdo a su presupuesto, recibir, construir, mantener y acondicionar edif
 
 e) Recibir, administrar y utilizar medios de transporte, bienes muebles e inmuebles, armas de fuego de uso policial y cualquier otro bien que sea entregado en depósito o adjudicado de forma definitiva por la autoridad competente procedentes de incautaciones y decomisos al crimen organizado y narcotráfico y en general de cualquier otra actividad ilícita conexa, de acuerdo con la ley de la materia para fortalecer la capacidad operativa y la seguridad ciudadana y humana.
 
-f) Crear sus símbolos policiales, bandera, escudo, himno, condecoraciones, distintivos, emblemas, insignias, uniformes y lema, nombre de delegaciones de policía y demás edificios policiales y cualquier otra característica de la institución policial de acuerdo con sus tradiciones históricas y de conformidad con lo establecido en la presente ley y sus normativas internas.
+f) Crear sus símbolos policiales, bandera, escudo, himno, condecoraciones, distintivos, emblemas, insignias, uniformes y lema, nombre de delegaciones de policía y demás edificios policiales y cualquier otra característica de la institución policial de acuerdo con sus tradiciones históricas y de conformidad con lo establecido en la presente Ley y sus normativas internas.
 
-Capítulo II
-
-Mando institucional, atribuciones y funciones
+DEL MANDO INSTITUCIONAL, ATRIBUCIONES Y FUNCIONES

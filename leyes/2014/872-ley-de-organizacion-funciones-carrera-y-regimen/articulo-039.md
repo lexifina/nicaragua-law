@@ -12,10 +12,6 @@ Las situaciones administrativas en que pueden encontrarse los miembros de la Pol
 
 A través de la normativa respectiva que emita el Director o Directora General, se determinarán y definirán las circunstancias y los procedimientos para las distintas situaciones administrativas del personal.
 
-Capítulo III
+JERARQUÍA Y GRADOS
 
-Jerarquía y grados
-
-Sección I
-
-Jerarquía
+JERARQUÍA

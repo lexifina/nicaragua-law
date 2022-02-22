@@ -10,14 +10,14 @@ La Jefatura Nacional está organizada en Subdirecciones Generales e Inspectoría
 
 Las Subdirecciones Generales son las siguientes:
 
-1) Prevención y Seguridad Ciudadana y Humana
+1) Prevención y Seguridad Ciudadana y Humana.
 
-2) Investigación e Inteligencia Policial
+2) Investigación e Inteligencia Policial.
 
-3) Seguridad y Protección de Personalidades
+3) Seguridad y Protección de Personalidades.
 
-4) Delegación Metropolitana de Managua
+4) Delegación Metropolitana de Managua.
 
-5) Administración y Gestión
+5) Administración y Gestión.
 
 La Jefatura Nacional, para el ejercicio de sus funciones, contará con una Secretaría General que funcionará como instancia de coordinación y apoyo.

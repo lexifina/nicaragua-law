@@ -1,9 +1,7 @@
 # Artículo 99
 
-Policías voluntarios y bomberos voluntarios
+Derogado
 
-El Estado asumirá el pago de una indemnización y pensión a los policías voluntarios y bomberos voluntarios que fallezcan o se discapaciten por razones de los riesgos profesionales, de conformidad a lo establecido en sus respectivas leyes. Reglamentariamente se establecerá el procedimiento.
+DEL DESARROLLO HUMANO
 
-Capítulo VI
-
-Del Desarrollo Humano
+Derogado

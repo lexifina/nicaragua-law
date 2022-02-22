@@ -14,8 +14,6 @@ El personal policial en el cumplimiento de sus funciones se regirán conforme a 
 
 Las armas de fuego solamente se utilizarán cuando exista un riesgo racionalmente grave para su vida, su integridad física o la de terceras personas; o con el propósito de evitar la comisión de un delito particularmente grave que entrañe una seria amenaza para la vida, o con el objeto de detener a una persona que represente ese peligro, que oponga resistencia a la autoridad, y solo en caso que resulten insuficientes medidas menos extremas para lograr dichos objetivos; o en aquellas circunstancias que puedan suponer un grave riesgo para el orden público.
 
-ORGANIZACIÓN Y COMPETENCIA
+DE LA ORGANIZACIÓN Y COMPETENCIA
 
-Capítulo I
-
-Funciones de la Policía Nacional
+DE LAS FUNCIONES DE LA POLICÍA NACIONAL
