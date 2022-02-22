@@ -1,0 +1,3 @@
+# Artículo 28 bis
+
+Los nicaragüenses residentes en el exterior, que no hayan obtenido su cédula de identidad nicaragüense y que ingresen al territorio nicaragüense, durante su permanencia en el país estarán exentos de presentar la Cédula de Identidad Ciudadana en los casos y en la forma previstos por el Artículo 4 de la presente Ley de Identificación Ciudadana, pudiendo hacer todas sus diligencias personales o de carácter mercantil utilizando como identificación el Pasaporte y/o documento de residencia en el extranjero, salvo el ejercicio al derecho del sufragio universal el cual se deberá realizar con la Cédula de Identidad Ciudadana o el respectivo documento supletorio.
