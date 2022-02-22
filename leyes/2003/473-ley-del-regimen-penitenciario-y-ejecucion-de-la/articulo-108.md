@@ -1,6 +1,6 @@
 # Artículo 108
 
-Medidas cautelares en caso de riesgo.
+Medidas cautelares en caso de riesgo
 
 En los casos en que esté en riesgo la integridad física de los privados de libertad y su familia, así como el orden y la seguridad en el centro penitenciario o de su personal, se deben tomar las medidas cautelares siguientes:
 

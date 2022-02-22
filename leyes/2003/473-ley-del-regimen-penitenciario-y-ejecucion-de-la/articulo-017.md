@@ -1,6 +1,6 @@
 # Artículo 17
 
-Funciones del Inspector General.
+Funciones del Inspector General
 
 El Inspector General tiene la función de fiscalizar, inspeccionar e informar al Director General sobre las actuaciones de los funcionarios, empleados y demás personal del Sistema Penitenciario Nacional, el cumplimiento de las normativas penitenciarias, así como del cuido del funcionamiento y prestigio de la Institución.
 

@@ -1,6 +1,6 @@
 # Artículo 105
 
-Clasificación de las faltas.
+Clasificación de las faltas
 
 Para los fines y efectos de la presente Ley y su Reglamento las infracciones se clasifican de la forma siguiente:
 

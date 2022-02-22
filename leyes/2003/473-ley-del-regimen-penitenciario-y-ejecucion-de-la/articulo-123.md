@@ -1,6 +1,6 @@
 # Artículo 123
 
-Denominaciones.
+Denominaciones
 
 Con el objeto normativo y funcional del personal y del cumplimiento de la carrera penitenciaria, se establecen las denominaciones siguientes:
 

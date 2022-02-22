@@ -1,6 +1,6 @@
 # Artículo 132
 
-Causales de baja.
+Causales de baja
 
 Son causales de baja del personal del Sistema Penitenciario Nacional las siguientes:
 
@@ -22,4 +22,4 @@ Son causales de baja del personal del Sistema Penitenciario Nacional las siguien
 
 9) Muerte.
 
-DEL REGIMEN DISCIPLINARIO DEL PERSONAL
+DEL RÉGIMEN DISCIPLINARIO DEL PERSONAL

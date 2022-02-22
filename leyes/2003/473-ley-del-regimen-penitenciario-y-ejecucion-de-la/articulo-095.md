@@ -1,10 +1,10 @@
 # Artículo 95
 
-Derechos de los privados de libertad.
+Derechos de los privados de libertad
 
-Para los fines y efectos de la presente Ley y sin perjuicio de los derechos establecidos en la Constitución Política de la República, los privados de libertad tienen derecho a lo siguiente:
+Para los fines y efectos de la presente Ley y sin perjuicio de los derechos establecidos en la Constitución Política de la República. los privados de libertad tienen derecho a lo siguiente:
 
-1. Al respeto de su dignidad en cualquier circunstancia, por lo que las autoridades y funcionarios de la administración del Sistema Penitenciario Nacional deben mantener una relación de estricto respeto y un trato adecuado; así como a la práctica de la libre expresión de pensamiento, conciencia y credo religioso;
+1. Al respeto de su dignidad en cualquier circunstancia, por lo que las autoridades y funcionarios de la administración del Sistema Penitenciario Nacional deben mantener una relación de estricto respeto y un trato adecuado; así como a la práctica de la libre ex presión de pensamiento, conciencia y credo religioso;
 
 2. A ser asesorado jurídicamente por un profesional del derecho y tener acceso a la justicia y garantía sobre su seguridad personal, así como a recibir de parte de la administración penitenciaria, el cuido y resguardo de su seguridad física, personal, moral, educación y recreación;
 
@@ -22,7 +22,7 @@ Para los fines y efectos de la presente Ley y sin perjuicio de los derechos esta
 
 9. A escuchar radio, leer periódicos y revistas, así como tener y conservar las relaciones con el exterior del centro penitenciario, de conformidad a la normativa del centro penitenciario;
 
-10. A un trabajo remunerado, que éste no sea aflictivo y a que se le brinde capacitación para el trabajo que desempeñará.
+10. A un trabajo remunerado, que este no sea aflictivo y a que se le brinde capacitación para el trabajo que desempeñará.
 
 11. A disponer, dentro de los establecimientos de detención, de locales adecuados y dignos para la realización de visitas familiares, conyugales y especiales, de acuerdo con las disposiciones vigentes y las condiciones materiales del centro penitenciario;
 
@@ -38,6 +38,6 @@ Para los fines y efectos de la presente Ley y sin perjuicio de los derechos esta
 
 17. A convivir en un ambiente adecuado, de acuerdo con la clasificación y ubicación en régimen; así como participar en aquellas actividades que contribuyan a desarrollar sanamente sus potencialidades y aptitudes;
 
-18. A las y los privados de libertad mayores de 70 años o los que padezcan de enfermedades crónicas o en fase terminal se les otorgará el beneficio del régimen de convivencia familiar, previa valoración del médico forense.
+18. A las y los privados de libertad mayores de 70 años o los que padezcan de enfermedades crónicas o en fase terminal se les otorgará el beneficio del régimen de convivencia familiar, previa valoración del médico forense; y
 
 19. Los demás derechos que le determine la presente Ley y su Reglamento o que sean establecidos en otros cuerpos dispositivos de nuestro ordenamiento jurídico, siempre que no contradiga lo preceptuado por la presente Ley.

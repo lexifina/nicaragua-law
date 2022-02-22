@@ -1,6 +1,6 @@
 # Artículo 15
 
-Funciones del Director General del Sistema Penitenciario Nacional.
+Funciones del Director General del Sistema Penitenciario Nacional
 
 El Director General del Sistema Penitenciario Nacional es el encargado de ejecutar la política penitenciaria establecida por el Gobierno de la República, debiendo prestar estricto cumplimiento a la Constitución Política, la presente Ley y su Reglamento, así como cualquier otra ley vinculada a estas materias y los Acuerdos y Resoluciones Ministeriales.
 
@@ -28,7 +28,7 @@ Para tal efecto, al Director General se le establecen las siguientes funciones:
 
 11) Presentar al Ministro de Gobernación informe trimestral, semestral y anual de todas las actividades realizadas en el Sistema Penitenciario;
 
-12) Proponer las mejoras y reformas que considere necesarias para el mejor funcionamiento del Sistema Penitenciario Nacional, así como corregir las irregularidades del servicio penitenciario, de acuerdo con la presente Ley y su Reglamento y cualquier otro reglamento especifico que se establezca;
+12) Proponer las mejoras y reformas que considere necesarias para el mejor funcionamiento del Sistema Penitenciario Nacional, así como corregir las irregularidades del servicio penitenciario, de acuerdo con la presente Ley y su Reglamento y cualquier otro reglamento específico que se establezca;
 
 13) Proponer al Ministro de Gobernación el otorgamiento de reconocimientos y condecoraciones para el personal que labore en el Sistema Penitenciario Nacional y personalidades que se destaquen en el apoyo al trabajo del Sistema;
 
@@ -36,6 +36,6 @@ Para tal efecto, al Director General se le establecen las siguientes funciones:
 
 15) Representar legalmente al Sistema Penitenciario Nacional, con funciones de Apoderado General de Administración;
 
-16) Determinar los locales que serán destinados al alojamiento de privados de libertad para el cumplimiento y ejecución de pena.
+16) Determinar los locales que serán destinados al alojamiento de privados de libertad para el cumplimiento y ejecución de pena; y
 
 17) Cualquier otra función que le establezca la presente Ley.

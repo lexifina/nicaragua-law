@@ -1,6 +1,6 @@
 # Artículo 124
 
-Denominaciones.
+Denominaciones
 
 Corresponde al Director General del Sistema Penitenciario Nacional la denominación de Prefecto y a los dos Subdirectores Generales e Inspector General la de Subprefecto.
 

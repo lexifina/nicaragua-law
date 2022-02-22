@@ -1,6 +1,6 @@
 # Artículo 40
 
-Reglamento de los centros penitenciarios.
+Reglamento de los centros penitenciarios
 
 Al ingresar un ciudadano en calidad de privado de libertad en cualquiera de los centros penitenciarios, se le dará a conocer los reglamentos respectivos y se le explicará de forma sencilla y clara, cuáles son sus derechos y obligaciones, así como las normativas disciplinarias existentes y los procedimientos para formular peticiones y quejas.
 

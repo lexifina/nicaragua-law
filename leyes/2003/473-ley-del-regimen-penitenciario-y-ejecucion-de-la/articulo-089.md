@@ -1,6 +1,6 @@
 # Artículo 89
 
-Derecho a la educación, cultura y deportes.
+Derecho a la educación, cultura y deportes
 
 Los privados de libertad o internos tienen derecho a disponer de locales apropiados para el desarrollo de las diferentes actividades educativas, culturales y deportivas, orientadas a su desarrollo físico, psíquico y mental, así como textos oficiales o libros diversos, revistas y periódicos de libre circulación en el país que les facilite su formación académica.
 

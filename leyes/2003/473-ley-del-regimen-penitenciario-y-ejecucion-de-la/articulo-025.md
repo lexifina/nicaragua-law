@@ -1,6 +1,6 @@
 # Artículo 25
 
-Órganos Nacionales de Apoyo y sus funciones.
+Órganos Nacionales de Apoyo y sus funciones
 
 Para los fines y efectos de la presente Ley y su Reglamento, son Órganos Nacionales de Apoyo los siguientes:
 

@@ -1,6 +1,6 @@
 # Artículo 37
 
-Confección de expediente del privado de libertad.
+Confección de expediente del privado de libertad
 
 A los ciudadanos privados de libertad, al momento de su ingreso al Sistema Penitenciario Nacional, se les confeccionará un expediente penitenciario, en el cual se le deberá de levantar toda la información relativa a su situación procesal y penitenciaria, dicho expediente deberá de contener lo siguiente:
 

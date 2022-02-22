@@ -1,8 +1,8 @@
 # Artículo 100
 
-Integración del Patronato.
+Integración del Patronato
 
-El Patronato Nacional para los Privados de Libertad estará integrado de la manera siguiente:
+El Patronato Nacional para los Privados de libertad estará integrado de la manera siguiente:
 
 1. Un representante del Ministro de Gobernación, quien lo preside o en quien delegue;
 
@@ -16,6 +16,6 @@ El Patronato Nacional para los Privados de Libertad estará integrado de la mane
 
 6. Dos representantes de la iglesia evangélica;
 
-7. Las diferentes organizaciones promotoras de los derechos humanos;
+7. Las diferentes organizaciones promotoras de los derechos humanos; y
 
 8. Cualquier otra que a criterio del Ministro de Gobernación resulte necesario.

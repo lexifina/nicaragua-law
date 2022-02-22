@@ -1,6 +1,6 @@
 # Artículo 5
 
-Ámbito de competencia del Sistema Penitenciario Nacional.
+Ámbito de competencia del Sistema Penitenciario Nacional
 
 El Sistema Penitenciario Nacional tiene su ámbito de competencia en todo el territorio nacional con funciones de control, reeducación y seguridad penal. Su autoridad se ejerce por medio del director general, quien es nombrado de entre sus miembros activos de máxima jerarquía por el Ministro de Gobernación.
 

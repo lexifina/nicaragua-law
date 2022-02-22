@@ -1,6 +1,6 @@
 # Artículo 127
 
-Requisitos para el nombramiento.
+Requisitos para el nombramiento
 
 Para los fines y efectos del nombramiento del Director General del Sistema Penitenciario Nacional se deben de cumplir con los requisitos siguientes:
 
@@ -12,6 +12,6 @@ Para los fines y efectos del nombramiento del Director General del Sistema Penit
 
 4. Tener grado académico mínimo profesional;
 
-5. No tener antecedentes penales;
+5. No tener antecedentes penales; y
 
 6. No haber incurrido en infracciones catalogadas como graves por el Reglamento Disciplinario del personal del Sistema, o que por su naturaleza atenten o lesionen el prestigio de la institución.

@@ -1,6 +1,6 @@
 # Artículo 27
 
-Autorización a los funcionarios para el uso de armas de fuego en el ejercicio de sus funciones.
+Autorización a los funcionarios para el uso de armas de fuego en el ejercicio de sus funciones
 
 Los funcionarios del Sistema Penitenciario Nacional, en general, como parte integrante del sistema de seguridad de la nación, quedan autorizados para el uso de armas de fuego en el ejercicio de sus funciones.
 

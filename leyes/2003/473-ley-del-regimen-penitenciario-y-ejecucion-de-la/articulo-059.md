@@ -1,6 +1,6 @@
 # Artículo 59
 
-Régimen abierto.
+Régimen abierto
 
 El régimen abierto está fundamentado en la disciplina aceptada voluntariamente por el privado de libertad o interno y la ausencia de controles rígidos, ubicándolos en áreas externas del Centro Penal.
 

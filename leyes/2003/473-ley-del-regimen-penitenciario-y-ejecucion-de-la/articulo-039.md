@@ -1,12 +1,12 @@
 # Artículo 39
 
-Clasificación de los privados de libertad.
+Clasificación de los privados de libertad
 
 La clasificación de los privados de libertad en los diferentes centros penitenciarios se efectúa atendiendo los criterios siguientes:
 
 1) Por situación legal:
 
-1.1 Acusados; y
+1.1 Acusados: y
 
 1.2 Condenados.
 
@@ -20,7 +20,7 @@ La clasificación de los privados de libertad en los diferentes centros penitenc
 
 3.1 Adolescentes, entre 15 y 18 años no cumplidos;
 
-3.2 Jóvenes, entre 18 y 21 años;
+3.2 Jóvenes, entre 18 y 21 años: y
 
 3.3 Adultos.
 
@@ -32,7 +32,7 @@ La clasificación de los privados de libertad en los diferentes centros penitenc
 
 5.2 Laboral;
 
-5.3 Semi abierto;
+5.3 Semiabierto;
 
 5.4 Abierto; y
 

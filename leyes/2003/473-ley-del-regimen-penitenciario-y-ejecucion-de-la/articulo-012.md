@@ -1,6 +1,6 @@
 # Artículo 12
 
-Internos y finalidad del Sistema Penitenciario Nacional.
+Internos y finalidad del Sistema Penitenciario Nacional
 
 Para los fines y efectos de la presente Ley se consideran internos a todas las personas privadas de libertad, sea por encontrarse bajo detención provisional o por estar sentenciadas al cumplimiento de una pena.
 

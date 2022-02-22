@@ -1,6 +1,6 @@
 # Artículo 6
 
-Objetivos del Sistema Penitenciario Nacional.
+Objetivos del Sistema Penitenciario Nacional
 
 Son objetivos fundamentales del Sistema Penitenciario Nacional los siguientes:
 

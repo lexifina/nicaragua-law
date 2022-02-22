@@ -1,8 +1,8 @@
 # Artículo 62
 
-Progreso y permanencia en cualquier régimen.
+Progreso y permanencia en cualquier régimen
 
-Para los casos en que el privado de libertad progrese o se mantenga en régimen, es necesario que cumpla con el plazo de permanencia establecido para cada uno de ellos así como la concurrencia favorable de los factores siguientes:
+Para los casos en que el privado de libertad progrese o se mantenga en régimen, es necesario que cumpla con el plazo de permanencia establecido para cada uno de ellos, así como la concurrencia favorable de los factores siguientes:
 
 1) Valorar los antecedentes penitenciarios;
 

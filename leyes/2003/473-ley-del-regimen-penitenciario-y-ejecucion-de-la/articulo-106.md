@@ -1,6 +1,6 @@
 # Artículo 106
 
-Medidas disciplinarias.
+Medidas disciplinarias
 
 Las autoridades penitenciarias, deben imponer de tal forma que no afecten la salud ni la dignidad del interno, las medidas siguientes:
 

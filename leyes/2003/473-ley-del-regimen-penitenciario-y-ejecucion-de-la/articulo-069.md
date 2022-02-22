@@ -1,6 +1,6 @@
 # Artículo 69
 
-Permisos extraordinarios.
+Permisos extraordinarios
 
 Los directores de los centros penitenciarios, en casos de fallecimiento o enfermedad grave de los padres, hermanos, cónyuge o compañero (a), en unión de hecho estable y de los hijos, previa solicitud del interesado, podrán otorgar al privado de libertad o interno un permiso de salida extraordinario para que temporalmente y no más de 72 horas, con las medidas de seguridad pertinentes, puedan asistir o concurrir ante la familia.
 

@@ -1,6 +1,6 @@
 # Artículo 82
 
-Objetivos del Centro de Producción.
+Objetivos del Centro de Producción
 
 Para los fines y efectos del funcionamiento del Centro de Producción, se establecen como objetivos los siguientes:
 

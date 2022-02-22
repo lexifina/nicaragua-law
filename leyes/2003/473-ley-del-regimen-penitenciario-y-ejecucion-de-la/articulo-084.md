@@ -1,6 +1,6 @@
 # Artículo 84
 
-Parámetros de los proyectos.
+Parámetros de los proyectos
 
 Los proyectos que impulse el Centro de Producción deben de cumplir con los parámetros siguientes:
 

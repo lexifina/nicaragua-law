@@ -1,6 +1,6 @@
 # Artículo 97
 
-Derechos de los adolescentes.
+Derechos de los adolescentes
 
 De conformidad a lo establecido en el Código de la Niñez y la Adolescencia, los adolescentes, durante la ejecución de las medidas cautelares de privación de libertad, gozan de los derechos siguientes:
 

@@ -1,6 +1,6 @@
 # Artículo 72
 
-Visitas conyugales y sus locales.
+Visitas conyugales y sus locales
 
 Las visitas conyugales para los privados de libertad serán únicamente para esposas o compañeras en unión de hecho estable debidamente registradas en el expediente del interno.
 

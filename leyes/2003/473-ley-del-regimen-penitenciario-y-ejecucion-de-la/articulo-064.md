@@ -1,12 +1,12 @@
 # Artículo 64
 
-Regresión a un régimen inmediato inferior.
+Regresión a un régimen inmediato inferior
 
 La regresión del privado de libertad a un régimen inmediato inferior se hará efectivo en los casos siguientes:
 
 1. Cuando se cometa un nuevo delito;
 
-2. En los casos en que de manera reiterada y manifiesta el interno se negare a cumplir las normas propias de su régimen;
+2. En los casos en que de manera reiterada y manifiesta el interno se negare a cumplir las normas propias de su régimen; y
 
 3. Cuando se tratare de internos implicados en fugas, motines o cualquier tipo de violencia o intento de estos.
 

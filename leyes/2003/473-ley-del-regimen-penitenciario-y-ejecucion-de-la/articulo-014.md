@@ -1,6 +1,6 @@
 # Artículo 14
 
-Estructura del Sistema Penitenciario Nacional.
+Estructura del Sistema Penitenciario Nacional
 
 El Sistema Penitenciario Nacional está organizado y estructurado de la forma siguiente:
 

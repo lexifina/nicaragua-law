@@ -1,6 +1,6 @@
 # Artículo 113
 
-Carrera Penitenciaria y los principios que la regulan.
+Carrera Penitenciaria y los principios que la regulan
 
 Se establece la Carrera Penitenciaria, reconociéndoles a los actuales funcionarios y demás personal sus derechos por antigüedad y especialización.
 

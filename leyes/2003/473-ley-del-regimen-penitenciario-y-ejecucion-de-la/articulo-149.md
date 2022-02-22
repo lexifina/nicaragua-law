@@ -1,6 +1,6 @@
 # Artículo 149
 
-Derogaciones.
+Derogaciones
 
 La presente Ley de la República deroga las siguientes leyes y normas administrativas que regulan el funcionamiento y la actividad del Sistema Penitenciario Nacional:
 
@@ -14,8 +14,8 @@ La presente Ley de la República deroga las siguientes leyes y normas administra
 
 5. La Ley de Patronato Nacional y los Patronatos Departamentales de reos de 1946 y su Reglamento de 1947, reformado en 1948;
 
-6. Las Normas y Procedimientos de Control, Reeducación y Seguridad Penal contenidas en las Ordenes No. 023, 028, 034 y 035 de 1987 del Ministerio del Interior;
+6. Las Normas y Procedimientos de Control, Reeducación y Seguridad Penal contenidas en las Ordenes Nº. 023, 028, 034 y 035 de 1987 del Ministerio del Interior;
 
-7. El Documento Base para la Reeducación Penal comprendido en la Orden No. 069 - 86 del Ministro del Interior de 1986, y
+7. El Documento Base para la Reeducación Penal comprendido en la Orden Nº. 069 - 86 del Ministro del Interior de 1986, y
 
-8. El Decreto No. 62-90: Creación de la Comisión Nacional Penitenciaria.
+8. El Decreto Nº. 62-90: Creación de la Comisión Nacional Penitenciaria.

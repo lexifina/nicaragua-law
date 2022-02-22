@@ -1,6 +1,6 @@
 # Artículo 80
 
-Dirección del Centro de Producción.
+Dirección del Centro de Producción
 
 El Centro de Producción está dirigido por una Junta Directiva que se integra con los representantes de las instituciones siguientes:
 

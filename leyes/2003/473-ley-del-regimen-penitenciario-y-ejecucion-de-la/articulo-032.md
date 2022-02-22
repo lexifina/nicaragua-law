@@ -1,6 +1,6 @@
 # Artículo 32
 
-Dependencias y ambientes del Sistema.
+Dependencias y ambientes del Sistema
 
 Los centros penitenciarios procurarán un conjunto de dependencias y ambientes que puedan llegar a permitirle al interno una convivencia adecuada y el alcance de los fines y objetivos propuestos.
 

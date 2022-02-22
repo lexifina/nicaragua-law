@@ -1,6 +1,6 @@
 # Artículo 13
 
-Autoridad de aplicación y sus funciones.
+Autoridad de aplicación y sus funciones
 
 Para los fines y efectos de la presente Ley, se designa como autoridad de aplicación de ésta, a la Dirección General del Sistema Penitenciario Nacional, siendo sus funciones las siguientes:
 
@@ -14,7 +14,7 @@ Para los fines y efectos de la presente Ley, se designa como autoridad de aplica
 
 1.4 Promover el intercambio de cooperación técnica y científica a nivel nacional e internacional en asuntos relacionados al sistema penitenciario;
 
-1.5 Coordinar y supervisar las diversas actividades que desarrollen dentro del Sistema Penitenciario Nacional, las diferentes instituciones del Estado nicaragüense;
+1.5 Coordinar y supervisar las diversas actividades que desarrollen dentro del Sistema Penitenciario Nacional, las diferentes instituciones del Estado nicaragüense:
 
 1.6 Cualquier otra que le faculte la ley y su reglamento;
 
@@ -32,7 +32,7 @@ Para los fines y efectos de la presente Ley, se designa como autoridad de aplica
 
 2.6 Garantizar la seguridad interna y externa de los centros penitenciarios ordinarios y especiales, así como la disciplina y control sobre la población penitenciaria de acuerdo con el reglamento interno respectivo.
 
-2.7 Levantar y mantener la información legal relativa a los internos actualizada, así como facilitar el acceso a ésta cuando la soliciten las autoridades judiciales, la Procuraduría para la Defensa de los Derechos Humanos, el Ministerio Público, la Comisión Pro Derechos Humanos y la Paz de la Asamblea Nacional, la Policía Nacional o cualquier otro órgano competente del Estado, así como las diferentes organizaciones de derechos humanos jurídicamente reconocidas y establecidas en el país y los familiares de los internos o sus defensores.
+2.7 Levantar y mantener la información legal relativa a los internos actualizada, así como facilitar el acceso a ésta cuando la soliciten las autoridades judiciales, la Procuraduría para la Defensa de los Derechos Humanos, el Ministerio Público, la Comisión de la Paz, Defensa, Gobernación y Derechos Humanos de la Asamblea Nacional, la Policía Nacional o cualquier otro órgano competente del Estado, así como las diferentes organizaciones de derechos humanos jurídicamente reconocidas y establecidas en el país y los familiares de los internos o sus defensores.
 
 2.8 Promover, coordinar, ordenar y supervisar la participación y apoyo de las diferentes entidades públicas, sean estas nacionales o extranjeras, públicas o privadas; y de la sociedad civil, así como de aquellas personas interesadas a título particular en el proceso de asistencia y atención post penitenciaria.
 

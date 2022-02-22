@@ -1,6 +1,6 @@
 # Artículo 102
 
-Funciones del Patronato Nacional.
+Funciones del Patronato Nacional
 
 El Patronato Nacional para Atención a los Privados de Libertad internos en el Sistema Penitenciario Nacional tendrá las funciones siguientes:
 

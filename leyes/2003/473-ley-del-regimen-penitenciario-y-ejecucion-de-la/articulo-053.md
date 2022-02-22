@@ -1,6 +1,6 @@
 # Artículo 53
 
-Equipo interdisciplinario.
+Equipo interdisciplinario
 
 Para los efectos de la ubicación, clasificación, tratamiento, progresión o regresión en régimen y otras funciones propias del régimen penitenciario, en cada uno de los diferentes centros penitenciarios del país debe existir un equipo interdisciplinario, con autonomía funcional en el ámbito profesional.
 
