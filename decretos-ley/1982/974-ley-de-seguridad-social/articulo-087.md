@@ -1,8 +1,8 @@
 # Artículo 87
 
-Con ésta finalidad, en coordinación con los Ministerios y Entes Autónomos respectivos, el Instituto promoverá y desarrollará entre otros, los programas siguientes:
+Con esta finalidad, en coordinación con los Ministerios y Entes Autónomos respectivos, el Instituto promoverá y desarrollará entre otros, los programas siguientes:
 
-a) Creación y mantenimiento de centros vocacionales y recreativos a fin de facilitar a los trabajadores el buen uso del tiempo libre para su esparcimiento.
+a) Creación y mantenimiento de centros vacacionales y recreativos a fin de facilitar a los trabajadores el buen uso del tiempo libre para su esparcimiento.
 
 b) Funcionamiento de centros de readaptación y adiestramiento a otras actividades de los trabajadores.
 

@@ -4,10 +4,10 @@ Los órganos del Instituto serán:
 
 a) El Consejo Directivo.
 
-b) La Presidencia y vicepresidencia Ejecutiva.
+b) La Presidencia y Vice-Presidencia Ejecutiva.
 
 c) El Consejo Técnico.
 
-d) La Auditoría Interna.
+d) La Auditoria Interna.
 
 e) Las Dependencias Administrativas que se requieran para el cumplimiento de sus funciones.

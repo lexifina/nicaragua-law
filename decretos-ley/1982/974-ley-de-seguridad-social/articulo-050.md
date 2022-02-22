@@ -1,3 +1,3 @@
 # Artículo 50
 
-Los factores para la determinación de la cuantía de la pensión de vejez serán los mismos señalados para el cálculo de las pensiones de invalidez. La cuantía de la pensión no podrá ser menor del 50% de los salarios o ingresos de otro tipo del asegurado, que sirvan de referencia para las contribuciones al Instituto.
+Las pensiones en concepto de vejez, viudez, invalidez total o parcial e incapacidad total o parcial, gozarán del mantenimiento del valor con relación a la tasa cambiaria oficial del córdoba establecida por el Banco Central de Nicaragua con relación al dólar de los Estados Unidos de América, para tal efecto deberán serán actualizadas al 30 de noviembre de cada año calendario. El monto mensual de las pensiones en concepto de vejez, viudez, invalidez total o parcial e incapacidad total o parcial, tendrán un límite superior del equivalente en córdobas, a un mil quinientos dólares de los Estados Unidos de América.
