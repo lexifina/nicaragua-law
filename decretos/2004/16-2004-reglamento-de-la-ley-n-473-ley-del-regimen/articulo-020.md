@@ -1,6 +1,8 @@
 # Artículo 20
 
-División de Proyectos e Inversiones. Corresponde al jefe de esta División, las funciones siguientes:
+División de Proyectos e Inversiones
+
+Corresponde al jefe de esta División, las funciones siguientes:
 
 1. Hacer levantamiento de necesidades en materia de proyectos de inversiones públicas del Sistema Penitenciario Nacional, relativas a infraestructura y otras.
 

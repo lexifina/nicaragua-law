@@ -1,6 +1,6 @@
 # Artículo 156
 
-Infracciones Leves:
+Infracciones Leves
 
 1. Alterar el orden sin consecuencia para el normal desarrollo de las actividades reeducativas, distribución de alimentos y sesiones al sol.
 

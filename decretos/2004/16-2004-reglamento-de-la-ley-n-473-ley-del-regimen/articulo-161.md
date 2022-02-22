@@ -1,6 +1,8 @@
 # Artículo 161
 
-Clasificación de las Sanciones. Las sanciones se dividen en leves, severas y muy severas.
+Clasificación de las Sanciones
+
+Las sanciones se dividen en leves, severas y muy severas.
 
 1. Leves
 
@@ -12,7 +14,7 @@ Ante su familia.
 
 1.2 Amonestación escrita.
 
-1.3 Suspensión de actividades recreativas, deportivas y artísticas, hasta por dos veces consecutivas.
+1.3 Suspensión de actividades recreativas, deportivas y artísticas hasta por dos veces consecutivas.
 
 1.4 Suspensión temporal del área de trabajo, que no exceda de diez días.
 
@@ -20,7 +22,7 @@ Ante su familia.
 
 2.1 Suspensión de permisos, hasta por dos veces consecutivas.
 
-2.2 Suspensión temporal del área laboral, hasta por seis meses.
+2.2 Suspensión temporal del área laboral. hasta por seis meses.
 
 2.3 Suspensión de actividades recreativas, deportivas y artísticas, hasta por seis veces.
 

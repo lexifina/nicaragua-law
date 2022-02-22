@@ -1,3 +1,5 @@
 # Artículo 34
 
-Personal. La División Escuela para Estudios Penitenciarios cuenta con su propio personal profesional.
+Personal
+
+La División de Escuela para Estudios Penitenciarios cuenta con su propio personal profesional.

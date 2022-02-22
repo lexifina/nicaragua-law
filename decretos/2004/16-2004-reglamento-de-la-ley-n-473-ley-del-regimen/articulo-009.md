@@ -1,6 +1,8 @@
 # Artículo 9
 
-Estructura. El Sistema Penitenciario Nacional está organizado y estructurado de la siguiente manera:
+Estructura
+
+El Sistema Penitenciario Nacional está organizado y estructurado de la siguiente manera:
 
 1. Dirección General, integrada por un Director General.
 
@@ -14,4 +16,4 @@ Estructura. El Sistema Penitenciario Nacional está organizado y estructurado de
 
 6. Los Directores de Centros Penitenciarios.
 
-De conformidad al arto. 129 de la Ley, los miembros titulares a que se refieren los numerales 1, 2 y 3, conforman la Jefatura Nacional del Sistema Penitenciario.
+De conformidad al Artículo 129 de la Ley, los miembros titulares a que se refieren los numerales 1, 2 y 3, conforman la Jefatura Nacional del Sistema Penitenciario.

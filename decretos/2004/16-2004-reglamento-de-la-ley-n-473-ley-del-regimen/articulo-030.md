@@ -1,8 +1,10 @@
 # Artículo 30
 
-Funciones. El Jefe de la División Administrativa Financiera tendrá las siguientes funciones:
+Funciones
 
-1. Asesorar al Director General en la implementación y seguimiento de los sistemas de control interno, financieros y administrativos, de acuerdo a las leyes y normativas reguladoras de la materia.
+El Jefe de la División Administrativa Financiera tendrá las siguientes funciones:
+
+1. Asesorar al Director General en la implementación y seguimiento de los sistemas de control interno, financieros y, administrativos, de acuerdo a las leyes y normativas reguladoras de la materia.
 
 2. Preparar y presentar al Director General la propuesta anual de requerimientos materiales y financieros para su aprobación y envío al Ministerio de Gobernación.
 

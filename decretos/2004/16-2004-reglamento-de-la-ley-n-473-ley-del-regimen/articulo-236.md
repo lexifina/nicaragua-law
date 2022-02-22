@@ -1,6 +1,8 @@
 # Artículo 236
 
-Manuales de Procedimientos. El Director General del Sistema Penitenciario, dictará los Manuales de Procedimientos y normativas administrativas que regulan el funcionamiento y la actividad del Sistema Penitenciario Nacional, siendo éstos los siguientes:
+Manuales de Procedimientos
+
+El Director General del Sistema Penitenciario, dictará los Manuales de Procedimientos y normativas administrativas que regulan el funcionamiento y la actividad del Sistema Penitenciario Nacional, siendo éstos los siguientes:
 
 1. Manual de Procedimiento de Control Penal.
 

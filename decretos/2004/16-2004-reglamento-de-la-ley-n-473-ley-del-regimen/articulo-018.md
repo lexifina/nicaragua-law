@@ -1,6 +1,8 @@
 # Artículo 18
 
-Funciones. Al jefe de la División de Información, Planificación y Estadística, le corresponden además las siguientes funciones:
+Funciones
+
+Al jefe de la División de Información, Planificación y Estadística, le corresponden además las siguientes funciones:
 
 1. Coordinar la elaboración y/o modificación de los documentos rectores del sistema de información del Sistema Penitenciario.
 

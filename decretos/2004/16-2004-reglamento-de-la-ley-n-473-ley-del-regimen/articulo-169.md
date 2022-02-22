@@ -1,6 +1,8 @@
 # Artículo 169
 
-Parámetros. El estímulo individual se otorgará atendiendo los siguientes parámetros:
+Parámetros
+
+El estímulo individual se otorgará atendiendo los siguientes parámetros:
 
 1. Disciplina y conducta.
 

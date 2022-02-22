@@ -1,5 +1,7 @@
 # Artículo 230
 
-Normativa interna. Además de lo establecido en la Ley, la Junta Directiva dictará su normativa interna de funcionamiento en un plazo de 90 días a partir de la entrada en vigencia del presente Reglamento.
+Normativa Interna
 
-Consejo de Género
+El Ministerio de Gobernación. emitirá la normativa interna de funcionamiento del Patronato Nacional en un plazo no mayor de noventa días a partir de la entrada en vigencia del presente Decreto.
+
+CONSEJO DE GÉNERO

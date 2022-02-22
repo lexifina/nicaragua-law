@@ -1,6 +1,8 @@
 # Artículo 144
 
-Funciones específicas. El Equipo Interdisciplinario, además de las funciones generales establecidas en la Ley y el presente Reglamento, cumple con las siguientes funciones específicas:
+Funciones específicas
+
+El Equipo Interdisciplinario, además de las funciones generales establecidas en la Ley y el presente Reglamento, cumple con las siguientes funciones:
 
 1. Planificar reuniones mensuales y trimestrales para determinar la progresión, prórroga y regresión en régimen a los internos.
 

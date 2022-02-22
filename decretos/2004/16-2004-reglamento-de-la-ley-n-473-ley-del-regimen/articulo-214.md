@@ -1,6 +1,8 @@
 # Artículo 214
 
-Permanencia del Cargo. El Director General del Sistema Penitenciario Nacional, es nombrado por 5 años no prorrogables.
+Permanencia del Cargo
+
+El Director General del Sistema Penitenciario Nacional, es nombrado por 5 años no prorrogables.
 
 Los Sub-Directores Generales e Inspector General, son nombrados por 5 años prorrogables por un período más.
 

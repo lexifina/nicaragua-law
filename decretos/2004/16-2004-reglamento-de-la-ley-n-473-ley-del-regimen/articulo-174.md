@@ -1,6 +1,6 @@
 # Artículo 174
 
-Estímulos colectivos:
+Estímulos colectivos
 
 1. Entregar reconocimiento por escrito al contingente o galería ante toda la población penal.
 

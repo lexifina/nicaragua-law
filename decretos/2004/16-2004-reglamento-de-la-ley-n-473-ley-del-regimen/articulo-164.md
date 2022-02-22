@@ -1,6 +1,8 @@
 # Artículo 164
 
-Recurso de Revisión Administrativo Penitenciaria. Sin perjuicio del Recurso de Revisión de que trata el párrafo final del arto. 162 del presente Decreto, todo interno que es sancionado tiene derecho a pedir la revisión de la sanción impuesta ante el Director del Centro Penitenciario, para lo cual se establece el siguiente procedimiento:
+Recurso de Revisión Administrativo Penitenciaria
+
+Sin perjuicio del Recurso de Revisión de que trata el párrafo final del Artículo 162 del presente Decreto, todo interno que es sancionado tiene derecho a pedir la revisión de la sanción impuesta ante el Director del Centro Penitenciario, para lo cual se establece el siguiente procedimiento:
 
 1. La interposición del recurso de revisión penitenciaria debe presentarse en término de 24 horas, a partir de la notificación de la sanción por el equipo interdisciplinario. Esta debe ser tramitada por el interno o su familiar, por escrito de forma individual, con el nombre del interno o familiar reclamante.
 

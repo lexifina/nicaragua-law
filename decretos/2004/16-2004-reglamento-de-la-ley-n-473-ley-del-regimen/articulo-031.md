@@ -1,6 +1,8 @@
 # Artículo 31
 
-División de Personal. Las funciones del Jefe de Personal son:
+División de Personal
+
+Las funciones del Jefe de Personal son:
 
 1. Establecer el control del personal.
 

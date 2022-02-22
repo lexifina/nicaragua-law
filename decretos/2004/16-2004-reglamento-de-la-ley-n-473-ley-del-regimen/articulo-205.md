@@ -4,7 +4,7 @@ Para el ingreso al Sistema Penitenciario Nacional, los interesados deben cumplir
 
 1. Ser ciudadano nicaragüense de comprobada honradez.
 
-2. Haber aprobado, al menos, el lll año de educación secundaria.
+2. Haber aprobado, al menos, el III año de educación secundaria.
 
 3. Presentar certificado médico que acredite estar apto física y mentalmente.
 

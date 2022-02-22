@@ -1,6 +1,8 @@
 # Artículo 197
 
-Clasificación del personal. El personal del Sistema Penitenciario se clasifica de la siguiente forma:
+Clasificación del personal
+
+El personal del Sistema Penitenciario se clasifica de la siguiente forma:
 
 1. Personal Penitenciario.
 

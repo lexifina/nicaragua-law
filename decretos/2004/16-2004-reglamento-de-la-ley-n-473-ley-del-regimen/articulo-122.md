@@ -1,6 +1,6 @@
 # Artículo 122
 
-Porcentajes de Permanencia por Régimen.
+Porcentajes de Permanencia por Régimen
 
 Primarios con penas por la comisión de delitos menos graves:
 

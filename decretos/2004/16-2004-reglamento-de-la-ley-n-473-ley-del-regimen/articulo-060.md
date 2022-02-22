@@ -1,6 +1,8 @@
 # Artículo 60
 
-Partes del expediente. El Expediente Penitenciario está constituido por tres partes, siendo éstas las siguientes:
+Partes del expediente
+
+El Expediente Penitenciario está constituido por tres partes, siendo éstas las siguientes:
 
 1. Aspectos Generales.
 

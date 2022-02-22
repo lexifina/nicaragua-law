@@ -1,6 +1,8 @@
 # Artículo 37
 
-Subsistemas. El Sistema de Educación Especializada en materia Penitenciaria, está integrado por cuatro subsistemas, estos son:
+Subsistemas
+
+El Sistema de Educación Especializada en materia Penitenciaria, está integrado por cuatro subsistemas, estos son:
 
 1. Curso Elemental Penitenciario: dirigido a nuevos ingresos y agentes penitenciarios.
 
@@ -12,4 +14,4 @@ Subsistemas. El Sistema de Educación Especializada en materia Penitenciaria, es
 
 Los cursos de profesionalización dirigidos al Consejo de Dirección podrán realizarse en el ámbito nacional o en el extranjero.
 
-Especialidades Nacionales, Órganos Nacionales de Apoyo y Direcciones Penitenciarias
+ESPECIALIDADES NACIONALES, ÓRGANOS NACIONALES DE APOYO Y DIRECCIONES PENITENCIARIAS

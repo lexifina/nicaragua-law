@@ -1,8 +1,10 @@
 # Artículo 23
 
-Funciones. Al Jefe de la División de Servicios Médicos, además de lo establecido en la Ley, le corresponde:
+Funciones
 
-1. Asesorar la Director General en materia de salud penitenciaria, a través de la planificación, organización, vigilancia y evaluación del cumplimiento de la actividad sanitaria en los servicios médicos penitenciarios.
+Al Jefe de la División de Servicios Médicos, además de lo establecido en la Ley, le corresponde:
+
+1. Asesorar al Director General en materia de salud penitenciaria, a través de la planificación, organización, vigilancia y evaluación del cumplimiento de la actividad sanitaria en los servicios médicos penitenciarios.
 
 2. Garantizar que los privados de libertad gocen del derecho a la salud en los Centros Penitenciarios, los que contarán con las instalaciones médicas, equipos, instrumentales y fármacos necesarios para estos fines, de acuerdo al presupuesto asignado al Sistema Penitenciario.
 

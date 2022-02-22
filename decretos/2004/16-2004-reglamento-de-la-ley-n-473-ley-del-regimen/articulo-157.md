@@ -1,6 +1,6 @@
 # Artículo 157
 
-Infracciones Graves:
+Infracciones Graves
 
 1. Elaborar, poseer, traficar, almacenar, introducir o ingerir bebidas espirituosas.
 
@@ -10,12 +10,12 @@ Infracciones Graves:
 
 4. Agredir verbal o físicamente a internos, funcionarios o visitantes, sin que dicha acción constituya falta penal.
 
-5. Atentar contra las autoridades penitenciarias, visitantes e internos, con claros propósito de causarles daño.
+5. Atentar contra las Autoridades Penitenciarias, visitantes e internos, con claros propósito de causarles daño.
 
 6. Participar en riña, sin que las consecuencias se consideren falta penal.
 
 7. Hurtar pertenencias de internos o bienes asignados cuando no constituyan falta penal.
 
-8. Destrucción dolosa de bienes puestos a su disposición, propiedad del centro penitenciario.
+8. Destrucción dolosa de bienes puestos a su disposición. propiedad del Centro Penitenciario.
 
 9. Resistencia pasiva ante la orden de los funcionarios penitenciarios en el ejercicio de sus funciones.

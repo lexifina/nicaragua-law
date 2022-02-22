@@ -1,10 +1,12 @@
 # Artículo 140
 
-Visitas especiales. Las visitas especiales son aquellas que de forma excepcional se les otorga a los internos por espacio de una hora, atendiendo a las siguientes razones:
+Visitas especiales
+
+Las visitas especiales son aquellas que de forma excepcional se les otorga a los internos por espacio de una hora, atendiendo a las siguientes razones:
 
 1. Al ingresar el interno al Centro Penitenciario.
 
-2. Cuando es visitado por un pariente o amigo residente en el exterior o región lejana del centro penitenciario.
+2. Cuando es visitado por un pariente o amigo residente en el exterior o región lejana del Centro Penitenciario.
 
 3. Por estímulo.
 
@@ -16,4 +18,4 @@ Visitas especiales. Las visitas especiales son aquellas que de forma excepcional
 
 La autoridad facultada para autorizar estas visitas será establecida en el Manual de Procedimientos de Reeducación Penal.
 
-Tratamiento Penitenciario
+TRATAMIENTO PENITENCIARIO
