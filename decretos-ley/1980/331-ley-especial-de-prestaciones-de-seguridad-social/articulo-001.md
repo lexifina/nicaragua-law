@@ -1,0 +1,3 @@
+# Artículo 1
+
+El Instituto Nicaragüense de Seguridad Social concederá todos los beneficios establecidos en la Ley Orgánica de Seguridad Social y su Reglamento General en cuanto a las pensiones de invalidez, vejez, viudez, orfandad y por riesgos profesionales a todos los trabajadores mineros que realicen o hayan realizado labores de explotación directa de minerales metálicos en cualquiera de su proceso de extracción, manipulación y separación de tales minerales, por un período mayor de 5 años, salvo que se compruebe en los que se encuentran actualmente en estado de incapacidad total permanente, que fue adquirida en un período menor.

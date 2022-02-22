@@ -1,0 +1,3 @@
+# Artículo 6
+
+Las pensiones correspondientes se otorgarán en igual forma que se calculan para los trabajadores asegurados en general y de conformidad con el Reglamento General del Seguro Social vigente en la fecha de su otorgamiento, considerando los años de servicio como si hubieren cotizado al Seguro Social. En ningún caso la pensión del trabajador minero, sea asegurado o no, podrá ser inferior del 80% del salario base de referencia si el trabajador no tiene carga familiar, y en caso contrario, se incrementará en un 15% para la esposa o compañera de vida y en un 10% por cada hijo menor de 15 años hasta alcanzar el 100% de dicho salario.
