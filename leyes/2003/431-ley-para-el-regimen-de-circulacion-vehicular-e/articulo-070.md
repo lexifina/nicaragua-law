@@ -1,3 +1,3 @@
 # Artículo 70
 
-Derogado
+Derogado.

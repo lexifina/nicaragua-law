@@ -1,3 +1,3 @@
 # Artículo 66
 
-Derogado
+Derogado.

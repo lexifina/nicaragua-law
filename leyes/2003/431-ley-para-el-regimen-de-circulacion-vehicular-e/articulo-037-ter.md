@@ -6,4 +6,4 @@ La Policía Nacional a través de la Especialidad de Seguridad de Tránsito en c
 
 Para la instalación de los semáforos y puentes relacionados en el párrafo anterior, se dispondrán de los recursos que genere el entero de la calcomanía del impuesto de rodamiento o cualquier otro que en especial se obtenga para el mismo objetivo.
 
-También corresponde a las autoridades referidas en el párrafo primero de este artículo, la ubicación, en sentido general en las vías de comunicación del territorio nacional, de las señales de tránsito requeridas, apropiadas y necesarias para el mejor ordenamiento del funcionamiento y desplazamiento del transporte terrestre, para lo cual establecerán un programa de mantenimiento de las señales de tránsito.
+También corresponde a las autoridades referidas en el párrafo primero de este Artículo, la ubicación, en sentido general en las vías de comunicación del territorio nacional, de las señales de tránsito requeridas, apropiadas y necesarias para el mejor ordenamiento del funcionamiento y desplazamiento del transporte terrestre, para lo cual establecerán un programa de mantenimiento de las señales de tránsito.

@@ -1,7 +1,5 @@
 # Artículo 32
 
-Derogado
+Derogado.
 
-Capítulo V
-
-De los accidentes de tránsito
+DE LOS ACCIDENTES DE TRÁNSITO

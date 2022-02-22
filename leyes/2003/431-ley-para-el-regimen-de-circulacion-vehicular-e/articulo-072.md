@@ -1,3 +1,3 @@
 # Artículo 72
 
-Derogado
+Derogado.

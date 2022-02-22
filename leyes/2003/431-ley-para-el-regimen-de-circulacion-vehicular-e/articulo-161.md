@@ -1,3 +1,3 @@
 # Artículo 161
 
-Derogado
+Derogado.

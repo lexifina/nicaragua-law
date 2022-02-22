@@ -1,6 +1,6 @@
 # Artículo 117
 
-Derechos y obligaciones del peatón
+Derechos y obligaciones de peatón
 
 El peatón tiene derecho a que los conductores manejen con la debida cortesía y cuidado, tomando las medidas de precaución necesarias y evitar que se ponga en peligro su vida y su integridad física.
 
@@ -18,6 +18,6 @@ Los conductores de automotores deberán tener especial cuidado de día y de noch
 
 5) Exigir a la Policía Nacional de Seguridad de Tránsito la publicación de manuales de instrucción y comportamiento peatonal y de estudio obligatorio en los centros de educación primaria y secundaria, así como el establecimiento y desarrollo de una campaña permanente y sistemática de educación vial en el territorio nacional.
 
-6)Exigir la señalización de las calles y carreteras del país a las autoridades de los diferentes gobiernos locales y al Ministerio de Transporte e Infraestructura, así como la instalación de semáforos direccionales, peatonales, preventivos y la construcción de puentes peatonales.
+6) Exigir la señalización de las calles y carreteras del país a las autoridades de los diferentes gobiernos locales y al Ministerio de Transporte e Infraestructura, así como la instalación de semáforos direccionales, peatonales, preventivos y la construcción de puentes peatonales.
 
 7) Cualquier otro que establezca la Autoridad de Aplicación de la presente Ley.

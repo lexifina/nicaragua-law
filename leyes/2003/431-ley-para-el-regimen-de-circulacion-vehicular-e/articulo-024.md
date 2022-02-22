@@ -22,4 +22,4 @@ Cuando se determine la reincidencia según registro policial, la Autoridad Polic
 
 En los primeros tres casos el conductor sancionado con suspensión está obligado a recibir un curso de adiestramiento y manejo vial.
 
-En los casos de las infracciones establecidas en los numerales 1), 2), 3), 4), 5) y 6) del artículo 26, en la primera ocasión se aplicará una suspensión de tres meses hasta un año, sin perjuicio de lo dispuesto por la autoridad judicial.
+En los casos de las infracciones establecidas en los numerales 1), 2), 3), 4), 5) y 6) del Artículo 26, en la primera ocasión se aplicará una suspensión de tres meses hasta un año, sin perjuicio de lo dispuesto por la autoridad judicial.

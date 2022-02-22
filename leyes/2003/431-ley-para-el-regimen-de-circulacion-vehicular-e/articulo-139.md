@@ -6,6 +6,4 @@ Los vehículos que se encuentren mal estacionados o los que por desperfectos té
 
 El pago o el comprobante del mismo deberán ser efectuados o presentado por el propietario al momento del reclamo del vehículo.
 
-Capítulo XIV
-
-De las licencias de conducir y los permisos de tránsito y otros servicios
+DE LAS LICENCIAS DE CONDUCIR Y LOS PERMISOS DE TRÁNSITO Y OTROS SERVICIOS

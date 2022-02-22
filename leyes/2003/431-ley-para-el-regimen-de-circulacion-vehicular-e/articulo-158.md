@@ -1,3 +1,3 @@
 # Artículo 158
 
-Derogado
+Derogado.

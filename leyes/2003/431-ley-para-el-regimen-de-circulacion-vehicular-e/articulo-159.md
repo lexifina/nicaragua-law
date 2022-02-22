@@ -1,3 +1,3 @@
 # Artículo 159
 
-Derogado
+Derogado.

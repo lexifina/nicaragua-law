@@ -1,6 +1,8 @@
 # Artículo 166 bis
 
-Regulación de polarizado en vidrios de automotores Los propietarios o conductores de automotores podrán usar película para polarizar los vidrios de estos, de acuerdo a las especificaciones siguientes:
+Regulación de polarizado en vidrios de automotores
+
+Los propietarios o conductores de automotores podrán usar película para polarizar los vidrios de estos, de acuerdo a las especificaciones siguientes:
 
 1) Vidrio delantero revestido parcialmente con dos franjas horizontales, superior e inferior, de película para polarizar de cuatro pulgadas de ancho cada una.
 

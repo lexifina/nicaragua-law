@@ -11,3 +11,5 @@ En ausencia de un agente de la Especialidad de Seguridad de Tránsito de la Poli
 3) Cuando sea que el autor de una conducta que se le identifique en un hecho autónomo o a causa de un accidente de tránsito.
 
 Cuando los detenidos fuesen a consecuencia de lesiones leves, los involucrados serán puestos bajo arresto domiciliar hasta que la autoridad judicial competente conozca del caso.
+
+DEL REGISTRO DE LA PROPIEDAD VEHICULAR

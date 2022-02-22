@@ -1,3 +1,3 @@
 # Artículo 38
 
-Derogado
+Derogado.

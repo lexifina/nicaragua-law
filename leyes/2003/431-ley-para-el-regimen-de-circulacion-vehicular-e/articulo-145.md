@@ -1,7 +1,15 @@
 # Artículo 145
 
-Tasas por servicios de tránsito
+Otorgamiento de licencia de conducir
 
-Se establecen las tasas por servicios de tránsito que deberán enterarse a la Policía Nacional como Renta con Destino Específico, para la modernización y fortalecimiento de las capacidades de la Especialidad de Seguridad de Tránsito en la prestación de sus servicios, la prevención de la accidentalidad y educación vial, de conformidad al detalle siguiente:
+La licencia de conducir es expedida por la Especialidad de Seguridad de Tránsito de la Policía Nacional, a todo ciudadano o ciudadana que haya aprobado el examen teórico y práctico con los que demuestra saber conducir y que ha cumplido con los requisitos exigidos por la ley, en correspondencia al tipo y categoría aplicada.
+
+Las personas que padezcan una limitación física parcial podrán obtener la licencia de conducir, siempre y cuando hayan cumplido los requisitos exigidos para estos casos, y que demuestre durante el examen práctico estar habilitado y adiestrado para conducir con dicha limitación.
+
+Los tipos de licencia, categorías y su procedimiento para la obtención de estas se establecerá en el reglamento de la presente Ley.
+
+-
+
+-
 
 La inspección técnico mecánica de los vehículos nuevos están exentos de la realización de inspección técnico mecánica y el de emisión de gases durante los primeros dos años.

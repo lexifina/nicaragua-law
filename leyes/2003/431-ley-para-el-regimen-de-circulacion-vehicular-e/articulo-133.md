@@ -1,6 +1,6 @@
 # Artículo 133
 
-Retención de vehículo
+Retención del vehículo
 
 La Policía Nacional podrá retener cualquier vehículo que circule en el país en las circunstancias siguientes:
 

@@ -1,10 +1,10 @@
 # Artículo 29
 
-Destino de semovientes en la vía pública
+Destino .de semovientes en la vía pública
 
-En los casos de semovientes que se desplacen sin arrieros en la vía pública, la Policía Nacional, les aplicará a sus propietarios, una multa a favor de la Alcaldía Municipal, de Quinientos Córdobas Netos (C$ 500.00); en caso de reincidencia, la multa será de Un Mil Córdobas Netos (C$ 1,000.00), la que deberá ser pagada en un término de treinta días.
+En los casos de semovientes que se desplacen sin arrieros en la vía pública, la Policía Nacional, les aplicará a sus propietarios, una multa a favor de la Alcaldía Municipal, de quinientos córdobas; en caso de reincidencia, la multa será de un mil Córdobas, la que deberá ser pagada en un término de 30 días.
 
-Si volviese a producirse la infracción, el Jefe de la Delegación de la Policía Nacional, a solicitud del Alcalde Municipal, podrá decomisar los semovientes y ponerlos a disposición de la Alcaldía respectiva, para que esta lo asigne al Hospital de la localidad o de cualquier otro centro asistencial o de beneficencia pública. De esto se notificará al propietario.
+Si volviese a producirse la infracción, el Jefe de Policía, a solicitud del alcalde municipal, podrá decomisarlos semovientes y ponerlos a disposición de la Alcaldía respectiva, para que esta lo asigne al Hospital de la localidad o de cualquier otro centro asistencial o de beneficencia pública. De esto se notificará al propietario.
 
 Se exceptúa esta disposición, cuando se compruebe que no ha sido por negligencia, descuido o irresponsabilidad del propietario.
 

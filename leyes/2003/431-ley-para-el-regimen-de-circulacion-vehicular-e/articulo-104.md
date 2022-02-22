@@ -1,6 +1,6 @@
 # Artículo 104
 
-Supuestos especiales
+Supuesto especial
 
 Se podrá efectuar el aventajamiento por la derecha, adoptando siempre las máximas precauciones, en los casos siguientes:
 

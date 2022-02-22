@@ -1,5 +1,9 @@
 # Artículo 8
 
-Pago de aranceles de especies fiscales
+Pago de arancel de derecho de matrícula, placas, licencia de circulación y calcomanías
 
-Los propietarios de vehículos automotor, deberán pagar los aranceles de las especies fiscales establecidas en el artículo 4 de la presente Ley de conformidad a los valores siguientes:
+Los propietarios de vehículos automotores, deberán pagar los aranceles de las especies fiscales establecidas en el Artículo 4 de la presente Ley de conformidad a los valores siguientes:
+
+-
+
+-

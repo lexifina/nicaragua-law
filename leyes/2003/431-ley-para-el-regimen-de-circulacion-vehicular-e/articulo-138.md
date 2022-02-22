@@ -10,7 +10,7 @@ Se autoriza a la Especialidad de Seguridad de Tránsito de la Policía Nacional,
 
 3) Cuando sean estacionados en lugares no autorizados.
 
-4) Cuando el conductor del vehículo incurra en delitos tipificados por la Ley N°. 641 "Código Penal" o que en virtud de éstos se encuentren circulados por la autoridad competente o por faltas previstas en la presente Ley.
+4) Cuando el conductor del vehículo incurra en delitos tipificados por la Ley Nº. 641, Código Penal o que en virtud de estos se encuentren circulados por la autoridad competente o por faltas previstas en la presente ley.
 
 5) Cuando se encuentren mal estacionado o aquellos que por desperfecto técnico o mecánico obstaculicen el tráfico vehicular en las calles o carreteras del país.
 
@@ -18,7 +18,7 @@ Se autoriza a la Especialidad de Seguridad de Tránsito de la Policía Nacional,
 
 7) Cuando produzcan daños a bienes de particulares o al patrimonio público.
 
-8) Cuando no cesen las causas de la inmovilización y traslado de acuerdo con lo dispuesto en el artículo 133 de la presente Ley.
+8) Cuando no cesen las causas de la inmovilización y traslado de acuerdo con lo dispuesto en el Artículo 133 de la presente ley.
 
 9) Por orden de autoridad judicial competente.
 
@@ -32,4 +32,4 @@ El propietario o el legítimo poseedor de los vehículos debe gestionar la devol
 
 Se exceptúan aquellos casos en que por sustracción u otras formas no autorizadas por el dueño para la utilización del vehículo o este haya sido utilizado en contra de la voluntad de su propietario o legítimo poseedor.
 
-Los procedimientos para la notificación y demás trámites se establecerán en el reglamento de la presente Ley.
+Los procedimientos para la notificación y demás trámites se establecerán en el Reglamento de la presente Ley.

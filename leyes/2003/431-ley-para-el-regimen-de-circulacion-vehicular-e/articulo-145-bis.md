@@ -6,4 +6,4 @@ Sin perjuicio de las sanciones administrativas, se establece la clasificación d
 
 Serán infracciones para los Talleres de Inspección Técnica Vehicular, las siguientes:
 
-Serán infracciones para las Escuelas de Manejo. autorizadas por la Policía Nacional las siguientes:
+-

@@ -1,3 +1,3 @@
 # Artículo 110
 
-Derogado
+Derogado.

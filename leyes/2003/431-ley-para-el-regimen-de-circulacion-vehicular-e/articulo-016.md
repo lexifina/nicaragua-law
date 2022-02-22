@@ -1,3 +1,3 @@
 # Artículo 16
 
-Derogado
+Derogado.

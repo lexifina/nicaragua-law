@@ -1,7 +1,5 @@
 # Artículo 17
 
-Derogado
+Derogado.
 
-Capítulo IV
-
-De las infracciones de tránsito
+DE LAS INFRACCIONES DE TRÁNSITO

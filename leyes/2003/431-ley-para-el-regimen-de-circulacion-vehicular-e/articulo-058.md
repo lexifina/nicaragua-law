@@ -6,7 +6,7 @@ Corresponde a la Autoridad de Aplicación de la presente Ley la administración 
 
 1) El o la representante del Ministro o Ministra de Educación.
 
-2) El Jefe o la Jefa Nacional de Tránsito de la Policía Nacional.
+2) El o la Jefa Nacional de Tránsito de la Policía Nacional.
 
 3) El o la representante de la Contraloría General de la República.
 
@@ -18,6 +18,4 @@ Corresponde a la Autoridad de Aplicación de la presente Ley la administración 
 
 Corresponde a esta Comisión Permanente aprobar el presupuesto establecido para el funcionamiento del Fondo Nacional de Seguridad y Educación Vial.
 
-Capítulo VIII
-
-De la prevención de la contaminación ambiental
+DE LA PREVENCIÓN DE LA CONTAMINACIÓN AMBIENTAL
