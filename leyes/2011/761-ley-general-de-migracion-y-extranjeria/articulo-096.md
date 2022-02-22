@@ -1,6 +1,6 @@
 # Artículo 96
 
-De la clasificación de las visas otorgadas a menores de edad.
+De la clasificación de las visas otorgadas a menores de edad
 
 Las visas otorgadas a menores de edad se clasifican en:
 

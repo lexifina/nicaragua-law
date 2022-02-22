@@ -1,12 +1,12 @@
 # Artículo 10
 
-Atribuciones.
+Atribuciones
 
 Son atribuciones de la Dirección General de Migración y Extranjería, las siguientes:
 
-1) Ejecutar las políticas migratorias encomendadas por el Poder Ejecutivo en correspondencia con los instrumentos internacionales suscritos por la República de Nicaragua y aprobados por la Asamblea Nacional de conformidad al numeral 12 del artículo 138 de la Constitución Política de la República de Nicaragua;
+1) Ejecutar las políticas migratorias encomendadas por el Poder Ejecutivo en correspondencia con los instrumentos internacionales suscritos por la República de Nicaragua y aprobados por la Asamblea Nacional de conformidad al numeral 12 del Artículo 138 de la Constitución Política de la República de Nicaragua;
 
-2) Cumplir y hacer cumplir la Constitución Política de la República de Nicaragua, leyes, normativas técnicas o jurídicas vinculantes a la presente Ley y su Reglamento así como las resoluciones que emita la persona que ejerza las funciones ministeriales en el Ministerio de Gobernación en materia migratoria;
+2) Cumplir y hacer cumplir la Constitución Política de la República de Nicaragua, leyes, normativas técnicas o jurídicas vinculantes a la presente Ley y su Reglamento, así como las resoluciones que emita la persona que ejerza las funciones ministeriales en el Ministerio de Gobernación en materia migratoria;
 
 3) Organizar, dirigir, registrar y controlar los distintos servicios migratorios que se prestan a la población nacional y extranjera, garantizando el ejercicio de los derechos en la actividad migratoria, sin discriminación por motivos de nacionalidad, etnia, credo político, raza, sexo, idioma, religión, opinión, origen y posición económica o cualquier otra condición;
 
@@ -24,7 +24,7 @@ Son atribuciones de la Dirección General de Migración y Extranjería, las sigu
 
 10) Informar oportunamente a la autoridad competente irregularidades que constituyen faltas o delitos, de acuerdo a la presente Ley y su Reglamento y de conformidad al Código Penal. Dicha información deberá ser fundada en hechos reales y probados;
 
-11) Cumplir las órdenes de retención migratoria para personas nacionales y extranjeras, emitidas por autoridad judicial competente. Asimismo, se impedirá el reingreso de todo extranjero que haya sido deportado o expulsado del país, o por cualquiera de las causales establecidas en esta Ley, has ta cumplir con el término estipulado para ingresar al territorio nacional;
+11) Cumplir las órdenes de retención migratoria para personas nacionales y extranjeras, emitidas por autoridad judicial competente. Asimismo, se impedirá el reingreso de todo extranjero que haya sido deportado o expulsado del país, o por cualquiera de las causales establecidas en esta Ley, hasta cumplir con el término estipulado para ingresar al territorio nacional;
 
 12) Conocer del otorgamiento, pérdida y recuperación de la nacionalidad nicaragüense adquirida y ratificación por extensión al vínculo de consanguinidad;
 
@@ -36,7 +36,7 @@ Son atribuciones de la Dirección General de Migración y Extranjería, las sigu
 
 16) Garantizar la custodia en el albergue, a los migrantes irregulares extranjeros durante el periodo en que se determine su situación migratoria, para la deportación o expulsión a su país de origen o a un tercero cuando su vida este en peligro, de acuerdo a las leyes de la materia e instrumentos internacionales de los cuales Nicaragua es parte, garantizando la tutela de sus derechos humanos y el acceso de estas personas a las representaciones consulares de su país y a las organizaciones de derechos humanos estatales o no gubernamentales;
 
-17) Coordinar actividades de supervisión y control con la Policía Nacional, el Ejercito de Nicaragua y otras dependencias públicas para prevenir la migración irregular y la detención de las personas que se dediquen al tráfico de migrantes en situación irregular; o actividad de trata de persona y otros delitos conexos;
+17) Coordinar actividades de supervisión y control con la Policía Nacional, el Ejército de Nicaragua y otras dependencias públicas para prevenir la migración irregular y la detención de las personas que se dediquen al tráfico de migrantes en situación irregular; o actividad de trata de persona y otros delitos conexos;
 
 18) Desarrollar el intercambio de información con organismos homólogos centroamericanos y de otros países para prevenir y combatir el tráfico de migrantes, la trata de personas y otros ilícitos que atenten contra la dignidad de las personas y sus derechos humanos;
 

@@ -1,6 +1,6 @@
 # Artículo 145
 
-Obligación de la Tripulación.
+Obligación de la tripulación
 
 Los tripulantes y el personal de los medios de transporte nacional e internacional que lleguen o salgan del país deberán proveerse de la documentación que acredite su identidad y la condición de estos.
 

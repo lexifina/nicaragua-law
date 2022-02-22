@@ -1,8 +1,10 @@
 # Artículo 135
 
-Personas Exoneradas del Depósito en la Cuenta Bancaria "Fondo Especial de la Dirección General de Migración y Extranjería".
+Personas exoneradas del depósito en la Cuenta Bancaria Fondo
 
-Se exonera del requisito del depósito en la cuenta bancaria "Fondo Especial de la Dirección General de Migración y Extranjería" a:
+Especial de la Dirección General de Migración y Extranjería
+
+Se exonera del requisito del depósito en la cuenta bancaria Fondo Especial de la Dirección General de Migración y Extranjería a:
 
 1) Las personas extranjeras que tengan vínculo de primero y segundo grado de consanguinidad o primero de afinidad con nicaragüenses;
 

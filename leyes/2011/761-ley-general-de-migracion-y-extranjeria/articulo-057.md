@@ -1,5 +1,5 @@
 # Artículo 57
 
-Nacionalidad Extensiva a la Descendencia de Extranjeros Nacionalizados.
+Nacionalidad extensiva a la descendencia de extranjeros nacionalizados
 
-La nacionalidad nicaragüense adquirida por los extranjeros, será extensiva a los hijos e hijas de éstos, menores de veintiún años, que se encuentren bajo su tutela o patria potestad.
+La nacionalidad nicaragüense adquirida por los extranjeros, será extensiva a los hijos e hijas de estos, menores de veintiún años, que se encuentren bajo su tutela o patria potestad.

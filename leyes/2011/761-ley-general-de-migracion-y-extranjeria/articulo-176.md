@@ -1,6 +1,6 @@
 # Artículo 176
 
-De la Prohibición de Reingreso al País.
+De la prohibición de reingreso al país
 
 El extranjero expulsado no podrá reingresar al territorio nacional por el término de cinco años.
 

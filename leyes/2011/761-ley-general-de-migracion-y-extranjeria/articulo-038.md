@@ -1,6 +1,6 @@
 # Artículo 38
 
-Revocación de la Autorización de la Permanencia en el País.
+Revocación de la autorización de la permanencia en el país
 
 La Dirección General de Migración y Extranjería, podrá cancelar o revocar la permanencia en el país, a un no residente o residente cuando:
 
@@ -10,7 +10,7 @@ La Dirección General de Migración y Extranjería, podrá cancelar o revocar la
 
 3) Participe en la política nacional;
 
-4) Se compruebe que su ingreso o egreso al territorio nacional se realizó por lugares no habilitados corno puestos migratorios;
+4) Se compruebe que su ingreso o egreso al territorio nacional se realizó por lugares no habilitados como puestos migratorios;
 
 5) Realice labores remuneradas sin autorización;
 
@@ -24,7 +24,7 @@ La Dirección General de Migración y Extranjería, podrá cancelar o revocar la
 
 10) Su autorización de estancia o permanencia en el país, haya sido obtenida mediante declaración falsa o presentación de documentación fraudulenta;
 
-11) Se compruebe que la residencia fue otorgada con fundamento legal en el vinculo matrimonial con ciudadano o ciudadana nicaragüense, realizado con el fin de obtener beneficio migratorio; o
+11) Se compruebe que la residencia fue otorgada con fundamento legal en el vínculo matrimonial con ciudadano o ciudadana nicaragüense, realizado con el fin de obtener beneficio migratorio; o
 
 12) Por incumplimiento de otras obligaciones establecidas en esta Ley y su Reglamento.
 

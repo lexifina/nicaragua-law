@@ -1,6 +1,6 @@
 # Artículo 79
 
-De la Nulidad del Pasaporte.
+De la nulidad del pasaporte
 
 Se considera nulo el Pasaporte cuando presente una de las siguientes circunstancias:
 

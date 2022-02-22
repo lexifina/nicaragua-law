@@ -1,6 +1,6 @@
 # Artículo 6
 
-Organización y Estructura.
+Organización y Estructura
 
 A la Dirección General de Migración y Extranjería, como órgano del Ministerio de Gobernación, le corresponderá la aplicación de la presente Ley y su Reglamento, así como la ejecución de políticas migratorias vigentes.
 

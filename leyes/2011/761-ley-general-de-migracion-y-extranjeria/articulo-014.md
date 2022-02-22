@@ -1,16 +1,16 @@
 # Artículo 14
 
-Visa Única Centroamericana.
+Visa Única Centroamericana
 
-De conformidad con el Convenio de creación de la Visa Única Centroamericana para la libre movilidad de extranjeros entre las Repúblicas de El Salvador, Guatemala, Honduras y Nicaragua, aprobado por la Asamblea Nacional mediante Decreto A. N. No. 4966, publicado en La Gaceta. Diario Oficial No. 13 del 18 de Enero del 2007 y el Decreto Ejecutivo No. 57-2005 publicado en La Gaceta, Diario Oficial No. 172 del 5 de septiembre de 2005, se establece para fines de exención y obligatoriedad de visa en tres categorías según el origen y naturaleza del documento de viaje.
+De conformidad con el Convenio de Creación de la Visa Única Centroamericana para la libre movilidad de extranjeros entre las Repúblicas de El Salvador, Guatemala, Honduras y Nicaragua, aprobado por la Asamblea Nacional mediante Decreto A. N. Nº. 4966, Se establecen para fines de exención y obligatoriedad de visa, tres categorías, según el origen y naturaleza del documento de viaje: Categoría "A" Exento de visa, Categoría "B" Consular o sin consulta y Categoría "C" Consultada, publicado en La Gaceta, Diario Oficial Nº. 13 del 18 de Enero del 2007 y el Decreto Ejecutivo Nº. 57-2005 publicado en La Gaceta, Diario Oficial Nº. 172 del 5 de septiembre de 2005, se establece para fines de exención y obligatoriedad de visa en tres categorías según el origen y naturaleza del documento de viaje.
 
-Categoría “A” Exento de visa
+Categoría "A" Exento de visa.
 
-Categoria “B” Visa consular sin consulta o visa fronteriza.
+Categoría "B" Visa consular sin consulta o visa fronteriza.
 
-Categoria “C” Visa consultada
+Categoría "C" Visa consultada.
 
-Los nacionales de los países comprendidos en la categoría "A" que porten cualquier tipo de pasaporte no requerirán visa de ingreso al territorio nacional.
+Los nacionales de los países comprendidos en la categoría" A" que porten cualquier tipo de pasaporte no requerirán visa de ingreso al territorio nacional.
 
 Los nacionales de los países comprendidos en la categoría "B" según el tipo de pasaporte que porten, requerirán para su ingreso al territorio nacional visa consular sin consulta o visa fronteriza.
 

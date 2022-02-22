@@ -1,6 +1,6 @@
 # Artículo 95
 
-De las Visas para Nacionales.
+De las visas para nacionales
 
 Se expedirá visa de salida a los nicaragüenses menores de dieciocho años, que viajen fuera del territorio nacional presentando como requisito fundamental el permiso de salida de sus progenitores o tutor, debidamente autorizado por Notario Público.
 

@@ -1,6 +1,6 @@
 # Artículo 110
 
-Requisitos para la salida de personas extranjeras no residentes.
+Requisitos para la salida de personas extranjeras no residentes
 
 Las personas extranjeras no residentes, para salir del territorio nacional deberán cumplir con los siguientes requisitos:
 

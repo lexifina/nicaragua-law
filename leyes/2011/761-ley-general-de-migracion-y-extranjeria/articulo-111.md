@@ -1,6 +1,6 @@
 # Artículo 111
 
-Requisitos para la salida de personas extranjeras residentes.
+Requisitos para la salida de personas extranjeras residentes
 
 Las personas extranjeras residentes, para salir del país por fronteras periféricas, requieren de la visa de salida. Además cumplirán con los siguientes requisitos:
 

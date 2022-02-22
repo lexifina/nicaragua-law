@@ -1,6 +1,6 @@
 # Artículo 12
 
-Obligaciones de las Personas Extranjeras.
+Obligaciones de las personas extranjeras
 
 Las personas naturales extranjeras estarán sujetas a las disposiciones establecidas en la presente Ley, su Reglamento, y en general al ordenamiento jurídico vigente y en especial a las siguientes obligaciones:
 

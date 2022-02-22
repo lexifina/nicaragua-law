@@ -1,6 +1,6 @@
 # Artículo 71
 
-Características del Pasaporte.
+Características del pasaporte
 
 El pasaporte es un documento público, personal, individual e intransferible, que utiliza el titular legítimo a cuyo nombre expide el Estado de Nicaragua para viajar y acreditar en el exterior la identidad y nacionalidad nicaragüense.
 

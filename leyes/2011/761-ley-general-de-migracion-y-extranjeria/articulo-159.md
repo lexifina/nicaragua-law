@@ -1,6 +1,6 @@
 # Artículo 159
 
-Facultades de la Dirección General de Migración y Extranjería.
+Facultades de la Dirección General de Migración y Extranjería
 
 La Dirección General de Migración y Extranjería al declarar en situación irregular la entrada o permanencia de un extranjero, según sea el caso puede:
 

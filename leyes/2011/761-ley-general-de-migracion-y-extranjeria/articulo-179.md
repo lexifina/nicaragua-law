@@ -1,6 +1,6 @@
 # Artículo 179
 
-De la Ejecución de la Extradición.
+De la ejecución de la extradición
 
 En Nicaragua no existe extradición por motivos políticos, ni por delitos comunes conexos con ellos, según la calificación nicaragüense. Los nicaragüenses no podrán ser objeto de extradición del territorio nacional.
 

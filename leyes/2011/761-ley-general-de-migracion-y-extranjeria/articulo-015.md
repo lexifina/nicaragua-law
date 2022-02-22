@@ -1,6 +1,6 @@
 # Artículo 15
 
-Clasificación de los Extranjeros no Residentes.
+Clasificación de los extranjeros no residentes
 
 Son No residentes los extranjeros a quienes la Dirección General de Migración y Extranjería otorgue autorización de ingreso y permanencia en el territorio nacional por un tiempo determinado en la presente Ley y su Reglamento.
 

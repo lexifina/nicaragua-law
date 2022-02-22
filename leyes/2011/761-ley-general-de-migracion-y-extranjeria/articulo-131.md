@@ -1,6 +1,6 @@
 # Artículo 131
 
-Custodia Durante el Plazo de Estancia o Permanencia.
+Custodia durante el plazo de estancia o permanencia
 
 Los Depósitos en Garantía efectuados quedarán en custodia durante el plazo de permanencia autorizado y su valor deberá ser actualizado según las tarifas aéreas vigentes.
 

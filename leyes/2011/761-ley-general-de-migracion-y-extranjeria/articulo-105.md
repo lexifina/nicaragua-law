@@ -1,6 +1,6 @@
 # Artículo 105
 
-De las visas diplomáticas y de invitados.
+De las visas diplomáticas y de invitados
 
 Corresponde al Ministerio de Relaciones Exteriores otorgar las visas diplomáticas y de invitados.
 

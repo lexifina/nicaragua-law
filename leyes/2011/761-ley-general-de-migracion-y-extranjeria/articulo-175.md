@@ -1,6 +1,6 @@
 # Artículo 175
 
-De la Procedencia de la Expulsión.
+De la procedencia de la expulsión
 
 La Dirección General de Migración y Extranjería solicitará al Ministro o Ministra de Gobernación dicte la orden de expulsión en los casos siguientes:
 

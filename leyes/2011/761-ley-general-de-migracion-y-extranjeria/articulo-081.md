@@ -1,6 +1,6 @@
 # Artículo 81
 
-Del Ingreso de Extranjeros con Permiso Vecinal Fronterizo.
+Del ingreso de extranjeros con permiso vecinal fronterizo
 
 El ingreso de extranjeros al territorio nacional con permiso vecinal fronterizo podrá autorizado por la Dirección General de Migración y Extranjería en las zonas limítrofes y adyacentes que determine el Reglamento de la presente Ley.
 

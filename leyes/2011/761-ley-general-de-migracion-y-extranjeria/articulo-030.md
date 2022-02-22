@@ -1,6 +1,6 @@
 # Artículo 30
 
-Categorías de Residentes Permanentes.
+Categorías de residentes permanentes
 
 Los residentes permanentes podrán ser admitidos en alguna de las siguientes sub-categorías migratorias:
 
@@ -12,7 +12,7 @@ Los residentes permanentes podrán ser admitidos en alguna de las siguientes sub
 
 4) Cónyuge, hijos y padres de las personas mencionadas en los incisos anteriores;
 
-5) Extranjeros con vinculo de afinidad o consanguinidad con nicaragüense entendiéndose como tales e] cónyuge, padres e hijos menores;
+5) Extranjeros con vinculo de afinidad o consanguinidad con nicaragüense" entendiéndose como tales el cónyuge, padres e hijos menores;
 
 6) Refugiados;
 

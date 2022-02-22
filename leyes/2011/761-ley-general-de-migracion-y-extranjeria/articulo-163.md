@@ -1,6 +1,6 @@
 # Artículo 163
 
-Notificación del Internamiento y su Permanencia.
+Notificación del internamiento y su permanencia
 
 Determinado el internamiento, se notificará al migrante irregular las causas de su internamiento, a través de resolución administrativa debidamente motivada, notificando también a su representación diplomática o consular, Ministerio de Relaciones Exteriores y Procuraduría para la Defensa de los Derechos Humanos.
 

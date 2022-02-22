@@ -1,6 +1,6 @@
 # Artículo 75
 
-Regulación, Expedición y uso de Documentos Migratorios.
+Regulación, expedición y uso de documentos migratorios
 
 La regulación, expedición y uso de los documentos migratorios, corresponderá al Ministerio de Gobernación por medio de la Dirección General de Migración y Extranjería, de acuerdo con lo dispuesto en la presente Ley y su Reglamento.
 

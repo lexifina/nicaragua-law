@@ -1,6 +1,6 @@
 # Artículo 208
 
-Retiro de los Miembros de la Jefatura Nacional.
+Retiro de los Miembros de la Jefatura Nacional
 
 Los miembros de la Jefatura Nacional de la Dirección General de Migración y Extranjería, pasarán a retiro activo al haberse agotado todas las posibilidades de promoción y rotación aún en aquellos casos en que no hubiesen cumplido el tiempo de servicio activo ni la edad requerida para adquirir la condición de pensionado.
 

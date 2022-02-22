@@ -1,6 +1,6 @@
 # Artículo 151
 
-Obligaciones del Empleador.
+Obligaciones del empleador
 
 A efectos de contratar personal extranjero, todo empleador público o privado, estará obligado a cumplir con las obligaciones que le impongan la legislación laboral vigente, así como la presente Ley y su Reglamento.
 
@@ -12,6 +12,6 @@ También estarán obligados a:
 
 2) Mostrar las planillas y listados de trabajadores, cuando sea requerido por la Dirección General de Migración y Extranjería;
 
-3) Enviar semestralmente a la Dirección General de Migración y Extranjería, informe donde se exprese nombre y apellidos, nacionalidad, cargo, ingreso, término de vigencia del contrato y dirección de los extranjeros que se encuentren laborando para los mismos; e
+3) Enviar semestralmente a la Dirección General de Migración y Extranjería, informe donde se exprese nombre y apellidos, nacionalidad, cargo, ingreso, término de vigencia del contrato y dirección de los extranjeros que se encuentren laborando para los mismos; y
 
 4) Informar a la Dirección General de Migración y Extranjería, la baja laboral de los extranjeros que tenían contratados.

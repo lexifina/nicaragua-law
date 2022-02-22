@@ -1,6 +1,6 @@
 # Artículo 107
 
-Del ingreso de personas extranjeras.
+Del ingreso de personas extranjeras
 
 Las personas extranjeras, para ingresar al territorio nacional deberán cumplir con los siguientes requisitos:
 

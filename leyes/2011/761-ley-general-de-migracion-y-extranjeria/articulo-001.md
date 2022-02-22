@@ -1,6 +1,6 @@
 # Artículo 1
 
-Objeto de la Ley.
+Objeto de la Ley
 
 El objeto de la presente Ley es regular el ingreso de las personas nacionales y extranjeras al territorio de la República de Nicaragua, y el regreso de él, así como la permanencia de las personas extranjeras en el país, sin perjuicio de lo establecido en la Constitución Política de la República de Nicaragua, los tratados y convenios internacionales debidamente ratificados y los acuerdos de integración regional debidamente aprobados.
 

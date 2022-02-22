@@ -1,6 +1,6 @@
 # Artículo 90
 
-de la Falta de Validez de los Documentos de Identidad de las Personas Extranjeras.
+De la falta de validez de los documentos de identidad de las personas extranjeras
 
 No tendrán validez los documentos de identidad de personas extranjeras que presenten falsificaciones, alteraciones o enmiendas de cualquier tipo; que le falten hojas o cubiertas; o que presenten escritos o anotaciones que no correspondan a los oficiales.
 

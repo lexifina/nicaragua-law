@@ -1,6 +1,6 @@
 # Artículo 132
 
-Plazo para la Devolución y Resolución.
+Plazo para la devolución y resolución
 
 La solicitud de la devolución del Depósito en Garantía, se realizará dentro de los sesenta días, a partir de la fecha de la salida definitiva del país de la persona a favor de la cual se constituyó la garantía o de la fecha en que la misma haya adquirido la nacionalidad nicaragüense. La solicitud de devolución la podrá efectuar la persona que solicitó la visa de ingreso al territorio nacional o su representante legal.
 

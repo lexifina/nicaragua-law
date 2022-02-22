@@ -1,6 +1,6 @@
 # Artículo 5
 
-Atribuciones.
+Atribuciones
 
 El Ministerio de Gobernación para efectos de la presente Ley tendrá las atribuciones siguientes:
 

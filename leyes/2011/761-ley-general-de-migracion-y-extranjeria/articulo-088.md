@@ -1,6 +1,6 @@
 # Artículo 88
 
-De la Solicitud de la Cédula de Residencia.
+De la solicitud de la Cédula de Residencia
 
 La Cédula de residente será solicitada por las personas extranjeras ante la Dirección General de Migración y Extranjería dentro del plazo de treinta días a partir de su entrada al país y, en los casos de renovación deberá hacerse con treinta días de anticipación a la fecha de su vencimiento.
 

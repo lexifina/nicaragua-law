@@ -1,8 +1,8 @@
 # Artículo 127
 
-Fondo Especial de Migración.
+Fondo Especial de Migración
 
-Crease el Fondo Especial de Migración para los fines señalados en el párrafo final del artículo 130 de la presente Ley. El Fondo Especial de Migración se capitalizará con los recursos siguientes:
+Crease el Fondo Especial de Migración para los fines señalados en el párrafo final del Artículo 130 de la presente Ley. El Fondo Especial de Migración se capitalizará con los recursos siguientes:
 
 1) Los intereses generados por los Depósitos en Garantía.
 

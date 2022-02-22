@@ -1,6 +1,6 @@
 # Artículo 87
 
-De la Cédula de Residencia.
+De la cédula de residencia
 
 La Dirección General de Migración y Extranjería es el órgano encargado de expedir los documentos de identidad a las personas extranjeras que permanezcan en el territorio nacional en calidad de residente, conforme a los requisitos y procedimientos establecidos en el Reglamento de la presente. Ley.
 

@@ -1,6 +1,6 @@
 # Artículo 117
 
-Ingreso y Permanencia Irregular de una Persona Extranjera.
+Ingreso y permanencia irregular de una persona extranjera
 
 Se considera irregular el ingreso o la permanencia de las personas extranjeras cuando se encuentren en alguna de las situaciones siguientes:
 
@@ -8,7 +8,7 @@ Se considera irregular el ingreso o la permanencia de las personas extranjeras c
 
 2) Que ingrese sin someterse a control migratorio;
 
-3) Que el pasaporte u otro documento migratorio o la visa presentados son falsificados u obtenidos fraudulentamente:
+3) Que el pasaporte u otro documento migratorio o la visa presentados son falsificados u obtenidos fraudulentamente;
 
 4) Que se le haya vencido la permanencia legal en el país; y
 

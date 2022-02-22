@@ -1,8 +1,10 @@
 # Artículo 13
 
-Categorías.
+Categorías
 
-La admisión de extranjeros al territorio nacional se efectuará bajo las siguientes categorías de visas según el motivo de ingreso:
+La admisión de extranjeros al territorio nacional se efectuará bajo las siguientes categorías de visas según el motivo de
+
+ingreso:
 
 1) Diplomáticos;
 

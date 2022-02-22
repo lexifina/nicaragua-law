@@ -1,6 +1,6 @@
 # Artículo 69
 
-Publicación y Comunicación a otras Entidades.
+Publicación y comunicación a otras entidades
 
 La resolución de ratificación de la nacionalidad otorgada por la Dirección General de Migración y Extranjería, surtirá efectos legales a partir de su publicación en La Gaceta, Diario Oficial.
 

@@ -1,6 +1,6 @@
 # Artículo 59
 
-Refrendo del Ministro o de la Ministra de Gobernación.
+Refrendo del Ministro o de la Ministra de Gobernación
 
 Las resoluciones de otorgamiento de la nacionalidad nicaragüense serán firmadas por la persona a cargo de la Dirección General y refrendadas por el Ministro o la Ministra de Gobernación.
 

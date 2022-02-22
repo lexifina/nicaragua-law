@@ -1,6 +1,6 @@
 # Artículo 193
 
-Clasificación de la Jerarquía de Cargos.
+Clasificación de la Jerarquía de Cargos
 
 La Jerarquía de los cargos en la Dirección General de Migración y Extranjería se clasifica de la siguiente manera:
 
@@ -26,7 +26,9 @@ Las Direcciones, Divisiones y Delegaciones Regionales podrán contar con el carg
 
 2) CARGOS EJECUTIVOS: Sus funciones principales son técnicas y de ejecución de las tareas que contribuyen a la consecución de metas y objetivos institucionales, en base a la superación personal, académica, técnica y profesional que se constituyen en la cadena de relevos y desarrollo personal e institucional para la promoción en cargo y grado, bajo los principios de disciplina, responsabilidad y eficiencia.
 
-Estos cargos ejecutivos se clasifican por su naturaleza en propios y comunes, por los que para efectos de la presente Ley, denominaremos los cargos propios que son aquellos puestos que desarrollan funciones propias de la especialidad migratoria. Estos se clasifican jerárquicamente en:
+Estos cargos ejecutivos se clasifican por su naturaleza en propios y comunes, por los que, para efectos de la presente Ley, denominaremos los cargos propios que son aquellos puestos que desarrollan funciones propias de la especialidad migratoria.
+
+Estos se clasifican jerárquicamente en:
 
 a) Agregado o Agregada Migratorios;
 

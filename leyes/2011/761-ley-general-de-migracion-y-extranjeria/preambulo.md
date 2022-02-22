@@ -1,16 +1,24 @@
-LEY N°. 761, LEY GENERAL DE MIGRACIÓN Y EXTRANJERÍA
+TEXTO CONSOLIDADO, LEY N°. 761, LEY GENERAL DE MIGRACIÓN Y EXTRANJERÍA
 
-Aprobada el 31 de marzo de 2011
+Aprobado el 27 de mayo de 2021
 
-Publicada en La Gaceta, Diario Oficial N°. 125 y 126 del 6 y 7 de julio de 2011
+Publicado en La Gaceta, Diario Oficial N°. 34 del 22 de febrero de 2022
 
-LEY No. 761
+Digesto Jurídico Nicaragüense de la Materia Orden Interno
 
-El Presidente de la República de Nicaragua
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 27 de mayo de 2021, de la Ley Nº. 761, Ley General de Migración y Extranjería, aprobada el 31 de marzo de 2011 y publicada en La Gaceta, Diario Oficial Nº. 125 y 126 del 6 y 7 de julio de 2011, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1074, Ley del Digesto Jurídico Nicaragüense de la Materia Orden Interno, aprobada el 27 de mayo de 2021.
+
+LEY N°. 761
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
 A sus habitantes, Sabed:
 
 Que,
+
+La Asamblea Nacional de la República de Nicaragua
+
+Ha ordenado lo siguiente:
 
 LA ASAMBLEA NACIONAL
 
@@ -22,7 +30,7 @@ Que la actual legislación migratoria y de extranjería no incorpora los comprom
 
 II
 
-Que la Constitución Política de Nicaragua en su artículo 46 reconoce que en territorio nacional toda persona goza de la protección estatal y del reconocimiento de los derechos inherentes a la persona humana, del irrestricto respeto, promoción y vigencia de los derechos consignados en la Declaración Universal de los Derechos Humanos; en la Declaración Americana de Derechos y Deberes del Hombre; en el Pacto Internacional de Derechos Económicos, Sociales y Culturales; en el Pacto Internacional de Derechos Civiles y Políticos de la Organización de Naciones Unidas; y en la Convención Americana de Derechos Humanos de la Organización de las Naciones Unidas.
+Que la Constitución Política de Nicaragua en su Artículo 46 reconoce que en territorio nacional toda persona goza de la protección estatal y del reconocimiento de los derechos inherentes a la persona humana, del irrestricto respeto, promoción y vigencia de los derechos consignados en la Declaración Universal de los Derechos Humanos; en la Declaración Americana de Derechos y Deberes del Hombre; en el Pacto Internacional de Derechos Económicos, Sociales y Culturales; en el Pacto Internacional de Derechos Civiles y Políticos de la Organización de Naciones Unidas; y en la Convención Americana de Derechos Humanos de la Organización de las Naciones Unidas.
 
 III
 

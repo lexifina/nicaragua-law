@@ -1,6 +1,6 @@
 # Artículo 161
 
-De los Centros de Albergue de Migrantes.
+De los Centros de Albergue de Migrantes
 
 Las personas migrantes en situación irregular serán retenidos en locales de uso exclusivo para tal fin, designados como Centros de Albergue de Migrantes bajo la administración y custodia de las autoridades de la Dirección General de Migración y Extranjería, debiéndose adoptar las normas y medidas de seguridad pertinentes hasta la deportación a su país de origen o procedencia, una vez que el Consulado de su respectivo país les haya entregado la documentación y que hayan obtenido su boleto de retorno para su embarque bajo la custodia de las autoridades migratorias.
 

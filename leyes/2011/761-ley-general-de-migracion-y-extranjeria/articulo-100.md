@@ -1,6 +1,6 @@
 # Artículo 100
 
-De la clasificación de las visas.
+De la clasificación de las visas
 
 Las visas se clasifican en:
 

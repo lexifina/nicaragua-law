@@ -1,6 +1,6 @@
 # Artículo 171
 
-Deportación.
+Deportación
 
 La deportación es el acto administrativo dispuesto por el Director o Directora General de Migración y Extranjería, en el que ordena poner fuera del territorio nacional, a una persona extranjera que se encuentra en cualquiera de las siguientes causales:
 

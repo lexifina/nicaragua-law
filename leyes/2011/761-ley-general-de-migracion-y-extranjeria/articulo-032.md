@@ -1,6 +1,6 @@
 # Artículo 32
 
-Inmigrante Inversionista.
+Inmigrante inversionista
 
 La condición de inmigrante con capital o inversionista será determinada por el Ministerio de Fomento Industria y Comercio a través de certificado de inscripción.
 

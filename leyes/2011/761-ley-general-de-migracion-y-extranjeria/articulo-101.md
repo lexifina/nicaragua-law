@@ -1,6 +1,6 @@
 # Artículo 101
 
-De las visas consultadas.
+De las visas consultadas
 
 Las visas consultadas regulan el ingreso al territorio nacional de personas extranjeras con ciudadanía de países restringidos.
 

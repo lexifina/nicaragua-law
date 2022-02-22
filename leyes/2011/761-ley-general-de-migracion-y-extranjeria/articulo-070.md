@@ -1,6 +1,6 @@
 # Artículo 70
 
-Documentos Migratorios para Nacionales.
+Documentos migratorios para nacionales
 
 Se consideran documentos migratorios para nacionales los siguientes:
 

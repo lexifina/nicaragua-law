@@ -1,6 +1,6 @@
 # Artículo 199
 
-Derechos.
+Derechos
 
 Para los efectos de la presente Ley y su reglamento son derechos de los miembros de la Dirección General de Migración y Extranjería los siguientes:
 

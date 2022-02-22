@@ -1,6 +1,6 @@
 # Artículo 22
 
-Estadía para Personas Extranjeras no Residentes.
+Estadía para personas extranjeras no residentes
 
 La estadía otorgada a un extranjero al momento de ingresar al país se determina por los instrumentos internacionales suscritos por Nicaragua, resoluciones y circulares emitidas por el Ministerio de Gobernación o en su caso, por la Dirección General de Migración y Extranjería.
 

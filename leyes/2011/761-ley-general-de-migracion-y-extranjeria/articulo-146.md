@@ -1,6 +1,6 @@
 # Artículo 146
 
-Autorización de Permanencia en Casos Especiales.
+Autorización de permanencia en casos especiales
 
 La Dirección General de Migración y Extranjería podrá autorizar la permanencia en el país de un extranjero que labore para uno de los medios de transporte internacional por el plazo necesario para el desarrollo de las labores propias de su cargo.
 

@@ -1,6 +1,6 @@
 # Artículo 113
 
-Causales del Rechazo.
+Causales del rechazo
 
 El ingreso de un extranjero será objeto de rechazo cuando ocurra una de las siguientes causales:
 
@@ -12,7 +12,7 @@ El ingreso de un extranjero será objeto de rechazo cuando ocurra una de las sig
 
 4) Haber sido deportados o expulsados y su impedimento de entrada se encuentre vigente;
 
-5) Haber sido condenados, por tribunales nacionales por delitos tales como: tráfico de personas, narcotráfico, terrorismo, trata, tráfico y trasiego de armas o explosivos, asociación ilícita para delinquir y del dos de abuso sexual;
+5) Haber sido condenados, por tribunales nacionales por delitos tales como: tráfico de personas, narcotráfico, terrorismo, trata, tráfico y trasiego de armas o explosivos, asociación ilícita para delinquir y delitos de abuso sexual;
 
 6) Tráfico ilegal del patrimonio cultural y evasión fiscal;
 
@@ -22,7 +22,7 @@ El ingreso de un extranjero será objeto de rechazo cuando ocurra una de las sig
 
 9) Cuando no presente la documentación exigida para autorizar su ingreso;
 
-10) Cuándo se constatare la existencia de alguna de las causales de inadmisión en relación a su categoría de entrada; y
+10) Cuando se constatare la existencia de alguna de las causales de inadmisión en relación a su categoría de entrada; y
 
 11) Cuando fuera sorprendido intentando ingresar al territorio nacional, eludiendo el control migratorio o por lugar no habilitado.
 

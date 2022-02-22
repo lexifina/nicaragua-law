@@ -1,6 +1,6 @@
 # Artículo 4
 
-Funciones del Consejo Nacional de Migración y Extranjería.
+Funciones del Consejo Nacional de Migración y Extranjería
 
 Son funciones del Consejo Nacional de Migración y Extranjería:
 
@@ -14,7 +14,7 @@ Son funciones del Consejo Nacional de Migración y Extranjería:
 
 5) Velar porque la inmigración contribuya al desarrollo económico y social de Nicaragua y que los inmigrantes respeten la Constitución Política y las leyes de la República; y
 
-6) Recomendar el diseño de acciones y programas estatales y privados que promuevan el vínculo con el país así como la inserción de los nicaragüenses residentes en el exterior.
+6) Recomendar el diseño de acciones y programas estatales y privados que promuevan el vínculo con el país, así como la inserción de los nicaragüenses residentes en el exterior.
 
 ATRIBUCIONES Y ORGANIZACIÓN
 

@@ -1,6 +1,6 @@
 # Artículo 149
 
-Reservación de Cupos para Personas Extranjeras.
+Reservación de cupos para personas extranjeras
 
 Las empresas transportadoras nacionales e internacionales con representación comercial en Nicaragua o aquellas que realicen escalas en los puestos migratorios, puertos y aeropuertos internacionales, están obligadas a reservar a favor del Estado de Nicaragua cupos para los extranjeros que vayan a ser deportados, expulsados o repatriados a su lugar de origen o procedencia.
 

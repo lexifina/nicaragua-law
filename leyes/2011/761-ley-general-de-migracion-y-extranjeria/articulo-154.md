@@ -1,6 +1,6 @@
 # Artículo 154
 
-De las Multas y Sanciones.
+De las multas y sanciones
 
 Las multas y sanciones aplicables a los empleadores que incumplan con lo establecido en la presente Ley, están determinadas en la misma, sin perjuicio de las acciones civiles y penales contempladas en nuestra legislación.
 

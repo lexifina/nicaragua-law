@@ -1,6 +1,6 @@
 # Artículo 173
 
-De la Determinación y Ejecución de la Deportación.
+De la determinación y ejecución de la deportación
 
 La determinación y ejecución de la deportación se realizará según lo establecido en la presente Ley y su Reglamento.
 

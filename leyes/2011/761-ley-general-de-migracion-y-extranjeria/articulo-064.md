@@ -1,6 +1,6 @@
 # Artículo 64
 
-Pérdida de la Nacionalidad Adquirida por Nacionalización.
+Pérdida de la nacionalidad adquirida por nacionalización
 
 La nacionalidad nicaragüense adquirida por nacionalización se perderá en los siguientes casos:
 
@@ -18,6 +18,6 @@ La nacionalidad nicaragüense adquirida por nacionalización se perderá en los 
 
 La pérdida de la nacionalidad nicaragüense adquirida a que se refieren los numerales 1), 2), 3) y 4) precedentes, la decretará el Ministro o Ministra de Gobernación.
 
-La pérdida de la nacionalidad nicaragüense adquirida por las causales contempladas en los numerales 5) y 6) del presente artículo la tramitará el Ministerio de Gobernación a iniciativa del Procurador General de la República. Se concederá audiencia por tercero día al afectado, y si éste lo solicitare se abrirá a pruebas por ocho días improrrogables, dictándose la correspondiente resolución dentro de las siguientes veinticuatro horas sin recurso alguno; de no haber resolución de la autoridad competente en el termino establecido operará el silencio administrativo a favor del afectado.
+La pérdida de la nacionalidad nicaragüense adquirida por las causales contempladas en los numerales 5) y 6) del presente Artículo la tramitará el Ministerio de Gobernación a iniciativa del Procurador General de la República. Se concederá audiencia por tercero día al afectado, y si este lo solicitare se abrirá a pruebas por ocho días improrrogables, dictándose la correspondiente resolución dentro de las siguientes veinticuatro horas sin recurso alguno; de no haber resolución de la autoridad competente en el término establecido operará el silencio administrativo a favor del afectado.
 
 DE LA RECUPERACIÓN DE LA NACIONALIDAD NICARAGÜENSE

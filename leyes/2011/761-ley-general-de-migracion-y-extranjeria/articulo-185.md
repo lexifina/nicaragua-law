@@ -1,6 +1,6 @@
 # Artículo 185
 
-De la Estructura Orgánica.
+De la Estructura Orgánica
 
 La Dirección General de Migración y Extranjería, para el cumplimiento de sus funciones contará con la estructura siguiente:
 
@@ -8,9 +8,13 @@ La Dirección General de Migración y Extranjería, para el cumplimiento de sus 
 
 Director o Directora General;
 
-Subdirector o Subdirectora General; e Inspector o Inspectora General.
+Subdirector o Subdirectora General; e
 
-2. Estructuras de Especialidades Nacionales: Dirección de Migración:
+Inspector o Inspectora General.
+
+2. Estructuras de Especialidades Nacionales:
+
+Dirección de Migración;
 
 Dirección de Extranjería;
 
@@ -26,7 +30,7 @@ División de Recursos Humanos;
 
 División de Desarrollo Institucional;
 
-División de Informática;
+División de Informática,
 
 División Administrativa Financiera;
 

@@ -1,6 +1,6 @@
 # Artículo 130
 
-Controles sobre los Depósitos.
+Controles sobre los depósitos
 
 A efectos de mantener un manejo y control adecuado de la cuenta bancaria "Fondo Especial de la Dirección General de Migración y Extranjería", la Dirección General de Migración y Extranjería deberá:
 

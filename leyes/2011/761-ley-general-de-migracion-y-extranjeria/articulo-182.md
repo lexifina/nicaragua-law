@@ -1,6 +1,6 @@
 # Artículo 182
 
-Del Recurso de Apelación.
+Del Recurso de Apelación
 
 El recurso de apelación se interpondrá ante la Dirección General de Migración y Extranjería, en un término de seis días hábiles después de notificado, dicha dependencia remitirá el recurso junto con su informe ante el Ministro o Ministra de Gobernación en un término de diez días.
 

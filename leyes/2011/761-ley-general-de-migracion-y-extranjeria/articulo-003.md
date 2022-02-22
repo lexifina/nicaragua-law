@@ -1,6 +1,6 @@
 # Artículo 3
 
-Del Consejo Nacional de Migración y Extranjería.
+Del Consejo Nacional de Migración y Extranjería
 
 Créase el Consejo Nacional de Migración y Extranjería, que en lo que sigue de la Ley se denominará como el Consejo, como órgano de asesoría y consulta de la Presidencia de la República para la elaboración de Políticas Públicas en materia migratoria, el que estará integrado de la siguiente forma:
 

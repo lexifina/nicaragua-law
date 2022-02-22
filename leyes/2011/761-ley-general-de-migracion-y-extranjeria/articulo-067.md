@@ -1,6 +1,6 @@
 # Artículo 67
 
-Ratificación de Nacionalidad de Menores de Edad Adquirida por Extensión del Vinculo.
+Ratificación de nacionalidad de menores de edad adquirida por extensión del vínculo
 
 La ratificación de la nacionalidad, se aplica en los casos de extranjeros menores de edad que adquirieron la nacionalidad nicaragüense por extensión del vínculo de sus padres nacionalizados nicaragüenses.
 

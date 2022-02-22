@@ -1,6 +1,6 @@
 # Artículo 42
 
-Institución Responsable.
+Institución responsable
 
 El Registro Nacional de Extranjeros, estará a cargo de la Dirección General de Migración y Extranjería.
 
