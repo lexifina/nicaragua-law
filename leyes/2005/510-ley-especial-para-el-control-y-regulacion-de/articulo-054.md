@@ -1,6 +1,6 @@
 # Artículo 54
 
-Medidas de seguridad e inscripción de asociaciones.
+Medidas de seguridad e inscripción de asociaciones
 
 La Autoridad de Aplicación de la presente Ley controlará las medidas de seguridad pertinente al manejo de los museos en donde se exhiban armas de fuego, municiones, explosivos y otros materiales relacionados, de conformidad a las normas establecidas en la presente Ley y su Reglamento.
 

@@ -1,6 +1,6 @@
 # Artículo 56
 
-Custodia de las armas de colección.
+Custodia de las armas de colección
 
 El coleccionista deberá responder por la custodia de las armas de fuego, garantizando las medidas de seguridad necesarias para prevenir robos, deterioro o pérdidas. Las armas de fuego que integren cualquier colección pueden ser enajenadas, informando de previo al órgano correspondiente de la Policía Nacional.
 

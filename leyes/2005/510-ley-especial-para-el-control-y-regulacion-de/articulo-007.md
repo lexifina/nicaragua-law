@@ -1,6 +1,6 @@
 # Artículo 7
 
-Nombramiento del Registrador.
+Nombramiento del Registrador
 
 El Director General de la Policía Nacional, a propuesta de la Jefatura Nacional de la Institución, nombrará al Registrador Nacional de armas de fuego, municiones, explosivos y demás materiales relacionados, y demás personal de éste.
 

@@ -1,6 +1,6 @@
 # Artículo 29
 
-Requisitos generales para la tramitación y obtención de licencias.
+Requisitos generales para la tramitación y obtención de licencias
 
 Para tramitar la solicitud de cualquiera de los tipos de licencias que regula la presente ley y su reglamento, la persona interesada deberá presentar, cumplir y/o acreditar los requisitos generales que se establecen en este artículo, sin perjuicio de otros requisitos particulares que se detallan en los acápites específicos de acuerdo con el tipo de licencia solicitado.
 
@@ -26,7 +26,7 @@ l.- Requisitos generales para licencias que autoricen la posesión y portación 
 
 10. Copia del recibo de pago de los aranceles correspondientes.
 
-ll. Requisitos generales para licencias con fines comerciales:
+II. Requisitos generales para licencias con fines comerciales:
 
 1. Comprar y llenar el formulario policial en el que se debe detallar, entre otros aspectos, datos del solicitante, nombre y apellidos si es persona natural o razón social de la empresa o institución si es persona jurídica, su domicilio legal, detalles de su credencial como persona jurídica, tipo de licencia que solicita y otros requisitos que reglamentariamente establezca la autoridad de aplicación de la ley;
 

@@ -1,6 +1,6 @@
 # Artículo 70
 
-Armerías y su funcionamiento.
+Armerías y su funcionamiento
 
 Para los fines y efectos de la presente Ley y su Reglamento y las normas administrativas que se deriven de éstos, se entenderá como armería cualquier establecimiento que se dedique a la reparación o mantenimiento de armas de fuego de uso civil o al rellenado de cartuchos.
 

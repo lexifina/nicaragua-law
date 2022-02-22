@@ -1,6 +1,6 @@
 # Artículo 68
 
-Tenencia y portación.
+Tenencia y portación
 
 Las personas naturales o jurídicas prestadoras de los servicios de vigilancia, protección y seguridad privada primero deben obtener las respectivas licencias de empresas prestadoras de servicios de vigilancia y seguridad privada y posteriormente podrán tramitar las licencias para la adquisición, tenencia de armas de fuego de uso civil para ser usadas por sus guardas o agentes.
 

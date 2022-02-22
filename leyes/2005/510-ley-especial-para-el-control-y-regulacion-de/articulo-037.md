@@ -1,6 +1,6 @@
 # Artículo 37
 
-Posesión y validez.
+Posesión y validez
 
 De conformidad a la presente Ley y su Reglamento, podrán poseer armas de fuego para uso civil, las personas, sean estas naturales o jurídicas, públicas o privadas, nicaragüenses o extranjeras con residencia en el país, además también podrán tenerlas con fines deportivos, de caza y para la protección de objetivos económicos y centros públicos.
 

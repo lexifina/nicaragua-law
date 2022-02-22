@@ -1,6 +1,6 @@
 # Artículo 57
 
-Información a la autoridad.
+Información a la autoridad
 
 Los miembros directivos de las asociaciones de coleccionistas de armas de fuego deben de presentar anualmente a la autoridad de aplicación de la presente Ley y su Reglamento, la lista de sus miembros asociados y el inventario de cada una de las diferentes armas de fuego en poder de cada uno.
 

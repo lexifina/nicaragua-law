@@ -1,6 +1,6 @@
 # Artículo 27
 
-Pago de arancel por derecho de licencia.
+Pago de arancel por derecho de licencia
 
 Para los fines y efectos de la presente Ley y su Reglamento, el arancel por la emisión de licencias de uso privado para personas naturales será de ciento sesenta córdobas, excepto la de coleccionista que será de trescientos cincuenta córdobas por cada arma que integre la colección. El arancel de licencia de armas de fuego para protección de objetivos y/o servicios de vigilancias tendrá el mismo valor que las licencias para coleccionistas.
 

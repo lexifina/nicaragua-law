@@ -1,6 +1,6 @@
 # Artículo 32
 
-Retención de las armas de fuego.
+Retención de las armas de fuego
 
 Se autoriza a la Policía Nacional para que incaute, retenga y decomise cualquier tipo de arma de fuego, municiones, explosivos y otros materiales relacionados que se encuentren sin la licencia al momento de ser requerida por la autoridad correspondiente, que les habilite para su tenencia, o la constancia de que esta se encuentra en trámite; caso contrario el propietario o poseedor deberá aclarar el origen, procedencia y situación de dichos objetos.
 

@@ -1,6 +1,6 @@
 # Artículo 3
 
-Creación de Especialidad.
+Creación de Especialidad
 
 Créase la Dirección de Registro y Control de Armas de Fuego, Municiones, Explosivos y Materiales relacionados, la cual se podrá identificar como DAEM, dependencia que se constituye en una Especialidad de la Policía Nacional, la que tendrá representación en las diferentes delegaciones de la institución policial del país de conformidad a la estructura de ésta.
 

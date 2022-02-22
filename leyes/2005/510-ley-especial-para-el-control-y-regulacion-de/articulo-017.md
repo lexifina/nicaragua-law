@@ -1,6 +1,6 @@
 # Artículo 17
 
-Clasificación de sustancias.
+Clasificación de sustancias
 
 Para los fines y efectos de la presente Ley y su Reglamento, las sustancias explosivas se clasifican en los grupos siguientes:
 

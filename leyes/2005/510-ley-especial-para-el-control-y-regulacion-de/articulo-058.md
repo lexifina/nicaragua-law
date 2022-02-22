@@ -1,6 +1,6 @@
 # Artículo 58
 
-Polígono de tiro.
+Polígono de tiro
 
 Para los fines y efectos de la presente Ley y su Reglamento, se entiende por polígono de tiro aquellas instalaciones para la práctica de tiro ubicadas en locales abiertos o cerrados para el uso público o privado, en donde la práctica de tiro con cualquier arma de fuego constituye su objetivo principal.
 

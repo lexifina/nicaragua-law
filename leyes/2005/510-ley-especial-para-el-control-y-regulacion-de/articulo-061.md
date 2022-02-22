@@ -1,8 +1,8 @@
 # Artículo 61
 
-Libro de registro en los polígonos.
+Libro de registro en los polígonos
 
-La administración de los polígonos o instalaciones para la práctica de tiro, deben de llevar un libro de registro mediante el cual se lleve control de los usuarios, este libro debe ser registrado y autorizado por el Registro Nacional de Armas de fuego en cual se debe hacer constar los datos correspondientes a los usuarios y de sus respectivas licencias de tenencia y portación de armas de fuego que se empleen en el polígono; en el libro se debe hacer constar lo siguiente:
+La administración de los polígonos o instalaciones para la práctica de tiro, deben de llevar un libro de registro mediante el cual se lleve control de los usuarios, este libro debe ser registrado y autorizado por el Registro Nacional de Armas de fuego en el cual se debe hacer constar los datos correspondientes a los usuarios y de sus respectivas licencias de tenencia y portación de armas de fuego que se empleen en el polígono; en el libro se debe hacer constar lo siguiente:
 
 1. Generales de ley de cada uno de los usuarios;
 

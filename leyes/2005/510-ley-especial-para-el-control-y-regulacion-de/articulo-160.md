@@ -1,6 +1,6 @@
 # Artículo 160
 
-Presentación de informe.
+Presentación de informe
 
 Las personas objeto de las regulaciones establecidas en la presente Ley y su Reglamento están obligadas a presentar anualmente a la Autoridad de Aplicación de esta Ley, durante el período de vigencia del registro y en un plazo no mayor de treinta días, contados a partir de la fecha de emisión del respectivo registro, un informe que debe de ser coincidente con el formulario establecido por disposición reglamentaria, en dicho formato se debe describir y hacer constar de forma enumerativa las cantidades, tipos, clasificación, valor, identificación de proveedores y compradores de armas de fuego, municiones, explosivos y sus accesorios, así como los demás materiales relacionados; partes, y componentes de las armas de fuego que hagan directa o indirectamente. De igual forma se deben de reflejar todas las transacciones en las que hubiese participado. Este formulario y su contenido tienen carácter de declaración jurada.
 

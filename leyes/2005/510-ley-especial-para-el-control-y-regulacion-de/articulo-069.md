@@ -1,6 +1,6 @@
 # Artículo 69
 
-Entrega y depósito de las armas de fuego.
+Entrega y depósito de las armas de fuego
 
 En los casos en que las personas naturales o jurídicas prestadoras de los servicios de vigilancia, protección y seguridad privada se disuelvan o suspendan sus actividades, el representante legal debe de informar del hecho mediante un escrito notariado, dentro de los subsiguientes cinco días a la Autoridad de Aplicación de la Ley, a la cual le deben de entregar, en calidad de depósito, las armas de fuego y sus municiones respectivas.
 

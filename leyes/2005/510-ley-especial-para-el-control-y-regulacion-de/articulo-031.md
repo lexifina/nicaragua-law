@@ -1,6 +1,6 @@
 # Artículo 31
 
-Uso de otro tipo de licencia.
+Uso de otro tipo de licencia
 
 Se prohíbe a las personas naturales o jurídicas el uso de otro tipo de licencia que no sea la especificada y autorizado por la Autoridad de Aplicación de la presente ley y su reglamento. En los casos de importación, exportaciones, comercialización y demás actividades de intermediación de armas de fuego, municiones, explosivos y demás materiales relacionados se debe obtener la licencia respectiva.
 

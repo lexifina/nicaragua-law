@@ -1,6 +1,6 @@
 # Artículo 40
 
-Renovación.
+Renovación
 
 El titular de cualquiera de las licencias de armas de fuego que desee su renovación, deberá demostrar que las circunstancias que dieron origen a su otorgamiento aún prevalecen y debe de presentar los documentos siguientes:
 

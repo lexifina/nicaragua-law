@@ -1,6 +1,6 @@
 # Artículo 114
 
-Casos en que se prohíbe la intermediación.
+Casos en que se prohíbe la intermediación
 
 Para los fines y efectos de la presente Ley y su Reglamento se prohíbe la práctica de la intermediación en los casos siguientes:
 

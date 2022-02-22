@@ -1,10 +1,10 @@
 # Artículo 109
 
-Ingreso o salida de armas de fuego con fines deportivos o turísticos.
+Ingreso o salida de armas de fuego con fines deportivos o turísticos
 
-El ingreso o salida de armas de fuego y municiones permitidas por la presente Ley, será permitido siempre y cuando sea para fines deportivos. Se les podrá otorgar licencias para tener armas de fuego a los ciudadanos extranjeros en tránsito por el territorio nacional, los cuales bajo ninguna circunstancias podrán circular portando estas sin la respectiva licencia o permiso pertinente.
+El ingreso o salida de armas de fuego y municiones permitidas por la presente Ley, será permitido siempre y cuando sea para fines deportivos. Se les podrá otorgar licencias para tener armas de fuego a los ciudadanos extranjeros en tránsito por el territorio nacional, los cuales bajo ninguna circunstancia podrán circular portando estas sin la respectiva licencia o permiso pertinente.
 
-Los interesados deben de obtener una licencia o permiso de ingreso o salida eventual de armas de fuego y municiones otorgado por la Dirección de Control de Armas de Fuego, Explosivos y Materiales Relacionados de la Policía Nacional, cuya vigencia en ningún caso será mayor de quince días.
+Los interesados deben de obtener una licencia o permiso de ingreso o salida eventual de armas de fuego y municiones otorgado por la Dirección de Registro y Control de Armas de Fuego, Explosivos y Materiales Relacionados de la Policía Nacional, cuya vigencia en ningún caso será mayor de quince días.
 
 En caso de ingreso eventual o para un ciudadano extranjero en tránsito, la licencia o permiso solamente ampara el ingreso de hasta cuatro armas de fuego y doscientos cartuchos para las mismas. El uso que se dé a éstas armas y municiones debe ser estrictamente el establecido en la licencia o permiso; en los casos de cualquier modificación o cambio que deba de realizarse en el uso establecido, se debe de tramitar nuevamente la licencia o permiso.
 

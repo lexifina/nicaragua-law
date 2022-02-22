@@ -1,6 +1,6 @@
 # Artículo 65
 
-Prohibición para los polígonos de tiro.
+Prohibición para los polígonos de tiro
 
 En los polígonos de tiro se prohíbe lo siguiente:
 

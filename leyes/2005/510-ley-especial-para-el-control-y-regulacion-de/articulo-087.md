@@ -1,6 +1,6 @@
 # Artículo 87
 
-Responsables.
+Responsables
 
 Los directores, funcionarios o empleados que ocupen cargos de dirección o responsabilidades en el funcionamiento de las fábricas de artefactos pirotécnicos, explosivos, o sustancias que puedan utilizarse para fabricar explosivos, son los encargados del proceso de supervisión por el debido funcionamiento de éstas y el cumplimiento de las normas de carácter general y las medidas especiales de seguridad previstas en el Reglamento de la presente Ley durante el proceso de fabricación, almacenamiento y traslado de los artefactos.
 

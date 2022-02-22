@@ -1,6 +1,6 @@
 # Artículo 52
 
-Coleccionista de armas de fuego.
+Coleccionista de armas de fuego
 
 Podrán ser coleccionistas de armas de fuego, las personas naturales o jurídicas que lo deseen, siempre que cuente con una licencia que los acredite como tal.
 

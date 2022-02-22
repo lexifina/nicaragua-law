@@ -1,6 +1,6 @@
 # Artículo 113
 
-Autorización para la intermediación.
+Autorización para la intermediación
 
 Para los fines y efectos de la presente Ley y su Reglamento, se consideran intermediarios aquellas personas naturales o jurídicas que a cambio de contraprestación económica o financiera ventaja, comisiones, o de otra naturaleza se dedique a lo siguiente:
 

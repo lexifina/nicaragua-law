@@ -1,6 +1,6 @@
 # Artículo 15
 
-Imposibilitados para adquirir, tener o portar armas de fuego de uso civil.
+Imposibilitados para adquirir, tener o portar armas de fuego de uso civil
 
 Para los fines y efectos de la presente y su Reglamento, la adquisición, tenencia o portación de armas de fuego no les será permitido a las personas que estén comprendidas en los supuestos siguientes:
 

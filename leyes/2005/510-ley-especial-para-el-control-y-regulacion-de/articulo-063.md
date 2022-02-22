@@ -1,6 +1,6 @@
 # Artículo 63
 
-Normas técnicas básicas.
+Normas técnicas básicas
 
 Sin perjuicio de cualquier otra disposición o normativa establecida en el Reglamento de la Ley por parte de la Autoridad de Aplicación de la ésta y su Reglamento, se consideran normas técnicas básicas obligatorias, las siguientes:
 
@@ -16,4 +16,4 @@ Sin perjuicio de cualquier otra disposición o normativa establecida en el Regla
 
 6. En las instalaciones cerradas será necesario disponer de un sistema de extracción de gases y humo y que las paredes y techo del local sean de tal consistencia que permitan la eliminación de cualquier tipo de peligro hacia el exterior del local;
 
-En los casos de los polígonos de tiro ubicados zonas urbanizadas, estos deben de ser acondicionados acústicamente para que no se altere el ambiente de los alrededores del local, para esto contarán con un plazo de quince días, caso contrario serán clausurados.
+En los casos de los polígonos de tiro ubicados en zonas urbanizadas, estos deben de ser acondicionados acústicamente para que no se altere el ambiente de los alrededores del local, para esto contarán con un plazo de quince días, caso contrario serán clausurados.

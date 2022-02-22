@@ -1,6 +1,6 @@
 # Artículo 6
 
-Creación del Registro Nacional de Armas de Fuego, Municiones, Explosivos y otros materiales relacionados.
+Creación del Registro Nacional de Armas de Fuego, Municiones, Explosivos y otros materiales relacionados
 
 Créase y organizase el Registro Nacional de Armas de Fuego, Municiones, Explosivos y otros materiales relacionados como una dependencia de la autoridad de aplicación de la presente Ley y su Reglamento. El Registro y su respectivo banco de datos deben funcionar de forma de red, automatizada con una base de datos electrónica que contenga la siguiente información sobre el arma y su propietario:
 

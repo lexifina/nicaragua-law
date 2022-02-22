@@ -1,8 +1,8 @@
 # Artículo 97
 
-Requisitos adicionales para obtener licencia de comercio de armas de fuego, municiones, o explosivos.
+Requisitos adicionales para obtener licencia de comercio de armas de fuego, municiones, o explosivos
 
-Las personas interesadas en la obtención de la licencia de comercio de armas de fuego, municiones o explosivos y otros materiales relacionados deben acreditar además de los requisitos generales establecidos en el artículo 29 de la presente Ley, los especiales siguientes:
+Las personas interesadas en la obtención de la licencia de comercio de armas de fuego, municiones o explosivos y otros materiales relacionados, deben acreditar además de los requisitos generales establecidos en el Artículo 29 de la presente Ley, los especiales siguientes:
 
 1. Poseer y documentar un capital social mínimo correspondiente al 30% de la inversión;
 

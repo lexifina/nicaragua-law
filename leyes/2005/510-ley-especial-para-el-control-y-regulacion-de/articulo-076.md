@@ -1,6 +1,6 @@
 # Artículo 76
 
-Licencia personal y autorización de comercio interno.
+Licencia personal y autorización de comercio interno
 
 La licencia es de carácter personal e intransferible y constituye la autorización para realizar las actividades que se prescriban expresamente en ella. Su vigencia será de cinco años y debe ser refrendada anualmente.
 

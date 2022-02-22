@@ -1,6 +1,6 @@
 # Artículo 44
 
-Licencia para armas de fuego de colección.
+Licencia para armas de fuego de colección
 
 Los requisitos para obtener una licencia para colección de armas de fuego son los mismos establecidos para las licencias de portación y tenencia de armas de fuego para uso civil.
 

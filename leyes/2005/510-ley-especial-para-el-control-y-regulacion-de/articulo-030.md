@@ -1,6 +1,6 @@
 # Artículo 30
 
-Custodia y uso de la licencia.
+Custodia y uso de la licencia
 
 La custodia y uso de la licencia, en cualquiera de sus modalidades, es responsabilidad del titular de la licencia y propietario del arma de fuego, municiones, explosivos y otros materiales relacionados.
 
