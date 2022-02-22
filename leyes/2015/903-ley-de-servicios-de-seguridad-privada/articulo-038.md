@@ -8,4 +8,4 @@ En todos los casos la autoridad de aplicación deberá notificar por escrito la 
 
 Estas infracciones cometidas se tendrán en cuenta al momento de la solicitud de renovación de la licencia de operación.
 
-Del personal de seguridad privada
+DEL PERSONAL DE SEGURIDAD PRIVADA

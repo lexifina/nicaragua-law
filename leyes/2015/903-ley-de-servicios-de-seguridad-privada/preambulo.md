@@ -1,10 +1,14 @@
-LEY N°. 903, LEY DE SERVICIOS DE SEGURIDAD PRIVADA
+TEXTO CONSOLIDADO, LEY N°. 903, LEY DE SERVICIOS DE SEGURIDAD PRIVADA
 
-Aprobada el 11 de junio de 2015
+Aprobado el 27 de mayo de 2021
 
-Publicada en La Gaceta, Diario Oficial N°. 141 del 29 de julio de 2015
+Publicado en La Gaceta, Diario Oficial N°. 34 del 22 de febrero de 2022
 
-El Presidente de la República de Nicaragua
+Digesto Jurídico Nicaragüense de la Materia Orden Interno
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 27 de mayo de 2021, de la Ley Nº. 903, Ley de Servicios de Seguridad Privada, aprobada el 11 de junio de 2015 y publicada en La Gaceta, Diario Oficial Nº. 141 del 29 de julio de 2015, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1074, Ley del Digesto Jurídico Nicaragüense de la Materia Orden Interno, aprobada el 27 de mayo de 2021.
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
 A sus habitantes, Sabed:
 
@@ -48,4 +52,4 @@ LEY DE SERVICIOS DE SEGURIDAD PRIVADA
 
 CAPÍTULO I
 
-De las disposiciones generales
+DE LAS DISPOSICIONES GENERALES

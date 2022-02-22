@@ -10,4 +10,4 @@ Este debe ser autorizado por la autoridad de aplicación de la presente Ley para
 
 2) Uniforme genérico:
 
-En el caso de los colectivos de vigilancia domiciliar o residencial podrán utilizar uniforme genérico que se definirá entre éstos y la Policía Nacional.
+En el caso de los colectivos de vigilancia domiciliar o residencial podrán utilizar uniforme genérico que se definirá entre estos y la Policía Nacional.

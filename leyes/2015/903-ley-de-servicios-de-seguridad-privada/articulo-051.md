@@ -6,7 +6,7 @@ Los prestadores de servicios de seguridad privada que cuenten con una licencia d
 
 1) Arma de impulso eléctrico no letal;
 
-2) Bastón o macana con las especificaciones establecidas por la autoridad de aplicación de la ley;
+2) Bastón o macana con las especificaciones establecidas por la autoridad de aplicación de la Ley;
 
 3) Linterna de mano;
 

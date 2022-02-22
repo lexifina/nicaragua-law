@@ -18,4 +18,4 @@ Las personas que se desempeñen como guarda del servicio de seguridad privada, s
 
 7) Asistir para dar auxilio y protección en los casos de la activación de los sistemas y dispositivos protegidos con seguridad electrónica; y
 
-8) Los guarda de seguridad privada en el desempeñe de sus funciones deben comportarse en el desempeño de sus funciones utilizando un trato amable y cortés a la ciudadanía en general.
+8) Los guardas de seguridad privada en el desempeñe de sus funciones deben comportarse en el desempeño de sus funciones utilizando un trato amable y cortés a la ciudadanía en general.

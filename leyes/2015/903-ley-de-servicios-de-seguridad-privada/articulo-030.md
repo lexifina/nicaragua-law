@@ -14,14 +14,12 @@ La cancelación de la licencia de operación de las personas prestadoras de los 
 
 5) Cuando los prestadores de servicios de seguridad privada no cumplan con la legislación laboral y la seguridad social; y
 
-6) Por cese de operaciones de conformidad con el artículo 33 de la presente Ley.
+6) Por cese de operaciones de conformidad con el Artículo 32 de la presente Ley.
 
 La cancelación se deberá hacer constar en el registro correspondiente.
 
 Una vez firme la resolución de cancelación, el titular de la licencia deberá:
 
-1) Entregar personalmente o por medio de otra persona designada por el ex titular a la autoridad de aplicación la licencia de operación cancelada dentro del plazo de cinco días. En caso de no hacerlo, la autoridad de aplicación lo apercibirá para que la entregue; y
+1) Entregar personalmente o por medio de otra persona designada por el ex titular a la Autoridad de aplicación la licencia de operación cancelada dentro del plazo de cinco días. En caso de no hacerlo, la Autoridad de aplicación lo apercibirá para que la entregue; y.
 
-2) Entregar las armas de fuego y municiones que se encuentren registradas, de conformidad a la Ley Nº. 510, Ley Especial para el Control y Regulación de Armas de Fuego, Municiones, Explosivos y otros Materiales Relacionados, y su normativa técnica.
-
-Una vez cancelada una licencia de operación por la comisión de delitos, el ex titular no podrá constituir una nueva empresa de seguridad privada ni incorporarse a ningún cargo de otra empresa igual o similar.
+2) Entregar las armas de fuego y municiones que se encuentren registradas, de conformidad a la Ley Nº 510, Ley Especial para el Control y Regulación de Armas de Fuego, Municiones, Explosivos y otros Materiales Relacionados y su normativa técnica.

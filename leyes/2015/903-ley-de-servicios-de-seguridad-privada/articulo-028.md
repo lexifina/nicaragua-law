@@ -8,8 +8,6 @@ Las licencias son únicas y por un periodo de cinco años y comprenden las modal
 
 -
 
-Las licencias de operaciones serán nacionales, regionales y departamentales y su cobertura deberá hacerse constar en la licencia.
-
 La actualización de los valores de las tasas para la emisión de licencia de operación, servicios policiales y multas, se realizarán cada dos años fiscales mediante un Acuerdo Ministerial del Ministerio de Hacienda y Crédito Público de conformidad al deslizamiento monetario del córdoba con respecto al dólar de los Estados Unidos de América en base a lo dispuesto por el Banco Central de Nicaragua. Las actualizaciones se realizarán en el primer trimestre que corresponda, siendo la primera en el año 2017.
 
 Las sumas recaudadas en concepto de aranceles o tasas por licencias, permisos, acreditaciones, certificaciones, multas y otros servicios que se realicen a los prestadores del servicio de seguridad privada en virtud de la presente Ley deberán enterarse a la Caja Única del Ministerio de Hacienda y Crédito Público para financiar el Presupuesto General de la República.

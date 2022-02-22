@@ -10,7 +10,7 @@ El Registro Nacional de Servicios de Seguridad Privada deberá contener de maner
 
 3) Autorizaciones y acreditaciones del personal;
 
-4) Información general de las personas que forman parte de una sociedad prestadoras de estos servicios;
+4) Información general de las personas que forman parte de una sociedad prestadora de estos servicios;
 
 5) La nómina del personal de los prestadores de servicios de seguridad privada, la que debe incluir las generales de ley de cada uno de estos, número de la cédula de identidad y la licencia emitida por la DAEM, así como las acreditaciones que disponga;
 
@@ -28,4 +28,4 @@ El Registro Nacional de Servicios de Seguridad Privada deberá contener de maner
 
 12) Cantidad y tipo de armas de fuego y otros medios auxiliares.
 
-De los servicios de seguridad privada
+DE LOS SERVICIOS DE SEGURIDAD PRIVADA

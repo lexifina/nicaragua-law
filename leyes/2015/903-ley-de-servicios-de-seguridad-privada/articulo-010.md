@@ -30,4 +30,4 @@ c) Cercas eléctricas con respuesta.
 
 Comprende la formación y capacitación en las modalidades de los servicios de seguridad privada autorizados por esta Ley.
 
-Se prohíbe a las personas naturales o jurídicas el ejercicio de actividades de búsqueda de información o datos que vulneren los derechos constitucionales de las personas, a su intimidad y privacidad, o sobre asuntos que corresponden exclusivamente a la Policía Nacional, de conformidad con la Constitución Política y la Ley Nº. 872, Ley de Organización, Funciones, Carrera y Régimen Especial de Seguridad Social de la Policía Nacional, publicada en La Gaceta, Diario Oficial No. 125 del 7 de julio de 2014.
+Se prohíbe a las personas naturales o jurídicas el ejercicio de actividades de búsqueda de información o datos que vulneren los derechos constitucionales de las personas, a su intimidad y privacidad, o sobre asuntos que corresponden exclusivamente a la Policía Nacional, de conformidad con la Constitución Política y la Ley N°. 872, Ley de Organización, Funciones, Carrera y Régimen Especial de Seguridad Social de la Policía Nacional, publicada en La Gaceta, Diario Oficial Nº. 125 del 7 de julio de 2014.

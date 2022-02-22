@@ -16,4 +16,4 @@ En los casos en que las personas prestadoras de servicios de seguridad privada p
 
 La totalidad de las armas de fuego y municiones deberán ser entregadas a la autoridad de aplicación para su conservación de conformidad a la Ley Nº. 510, Ley Especial para el Control y Regulación de Armas de Fuego, Municiones, Explosivos y otros Materiales Relacionados.
 
-De las obligaciones
+DE LAS OBLIGACIONES

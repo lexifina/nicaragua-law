@@ -28,7 +28,7 @@ iv. Cambios o modificaciones en el estatuto.
 
 8) Brindar los servicios de seguridad privada con uniforme, armas de fuego, técnica autorizadas los que deben de ser proveídos sin costo alguno por el prestador del servicio;
 
-9) Asegurar que el personal de seguridad privada disponga de la licencia extendida por la DAEM cuando ésta sea exigida;
+9) Asegurar que el personal de seguridad privada disponga de la licencia extendida por la DAEM cuando esta sea exigida;
 
 10) Informar a la autoridad de la aplicación la causa de la desvinculación laboral del personal de seguridad;
 

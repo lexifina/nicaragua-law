@@ -50,7 +50,7 @@ b) Medios de comunicación;
 
 c) Medios tecnológicos; y
 
-d) Medios de transporte para la prestación del servicio.
+d) Medios de transporte para la prestación del servicio
 
 2) Local que disponga de las condiciones básicas siguientes:
 

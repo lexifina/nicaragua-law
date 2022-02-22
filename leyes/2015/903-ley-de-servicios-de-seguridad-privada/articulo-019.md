@@ -32,7 +32,7 @@ Para la obtención de la licencia de operación de protección de valores se deb
 
 14) Centro de Operaciones, que entre otros aspectos contenga lo siguiente:
 
-a) Depósito de armas de fuego y municiones de conformidad a las normativas técnicas establecidas por la autoridad de aplicación de la Ley N°. 510, Ley Especial para el Control y Regulación de Armas de Fuego, Municiones, Explosivos y otros materiales relacionados;
+a) Depósito de armas de fuego y municiones de conformidad a las normativas técnicas establecidas por la autoridad de aplicación de la Ley Nº. 510, Ley Especial para el Control y Regulación de Armas de Fuego, Municiones, Explosivos y otros materiales relacionados;
 
 b) Atención a los incidentes o emergencias en la prestación del servicio;
 
