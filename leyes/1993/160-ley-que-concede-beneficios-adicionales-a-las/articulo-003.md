@@ -10,10 +10,10 @@ ii) Exámenes de Laboratorio y Rayos X, que fueran necesarios.
 
 iii) Prestaciones farmacéuticas.
 
-b) El INSSBI otorgará:
+b) El INSS otorgará:
 
 i) Prótesis de miembros.
 
 ii) Anteojos, considerados como prótesis.
 
-c) En la adquisición de medicamentos en farmacias estarán exentos de cualquier tipo de impuesto nacional o local que grave los mismos. El Ministerio de Finanzas regulará la forma de hacer efectiva la exención.
+c) En la adquisición de medicamentos en farmacias estarán exentos de cualquier tipo de impuesto nacional o local que grave los mismos. El Ministerio de Hacienda y Crédito Público regulará la forma de hacer efectiva la exención.
