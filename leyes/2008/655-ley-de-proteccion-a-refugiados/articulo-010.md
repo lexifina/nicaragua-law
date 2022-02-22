@@ -1,6 +1,6 @@
 # Artículo 10
 
-No sanción administrativa o penal.
+No sanción administrativa o penal
 
 A) No se impondrán sanciones penales o administrativas, por causa de la entrada o presencia irregular, a los refugiados o solicitantes de la condición de refugiado que hayan entrado o se encuentren en el territorio nacional sin autorización, a condición de que se presenten ante la autoridad competente a más tardar en el término de un año, alegando causa razonable de su entrada o presencia irregular. En casos excepcionales, se podrá justificar la presentación de la petición fuera del término establecido, tomando en cuenta el carácter humanitario de esta Ley.
 

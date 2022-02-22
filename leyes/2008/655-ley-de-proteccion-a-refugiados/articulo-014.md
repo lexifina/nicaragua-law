@@ -1,6 +1,6 @@
 # Artículo 14
 
-Comisión Nacional para los Refugiados (CONAR).
+Comisión Nacional para los Refugiados (CONAR)
 
 A) Créase la Comisión Nacional para los Refugiados (CONAR), la que estará conformada por las siguientes entidades, quienes tendrán derecho a voz y voto:
 
@@ -18,7 +18,7 @@ A) Créase la Comisión Nacional para los Refugiados (CONAR), la que estará con
 
 Cada representante tendrá su suplente. La presidencia y la coordinación de las actividades de la CONAR estarán a cargo de la Dirección General de Migración y Extranjería (DGME). Para poder sesionar se requiere un quórum de la mitad más uno de sus miembros con derecho a voto. Sus resoluciones serán adoptadas por decisión de la mayoría de sus miembros con derecho a voto. En caso de empate en la votación, quien preside la CONAR tendrá doble voto.
 
-B) A las sesiones de la CONAR deben asistir con derecho a voz pero sin voto:
+B) A las Sesiones de la CONAR deben asistir con derecho a voz pero sin voto:
 
 1. Un representante de la Procuraduría para la Defensa de los Derechos Humanos;
 
@@ -26,6 +26,6 @@ B) A las sesiones de la CONAR deben asistir con derecho a voz pero sin voto:
 
 3. Un representante de la Asociación Nicaragüense Pro Derechos Humanos (ANPDH);
 
-4. Un representante del Centro Nicaragüense de Derechos Humanos (CENIDH);
+4. Sin Vigencia.
 
 5. Un delegado del Alto Comisionado de las Naciones Unidas para los Refugiados (ACNUR).

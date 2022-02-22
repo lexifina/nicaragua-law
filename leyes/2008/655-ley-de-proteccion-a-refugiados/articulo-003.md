@@ -1,6 +1,6 @@
 # Artículo 3
 
-Principio de la unidad familiar y reconocimiento derivativo de la condición de refugiado.
+Principio de la unidad familiar y reconocimiento derivativo de la condición de refugiado
 
 A) En consideración del principio de la unidad familiar, la condición de refugiado será extendida al cónyuge o a la pareja en unión de hecho estable y a los hijos menores de edad de la persona que ha sido reconocida como refugiada. Igualmente se extenderá a los demás miembros del grupo familiar que dependan del refugiado.
 

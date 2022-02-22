@@ -1,6 +1,6 @@
 # Artículo 9
 
-Prohibición de expulsión, excepciones y condiciones.
+Prohibición de expulsión, excepciones y condiciones
 
 A) No se expulsará a solicitante de la condición de refugiado o refugiado alguno que se halle en el territorio nacional, a no ser por razones de seguridad nacional o de orden público.
 

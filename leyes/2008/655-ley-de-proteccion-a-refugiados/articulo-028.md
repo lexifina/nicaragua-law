@@ -1,6 +1,6 @@
 # Artículo 28
 
-Extradición.
+Extradición
 
 A) La presentación de una solicitud de reconocimiento de la condición de refugiado, tendrá efectos suspensivos sobre la ejecución de cualquier decisión relativa a un procedimiento de extradición contra el solicitante, hasta que se adopte una resolución final relativa a la determinación de la condición de refugiado.
 

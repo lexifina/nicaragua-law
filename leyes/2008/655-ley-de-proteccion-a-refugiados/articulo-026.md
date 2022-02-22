@@ -1,6 +1,6 @@
 # Artículo 26
 
-Resoluciones.
+Resoluciones
 
 A) Para la toma de resoluciones, la CONAR se fundamentará en la Convención de 1951 sobre el Estatuto de los Refugiados y su Protocolo de 1967, las Conclusiones del Comité Ejecutivo del ACNUR, los lineamientos y directrices del ACNUR y todos los tratados y convenciones internacionales de las cuales Nicaragua sea Estado Parte y que se relacionen con la materia.
 

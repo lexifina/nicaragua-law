@@ -1,6 +1,6 @@
 # Artículo 22
 
-Presentación de la solicitud.
+Presentación de la solicitud
 
 A) Los solicitantes de la condición de refugiado presentarán sus solicitudes directamente en la Secretaría Ejecutiva de la CONAR o a la DGME, a través de cualquier oficina del territorio nacional.
 

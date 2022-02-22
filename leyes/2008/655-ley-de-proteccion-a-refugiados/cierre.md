@@ -1,7 +1,9 @@
-Dado en la ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional a los tres días del mes de junio del año dos mil ocho. Ing. René Núñez Téllez, Presidente de la Asamblea Nacional.- Dr. Wilfredo Navarro Moreira, Secretario de la Asamblea Nacional.
+Dado en la ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional a los tres días del mes de junio del año dos mil ocho. lng. René Núñez Téllez, Presidente de la Asamblea Nacional.- Dr. Wilfredo Navarro Moreira, Secretario de la Asamblea Nacional.
 
 Por tanto. Téngase como Ley de la República. Publíquese y Ejecútese. Managua, veintiséis de junio del año dos mil ocho. DANIEL ORTEGA SAAVEDRA, PRESIDENTE DE LA REPÚBLICA DE NICARAGUA.
 
-Observación: El Texto Consolidado de la Ley Nº. 655, Ley de Protección a Refugiados, fue aprobado y publicado en la Ley del Digesto Jurídico Nicaragüense de la Materia Orden Interno.
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por los criterios jurídicos de pérdida de vigencia por Objeto Cumplido.
+
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los veintisiete días del mes de mayo del año dos mil veintiuno. Dip. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
 
 .

@@ -1,6 +1,6 @@
 # Artículo 6
 
-Personas que no requieren protección.
+Personas que no requieren protección
 
 No requieren protección y por tanto no se reconocerá la condición de refugiado a:
 
