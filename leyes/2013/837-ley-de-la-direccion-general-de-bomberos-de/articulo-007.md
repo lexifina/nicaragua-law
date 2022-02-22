@@ -1,5 +1,5 @@
 # Artículo 7
 
-Control interno.
+Control interno
 
-El control interno financiero de los sistemas de planificación, organización, dirección, administración, así como la auditoria administrativa y financiera de la Dirección General de Bomberos le corresponde a la Unidad de auditoría interna del Ministerio de Gobernación, siendo el Auditor Interno o Auditora Interna nombrado por el Consejo Superior de la Contraloría General de la República, de conformidad a lo dispuesto en la Ley N° 681, “Ley Orgánica de la Contraloría General de la República y el Sistema de Control de la Administración Pública y Fiscalización de los Bienes y Recursos del Estado”, publicada en La Gaceta, Diario Oficial N° 113 del 18 de junio de 2009.
+El control interno financiero de los sistemas de planificación, organización, dirección, administración, así como la auditoria administrativa y financiera de la Dirección General de Bomberos le corresponde a la Unidad de Auditoría Interna del Ministerio de Gobernación, siendo el Auditor Interno o Auditora Interna nombrado por el Consejo Superior de la Contraloría General de la República, de conformidad a lo dispuesto en la Ley Nº. 681, Ley Orgánica de la Contraloría General de la República y el Sistema de Control de la Administración Pública y Fiscalización de los Bienes y Recursos del Estado, publicada en La Gaceta, Diario Oficial N°. 113 del 18 de junio de 2009.

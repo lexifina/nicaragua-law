@@ -1,6 +1,6 @@
 # Artículo 14
 
-Consejo de Dirección.
+Consejo de Dirección
 
 Créase el Consejo de Dirección de la Dirección General de Bomberos, cuya función es de carácter informativo, evaluativo, de consulta o decisión. Su integración será de la forma siguiente:
 

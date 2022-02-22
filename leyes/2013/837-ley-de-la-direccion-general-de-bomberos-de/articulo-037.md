@@ -1,6 +1,6 @@
 # Artículo 37
 
-Proceso de investigación.
+Proceso de investigación
 
 Sin perjuicio de las facultades de investigación de la Policía Nacional, corresponde a la de Bomberos participar en las investigaciones de averías, explosiones o incendios para determinar desde el punto de vista técnico su origen, causas y circunstancias. Para tales efectos podrán contar con personal especializado en esta materia pertenecientes o no a la institución, o auxiliarse con personal calificado de otras instituciones nacionales o extranjeras, sean estas asociaciones civiles de bomberos voluntarios o no. En todo caso deberán estar debidamente certificadas y acreditadas por la Autoridad de Aplicación.
 

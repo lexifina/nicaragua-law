@@ -1,6 +1,6 @@
 # Artículo 15
 
-Especialidades.
+Especialidades
 
 La Dirección General de Bomberos, estará integrada con las especialidades siguientes:
 

@@ -1,6 +1,6 @@
 # Artículo 10
 
-Funciones de Subdirectores o Subdirectoras Generales.
+Funciones de Subdirectores o Subdirectoras Generales
 
 Son funciones de los Subdirectores o Subdirectora General las siguientes:
 

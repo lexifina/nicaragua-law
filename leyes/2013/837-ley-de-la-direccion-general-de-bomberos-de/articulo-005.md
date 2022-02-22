@@ -1,10 +1,10 @@
 # Artículo 5
 
-Funciones.
+Funciones
 
 Son funciones de la Dirección General de Bomberos las siguientes:
 
-1. Prevenir y extinguir los incendios y otras actividades conexas en coordinación con otras instituciones públicas cuando sobrepase su capacidad, esto incluye los siniestros que se presenten en el ámbito de competencia establecido por la presente ley con la finalidad de evitar daños a la sociedad nicaragüense;
+1. Prevenir y extinguir los incendios y otras actividades conexas en coordinación con otras instituciones públicas cuando sobrepase su capacidad, esto incluye los siniestros que se presenten en el ámbito de competencia establecido por la presente Ley con la finalidad de evitar daños a la sociedad nicaragüense;
 
 2. Proteger la vida y bienes de los nicaragüenses ante los siniestros, incidentes en general o eventos que representen riesgo, vulnerabilidad o amenaza para la misma;
 
@@ -16,7 +16,7 @@ Son funciones de la Dirección General de Bomberos las siguientes:
 
 6. Establecer los criterios técnicos básicos para el servicio de prevención y riesgos especiales, extinción de incendios, para que sean incorporadas en el acto de constitución de las nuevas asociaciones de bomberos no gubernamentales;
 
-7. Certificar y acreditar a las persona especialistas o técnicos de las diferentes organizaciones de bomberos voluntarios que cumplan con las calidades técnicas para el ejercicio del servicio de prevención de incendios;
+7. Certificar y acreditar a las personas especialistas o técnicos de las diferentes organizaciones de bomberos voluntarios que cumplan con las calidades técnicas para el ejercicio del servicio de prevención de incendios;
 
 8. Certificar, acreditar y registrar a las personas capacitadoras y/o en materia de protección y prevención contra incendios;
 
@@ -50,8 +50,8 @@ Son funciones de la Dirección General de Bomberos las siguientes:
 
 23. Proponer a la Empresa Nacional de Acueductos y Alcantarillado y a los Gobiernos Municipales, la instalación, ubicación, caudal y tipos de hidrantes para la extinción de incendios;
 
-24. Proponer la integración de brigadas o misiones humanitarias en situaciones de desastres internacionales que autorice el Presidente o Presidenta de la RepúblicDiaa;gr: y
+24. Proponer la integración de brigadas o misiones humanitarias en situaciones de desastres internacionales que autorice el Presidente o Presidenta de la República; y
 
 25. Coordinar con el Ejército de Nicaragua, a través del Estado Mayor de la Defensa Civil, las acciones para el combate de los incendios forestales.
 
-El Ministerio de Gobernación a través de la Dirección General de Bomberos acreditará a las personas naturales pertenecientes a las organizaciones de bomberos voluntarios y a las asociaciones de bomberos debidamente inscritas en el Ministerio de Gobernación, con el objeto de que puedan realizar las funciones establecidas en los numerales 8 y 9 de este artículo.
+El Ministerio de Gobernación a través de la Dirección General de Bomberos acreditará a las personas naturales pertenecientes a las organizaciones de bomberos voluntarios y a las asociaciones de bomberos debidamente inscritas en el Ministerio de Gobernación, con el objeto de que puedan realizar las funciones establecidas en los numerales 8 y 9 de este Artículo.

@@ -1,6 +1,6 @@
 # Artículo 58
 
-Claustro docente.
+Claustro docente
 
 El claustro docente de la Academia Nacional de Bomberos para la actualización, profesionalización y especialización permanente de los miembros activos y de nuevo ingreso estará integrado de la forma siguiente:
 

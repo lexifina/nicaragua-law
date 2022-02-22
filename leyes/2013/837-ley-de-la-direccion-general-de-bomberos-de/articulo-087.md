@@ -1,6 +1,6 @@
 # Artículo 87
 
-Baja.
+Baja
 
 Causan Baja en la Dirección General de Bomberos los miembros activos por las causas siguientes:
 

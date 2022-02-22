@@ -1,6 +1,6 @@
 # Artículo 9
 
-Funciones del Director o Directora General.
+Funciones del Director o Directora General
 
 Son funciones del Director o Directora General las siguientes:
 
@@ -10,7 +10,7 @@ Son funciones del Director o Directora General las siguientes:
 
 3) Organizar y dirigir los servicios que presta la Dirección General de Bomberos;
 
-4) Hacer cumplir las Normas Técnicas Obligatorias Nicaragüenses establecidas en materia de prevención y riesgos especiales, extinción de incendios, búsqueda, rescate y servicio pre hospitalario;
+4) Hacer cumplir las Normas Técnicas Obligatorias Nicaragüenses establecidas en materia de prevención y riesgos especiales, extinción de incendios, búsqueda, rescate y servicio pfe hospitalario;
 
 5) Nombrar a las personas que recibirán la distinción de bomberos honorarios o bomberas honorarias;
 

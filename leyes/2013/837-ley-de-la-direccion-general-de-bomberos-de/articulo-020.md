@@ -1,6 +1,6 @@
 # Artículo 20
 
-Denominación de los Bomberos.
+Denominación de los Bomberos
 
 Las personas que desde su calidad de miembros de la Dirección General de Bomberos de Nicaragua se les denominan e identifica de la forma siguiente:
 

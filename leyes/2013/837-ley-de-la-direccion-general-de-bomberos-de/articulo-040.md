@@ -1,6 +1,6 @@
 # Artículo 40
 
-Especialidad de extinción de incendios, búsqueda y rescate.
+Especialidad de extinción de incendios, búsqueda y rescate
 
 La Dirección de extinción de incendios, búsqueda y rescate, tiene las funciones siguientes:
 

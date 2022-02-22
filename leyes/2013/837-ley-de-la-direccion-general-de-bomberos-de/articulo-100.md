@@ -1,6 +1,6 @@
 # Artículo 100
 
-Patrimonio.
+Patrimonio
 
 Por ministerio de la presente Ley los bienes muebles e inmuebles que han sido entregados o se reciban en administración de parte del Estado de la República de Nicaragua, se constituyen en patrimonio del Ministerio de Gobernación y no estarán sujetas al pago de impuestos o gravamen alguno, los cuales son inembargables e intransferibles, su uso es exclusivo para el cumplimiento de las funciones de la Dirección General de Bomberos.
 

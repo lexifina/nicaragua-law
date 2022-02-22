@@ -1,6 +1,6 @@
 # Artículo 82
 
-Ascensos y criterios.
+Ascensos y criterios
 
 El ascenso a cada uno de los niveles jerárquicos de grados está determinado por el tiempo de permanencia en el cargo y grado, para lo cual se tomarán en cuenta los criterios siguientes:
 

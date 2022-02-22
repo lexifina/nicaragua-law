@@ -1,8 +1,8 @@
 # Artículo 101
 
-Infracciones y gradualidad.
+Infracciones y gradualidad
 
-Constituyen infracciones las acciones u omisiones realizadas por las personas naturales o jurídicas que incumplan las disposiciones contenidas en esta Ley y su reglamento, las Normas Técnicas Obligatorias Nicaragüenses y las normativas técnico-administrativa que al respecto establezca la Autoridad de Aplicación de la ley.
+Constituyen infracciones las acciones u omisiones realizadas por las personas naturales o jurídicas que incumplan las disposiciones contenidas en esta Ley y su reglamento, las Normas Técnicas Obligatorias Nicaragüenses y las normativas técnico-administrativa que al respecto establezca la Autoridad de Aplicación de la Ley.
 
 Para las personas jurídicas y comerciantes mayoristas las infracciones se clasifican de la manera siguiente:
 

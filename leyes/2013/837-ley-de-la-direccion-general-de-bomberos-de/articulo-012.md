@@ -1,6 +1,6 @@
 # Artículo 12
 
-Funciones.
+Funciones
 
 Son funciones del Inspector o Inspectora General de la Dirección General de Bomberos las siguientes:
 

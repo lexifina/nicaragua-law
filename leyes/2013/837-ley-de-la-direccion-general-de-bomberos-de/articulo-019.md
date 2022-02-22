@@ -1,10 +1,10 @@
 # Artículo 19
 
-Grados y escalafón.
+Grados y escalafón
 
 Para los efectos de la estructura y organización de la Dirección General de Bomberos, se establecen los grados y escalafón siguiente:
 
-I. OFICIALES SUPERIORES:
+l. OFICIALES SUPERIORES:
 
 1) Comandante General; y
 

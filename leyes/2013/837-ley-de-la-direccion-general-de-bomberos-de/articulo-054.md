@@ -1,6 +1,6 @@
 # Artículo 54
 
-Funciones.
+Funciones
 
 La Academia Nacional de Bomberos tiene las funciones siguientes:
 

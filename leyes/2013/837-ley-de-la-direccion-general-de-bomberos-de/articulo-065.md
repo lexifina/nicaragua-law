@@ -1,6 +1,6 @@
 # Artículo 65
 
-Planificación y fortalecimiento técnico.
+Planificación y fortalecimiento técnico
 
 Es la instancia encargada de la planificación institucional para el desarrollo de las capacidades organizativas y operativas que permitan un mejor funcionamiento de la Dirección General de Bomberos a través de los procesos de formulación, consolidación, seguimiento y evaluación de los planes anuales y quinquenales de la institución, sus procedimientos, estructura organizativa, técnicas y métodos de trabajo para el desarrollo y cumplimiento de las funciones institucionales.
 

@@ -1,6 +1,6 @@
 # Artículo 79
 
-Nombramiento de Oficiales Superiores.
+Nombramiento de Oficiales Superiores
 
 El nombramiento de las personas como oficiales superiores lo efectuará la Ministra o Ministro de Gobernación para un período de cinco años prorrogables hasta por otro período igual.
 

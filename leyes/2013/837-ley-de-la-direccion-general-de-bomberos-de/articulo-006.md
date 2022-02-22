@@ -1,10 +1,10 @@
 # Artículo 6
 
-Organización y estructura.
+Organización y estructura
 
 La Dirección General de Bomberos para el cumplimiento de los fines y objetivos establecidos por la presente Ley dispondrá de la organización y estructura siguiente:
 
-I. Dirección Superior, la que estará organizada así:
+l. Dirección Superior, la que estará organizada así:
 
 1) Un Director o Directora General;
 
@@ -34,7 +34,7 @@ IV. Instancias de Apoyo:
 
 Las instancias de apoyo son las siguientes:
 
-1) División Administrativa Financiera, estará integrada por:
+1) División Administrativa Financiera, estará integrada -por:
 
 a) Departamento de Servicios Generales; y
 
@@ -68,4 +68,4 @@ V. Delegaciones territoriales:
 
 3) Instalaciones Especiales; y
 
-4) Regiones Autónomas del Atlántico Norte y Sur.
+4) Regiones Autónomas del Caribe Norte y Sur.

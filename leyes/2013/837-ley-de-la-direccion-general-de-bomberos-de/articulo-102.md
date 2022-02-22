@@ -1,6 +1,6 @@
 # Artículo 102
 
-Infracciones leves.
+Infracciones leves
 
 Son infracciones leves las siguientes:
 

@@ -1,6 +1,6 @@
 # Artículo 62
 
-Instancias de Apoyo.
+Instancias de Apoyo
 
 Las instancias de apoyo de la Dirección General de Bomberos tienen la función de planificar y administrar los recursos humanos, materiales, técnicos y financieros de la Institución; también proporcionarán asesoría, servicios auxiliares, científico técnico, informáticos u otros de acuerdo a la naturaleza de sus funciones para el apoyo en el desarrollo de la actividad institucional y constituyen las áreas adjetivas.
 

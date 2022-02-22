@@ -1,6 +1,6 @@
 # Artículo 17
 
-Jerarquía.
+Jerarquía
 
 La jerarquía proveniente del grado o del cargo está determinada por la presente Ley y su Reglamento.
 

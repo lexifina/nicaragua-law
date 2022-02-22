@@ -1,6 +1,6 @@
 # Artículo 57
 
-Promoción.
+Promoción
 
 El Director de la Academia deberá promover y gestionar la ratificación de los convenios y acuerdos con otros centros de educación superior, media y técnica que permita elevar el nivel profesional de los miembros de la Dirección General de Bomberos, así como gestionar y articular el intercambio continuo de conocimientos científicos, técnicos y la transformación curricular de la Academia.
 

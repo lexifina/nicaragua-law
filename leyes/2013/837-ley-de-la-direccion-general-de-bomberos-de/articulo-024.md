@@ -1,6 +1,8 @@
 # Artículo 24
 
-Dirección de Prevención de Incendios y Riesgos Especiales. La Dirección de Prevención de Incendios y Riesgos Especiales, tendrá las siguientes funciones:
+Dirección de Prevención de Incendios y Riesgos Especiales
+
+La Dirección de Prevención de Incendios y Riesgos Especiales, tendrá las siguientes funciones:
 
 1) Revisar y aprobar los planos eléctricos y diseños de sistema contra incendios;
 
@@ -34,4 +36,4 @@ g) Diseño, instalación y mantenimiento de sistemas eléctricos en baja tensió
 
 9) Fomentar y desarrollar la creación de brigadas, planes de emergencia y simulacros que permitan la autoprotección en las instituciones, sean estas públicas o privadas, mediante la capacitación del personal; y
 
-10) Revisar y aprobar en los planos estructurales, arquitectónicos e hidrosanitarios de las nuevas construcciones y de las existentes que fuesen a ser remodeladas todo lo concerniente al sistema y normas técnicas de protección contra incendios en la Ventanilla Única creada por la Ley Nº 677, “Ley Especial para el Fomento de la Construcción de Vivienda y Acceso a la Vivienda de Interés Social”, publicada en La Gaceta, Diario Oficial No. 80 y 81 del 4 y 5 de mayo del 2009.
+10) Revisar y aprobar en los planos estructurales, arquitectónicos e hidrosanitarios de las nuevas construcciones y de las existentes que fuesen a ser remodeladas todo lo concerniente al sistema y normas técnicas de protección contra incendios en la Ventanilla Única creada por la Ley Nº. 677, "Ley Especial para el Fomento de la Construcción de Vivienda y Acceso a la Vivienda de Interés Social", publicada en La Gaceta, Diario Oficial Nº. 80 y 81 del 4 y 5 de mayo del 2009.

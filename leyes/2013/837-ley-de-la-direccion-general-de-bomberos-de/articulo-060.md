@@ -1,6 +1,6 @@
 # Artículo 60
 
-Funciones.
+Funciones
 
 El Ministerio de Gobernación para efectos de la presente Ley, tendrá las siguientes funciones:
 
@@ -18,7 +18,7 @@ El Ministerio de Gobernación para efectos de la presente Ley, tendrá las sigui
 
 7) Emitir el dictamen técnico para las nuevas asociaciones civiles sin fines de lucro cuyo giro sea la actividad bomberil para garantizar el servicio de prevención, extinción de incendios, salvamento y rescate que se vaya a otorgar a la comunidad sea de calidad, eficientes y eficaz con relación al Plan Nacional de Bomberos y la seguridad ciudadana.
 
-Las solicitudes de constitución de nuevas asociaciones civiles sin fines de lucro de actividad bomberil, deben efectuarse de conformidad a los requisitos establecidos en la Ley No. 147, “Ley General sobre Personas Jurídicas sin Fines de Lucro”, publicada en La Gaceta, Diario Oficial No. 102 del 29 de mayo de 1992, deberán presentar ante la Asamblea Nacional el dictamen técnico favorable para la obtención de la personalidad jurídica;
+Las solicitudes de constitución de nuevas asociaciones civiles sin fines de lucro de actividad bomberil, deben efectuarse de conformidad a los requisitos establecidos en la Ley Nº. 147, Ley General sobre Personas Jurídicas sin Fines de Lucro, publicada en La Gaceta, Diario Oficial Nº. 102 del 29 de mayo de 1992, deberán presentar ante la Asamblea Nacional el dictamen técnico favorable para la obtención de la personalidad jurídica;
 
 8) Aprobar y otorgar los grados de Primeros Oficiales;
 
@@ -28,4 +28,4 @@ Las solicitudes de constitución de nuevas asociaciones civiles sin fines de luc
 
 11) Promover la suscripción y aprobación de los acuerdos y convenios de colaboración y asistencia técnica con otros Estados u organismos internacionales especializados en materia de bomberos; y
 
-12) Cualquier otra que al respecto establezca la presente ley.
+12) Cualquier otra que al respecto establezca la presente Ley.

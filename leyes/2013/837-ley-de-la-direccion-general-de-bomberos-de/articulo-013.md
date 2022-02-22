@@ -1,6 +1,6 @@
 # Artículo 13
 
-Nombramiento por ausencia temporal o definitiva.
+Nombramiento por ausencia temporal o definitiva
 
 En caso de ausencia temporal o definitiva del Director o Directora General de la institución, uno de los Subdirectores o Subdirectoras Generales, por designación de la Ministra o Ministro de Gobernación, ejercerá las funciones de Director o Directora General.
 

@@ -1,6 +1,6 @@
 # Artículo 103
 
-Infracciones graves.
+Infracciones graves
 
 Son infracciones graves las siguientes:
 
@@ -22,7 +22,7 @@ Son infracciones graves las siguientes:
 
 9) Deficiencias técnicas en el funcionamiento de los mecanismos de alimentación eléctrica secundaria o de emergencia;
 
-10) Incumplimiento de las recomendaciones y medidas técnicas establecidas por la Autoridad de Aplicación de la ley;
+10) Incumplimiento de las recomendaciones y medidas técnicas establecidas por la Autoridad de Aplicación de la Ley;
 
 11) Incumplimiento de las recomendaciones derivadas de las pruebas de los sistemas contra incendio;
 
@@ -36,19 +36,19 @@ Son infracciones graves las siguientes:
 
 16) Falta de un Plan de Emergencia o del dominio y conocimiento pleno del personal de las instituciones públicas o privadas;
 
-17) Incumplimiento de los simulacros en el tiempo establecido en la Ley Nº 618, “Ley General de Higiene y Seguridad del Trabajo”, publicada en La Gaceta, Diario Oficial No. 133 del 13 de julio del 2007, su Reglamento y las NTON y las normas técnicas administrativas;
+17) Incumplimiento de los simulacros en el tiempo establecido en la Ley N°. 618, Ley General de Higiene y Seguridad del Trabajo, publicada en La Gaceta, Diario Oficial N°. 133 del 13 de julio del 2007, su Reglamento y las NTON y las normas técnicas administrativas;
 
-18) Incumplimiento de las medidas correctivas establecidas por la Autoridad de Aplicación de la ley relativas a las condiciones de seguridad que se establezcan en las licencias o permisos;
+18) Incumplimiento de las medidas correctivas establecidas por la Autoridad de Aplicación de la Ley relativas a las condiciones de seguridad que se establezcan en las licencias o permisos;
 
-19) Impedir u obstaculizar el acceso a los diferentes locales u objetivos establecidos en la presente ley y su reglamento a los miembros de la Dirección General de Bomberos, en el ejercicio de sus funciones como Autoridad de Aplicación;
+19) Impedir u obstaculizar el acceso a los diferentes locales u objetivos establecidos en la presente Ley y su Reglamento a los miembros de la Dirección General de Bomberos, en el ejercicio de sus funciones como Autoridad de Aplicación;
 
-20) Hacer obras de construcción nuevas o modificar las existentes sin la aprobación del plano correspondiente definidos en el artículo 24, numeral 1 de la presente ley;
+20) Hacer obras de construcción nuevas o modificar las existentes sin la aprobación del plano correspondiente definidos en el Artículo 24, numeral 1 de la presente Ley;
 
 21) Operar con licencia o certificados vencidos de la inspección técnica;
 
 22) Incumplimiento de las disposiciones y normativas técnicas de protección contra incendios;
 
-23) Ejercer las actividades establecidas en el artículo 92, romano III, VI y VII sin el certificado, permiso o licencia emitida por la Dirección General de Bomberos;
+23) Ejercer las actividades establecidas en el Artículo 92, romano III, VI y VII sin el certificado, permiso o licencia emitida por la Dirección General de Bomberos;
 
 24) Operar maquinaria y equipo técnico o mecánico en mal estado que represente o pudiese implicar un riesgo inminente para la seguridad de los operarios y demás personas en general y los bienes de terceros;
 

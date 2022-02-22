@@ -1,6 +1,6 @@
 # Artículo 78
 
-Cargos.
+Cargos
 
 La designación de los cargos en la Dirección General de Bomberos se establecerá en base a las fichas técnicas y perfiles de cargos que incluyen la especialidad y la profesión. Los cargos se determinarán considerando la estructura organizativa de la Dirección General de Bomberos.
 

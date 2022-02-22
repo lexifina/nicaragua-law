@@ -1,6 +1,6 @@
 # Artículo 18
 
-Clasificación.
+Clasificación
 
 La jerarquía de cargos de la Dirección General de Bomberos de Nicaragua, se clasifica de la forma siguiente:
 

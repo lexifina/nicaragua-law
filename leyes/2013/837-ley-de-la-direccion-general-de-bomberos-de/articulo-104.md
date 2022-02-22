@@ -1,6 +1,6 @@
 # Artículo 104
 
-Infracciones muy graves.
+Infracciones muy graves
 
 Son infracciones muy graves las siguientes:
 
@@ -10,7 +10,7 @@ Son infracciones muy graves las siguientes:
 
 3) Almacenar sustancias y materiales combustibles o inflamables, tóxicos y peligrosos en el interior de las casas donde habiten personas y animales;
 
-4) Transportar sustancias tóxicas, peligrosas y otras similares en horas no autorizadas con medios de transporte que no reúnan las condiciones técnicas fundamentales previstas por la Autoridad de Aplicación;
+4) Transportar sustancias toxicas, peligrosas y otras similares en horas no autorizadas con medios de transporte que no reúnan las condiciones técnicas fundamentales previstas por la Autoridad de Aplicación;
 
 5) La comisión de tres infracciones leves y una grave en un año;
 
