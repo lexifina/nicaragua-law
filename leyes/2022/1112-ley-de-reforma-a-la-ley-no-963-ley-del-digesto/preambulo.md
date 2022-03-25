@@ -1,0 +1,27 @@
+LEY N°. 1112, LEY DE REFORMA A LA LEY Nº. 963, LEY DEL DIGESTO JURÍDICO NICARAGÜENSE
+
+Aprobada el 17 de marzo de 2022
+
+Publicada en La Gaceta, Diario Oficial N°. 58 del 25 de marzo de 2022
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+A sus habitantes, hace saber:
+
+Que,
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+Ha ordenado lo siguiente:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+HA DICTADO
+
+La siguiente:
+
+LEY N°. 1112
+
+LEY DE REFORMA A LA LEY Nº. 963, LEY DEL DIGESTO JURÍDICO NICARAGÜENSE
