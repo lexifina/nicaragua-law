@@ -8,9 +8,7 @@ Tratándose de la causal de suspensión prevista en el numeral 1 del Artículo 5
 
 Cuando se trate de cualquiera de las causas de suspensión diferentes de las señaladas en el numeral 1, del Artículo 56 o de las relativas a la cancelación de la licencia, una vez conocidas por las autoridades aduaneras los hechos u omisiones que las configuren, estas las darán a conocer en forma circunstanciada al Agente Aduanero o a la persona jurídica y le concederán un plazo de diez días hábiles para que ofrezca pruebas y exprese lo que a su derecho convenga.
 
-Cuando se trate de causales de cancelación, las autoridades aduaneras ordenarán en el mismo acto la suspensión provisional en tanto se dicta la resolución correspondiente.
-
-Las pruebas deberán presentarse a más tardar dentro del plazo de treinta días siguientes al de su ofrecimiento. Dicho plazo podrá ampliarse, según la naturaleza del asunto.
+Cuando se trate de causales de cancelación, las autoridades aduaneras ordenarán en el mismo acto la suspensión provisional en tanto se dicta la resolución correspondiente. Las pruebas deberán presentarse a más tardar dentro del plazo de treinta días siguientes al de su ofrecimiento. Dicho plazo podrá ampliarse, según la naturaleza del asunto.
 
 Las autoridades aduaneras deberán dictar la resolución que corresponda, en un plazo que no excederá de tres meses, tratándose del procedimiento de suspensión y de cuatro cuando se trate de cancelación, que se contarán a partir de la notificación del inicio del procedimiento.
 

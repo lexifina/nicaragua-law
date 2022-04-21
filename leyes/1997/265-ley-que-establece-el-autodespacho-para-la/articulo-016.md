@@ -10,17 +10,19 @@ b) El conocimiento de embarque en el caso de tráfico marítimo o de Guía Aére
 
 c) Los documentos que comprueben el cumplimiento de las obligaciones no tributarias.
 
-d) El comprobante del banco que corresponda, que compruebe el pago de las obligaciones arancelarias y tributarias. En los casos de transferencia electrónica de fondos, el Reglamento de la presente Ley indicará el mecanismo que deba utilizarse para probar el pago.
+d) El comprobante del banco que corresponda, que compruebe el pago de las obligaciones arancelarias y tributarias. En los casos de transferencia electrónica de fondos, el Reglamento de la presente Ley indicará el mecanismo que
+
+deba utilizarse para probar el pago.
 
 e) El documento con base en el cual se determina la procedencia y el origen de las mercancías para efectos de la aplicación de preferencias arancelarias, cuotas antidumping, cupos, marcado de país de origen y otras medidas que al efecto se establezcan, de conformidad con las disposiciones de las leyes de la materia.
 
-f) El documento en el que conste la garantía que determinen las autoridades aduaneras mediante reglas generales, siempre que el valor declarado sea inferior al precio estimado que establezca dicha dependencia.
+f) Derogado.
 
-g) El certificado de peso o volumen, expedido por la empresa debidamente autorizada por el Ministerio de Finanzas, mediante reglas generales. Cuando se trate del despacho de mercancías a granel en aduanas de tráfico marítimo o terrestre, se aplicará lo que al respecto se establezca en el Reglamento de la presente Ley.
+g) El certificado de peso o volumen, expedido por la empresa debidamente autorizada por la Dirección General de Servicios Aduaneros, mediante reglas generales. Cuando se trate del despacho de mercancías a granel en aduanas de tráfico marítimo o terrestre, se aplicará lo que al respecto se establezca en el Reglamento de la presente Ley.
 
 En los casos de mercancías susceptibles de ser identificadas de forma individual, deberán indicarse los números de serie, parte, marca, modelo o en su defecto, las especificaciones técnicas o comerciales necesarias para identificarlas y distinguirlas de otras similares, siempre y cuando dichos datos existan. Esta información podrá consignarse en la propia declaración de importación, en la factura, en el documento de embarque o en relación anexa que señale el número de la declaración correspondiente, firmada por el importador, agente o apoderado aduanero.
 
-2.- En el caso de exportación:
+2) En el caso de exportación:
 
 a) La factura o en su caso, cualquier documento que exprese el valor comercial de las mercancías.
 

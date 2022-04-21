@@ -1,6 +1,6 @@
 # Artículo 68
 
-Si durante la práctica de una auditoría se encuentra mercancía extranjera cuya legal internación en el país no sea acreditada legalmente, las autoridades aduaneras levantaran el acta y procederán a efectuar la incautación precautoria en los casos previstos en el Artículo 66, cumpliendo con las formalidades a que refiere el Artículo 65, ambos de la presente Ley
+Si durante la práctica de una auditoría se encuentra mercancía extranjera cuya legal internación en el país no sea acreditada legalmente, las autoridades aduaneras levantarán el acta y procederán a efectuar la incautación precautoria en los casos previstos en el Artículo 66, cumpliendo con las formalidades a que refiere el Artículo 65, ambos de la presente Ley.
 
 El acta de incautación, en estos casos, hará las veces de acta final en la parte de la auditoría que se relacione con las obligaciones tributarias de comercio exterior generadas por las mercancías incautadas.
 

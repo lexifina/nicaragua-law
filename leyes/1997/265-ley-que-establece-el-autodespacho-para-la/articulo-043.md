@@ -6,4 +6,4 @@ Sin embargo esta opción no se podrá ejercer en los siguientes casos:
 
 1) Cuando la mercancía hubiere entrado al país bajo el régimen de importación temporal.
 
-2) Cuando la tenencia ilegal sea descubierta por las autoridades fiscales o haya sido corregida por el propio interesado después de que las autoridades aduaneras hubieren notificado una orden de auditoria o haya mediado requerimiento o cualquier otra gestión, notificada por dichas autoridades, dirigida a comprobar el debido cumplimiento de las obligaciones en la materia.
+2) Cuando la tenencia ilegal sea descubierta por las autoridades fiscales o haya sido corregida por el propio interesado después de que las autoridades aduaneras hubieren notificado una orden de auditoría o haya mediado requerimiento o cualquier otra gestión, notificada por dichas autoridades, dirigida a comprobar el debido cumplimiento de las obligaciones en la materia.

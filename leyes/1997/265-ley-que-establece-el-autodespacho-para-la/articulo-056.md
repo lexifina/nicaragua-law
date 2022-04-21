@@ -12,7 +12,7 @@ El Agente Aduanero o el importador serán suspendidos en el ejercicio de sus fun
 
 5) Asumir los cargos a que se refiere el numeral 4 del Artículo 49 de la presente Ley, salvo que haya obtenido con anterioridad la autorización de suspensión de actividades. En este caso la suspensión será por el tiempo que subsista la causa que lo motivó.
 
-6) Declarar con inexactitud, siempre que resulte lesionado el interés fiscal y no sean aplicables las causales de cancelación establecidas en el numeral 1 del Artículo 58 de la presente Ley. No se suspenderá al Agente Aduanero por el primer error que cometa durante cada año calendario, siempre que el error no exceda del monto y porcentaje señalado en el numeral 1, literal a, del Artículo 58 de la presente Ley.
+6) Declarar con inexactitud, siempre que resulte lesionado el interés fiscal y no sean aplicables las causales de cancelación establecidas en el numeral 1 del Artículo 58 de la presente Ley. No se suspenderá al Agente Aduanero por el primer error que cometa durante cada año calendario, siempre que el error no exceda del monto y porcentaje señalado en el numeral 1, literal a, del Artículo 5 8 de la presente Ley.
 
 No procederá la suspensión a que se refiere este numeral, si el monto de la omisión no excede del 55% de las obligaciones tributarias que deban cubrirse, cuando la misma se deba a inexactitud en la clasificación arancelaria por diferencia de criterios en la interpretación de los aranceles, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías, hayan sido correctamente manifestadas a la autoridad.
 

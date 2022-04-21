@@ -14,7 +14,7 @@ c) La descripción, naturaleza y demás características de las mercancías.
 
 d) La toma de muestras de las mercancías en su caso, y otros elementos probatorios necesarios para dictar la resolución correspondiente.
 
-Se requerirá al interesado la presentación de dos testigos, los cuales deberán haber estado en el lugar y en el momento de levantarse el acta. El interesado señalara su domicilio para oír notificaciones dentro de la circunscripción territorial de la aduana de que se trate; salvo que se trate de pasajeros, en cuyo caso podrán señalar domicilio fuera de dicha circunscripción, apercibiéndolo de que de no hacerlo o de señalar uno que no corresponda a él o a su representante, las notificaciones que fueren personales se efectuarán por ministerio de ley. En el caso que los testigos no acepten serlo, se consignará en el acta.
+Se requerirá al interesado la presentación de dos testigos, los cuales deberán haber estado en el lugar y en el momento de levantarse el acta. El interesado señalará su domicilio para oír notificaciones dentro de la circunscripción territorial de la aduana de que se trate; salvo que se trate de pasajeros, en cuyo caso podrán señalar domicilio fuera de dicha circunscripción, apercibiéndolo de que de no hacerlo o de señalar uno que no corresponda a él o a su representante, las notificaciones que fueren personales se efectuarán por ministerio de ley. En el caso que los testigos no acepten serlo, se consignará en el acta.
 
 El acta preimpresa deberá señalar que el interesado cuenta con un plazo de veinte días para ofrecer las pruebas y alegatos que a su derecho convenga.
 

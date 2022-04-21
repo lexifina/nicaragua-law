@@ -20,6 +20,6 @@ Sólo pueden ejercer de Agentes Aduaneros y obtener Licencia los que cumplan los
 
 9) Aprobar el examen técnico que le practiquen las autoridades aduaneras.
 
-Cumplidos los requisitos anteriores, el Ministerio de Finanzas otorgará la Licencia en un plazo no mayor de un mes. La autorización es personal e intransferible.
+Cumplidos los requisitos anteriores, la Dirección General de Servicios Aduaneros otorgará la Licencia en un plazo no mayor de un mes. La autorización es personal e intransferible.
 
-Serán canceladas las licencias vigentes que fueron autorizadas antes de la entrada en vigencia de la presente Ley, a cualquier funcionario o empleado público en general.
+Último párrafo Sin vigencia
