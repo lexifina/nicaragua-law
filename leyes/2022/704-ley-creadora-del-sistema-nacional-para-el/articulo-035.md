@@ -1,0 +1,5 @@
+# Artículo 35
+
+De la integración, aceptación u objeción del Comité de Pares Evaluadores para la Acreditación
+
+El CNEA designará para cada una de las Instituciones de Educación Superior de tres a seis profesionales de los inscritos en el Registro Nacional de Pares Evaluadores, para integrar al Comité de Pares Evaluadores para los procesos de acreditación institucional o de programas. La lista de pares designados será notificada a la institución evaluada, la cual deberá expresar por escrito su conformidad con los pares evaluadores u objetarlos. En caso de objeción, la institución evaluada podrá objetar a cualquiera de ellos o a todos los miembros de la lista de pares por primera vez expresando las causas de su objeción. Los pares objetados serán sustituidos por otros similares del Registro Nacional de Pares Evaluadores. El CNEA, no aceptará una segunda objeción a la lista de Pares Evaluadores. En caso que la institución no se pronuncie en el plazo establecido por el CNEA se entenderá que los pares han sido aceptados.
