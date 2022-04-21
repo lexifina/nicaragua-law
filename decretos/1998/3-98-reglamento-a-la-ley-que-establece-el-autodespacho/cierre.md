@@ -1,7 +1,9 @@
-Dado en la ciudad de Managua, a los quince días del mes de Enero de mil novecientos noventa y ocho.- ARNOLDO ALEMÁN LACAYO PRESIDENTE DE LA REPÚBLICA DE NICARAGUA .- ESTEBAN DUQUE ESTRADA MINISTRO DE FINANZAS.
+Dado en la ciudad de Managua, a los quince días del mes de enero de mil novecientos noventa y ocho.- Arnoldo Alemán Lacayo, Presidente de la República de Nicaragua.- Esteban Duque Estrada, Ministro de Finanzas.
 
-Observación: El Texto Consolidado del Decreto Ejecutivo N°. 3-98, Reglamento a la Ley que Establece el Autodespacho para la Importación, Exportación y Otros Regímenes Aduaneros, fue aprobado y publicado en la Ley del Digesto Jurídico Nicaragüense de la Materia Aduanas.
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por: 1. Ley Nº. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en La Gaceta, Diario Oficial Nº. 102 del 3 de junio de 1998; 2. Ley Nº. 339, Ley Creadora de la Dirección General de Servicios Aduaneros y de Reforma a la Ley Creadora de la Dirección General de Ingresos, publicada en La Gaceta, Diario Oficial Nº. 69 del 6 de abril de 2000; 3. Decreto Ejecutivo Nº. 94-2000, Adición al Decreto Nº. 3-98, Reglamento de la Ley Nº. 265, Ley que establece el Autodespacho para la Importación, Exportación y otros Regímenes Aduaneros, publicado en La Gaceta, Diario Oficial Nº. 177 del 20 de septiembre de 2000; 4. Ley Nº. 421, Ley de Valoración en Aduana y de Reforma a la Ley Nº. 265, Ley que establece el Autodespacho para la Importación, Exportación y Otros Regímenes, publicada en La Gaceta, Diario Oficial Nº. 111 del 14 de junio de 2002; y 5. Ley Nº. 641, Código Penal, publicada en La Gaceta, Diario Oficial Nº. 83, 84, 85, 86 y 87 del 5, 6, 7, 8 y 9 de mayo de 2008.
 
-Se respeta la Publicación en la Gaceta, Diario Oficial Nº. 31 del 16 de febrero de 1998. del Decreto Ejecutivo N°. 3-98, Reglamento a la Ley que Establece el Autodespacho para la Importación, Exportación y Otros Regímenes Aduaneros.
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los once días del mes de agosto del año dos mil veintiuno. Dip. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+
+Observación: El Texto Consolidado, Decreto Ejecutivo N°. 3-98, Reglamento a la Ley que Establece el Autodespacho para la Importación, Exportación y Otros Regímenes Aduaneros, se encuentra incorporado en el Anexo IV, Registro de Normas Consolidadas de la Ley del Digesto Jurídico Nicaragüense de la Materia Aduanas.
 
 .

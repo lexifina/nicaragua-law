@@ -1,6 +1,6 @@
 # Artículo 18
 
-Para inscribirse en el Registro Nacional de Importadores (R.N.I.) dispuesto por el Arto. 18, numeral 4) de la Ley, se requerirá:
+Para inscribirse en el Registro Nacional de Importadores (R.N.I.) dispuesto por el Artículo 18, numeral 4) de la Ley, se requerirá:
 
 1) Llenar un formulario que entregará la autoridad aduanera;
 

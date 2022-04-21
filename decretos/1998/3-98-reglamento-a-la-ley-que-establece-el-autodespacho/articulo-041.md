@@ -8,7 +8,7 @@ Cuando con motivo del reconocimiento aduanero, verificación de mercancías en t
 
 3) Cada uno de los recipientes que contengan las muestras tomadas, deberán tener los datos relativos al producto y operación de que se trate. En todo caso deberán contener los siguientes datos: número de muestra asignado, nombre de la mercancía, número de declaración y la posición arancelaria declarada. Dichos recipientes deben embalarse en sobres, bolsas o algún otro y debidamente acondicionado y sellado, debiendo registrarse además de los datos antes mencionados, los nombres y firmas de quienes hubiesen intervenido en el reconocimiento, así como la descripción de las características de las mercancías;
 
-4) La autoridad aduanera asignará el número de registro que corresponda a las muestras, y;
+4) La autoridad aduanera asignará el número de registro que corresponda a las muestras; y
 
 5) Se levantará acta del muestreo.
 

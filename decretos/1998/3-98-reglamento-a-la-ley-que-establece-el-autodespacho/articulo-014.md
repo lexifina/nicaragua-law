@@ -10,6 +10,6 @@ La factura comercial mencionada en el Artículo 16, numeral 1), literal a) de la
 
 4) Nombre, domicilio, teléfono y fax del vendedor.
 
-La falta de alguno de estos datos o requisitos, así como las enmendaduras o anotaciones que alteren los datos originales, se considerarán como omisión de la factura, en términos y para efectos del Arto. 64, numeral 2), y Arto. 73, numeral 2), de la Ley, excepto cuando dicha omisión sea suplida por declaración bajo promesa de Ley del Agente o Importador, siempre que dicha declaración se presente antes de activar el sistema de selección aleatoria.
+La falta de alguno de estos datos o requisitos, así como las enmendaduras o anotaciones que alteren los datos originales, se considerarán como omisión de la factura, en términos y para efectos del Artículo 64, numeral 2) de la Ley, excepto cuando dicha omisión sea suplida por declaración bajo promesa de ley del Agente o Importador, siempre que dicha declaración se presente antes de activar el sistema de selección aleatoria.
 
-Las facturas, así como los documentos señalados en el Arto. 8, numeral 2) y Arto. 16, numeral 1), literal b), ambos de la Ley, deben ser extendidos en el idioma oficial.
+Las facturas, así como los documentos señalados en el Artículo 8, numeral 2) y Artículo 16, numeral 1), literal b), ambos de la Ley, deben ser extendidos en el idioma oficial.

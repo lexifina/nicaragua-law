@@ -1,6 +1,6 @@
 # Artículo 5
 
-Los que introduzcan mercancías al territorio nacional o extraigan por tubería, ductos, cables u otros medios, deberán obtener autorización previa de la Dirección General de Aduanas. En la autorización se señalará:
+Los que introduzcan mercancías al territorio nacional o extraigan por tubería, duetos, cables u otros medios, deberán obtener autorización previa de la Dirección General de Servicios Aduaneros. En la autorización se señalará:
 
 a) El lugar o lugares en que se ubicará la entrada o salida del país de las mercancías;
 
