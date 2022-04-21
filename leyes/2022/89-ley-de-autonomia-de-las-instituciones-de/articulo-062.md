@@ -1,0 +1,3 @@
+# Artículo 62
+
+Las autoridades que a la fecha de la promulgación de la presente Ley se encuentran en el ejercicio de sus cargos, continuarán en ellos hasta la elección de las nuevas autoridades.
