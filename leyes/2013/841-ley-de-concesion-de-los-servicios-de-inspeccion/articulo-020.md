@@ -1,3 +1,3 @@
 # Artículo 20
 
-Derogado
+Derogado.
