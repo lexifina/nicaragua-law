@@ -1,0 +1,3 @@
+# Artículo 5
+
+Corresponde al Ministerio de Educación elaborar los programas, metodología educativa y los textos progresivos de la materia sobre la Constitución Política y los Derechos Humanos para estudio en los niveles inicial, primaria y secundaria. En las Regiones Autónomas, los programas y textos serán elaborados también en las lenguas o idiomas de dichas regiones en coordinación con las autoridades educativas de las Regiones Autónomas. Las instituciones de la Educación Superior podrán elaborar los suyos en base mínima a los indicados en el Artículo 2 de esta Ley y los centros militares y policiales conforme el Artículo 4.
