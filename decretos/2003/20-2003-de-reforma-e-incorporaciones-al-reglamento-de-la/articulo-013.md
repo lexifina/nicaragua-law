@@ -1,11 +1,13 @@
 # Artículo 13
 
-Asesoría DGI. Corresponde a la Asesoría de la DGI:
+Planificación Estratégica
 
-1. Apoyar la gestión tributaria, jurídica, financiera y administrativa de la Dirección Superior.
+Corresponde a Planificación Estratégica:
 
-2. Revisar y opinar sobre propuestas de leyes económicas, Acuerdos o Convenios Internacionales que incidan en el Sistema Tributario.
+1. Coordinar la formulación y evaluación del Plan Estratégico y el Plan Operativo Anual.
 
-3. Evacuar consultas sobre las propuestas de circulares técnicas, comunicados, disposiciones y órdenes administrativas u otros estudios tributarios específicos de la Institución.
+2. Definir criterios para los fines de extracción de datos en cuanto a información estadística y gerencial.
 
-4. Coordinar con las asesorías legales del Ministerio de Hacienda y Crédito Público y Presidencia de la República, las leyes, reformas y Acuerdos Ministeriales que tengan incidencia en la DGI.
+3. Establecer las políticas para la elaboración del informe de gestión de la Administración Tributaria.
+
+4. Generar y evaluar información estadística para el control de la gestión institucional.

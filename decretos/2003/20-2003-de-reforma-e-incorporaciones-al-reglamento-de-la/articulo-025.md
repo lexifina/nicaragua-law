@@ -1,11 +1,13 @@
 # Artículo 25
 
-Subdirección General de Operaciones. Corresponde a la Sub-Dirección General de Operaciones:
+Dirección de Fiscalización
 
-1. Dirigir, coordinar y supervisar las tareas de recaudación, fiscalización y cobranzas de las Administraciones de Rentas y de las otras dependencias bajo su cargo.
+Corresponde a la Dirección de Fiscalización:
 
-2. Participar en la elaboración y evaluación del Plan Estratégico y del Plan Anual Operativo.
+1. Realizar estudios económicos-fiscales y de comportamiento de los contribuyentes mediante cruces de información interna y externa, con el objeto de formular el plan anual de fiscalización, definiendo que contribuyentes y bajo qué modalidad de fiscalización o programas serán auditados o controlados por los departamentos de Fiscalización dependientes de las Administraciones de Rentas y de la Dirección de Grandes Contribuyentes.
 
-3. Atender a los contribuyentes que interponen recurso de reposición conforme lo dispuesto en las leyes.
+2. Definir y desarrollar los procedimientos y técnicas de fiscalización que se implementarán en los departamentos de fiscalización de la institución. Documentar en detalle los programas de fiscalización definidos y diseñar los planes de capacitación e implantación de los mismos.
 
-4. Asegurar el control y custodia de las especies fiscales, los pagos de las declaraciones y la documentación fiscal soporte de cada contribuyente.
+3. Supervisar y mantener una estrecha coordinación con los departamentos de fiscalización de cada Administración de Rentas y de la Dirección de Grandes Contribuyentes a fin de evaluar los programas de fiscalización ejecutados por estos departamentos conforme los indicadores definidos para cada programa.
+
+4. Verificar y controlar el cumplimiento de las normas tributarias en la aplicación de sanciones y formulación de reparos.

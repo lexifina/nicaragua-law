@@ -1,33 +1,51 @@
 # Artículo 56
 
-División de Revisión Operativa. La División de Revisión Operativa estará subordinada a la Dirección General de Servicios Aduaneros y tendrá asignadas las funciones siguientes:
+División de Inspectoría Aduanera
 
-1. Dirigir, impulsar y controlar la actividad aduanera, a fin de mejorar su eficiencia, eficacia y transparencia.
+La División de Inspectoría Aduanera está subordinada a la Dirección General de Servicios Aduaneros y tendrá a su cargo las funciones siguientes:
 
-2. Actuar con autonomía técnica, mediante evaluaciones periódicas sobre todos los servicios y unidades de la Dirección General de Servicios Aduaneros.
+1. Dirigir, planificar, coordinar y controlar la actividad de vigilancia aduanera en el territorio nacional.
 
-3. Controlar el uso correcto de la documentación y registros relacionados con la actividad aduanera de los agentes aduaneros y demás operadores de comercio que actúan ante la Dirección General de Servicios Aduaneros.
+2. Establecer coordinación y brindar apoyo a las Administraciones de Aduanas, para contrarrestar los ilícitos que se produzcan y para la realización de operaciones combinadas.
 
-4. Requerir de los funcionarios de la Dirección General de Servicios Aduaneros la colaboración y facilitación para el cumplimiento de su función en las solicitudes de información que ésta realice.
+3. Coordinar sus actuaciones, cuando corresponda, con los órganos especializados de la Policía Nacional, en el control de ilícitos aduaneros.
 
-5. Elaborar informes al Director General de Servicios Aduaneros de sus actuaciones, en los que dejará constancia de las observaciones e irregularidades detectadas y de las propuestas de mejoras al servicio que estime conveniente:
+4. Prevenir y reprimir los ilícitos aduaneros, procediendo de acuerdo a la normativa de la materia.
 
-5.1. El Departamento de Control Interno tendrá a su cargo las funciones siguientes:
+5. Recibir las denuncias por defraudación y contrabando aduaneros.
 
-5.1.1 Efectuar control de calidad en la aplicación de los procedimientos de la gestión tributaria aduanera, así como de la gestión administrativa- financiera e informática.
+6. Custodiar las mercancías incautadas o decomisadas hasta su entrega a la autoridad correspondiente o devolución al interesado cuando corresponda:
 
-5.1.2 Realizar la auditoria contable de la recaudación y versión de la misma a su destino y de la aplicación presupuestaria de los fondos de la Dirección General de Servicios Aduaneros.
+6.1 El Departamento de Control Central tendrá asignada las funciones siguientes:
 
-5.1.3 Realizar la auditoria del sistema informático, en cuanto a su adecuación, uso y seguridad.
+6.1.1. Controlar las actuaciones de las diferentes áreas territoriales y los planes asignados a cada una de ellas.
 
-5.1.4 Detectar y evaluar los problemas en la aplicación de los procedimientos en general que impiden o dificultan el logro de las metas y objetivos fijados, proponiendo las mejoras que estime convenientes.
+6.1.2. Proponer estrategias y dirigir las acciones programadas de acuerdo al plan de inspección aduanera de cada período, para prevenir y reprimir el contrabando, la tenencia y el tráfico ilícito de mercancía.
 
-5.2. El Departamento de Investigaciones e Inspecciones tendrá a su cargo las funciones siguientes:
+6.1.3. Dar seguimiento a las actividades de inspección aduanera en el territorio nacional.
 
-5.2.1 Supervisar a los funcionarios encargados de la aplicación de las disposiciones legales, reglamentarias y de orden interno, para asegurar su cumplimiento.
+6.1.4. Identificar las rutas, modalidades y zonas de ingreso y comercialización de mercancías de contrabando, así como las personas que infrinjan las leyes y normas en la materia.
 
-5.2.2 Registrar, controlar e informar sobre las situaciones de compatibilidad o incompatibilidad de los funcionarios.
+6.1.5. Evaluar e investigar las denuncias que reciba por presuntos delitos de contrabando o tenencia, presentados por personas o entidades públicas o privadas.
 
-5.2.3 Supervisar el correcto cumplimiento de las disposiciones legales, reglamentarias y de orden interno por parte de los Agentes Aduaneros, en sus actuaciones ante la Dirección General de Servicios Aduaneros.
+6.1.6. Proponer modificaciones a la normativa relacionada con su actividad específica.
 
-5.2.4 Iniciar las investigaciones administrativas e instrucción de los procedimientos disciplinarios, por presunta comisión de irregularidades, infracciones administrativas o ilícitos, del personal de la Dirección General de Servicios Aduaneros, Agentes Aduaneros y demás operadores de comercio que actúan ante la Dirección General de Servicios Aduaneros.
+6.2 El Departamento de Inspectoría Móvil tendrá a su cargo las funciones siguientes:
+
+6.2.1 Vigilar el territorio aduanero en la jurisdicción asignada o aquella que se le ordene, organizando, dirigiendo y ejecutando los operativos.
+
+6.2.2 Controlar las mercancías, medios de transporte y otros elementos asociados, que circulan en el territorio aduanero nacional, comprobando el cumplimiento de la normativa y regulación aduanera, y de comercio exterior.
+
+6.2.3 Inspeccionar locales, predios y medios de transporte, sin control aduanero, donde se presuma la comisión de ilícitos e infracciones aduaneras ajustándose a la normativa aplicable.
+
+6.2.4 Verificar la autenticidad de los documentos que comprueben la procedencia legal de las mercancías.
+
+6.2.5 Contrarrestar los ilícitos aduaneros que detecte en su actuación, cumpliendo con los requisitos formales y materiales establecidos en la normativa sobre infracciones aduaneras y en cualquier otra aplicable al caso y disponiendo la remisión de sus actuaciones a la División de Asuntos Jurídicos en los casos en que la Aduana tiene competencia.
+
+6.2.6 Registrar las actuaciones de denuncias e ilícitos aduaneros detectados, en los formularios correspondientes hasta elaboración del acta final.
+
+6.2.7 Custodiar las mercancías, medios de transporte y otros medios asociados, en presunta infracción hasta su entrega en el correspondiente depósito de retención.
+
+6.2.8 Coordinar sus actuaciones con instituciones nacionales e internacionales debidamente acreditadas para controlar las infracciones no aduaneras cuando corresponda, a través del Director de Inspectoría Aduanera y en consulta previa con el Director General de Servicios Aduaneros.
+
+6.2.9 Comunicar sus actuaciones y sugerencias, a través del Control Central a la División de Planeamiento como aporte para la elaboración de los perfiles de riesgo.

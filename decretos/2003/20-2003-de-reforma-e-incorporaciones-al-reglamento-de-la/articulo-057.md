@@ -1,17 +1,51 @@
 # Artículo 57
 
-División de Convenios y Acuerdos. La División de Convenios y Acuerdos estará subordinada a la Dirección General de Servicios Aduaneros y tendrá asignadas las funciones siguientes:
+División de Asuntos Jurídicos
 
-1. Asistir e intervenir en todas las instancias negociadoras internacionales e interinstitucionales referidas a la actividad aduanera y el Comercio Exterior.
+La División de Asuntos Jurídicos estará subordinada a la Dirección General de Servicios Aduaneros y tendrá asignadas las funciones siguientes:
 
-2. Cumplir con la asistencia e intervención antes mencionada mediante la formación de ámbitos de trabajo con grupos de funcionarios de las distintas unidades de la organización según el tema a ser tratado.
+1. El Departamento de Asuntos Jurídicos tendrá a su cargo las siguientes funciones:
 
-3. Apoyar en la distribución y difusión de las resoluciones obtenidas en la instancia internacional o interinstitucional, a las áreas de organización que deba ejecutar o planificar su cumplimiento.
+1.1 Asesorar jurídicamente a la Dirección Superior y a las distintas instancias normativas y operativas de la Dirección General de Servicios Aduaneros y evacuar consultas a los usuarios del servicio aduanero.
 
-4. Mantener una relación coordinada y permanente con las distintas áreas de organización.
+1.2. Asesorar a las Administraciones de Aduana en asuntos relativos a las infracciones aduaneras y en la resolución de los recursos que se presenten.
 
-5. Promover acuerdos y convenios con las diferentes organizaciones nacionales en procura de mejorar la coordinación de las actuaciones de la Aduana.
+1.3. Representar a la DGA, a través de mandato otorgado por el Director General de Servicios Aduaneros, en los procesos sobre materia aduanera y todo aquel que la Aduana intervenga como actor, demandado o tercerista, ante las autoridades jurisdiccionales.
 
-6. Promover la firma de acuerdos de cooperación con otras Administraciones Aduaneras y en particular con las pertenecientes a la región.
+1.4. Determinar y mantener la unidad doctrinaria en la aplicación de las leyes, decretos, acuerdos y demás normas tributarias, aduaneras en los asuntos de competencia de la Aduana y de comercio exterior.
 
-PLANIFICACIÓN ESTRATÉGICA Y OPERATIVA
+1.5. Dictaminar en los asuntos de trámite aduanero donde se requiera el asesoramiento jurídico, resolviendo las consultas que se le planteen con relación a la aplicación de las normas tributarias y generales.
+
+1.6. Organizar y administrar una base de datos sobre legislación en materia de Aduanas y propiciar su intercambio con otras entidades.
+
+1.7. Garantizar y supervisar la aplicación de la legislación aduanera vigente y leyes conexas.
+
+1.8. Levantar el Acta de las deliberaciones del Consejo de Aduana.
+
+2. El Departamento de Notaría y Registros tendrá a su cargo las funciones siguientes:
+
+2.1 Realizar un Registro de los actos y contratos aduaneros.
+
+2.2 Realizar y mantener actualizado el Registro de los auxiliares de la Función Pública Aduanera.
+
+2.3 Realizar y mantener actualizado el Registro de los importadores.
+
+2.4 Librar a solicitud de parte las Certificaciones de las declaraciones aduaneras.
+
+2.5 Asesorar en la elaboración de los contratos que intervenga la DGA.
+
+2.6 Asesorar a las Administraciones de Aduanas en el procedimiento de subasta de mercancías y levantar el acta Correspondiente
+
+3. El Departamento de Exoneraciones, tendrá a su cargo las siguientes funciones:
+
+3.1 Aplicar conforme la legislación vigente, políticas de exoneraciones otorgadas a diferentes personas naturales o jurídicas, así como liberar de prenda aduanera los vehículos que han sido introducidos con exoneración.
+
+3.2 Atender solicitudes de corrección y revalidación de exoneraciones autorizadas conforme disposiciones legales vigentes.
+
+3.3 Asesorar jurídicamente a la Dirección Superior, Administraciones de Aduana y a las distintas instancias normativas y operativas de la Dirección General de Servicios Aduaneros, así como evacuar consultas a los usuarios del servicio aduanero, en materia de exoneraciones.
+
+3.4 Determinar y mantener la unidad doctrinaria en la aplicación de las leyes, decretos, acuerdos y demás normas tributarias aduaneras para ejecutar, autorizar o denegar exoneraciones, conforme la legislación vigente.
+
+3.5 Organizar y administrar base de datos de registro de exoneraciones, liberaciones de prenda aduanera y demás trámites autorizados en el departamento.
+
+3.6 Garantizar y supervisar la aplicación de la legislación aduanera vigente y leyes conexas en materia de exoneraciones.

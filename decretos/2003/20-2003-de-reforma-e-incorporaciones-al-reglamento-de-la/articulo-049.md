@@ -1,37 +1,51 @@
 # Artículo 49
 
-División de Recursos Humanos. La División de Recursos Humanos estará subordinada a la Sub Dirección General de Administración y tendrá asignadas las funciones siguientes:
+División de Administración de Servicios
 
-1. Administrar los recursos humanos de la Institución.
+La División de Administración de Servicios estará subordinada a la Sub Dirección General de Administración y tendrá asignados las funciones siguientes:
 
-2. Garantizar el cumplimiento de las disposiciones establecidas en el Código Laboral vigente.
+1. Supervisar el cumplimiento efectivo de las normas administrativas y procedimientos vigentes para la administración de los recursos materiales y el logro eficiente de los objetivos propuestos.
 
-3. Determinar los indicadores de gestión que afectan la actividad que desarrolla el personal.
+2. Coordinar, supervisar y controlar el mantenimiento de las instalaciones, mobiliario y equipos de oficina.
 
-4. Garantizar apropiadas condiciones laborales y seguridad social del personal.
+3. Planificar y supervisar la programación de compras de materiales, equipos y útiles de oficina, de acuerdo al Plan Anual Operativo.
 
-5. Supervisar la atención médica que prestan la clínica y los médicos de Aduana.
+4. Supervisar la recepción, almacenamiento y entrega de materiales a las diferentes áreas.
 
-6. Procurar al mejoramiento de las relaciones laborales, proponiendo acuerdos y convenios con el personal a través de sus representantes.
+5. Coordinar el apoyo logístico en todas las actividades que se efectúan en el nivel central, administraciones y delegaciones de Aduana.
 
-7. Dirigir, coordinar y supervisar las funciones de los departamentos dependientes:
+6. Participar y/o coordinar reuniones de índole interinstitucional relacionadas con los proyectos de construcción.
 
-7.1. El Departamento de Sistema de Carrera tendrá a su cargo las funciones siguientes:
+7. Administrar la seguridad y el resguardo físico de las instalaciones y activos fijos de la institución; así como la seguridad de los funcionarios y usuarios de los servicios aduaneros, que se encuentren dentro de las instalaciones.
 
-7.1.1. Planificar la carrera del personal, elaborando los perfiles funcionales y atendiendo los requerimientos de las diferentes áreas de la Dirección General de Servicios Aduaneros.
+8. Dar seguimiento a los controles de activos fijos de la Institución.
 
-7.1.2. Planificar, organizar y ejecutar las actividades relacionadas con la selección, calificación, evaluación de desempeño y promoción de los funcionarios de la Dirección General de Servicios Aduaneros, así como su adecuada asignación y ubicación conforme a los requisitos de los puestos de trabajo y requerimientos organizacionales.
+9. Dirigir, coordinar y supervisar las funciones de los departamentos dependientes.
 
-7.2 El Departamento de Capacitación tendrá a su cargo las funciones siguientes:
+9.1. El Departamento de Recursos Materiales tendrá a su cargo las siguientes funciones:
 
-7.2.1. Intervenir en la designación de funcionarios para el desarrollo de becas, pasantía, seminarios, congresos u otras actividades similares, tanto nacionales como internacionales, así como también en los trámites para el efectivo cumplimiento de los mismos.
+9.1.1 Garantizar los suministros necesarios para el normal desarrollo de las actividades de la Dirección General de Servicios Aduaneros.
 
-7.2.2. Determinar la capacitación adecuada a las exigencias de los puestos de trabajo definidos para el mejor cumplimiento de las leyes, procedimientos y demás normativas aduaneras y de comercio exterior.
+9.1.2 Mantener actualizado el inventario de suministros y programar las reposiciones.
 
-7.3. El Departamento de Administración de Personal tendrá a su cargo las funciones siguientes:
+9.1.3 Elaborar el Plan Anual de adquisiciones de la Dirección General de Servicios Aduaneros.
 
-7.3.1 Controlar la asistencia, permanencia, situación personal, funcional y retiro del personal de la Institución.
+9.1.4 Mantener actualizado el Registro de Proveedores.
 
-7.3.2 Mantener actualizada la información contenida en los expedientes del personal.
+9.1.5 Realizar y controlar las licitaciones para la adquisición de suministros.
 
-7.3.3 Controlar todas las deducciones que se les debe hacer al personal.
+9.2. El Departamento de Servicios Generales tendrá a su cargo las siguientes funciones:
+
+9.2.1 Elaborar el plan de tareas en base al diagnóstico de necesidades, para mantener y mejorar las instalaciones de la Dirección General de Servicios Aduaneros.
+
+9.2.2 Supervisar la aplicación de los elementos de imagen institucional de acuerdo al Manual de Imagen Corporativa.
+
+9.2.3 Realizar el mantenimiento de las instalaciones, mobiliario y equipos de la Institución.
+
+9.2.4 Elaborar estudio de factibilidad, términos de referencia, especificaciones técnicas y perfiles de proyecto para la construcción o remodelación de las instalaciones de la Dirección General de Servicios Aduaneros.
+
+9.2.5 Elaborar presupuesto de los proyectos a realizar y preparar informes financieros de la ejecución de los mismos.
+
+9.2.6 Supervisar el mantenimiento de la flota vehicular de la Dirección General de Servicios Aduaneros.
+
+9.2.7 Supervisar el trabajo del personal de mantenimiento y conserjería.

@@ -1,7 +1,9 @@
 # Artículo 14
 
-Asistencia Ejecutiva. Corresponde a la Asistencia Ejecutiva:
+Asesoría Legal
 
-1. Elaborar, implantar y revisar los procedimientos que aseguren la agilidad y eficacia de las labores propias del despacho del Director General.
+Corresponde a Asesoría Legal:
 
-2. Coordinar a nivel interno y externo de la DGI las directrices emanadas por el Director General.
+1. Asesorar y representar a la institución y al Director General de Ingresos en los juicios penales y criminales que son entablados contra los contribuyentes por los diferentes delitos cometidos por estos.
+
+2. Coordinar con la Procuraduría General de la República las acciones relacionadas a los juicios penales y criminales que son entablados contra los contribuyentes por los diferentes delitos cometidos por estos.

@@ -1,9 +1,11 @@
 # Artículo 16
 
-División de Revisión de Recursos. Corresponde a la División de Revisión de Recursos:
+Divulgación
 
-1. Recibir, tramitar y analizar los Recursos de Revisión interpuestos por los contribuyentes contra el Director General.
+Corresponde a Divulgación:
 
-2. Otorgar audiencias a los Contribuyentes.
+1. Promover a través de los medios de comunicación, el acercamiento con los contribuyentes y público en general a fin de proyectar la imagen institucional.
 
-3. Elaborar propuestas de resolución al Director General en base al exámen y valoración de las pruebas que presenten los recurrentes conforme la ley.
+2. Definir, ejecutar y evaluar las estrategias de comunicación para incrementar en los contribuyentes la confianza en la gestión institucional.
+
+3. Coordinar las conferencias de prensas y entrevistas del Director General con los medios de comunicación.

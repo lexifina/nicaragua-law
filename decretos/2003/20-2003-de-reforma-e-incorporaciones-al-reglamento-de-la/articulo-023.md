@@ -1,3 +1,7 @@
 # Artículo 23
 
-División de Control de Exoneraciones. La División de Control de Exoneraciones administra conforme la ley el sistema de exoneraciones y prepara el documento para firma de la Dirección Superior.
+Dirección de Registro, Recaudación y Cobranza
+
+Corresponde a la Dirección de Registro, Recaudación y Cobranza:
+
+1. Normar, supervisar, coordinar, controlar y evaluar, a nivel nacional, los procesos de registro del contribuyente, recaudación, control de omisos, cobranza y convenios, mediante la elaboración, actualización y capacitación de normas y procedimientos relacionados con los procesos que administra.

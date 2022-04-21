@@ -1,3 +1,5 @@
 # Artículo 38
 
-Participación en el Consejo de Aduanas. El Director General de Servicios Aduaneros podrá invitar a las reuniones del Consejo de Aduanas a representantes de sectores de la actividad privada, tales como: Cámara de Industrias, Cámara de Comercio, Cámara de Agentes Aduaneros, Asociación de Exportadores, Federación de Transportistas, Asociación de Depósitos Aduaneros, Corporación de Zonas Francas, cuyas deliberaciones tendrán carácter de recomendaciones.
+Consejo de Aduanas
+
+El Consejo de Aduanas establecido en el Artículo 34 del presente Reglamento, será un cuerpo colegiado que asesorará a la Dirección General mediante el análisis de la problemática aduanera y de las soluciones propuestas para una mejor toma de decisiones.

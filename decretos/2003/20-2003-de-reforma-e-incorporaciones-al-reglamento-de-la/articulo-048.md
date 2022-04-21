@@ -1,43 +1,51 @@
 # Artículo 48
 
-División Financiera. La División Financiera estará subordinada a la Sub Dirección General de Administración y tendrá asignadas las funciones siguientes:
+División de Gestión y Estadísticas
 
-1. Supervisar el cumplimiento de las normas, políticas y procedimientos en materia financieras.
+La División de Gestión y Estadísticas estará subordinada a la Sub Dirección General de Técnica y tendrá a su cargo las funciones siguientes:
 
-2. Elaborar y presentar los estados financieros a la Dirección General.
+1. Realizar seguimiento y evaluación de los resultados de la ejecución de los planes de fiscalización, inspectoría y demás áreas de la aduana, comprobando el grado de cumplimiento de los objetivos programados.
 
-3. Formular el anteproyecto del presupuesto anual de ingresos y egresos de la Institución.
+2. Elaborar, actualizar y publicar las estadísticas de comercio exterior y todas aquellas otras de interés para los operadores económicos, instituciones u otros organismos.
 
-4. Dar seguimiento a la ejecución presupuestaria de ingresos y egresos de la Institución.
+3. Elaborar la memoria anual, de la Dirección General de Servicios Aduaneros.
 
-5. Custodiar la documentación contable y financiera de la Institución por el periodo definido en la legislación vigente.
+4. Comunicar de los resultados obtenidos a las Divisiones evaluadas del grado de efectividad y cumplimiento de los planes, exponiendo la problemática detectada.
 
-6. Controlar la emisión de las notas de crédito, devoluciones y reintegros tributarios a favor de los contribuyentes.
+5. Realizar el seguimiento de los planes de fiscalización y de su adecuada ejecución.
 
-7. Custodiar las garantías bancarias, valores públicos, documentos y depósitos efectuados por los importadores y auxiliares de la función pública aduanera a favor de la DGA, controlar el vencimiento de los mismos y hacerlas efectivas en su caso.
+6. Retroalimentar a las áreas de selección, análisis y programación acerca de los resultados obtenidos del seguimiento y evaluación a fiscalización, para que evalúen su grado de cumplimiento y adecuación.
 
-8. Dirigir, coordinar y supervisar las funciones de los departamentos dependientes:
+7. Elaborar los indicadores de gestión para la Dirección General.
 
-8. 1 El departamento de Control de Gestión tendrá a su cargo las funciones siguientes:
+8. Administrar la base de datos de estadísticas del Comercio Exterior, de la Dirección General de Servicios Aduaneros.
 
-8.1.1 Elaborar el inventario anual de Activo Fijo.
+9. Dirigir, coordinar y supervisar las funciones de los departamentos dependientes:
 
-8.1.2 Llevar el registro y gestión de las Cuentas por Cobrar.
+9.1 El Departamento de Indicadores y Estadística, tendrá asignadas las funciones siguientes:
 
-8.1.3 Coordinar con la División de Asuntos Jurídicos y Notariales las acciones para lograr la recuperación de la cartera.
+9.1.1 Elaborar, actualizar y publicar las estadísticas de Comercio Exterior y todas aquellas otras de interés para los operadores económicos, instituciones u organismos.
 
-8.2 El Departamento de Contabilidad tendrá a su cargo las funciones siguientes:
+9.1.2 Emitir constancias de importación y/o exportación, e información estadística solicitada por las unidades de aduana o a través del Centro de Atención al Usuario.
 
-8.2.1 Llevar los registros contables de Ia Dirección General de Servicios Aduaneros.
+9.1.3 Elaborar las propuestas de proyección de recaudación de las diferentes administraciones de aduana en base
 
-8.2.2 Practicar arqueos periódicos de las cuentas de fondo fijo de las diferentes Administraciones de Aduanas.
+a análisis estadísticos.
 
-8.2.3 Controlar y custodiar los pagos realizados por la Institución.
+9.1.4 Monitorear el grado de cumplimiento de las recaudaciones de cada una de las administraciones de aduana.
 
-8.3 El Departamento de Presupuesto tendrá a su cargo las funciones siguientes:
+9.1.5 Revisar la base de datos de estadística (comercio exterior) con el propósito de buscar inconsistencias, proponer soluciones e informar a las unidades correspondientes.
 
-8.3.1 Elaborar las proyecciones necesarias para la administración de los recursos monetarios y controlar los ingresos y egresos de la Institución.
+9.1.6 Elaborar la memoria anual de la Dirección General de Servicios Aduaneros para su publicación.
 
-8.3.2 Elaborar informe de ejecución presupuestaria de la Dirección General de Servicios Aduaneros.
+9.2 El Departamento de Seguimiento y Evaluación, tendrá asignadas las funciones siguientes:
 
-8.3.3 Efectuar la conciliación bancaria de los ingresos tributarios, no tributarios y fondos propios de la Institución.
+9.2.1 Dar seguimiento a los planes operativos de cada una de las unidades de la aduana con el objetivo de determinar su adecuada ejecución.
+
+9.2.2 Evaluar los resultados obtenidos de la ejecución de los planes operativos de cada una de las unidades de la aduana, comprobando el grado de cumplimiento de los objetivos programados.
+
+9.2.3 Informar acerca de los resultados de la evaluación a las diferentes unidades de la aduana, con el fin de dar a conocer los problemas encontrados para que éstas puedan presentar alternativas de solución y ajustar sus planes.
+
+9.2.4 Establecer los criterios e indicadores para la elaboración de las estadísticas a efectos del control de la gestión interna de las diferentes unidades de la aduana.
+
+9.2.5 Informar los resultados de la gestión aduanera a la Dirección Superior, Ministerio de Hacienda y Crédito Público, Secretaría de la Presidencia y Consejo Nacional de Planificación Económica Social. Sin vigencia, parte in fine del numeral.

@@ -1,11 +1,9 @@
 # Artículo 18
 
-División General Administrativa Financiera. Corresponde a la División General Administrativa Financiera:
+División de Informática y Sistemas
 
-1. Elaborar el ante proyecto de presupuesto anual y su programación de acuerdo con los requerimientos del plan estratégico y del plan anual operativo.
+Corresponde a la División de Informática y Sistemas:
 
-2. Controlar las operaciones administrativas financieras con un sistema Gerencial contable.
+1. Organizar, dirigir y controlar el diseño, desarrollo, implementación y funcionamiento de los sistemas informáticos, operativos, bases de datos, redes, telecomunicaciones y equipos, para garantizar un servicio efectivo de apoyo informático a todos los niveles de la institución.
 
-3. Velar por los bienes patrimoniales de la DGI aplicando las normas de Control Interno establecidas y las normas presupuestarias y financieras que rigen para las Instituciones del Estado.
-
-4. Satisfacer oportunamente las necesidades de apoyo logístico que demandan las distintas áreas organizativas.
+2. Recomendar nuevas aplicaciones tecnológicas de Hardware y Software y las formas de implantación y evaluar permanentemente el estado de los sistemas de información, equipos y software, normas y procedimientos de desarrollo, instalación, mantenimiento, operación y producción.

@@ -1,13 +1,11 @@
 # Artículo 19
 
-Subdirección General de Planes y Normas. Corresponde a la Sub-Dirección General de Planes y Normas:
+División de Recursos Humanos
 
-1. Planificar, dirigir, coordinar y evaluar, las actividades relaciona al Plan Estratégico y el Plan Operativo.
+Corresponde a la División de Recursos Humanos:
 
-2. Evacuar consultas tributarias o peticiones de exoneraciones de los contribuyentes.
+1. Administrar los procesos de ingresos, traslados, promociones y egresos del personal, conforme las normativas y leyes vigentes.
 
-3. Proponer y analizar las reformas de las Leyes, reglamentos y demás disposiciones que de forma general o particular inciden en el sistema tributario.
+2. Formular, ejecutar y evaluar planes y programas de capacitación para promover la formación técnica y profesional de los funcionarios y/o empleados de la Dirección General de Ingresos con el fin de mejorar su desempeño.
 
-4. Aprobar los manuales y formatos que se utilizarán en la recaudación, cobranza y fiscalización de los tributos.
-
-5. Coordinar las asesorías y programas de apoyo de las Instituciones Internacionales con la DGI.
+3. Asegurar el pago oportuno de las remuneraciones al personal, la implantación de programas de beneficios sociales, higiene y seguridad ocupacional, el mantenimiento del sistema disciplinario y el cumplimiento de las disposiciones legales laborales y de seguridad social.

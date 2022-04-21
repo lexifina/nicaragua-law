@@ -1,7 +1,3 @@
 # Artículo 29
 
-Administración de Rentas. La Administración de Rentas recauda, fiscaliza y cobra a los contribuyentes bajo su Administración, aplicando las normas tributarias y los controles internos, directrices, orientaciones y los manuales de procedimiento emitidos para tal fin. Resuelve los Recursos de Reposición que interpongan los Contribuyentes.
-
-ESTRUCTURA FUNCIONAL Y ORGANIZATIVA DE LA DIRECCIÓN GENERAL DESERVICIOS ADUANEROS
-
-FUNCIONES DE LA DIRECCIÓN GENERAL DE SERVICIOS
+Para la aplicación de lo dispuesto en el Artículo 13 de la Ley, las funciones de Administración General y Representación Legal, solo serán delegadas en caso de ausencia del Director General, aplicándose entonces lo dispuesto en el Artículo 9 de la Ley Nº. 339. Las demás funciones y facultades pueden ser delegadas a las áreas respectivas por medio de comunicaciones escritas emitidas por el Director General de Ingresos o mediante el nombramiento de los jefes de Dirección, División o Administración de Rentas.

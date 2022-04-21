@@ -1,7 +1,9 @@
 # Artículo 31
 
-Coordinación de Funciones. Previo a que se dicte cualquier norma destinada a regular las actividades de otros organismos participantes en las operaciones de comercio exterior, que impliquen interferencia en la ejecución o afecten los controles aduaneros, deberá ser oída la Dirección General de Servicios Aduaneros.
+Oficinas Delegadas y Oficinas Fiscales
 
-Título II
+Se debe entender como oficinas delegadas y/o oficinas fiscales; las direcciones, dependencias u oficinas del Estado y/o Instituciones privadas, autorizadas por la Dirección General de Ingresos, para que sean oficinas recaudadoras de conformidad a lo dispuesto en el numeral 9 del Artículo 152 de la Ley Nº. 562, Código Tributario de la República de Nicaragua.
 
-DE LA ESTRUCTURA ORGANIZATIVA
+ESTRUCTURA FUNCIONAL Y ORGANIZATIVA DE LA DIRECCIÓN GENERAL DE SERVICIOS ADUANEROS
+
+FUNCIONES DE LA DIRECCIÓN GENERAL DE SERVICIOS ADUANEROS

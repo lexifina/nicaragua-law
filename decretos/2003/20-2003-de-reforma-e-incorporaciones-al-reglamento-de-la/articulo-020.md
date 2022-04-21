@@ -1,11 +1,13 @@
 # Artículo 20
 
-División de Planes y Control de Gestión. Corresponde a la División de Planes y Control de Gestión:
+División de Recursos Materiales y Financieros
 
-1. Coordinar la formulación y evaluación del Plan estratégico, el Plan Operativo Anual, y los Planes de Fiscalización, Recaudación y Cobranza.
+Corresponde a la División de Recursos Materiales y Financieros:
 
-2. Elaborar los manuales y formatos que se utilizarán en la recaudación, cobranza y fiscalización de los tributos.
+1. Planificar, organizar, dirigir, controlar y evaluar el uso racional de los recursos materiales y financieros que garanticen la administración eficiente y transparente de los recursos para el óptimo funcionamiento de las operaciones de la institución.
 
-3. Definir criterios para los fines de extracción de datos en cuanto a Información Estadística y Gerencial manejados en el Sistema de Información Tributaria.
+2. Garantizar el estricto cumplimiento de los procedimientos, políticas, controles y principios contables generalmente aceptados, asegurando el registro de todas las operaciones financieras, el presupuesto anual, y control de los fondos y valores de la Dirección General de Ingresos.
 
-4. Establecer las políticas para la elaboración del informe de gestión de la Administración Tributaria.
+3. Asegurar el suministro y mantenimiento correcto de las instalaciones, equipos, mobiliarios y materiales de oficina y la adecuada prestación de servicios a las diferentes áreas de la Institución.
+
+4. Elaborar el anteproyecto de presupuesto anual y su programación de acuerdo con los requerimientos del Plan Estratégico y del Plan Anual Operativo.

@@ -1,11 +1,15 @@
 # Artículo 21
 
-División Jurídica-Técnica. Corresponde a la División Jurídica-Técnica:
+Dirección de Asistencia al Contribuyente
 
-1. Coordinar y asesorar en los asuntos legales y tributarios de la institución.
+Corresponde a la Dirección de Asistencia al Contribuyente:
 
-2. Elaborar y analizar propuesta de leyes, reglamentos, circulares técnicas, dictámenes jurídicos y tributarios.
+1. Asesorar y orientar al contribuyente y público general, en todo lo relacionado con la tributación, apoyándose en las leyes, reglamentos y normativas vigentes, brindando servicios de calidad a los mismos.
 
-3. Atender consultas sobre aspectos legales y tributarios, para uso interno de la Dirección General de Ingresos así como otros en materia tributaria y legal presentados por los contribuyentes.
+2. Diseñar estrategias de acercamiento, comunicación, educación y publicar material informativo.
 
-4. Realizar el cobro persuasivo a través de intervenciones administrativas, judiciales o embargos.
+3. Ejecutar en distintas partes del país seminarios, talleres u otras actividades de información a los sujetos pasivos, con el propósito de incrementar la conciencia tributaria.
+
+4. Reproducir y distribuir todas las disposiciones o resoluciones tributarias y coordinar con el Ministerio de Educación lo relacionado al pénsum académico de tributación.
+
+5. Diseñar, ejecutar y evaluar las estrategias de asistencia al contribuyente a nivel nacional para ser aplicadas por las Administraciones de Rentas.

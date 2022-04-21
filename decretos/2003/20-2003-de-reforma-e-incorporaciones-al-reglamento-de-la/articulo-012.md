@@ -1,51 +1,53 @@
 # Artículo 12
 
-Dirección Superior y Estructura.- Para el cumplimiento del Arto. 10 de la Ley, la estructura organizacional de la DGI estará conformada de la manera siguiente:
+Para el cumplimiento de las funciones establecidas en el Artículo 146 de la Ley Nº. 562, Código Tributario de la República de Nicaragua y sus reformas, y en aplicación a lo dispuesto en al Artículo 10 de la Ley, la Dirección General de Ingresos tendrá la siguiente estructura organizacional:
 
-1. Dirección General, cuyas dependencias son:
+1. Dirección Superior.
 
-1.1 Asesoría;
+1.1 Director General.
 
-1.2 División de Auditoría Interna;
+1.2 Sub Dirección General de Planes y Normas.
 
-1.3 Asistencia Ejecutiva;
+1.3 Sub Dirección General de Operaciones.
 
-1.4 División de Revisión de Recursos;
+El Director General nombrará a los Sub Directores Generales y les delegará las funciones y facultades que correspondan.
 
-1.5 División de Recursos Humanos ;
+2. Órganos de Asesoría y Apoyo a la Dirección Superior.
 
-1.6 División Administrativa Financiera ;
+2.1 Planificación Estratégica.
 
-1.7 Divulgación Tributaria .
+2.2 Asesoría Legal.
 
-2. Sub-Dirección General de Planes y Normas, cuyas dependencias son:
+2.3 Auditoría Interna.
 
-2.1 División de Planes y Control de Gestión ;
+2.4 Divulgación.
 
-2.2 División Jurídico-Técnico;
+2.5 Revisión de Recursos.
 
-2.3 División de Información y Sistema;
+3. Divisiones.
 
-2.4 División de Control de Exoneraciones;
+3.1 División de Informática y Sistemas.
 
-2.5 División de Asesoría al Contribuyente.
+3.2 División de Recursos Humanos.
 
-3. Sub-Dirección General de Operaciones, cuyas dependencias son:
+3.3 División de Recursos Materiales y Financieros.
 
-3.1 Oficina de Especies Fiscales;
+4. Direcciones.
 
-3.2 Oficina Registro Único del Contribuyente;
+4.1 Dirección de Asistencia al Contribuyente.
 
-3.3 Oficina de Archivo Tributario;
+4.2 Dirección Jurídico Tributaria.
 
-3.4 División de Fiscalización .
+4.3 Dirección de Registro, Recaudación y Cobranza.
 
-3.5 División de Administraciones de Rentas con sus dependencias:
+4.4 Dirección de Administraciones de Rentas.
 
-3.5.1 Administraciones de Rentas;
+4.5 Dirección de Fiscalización.
 
-3.5.2 Agencias Fiscales.
+4.6 Dirección de Grandes Contribuyentes.
 
-4. División de Catastro Fiscal.
+4.7 Dirección de Catastro Fiscal.
 
-Las Divisiones estarán a cargo de un Director, a excepción de las Administraciones de Rentas que estarán a cargo de un Administrador.
+Las Divisiones y los Órganos de Asesoría y Apoyo a la Dirección Superior estarán a cargo de un jefe de División o del Órgano de Asesoría y Apoyo; y, las Direcciones estarán a cargo de un Director.
+
+Las Administraciones de Rentas estarán a cargo de un Administrador de Rentas.

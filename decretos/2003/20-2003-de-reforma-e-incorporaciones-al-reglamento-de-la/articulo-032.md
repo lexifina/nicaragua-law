@@ -1,141 +1,39 @@
 # Artículo 32
 
-Estructura. La Dirección General de Servicios Aduaneros estará estructurada de la manera siguiente:
+Funciones
 
-1. Dirección General;
+La Dirección General de Servicios Aduaneros tendrá las siguientes funciones:
 
-2. Auditoria Interna;
+1. Ejercer el control aplicable, a toda persona, mercancía y medios de transporte en su territorio, a fin de recaudar tributos, generar datos estadísticos de comercio exterior, prevenir y reprimir la comisión de ilícitos aduaneros.
 
-3. Consejo de Aduanas;
+2. Coadyuvar con las instituciones correspondientes en el control de entrada y salida al territorio aduanero de las mercancías restringidas o prohibidas.
 
-4. Asesoría de Planificación Estratégica;
+3. Practicar el reconocimiento a las mercancías sometidas a cualquier régimen aduanero, a fin de precisar la veracidad de lo declarado, tanto en los depósitos aduaneros como en el domicilio, dependencias, bodegas, instalaciones o establecimientos del declarante, si este lo solicita y se satisfagan los requisitos establecidos mediante disposiciones administrativas.
 
-5. Asesoría de Relaciones Públicas.
+4. Participar en la definición de criterios obligatorios de clasificación de mercancías para la aplicación de la nomenclatura arancelaria.
 
-6. Sub Dirección General Técnica, la que se integrará con la siguientes unidades:
+5. Intervenir en todas las instancias negociadoras nacionales e internacionales referidas a la actividad aduanera y en la elaboración de proyectos normativos y acuerdos internacionales que se relacionen con dicha actividad.
 
-6.1 División de Técnica Aduanera, la que tendrá a su cargo las siguientes unidades:
+6. Cumplir y hacer cumplir las obligaciones convencionales que resulten de los tratados internacionales suscritos por el país en materia aduanera y de comercio exterior en lo procedente.
 
-6.1.1 Arancel y Valor;
+7. Mantener actualizada la información estadística del comercio exterior.
 
-6.1.2 Normativa Aduanera ;
+8. Planificar, coordinar y ejecutar las auditorias domiciliares a los importadores, exportadores y auxiliares de la función pública aduanera.
 
-6.1.3 Regímenes Aduaneros.
+9. Controlar la actuación de todos los auxiliares de la función pública aduanera.
 
-6.2 División de Planeamiento, la que tendrá a su cargo las siguientes unidades:
+10. Definir y desarrollar los programas de capacitación de los recursos humanos.
 
-6.2.1 Selección y Análisis;
+11. Garantizar la aplicación de las normas técnicas y condiciones de infraestructura que deben cumplir los depósitos aduaneros a efectos de su habilitación.
 
-6.2.2 Programación de la Fiscalización.
+12. Llevar el estado general, por rubro, de los ingresos que recauden las unidades y dependencias bajo su dirección e informar diariamente al Ministerio de Hacienda y Crédito Público para la ejecución de la política tributaria, y rendirle cuentas de la ejecución presupuestaria.
 
-6.3 División de Gestión y Estadísticas, la que tendrá a su cargo las siguientes unidades:
+13. Coordinar el servicio de vigilancia aduanera, para la prevención y represión de ilícitos e infracciones aduaneras.
 
-6.3.1 Indicadores y Estadísticas;
+14. Recabar de cualquier organismo o persona, pública o privada, las informaciones necesarias y practicar las investigaciones pertinentes para la determinación de los elementos integrantes o condicionantes del hecho generador de los tributos, respecto de los cuales sea sujeto activo.
 
-6.3.2 Seguimiento y Evaluación de la Fiscalización.
+15. Publicar las Disposiciones Técnicas y Administrativas para el conocimiento público a través de medios electrónicos, electromagnéticos u otros medios que el Director General disponga.
 
-6.4 Oficina de Facilitación de Pequeños Exportadores.
+16. Conocer y resolver de conformidad con el CAUCA y RECAUCA los recursos aduaneros que interpongan los contribuyentes y usuarios en el ejercicio de sus derechos.
 
-7. Sub Dirección General de Administración, la que se integrará con las siguientes unidades:
-
-7.1 División de Administración de Servicios, la que tendrá a su cargo las siguientes unidades:
-
-7.1.1 Departamento de Recursos Materiales;
-
-7.1.2 Departamento de Servicios Generales.
-
-7.2 División Financiera, la que tendrá a su cargo las siguientes unidades:
-
-7.2.1 Departamento de Control de Gestión;
-
-7.2.2 Departamento de Contabilidad;
-
-7.2.3 Departamento de Presupuesto.
-
-7.3 División de Recursos Humanos, la que tendrá a su cargo las siguientes unidades:
-
-7.3.1 Departamento de Sistema de Carrera;
-
-7.3.2 Departamento de Capacitación;
-
-7.3.3 Departamento de Administración de Personal.
-
-7.4 División de Informática, la que tendrá a su cargo las siguientes unidades:
-
-7.4.1 Departamento de Administración de Sistemas:
-
-7.4.2 Departamento de Desarrollo:
-
-7.5 Departamento de Atención a Usuarios.
-
-7.6 Departamento de Coordinación de Aduanas.
-
-8. División de Fiscalización, la que tendrá a su cargo las siguientes unidades:
-
-8.1 Departamento de Revisión.
-
-8.2 Departamento de Auditoría de Empresas.
-
-8.3 Departamento de Laboratorio.
-
-8.4 Oficina de Industria.
-
-8.5 Oficina de Control Documental.
-
-9. División de Inspectoría Aduanera la que tendrá a su cargo las siguientes unidades:
-
-9.1 Control Central.
-
-9.2 Inspectoría Móvil.
-
-10. División de Asuntos Jurídicos, que se integrará con las siguientes unidades:
-
-10.1 Departamento de Asuntos Jurídicos.
-
-10.2 Departamento de Notaría y Registros.
-
-11. División de Revisión Operativa, la que tendrá a su cargo las siguientes unidades:
-
-11.1 Departamento de Control Interno.
-
-11.2 Departamento de Investigaciones e Inspecciones.
-
-12. División de Convenios y Acuerdos, la que tendrá a su cargo las siguientes unidades:
-
-12.1 Departamento Internacionales.
-
-12.2 Departamento Interinstitucionales.
-
-13. Administraciones de Aduanas de Nivel I, con categoría de División:
-
-13.1 Administración de Aduana Managua.
-
-13.2 Administración de Aduana Peñas Blancas.
-
-13.3 Administración de Aduana Guasaule.
-
-13.4 Administración de Aduana Corinto.
-
-13.5 Administración de Aduana Central de Carga Aérea.
-
-14. Administraciones de Aduanas de Nivel II, con categoría de Departamento:
-
-14.1 Administración de Aduana Las Manos.
-
-14.2 Administración de Aduana El Espino.
-
-14.3 Administración de Aduana Puerto Cabezas.
-
-14.4 Administración de Aduana El Buff.
-
-14.5 Administración de Aduana El Rama.
-
-14.6 Administración de Aduana Puerto Sandino.
-
-14.7 Administración de Aduna Potosí.
-
-14.8 Administración de Aduna San Carlos.
-
-Título III
-
-DE LA ORGANIZACIÓN
+17. Las demás funciones que le asignen otras leyes.

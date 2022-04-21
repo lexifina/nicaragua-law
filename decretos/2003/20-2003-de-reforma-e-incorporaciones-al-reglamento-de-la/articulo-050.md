@@ -1,51 +1,67 @@
 # Artículo 50
 
-División de Informática. La División de Informática estará subordinada a la Sub Dirección General de Administración y tendrá a su cargo las funciones siguientes:
+División Financiera
 
-1. Dirigir, controlar, coordinar y supervisar los servicios informáticos de la Institución.
+La División Financiera estará subordinada a la Sub Dirección General de Administración y tendrá asignadas las funciones siguientes:
 
-2. Integrar la contraparte que gestiona y controla las tercerizaciones de servicios informáticos con que cuenta la Institución, sin perjuicio de lo establecido en la Ley No. 323, Ley General de Contrataciones del Estado publicada en La Gaceta, Diario Oficial No. 1 y 2 del 3 y 4 de Enero del 2000, su reforma Ley No. 349, publicada en La Gaceta, Diario Oficial No. 109 del 9 de Junio del 2000 y su Reglamento, Decreto No. 21-2000, publicado en La Gaceta, Diario Oficial No. 46 del 6 de Marzo del 2000.
+1. Supervisar el cumplimiento de las normas, políticas y procedimientos en materia financiera.
 
-3. Determinar las necesidades de equipos de computación y programas informáticos procurando la modernización tecnológica y facilitar el control de las operaciones aduaneras.
+2. Custodiar la documentación contable y financiera de la Institución por el período definido en la legislación vigente.
 
-4. Dirigir, coordinar y supervisar las funciones de los departamentos dependientes:
+3. Autorizar la ejecución presupuestaria de ingresos y egresos de la Institución durante el año.
 
-4.1. El Departamento de Administración de Sistemas tendrá a su cargo las funciones siguientes:
+4. Autorizar la emisión de notas de crédito y devoluciones a favor de los contribuyentes.
 
-4.1.1. Monitorear el funcionamiento de la red para detectar y corregir posibles problemas en la transmisión de la información.
+5. Revisar, autorizar y presentar los estados financieros a la Dirección General.
 
-4.1.2. Proponer proyectos para mantener y mejorar el desempeño de la red.
+6. Revisar, autorizar y presentar el anteproyecto del presupuesto anual de ingresos y egresos de la Institución.
 
-4.1.3. Respaldar periódicamente la información contenida en los servidores de la red.
+7. Dirigir, coordinar y supervisar las funciones de los departamentos dependientes.
 
-4.1.4. Elaborar planes de expansión de las redes e instalaciones de cómputo y telecomunicaciones.
+7.1 El Departamento de Control de Gestión, tendrá a su cargo las funciones siguientes:
 
-4.1.5. Establecer estándares de sistemas operativos y de aplicaciones informáticas instaladas en la Red.
+7.1.1 Llevar el registro y gestión de las Cuentas por Cobrar.
 
-4.1.6. Elaborar el plan de mantenimiento preventivo semestral y anual.
+7.1.2 Coordinar con la División de Asuntos Jurídicos y Notariales las acciones para lograr la recuperación de la cartera.
 
-4.1.7. Atender y resolver llamadas de usuarios internos de la red que requieran algún servicio de asesoría o soporte técnico.
+7.1.3. Apoyar al Director Financiero en el seguimiento de las gestiones financieras de la Institución.
 
-4.1.8. Brindar asistencia técnica y capacitación a los usuarios externos, constituidos por los auxiliares de la función pública aduanera.
+7.1.4 Gestionar ante otras instituciones del estado que tengan relación directa en materia tributaria con las autoridades aduaneras, mecanismos de comunicación que permitan el intercambio de información para una mejor gestión.
 
-4.1.9. Supervisar la ejecución y cumplimiento de los contratos de servicio, mantenimiento preventivo y correctivo del sistema informático.
+7.1.5 Implementar estrategias para asegurar la recuperación de las cuentas por cobrar.
 
-4.1.10 Mantener un inventario actualizado de todos los equipos de computación y comunicación existente en el nivel central, las administraciones y delegaciones de Aduana.
+7.1.6 Gestionar ante las instancias correspondientes la autorización de bajas para adeudos incobrables.
 
-4.1.11 Participar en el proceso de adquisición de equipos, suministros y servicios informáticos.
+7.2 El Departamento de Contabilidad, tendrá a su cargo las funciones siguientes:
 
-4.2. El Departamento de Desarrollo tendrá a su cargo las funciones siguientes:
+7.2.1 Llevar los registros contables de la Dirección General de Servicios Aduaneros.
 
-4.2.1 Elaborar planes para el desarrollo de sistemas automatizados de información.
+7.2.2 Practicar arqueos periódicos de las cuentas de fondo fijo de las diferentes Administraciones de Aduanas.
 
-4.2.2 Proponer soluciones conforme los requerimientos de los usuarios.
+7.2.3 Controlar y custodiar los pagos realizados por la Institución.
 
-4.2.3 Establecer la plataforma de desarrollo, los estándares de calidad y los mecanismos de control para asegurar el buen funcionamiento, la integración y el mantenimiento de los sistemas de información.
+7.2.4 Custodiar las garantías bancarias, valores públicos, documentos y depósitos efectuados por los importadores auxiliares de la función pública aduanera a favor de la DGA, controlando el vencimiento de los mismos y haciéndolas efectivas en su caso.
 
-4.2.4 Establecer y vigilar que se cumplan las normas en el proceso de control y resguardo de la información de sistemas.
+7.2.5 Elaborar los estados financieros de la Institución.
 
-4.2.5 Cumplir con las medidas de seguridad establecidas por la dirección y velar por el buen manejo de los recursos informáticos.
+7.2.6 Mantener actualizado el inventario anual de Activo Fijo y efectuar la depreciación mensual de los mismos.
 
-4.2.6 Asesorar a las diferentes direcciones en los aspectos relacionados a la especialidad.
+7.2.7 Realizar las operaciones de altas, bajas y traslados de activos en los registros correspondientes durante el
 
-4.2.7 Garantizar la capacitación informática de los usuarios de los sistemas que se implanten en la institución en coordinación con la División de Recursos Humanos.
+año.
+
+7.2.8 Elaborar los comprobantes de devolución a favor de los contribuyentes.
+
+7.3 El Departamento de Presupuesto, tendrá a su cargo las funciones siguientes:
+
+7.3.1 Elaborar las proyecciones necesarias para la administración de los recursos monetarios y controlar los ingresos y egresos de la Institución.
+
+7.3.2 Elaborar informe de ejecución presupuestaria de la Dirección General de Servicios Aduaneros.
+
+7.3.3 Efectuar la conciliación bancaria de los ingresos tributarios, no tributarios y fondos propios de la Institución con los Informes del Ministerio de Hacienda y Crédito Público.
+
+7.3.4 Elaborar el anteproyecto del presupuesto anual de ingresos y egresos de la Institución.
+
+7.3.5 Elaborar las notas de crédito a favor de los contribuyentes y preparar informe mensual de los mismos.
+
+7.3.6 Revisar los ingresos de las diferentes Delegaciones y Administraciones de Aduanas del país.

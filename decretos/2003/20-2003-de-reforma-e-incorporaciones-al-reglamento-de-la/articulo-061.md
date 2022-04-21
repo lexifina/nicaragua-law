@@ -1,3 +1,5 @@
 # Artículo 61
 
-Comité de Planificación.- Para la elaboración de los Planes Estratégicos y los Planes Anuales Operativos, en cada institución se conformará un Comité de Planificación, el cual se apoyará en el Área responsable de la Planificación institucional. En las actividades de elaboración de estos Planes deberá garantizarse la participación de todos los niveles y áreas institucionales.
+Plan Estratégico
+
+El Plan Estratégico de cada institución, contiene los grandes objetivos institucionales y las líneas de acción para alcanzarlos, igualmente la descripción de la misión, la visión, las políticas, los objetivos generales y específicos, las estrategias y las actividades clave para el desarrollo futuro de las instituciones así como deberá señalar los responsables de su ejecución y los resultados esperados. El Plan Estratégico será la guía para la elaboración de los Planes Anuales Operativos.

@@ -1,5 +1,5 @@
 # Artículo 62
 
-PAO de cada Gestión.- Los Planes Anuales Operativos de cada año deberán ser elaborados, revisados y aprobados por los Directores Generales a más tardar cinco meses antes de finalizar la Gestión del año anterior, deberán ser remitidos, junto con el Presupuesto Anual de Gastos de la Institución, para la aprobación del Ministro de Hacienda y Crédito Público en las fechas que dicho Ministerio indique.
+Plan Anual Operativo
 
-CARRERA ADMINISTRATIVA
+El Plan Anual Operativo deberá contener las metas que deberán alcanzar cada una de las áreas de la institución, desagregándolas de los objetivos específicos del Plan Estratégico, así como los programas operativos de trabajo de cada área para alcanzar dichas metas. Los programas operativos de trabajo deberán especificar las acciones a desarrollar, la unidad ejecutora y el período de ejecución. Deberán señalarse los requerimientos de cada acción en materia de recursos humanos, equipamiento y otros pertinentes.
