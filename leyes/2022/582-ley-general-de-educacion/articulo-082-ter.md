@@ -1,0 +1,5 @@
+# Artículo 82 ter
+
+Los planes de estudio de postgrado, en los niveles de especialización, maestrías y doctorados de los Centros e Institutos de Estudios e Investigación, previo a su impartición, serán aprobados por la autoridad correspondiente de la institución de Educación Superior con la que hayan realizado el respectivo convenio. Toda la información relacionada con este tema en particular será parte de la que suministre la institución de Educación Superior correspondiente, de manera ordinaria y periódica en la actualización que ordena el párrafo segundo del Artículo 79 de la Ley Nº. 704, Ley Creadora del Sistema Nacional para el Aseguramiento de la Calidad de la Educación y Reguladora del Consejo Nacional de Evaluación y Acreditación.
+
+En materia de aseguramiento de la calidad de la educación, estas entidades se sujetarán a la Ley Nº. 704, Ley Creadora del Sistema Nacional para el Aseguramiento de la Calidad de la Educación y Reguladora del Consejo Nacional de Evaluación y Acreditación (CNEA), mediante la institución de Educación Superior a la que se adscriban o con la que hayan suscrito convenio de colaboración.

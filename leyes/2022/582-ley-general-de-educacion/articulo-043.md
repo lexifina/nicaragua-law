@@ -1,0 +1,5 @@
+# Artículo 43
+
+Naturaleza y alcances de la Educación Extraescolar
+
+El Subsistema de Educación Extraescolar atiende, reconoce e incluye todos los procesos y acciones que, siendo desarrolladas desde diversos escenarios y medios en los ámbitos formal y no formal, producen aprendizajes que contribuyen al desarrollo integral del ciudadano nicaragüense, ya sea mediante la información o producción de conocimientos, o bien a través de la promoción y el desarrollo de competencias, valores y actitudes que favorecen el desarrollo personal, y el desempeño eficiente de los sujetos, en los procesos de participación y vida ciudadana y de desarrollo económico, social y cultural del país. Se diferencia de la Educación Escolar, en que la Educación Extraescolar no ofrece ni entrega créditos, grados ni títulos; no obstante, de conformidad a las disposiciones del órgano rector del servicio educativo correspondiente, permite al educando que varios certificados de asistencia a cursos y eventos de capacitación, le sean acreditados a cursos o carreras de la educación escolar.
