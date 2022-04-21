@@ -1,0 +1,3 @@
+# Artículo 2
+
+Se entiende que una persona se dedica al ejercicio de Contaduría Pública cuando ofrece sus servicios al público para ejecutar como contador y mediante remuneración, servicios que implican la auditoría o verificación de libros, cuentas o registros mercantiles o transacciones financieras; o la preparación o certificación de estados contables o financieros destinados a la publicidad o para fines tributarios o de crédito.

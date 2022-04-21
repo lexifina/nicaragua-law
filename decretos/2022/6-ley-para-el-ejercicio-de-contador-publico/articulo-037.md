@@ -1,0 +1,7 @@
+# Artículo 37
+
+El presente Decreto surte efectos de Ley a partir de su publicación en La Gaceta, Diario Oficial y deroga toda disposición que se le oponga.
+
+Comuníquese. Publíquese. - Casa Presidencial.- Managua, D.N., 14 abril de 1959.- LUIS SOMOZA D. - El Ministro de Educación Pública, RENÉ SCHICK.
+
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por: 1. Ley Nº. 1189, Reformas a la Constitución y Ley Electoral, publicada en La Gaceta, Diario Oficial Nº. 100 del 7 de mayo de 1966; 2. Decreto JGRN Nº. 6, Ley Creadora de los Ministerios de Estado, publicado en La Gaceta, Diario Oficial Nº. 1 del 22 de agosto de 1979; 3. Ley Nº. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en La Gaceta, Diario Oficial N°. 102 del 3 de junio de 1998; 4. Ley N°. 260, Ley Orgánica del Poder Judicial de la República de Nicaragua, publicada en La Gaceta, Diario Oficial N°. 137 del 23 de julio de 1998; 5. Ley N°. 612, Ley de Reforma y Adición a la Ley Nº. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en La Gaceta, Diario Oficial Nº. 20 del 29 de enero de 2007; 6. Ley N°. 870, Código de Familia, publicada en La Gaceta, Diario Oficial N°. 190 del 8 de octubre de 2014; 7. Código Civil de la República de Nicaragua, Cuarta Edición Oficial 2019, publicado en La Gaceta, Diario Oficial N°. 236 del 11 de diciembre de 2019; y los criterios jurídicos de pérdida de vigencia por Plazo Vencido y Objeto Cumplido.
