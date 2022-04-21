@@ -1,10 +1,10 @@
 # Artículo 4
 
-Podrán ingresar al país bajo este régimen las mercancías establecidas en el Arto. 7 de la Ley que incluye entre otras las siguientes.
+Podrán ingresar al país bajo este régimen las mercancías establecidas en el Artículo 7 de la Ley que incluye entre otras las siguientes:
 
 a) La materia en estado primario.
 
-b) Los bienes intermedios
+b) Los bienes intermedios.
 
 c) Los productos terminados que se incorporen a otros artículos finales transformados o ensamblados en el país.
 

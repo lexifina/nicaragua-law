@@ -1,6 +1,6 @@
 # Artículo 5
 
-La solicitud de inscripción de las empresas referida en el Arto. 6 de la Ley deberá contener al menos la siguiente información:
+La solicitud de inscripción de las empresas referida en el Artículo 6 de la Ley deberá contener al menos la siguiente información:
 
 1. Datos Generales del beneficiario de la Ley.
 
@@ -20,7 +20,7 @@ La solicitud de inscripción de las empresas referida en el Arto. 6 de la Ley de
 
 9. Anexar una copia del perfil del Proyecto o estudio equivalente.
 
-10. Presentar Certificación de estar inscrito en los Registros de Contribuyentes de la DGI y de la DGA, además deberán llevar registros contables conforme lo establece la Legislación Tributaria Común, todo sin perjuicio de lo establecido en el artículo 32, literal c) de la Ley.
+10. Presentar Certificación de estar inscrito en los Registros de Contribuyentes de la DGI y de la DGA, además deberán llevar registros contables conforme lo establece el Código Tributario de la República de Nicaragua, todo sin perjuicio de lo establecido en el Artículo 32, literal c) de la Ley.
 
 11. Cualquier otra información que la CNPE requiera en forma específica.
 
