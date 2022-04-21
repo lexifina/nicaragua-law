@@ -1,5 +1,5 @@
 # Artículo 36
 
-Reglamentación.
+Reglamentación
 
-Esta Ley deberá ser reglamentada de conformidad con lo establecido en el numeral 10 del Artículo 150 de la Constitución.
+Esta Ley deberá ser reglamentada de conformidad con lo establecido en el numeral 10 del Artículo 150 de la Constitución Política de la República de Nicaragua.

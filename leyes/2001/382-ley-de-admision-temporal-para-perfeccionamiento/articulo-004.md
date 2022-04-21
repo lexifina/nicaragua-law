@@ -1,6 +1,6 @@
 # Artículo 4
 
-Régimen.
+Régimen
 
 El régimen de Admisión Temporal para Perfeccionamiento Activo es el sistema tributario que permite tanto el ingreso de mercancías en el territorio aduanero nacional como la compra local de las mismas sin el pago de toda clase de derechos e impuestos.
 
