@@ -1,6 +1,8 @@
 # Artículo 18
 
-Presupuesto y financiamiento: Los Presupuestos Anuales de Gastos e Inversiones tanto de la Dirección General de Ingresos como de la Dirección General de Servicios Aduaneros, deberán ser elaborados y ejecutados conforme a las normas y métodos vigentes con carácter general para la Administración Pública Nicaragüense y serán aprobados por el Ministerio de Hacienda y Crédito Público con base en el Plan Anual Operativo presentado por el Director General de cada entidad y consignados en el Presupuesto General de la República de cada año.
+Presupuesto y financiamiento
+
+Los Presupuestos Anuales de Gastos e Inversiones tanto de la Dirección General de Ingresos (DGI) como de la Dirección General de Servicios Aduaneros (DGA), deberán ser elaborados y ejecutados conforme a las normas y métodos vigentes con carácter general para la Administración Pública Nicaragüense y serán aprobados por el Ministerio de Hacienda y Crédito Público con base en el Plan Anual Operativo presentado por el Director General de cada entidad y consignados en el Presupuesto General de la República de cada año.
 
 Este Presupuesto Anual de Gastos e Inversiones será financiado exclusivamente con:
 

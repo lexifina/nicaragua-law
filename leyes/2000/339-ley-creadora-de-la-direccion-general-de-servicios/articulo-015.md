@@ -1,8 +1,10 @@
 # Artículo 15
 
-Atribuciones de los Directores Generales: Sin perjuicio de las demás facultades que otras leyes le asignen los Directores Generales, tendrán las siguientes atribuciones:
+Atribuciones de los Directores Generales
 
-1) Cumplir y hacer cumplir el ordenamiento jurídico que establece o regula ingresos tributarios y no tributarios a favor del Estado y que están bajo la jurisdicción de la Administración de Ingresos y de igual manera con las normas de naturaleza aduanera, arancelaria y no arancelaria de comercio exterior que estén bajo la jurisdicción de la DGA.
+Sin perjuicio de las demás facultades que otras leyes le asignen los Directores Generales, tendrán las siguientes atribuciones:
+
+1) Cumplir y hacer cumplir el ordenamiento jurídico que establece o regula ingresos tributarios y no tributarios a favor del Estado y que están bajo la jurisdicción de la Administración de Ingresos y de igual manera con las normas de naturaleza aduanera, arancelaria y no arancelaria de comercio exterior que estén bajo la jurisdicción de la Dirección General de Servicios Aduaneros (DGA).
 
 2) Dictar disposiciones técnicas de carácter general para su cumplimiento obligatorio por los responsables y contribuyentes con fundamento en las leyes respectivas.
 
@@ -16,6 +18,6 @@ Atribuciones de los Directores Generales: Sin perjuicio de las demás facultades
 
 7) Conocer y resolver de conformidad a la ley de la materia sobre los Recursos que interpongan los contribuyentes y usuarios en el ejercicio de sus derechos.
 
-8) Proponer al Presidente de la República a través del Ministerio de Hacienda y Crédito Público, reformas de leyes y reglamentos relativos a Ingresos Tributarios y aduaneros.
+8) Proponer al Presidente de la República a través del Ministerio de Hacienda y Crédito Público, reformas de leyes y reglamentos relativos a ingresos tributarios y aduaneros.
 
 Las demás que sean necesarias para llevar a cabo el cumplimiento de la misión, funciones, objetivos, metas y actividades institucionales.

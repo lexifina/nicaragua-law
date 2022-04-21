@@ -1,6 +1,8 @@
 # Artículo 6
 
-Funciones de la DGA: La Dirección General de Servicios Aduaneros (DGA) tendrá las siguientes funciones:
+Funciones de la Dirección General de Servicios Aduaneros (DGA)
+
+La Dirección General de Servicios Aduaneros (DGA) tendrá las siguientes funciones:
 
 1) Definir las políticas, directrices y disposiciones que regulan el sistema aduanero, de conformidad con lo que establece la legislación vigente y velar porque se apliquen rigurosamente.
 
@@ -28,6 +30,6 @@ Funciones de la DGA: La Dirección General de Servicios Aduaneros (DGA) tendrá 
 
 13) Perseguir las infracciones y aplicar las sanciones correspondientes en el ámbito aduanero, de conformidad a la ley de la materia.
 
-14) Las demás funciones que le asigne la Ley 265, Ley que Establece el Autodespacho para la Importación, Exportación y Otros Regímenes.
+14) Las demás funciones que le asigne la Ley Nº. 265, Ley que Establece el Autodespacho para la Importación, Exportación y Otros Regímenes.
 
 Las demás que le asignen otros cuerpos legales.
