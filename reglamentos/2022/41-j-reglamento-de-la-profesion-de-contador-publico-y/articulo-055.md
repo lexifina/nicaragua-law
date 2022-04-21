@@ -1,0 +1,3 @@
+# Artículo 55
+
+De conformidad con el Artículo 18 inciso c) de la Ley, las cuotas o contribuciones que los miembros están obligados a pagar al Colegio, son las siguientes: a) Por ingreso; b) Ordinarias; c) Extraordinarias. El valor de tales cuotas o contribuciones será fijado por la Asamblea General y podrá ser revisado por el Ministerio de Educación, a solicitud de un número de asociados que represente cuando menos un tercio del total de los miembros activos del Colegio. También deberán pagar los miembros del Colegio, los derechos establecidos por la expedición de las constancias que requieran para presentar al Ministerio de Educación, la correspondiente solicitud de autorización para el ejercicio de la profesión.

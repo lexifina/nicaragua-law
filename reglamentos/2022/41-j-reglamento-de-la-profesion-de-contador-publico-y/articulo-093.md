@@ -1,0 +1,3 @@
+# Artículo 93
+
+La apelación será interpuesta ante el Secretariado del Colegio, quien la pondrá en conocimiento del Presidente. Interpuesto el recurso el Presidente dictara resolución, refrendada por el Secretario, emplazando al recurrente para que mejore el recurso dentro del plazo de cinco días. En el mismo escrito de mejora del recurso, el apelante hará la correspondiente expresión de agravios. El Ministerio de Educación, una vez mejorado el recurso por el apelante, mandará pedir informe al Colegio y arrastrar lo actuado y en vista de ellos y de la expresión de agravios del apelante resolverá sin ulterior recurso.
