@@ -1,0 +1,3 @@
+# Artículo 151
+
+Para dar pleno cumplimiento a la Ley de Carrera Docente y su Reglamento en todo aquello que tiene implicaciones económicas, el gobierno de la República de Nicaragua a través del Ministerio de Educación (MINED) acuerda con los Sindicatos de los Trabajadores de la Educación a discutir y elaborar conjuntamente, a partir del primero de julio de 1991 la propuesta relativa a dichos aspectos que contemplan entre otros, el salario básico, Escalafón por puntaje, jubilación, capacitación, etc., para ser aplicados a partir del mes de enero de 1992, previa aprobación del Presupuesto por la Asamblea Nacional.
