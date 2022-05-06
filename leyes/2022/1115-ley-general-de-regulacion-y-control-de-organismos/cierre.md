@@ -1,0 +1,7 @@
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los treinta y un días del mes de marzo del año dos mil veintidós. Dip. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+
+Por tanto. Téngase como Ley de la República. Publíquese y Ejecútese. Managua, el día cinco de abril del año dos mil veintidós. Daniel Ortega Saavedra, Presidente de la República de Nicaragua.
+
+Observación: El Texto Consolidado de la Ley Nº. 1115, Ley General de Regulación y Control de Organismos Sin Fines de Lucro, fue aprobado y publicado en la Ley del Digesto Jurídico Nicaragüense de la Materia Orden Interno.
+
+.
