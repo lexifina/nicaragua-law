@@ -1,0 +1,3 @@
+# Artículo 50 bis
+
+De conformidad al Artículo 3 de la Ley Nº. 773, Ley de Reformas a la Ley Nº. 601, Ley de Promoción de la Competencia, publicada en La Gaceta, Diario Oficial Nº. 200 del 24 de octubre del 2011, en los casos de presentación de Recurso de Hecho, ante la negativa de admisión a la denuncia, el recurrente no podrá mejorar o subsanar requisitos solicitados por el Presidente del Consejo Directivo en el plazo que le fue ordenado para subsanación de la denuncia. Los miembros del Consejo Directivo facultados para conocer de este recurso, ordenarán el arrastre de las diligencias de lo actuado por el Presidente del Consejo Directivo para su resolución.

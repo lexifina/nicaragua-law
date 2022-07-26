@@ -1,0 +1,7 @@
+# Artículo 16
+
+Expedientes administrativos
+
+Los expedientes administrativos pueden ser no confidenciales y confidenciales; los no confidenciales son los referidos a procedimientos administrativos llevados por PROCOMPETENCIA, podrán ser examinados, leídos por los funcionarios de PROCOMPETENCIA y por los interesados y sus representantes, en cualquier estado del procedimiento, quienes podrán solicitar, a sus expensas, fotocopias simples o razonadas de la totalidad o parte del expediente administrativo.
+
+El Presidente, conforme las disposiciones del presente Reglamento, podrá determinar la confidencialidad de determinados documentos suministrados por los particulares, frente a los otros interesados en el procedimiento y a terceros, relativos a expedientes bajo conocimiento de PROCOMPETENCIA, los cuales serán archivados en piezas separadas del expediente principal. A ellos solo podrán tener acceso los funcionarios de PROCOMPETENCIA, y serán manejados por el encargado del archivo bajo la supervisión de la Dirección que corresponda.
