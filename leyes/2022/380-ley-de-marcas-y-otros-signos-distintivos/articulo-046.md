@@ -1,0 +1,5 @@
+# Artículo 46
+
+Licencia de la marca colectiva
+
+Una marca colectiva no podrá ser objeto de licencia de uso en favor de personas distintas de aquellas autorizadas a usar la marca conforme a su reglamento de empleo.
