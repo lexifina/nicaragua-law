@@ -1,0 +1,9 @@
+# Artículo 40
+
+Procedimiento para las entidades empresariales con personalidad jurídica existentes
+
+En atención al Artículo anterior, las cámaras, federaciones o confederaciones gremiales empresariales existentes al momento de entrada en vigencia de la presente Ley, deberán de registrarse en el Registro de Cámaras, Federaciones y Confederaciones Empresariales del MIFIC. Para tal efecto, las entidades empresariales deberán presentar a dicha dependencia, la documentación que acredita el otorgamiento de personalidad jurídica a la entidad gremial correspondiente, debidamente publicado en La Gaceta, Diario Oficial, así como las modificaciones estatutarias si las hubiere. La autoridad de aplicación tendrá un plazo de ciento veinte días calendario, a partir de la fecha de recepción de los documentos legales de las entidades empresariales, para emitir el Acuerdo Ministerial correspondiente. Para la realización de este acto, las entidades empresariales con personalidad jurídica existentes estarán exentas por una sola vez de la tarifa establecida en el Artículo 25, literales a), b) y c).
+
+En caso de encontrarse alguna omisión o error, y sea necesario subsanar algunos de los documentos legales a que hacen referencia el párrafo anterior se notificará por auto administrativo al interesado por vía electrónica o física, para que proceda a corregir o a completar la información requerida; en este caso, el plazo comenzará a correr a partir de que se entreguen los documentos rectificados. Si el solicitante no cumpliere con lo señalado anteriormente, no se procederá al registro de la entidad gremial empresarial con personalidad jurídica existente.
+
+La falta de respuesta por parte del MIFIC en el plazo indicado se tendrá como silencio administrativo positivo a favor de la entidad gremial empresarial que solicita el registro, siguiendo el procedimiento del tercer párrafo del Artículo 18 de la presente Ley.
