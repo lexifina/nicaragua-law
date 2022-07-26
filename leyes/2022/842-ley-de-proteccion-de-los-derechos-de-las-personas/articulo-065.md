@@ -1,0 +1,9 @@
+# Artículo 65
+
+Sobre las transacciones electrónicas de los servicios financieros
+
+En los casos que existan posibilidades de contratar productos y servicios financieros por medios electrónicos, se garantiza a las personas usuarias el derecho a realizar estas transacciones y celebrar contratos, siendo las derivaciones de los mismos de igual valor probatorio y efecto legal que los contratos celebrados de forma escrita o las transacciones efectuadas de forma presencial, ajustándose a las instrucciones proporcionadas por la entidad financiera.
+
+En caso de duda manifestada por el usuario de servicios financieros acerca de los componentes de determinado servicio prestado mediante los medios referidos anteriormente, la institución financiera a su solicitud, estará obligada a esclarecerla, debiendo entregar copia de los soportes de las transacciones objeto del reclamo. La copia de los soportes se suministrará de forma gratuita, la primera vez; el costo sobre posteriores solicitudes vinculadas al mismo servicio financiero, las asumirá la persona usuaria. Para este último caso, la Institución financiera colocará en lugar visible la tarifa por suministro de esta información, misma que deberá ser remitida al Ente Regulador para que se pronuncie, en su caso, conforme sus facultades de ley.
+
+Se exceptúan del principio de gratuidad expuesto en el párrafo que antecede a las transacciones realizadas con tarjetas de crédito, cuyo comprobante de operación se da a la persona consumidora o usuaria al momento de ser realizada la transacción, y en cuyo caso toda solicitud de copia al respecto por parte de este podrá tener un costo. En los casos de resolución negativa a la persona usuaria por parte de la entidad financiera por impugnación de cargos o no reconocimiento de los mismos, y de no estar conforme con tal negativa, la entidad financiera deberá entregar a la persona usuaria copia de los correspondientes comprobantes de los cargos impugnados.
