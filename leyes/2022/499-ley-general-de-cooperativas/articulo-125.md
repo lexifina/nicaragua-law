@@ -1,0 +1,5 @@
+# Artículo 125
+
+Derogado.
+
+DEL CONSEJO NACIONAL DE COOPERATIVAS

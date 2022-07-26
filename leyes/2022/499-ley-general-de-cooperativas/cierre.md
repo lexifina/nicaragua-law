@@ -1,0 +1,11 @@
+Dada en la Ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional, a los veintinueve días del mes de septiembre del año dos mil cuatro. CARLOS NOGUERA PASTORA, Presidente de la Asamblea Nacional. MIGUEL LÓPEZ BALDIZÓN, Secretario de la Asamblea Nacional.
+
+Ratificada constitucionalmente de conformidad al Artículo 143, parte infine de la Constitución Política de la República, en la Tercera Sesión Ordinaria de la XX Legislatura de la Asamblea Nacional, celebrada el día nueve de diciembre del año dos mil cuatro, en razón de haber sido rechazado el veto parcial del Presidente de la República de fecha veintitrés de noviembre del año dos mil cuatro. Dada en la ciudad de Managua en la Sala de Sesiones de la Asamblea Nacional, a los nueve días del mes de diciembre del año dos mil cuatro. Por tanto: Téngase como Ley de la República. Publíquese y Ejecútese. CARLOS NOGUERA PASTORA, Presidente de la Asamblea Nacional. MIGUEL LÓPEZ BALDIZÓN, Secretario de la Asamblea Nacional.
+
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por: 1. Ley Nº. 804, Ley de Reforma y Adición a la Ley Nº. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en La Gaceta. Diario Oficial Nº. 134 del 17 de julio de 2012; 2. Ley Nº. 885, Ley de Reformas y Adiciones a la Ley Nº. 290, Ley de Organización. Competencias y Procedimientos del Poder Ejecutivo, publicada en La Gaceta, Diario Oficial Nº. 199 del 21 de octubre de 2014; 3. Ley Nº. 906, Ley de Reformas y Adiciones a la Ley Nº. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en La Gaceta, Diario Oficial Nº. 163 del 28 de agosto de 2015; y los criterios jurídicos de pérdida de vigencia por Objeto Cumplido y Plazo Vencido.
+
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los veinticinco días del mes de noviembre del año dos mil veintiuno. Dip. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+
+Observación: El Texto Consolidado, Ley N°. 499, Ley General de Cooperativas, se encuentra incorporado en el Anexo IV del Registro de Normas Consolidadas de la Ley del Digesto Jurídico Nicaragüense de la Materia Empresa, Industria y Comercio.
+
+.

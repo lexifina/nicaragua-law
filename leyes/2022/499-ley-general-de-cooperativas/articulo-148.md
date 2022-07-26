@@ -1,0 +1,3 @@
+# Artículo 148
+
+La presente Ley deroga la Ley General de Cooperativa del veintitrés de junio de mil novecientos setenta y uno, publicada en La Gaceta Nº. 164 del veintitrés de julio de mil novecientos setenta y uno; su Reglamento; la Ley de Cooperativas Agropecuarias y Agroindustriales del veinticuatro de marzo de mil novecientos noventa; la Resolución del Ministerio del Trabajo Nº. 11 del once de mayo de mil novecientos noventa y tres; el Artículo 27, literal d) de la Ley de Organización. Competencia y Procedimientos del Poder Ejecutivo, Ley 290 y Artículos 246, 247, 248 y 249 del Reglamento de la Ley 290 y cualquier otra disposición que se oponga a esta Ley.
