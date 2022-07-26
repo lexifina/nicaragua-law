@@ -1,0 +1,11 @@
+Dado en la ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional, a los veintiocho días del mes de septiembre del año dos mil seis. RENÉ NÚÑEZ TÉLLEZ, Presidente por la Ley Asamblea Nacional. MARÍA AUXILIADORA ALEMÁN ZEAS, Secretaria Asamblea Nacional.
+
+Por tanto: Téngase como Ley de la República. Publíquese y Ejecútese. Managua, diecinueve de octubre del año dos mil seis. ENRIQUE BOLAÑOS GEYER, Presidente de la República de Nicaragua.
+
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por: 1. Ley Nº. 668, Ley de Reforma y Adiciones a la Ley Nº. 601, Ley de Promoción de la Competencia, publicada en La Gaceta, Diario Oficial Nº. 174 del 9 de septiembre de 2008; 2. Ley Nº. 773, Ley de Reformas a la Ley Nº. 601, Ley de Promoción de la Competencia, publicada en La Gaceta, Diario Oficial Nº. 200 del 24 de octubre de 2011; 3. Ley Nº. 840, Ley Especial para el Desarrollo de Infraestructura y Transporte Nicaragüense Atingente a El Canal, Zonas de Libre Comercio e Infraestructuras Asociadas, publicada en La Gaceta, Diario Oficial Nº. 110 del 14 de junio de 2013; 4. Ley Nº. 868, Ley de Reforma y Adición a la Ley Nº. 601, Ley de Promoción de la Competencia, publicada en La Gaceta, Diario Oficial Nº. 106 del 10 de junio de 2014; 5. Ley Nº. 902, Código Procesal Civil de la República de Nicaragua, publicado en La Gaceta, Diario Oficial Nº. 191 del 9 de octubre de 2015; y los criterios jurídicos de pérdida de vigencia por Objeto Cumplido.
+
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los veinticinco días del mes de noviembre del año dos mil veintiuno. Dip. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+
+Observación: El Texto Consolidado, Ley N°. 601, Ley de Promoción de la Competencia, se encuentra incorporado en el Anexo IV del Registro de Normas Consolidadas de la Ley del Digesto Jurídico Nicaragüense de la Materia Empresa, Industria y Comercio. La Ley N°. 1287, Ley de Derogación de la Procuraduría Nacional para la Defensa de la libre Competencia y de Resolución Alterna de Conflictos deja sin vigencia a la Ley N°. 601, Ley de Promoción de la Competencia y su texto Consolidado.
+
+.
