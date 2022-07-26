@@ -1,0 +1,5 @@
+# Artículo 94
+
+Sin vigencia.
+
+DE LAS DISPOSICIONES TRANSITORIAS

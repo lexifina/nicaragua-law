@@ -1,0 +1,3 @@
+# Artículo 76
+
+Si por la falta de quórum no se hubiera celebrado la Asamblea General Ordinaria o Extraordinaria, esta podrá celebrarse en segunda convocatoria, la cual será de acatamiento obligatorio. Si una hora después de señalada para comenzar la sesión de Asamblea Ordinaria o Extraordinaria, en segunda convocatoria, no se constituyera el quórum legal, la Asamblea podrá celebrarse estando presentes por lo menos el 40% de los asociados, siempre que dicha proporción no sea menor al mínimo legal que permite la Ley para constituirse como cooperativa. Se exceptúan aquellos casos que se requiera de una mayoría calificada, según lo establecido en los Artículos 65 y 85 de la Ley.
