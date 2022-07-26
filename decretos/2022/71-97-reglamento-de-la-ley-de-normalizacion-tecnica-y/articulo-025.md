@@ -1,0 +1,3 @@
+# Artículo 25
+
+Cuando los productos o servicios sujetos a cumplimiento obligatorio de determinada NTON no reúna las especificaciones que corresponda, se prohibirá su comercialización hasta tanto los mismos no se acondicionen, reprocesen, reparen o sustituyan, de acuerdo a la exigencia técnica. De no ser posible lo anterior la autoridad competente podrá autorizar la comercialización del bien, para un uso distinto para el que fue originalmente concebido; el nuevo uso o destino que se le dará al bien, deberá informarse de forma precisa al consumidor, a fin de proteger la vida, salud humana y animal, la protección del medio ambiente y la seguridad nacional.
