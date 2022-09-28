@@ -2,7 +2,7 @@
 
 Toda persona en un proceso tiene derecho, en igualdad de condiciones al debido proceso y a la tutela judicial efectiva y, como parte de ellas, a las siguientes garantías mínimas:
 1) A que se presuma su inocencia mientras no se pruebe su culpabilidad conforme la ley.
-2) A que sus asuntos sean juzgados sin dilaciones por tribunal competente establecido por la ley. No hay fuera atractivo. Nadie puede ser sustraído de su juez competente ni llevado a jurisdicción de excepción.
+2) A que sus asuntos sean juzgados sin dilaciones por tribunal competente establecido por la ley. No hay fuero atractivo. Nadie puede ser sustraído de su juez competente ni llevado a jurisdicción de excepción.
 3) A ser sometido al juicio por jurados en los casos determinados por la ley. Se establece la acción de revisión.
 4) A que se garantice su intervención y debida defensa desde el inicio del proceso o procedimiento y a disponer de tiempo y medios adecuados para su defensa.
 5) A que se le nombre defensor de oficio cuando en la primera intervención no hubiera designado defensor; o cuando no fuere habido, previo llamamiento por edicto.

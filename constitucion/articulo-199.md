@@ -1,3 +1,3 @@
 # Artículo 199
 
-(Derogado)
+Derogado.

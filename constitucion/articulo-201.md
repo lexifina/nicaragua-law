@@ -1,3 +1,3 @@
 # Artículo 201
 
-(Derogado)
+Derogado.

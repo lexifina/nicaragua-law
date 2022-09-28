@@ -1,11 +1,11 @@
-“El Presidente de la República
-Hace saber al pueblo de Nicaragua que la Asamblea Nacional Constituyente ha consultado con el pueblo, discutido y aprobado la siguiente,
+El Presidente de la República
+Hace saber al pueblo de Nicaragua que la Asamblea Nacional Constituyente ha consultado con el pueblo, discutido y aprobado la siguiente
 CONSTITUCIÓN POLÍTICA:
 Preámbulo
 NOSOTROS,
-Representantes del Pueblo de Nicaragua, reunidos en Asamblea Nacional Constituyente.
+Representantes del Pueblo de Nicaragua, reunidos en la Asamblea Nacional Constituyente.
 Evocando
-La lucha de nuestros antepasados indígenas, que tiene su máxima expresión en los Caciques DIRIANGÉN Y NICARAO.
+La lucha de nuestros antepasados indígenas, que tiene su máxima expresión en los Caciques DIRIANGÉN y NICARAO.
 Al Prócer de la Independencia de Centroamérica, Presbítero TOMÁS RUÍZ ROMERO.
 El espíritu de unidad centroamericana y la tradición combativa de nuestro Pueblo que, inspirado en el ejemplo del General JOSÉ DOLORES ESTRADA, ANDRÉS CASTRO Y ENMANUEL MONGALO, derrotó al dominio filibustero y la intervención norteamericana en la Guerra Nacional.
 Al Prócer de la Independencia Cultural de la Nación, Poeta Universal RUBÉN DARÍO.
@@ -16,7 +16,7 @@ La acción heroica de RIGOBERTO LÓPEZ PÉREZ, iniciador del principio del fin d
 El ejemplo de CARLOS FONSECA, el más alto continuador de la herencia de Sandino, fundador del Frente Sandinista de Liberación Nacional y Jefe de la Revolución.
 Al Mártir de la Libertades Públicas, Doctor PEDRO JOAQUÍN CHAMORRO CARDENAL.
 Al Cardenal de la Paz y la Reconciliación, Cardenal MIGUEL OBANDO Y BRAVO.
-A todas las generaciones de Héroes y Mártires que forjaron y desarrollaron la lucha de liberación por la independencia nacional.
+A todas las generaciones de Héroes y Mártires que forjaron y desarrollaron la lucha de liberación por la independe nacional.
 En Nombre
 Del pueblo nicaragüense; de todos los partidos y organizaciones democráticas, patrióticas y revolucionarias de Nicaragua; de sus hombres y mujeres; de sus obreros y campesinos; de su gloriosa juventud; de sus heroicas madres; de los cristianos que desde su fe en DIOS se han comprometido e insertado en la lucha por la liberación de los oprimidos; de sus intelectuales patrióticos; y de todos los que con su trabajo productivo contribuyen a la defensa de la Patria.
 De los que luchan y ofrendan sus vidas frente a la agresión imperialista para garantizar la felicidad de las nuevas generaciones.

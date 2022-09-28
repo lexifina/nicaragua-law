@@ -1,3 +1,3 @@
 # Artículo 200
 
-(Derogado)
+Derogado.

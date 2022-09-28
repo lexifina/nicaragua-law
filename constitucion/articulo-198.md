@@ -1,3 +1,3 @@
 # Artículo 198
 
-(Derogado)
+Derogado.

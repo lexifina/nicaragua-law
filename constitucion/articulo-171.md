@@ -11,4 +11,4 @@ En el caso de que ya se encontrase electo antes de las elecciones presidenciales
 b) Los que ejerzan cargos de elección popular o sean candidatos a algunos de ellos.
 c) Los funcionarios o empleados de otro Poder del Estado en cargos retribuidos con fondos fiscales, regionales o municipales, salvo en lo relacionado al ejercicio de la docencia o la medicina.
 d) El militar en servicio activo, o el que ya no siéndolo no hubiere renunciado por lo menos doce meses antes de la elección.
-e) (derogado).
+e) Derogado.
