@@ -1,0 +1,7 @@
+Dado en la ciudad de Managua, Casa Presidencial, el nueve de junio de mil novecientos noventa y siete.- ARNOLDO ALEMÁN LACAYO, Presidente de la República de Nicaragua.- LORENZO GUERRERO, Ministro de la Presidencia.
+
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por: 1. Decreto Ejecutivo Nº. 66-97, Reforma al Decreto Nº. 32-97, denominado Reglamento General para el Control de Emisiones de los Vehículos Automotores de Nicaragua, publicado en La Gaceta, Diario Oficial Nº. 227 del 27 de noviembre de 1997; 2. Decreto Ejecutivo Nº. 22-98, Reforma al Decreto Nº. 32-97, Reglamento General para el Control de Emisiones de los Vehículos Automotores de Nicaragua y Decreto Nº. 66-97, Reforma al Decreto Nº. 32-97, denominado Reglamento General para el Control de Emisiones de los Vehículos Automotores de Nicaragua, publicado en La Gaceta, Diario Oficial Nº. 73 del 22 de abril de 1998; 3. Ley Nº. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en La Gaceta, Diario Oficial Nº. 102 del 3 de junio de 1998; y 4. Ley Nº. 647, Ley de Reformas y Adiciones a la Ley Nº. 217, Ley General del Medio Ambiente y los Recursos Naturales, publicada en La Gaceta, Diario Oficial Nº. 62 del 3 de abril de 2008.
+
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los nueve días del mes de diciembre del año dos mil veinte. Dip. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+
+.
