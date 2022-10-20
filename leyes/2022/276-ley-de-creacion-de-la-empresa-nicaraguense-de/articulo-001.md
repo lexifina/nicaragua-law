@@ -1,0 +1,5 @@
+# Artículo 1
+
+Créase la Empresa Nicaragüense de Acueductos y Alcantarillados Sanitarios, entidad estatal del servicio público, con personalidad jurídica y patrimonio propio, de duración indefinida y plena capacidad para adquirir derechos y contraer obligaciones, que en adelante se denominará la Empresa o simplemente ENACAL.
+
+La Empresa Nicaragüense de Acueductos y Alcantarillados Sanitarios ENACAL, está exenta del pago de todo tipo de impuestos contemplados en la legislación tributaría nacional, sean estos fiscales, municipales y de cualquier tipo, tanto en sus bienes, rentas, compraventas que realice, servicios que preste, entendiéndose estos últimos como servicios de agua potable y alcantarillado sanitario, así como de las obras que ejecute. También está exenta de todos los derechos fiscales e impuestos que graven la importación o compra local de maquinarias, equipos, materiales e insumos destinados exclusivamente a la producción, tratamiento o distribución de agua potable para consumo público, así como la recolección, tratamiento y disposición de las aguas servidas, en los servicios de alcantarillado sanitario.
