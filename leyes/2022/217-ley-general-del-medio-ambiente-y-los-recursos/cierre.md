@@ -1,0 +1,11 @@
+Dada en la Ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional, a los veintisiete días del mes de marzo de mil novecientos noventa y seis.- Cairo Manuel López, Presidente de la Asamblea Nacional. Jaime Bonilla, Secretario de la Asamblea Nacional.-
+
+Por Tanto:
+
+Téngase como Ley de la República. Publíquese y Ejecútese. Managua, dos de mayo de mil novecientos noventa y seis.­ Violeta Barrios de Chamorro, Presidente de la República de Nicaragua.-
+
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por: 1. Ley Nº. 257, Ley de Justicia Tributaria y Comercial, publicada en La Gaceta, Diario Oficial Nº. 106 del 6 de junio de 1997; 2. Ley Nº. 411, Ley Orgánica de la Procuraduría General de la República, publicada en La Gaceta, Diario Oficial Nº. 244 del 24 de diciembre de 2001; 3. Ley Nº. 612, Ley de Reforma y Adición a la Ley Nº. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en La Gaceta, Diario Oficial Nº. 20 del 29 de enero de 2007; 4. Ley N º. 647, Ley de Reformas y Adiciones a la Ley Nº. 217, Ley General del Medio Ambiente y los Recursos Naturales, publicada en La Gaceta, Diario Oficial Nº. 62 del 3 de abril de 2008; 5. Ley Nº. 747, Ley para la Protección y el Bienestar de los Animales Domésticos y Animales Silvestres Domesticados, publicada en La Gaceta, Diario Oficial Nº. 96 del 26 de mayo de 2011; 6. Ley Nº. 854, Ley de Reforma Parcial a la Constitución Política de la República de Nicaragua, publicada en La Gaceta, Diario Oficial Nº. 26 del 10 de febrero de 2014; 7. Ley Nº. 864, Ley de Reforma a la Ley Nº. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en La Gaceta, Diario Oficial Nº. 91 del 20 de mayo de 2014; 8. Ley Nº. 1046, Ley de Reforma a la Ley Nº. 620, Ley General de Aguas Nacionales, publicada en La Gaceta, Diario Oficial Nº. 217 del 23 de noviembre de 2020; y los criterios jurídicos de pérdida de vigencia por Plazo Vencido.
+
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los nueve días del mes de diciembre del año dos mil veinte. Dip. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+
+.
