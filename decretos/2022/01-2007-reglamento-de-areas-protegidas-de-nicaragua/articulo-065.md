@@ -1,0 +1,3 @@
+# Artículo 65
+
+El MARENA a través de las Delegaciones Territoriales correspondientes podrá acreditar a guardaparques voluntarios comunitarios y/o privados a solicitud del interesado, para apoyar en actividades específicas en las áreas protegidas, previa recomendación o aprobación de la instancia administradora del área protegida. Estos deberán ser personas de reconocida calidad moral y la única responsabilidad del MARENA será capacitarlos para el ejercicio de sus funciones, quedando estos bajo la responsabilidad de la Delegación Territorial. El proceso de acreditación se efectuará de conformidad a los mecanismos administrativos que para tal efecto elabore la DGAP del MARENA.
