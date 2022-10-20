@@ -1,0 +1,3 @@
+# Artículo 21
+
+De todo lo actuado durante el proceso de apertura de ofertas se levantará un acta por escrito ante notario público, en la que se incluirán, los oferentes que se encuentran presentes, la hora que se inició la apertura de las ofertas, todo lo establecido en el Artículo precedente, las observaciones y señalamientos de los oferentes y representantes de la ANA, dicha Acta será suscrita por los representantes de la ANA, en el acto de apertura de ofertas y por los oferentes presentes. La negativa de firmar por algunos de los oferentes no invalidará el acto de apertura de ofertas ni el acta misma.

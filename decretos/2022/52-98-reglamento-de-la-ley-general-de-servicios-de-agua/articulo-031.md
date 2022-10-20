@@ -1,0 +1,11 @@
+# Artículo 31
+
+El oferente ganador de la licitación presentará las garantías tanto para asegurar el cumplimiento del plan de desarrollo, como para la prestación de un buen servicio de acuerdo a lo establecido en el Artículo 18 de la Ley.
+
+La garantía del cumplimiento del plan de desarrollo, se irá reduciendo en proporción al grado de cumplimiento de dicho plan y se calculará anualmente, considerando el avance del plan de desarrollo y siempre sobre la base de un quinquenio del referido plan, aplicando un factor de actualización para evitar distorsiones por pérdidas del valor adquisitivo de la moneda.
+
+La garantía de la prestación de un buen servicio, será por un valor en córdobas por cada conexión de agua potable, cuando se trate de concesiones de producción y distribución, y del mismo monto por cada unión domiciliaria de alcantarillado sanitario, cuando se trate de concesiones de recolección y disposición de aguas servidas.
+
+Esta garantía se calculará anualmente considerando el número de usuarios a servir y aplicando un factor de actualización para evitar distorsiones por pérdidas del valor adquisitivo de la moneda.
+
+El monto de ambas garantías será definido por la ANA, de acuerdo a las condiciones y modalidades de cada concesión a licitar y serán partes de las bases de la licitación pública.
