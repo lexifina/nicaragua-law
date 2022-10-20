@@ -1,6 +1,6 @@
 # Artículo 245
 
-Respaldo información archivo registral.
+Respaldo información archivo registral
 
 Las oficinas registrales deberán conservar copias de respaldo del archivo registral, utilizando cualquier forma de reproducción que garantice su seguridad.
 

@@ -1,6 +1,6 @@
 # Artículo 51
 
-Desistimiento Parcial del Proceso de Inscripción.
+Desistimiento Parcial del Proceso de Inscripción
 
 Puede la parte interesada solicitar el desistimiento parcial del documento o título que contenga dos o más actos objeto de inscripción, cuando se limita a alguna de las inscripciones solicitadas, siendo necesario para ello la presentación en documento público.
 

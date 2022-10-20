@@ -1,6 +1,6 @@
 # Artículo 128
 
-Resguardo del Archivo Registral.
+Resguardo del Archivo Registral
 
 El Registrador o Registradora responderá por la custodia y conservación de los libros, archivo registral y ficheros de la base de datos, prohibiendo su acceso directo a los usuarios.
 

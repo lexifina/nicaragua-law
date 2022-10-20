@@ -1,10 +1,10 @@
 # Artículo 221
 
-Cesión de activos y pasivos de la Sociedad.
+Cesión de activos y pasivos de la Sociedad
 
 Cuando exista cesión global del activo y del pasivo, la cesión se hará constar en escritura pública otorgada por la sociedad cedente y por el cesionario o cesionarios.
 
-El acuerdo de cesión se publicará en La Gaceta y en un diario de circulación nacional.
+El acuerdo de cesión se publicará en La Gaceta, Diario Oficial y en un diario de circulación nacional.
 
 En el anuncio se hará constar el derecho de los acreedores de la sociedad cedente y de los acreedores del cesionario o cesionarios a obtener el texto íntegro del acuerdo de cesión, así como el derecho de dichos acreedores a oponerse a la cesión en el plazo de un mes.
 

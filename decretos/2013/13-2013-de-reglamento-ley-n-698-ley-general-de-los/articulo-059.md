@@ -1,6 +1,6 @@
 # Artículo 59
 
-Prórroga del Asiento de Presentación.
+Prórroga del Asiento de Presentación
 
 El plazo de vigencia de los asientos de presentación podrá ser prorrogado en los siguientes casos:
 
@@ -10,6 +10,4 @@ b) Cuando para inscribir un documento, sea necesario inscribir previamente otro 
 
 c) En caso que, estando vigente el asiento de presentación, se presente mandamiento judicial ordenando al Registrador o Registradora que se abstenga de la inscripción de documentos que hubieran sido otorgados por el demandado.
 
-El asiento de presentación quedará prorrogado hasta que finalice el procedimiento, o se presente nuevo mandamiento judicial revocando el anterior.
-
-La prórroga del asiento de presentación se hará constar por nota al margen del mismo.
+El asiento de presentación quedará prorrogado hasta que finalice el procedimiento, o se presente nuevo mandamiento judicial revocando el anterior. La prórroga del asiento de presentación se hará constar por nota al margen del mismo.

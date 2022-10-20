@@ -1,6 +1,6 @@
 # Artículo 239
 
-Efectos del Recurso de Apelación.
+Efectos del Recurso de Apelación
 
 Si la Resolución del Director Nacional de Registros confirmara la nota de calificación, se anotará al margen del asiento de presentación la resolución recaída.
 

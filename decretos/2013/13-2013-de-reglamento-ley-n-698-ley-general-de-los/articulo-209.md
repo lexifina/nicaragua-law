@@ -1,6 +1,6 @@
 # Artículo 209
 
-Contenido de la certificación.
+Contenido de la certificación
 
 Los acuerdos de los órganos colegiados de las sociedades mercantiles podrán certificarse por transcripción literal o por extracto, salvo que se trate de acuerdos relativos a la modificación de la escritura o de los estatutos sociales, en cuyo caso será preceptiva la transcripción literal del acuerdo.
 

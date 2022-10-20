@@ -1,6 +1,6 @@
 # Artículo 204
 
-Nombramiento de los Vigilantes.
+Nombramiento de los Vigilantes
 
 En la inscripción del nombramiento del órgano de vigilancia, se hará constar si está constituido por una o varias personas; de ser varias, sus atribuciones y el régimen de actuación. Los vigilantes o auditores podrán no ser accionistas si así se determina.
 

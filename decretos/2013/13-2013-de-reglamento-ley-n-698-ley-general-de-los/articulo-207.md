@@ -1,6 +1,6 @@
 # Artículo 207
 
-Personas facultadas para la elevación a Instrumento Público.
+Personas facultadas para la elevación a Instrumento Público
 
 La elevación a instrumento público de los acuerdos sociales corresponde a la persona que tenga facultad para certificarlos.
 

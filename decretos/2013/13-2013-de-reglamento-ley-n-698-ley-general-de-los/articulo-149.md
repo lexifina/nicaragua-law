@@ -1,6 +1,6 @@
 # Artículo 149
 
-Inexactitudes Extra registrales.
+Inexactitudes Extra registrales
 
 Las inexactitudes extra registrales tienen su origen fuera de la oficina registral, que pueden ser de carácter jurídico o técnico y se producen por:
 

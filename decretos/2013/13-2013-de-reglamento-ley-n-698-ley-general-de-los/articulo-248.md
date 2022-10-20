@@ -1,6 +1,6 @@
 # Artículo 248
 
-Transcripción de Asientos Registrales.
+Transcripción de Asientos Registrales
 
 Cuando se deterioren determinados folios de los libros y las mismas no se encuentren digitalizadas ni reproducidas y exista el peligro de que desaparezca su contenido, se procederá a transcribirlas.
 

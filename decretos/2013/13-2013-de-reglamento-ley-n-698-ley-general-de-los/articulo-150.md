@@ -1,6 +1,6 @@
 # Artículo 150
 
-Determinación para lograr la Concordancia.
+Determinación para lograr la Concordancia
 
 La concordancia entre el Registro y la realidad extra registral se determina por:
 
@@ -10,4 +10,4 @@ b) Por la reactivación del Tracto Sucesivo interrumpido, ordenado por autoridad
 
 c) La inscripción de los bienes inmuebles del Estado, Municipio y demás Entidades de Derecho Público que establece el Artículo 148, numeral 4 párrafo 1 de la LGRP y su Reglamento.
 
-d) La rectificación registral de la determinación del inmueble, debe hacerse observando las normas establecidas en la LGRP y su Reglamento, en armonía con la Ley N°509 “Ley General de Catastro Nacional” y su Reglamento y demás normas especiales de la regularización de la propiedad inmueble.
+d) La rectificación registral de la determinación del inmueble, debe hacerse observando las normas establecidas en la LGRP y su Reglamento, en armonía con la Ley Nº. 509, Ley General de Catastro Nacional y su Reglamento y demás normas especiales de la regularización de la propiedad inmueble.

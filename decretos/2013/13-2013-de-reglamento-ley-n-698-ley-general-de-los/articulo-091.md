@@ -1,6 +1,6 @@
 # Artículo 91
 
-Plazo de las Inscripciones.
+Plazo de las Inscripciones
 
 Las inscripciones se practicarán, si no mediaren defectos, dentro del plazo de vigencia del asiento de presentación.
 

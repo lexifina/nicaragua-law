@@ -1,6 +1,6 @@
 # Artículo 63
 
-Inhibición.
+Inhibición
 
 Los Registradores estarán inhibidos de ejercer su función calificadora en los documentos de cualquier clase que se les presenten, cuando comparezcan sus cónyuges o parientes dentro del cuarto grado de consanguinidad o segundo de afinidad.
 

@@ -1,6 +1,6 @@
 # Artículo 247
 
-Exhibición de los Libros Registrales.
+Exhibición de los Libros Registrales
 
 La exhibición, cotejo o cualquier otra diligencia, referida a los libros y documentos del archivo registral, ordenada por las instancias del Poder Judicial, se realizará en la sede de la Oficina Registral donde se conserven los libros correspondientes.
 

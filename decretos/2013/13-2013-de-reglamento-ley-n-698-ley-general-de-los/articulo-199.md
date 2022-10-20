@@ -1,6 +1,6 @@
 # Artículo 199
 
-Caducidad del Nombramiento.
+Caducidad del Nombramiento
 
 El nombramiento de los administradores caducará cuando vencido el plazo, se haya celebrado la Junta General de Accionistas siguiente o hubiese transcurrido el término legal para la celebración de la Junta que deba resolver sobre la aprobación de cuentas del ejercicio anterior.
 

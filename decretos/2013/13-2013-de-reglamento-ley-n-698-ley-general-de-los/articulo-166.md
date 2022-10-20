@@ -1,6 +1,6 @@
 # Artículo 166
 
-Efectos de la No Inscripción.
+Efectos de la No Inscripción
 
 La falta de inscripción en el Registro Mercantil de los comerciantes individuales o sociales producirán las consecuencias siguientes:
 

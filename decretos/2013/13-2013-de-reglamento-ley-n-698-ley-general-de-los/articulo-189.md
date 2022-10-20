@@ -1,6 +1,6 @@
 # Artículo 189
 
-Título Inscribible.
+Título Inscribible
 
 a) La inscripción primera del comerciante se podrán practicar en Escritura Pública, autorizada por Notario Público que cumpla con los requisitos indicados por la Ley de la materia.
 

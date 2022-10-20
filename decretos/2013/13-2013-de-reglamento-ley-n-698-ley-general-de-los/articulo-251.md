@@ -1,6 +1,6 @@
 # Artículo 251
 
-Reposición Registral.
+Reposición Registral
 
 En los casos en que no se cuente con copia de respaldo del folio destruido o perdido, se ordenará el inicio del procedimiento de reposición de la cuenta registral.
 

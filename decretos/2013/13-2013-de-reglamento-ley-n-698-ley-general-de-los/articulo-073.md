@@ -18,11 +18,13 @@ f) Para dar a conocer la extensión del derecho que se inscriba se anotará la e
 
 g) Las cargas y limitaciones de la finca o derecho que se inscriba se expresarán indicando brevemente las que consten inscritas o anotadas con referencia al asiento donde estén registradas.
 
-h) El valor de la finca o derecho inscrito se designará en la misma forma que apareciere en el título. El valor pagado en concepto de arancel registral y del avaluó catastral, en su caso.
+h) El valor de la finca o derecho inscrito se designará en la misma forma que apareciere en el título.
+
+El valor pagado en concepto de tasa registral y del avalúo catastral, en su caso.
 
 i) La persona a cuyo favor se practique la inscripción y aquélla de quien proceda el bien o derecho que se inscriba se determinarán conforme a las siguientes normas:
 
-a. Si se trata de personas físicas, se expresarán nombre y apellidos;
+a. Si se trata de personas físicas, se expresarán nombre y apellidos.
 
 b. El documento nacional de identidad; si es mayor de edad o, en otro caso, si el sujeto es soltero o casado, y el domicilio.
 

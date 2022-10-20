@@ -1,6 +1,6 @@
 # Artículo 9
 
-De la Dirección Nacional de Registros.
+De la Dirección Nacional de Registros
 
 La DNR estará representada administrativamente por su Director o Directora Nacional de Registros y en su ausencia por el Director o Directora Nacional de Registros Adjunto.
 

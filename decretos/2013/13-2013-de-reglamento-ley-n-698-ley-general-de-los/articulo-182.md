@@ -1,6 +1,6 @@
 # Artículo 182
 
-Publicidad Formal Registral.
+Publicidad Formal Registral
 
 La publicidad del Registro Mercantil en su aspecto formal se hará efectiva a través de certificaciones, informes y copias de los datos contenidos en los asientos registrales y de los documentos presentados en el Registro.
 

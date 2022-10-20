@@ -1,10 +1,10 @@
 # Artículo 129
 
-Formas de Publicidad Registral.
+Formas de Publicidad Registral
 
 La publicidad registral se manifiesta de la siguiente forma:
 
-a) Con la presentación de los libros en el local de la Oficina Registral respectiva y, en presencia del personal expresamente facultado para ello, cuando los asientos registrales contenidas en tomos no hayan sido sustituidas por el sistema de digitalización de imágenes o folio electrónico. Está prohibido doblar o desprender las hojas, poner anotaciones o señales, tomar fotografías o videos, por cualquier medio o realizar actos que puedan alterar la integridad de éstos.
+a) Con la presentación de los libros en el local de la Oficina Registral respectiva y, en presencia del personal expresamente facultado para ello, cuando los asientos registrales contenidas en tomos no hayan sido sustituidas por el sistema de digitalización de imágenes o folio electrónico. Está prohibido doblar o desprender las hojas, poner anotaciones o señales, tomar fotografías o videos, por cualquier medio o realizar actos que puedan alterar la integridad de estos.
 
 b) Tratándose de folios electrónicos mediante el servicio de información en línea, a través de las terminales ubicadas en las instalaciones de las Oficinas Registrales o a través de otros medios informáticos.
 

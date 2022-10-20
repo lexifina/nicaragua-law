@@ -1,6 +1,6 @@
 # Artículo 230
 
-Notas de Legalización.
+Notas de Legalización
 
 Practicada, suspendida o denegada la legalización, se tomará razón de esta circunstancia en el Libro de legalizaciones; seguidamente se extenderán las oportunas notas al pie de la solicitud y al margen del asiento de presentación.
 

@@ -1,6 +1,6 @@
 # Artículo 202
 
-Administradores Suplentes.
+Administradores Suplentes
 
 Una vez inscrito el cese del anterior titular, el nombramiento y aceptación de los suplentes como administradores se inscribirá con sujeción a las reglas generales establecidas en la escritura social o en los estatutos.
 

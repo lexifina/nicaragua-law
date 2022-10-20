@@ -1,6 +1,6 @@
 # Artículo 76
 
-Forma de Pago por Transmisión.
+Forma de Pago por Transmisión
 
 Si la inscripción fuere de trasmisión de dominio, expresará si ésta se ha verificado pagando el precio al contado, a plazos o en pagarés.
 

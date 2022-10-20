@@ -1,6 +1,6 @@
 # Artículo 233
 
-Recurso Administrativo.
+Recurso Administrativo
 
 El recurso administrativo procede contra la resolución motivada del Registrador o Registradora, suspendiendo o denegando la inscripción, anotación o cancelación del título presentado en el ámbito de su función calificadora.
 

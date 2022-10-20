@@ -1,12 +1,12 @@
 # Artículo 104
 
-Contenido del Mandamiento Judicial.
+Contenido del Mandamiento Judicial
 
 Todo mandamiento judicial que ordene hacer una anotación preventiva, precisará:
 
 a) La autoridad judicial que lo ordena.
 
-b) La acción y la vía que lo motiva
+b) La acción y la vía que lo motiva.
 
 c) El titular registral debidamente identificado.
 

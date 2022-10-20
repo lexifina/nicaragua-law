@@ -1,6 +1,6 @@
 # Artículo 162
 
-Integración de la Información Registral y Catastral.
+Integración de la Información Registral y Catastral
 
 Para obtener una verdadera concordancia entre la información registral y catastral deben realizarse procesos permanentes de regularización y saneamiento de la propiedad inmueble cuyos resultados permanezcan sistematizados en una aplicación informática que integre la información catastral y registral. Para asegurar la continuidad operativa de la sistematización, la Corte Suprema de Justicia y el Instituto Nicaragüense de Estudios Territoriales firmarán un Convenio Marco de Colaboración que permita establecer:
 

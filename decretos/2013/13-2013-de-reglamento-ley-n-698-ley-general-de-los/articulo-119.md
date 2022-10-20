@@ -1,6 +1,6 @@
 # Artículo 119
 
-Circunstancia del Asiento de Rectificación.
+Circunstancia del Asiento de Rectificación
 
 Los errores materiales o de concepto cometidos en asientos de inscripción, anotación preventiva o cancelación, se rectificarán elaborando un nuevo asiento, que según sea el caso, que precise y enmiende el error cometido, dicho asiento indicará:
 
@@ -14,7 +14,7 @@ d) La expresión de las palabras o números que sustituyen o que suplen la omisi
 
 e) La declaración de quedar rectificado el asiento primitivo.
 
-f) Su fundamento legal
+f) Su fundamento legal.
 
 g) Lugar, hora, fecha, firma y sello del Registrador o Registradora.
 

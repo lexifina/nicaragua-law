@@ -1,6 +1,8 @@
 # Artículo 117
 
-Tipos de Errores. Los errores u omisiones registrales de conformidad con el Artículo 61 LGRP, pueden ser entre otros por:
+Tipos de Errores
+
+Los errores u omisiones registrales de conformidad con el Artículo 61 de la LGRP, pueden ser entre otros por:
 
 a) Omisión de firma y/o sello de Registrador o Registradora en los asientos registrales.
 

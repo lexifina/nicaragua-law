@@ -1,6 +1,6 @@
 # Artículo 196
 
-Título Inscribible.
+Título Inscribible
 
 La inscripción del nombramiento de administradores podrá practicarse mediante certificación del acta de la Junta Directiva expedida en debida forma, con las firmas legitimadas y protocolizadas mediante escritura pública.
 

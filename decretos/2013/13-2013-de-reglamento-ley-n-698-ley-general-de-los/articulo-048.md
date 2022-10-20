@@ -1,6 +1,6 @@
 # Artículo 48
 
-Contenido del Asiento de Presentación.
+Contenido del Asiento de Presentación
 
 El Registrador o Registradora extenderá en el Libro Diario un asiento de presentación, de cada título o documento en el orden en que ingresan, enumerando los asientos de forma cronológica y contendrá los siguientes datos:
 
@@ -12,7 +12,7 @@ c) Nombre y documento de identidad del presentante. Cuando la presentación se h
 
 Estos datos constarán en un recibo que se entregará a los interesados como garantía de su presentación, en el que se especificará, además, la naturaleza del acto, el nombre y firma de quien lo recibe, y sello de la oficina y atestados de ley que corresponden.
 
-d) Naturaleza del documento o documentos presentados, sean éstos públicos o auténticos, con indicación del tipo de acto que contiene, de la fecha, cargo y nombre del Notario o funcionario que los autorice.
+d) Naturaleza del documento o documentos presentados, sean estos públicos o auténticos, con indicación del tipo de acto que contiene, de la fecha, cargo y nombre del Notario o funcionario que los autorice.
 
 e) Nombre, denominación o razón social, según corresponda, de todas las personas naturales o jurídicas que otorguen el acto o derecho y a cuyo favor se pretenda hacer la inscripción.
 

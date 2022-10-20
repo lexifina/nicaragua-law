@@ -1,6 +1,6 @@
 # Artículo 36
 
-Libros del Registro.
+Libros del Registro
 
 El RPPIH llevará los siguientes libros:
 
@@ -10,4 +10,4 @@ El RPPIH llevará los siguientes libros:
 
 3. De Índices. Podrán ser llevados en cualquier medio de procesamiento electrónico, indicando los datos del bien inmueble: su ubicación por municipio, los datos del propietario, los derechos inscritos y los datos del Registro, número catastral en su caso, facilitando las estadísticas nacionales sobre los bienes inmuebles.
 
-4. Otros Libros. Aquellos que por mandato de Ley expresa debe llevar el RPPIH.
+4. Otros Libros. Aquellos que por mandato de Ley expresa deben llevar el RPPIH.

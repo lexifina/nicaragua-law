@@ -1,12 +1,12 @@
 # Artículo 108
 
-Cancelación Oficiosa de Hipotecas.
+Cancelación Oficiosa de Hipotecas
 
 Para que proceda la cancelación oficiosa de la hipoteca el Registrador o Registradora deberán calificar:
 
 a) Que hayan transcurrido diez años de vencimiento del plazo de la obligación conforme el asiento de inscripción de la hipoteca.
 
-b) Que no existan asientos regístrales que indiquen la interrupción del plazo
+b) Que no existan asientos registrales que indiquen la interrupción del plazo.
 
 c) Cuando sea a solicitud de parte, el interesado deberá hacerla por escrito al Registrador y presentarse en el Libro Diario.
 

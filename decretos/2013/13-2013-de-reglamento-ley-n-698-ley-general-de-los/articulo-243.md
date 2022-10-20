@@ -1,6 +1,6 @@
 # Artículo 243
 
-Inventario de libros.
+Inventario de libros
 
 En cada Registro habrá un Inventario de todos los libros que se llevan en la oficina registral.
 

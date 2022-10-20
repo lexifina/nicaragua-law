@@ -1,6 +1,6 @@
 # Artículo 145
 
-Certificados Relacionados.
+Certificados Relacionados
 
 Los Certificados Relacionados pueden ser:
 

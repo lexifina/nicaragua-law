@@ -1,6 +1,6 @@
 # Artículo 106
 
-Cancelación Total.
+Cancelación Total
 
 Para practicar la cancelación total de las inscripciones y anotaciones preventivas, en los casos a que se refiere el Artículo 121 de la LGRP, será necesario presentar en el Registro los títulos o documentos que acrediten la extinción de la finca o derecho, o de la ejecutoria en que se declare la nulidad del título inscrito o de la inscripción.
 

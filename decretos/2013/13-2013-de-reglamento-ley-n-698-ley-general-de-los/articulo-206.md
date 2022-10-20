@@ -1,6 +1,6 @@
 # Artículo 206
 
-Elevación a Instrumento Público de los Acuerdos Sociales.
+Elevación a Instrumento Público de los Acuerdos Sociales
 
 Para efectos del Artículo 156 de la LGRP, los actos y contratos, objeto de inscripción deben presentarse en instrumento público.
 

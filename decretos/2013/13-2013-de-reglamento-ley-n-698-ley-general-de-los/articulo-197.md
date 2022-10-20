@@ -1,6 +1,6 @@
 # Artículo 197
 
-Nombramiento de Persona Jurídica como Administrador.
+Nombramiento de Persona Jurídica como Administrador
 
 En el caso que el administrador sea persona jurídica, no procederá la inscripción del nombramiento en tanto no conste la identidad de la persona física que se haya designado como representante suyo para el ejercicio de las funciones propias del cargo.
 

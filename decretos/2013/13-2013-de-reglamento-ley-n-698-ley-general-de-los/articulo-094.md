@@ -1,6 +1,6 @@
 # Artículo 94
 
-Derechos Sucesorios.
+Derechos Sucesorios
 
 La anotación preventiva a que se refiere los numerales 8 y 9 del Artículo 105 de la LGRP se practicará mediante solicitud:
 

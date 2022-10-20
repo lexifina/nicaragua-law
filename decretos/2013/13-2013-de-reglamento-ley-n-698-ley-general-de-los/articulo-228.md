@@ -1,6 +1,6 @@
 # Artículo 228
 
-Circunstancias de la Legalización.
+Circunstancias de la Legalización
 
 La legalización de los libros tendrá lugar mediante nota o razón de legalización, firma y sello del Registrador o Registradora Mercantil.
 

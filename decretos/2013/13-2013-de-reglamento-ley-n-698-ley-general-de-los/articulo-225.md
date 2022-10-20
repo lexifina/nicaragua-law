@@ -1,6 +1,6 @@
 # Artículo 225
 
-Libro de Actas.
+Libro de Actas
 
 El libro de actas deberá legalizarse por el Registrador o Registradora Mercantil antes de su utilización, en la forma prevista en este Reglamento y podrá ser de hojas móviles.
 

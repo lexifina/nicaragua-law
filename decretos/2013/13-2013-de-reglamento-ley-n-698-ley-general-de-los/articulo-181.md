@@ -1,6 +1,6 @@
 # Artículo 181
 
-Información Pública.
+Información Pública
 
 La información contenida en los asientos del Registro Mercantil es pública.
 

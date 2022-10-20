@@ -1,6 +1,6 @@
 # Artículo 58
 
-Vigencia del Asiento de Presentación.
+Vigencia del Asiento de Presentación
 
 El asiento de presentación tendrá vigencia durante treinta (30) días calendario, a partir de la fecha de ingreso del título o documento al Libro Diario.
 

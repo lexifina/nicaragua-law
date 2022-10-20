@@ -1,6 +1,6 @@
 # Artículo 70
 
-Causales de Denegación de la inscripción registral.
+Causales de Denegación de la inscripción registral
 
 El Registrador o Registradora emitirá una nota de calificación denegando la inscripción del título presentado cuando:
 

@@ -1,6 +1,6 @@
 # Artículo 148
 
-Inexactitudes de Origen Registral.
+Inexactitudes de Origen Registral
 
 Las inexactitudes registrales son errores cometidos y que tienen su origen en:
 
@@ -8,7 +8,9 @@ a. Los asientos registrales.
 
 b. La calificación del documento.
 
-c. La emisión de los certificados registrales. Serán consideradas inexactitudes de origen registral:
+c. La emisión de los certificados registrales.
+
+Serán consideradas inexactitudes de origen registral:
 
 a) La que resulta de un error involuntario cometido por parte del Registrador, Registradora o su personal.
 

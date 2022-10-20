@@ -1,6 +1,6 @@
 # Artículo 203
 
-Separación de Administradores.
+Separación de Administradores
 
 La inscripción de la separación de los administradores se practicará en virtud de certificación del acta de la Junta General de Accionistas, expedida en debida forma y protocolizadas.
 

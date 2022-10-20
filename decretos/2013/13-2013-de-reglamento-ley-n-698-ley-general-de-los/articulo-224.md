@@ -1,6 +1,6 @@
 # Artículo 224
 
-Obligación de Inscripción.
+Obligación de Inscripción
 
 Los libros que obligatoriamente deben llevar los empresarios con arreglo a disposiciones legales vigentes, se legalizarán en el Registro Mercantil de su domicilio.
 

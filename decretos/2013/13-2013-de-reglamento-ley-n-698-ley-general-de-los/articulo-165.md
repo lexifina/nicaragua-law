@@ -1,6 +1,6 @@
 # Artículo 165
 
-Sistema de Folio Personal.
+Sistema de Folio Personal
 
 El Registro Público Mercantil se llevará por el sistema de Folio Personal.
 

@@ -1,6 +1,6 @@
 # Artículo 67
 
-Presentación de Títulos o Documentos concluido el plazo del asiento de presentación.
+Presentación de Títulos o Documentos concluido el plazo del asiento de presentación
 
 Transcurridos los plazos durante los cuales producen sus efectos los asientos de presentación o las anotaciones preventivas por efecto de suspensión, sin haberse practicado el asiento solicitado, podrán presentarse de nuevo los títulos o documentos correspondientes, los cuales serán objeto de nueva calificación.
 

@@ -1,6 +1,6 @@
 # Artículo 2
 
-Abreviaturas.
+Abreviaturas
 
 Para efectos del presente Reglamento se utilizarán las abreviaturas siguientes:
 
@@ -12,11 +12,11 @@ CER Comisión Especial de Registros
 
 DNR Dirección Nacional de Registros
 
-LGRP Ley No. 698 “Ley General de los Registros Públicos”
+LGRP Ley Nº. 698 "Ley General de los Registros Públicos"
 
-LOPJ Ley N° 260 “Ley Orgánica del Poder Judicial”
+LOPJ Ley Nº. 260 "Ley Orgánica del Poder Judicial"
 
-LCJ Ley N° 501 “Ley de Carrera Judicial”.
+LCJ Ley Nº. 501 “Ley de Carrera Judicial"
 
 LN Ley de Notariado
 
@@ -24,9 +24,7 @@ RPPIH Registro Público de la Propiedad Inmueble e Hipoteca
 
 RPM Registro Público Mercantil
 
-RPP Registro Público de Personas
-
-RP Registro de Prendas
+RPP Registro Público de Personas RP Registro de Prendas
 
 SIICAR Sistema Integrado de Información Catastral y Registral
 

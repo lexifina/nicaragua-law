@@ -1,6 +1,6 @@
 # Artículo 122
 
-Gastos de la Rectificación.
+Gastos de la Rectificación
 
 Si el Registrador o Registradora reconoce el error de concepto o el Juez o Tribunal así lo declara, los interesados deberán presentar el título original inscrito que ha sido objeto del error, todos los gastos y perjuicios que se originen serán responsabilidad y a cuenta del Registrador o Registradora que hubiese cometido el error.
 

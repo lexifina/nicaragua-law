@@ -1,6 +1,6 @@
 # Artículo 125
 
-Forma de la Rectificación de Errores.
+Forma de la Rectificación de Errores
 
 Las rectificaciones deben ser solicitadas en documento público, por las personas señaladas en el Artículo 32 de la LGRP y su Reglamento, debiendo presentarse en el Libro Diario e indicando el error objeto de la rectificación.
 

@@ -1,6 +1,6 @@
 # Artículo 56
 
-Responsabilidad Administrativa.
+Responsabilidad Administrativa
 
 No se admitirá documento alguno, ni se harán asientos de presentación fuera de las horas señaladas en el Artículo 15 de este Reglamento.
 

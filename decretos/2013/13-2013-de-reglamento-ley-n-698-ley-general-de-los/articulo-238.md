@@ -1,6 +1,6 @@
 # Artículo 238
 
-Resolución positiva de la Dirección Nacional de Registros.
+Resolución positiva de la Dirección Nacional de Registros
 
 Resuelta la apelación por el Director o Directora Nacional de Registros, devolverá el expediente al Registro respectivo.
 

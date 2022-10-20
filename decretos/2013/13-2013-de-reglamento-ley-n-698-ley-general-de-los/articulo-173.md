@@ -1,6 +1,6 @@
 # Artículo 173
 
-Procedimiento para cambio de domicilio del Sujeto Mercantil.
+Procedimiento para cambio de domicilio del Sujeto Mercantil
 
 Cuando un sujeto mercantil inscrito, requiera cambiar su domicilio social a otro departamento geográfico, deberá cumplir con las normas del Código de Comercio que regulan este tipo de actos.
 

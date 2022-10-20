@@ -1,6 +1,6 @@
 # Artículo 234
 
-Admisión del Recurso.
+Admisión del Recurso
 
 Para que el recurso sea admisible, deberá contener los siguientes requisitos:
 

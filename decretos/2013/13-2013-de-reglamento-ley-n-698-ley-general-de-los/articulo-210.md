@@ -1,6 +1,6 @@
 # Artículo 210
 
-Anotación Preventiva de la demanda de impugnación de los acuerdos sociales.
+Anotación Preventiva de la demanda de impugnación de los acuerdos sociales
 
 En caso de impugnación de acuerdos sociales adoptados por la Junta General de Accionistas, podrá el Juez ordenar al Registrador o Registradora previa prestación por la parte demandante, de caución adecuada para indemnizar daños y perjuicios, sí el juez lo estimase necesario ordenará al Registrador o Registradora la anotación preventiva de la demanda.
 
