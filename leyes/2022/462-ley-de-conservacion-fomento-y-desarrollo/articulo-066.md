@@ -1,0 +1,3 @@
+# Artículo 66
+
+Por la presente Ley se derogan las siguientes leyes: Ley de Conservación de Bosques, del 21 de junio de 1905, Ley de Emergencia Sobre Aprovechamiento Racional de los Bosques, del 3 de marzo de 1976; Ley de Conservación, Protección y Desarrollo de las Riquezas Forestales del País, Decreto Nº. 1381 del 27 de septiembre de 1976, Ley Nº. 222, Ley de Suspensión de la Tramitación de Solicitudes de Otorgamiento de Concesiones y Contratos de Exploración y Explotación de los Recursos Naturales, del 11 de junio de 1996, y cualquier otra disposición legal que de manera tácita o expresa se le oponga.
