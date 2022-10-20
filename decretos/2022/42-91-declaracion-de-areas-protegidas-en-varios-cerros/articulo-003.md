@@ -1,0 +1,3 @@
+# Artículo 3
+
+Se faculta al Ministerio del Ambiente y de los Recursos Naturales (MARENA) a definir los límites topográficos para cada una de estas Áreas Protegidas y de Interés Nacional, categorizando su manejo y protección, y a desarrollar las respectivas autoridades municipales en donde dichas Áreas Protegidas se encuentran, las acciones que se establezcan de regulación y control, protección forestal y restauración ecológica de aquellas áreas degradadas, que sean necesarias para beneficiar la conservación de los ecosistemas naturales que contengan y frenen el deterioro de las cuencas, la erosión en sus laderas y la destrucción de los manantiales que en ella se originan.
