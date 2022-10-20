@@ -1,0 +1,2 @@
+- CAPÍTULO I (antes del artículo 1)
+- DISPOSICIONES GENERALES (antes del artículo 1)
