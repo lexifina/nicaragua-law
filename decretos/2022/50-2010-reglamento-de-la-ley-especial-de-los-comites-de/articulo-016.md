@@ -1,0 +1,3 @@
+# Artículo 16
+
+La ANA coordinará con las entidades gubernamentales previstas en la Ley, la elaboración y desarrollo de programas de educación y asistencia técnica, dirigidos a reforzar las capacidades técnicas del personal de las Unidades Técnicas Municipales (UTM) y de los técnicos comunitarios de los CAPS, para que sea incorporada en las actividades propias de esas entidades y lograr en el menor tiempo posible la sostenibilidad de los sistemas de abastecimiento de agua potable para consumo humano, manejo adecuado de aguas servidas, higiene y salud comunitaria, gestión integrada del recurso agua y protección de las micro cuencas.
