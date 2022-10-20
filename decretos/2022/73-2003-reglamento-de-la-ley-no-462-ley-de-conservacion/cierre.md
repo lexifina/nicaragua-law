@@ -1,0 +1,7 @@
+Dado en la Ciudad de Managua, Casa Presidencial, el día tres de noviembre del año dos mil tres. ENRIQUE BOLAÑOS GEYER, Presidente de la República de Nicaragua. José Augusto Navarro Flores Ministro Agropecuario y Forestal.
+
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por: 1. Decreto Ejecutivo Nº. 95-2005, Se Reforma el Artículo 108 del Decreto No. 73-2003, publicado en La Gaceta, Diario Oficial Nº. 235 del 5 de diciembre de 2005; 2. Decreto Ejecutivo Nº. 99-2005, Se Reforma el Artículo 107 del Decreto Nº. 73-2003, publicado en La Gaceta, Diario Oficial Nº. 249 del 26 de diciembre de 2005; 3. Ley Nº. 864, Ley de Reforma a la Ley Nº. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en La Gaceta, Diario Oficial Nº. 91 del 20 de mayo de 2014; 4. Ley Nº. 947, Ley de Reforma Parcial a la Ley Nº. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, a la Ley Nº. 462, Ley de Conservación, Fomento y Desarrollo Sostenible del Sector Forestal y Ley Nº. 862, Ley Creadora del Instituto de Protección y Sanidad Agropecuaria, publicada en La Gaceta, Diario Oficial Nº. 87 del 11 de mayo de 2017; y los criterios jurídicos de pérdida de vigencia por Plazo Vencido.
+
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los nueve días del mes de diciembre del año dos mil veinte. Dip. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+
+.

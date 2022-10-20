@@ -1,0 +1,3 @@
+# Artículo 16
+
+Todo acuerdo o convenio que celebre alguna institución del Estado en materia forestal, deberá ser enviado para efectos de lo consignado en la Ley a la Oficina de Registro, que procederá a su debida inscripción, debiendo posteriormente poner constancia de la misma al pie del documento que contenga el acuerdo o convenio, debidamente suscrita y sellada por el Director de la Oficina. Las concesiones, autorizaciones y permisos forestales, planes de manejo y demás instrumentos de gestión forestal, así como los informes de cumplimiento, informes y dictámenes de auditorías forestales y otros relativos a la implementación de la Ley y del presente Reglamento, son instrumentos de acceso público.
