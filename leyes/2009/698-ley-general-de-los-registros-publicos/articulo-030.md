@@ -1,6 +1,6 @@
 # Artículo 30
 
-Principios Registrales Adoptados.
+Principios Registrales Adoptados
 
 Los Registros Públicos adscritos al SINARE aplicarán los siguientes principios registrales:
 

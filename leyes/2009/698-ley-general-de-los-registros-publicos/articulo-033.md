@@ -1,6 +1,6 @@
 # Artículo 33
 
-Requisitos de los Documentos para ser Recibidos.
+Requisitos de los Documentos para ser Recibidos
 
 El asiento de presentación se practicará por la simple solicitud de la parte interesada y para ser recibidos los documentos por el Registro Público deberán cumplir los requisitos formales y de admisión exigidos conforme a las leyes propias de la materia que traten.
 

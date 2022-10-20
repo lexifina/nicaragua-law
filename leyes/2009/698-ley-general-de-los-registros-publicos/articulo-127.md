@@ -1,6 +1,6 @@
 # Artículo 127
 
-Efectos Respecto de Terceros.
+Efectos Respecto de Terceros
 
 La cancelación de las inscripciones o anotaciones preventivas extinguen, en cuanto a tercero, los derechos inscritos a que afecte.
 

@@ -1,6 +1,6 @@
 # Artículo 99
 
-Asiento de Inscripción.
+Asiento de Inscripción
 
 El asiento de inscripción de las hipotecas deberá expresar, además de las circunstancias generales:
 

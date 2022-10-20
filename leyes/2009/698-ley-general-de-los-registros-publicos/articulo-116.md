@@ -1,8 +1,8 @@
 # Artículo 116
 
-Cancelación de Asientos del Registro.
+Cancelación de Asientos del Registro
 
-Las inscripciones o anotaciones preventivas, hechas en virtud de escritura pública, no se cancelaran sino por providencia ejecutoria, o por otra escritura o documento auténtico, en el cual exprese su consentimiento para la cancelación la persona a cuyo favor se hubiere hecho la inscripción o anotación, o sus sucesores o representantes legales.
+Las inscripciones o anotaciones preventivas, hechas en virtud de escritura pública, no se cancelarán sino por providencia ejecutoria, o por otra escritura o documento auténtico, en el cual exprese su consentimiento para la cancelación la persona a cuyo favor se hubiere hecho la inscripción o anotación, o sus sucesores o representantes legales.
 
 Podrán, no obstante, ser canceladas sin dichos requisitos cuando el derecho inscrito o anotado quede extinguido por declaración de la Ley o resulte así del mismo título en cuya virtud se practicó la inscripción o anotación preventiva.
 

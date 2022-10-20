@@ -1,6 +1,6 @@
 # Artículo 185
 
-Reglamentación.
+Reglamentación
 
 La presente Ley deberá ser reglamentada.
 

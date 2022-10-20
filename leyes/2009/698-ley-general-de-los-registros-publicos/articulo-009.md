@@ -1,6 +1,6 @@
 # Artículo 9
 
-Facultades de la Comisión Especial de Registros.
+Facultades de la Comisión Especial de Registros
 
 La Comisión Especial de Registros tiene las siguientes facultades:
 

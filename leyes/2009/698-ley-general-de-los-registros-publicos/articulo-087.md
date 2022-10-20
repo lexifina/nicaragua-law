@@ -1,6 +1,6 @@
 # Artículo 87
 
-Numeración de las Fincas.
+Numeración de las Fincas
 
 Cada una de las fincas que se inscriba por primera vez se señalará con número diferente y correlativo.
 

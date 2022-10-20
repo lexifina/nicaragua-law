@@ -1,6 +1,6 @@
 # Artículo 90
 
-Principio de Tracto Sucesivo de las Inscripciones.
+Principio de Tracto Sucesivo de las Inscripciones
 
 Para inscribir o anotar títulos por lo que se declaren, transmitan, graven, modifiquen o extingan el dominio y demás derechos reales sobre inmuebles, deberá constar previamente inscrito o anotado el derecho de la persona que otorgue o en cuyo nombre sean otorgados los actos referidos.
 

@@ -1,6 +1,6 @@
 # Artículo 19
 
-Requisitos para ser Registrador o Registradora.
+Requisitos para ser Registrador o Registradora
 
 Para optar al cargo de Registrador Público se requiere:
 
@@ -12,7 +12,7 @@ Para optar al cargo de Registrador Público se requiere:
 
 4. Tener como mínimo cinco años de ejercicio profesional conforme la LOPJ;
 
-5. Haber aprobado el examen de idoneidad profesional que acredite el dominio sobre la materia de Derecho Registral elaborado para tal fin por la Dirección Nacional de Registros de acuerdo a la Ley de Carrera Judicial;
+5. Haber aprobado el examen de idoneidad profesional que acredite el dominio sobre la materia de Derecho Registral elaborado para tal fin por la Dirección Nacional de Registros de acuerdo a la Ley Nº. 501, Ley de Carrera Judicial;
 
 6. Haber cumplido treinta años de edad al momento de su nombramiento;
 

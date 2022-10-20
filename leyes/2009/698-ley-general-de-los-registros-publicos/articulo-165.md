@@ -1,6 +1,6 @@
 # Artículo 165
 
-Documentos Objeto de Inscripción en el Registro de Personas.
+Documentos Objeto de Inscripción en el Registro de Personas
 
 En el Registro de Personas se inscribirán:
 
@@ -10,7 +10,7 @@ En el Registro de Personas se inscribirán:
 
 3. La sentencia que declare la ausencia o la presunción de muerte, y quienes son los herederos puestos en posesión provisional o definitiva de los bienes;
 
-4. La solicitud y la sentencia relativas a la insolvencia o quiebra y la aceptación del nombramiento de guardadores;
+4. La solicitud y la sentencia relativa a la insolvencia o quiebra y la aceptación del nombramiento de guardadores;
 
 5. La certificación en que conste la aceptación de albacea;
 

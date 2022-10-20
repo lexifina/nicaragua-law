@@ -1,6 +1,6 @@
 # Artículo 105
 
-Efectos y Clases de Anotaciones Preventivas.
+Efectos y Clases de Anotaciones Preventivas
 
 Presentado un título o documento que afecte un bien o derecho inscrito, este se anotará preventivamente en él, a efectos de dar aviso a terceros. Se podrán anotar preventivamente con sus respectivos derechos en el Registro correspondiente:
 
@@ -16,7 +16,7 @@ Presentado un título o documento que afecte un bien o derecho inscrito, este se
 
 6. La sentencia ejecutoria, condenando al demandado al pago de una suma que deba exigirse por los trámites establecidos para la ejecución de las sentencias;
 
-7. El decreto judicial que conforme al artículo 1426 Pr. declare procedente la retención de bienes inmuebles;
+7. Derogado
 
 8. Los derechos sobre bienes raíces de la herencia, pertenecientes al legatario y acreedores del causante;
 

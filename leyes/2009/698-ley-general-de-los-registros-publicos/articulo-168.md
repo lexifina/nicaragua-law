@@ -1,6 +1,6 @@
 # Artículo 168
 
-Circunstancias de las Resoluciones Judiciales.
+Circunstancias de las Resoluciones Judiciales
 
 Las resoluciones judiciales de conformidad a lo establecido en la presente Ley deberán expresar:
 

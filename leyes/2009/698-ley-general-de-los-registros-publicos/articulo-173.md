@@ -1,6 +1,6 @@
 # Artículo 173
 
-Recurso de Apelación Administrativo.
+Recurso de Apelación Administrativo
 
 Si el notario o notaria autorizante o la parte interesada no estuvieren de acuerdo con la resolución de primera instancia, podrán dentro de los cinco días hábiles siguientes a la notificación interponer recurso de Apelación dirigido a la Dirección Nacional de Registros. Para ello, presentará su escrito de apelación ante el Registrador o la Registradora. Si la apelación se presentare dentro del plazo legal, el Registrador o la Registradora remitirá las diligencias formadas con un breve informativo de lo realizado a más tardar dentro de tercero día después de interpuesto el Recurso a la Dirección Nacional de Registros.
 

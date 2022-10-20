@@ -1,6 +1,6 @@
 # Artículo 81
 
-Efecto y Plazo de Vigencia del Asiento de Presentación de los Documentos.
+Efecto y Plazo de Vigencia del Asiento de Presentación de los Documentos
 
 El procedimiento de inscripción iniciará con el asiento de presentación del documento que contenga la constitución, modificación o extinción de derechos reales, por parte de quien tenga legítimo interés de que se practique la inscripción. Se entenderá que está legitimado y tiene interés legítimo, el transmitente del derecho, el adquirente del derecho o sus representantes legales debidamente acreditados según la ley y que conste que tienen facultad para solicitar la inscripción.
 

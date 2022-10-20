@@ -1,6 +1,6 @@
 # Artículo 86
 
-Primera Inscripción en el Registro.
+Primera Inscripción en el Registro
 
 La primera inscripción en el Registro sobre un bien inmueble será la del documento en que se constituya el dominio y se practicará con arreglo al procedimiento y requisitos previstos en esta Ley. Ninguna autoridad judicial podrá adjudicar derechos reales sobre bienes inmuebles que no estén inscritos a favor de quien ha resultado afectado en el juicio correspondiente.
 

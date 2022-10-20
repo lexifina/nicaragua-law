@@ -1,6 +1,6 @@
 # Artículo 149
 
-Rectificación Registral de la Determinación del Inmueble.
+Rectificación Registral de la Determinación del Inmueble
 
 La rectificación registral de la determinación del inmueble se practicará por el Registro, de oficio o a petición de parte, cuando:
 

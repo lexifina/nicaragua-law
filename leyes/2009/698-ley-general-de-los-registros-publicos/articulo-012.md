@@ -1,6 +1,6 @@
 # Artículo 12
 
-Requisitos para ejercer la Dirección Nacional de Registros y la Dirección Nacional de Registros Adjunta.
+Requisitos para ejercer la Dirección Nacional de Registros y la Dirección Nacional de Registros Adjunta
 
 Para poder ejercer la Dirección Nacional de Registros y la Dirección Nacional de Registros Adjunta, se requiere:
 

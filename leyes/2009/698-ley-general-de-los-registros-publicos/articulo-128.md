@@ -1,6 +1,6 @@
 # Artículo 128
 
-Contenido de los Asientos de Cancelación.
+Contenido de los Asientos de Cancelación
 
 La cancelación de toda inscripción contendrá necesariamente las circunstancias siguientes:
 

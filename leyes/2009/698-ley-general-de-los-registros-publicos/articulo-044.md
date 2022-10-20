@@ -1,6 +1,6 @@
 # Artículo 44
 
-Alcance y Plazo de la Inscripción.
+Alcance y Plazo de la Inscripción
 
 Los títulos sujetos a inscripción que no estén debidamente anotados o inscritos, no perjudican a tercero sino desde la fecha de su presentación al Registro respectivo.
 

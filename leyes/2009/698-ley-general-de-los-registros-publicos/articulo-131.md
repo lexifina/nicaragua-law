@@ -1,6 +1,6 @@
 # Artículo 131
 
-Clases de Notas Marginales.
+Clases de Notas Marginales
 
 En el Registro de la Propiedad se practicarán las siguientes clases de notas marginales:
 

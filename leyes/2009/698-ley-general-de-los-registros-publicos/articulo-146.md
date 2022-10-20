@@ -1,6 +1,6 @@
 # Artículo 146
 
-Rectificación del Registro.
+Rectificación del Registro
 
 La rectificación de los asientos del Registro sólo podrá ser solicitada al Registrador o Registradora por el titular del dominio o derecho real que esté inscrito erróneamente o que resulte lesionado por el asiento inexacto y se practicará con arreglos a las siguientes normas:
 
@@ -18,6 +18,6 @@ b. Por resolución judicial, ordenando la rectificación.
 
 En los casos en que haya que solicitarse judicialmente la rectificación, se dirigirá la demanda contra todos aquellos a quienes el asiento que se trate de rectificar, conceda algún derecho, y se substanciará por los trámites del juicio correspondiente.
 
-La acción de rectificación será inseparable del dominio o derecho real de que se derive
+La acción de rectificación será inseparable del dominio o derecho real de que se derive.
 
 En ningún caso, la rectificación del Registro perjudicará los derechos adquiridos por tercero, a título oneroso, de buena fe, durante la vigencia del asiento que se declare inexacto.

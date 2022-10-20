@@ -1,10 +1,10 @@
 # Artículo 4
 
-Finalidad y Objetivos del SINARE.
+Finalidad y Objetivos del SINARE
 
 El Sistema Nacional de Registros tiene como finalidad y objetivos:
 
-1. Garantizar la seguridad jurídica registral en sus fases de procedimiento documental o material y publicitaria;
+1. Garantizar la seguridad jurídica registral en sus fases de procedimiento documental o material y publicitario;
 
 2. Agilizar los procedimientos generales de inscripción y cualquier otro procedimiento nacional;
 

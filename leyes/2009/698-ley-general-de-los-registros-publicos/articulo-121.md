@@ -1,6 +1,6 @@
 # Artículo 121
 
-De la Cancelación Total.
+De la Cancelación Total
 
 Podrá pedirse y deberá ordenarse, en su caso, la cancelación total:
 

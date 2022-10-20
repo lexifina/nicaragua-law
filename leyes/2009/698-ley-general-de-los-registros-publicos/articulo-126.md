@@ -1,6 +1,6 @@
 # Artículo 126
 
-Cancelación Oficiosa de la Hipoteca.
+Cancelación Oficiosa de la Hipoteca
 
 La hipoteca inscrita en el Registro de la Propiedad deberá cancelarse de oficio por el Registrador o Registradora pasados diez años contados a partir del vencimiento del plazo de la obligación.
 

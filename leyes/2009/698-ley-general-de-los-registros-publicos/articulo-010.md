@@ -1,6 +1,6 @@
 # Artículo 10
 
-Organización de la Dirección Nacional de Registros.
+Organización de la Dirección Nacional de Registros
 
 Se crea la Dirección Nacional de Registros, con domicilio en la ciudad de Managua, capital de la República de Nicaragua. Su organización administrativa será determinada según el criterio de la Comisión Especial de Registros. Estará conformada:
 

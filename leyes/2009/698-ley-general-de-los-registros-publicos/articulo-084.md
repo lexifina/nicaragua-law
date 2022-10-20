@@ -1,6 +1,6 @@
 # Artículo 84
 
-Contenido del Asiento de Inscripción Registral.
+Contenido del Asiento de Inscripción Registral
 
 Toda inscripción expresará:
 

@@ -1,6 +1,6 @@
 # Artículo 57
 
-Tipos de Certificaciones.
+Tipos de Certificaciones
 
 Se expedirán certificaciones de forma literal o relacionada:
 
@@ -8,7 +8,7 @@ Se expedirán certificaciones de forma literal o relacionada:
 
 2. De asientos determinados que los mismos interesados designen, bien fijando concretamente los que sean, o bien refiriéndose a los que existan de una o más especies sobre dichos bienes o derechos; y
 
-3. Se librará certificación negativa de no existir asiento de especie determinada, sobre bienes o derechos señalados o a cargo de ciertas personas
+3. Se librará certificación negativa de no existir asiento de especie determinada, sobre bienes o derechos señalados o a cargo de ciertas personas.
 
 Capítulo VII
 

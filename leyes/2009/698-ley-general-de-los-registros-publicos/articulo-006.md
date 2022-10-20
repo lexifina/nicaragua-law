@@ -1,6 +1,6 @@
 # Artículo 6
 
-Órganos de Administración.
+Órganos de Administración
 
 Conforme la presente Ley son órganos de administración del Sistema Nacional de Registros los siguientes:
 

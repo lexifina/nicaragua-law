@@ -1,6 +1,6 @@
 # Artículo 159
 
-Sujetos de Inscripción Obligatoria.
+Sujetos de Inscripción Obligatoria
 
 Son sujetos de inscripción obligatoria:
 
@@ -14,6 +14,6 @@ Son sujetos de inscripción obligatoria:
 
 5. Las sucursales de las sociedades extranjeras;
 
-6. Sociedades extranjeras que trasladen su domicilio a territorio Nicaragüense; y
+6. Sociedades extranjeras que trasladen su domicilio a territorio nicaragüense; y
 
 7. Las demás personas o entidades que establezcan las leyes especiales.

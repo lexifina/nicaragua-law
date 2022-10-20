@@ -1,6 +1,6 @@
 # Artículo 49
 
-Tercero Registral.
+Tercero Registral
 
 La inscripción no convalida los actos o contratos inscritos que sean nulos o anulables conforme a la Ley. Sin embargo el tercero que de buena fe adquiera a título oneroso algún derecho de persona que en el Registro aparezca con facultades para transmitirlo, será mantenido en su adquisición, una vez que haya inscrito su derecho, aunque después se anule o resuelva el del otorgante por virtud de causas que no consten en el Registro. Tal protección se producirá siempre que concurran las siguientes circunstancias:
 

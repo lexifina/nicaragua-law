@@ -1,6 +1,6 @@
 # Artículo 167
 
-Contenido del Asiento de Inscripción.
+Contenido del Asiento de Inscripción
 
 Además de las circunstancias expresadas en todo asiento de inscripción, se deberá expresar la especie de incapacidad, facultad o derecho del título con indicación de las generales de ley de las personas que aparezcan en el documento.
 

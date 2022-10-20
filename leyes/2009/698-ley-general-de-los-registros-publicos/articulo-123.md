@@ -1,6 +1,6 @@
 # Artículo 123
 
-Nulidad de la Cancelación.
+Nulidad de la Cancelación
 
 Será nula la cancelación:
 

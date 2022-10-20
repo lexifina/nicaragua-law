@@ -1,18 +1,22 @@
-LEY N°. 698, LEY GENERAL DE LOS REGISTROS PÚBLICOS
+TEXTO CONSOLIDADO, LEY N°. 698, LEY GENERAL DE LOS REGISTROS PÚBLICOS
 
-Aprobada el 27 de agosto de 2009
+Aprobado el 25 de noviembre de 2021
 
-Publicada en La Gaceta, Diario Oficial N°. 239 del 17 de diciembre de 2009
+Publicado en La Gaceta, Diario Oficial N°. 197 del 20 de octubre de 2022
 
-LEY No. 698
+Digesto Jurídico Nicaragüense de la Materia Civil
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 25 de noviembre del 2021, de la Ley Nº. 698, Ley General de los Registros Públicos, aprobada el 27 de agosto de 2009 y publicada en La Gaceta, Diario Oficial Nº. 239 del 17 de diciembre de 2009, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1096, Ley del Digesto Jurídico Nicaragüense de la Materia Civil, aprobada el 25 de noviembre de 2021.
+
+LEY Nº. 698
 
 El Presidente de la República de Nicaragua
 
-A sus habitantes, Sabed
+A sus habitantes, Sabed:
 
 Que,
 
-LA ASAMBLEA NACIONAL
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
 
 CONSIDERANDO
 
@@ -34,7 +38,7 @@ Que los derechos de propiedad claros y estables son esenciales para la moderniza
 
 V
 
-Que la función registral va aparejada a la seguridad jurídica, lo que implica que seguridad es el valor alternativo y complementario de justicia, que en definitiva, son los dos valores que el ordenamiento jurídico tiende a realizar. Siguiendo este criterio, la Corte Suprema de Justicia, como Poder Legítimo del Estado de Nicaragua, deberá llevar a cabo a través de esta ley, la reforma del Registro Público y de la función registral.
+Que la función registral va aparejada a la seguridad jurídica, lo que implica que seguridad es el valor alternativo y complementario de justicia, que, en definitiva, son los dos valores que el ordenamiento jurídico tiende a realizar. Siguiendo este criterio, la Corte Suprema de Justicia, como Poder Legítimo del Estado de Nicaragua, deberá llevar a cabo a través de esta Ley, la reforma del Registro Público y de la función registral.
 
 POR TANTO
 

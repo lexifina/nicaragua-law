@@ -1,6 +1,6 @@
 # Artículo 13
 
-Funciones del Director Nacional de Registros.
+Funciones del Director Nacional de Registros
 
 Son funciones del Director o de la Directora Nacional de Registros:
 

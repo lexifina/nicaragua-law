@@ -1,10 +1,8 @@
 # Artículo 50
 
-Acciones Rescisorias, Revocatorias y Resolutorias.
+Acciones Rescisorias, Revocatorias y Resolutorias
 
-Las acciones rescisorias, revocatorias y resolutorias no perjudicarán a tercero que haya inscrito su derecho.
-
-Se exceptúan:
+Las acciones rescisorias, revocatorias y resolutorias no perjudicarán a tercero que haya inscrito su derecho. Se exceptúan:
 
 1. Las acciones de rescisión o resolución que deban su origen a causas que, habiendo sido estipuladas expresamente por las partes, consten en el Registro;
 

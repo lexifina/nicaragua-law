@@ -1,6 +1,8 @@
 # Artículo 63
 
-Errores Materiales que no Puede Rectificar el Registrador. Los Registradores o Registradoras no podrán rectificar sin la conformidad del interesado que posee el documento inscrito, o sin una providencia judicial en su defecto, los errores materiales cometidos:
+Errores Materiales que no Puede Rectificar el Registrador
+
+Los Registradores o Registradoras no podrán rectificar sin la conformidad del interesado que posee el documento inscrito, o sin una providencia judicial en su defecto, los errores materiales cometidos:
 
 1. En las inscripciones, anotaciones preventivas y cancelaciones cuyos documentos no existan en el Registro;
 

@@ -1,6 +1,6 @@
 # Artículo 62
 
-Rectificación de Errores Materiales por el Registrador.
+Rectificación de Errores Materiales por el Registrador
 
 Los Registradores o Registradoras, podrán rectificar por sí y bajo su responsabilidad, los errores materiales cometidos:
 

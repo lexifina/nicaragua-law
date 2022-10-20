@@ -1,6 +1,6 @@
 # Artículo 130
 
-Cancelación del Asiento de Presentación.
+Cancelación del Asiento de Presentación
 
 Transcurrido el término de treinta días que dura el asiento de presentación sin haber inscrito o anotado el título presentado, el Registrador o Registradora cancelará de oficio dicho asiento.
 

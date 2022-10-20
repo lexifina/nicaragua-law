@@ -1,6 +1,6 @@
 # Artículo 161
 
-De los Libros del Registro.
+De los Libros del Registro
 
 El Registro Mercantil deberá llevar los siguientes libros:
 

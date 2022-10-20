@@ -1,6 +1,6 @@
 # Artículo 79
 
-Modo de Hacer Constar las Condiciones y su Cumplimiento.
+Modo de Hacer Constar las Condiciones y su Cumplimiento
 
 Los títulos en que se modifiquen los derechos reales sobre la finca, cuando dichas modificaciones se sometan a condición suspensiva, deben inscribirse a través de una anotación preventiva cuya vigencia estará determinada por el cumplimiento de la condición.
 

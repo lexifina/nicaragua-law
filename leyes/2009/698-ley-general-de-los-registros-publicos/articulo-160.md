@@ -1,6 +1,6 @@
 # Artículo 160
 
-Domicilio de los Sujetos Inscribibles en el Registro Mercantil.
+Domicilio de los Sujetos Inscribibles en el Registro Mercantil
 
 La inscripción se practicará en el Registro correspondiente al domicilio del sujeto inscribible. El mismo criterio se aplicará para la legalización de los libros de los comerciantes o empresarios, administradores, liquidadores y demás operaciones que estén encomendados al Registro Mercantil.
 

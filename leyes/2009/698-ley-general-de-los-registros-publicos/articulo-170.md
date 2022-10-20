@@ -1,3 +1,5 @@
 # Artículo 170
 
-Recursos contra la Negativa del Registrador o Registradora. El Registrador o Registradora suspenderá o denegará la inscripción de los documentos que por alguna causa legal sean inadmisibles en el Registro, y tomando anotación preventiva, si lo pidiere la persona interesada, devolverá el documento para que se subsane el o los vicios que lo hacen inhábil para acceder al Registro o bien, para que las partes a su elección puedan ocurrir a usar de su derecho ante el Juzgado Civil de Distrito competente según las disposiciones contenidas en los artículos 1640 al 1645 del Código de Procedimiento Civil, o usar la vía administrativa según se determinará a continuación.
+Recursos contra la Negativa del Registrador o Registradora
+
+El Registrador o Registradora suspenderá o denegará la inscripción de los documentos que por alguna causa legal sean inadmisibles en el Registro, y tomando anotación preventiva, si lo pidiere la persona interesada, devolverá el documento para que se subsane el o los vicios que lo hacen inhábil para acceder al Registro o bien, para que las partes a su elección puedan ocurrir a usar de su derecho ante el Juzgado Civil de Distrito competente según las disposiciones contenidas en el Código Procesal Civil de la República de Nicaragua, o usar la vía administrativa según se determinará a continuación.

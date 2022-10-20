@@ -1,8 +1,8 @@
 # Artículo 28
 
-Prohibiciones.
+Prohibiciones
 
-Está prohibido al Director o Directora Nacional de Registros, Director o Directora Nacional Adjuntos, Registradores Titulares y Auxiliares:
+Está prohibido al Director o Directora Nacional de Registros, Director o Directora Nacional de Registros Adjuntos, Registradores Titulares y Auxiliares:
 
 1. Ejercer la Abogacía y el Notariado, aunque estén con licencia, salvo en causa propia;
 

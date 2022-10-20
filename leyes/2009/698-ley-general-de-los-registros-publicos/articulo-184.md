@@ -1,6 +1,6 @@
 # Artículo 184
 
-Sistema Automatizado.
+Sistema Automatizado
 
 Autorizase al SINARE a utilizar sistemas automatizados en los procesos de inscripción de documentos que se presentan a las oficinas registrales.
 

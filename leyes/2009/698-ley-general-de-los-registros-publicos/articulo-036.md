@@ -1,14 +1,14 @@
 # Artículo 36
 
-Calificación de los Documentos por el Registrador o Registradora.
+Calificación de los Documentos por el Registrador o Registradora
 
 Previo a la realización de la inscripción y bajo su responsabilidad, el Registrador o Registradora verificará que el documento cumple con los requisitos formales y de fondo exigidos por la Ley, y procederá a inscribir, suspender o denegar su inscripción, anotación o cancelación correspondiente conforme los siguientes criterios:
 
-En los documentos notariales:
+a) En los documentos notariales:
 
 1. Que la fecha de la escritura no sea anterior a la emisión de la serie y número del papel sellado del Protocolo;
 
-2. Por lo que hace al Notario o Notaria autorizante: su nombre, apellidos y residencia así como el señalamiento de estar autorizado en el quinquenio correspondiente;
+2. Por lo que hace al Notario o Notaria autorizante: su nombre, apellidos y residencia, así como el señalamiento de estar autorizado en el quinquenio correspondiente;
 
 3. Que el inmueble a inscribir corresponda a la circunscripción del Registro;
 
@@ -20,11 +20,15 @@ En los documentos notariales:
 
 7. Que no esté vigente una inscripción incompatible;
 
-8. Por lo que hace a las personas que intervienen en el acto o contrato: sus nombres y apellidos, identificando a las personas naturales o jurídicas con la documentación que la ley especial establece, su capacidad y en caso de que uno de los contratantes haya comparecido en representación de otro si ésta fue debidamente acreditada; y
+8. Por lo que hace a las personas que intervienen en el acto o contrato: sus nombres y apellidos, identificando a las personas naturales o jurídicas con la documentación que la ley especial establece, su capacidad y en caso de que uno de los contratantes haya comparecido en representación de otro si ésta fue debidamente acreditada;
 
-9. Que la escritura esté concurrida de todas las solemnidades que establece la Ley del Notariado y que se cumplan los requisitos de validez de acto o negocio jurídico exigidos por la ley de la materia.
+9. Que la escritura esté concurrida de todas las solemnidades que establece la Ley del Notariado y que se cumplan los requisitos de validez de acto o negocio jurídico exigidos por la ley de la materia;
 
-En los documentos administrativos:
+10. Verificar que las sociedades mercantiles hayan actualizado la información del Registro del Beneficiario Final de Sociedades Mercantiles; y
+
+11. Cuando las sociedades mercantiles, realicen actos tipificados en la Ley Nº. 601, Ley de Promoción de la Competencia, adjuntarán ante el Registro la carta de no objeción de notificación o en su caso la resolución firme dictada por PROCOMPETENCIA o del ente regulador correspondiente.
+
+b) En los documentos administrativos:
 
 1. Que se verifique la competencia del órgano que dicta la resolución;
 
@@ -40,10 +44,12 @@ En los documentos administrativos:
 
 7. Que establezca la inexistencia de los obstáculos que surjan del Registro.
 
-En los documentos judiciales:
+c) En los documentos judiciales:
 
-La calificación se limitará a la competencia del Juzgado o Tribunal; a la congruencia del mandato con el procedimiento o juicio en que se hubiere dictado; a las formalidades extrínsecas del documento presentado y a los obstáculos que surjan del Registro.
+1. La calificación se limitará a la competencia del Juzgado o Tribunal; a la congruencia del mandato con el procedimiento o juicio en que se hubiere dictado; a las formalidades extrínsecas del documento presentado y a los obstáculos que surjan del Registro;
 
-En todo caso y para toda clase de documentos la calificación registral se extenderá a los obstáculos que surjan del Registro.
+2. Los Registradores Públicos deberán de oficio, para efectos del saneamiento de la información registral previo a la Certificación o Inscripción, cancelar los asientos extintos, caducos o prescritos;
 
-Los Registradores y Registradoras están en la obligación de acatar los criterios de calificación establecidos en la presente Ley.
+3. En todo caso y para toda clase de documentos la calificación registral se extenderá a los obstáculos que surjan del Registro;
+
+4. Los Registradores y Registradoras están en la obligación de acatar los criterios de calificación establecidos en la presente Ley y el Modelo de Gestión Integrado Catastro Registro y sus anexos.

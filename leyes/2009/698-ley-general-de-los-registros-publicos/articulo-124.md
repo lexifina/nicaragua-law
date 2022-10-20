@@ -1,6 +1,6 @@
 # Artículo 124
 
-Nulidad de la Cancelación en Perjuicio de Tercero.
+Nulidad de la Cancelación en Perjuicio de Tercero
 
 Podrá declararse nula la cancelación en perjuicio de tercero:
 

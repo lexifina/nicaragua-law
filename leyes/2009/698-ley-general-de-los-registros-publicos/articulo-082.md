@@ -1,6 +1,6 @@
 # Artículo 82
 
-Carácter de la Inscripción.
+Carácter de la Inscripción
 
 Se efectuará la tradición del dominio de los bienes raíces, lo mismo que el de las naves, por la inscripción del título en el Registro de la Propiedad.
 
@@ -8,4 +8,4 @@ De la misma manera se efectuará la tradición de los derechos de herencia, usuf
 
 La tradición de las minas se efectuará también por la inscripción en el Registro, conforme los requisitos que exige la ley de la materia.
 
-Las concesiones de obras públicas, las asignaciones de uso que el Estado hace a sus instituciones y a los particulares y las que se otorguen de conformidad con la Ley No. 690, "Ley para el Desarrollo de las Zonas Costeras", deben inscribirse como derechos reales en el Registro de Propiedad.
+Las concesiones de obras públicas, las asignaciones de uso que el Estado hace a sus instituciones y a los particulares y las que se otorguen de conformidad con la Ley Nº. 690, Ley para el Desarrollo de las Zonas Costeras, deben inscribirse como derechos reales en el Registro de Propiedad.

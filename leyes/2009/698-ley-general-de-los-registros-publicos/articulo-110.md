@@ -1,6 +1,6 @@
 # Artículo 110
 
-Circunstancias de las Anotaciones.
+Circunstancias de las Anotaciones
 
 Las anotaciones preventivas contendrán las mismas circunstancias necesarias para la inscripción, si fuera posible.
 

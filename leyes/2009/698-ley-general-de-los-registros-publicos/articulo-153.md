@@ -1,6 +1,8 @@
 # Artículo 153
 
-Objeto del Registro Mercantil. El Registro Mercantil tiene por objeto:
+Objeto del Registro Mercantil
+
+El Registro Mercantil tiene por objeto:
 
 1. La inscripción de los comerciantes o empresarios y demás sujetos establecidos por la Ley, y de los actos y contratos de comercio;
 

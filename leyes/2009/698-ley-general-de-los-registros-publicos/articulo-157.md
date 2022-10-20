@@ -1,6 +1,6 @@
 # Artículo 157
 
-Circunstancias de las Inscripciones de Comerciantes o Empresarios Individuales.
+Circunstancias de las Inscripciones de Comerciantes o Empresarios Individuales
 
 La inscripción de los comerciantes o empresarios individuales deberá contener:
 

@@ -1,6 +1,6 @@
 # Artículo 88
 
-Fincas Especiales a los Efectos de la Inscripción.
+Fincas Especiales a los Efectos de la Inscripción
 
 Se considera como una sola finca para los efectos de la inscripción en el Registro bajo un solo número:
 

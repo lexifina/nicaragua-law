@@ -1,6 +1,6 @@
 # Artículo 27
 
-Responsabilidad de los Registradores y Registradoras Titulares y Auxiliares.
+Responsabilidad de los Registradores y Registradoras Titulares y Auxiliares
 
 Los Registradores y Registradoras, Titulares y Auxiliares incurrirán en responsabilidad civil:
 
@@ -20,4 +20,4 @@ Los Registradores y Registradoras, Titulares y Auxiliares incurrirán en respons
 
 Los Registradores y Registradoras, Titulares y Auxiliares serán también responsables por los delitos que cometan en el ejercicio de sus funciones y tendrán además, responsabilidad disciplinaria por las irregularidades que cometan.
 
-Al Director o Directora Nacional de Registros y al Director o Directora Nacional de Registros Adjuntos, les serán aplicables las disposiciones del párrafo anterior, cuando conozcan en apelación la denegación de inscripción de un documento.
+Al Director o Directora Nacional de Registros y al Director o Directora Nacional de Registros Adjunto, les serán aplicables las disposiciones del párrafo anterior, cuando conozcan en apelación la denegación de inscripción de un documento.

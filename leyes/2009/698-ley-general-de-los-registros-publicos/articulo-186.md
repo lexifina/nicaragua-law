@@ -1,6 +1,6 @@
 # Artículo 186
 
-Transitorios.
+Transitorias
 
 Para efecto de la presente Ley se consideran como disposiciones transitorias las siguientes:
 

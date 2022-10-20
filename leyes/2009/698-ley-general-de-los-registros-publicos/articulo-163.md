@@ -1,6 +1,6 @@
 # Artículo 163
 
-Plazo para la Práctica de los Asientos.
+Plazo para la Práctica de los Asientos
 
 Las inscripciones se practicarán, si no mediaren defectos en los documentos, dentro de los quince días siguientes al de la fecha del asiento de presentación.
 

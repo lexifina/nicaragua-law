@@ -1,6 +1,6 @@
 # Artículo 72
 
-Objeto.
+Objeto
 
 El Registro de la Propiedad Inmueble tiene por objeto:
 

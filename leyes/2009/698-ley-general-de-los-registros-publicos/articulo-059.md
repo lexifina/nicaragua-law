@@ -1,6 +1,6 @@
 # Artículo 59
 
-Medios Para Llevar los Libros.
+Medios Para Llevar los Libros
 
 Los libros podrán llevarse en papel o en cualquier otro soporte de acuerdo a la moderna tecnología establecida en el Registro, siempre que se garantice su seguridad y eficiencia.
 
