@@ -1,0 +1,3 @@
+# Artículo 76
+
+Toda infracción a las disposiciones de la presente Ley, su Reglamento, a las normas de protección al medio ambiente vinculadas a la prestación de los servicios, y todo incumplimiento por parte de los prestadores de servicio de los mandatos, prohibiciones y plazos establecidos respecto de las concesiones a las que se refiere la presente Ley, así como el no acatamiento de las órdenes escritas, requerimientos debidamente notificados y plazos fijados por el Ente Regulador en el ejercicio de las atribuciones que la Ley señala, harán causa para la aplicación de las sanciones que la Ley y el Reglamento establecen.
