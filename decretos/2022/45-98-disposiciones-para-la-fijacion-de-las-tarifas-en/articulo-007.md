@@ -1,0 +1,5 @@
+# Artículo 7
+
+Cada prestador, analizará si el ingreso actualizado que obtiene de aplicar las tarifas de eficiencia económica a la demanda total proyectada, para un horizonte no inferior a 25 años, alcanza a generar los recursos necesarios para obtener el equilibrio entre ingresos y egresos de caja actualizados. Las donaciones y créditos blandos serán considerados para este efecto a su costo real de mercado. Los beneficios de estas donaciones y créditos blandos sólo podrán ser considerados para efectos del cálculo de tarifas subsidiadas a segmentos de consumo de usuarios de escasos recursos económicos.
+
+Si no hay diferencias entre los flujos de ingresos y egresos actualizados, las tarifas de eficiencia económica serán mantenidas. En caso contrario, estas deberán ser ajustadas hasta igualar ambos flujos, minimizado las distorsiones económicas que el ajuste introduce. Se obtendrán así tarifas de autofinanciamiento para la producción y distribución de agua potable; recolección y disposición de aguas servidas.
