@@ -1,0 +1,11 @@
+# Artículo 2
+
+Apruébese el Presupuesto General de Egresos para el ejercicio presupuestario 2023 en la suma de C$105,263,103,750.00 (CIENTO CINCO MIL DOSCIENTOS SESENTA Y TRES MILLONES CIENTO TRES MIL SETECIENTOS CINCUENTA CÓRDOBAS NETOS), distribuidos en C$78,020,309,588.00 (SETENTA Y OCHO MIL VEINTE MILLONES TRESCIENTOS NUEVE MIL QUINIENTOS OCHENTA Y OCHO CÓRDOBAS NETOS) para gastos corrientes y C$27,242,794,162.00 (VEINTISIETE MIL DOSCIENTOS CUARENTA Y DOS MILLONES SETECIENTOS NOVENTA Y CUATRO MIL CIENTO SESENTA Y DOS CÓRDOBAS NETOS) para gastos de capital. La distribución del Presupuesto General de Egresos será por organismo, programa, proyecto y grupo de gasto en la forma y monto cuyo detalle es parte de esta Ley.
+
+I. Del techo total de gastos establecido en el Proyecto de Presupuesto General de Egresos 2023, redúzcase la suma de C$ 128,886,914.00 (CIENTO VEINTIOCHO MILLONES OCHOCIENTOS OCHENTA Y SEIS MIL NOVECIENTOS CATORCE CÓRDOBAS NETOS), de los cuales C$ 117,259,687.00 (CIENTO DIECISIETE MILLONES DOSCIENTOS CINCUENTA Y NUEVE MIL SEISCIENTOS OCHENTA Y SIETE CÓRDOBAS NETOS) corresponden a gastos corrientes y C$ 11,627,227.00 (ONCE MILLONES SEISCIENTOS VEINTISIETE MIL DOSCIENTOS VEINTISIETE CÓRDOBAS NETOS) a gastos de capital, en base a detalle del Anexo Nº I.
+
+II. Asimismo, del techo total de gastos establecido en el Proyecto de Presupuesto General de Egresos 2023, increméntese la partida presupuestaria de las instituciones en base a detalle de renglones del Anexo Nº II y los Anexos Nº II-A por la suma de C$128,886,914.00 (CIENTO VEINTIOCHO MILLONES OCHOCIENTOS OCHENTA Y SEIS MIL NOVECIENTOS CATORCE CÓRDOBAS NETOS), de los cuales C$125,886,914.00 (CIENTO VEINTICINCO MILLONES OCHOCIENTOS OCHENTA Y SEIS MIL NOVECIENTOS CATORCE CÓRDOBAS NETOS) corresponden a gastos corrientes y C$3,000,000.00 (TRES MILLONES DE CÓRDOBAS NETOS) a gastos de capital.
+
+III. Del monto asignado al Teatro Nacional Rubén Darío en la partida presupuestaria Actuaciones Artísticas y Deportivas con fuente Rentas del Tesoro, la suma de C$700,000.00 (SETECIENTOS MIL CÓRDOBAS NETOS) del gasto corriente se destinará para el XI Festival Internacional de Boleros.
+
+Los Anexos Nº I, II, II-A que contienen las modificaciones de la presente Ley, forman parte integrante de la misma.

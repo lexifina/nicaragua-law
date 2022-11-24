@@ -1,0 +1,3 @@
+# Artículo 6
+
+Sin perjuicio de lo establecido en la Ley Nº. 466, Ley de Transferencias Presupuestarias a los Municipios de Nicaragua y sus Reformas, se establece como medida temporal para el ejercicio presupuestario 2023, el porcentaje del seis por ciento (6.0%) sobre el monto estimado de ingresos tributarios establecido en la presente Ley, como asignación para transferencias municipales a las Alcaldías. Por tanto, el monto asignado a la partida de transferencia municipal para el presente ejercicio presupuestario es de C$6,110,373,894.00 (SEIS MIL CIENTO DIEZ MILLONES TRESCIENTOS SETENTA Y TRES MIL OCHOCIENTOS NOVENTA Y CUATRO CÓRDOBAS NETOS), y cuya distribución es parte de esta Ley.

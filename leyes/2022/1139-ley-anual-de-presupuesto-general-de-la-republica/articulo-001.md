@@ -1,0 +1,3 @@
+# Artículo 1
+
+Apruébese el Presupuesto General de Ingresos para el ejercicio presupuestario 2023, por el monto estimado de C$109,989,531,860.00 (CIENTO NUEVE MIL NOVECIENTOS OCHENTA Y NUEVE MILLONES QUINIENTOS TREINTA Y UN MIL OCHOCIENTOS SESENTA CÓRDOBAS NETOS), de los que C$109,987,769,393.00 (CIENTO NUEVE MIL NOVECIENTOS OCHENTA Y SIETE MILLONES SETECIENTOS SESENTA Y NUEVE MIL TRESCIENTOS NOVENTA Y TRES CÓRDOBAS NETOS) corresponden a ingresos corrientes y C$1,762,467.00 (UN MILLÓN SETECIENTOS SESENTA Y DOS MIL CUATROCIENTOS SESENTA Y SIETE CÓRDOBAS NETOS) a ingresos de capital, que forman parte de esta Ley, de acuerdo a la distribución por fuente de ingresos.
