@@ -1,0 +1,3 @@
+# Artículo 23
+
+Las empresas prestadoras de servicios turísticos, tales como; Discoteca, Centros de Diversión Nocturna, Centros Turísticos Culturales, en el caso de contratar sus locales para eventos especiales como concursos, cumpleaños, y promociones que se derivaran en el ingreso de adultos y menores de edad, tienen prohibido el expendio de bebidas alcohólicas a menores de edad y colocaran rotulo accesible y a la vista de los clientes con esta prohibición, así mismo reducirán al mínimo la venta de bebidas alcohólicas a los adultos presentes en el evento, debiendo respetar los horarios de funcionamiento autorizados por las entidades competentes y cumplir con las disposiciones contenidas en las leyes de la materia.
