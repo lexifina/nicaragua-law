@@ -1,0 +1,3 @@
+# Artículo 18
+
+El Instituto Nicaragüense de Turismo, deberá llevar a cabo un Plan de Inspecciones técnicas, con el propósito de verificar las condiciones de las instalaciones, el equipamiento, el buen estado de mantenimiento de las oficinas conforme lo establecido en las herramientas de clasificación. El buen estado de los vehículos terrestres, acuáticos y aéreo nacional se darán por cumplido durante la inspección a través de los documentos vigentes avalados o emitidos por el Ministerio de Transportes e Infraestructura, a través de la Dirección General de Transporte Terrestre y Dirección General de Transporte Acuático, así como los documentos emitidos por el Instituto de Aeronáutica Civil para el caso del transporte aéreo.

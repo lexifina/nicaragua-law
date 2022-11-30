@@ -1,0 +1,3 @@
+# Artículo 33
+
+Las empresas tienen la obligación, de notificar al INTUR una vez al año acerca de la cesión de cualquier vehículo dedicado a dicha actividad, a fin de que éste proceda a la cancelación del permiso respectivo y actualización de la flota Vehicular, debiendo entregar fotocopia autenticada del documento por medio del cual se realizó la transferencia del vehículo, sticker turístico asignado a ese vehículo. Debiendo actualizar la flota Vehicular, en caso de ingresar un nuevo vehículo, se deberá entregar el nuevo sticker que identifica que el vehículo es debidamente regulado por el INTUR.

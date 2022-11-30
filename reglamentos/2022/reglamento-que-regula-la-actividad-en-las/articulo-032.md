@@ -1,0 +1,3 @@
+# Artículo 32
+
+Las autorizaciones a las que se refiere el presente Reglamento únicamente tendrán validez mientras los vehículos a los que están referidas pertenezcan a la persona natural o jurídica a la que fueron concedidas, quedando automáticamente sin efecto en el momento en que los mismos sean transferidos a otra persona. La persona natural o jurídica adquirente de los mismos que pretenda seguir dedicándose a la actividad de arrendamiento, deberá proveerse en todo caso de la correspondiente autorización, cuya expedición únicamente procederá si dicha persona y vehículos cumplen los requisitos establecidos en el presente Reglamento.

@@ -1,0 +1,3 @@
+# Artículo 38
+
+Aquel que incurra en cualquier tipo de faltas cometidas por incumplimiento de las obligaciones contenidas en el presente Reglamento, o violente cualquier disposición establecida en lo dispuesto en la Ley No. 298, “Ley Creadora del Instituto Nicaragüense de Turismo” y su reforma Ley No. 907 “Ley de reformas a la Ley No. 298 Ley creadora del Instituto Nicaragüense de Turismo, publicada en “La Gaceta” No. 163 del día 28 de agosto del año 2015, Ley No. 495 “Ley General de Turismo” su reglamento y reforma, Ley No. 842 “Ley de Protección de los Derechos de las Personas Consumidoras y Usuarias y su reglamento. Se someterá al procedimiento y sanciones establecidas en cualquiera de las leyes anteriormente descritas, según sea el caso.
