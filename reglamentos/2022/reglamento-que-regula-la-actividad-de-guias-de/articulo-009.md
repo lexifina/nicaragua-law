@@ -1,0 +1,3 @@
+# Artículo 9
+
+La actividad de Guía de Turistas es aquella que tiene por objeto la prestación de manera habitual y retribuida de servicios de información en materias culturales, artísticas, históricas y geográficas o ecológicas; prestadas a turistas en sus visitas con la finalidad de informarles de la oferta turística del país. Así como servicios de conducción, acompañamiento y asistencia a los mismos durante la gira de un día o más, en circuitos, ya sea por convenio directo con los turistas, o a través de una Agencia de Viajes, Tour Operadoras, o de un Organismo Oficial y privado, incluyendo misiones gestionadas por iglesias y Organismos No Gubernamentales (ONG).
