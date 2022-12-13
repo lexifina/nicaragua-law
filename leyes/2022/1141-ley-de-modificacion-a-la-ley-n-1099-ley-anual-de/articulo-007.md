@@ -1,0 +1,3 @@
+# Artículo 7
+
+Modifíquese el Artículo 1, de la Ley Nº. 1099, Ley Anual de Presupuesto General de la República 2022, el cual se leerá así: "Apruébese el Presupuesto General de Ingresos para el ejercicio presupuestario 2022 por un monto estimado de C$112,790,900,033.00 (CIENTO DOCE MIL SETECIENTOS NOVENTA MILLONES NOVECIENTOS MIL TREINTA Y TRES CÓRDOBAS NETOS), de los que C$112,704,874,253.00 (CIENTO DOCE MIL SETECIENTOS CUATRO MILLONES OCHOCIENTOS SETENTA Y CUATRO MIL DOSCIENTOS CINCUENTA Y TRES CÓRDOBAS NETOS), corresponden a ingresos corrientes y C$86,025,780.00 (OCHENTA Y SEIS MILLONES VEINTICINCO MIL SETECIENTOS OCHENTA CÓRDOBAS NETOS) a ingresos de capital, que forman parte de la Ley."

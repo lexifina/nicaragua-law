@@ -1,0 +1,27 @@
+LEY Nº. 1141, LEY DE MODIFICACIÓN A LA LEY Nº. 1099, LEY ANUAL DE PRESUPUESTO GENERAL DE LA REPÚBLICA 2022
+
+Aprobada el 09 de diciembre de 2022
+
+Publicada en La Gaceta, Diario Oficial N°. 233 del 13 de diciembre de 2022
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+A sus habitantes, hace saber:
+
+Que,
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+Ha ordenado lo siguiente:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+HA DICTADO
+
+La siguiente:
+
+LEY Nº. 1141
+
+LEY DE MODIFICACIÓN A LA LEY Nº. 1099, LEY ANUAL DE PRESUPUESTO GENERAL DE LA REPÚBLICA 2022

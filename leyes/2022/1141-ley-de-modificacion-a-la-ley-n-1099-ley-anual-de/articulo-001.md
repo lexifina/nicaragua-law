@@ -1,0 +1,3 @@
+# Artículo 1
+
+Increméntese el Presupuesto General de Ingresos para el ejercicio presupuestario 2022 en la suma de C$21,248,440,176.00 (VEINTIÚN MIL DOSCIENTOS CUARENTA Y OCHO MILLONES CUATROCIENTOS CUARENTA MIL CIENTO SETENTA Y SEIS CÓRDOBAS NETOS), de los que C$21,246,188,956.00 (VEINTIÚN MIL DOSCIENTOS CUARENTA Y SEIS MILLONES CIENTO OCHENTA Y OCHO MIL NOVECIENTOS CINCUENTA Y SEIS CÓRDOBAS NETOS) corresponden a ingresos corrientes y C$2,251,220.00 (DOS MILLONES DOSCIENTOS CINCUENTA Y UN MIL DOSCIENTOS VEINTE CÓRDOBAS NETOS) a ingresos de capital, de acuerdo a la distribución por fuentes de ingresos contenida en el Anexo Nº l.
