@@ -6,19 +6,19 @@ Para su funcionamiento y control, la estructura orgánica de la Comisión, será
 
 1) Dirección Superior, conformada por:
 
-a) El Presidente o Presidenta de la Comisión;
+a. El Presidente o Presidenta de la Comisión;
 
-b) La Secretaria Ejecutiva o Secretario Ejecutivo;
+b. La Secretaria Ejecutiva o Secretario Ejecutivo;
 
-c) Un representante con nivel de Dirección del Ministerio de Salud;
+c. Un representante con nivel de Dirección del Ministerio de Salud;
 
-d) Un representante con nivel de Dirección del Ministerio del Ambiente y de los Recursos Naturales;
+d. Un representante con nivel de Dirección del Ministerio del Ambiente y de los Recursos Naturales;
 
-e) Un representante con nivel de Dirección del Instituto de Protección y Sanidad Agropecuaria;
+e. Un representante con nivel de Dirección del Instituto de Protección y Sanidad Agropecuaria.
 
 El Presidente o Presidenta de la Comisión, es la máxima autoridad de este órgano, ejercerá la representación legal, así como la dirección, coordinación y control de sus operaciones; pudiendo otorgar o delegar mandatos generales o especiales, para su adecuada gestión y funcionamiento. Garantizará el cumplimiento de sus atribuciones y asumirá las atribuciones que se dispongan en la presente Ley, reglamentos internos u otros instrumentos legales, afines a la misma.
 
-El Presidente, Presidenta, Secretaria Ejecutiva o Secretario Ejecutivo de la Comisión, serán nombrados por el Presidente de la República.
+El Presidente o Presidenta, Secretaria Ejecutiva o Secretario Ejecutivo de la Comisión, serán nombrados por el Presidente de la República.
 
 La organización, funciones y responsabilidades de la estructura orgánica de la Comisión, se determinarán en el Reglamento de la presente Ley.
 
@@ -32,7 +32,7 @@ b) Unidad de Análisis de Riesgo;
 
 c) Unidad de Asesoría Legal;
 
-d) Unidad de Fiscalización
+d) Unidad de Fiscalización.
 
 3) Órganos de Apoyo:
 
@@ -54,7 +54,7 @@ d) Un delegado del Ministerio del Ambiente y de los Recursos Naturales.
 
 e) Un delegado del Ministerio de Fomento, Industria y Comercio.
 
-f) Un delegado del Ministerio del Trabajo
+f) Un delegado del Ministerio del Trabajo.
 
 g) Un delegado del Ministerio de Transporte e Infraestructura.
 
@@ -64,12 +64,12 @@ i) Un delegado del Instituto de Protección y Sanidad Agropecuaria.
 
 j) Un delegado de la Dirección General de Servicios Aduaneros.
 
-k) Cuatro representantes del sector privado, nombrados por el Presidente de la República a propuesta del Consejo Superior de la Empresa Privada.
+k) Cuatro representantes del sector privado, nombrados por el Presidente de la República.
 
 Cada miembro del Consejo Técnico Consultivo, deberá contar con su respectivo suplente.
 
-El Consejo Técnico Consultivo, podrá invitar a participar en sus sesiones a cualquier institución pública, privada o académica, relacionada con la naturaleza de la temática a discutirse, para conocer sus opiniones y sugerencias al respecto.
+El Consejo Técnico Consultivo, podrá invitar a participar en sus sesiones a cualquier institución pública, privada o: académica, relacionada con la naturaleza de la temática a discutirse, para conocer sus opiniones y sugerencias al respecto.
 
 En el Reglamento de la presente Ley se establecerá el funcionamiento del Consejo Técnico Consultivo.
 
-Del patrimonio
+DEL PATRIMONIO
