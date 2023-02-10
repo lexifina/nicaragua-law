@@ -1,0 +1,15 @@
+LEY N°. 1145, LEY ESPECIAL QUE REGULA LA PÉRDIDA DE LA NACIONALIDAD NICARAGÜENSE
+
+Aprobada el 09 de febrero de 2023
+
+Publicada en La Gaceta, Diario Oficial N°. 25 del 10 de febrero de 2023
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+Ha dictado la siguiente:
+
+Ley N°. 1145
+
+LEY ESPECIAL QUE REGULA LA PÉRDIDA DE LA NACIONALIDAD NICARAGÜENSE
