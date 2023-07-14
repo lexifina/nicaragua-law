@@ -1,0 +1,3 @@
+# Artículo 13
+
+Entidades Sujetas a las Disposiciones. De conformidad con lo establecido en el Artículo 2 de la Ley Nº 477 Ley General de Deuda Pública, y al Artículo 3 del Decreto 2-2004, Reglamento a la Ley 477 Ley General de Deuda Pública y los Artículos 2 y 3 del Texto de Ley Nº 290 "Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo con reformas incorporadas", publicada en La Gaceta, Diario Oficial, Nº 35 del 22 de Febrero de 2013 y sus Reformas, las disposiciones del presente Decreto son de carácter obligatorio para todas las entidades del Sector Público que requieran contratar crédito público, incluyendo aquellas instituciones que soliciten el aval o garantía del Estado para sus operaciones de crédito público.

@@ -1,0 +1,3 @@
+# Artículo 15
+
+Entrada en Vigencia. El presente Decreto entrará en vigencia a partir de su publicación. Publíquese en La Gaceta, Diario Oficial.
