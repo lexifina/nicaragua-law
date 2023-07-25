@@ -1,0 +1,13 @@
+REGLAMENTO DE FUNCIONAMIENTO CONSEJO NACIONAL DE UNIVERSIDADES
+
+REGLAMENTO, aprobado el 27 de junio de 2023
+
+Publicado en La Gaceta, Diario Oficial N°. 133 del 25 de julio de 2023
+
+REGLAMENTO DE FUNCIONAMIENTO CONSEJO NACIONAL DE UNIVERSIDADES
+
+Título I
+
+Disposiciones Generales
+
+Capítulo Único
