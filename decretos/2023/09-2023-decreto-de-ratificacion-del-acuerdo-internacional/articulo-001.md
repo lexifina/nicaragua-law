@@ -1,0 +1,3 @@
+# Artículo 1
+
+Ratificar el “ACUERDO INTERNACIONAL DEL CAFÉ DE 2022”.
