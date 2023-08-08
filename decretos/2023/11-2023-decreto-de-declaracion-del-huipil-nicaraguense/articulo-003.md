@@ -1,0 +1,5 @@
+# Artículo 3
+
+Fomento y promoción. El Ministerio de Educación, el Ministerio de Economía Familiar Comunitaria Cooperativa y Asociativa, el Ministerio de la Juventud, el Instituto Nicaragüense de Fomento Municipal, el Instituto Nicaragüense de Turismo, el Instituto Nicaragüense de Cultura, y la Secretaría de Economía Creativa y Naranja de la Presidencia de la República desarrollarán una estrategia orientada a revitalizar el Huipil Nicaragüense como expresión cultural, social y étnica, con iniciativas y acciones que contribuyan a realzar la identidad cultural nicaragüense.
+
+Dichas instituciones, en conjunto con los Gobiernos Municipales, Universidades, Centros Educativos, Bibliotecas Públicas, Museos, Casas de Cultura y Creatividad, y medios de comunicación a nivel nacional deberán incluir dentro de sus planes de trabajo actividades que contribuyan al conocimiento, promoción, revitalización entre la población nacional del Huipil Nicaragüense, así como el reconocimiento público a portadores, protagonistas, artesanos y confeccionistas dedicados a la elaboración del Huipil Nicaragüense.
