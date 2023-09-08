@@ -1,0 +1,3 @@
+# Artículo 5
+
+Las instituciones mencionadas en el artículo 2 del presente Decreto, el Consejo Nacional de Universidades, Gobiernos Municipales, Universidades, Centros Educativos, Bibliotecas Públicas y Medios de Comunicación a Nivel Nacional deberán incluir dentro de sus Planes de Trabajo actividades que contribuyan al conocimiento y promoción, sobre la historia del maíz como elemento ancestral en nuestros pueblos latinoamericanos y particularmente en Nicaragua, promoviendo foros, talleres, encuentros, creaciones literarias, material educativo y promocional, exposiciones, entre otras expresiones que fomenten la producción y consumo del maíz.
