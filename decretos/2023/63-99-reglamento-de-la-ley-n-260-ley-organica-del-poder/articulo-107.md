@@ -1,0 +1,5 @@
+# Artículo 107
+
+Derogado.
+
+DEL AUXILIO JUDICIAL DE LA POLICÍA NACIONAL
