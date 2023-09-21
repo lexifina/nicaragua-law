@@ -1,0 +1,11 @@
+Dada en la ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional, a los dieciocho días del mes de mayo del dos mil. ÓSCAR MONCADA REYES, Presidente de la Asamblea Nacional por la Ley. PEDRO JOAQUÍN RÍOS CASTELLÓN, Secretario de la Asamblea Nacional.
+
+Por Tanto: Téngase como Ley de la República. Publíquese y Ejecútese. Managua, once de julio del año dos mil. ARNOLDO ALEMÁN LACAYO, Presidente de la República de Nicaragua.
+
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por: 1. Ley N°. 411, Ley Orgánica de la Procuraduría General de la República, publicada en La Gaceta, Diario Oficial N°. 244 del 24 de diciembre de 2001; 2. Sentencia N°. 40, Sentencia de Inconstitucionalidad Parcial de la Ley N°. 350, Ley de Regulación de la Jurisdicción de lo Contencioso Administrativo; 3. Ley N°. 568, Ley de Derogación de la Ley N°. 340, Ley de Sistema de Ahorro para Pensiones y Ley N°. 388, Ley Orgánica de la Superintendencia de Pensiones, publicada en La Gaceta, Diario Oficial N°. 5 del 6 de enero de 2006; 4. Ley N°. 854, Ley de Reforma Parcial a la Constitución Política de la República de Nicaragua, publicada en La Gaceta, Diario Oficial N°. 26 del 10 de febrero de 2014; 5. Ley N°. 870, Código de Familia, publicado en La Gaceta, Diario Oficial N°. 190 del 8 de octubre de 2014; 6. Ley N°. 902, Código Procesal Civil de la República de Nicaragua, publicado en La Gaceta, Diario Oficial N°. 191 del 9 de octubre de 2015; 7. Sentencia N°. 3, Ratificación de la Sentencia por Inconstitucionalidad del Artículo 129 de la Ley N°. 350, Ley de Regulación de la Jurisdicción de lo Contencioso Administrativo, publicada en La Gaceta, Diario Oficial N°. 160 del 25 de agosto de 2016; y 8. Ley N°. 983, Ley de Justicia Constitucional, publicada en La Gaceta, Diario Oficial N°. 247 del 20 de diciembre de 2018.
+
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los diez días del mes de junio del año dos mil veintiuno. Dip. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+
+Observación: El Texto Consolidado, Ley N°. 350, Ley de Regulación de la Jurisdicción de lo Contencioso Administrativo, se encuentra incorporado en el Anexo IV, Registro de Normas Consolidadas de la Ley del Digesto Jurídico Nicaragüense de la Materia Administrativa.
+
+.
