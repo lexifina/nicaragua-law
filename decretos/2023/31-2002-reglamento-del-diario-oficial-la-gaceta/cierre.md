@@ -1,0 +1,9 @@
+Dado en la Ciudad de Managua, Casa Presidencial, a los diecinueve días del mes de marzo del año dos mil dos. Enrique Bolaños Geyer, Presidente de la República de Nicaragua.
+
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por: 1. Decreto Ejecutivo Nº. 6-2004, Reforma al Decreto Nº. 31-2002, Reglamento del Diario Oficial, La Gaceta, publicado en La Gaceta, Diario Oficial Nº. 33 del 17 de febrero de 2004; 2. Decreto Ejecutivo Nº. 133-2004, Reforma al Decreto Nº. 31-2002, Reglamento del Diario Oficial, La Gaceta, publicado en La Gaceta, Diario Oficial Nº. 252 del 28 de diciembre de 2004; 3. Decreto Ejecutivo Nº. 82-2007, De Reformas y Adiciones al Reglamento del Diario Oficial La Gaceta, Decreto Nº. 31-2002, publicado en La Gaceta Nº. 86 del 10 de mayo del 2002, publicado en La Gaceta, Diario Oficial Nº. 169 del 4 de septiembre de 2007; 4. Ley Nº. 804, Ley de Reforma y Adición a la Ley Nº. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en La Gaceta, Diario Oficial Nº. 134 del 17 de julio de 2012; y 5. Decreto Ejecutivo Nº. 07-2021, De Reformas al Decreto Nº. 31-2002, Reglamento del Diario Oficial La Gaceta, y sus Reformas Contenidas en Decreto Nº. 82-2007, publicado en La Gaceta Nº. 169 del 04 de septiembre de 2007, publicado en La Gaceta, Diario Oficial Nº. 85 del 11 de mayo de 2021.
+
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los diez días del mes de junio del año dos mil veintiuno. Dip. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+
+Observación: El Texto Consolidado, Decreto Ejecutivo N°. 31-2002, Reglamento del Diario Oficial La Gaceta, se encuentra incorporado en el Anexo IV, Registro de Normas Consolidadas de la Ley del Digesto Jurídico Nicaragüense de la Materia Administrativa.
+
+.
