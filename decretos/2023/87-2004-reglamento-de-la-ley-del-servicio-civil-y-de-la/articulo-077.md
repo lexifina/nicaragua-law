@@ -1,0 +1,5 @@
+# Artículo 77
+
+Traslado de Causa
+
+En cualquier fase del proceso disciplinario, si la Comisión Tripartita valora que la falta imputada al servidor público puede ser presunta causal de responsabilidad civil, penal o administrativa, lo pondrá en conocimiento de Recursos Humanos para que esta, de acuerdo a los procedimientos establecidos en la Institución y con autorización de la máxima autoridad administrativa de las misma, lo denuncie a la Procuraduría General de la República, la Contraloría General de la República o cualquier otra Instancia competente, sin que ello interrumpa la tramitación del proceso disciplinario, salvo que así se dispusiera por resolución judicial.

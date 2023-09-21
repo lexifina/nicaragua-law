@@ -1,0 +1,7 @@
+# Artículo 124
+
+Período extraordinario de Acreditación a la Carrera Administrativa
+
+De conformidad a lo dispuesto en el Artículo 121 de la Ley, los funcionarios y empleados públicos que sean debidamente acreditados ingresarán en la Carrera Administrativa. Si no fueren acreditados, por no cumplir los requisitos de idoneidad para el puesto, tendrán un período máximo de tres años para ajustarse a los mismos, el que debe contarse desde el momento en el que se compara su perfil con los requerimientos del puesto.
+
+Vencido este plazo, el servidor público que no reúna los requisitos del puesto que ocupa y pertenece a los servicios ejecutivo y operativo y ha ejercido puestos similares o afines al que actualmente ocupa, por diez años o más, puede ingresar a la Carrera Administrativa de acuerdo a la normativa, procedimientos y metodología que para tal efecto defina el Ministerio de Hacienda y Crédito Público a través de la Instancia Rectora del Servicio Civil siempre y cuando presente los documentos probatorios.
