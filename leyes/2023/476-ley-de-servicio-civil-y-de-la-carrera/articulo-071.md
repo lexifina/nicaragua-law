@@ -1,0 +1,5 @@
+# Artículo 71
+
+Aplicación Convenio Colectivo
+
+Las disposiciones del Convenio Colectivo u otro instrumento similar, se aplicarán a todos los servidores públicos que laboran para la Institución, independientemente de que pertenezcan o no al sindicato que lo suscribió. Los Funcionarios Públicos Principales tomarán las medidas necesarias para garantizar que los contenidos de los acuerdos o convenios, estén comprendidos dentro de los límites presupuestarios establecidos para su Institución. Los Convenios Colectivos que se firmen a partir de la entrada en vigencia de esta Ley, no podrán anular las condiciones de trabajo y reivindicaciones sociales alcanzadas, ni podrán disponer de beneficios retroactivos.

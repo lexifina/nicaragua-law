@@ -1,0 +1,5 @@
+# Artículo 85
+
+Instancia Responsable del Proceso de Provisión
+
+La Instancia de Recursos Humanos de la Institución, será la responsable de informar a las personas interesadas en participar en los procesos de provisión; elaborar las convocatorias; definir criterios y puntuaciones para la selección, diseñar y aplicar las pruebas en coordinación con la máxima autoridad del área en que se ubica la plaza a cubrir; recibir y analizar la documentación de las personas participantes en el proceso y realizar la evaluación técnica de las mismas, en base a los criterios y puntuaciones previamente establecidas en la convocatoria.

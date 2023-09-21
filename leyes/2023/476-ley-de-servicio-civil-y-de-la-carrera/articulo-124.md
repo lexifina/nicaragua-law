@@ -1,0 +1,5 @@
+# Artículo 124
+
+Recursos Anteriores a la Ley de Servicio Civil
+
+Los recursos interpuestos contra las resoluciones administrativas que afecten al Servicio Civil y la Carrera Administrativa y que hubieran sido dictadas con anterioridad a la entrada en vigor de la presente Ley o su Reglamento, según la materia, seguirán siendo tramitadas conforme a los procedimientos anteriores a la entrada en vigor de la presente Ley. La revisión en vía judicial de las resoluciones de la Administración en las que se haya agotado la vía administrativa, seguirá siendo efectuada por la jurisdicción ordinaria hasta la entrada en vigor de la presente Ley.

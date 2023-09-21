@@ -1,0 +1,11 @@
+Dada en la ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional, a los diecinueve días del mes de noviembre del año dos mil tres. JAIME CUADRA SOMARRIBA, Presidente de la Asamblea Nacional. MIGUEL LÓPEZ BALDIZÓN, Secretario de la Asamblea Nacional.
+
+Por tanto: Téngase como Ley de la República. Publíquese y Ejecútese. Managua, once de diciembre del año dos mil tres. ENRIQUE BOLAÑOS GEYER, Presidente de la República de Nicaragua.
+
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por: 1. Ley N°. 501, Ley de Carrera Judicial, publicada en La Gaceta, Diario Oficial N°. 11 del 17 de enero de 2005; 2. Ley N°. 550, Ley de Administración Financiera y del Régimen Presupuestario, publicada en La Gaceta, Diario Oficial N°. 167 del 29 de agosto de 2005; 3. Ley N°. 606, Ley Orgánica del Poder Legislativo de la República de Nicaragua, publicada en La Gaceta, Diario Oficial N°. 26 del 6 de febrero de 2007; 4. Ley N°. 732, Ley Orgánica del Banco Central de Nicaragua, publicada en La Gaceta, Diario Oficial N°. 149 del 6 de agosto de 2010; 5. Ley N°. 854, Ley de Reforma Parcial a la Constitución Política de la República de Nicaragua, publicada en La Gaceta, Diario Oficial N°. 26 del 10 de febrero de 2014; 6. Ley N°. 855, Ley de Reformas y Adiciones a la Ley N°. 181, “Código de Organización, Jurisdicción y Previsión Social Militar”, publicada en La Gaceta, Diario Oficial N°, 27 del 11 de febrero de 2014; 7. Ley N°. 872, Ley de Organización, Funciones, Carrera y Régimen Especial de Seguridad Social de la Policía Nacional, publicada en La Gaceta, Diario Oficial N°. 125 del 7 de julio de 2014; y 8. Ley N°. 1070, Ley de Reforma y Adición a la Ley N°. 331, Ley Electoral, publicada en La Gaceta, Diario Oficial N°. 81 del 5 de mayo de 2021.
+
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los diez días del mes de junio del año dos mil veintiuno. Dip. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+
+Observación: El Texto Consolidado, Ley N°. 476, Ley de Servicio Civil y de la Carrera Administrativa, se encuentra incorporado en el Anexo IV, Registro de Normas Consolidadas de la Ley del Digesto Jurídico Nicaragüense de la Materia Administrativa.
+
+.
