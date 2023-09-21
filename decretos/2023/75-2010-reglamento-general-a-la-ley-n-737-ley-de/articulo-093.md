@@ -1,0 +1,9 @@
+# Artículo 93
+
+Modalidades de presentación del precio.
+
+Los PBC de los procedimientos de selección para la contratación de bienes, servicios y ejecución de obras indicarán las modalidades que se utilizarán para presentar oferta de precio y sus posibles ajustes, sobre la base de las condiciones preestablecidas en función a la naturaleza y objeto principal del contrato.
+
+Dichas modalidades podrán ser el de suma alzada y el de precios unitarios, tarifas o porcentajes.
+
+En el sistema de suma alzada, el oferente formula su oferta por un monto fijo integral y por un determinado plazo de ejecución. Tratándose de obras, el oferente formulará dicha oferta considerando los trabajos que resulten necesarios para el cumplimiento del objeto de la prestación requerida según los planos, especificaciones técnicas, memoria descriptiva y presupuesto de obra que forman parte del Expediente Técnico, en ese orden de prelación; considerándose que el desagregado por partidas que da origen a su oferta y que deben presentar como parte de la misma, es Referencial. Esta modalidad sólo será aplicable cuando las magnitudes y calidades de la prestación estén totalmente definidas en las especificaciones técnicas y en los términos de referencia y, en el caso de obras, en los planos y especificaciones técnicas respectivas; calificación que corresponde realizar al área técnica. En el sistema de precios unitarios, tarifas o porcentajes, el oferente formula su oferta ofertando precios, tarifas o porcentajes en función de las partidas o cantidades referenciales contenidas en el PBC, y que se valorizan en relación a su ejecución real, así como por un determinado plazo de ejecución; y, en el caso de obras ofertará considerando los precios unitarios de las partidas contenidas en el PBC, las condiciones previstas en los planos y especificaciones técnicas, así como las cantidades referenciales.
