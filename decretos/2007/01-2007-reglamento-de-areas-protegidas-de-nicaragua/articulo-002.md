@@ -1,5 +1,5 @@
 # Artículo 2
 
-Cuando en este Reglamento se remita a la Ley, deberá entenderse que se refiere a la Ley Número 217, Ley General del Medio Ambiente y los Recursos Naturales publicada en la Gaceta, Diario Oficial No. 105 del 6 de junio de 1996.
+Nombramiento del Ministro Delegado del Presidente de la República para Asuntos Específicos
 
-CONCEPTOS
+La Delegación Presidencial para Asuntos Específicos del Presidente de la República, estará a cargo de un Ministro Delegado del Presidente de la República para Asuntos Específicos, el que será nombrado por el Presidente de la República.

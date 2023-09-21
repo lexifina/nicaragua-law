@@ -1,3 +1,0 @@
-# Artículo 60
-
-El MARENA a través de la DGAP y las Secretarías de Reservas de la Biosfera en su caso, se coordinará con el Instituto Nicaragüense de Turismo (INTUR), el Instituto Nacional de Cultura, Gobiernos Municipales y regionales, a fin de promover el desarrollo de programas de trabajo conjunto en función de fomentar el desarrollo sostenible de las áreas protegidas del SINAP, sobre la base de la realización de actividades ecoturísticas y de recreación, procurando la conservación del paisaje y los recursos naturales y culturales, siempre y cuando la categoría de manejo y directrices de administración lo permitan.
