@@ -1,0 +1,7 @@
+# Artículo 119
+
+Derogación y sustitución de denominaciones
+
+La presente Ley deroga las siguientes disposiciones legales: a) Ley Nº. 323, Ley de Contrataciones del Estado, publicada en La Gaceta, Diario Oficial Nº. 1 y Nº. 2 del 3 y 4 de enero del 2000 y sus reformas, Ley Nº. 349, Ley de reforma a la Ley Nº. 323, Ley de Contrataciones del Estado, publicada en La Gaceta, Diario Oficial Nº. 109 del 9 de junio del año 2000 y Ley Nº. 427, Ley de reforma a la Ley Nº. 323, Ley de Contrataciones del Estado, publicada en La Gaceta, Diario Oficial Nº. 110 del 13 de junio del año 2002; b) Decreto Nº. 21-2000, Reglamento General de la Ley de Contrataciones del Estado, publicado en La Gaceta, Diario Oficial Nº. 46 del 6 de marzo del 2000 y sus reformas; c) inciso g) del Artículo 21 de la Ley Nº. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en La Gaceta, Diario Oficial Nº. 102 del 3 de junio del año 1988; d) Ley Nº. 505, Ley que regula la Contratación de los Servicios de Profesionales y Técnicos Nicaragüenses en los Programas y Proyectos del Sector Público que se Financian con Fondos Provenientes de Gobiernos y Organismos Internacionales, publicada en La Gaceta, Diario Oficial Nº. 18 del 26 de enero del año 2005.
+
+En toda disposición legal o reglamentaria en donde se haga referencia a la Ley Nº. 323, Ley de Contrataciones del Estado, deberá entenderse Ley Nº. 737, Ley de Contrataciones Administrativas del Sector Público.
