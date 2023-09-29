@@ -1,12 +1,20 @@
-LEY N°. 407, LEY QUE DECLARA Y DEFINE LA RESERVA DE BOSAWAS
+TEXTO CONSOLIDADO, LEY N°. 407, LEY QUE DECLARA Y DEFINE LA RESERVA DE BIOSFERA BOSAWAS
 
-Aprobada el 14 de noviembre de 2001
+Aprobado el 27 de septiembre de 2023
 
-Publicada en La Gaceta, Diario Oficial N°. 244 del 24 de diciembre de 2001
+Publicado en La Gaceta, Diario Oficial N°. 217 del 29 de septiembre de 2023
+
+ASAMBLEA NACIONAL
+
+Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 27 de septiembre del 2023, de la Ley N°. 407, Ley que Declara y Define la Reserva de Biosfera Bosawas, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense y la Ley N°. 1163, Ley del Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales, aprobada el 27 de septiembre de 2023.
+
+LEY N°. 407
 
 EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
-Hace Saber al pueblo nicaragüense que:
+Hace saber al pueblo nicaragüense que:
 
 LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
 
@@ -38,7 +46,7 @@ HA DICTADO
 
 La siguiente:
 
-LEY QUE DECLARA Y DEFINE LA RESERVA DE LA BIOSFERA BOSAWAS
+LEY QUE DECLARA Y DEFINE LA RESERVA DE BIOSFERA BOSAWAS
 
 DISPOSICIONES GENERALES
 

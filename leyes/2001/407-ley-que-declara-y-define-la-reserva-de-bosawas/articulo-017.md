@@ -18,6 +18,8 @@ g) Asegurar y dar seguimiento a los acuerdos y/o compromisos que resuelva la Com
 
 h) Proponer y gestionar las acciones necesarias para que las instituciones del estado, organismos no gubernamentales, proyectos y donantes, actúen en forma coordinada y sobre la base de los planes de manejo y normas técnicas que se dicten para el área de la Reserva.
 
-i) Llevar control y coordinación de la ejecución y finalización de proyectos, programas y demás actividades que realizan en la Reserva de la Biosfera Bosawas, presentando informe anual a la Comisión Nacional de Bosawas de los resultados obtenidos. La Secretaría Técnica podrá proponer medidas correctivas o necesarias cuando se compruebe incumplimiento de los términos establecidos en los Planes de Desarrollo de la Reserva o en las medidas de protección al Medio Ambiente y los Recursos Naturales.
+i) Llevar control y coordinación de la ejecución y finalización de proyectos, programas y demás actividades que realizan en la Reserva de la Biosfera Bosawas, presentando informe anual a la Comisión Nacional de Bosawas de los resultados obtenidos.
+
+La Secretaría Técnica podrá proponer medidas correctivas o necesarias cuando se compruebe incumplimiento de los términos establecidos en los Planes de Desarrollo de la Reserva o en las medidas de protección al medio ambiente y los recursos naturales.
 
 j) Administrar los fondos e ingresos a que se refiere el Artículo 13 de esta Ley.

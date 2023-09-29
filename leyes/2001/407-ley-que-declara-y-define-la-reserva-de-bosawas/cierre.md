@@ -1,7 +1,11 @@
-Dada en la Ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional, a los catorce días del mes de Noviembre del dos mil uno. OSCAR MONCADA REYES, Presidente de la Asamblea Nacional. PEDRO JOAQUÍN RÍOS CASTELLÓN, Secretario de la Asamblea Nacional.
+Dada en la Ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional, a los catorce días del mes de Noviembre del dos mil uno. ÓSCAR MONCADA REYES, Presidente de la Asamblea Nacional. PEDRO JOAQUÍN RÍOS CASTELLÓN, Secretario de la Asamblea Nacional.
 
 Por tanto: Téngase como Ley de la República. Publíquese y Ejecútese. Managua, dieciocho de Diciembre del año dos mil uno. ARNOLDO ALEMÁN LACAYO, Presidente de la República de Nicaragua.
 
-Observación: El Texto Consolidado, Ley Nº. 407, Ley que Declara y Define la Reserva de la Biosfera Bosawas, fue aprobado y publicado en la Ley del Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales.
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por: 1. Ley N°. 417, Ley de Reforma a la Ley N°. 59, Ley de División Política Administrativa y Creación del Municipio de San José de Bocay, publicada en La Gaceta, Diario Oficial N°. 57 del 22 de marzo de 2002; 2. Ley N°. 854, Ley de Reforma Parcial a la Constitución Política de la República de Nicaragua, publicada en La Gaceta, Diario Oficial N°. 26 del 10 de febrero de 2014; 3. Ley N°. 864, Ley de Reforma a la Ley N°. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en La Gaceta, Diario Oficial N°. 91 del 20 de mayo de 2014; 4. Ley N°. 929, Ley de Reformas y Adición a la Ley N°. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo y a la Ley N°. 462, Ley de Conservación, Fomento y Desarrollo Sostenible del Sector Forestal, publicada en La Gaceta, Diario Oficial N°. 97 del 25 de mayo de 2016; 5. Ley N°. 1115, Ley General de Regulación y Control de Organismos Sin Fines de Lucro, publicada en La Gaceta, Diario Oficial N°. 66 del 6 de abril de 2022; y 6. Ley N°. 1122, Ley de Reforma a la Ley N°. 462, Ley de Conservación, Fomento y Desarrollo Sostenible del Sector Forestal, publicada en La Gaceta, Diario Oficial N°. 102 del 6 de junio de 2022.
+
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los veintisiete días del mes de septiembre del año dos mil veintitrés. Dip. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+
+Observación: El Texto Consolidado de la Ley N°. 407, Ley que Declara y Define la Reserva de la Biosfera Bosawas, se encuentra incorporado en el Anexo IV, Registro de Normas Consolidadas de la Ley del Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales.
 
 .

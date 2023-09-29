@@ -4,28 +4,28 @@ La Comisión Bosawas creada en el Decreto Número 4-91, publicado en La gaceta o
 
 a) El Ministro del Ambiente y de los Recursos naturales, quien la preside.
 
-b) El Ministro Agropecuario y Forestal o su delegado.
+b) El Ministro Agropecuario o su delegado.
 
-c) El Director de la Oficina de Titulación Rural (OTR) o su delegado.
+c) El Intendente de la Propiedad o su delegado.
 
-d) El Director del Instituto Nacional Forestal o su delegado.
+d) Codirectores o Codirectoras del Instituto Nacional Forestal o su delegado.
 
-f) El Presidente del Consejo Regional Autónomo del Atlántico Norte o su delegado.
+e) El Presidente del Consejo Regional Autónomo del Caribe Norte o su delegado.
 
-g) El Alcalde de Wiwilí de Jinotega.
+f) El Alcalde de Wiwilí de Jinotega.
 
-h) El Alcalde de Wiwilí de Nueva Segovia.
+g) El Alcalde de Wiwilí de Nueva Segovia.
 
-i) El Alcalde de Cuá-Bocay.
+h) Los Alcaldes de El Cuá y de San José de Bocay.
 
-j) El Alcalde de Waslala.
+i) El Alcalde de Waslala.
 
-k) El Alcalde de Siuna.
+j) El Alcalde de Siuna.
 
-l) El Alcalde de Bonanza.
+k) El Alcalde de Bonanza.
 
-m) El Alcalde de Waspán.
+l) El Alcalde de Waspán.
 
-n) Un representante de cada uno de los siguientes bloques de comunidades: Mískitu Indian Tasbaika Kum, Mayangna Sauni Bu, Kipla Sait Tasbaika, Mayangna Sauni As, Sikilta y LiLamni Tasbaika Kum.
+m) Un representante de cada uno de los siguientes bloques de comunidades: Mískitu Indian Tasbaika Kum, Mayangna Sauni Bu, Kipla Sait Tasbaika, Mayangna Sauni As, Sikilta y LiLamni Tasbaika Kum.
 
 La Comisión podrá invitar a participar en sus reuniones, con voz pero sin voto, a otras entidades u organismos cuando lo considere necesario.
