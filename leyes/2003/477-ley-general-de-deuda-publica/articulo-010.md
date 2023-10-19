@@ -10,6 +10,6 @@ El Ministerio de Hacienda y Crédito Público, es el organismo encargado de rect
 
 4. La orientación de la asistencia técnica y financiera hacia la inversión y los programas de desarrollo económico y social.
 
-5. Un plan de renegociación y conversión de la Deuda Pública interna y externa cuyo propósito sea la reducción de los niveles de deuda, reducción del costo de financiamiento o de ambos.
+5. Un plan de renegociación y conversión de la Deuda Pública Interna y Externa cuyo propósito sea la reducción de los niveles de deuda, reducción del costo de financiamiento o de ambos.
 
 6. Un límite de endeudamiento global, considerando de manera prudente los riesgos y la vulnerabilidad de los ingresos internos y externos proyectados, así como también el perfil del servicio de la deuda.

@@ -1,16 +1,20 @@
-LEY N°. 477, LEY GENERAL DE DEUDA PÚBLICA
+TEXTO CONSOLIDADO, LEY N°. 477, LEY GENERAL DE DEUDA PÚBLICA
 
-Aprobada el 26 de noviembre de 2003
+Aprobado el 14 de diciembre de 2021
 
-Publicada en La Gaceta, Diario Oficial N°. 236 del 12 de diciembre de 2003
+Publicado en La Gaceta, Diario Oficial N°. 190 del 19 de octubre de 2023
 
-LEY No. 477
+Digesto Jurídico Nicaragüense de la Materia Sistema de Administración Financiera
 
-EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA,
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 14 de diciembre de 2021, de la Ley N°. 477, Ley General de Deuda Pública, aprobada el 26 de noviembre de 2003 y publicada en La Gaceta, Diario Oficial N°. 236 del 12 de diciembre de 2003, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial N°. 203 del 25 de octubre de 2017 y la Ley N°. 1101, Ley del Digesto Jurídico Nicaragüense de la Materia Sistema de Administración Financiera, aprobada el 14 de diciembre de 2021.
+
+LEY N°. 477
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
 Hace saber al pueblo nicaragüense que:
 
-LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA,
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
 
 En uso de sus facultades;
 

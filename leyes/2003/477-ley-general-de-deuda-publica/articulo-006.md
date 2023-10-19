@@ -4,7 +4,7 @@ Para efectos de la aplicación de esta Ley, la Deuda Pública está constituida 
 
 1. Contratación de préstamos con otros Estados, organismos financieros internacionales, bancos o instituciones financieras privadas extranjeras o nacionales, o provenientes de cualquier otra persona natural o jurídica residente en el país o en el extranjero.
 
-2. Emisión y colocación primaria de Títulos Valores, incluyendo Letras de la Tesorería General de la República o cualquier otro valor pagadero a plazo.
+2. Emisión y colocación primaria de títulos valores, incluyendo Letras de la Tesorería General de la República o cualquier otro valor pagadero a plazo.
 
 3. Celebración de contratos entre instituciones del sector público con personas naturales o jurídicas, nacionales o extranjeras, cuyo pago se pacte a plazo.
 

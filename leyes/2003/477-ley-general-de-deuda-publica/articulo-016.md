@@ -12,9 +12,9 @@ Son funciones del Comité Técnico de Deuda:
 
 5. Proponer acciones para reducir costos y exposición a riesgos asociados al endeudamiento público.
 
-6. Analizar y hacer propuestas de renegociación de la deuda externa e interna.
+6. Analizar y hacer propuestas de renegociación de la Deuda Externa e Interna.
 
-7. Brindar asesoría técnica en las renegociaciones de la deuda externa.
+7. Brindar asesoría técnica en las renegociaciones de la Deuda Externa.
 
 8. Evaluar periódicamente el contexto legal y reglamentario de la Deuda Pública en el país y proponer las actualizaciones necesarias para promover su gestión eficaz.
 
