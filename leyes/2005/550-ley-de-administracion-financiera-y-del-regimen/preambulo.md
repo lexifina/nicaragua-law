@@ -1,10 +1,14 @@
-LEY N°. 550, LEY DE ADMINISTRACIÓN FINANCIERA Y DEL RÉGIMEN PRESUPUESTARIO
+TEXTO CONSOLIDADO, LEY N°. 550, LEY DE ADMINISTRACIÓN FINANCIERA Y DEL RÉGIMEN PRESUPUESTARIO
 
-Aprobada el 28 de julio del año 2005
+Aprobado el 14 de diciembre de 2021
 
-Publicada en La Gaceta, Diario Oficial N°. 167 del 29 de agosto de año 2005
+Publicado en La Gaceta, Diario Oficial N°. 190 del 19 de octubre de 2023
 
-LEY No. 550
+Digesto Jurídico Nicaragüense de la Materia Sistema de Administración Financiera
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 14 de diciembre de 2021, de la Ley N°, 550, Ley de Administración Financiera y del Régimen Presupuestario, aprobada el 28 de julio de 2005 y publicada en La Gaceta, Diario Oficial N°. 167 del 29 de agosto de 2005, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial N°. 203 del 25 de octubre de 2017 y la Ley N°. 1101, Ley del Digesto Jurídico Nicaragüense de la Materia Sistema de Administración Financiera, aprobada el 14 de diciembre de 2021.
+
+LEY N°. 550
 
 EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
@@ -42,6 +46,10 @@ La siguiente:
 
 LEY DE ADMINISTRACIÓN FINANCIERA Y DEL RÉGIMEN PRESUPUESTARIO
 
-Título I. SISTEMA DE ADMINISTRACIÓN FINANCIERA.
+TÍTULO I
 
-Capítulo Único. Disposiciones Generales
+SISTEMA DE ADMINISTRACIÓN FINANCIERA
+
+CAPÍTULO ÚNICO
+
+DISPOSICIONES GENERALES

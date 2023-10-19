@@ -1,6 +1,8 @@
 # Artículo 133
 
-Estados de Ejecución Presupuestaria y Estados Contables Financieros. La Dirección General de Contabilidad Gubernamental deberá elaborar, trimestralmente, los Estados de Ejecución Presupuestaria de todos los organismos y entidades del Sector Público que reciban fondos con cargo al Presupuesto General de la República.
+Estados de Ejecución Presupuestaria y Estados Contables Financieros
+
+La Dirección General de Contabilidad Gubernamental deberá elaborar, trimestralmente, los estados de ejecución presupuestaria de todos los organismos y entidades del sector público que reciban fondos con cargo al Presupuesto General de la República.
 
 Asimismo, la Dirección General de Contabilidad Gubernamental deberá elaborar, trimestralmente, los Estados Contables Financieros en los que expondrá:
 

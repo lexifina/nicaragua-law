@@ -1,6 +1,8 @@
 # Artículo 9
 
-Atribuciones del Órgano Rector del Sistema de Administración Financiera. El Ministerio de Hacienda y Crédito Público, en su carácter de Órgano Rector del Sistema de Administración Financiera, tendrá las siguientes atribuciones:
+Atribuciones del Órgano Rector del Sistema de Administración Financiera
+
+El Ministerio de Hacienda y Crédito Público, en su carácter de Órgano Rector del Sistema de Administración Financiera, tendrá las siguientes atribuciones:
 
 a) Dirigir, supervisar y coordinar a los subsistemas a que se refiere la presente Ley.
 
@@ -16,6 +18,6 @@ f) Autorizar la programación y reprogramación de la ejecución presupuestaria.
 
 g) Informar sobre la liquidación del Presupuesto General de la República en base al cierre de cuentas, sustentado en las liquidaciones que presentan los organismos.
 
-h) Implantar, en forma gradual, el Sistema de Administración Financiera en todas las instituciones del Sector Público.
+h) Implantar, en forma gradual, el Sistema de Administración Financiera en todas las instituciones del sector público.
 
-i) Cumplir con las demás atribuciones que mandan las leyes vigentes.
+i) Cumplir con las demás atribuciones que mandatan las leyes vigentes.

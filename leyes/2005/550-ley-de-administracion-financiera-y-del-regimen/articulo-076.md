@@ -1,8 +1,10 @@
 # Artículo 76
 
-Transferencia de Excedentes a la Caja Única del Tesoro. Las entidades reguladas por la presente Sección, a requerimiento escrito del Ministerio de Hacienda y Crédito Público, podrán efectuar transferencias de parte de sus excedentes a la Caja Única del Tesoro con el objeto de sufragar gastos públicos.
+Transferencia de excedentes a la Caja Única del Tesoro
 
-Dichas transferencias deberán reflejarse en la Ley Anual de Presupuesto General de la República o en las reformas que se hagan a ésta.
+Las entidades reguladas por la presente Sección, a requerimiento escrito del Ministerio de Hacienda y Crédito Público, podrán efectuar transferencias de parte de sus excedentes a la Caja Única del Tesoro con el objeto de sufragar gastos públicos.
+
+Dichas transferencias deberán reflejarse en la Ley Anual de Presupuesto General de la República o en las reformas que se hagan a esta.
 
 Las transferencias se podrán realizar a condición de que las leyes constitutivas de tales entidades no prohíban la realización de estas transferencias.
 

@@ -1,5 +1,7 @@
 # Artículo 158
 
-Ámbito de Aplicación. El ámbito de aplicación del Sistema de Contrataciones será el establecido en la Ley No. 323, Ley de Contrataciones del Estado, y sus reformas.
+Ámbito de aplicación
 
-Capítulo 2. Organización del Sistema de Administración de Contrataciones del Sector Público.
+El ámbito de aplicación del Sistema de Contrataciones será el establecido en la Ley N°. 737, Ley de Contrataciones Administrativas del Sector Público.
+
+ORGANIZACIÓN DEL SISTEMA DE ADMINISTRACIÓN DE CONTRATACIONES DEL SECTOR PÚBLICO

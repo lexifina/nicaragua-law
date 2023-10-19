@@ -1,10 +1,12 @@
 # Artículo 5
 
-Principios Rectores. El Sistema de Administración Financiera, se organizará y funcionará en base a los siguientes principios rectores:
+Principios rectores
+
+El Sistema de Administración Financiera, se organizará y funcionará en base a los siguientes principios rectores:
 
 a) Eficiencia y eficacia operativa.
 
-b) Gestión integrada de todos los componentes del sistema.
+b) Gestión integrada de todos los componentes del Sistema.
 
 c) Gestión orientada a la centralización normativa básica y descentralización operativa.
 
@@ -14,9 +16,9 @@ e) Definición precisa de las competencias institucionales e individuales a todo
 
 f) Difusión de información financiera y programática auditada, oportuna y confiable.
 
-g) Profesionalismo e independencia en el ejercicio de la autoría integral, interna y externa.
+g) Profesionalismo e independencia en el ejercicio de la auditoría integral, interna y externa.
 
-h) Legalidad de los actos administrativos y operaciones materiales de los organismos y entidades del Sector Público.
+h) Legalidad de los actos administrativos y operaciones materiales de los organismos y entidades del sector público.
 
 i) Responsabilidad de las personas naturales, servidores públicos o no, que dirigen o ejecutan la función pública.
 

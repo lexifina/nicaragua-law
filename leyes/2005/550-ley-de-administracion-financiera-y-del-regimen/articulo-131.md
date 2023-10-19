@@ -1,6 +1,8 @@
 # Artículo 131
 
-Requisitos para el Registro de Transacciones. Las transacciones en el Subsistema de Contabilidad Gubernamental serán registradas cuando se cumplan los siguientes requisitos:
+Requisitos para el registro de transacciones
+
+Las transacciones en el Subsistema de Contabilidad Gubernamental serán registradas cuando se cumplan los siguientes requisitos:
 
 a) Crédito fiscal suficiente.
 

@@ -1,8 +1,10 @@
 # Artículo 25
 
-Órgano Rector del Subsistema de Presupuesto. La Dirección General de Presupuesto del Ministerio de Hacienda y Crédito Público es el Órgano Rector del Subsistema de Presupuesto, correspondiéndole velar por el correcto desempeño del mismo.
+Órgano Rector del Subsistema de Presupuesto
 
-En su carácter de Órgano Rector del Subsistema de Presupuesto, la Dirección General de Presupuesto tendrá las atribuciones y se organizará en la forma prevista en el Titulo II, Capítulo 4, Sección 2, artículos 87 y siguientes del Decreto No. 118-2001, Reformas e Incorporaciones al Reglamento de la Ley No. 290: Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo.
+La Dirección General de Presupuesto del Ministerio de Hacienda y Crédito Público es el Órgano Rector del Subsistema de Presupuesto, correspondiéndole velar por el correcto desempeño del mismo.
+
+En su carácter de Órgano Rector del Subsistema de Presupuesto, la Dirección General de Presupuesto tendrá las atribuciones y se organizará en la forma prevista en el Título III, Capítulo IV, Sección 2, Artículos 97 y siguientes del Decreto N°. 25-2006, Reformas y Adiciones al Decreto N°. 71-98, Reglamento de la Ley N°. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo.
 
 Asimismo, y sin perjuicio de cualquier otra atribución que resulte de la presente Ley o de otras leyes especiales, corresponderá a la Dirección General de Presupuesto las siguientes atribuciones relativas a la formulación, aprobación, ejecución, control, evaluación y liquidación de los presupuestos:
 
@@ -18,7 +20,7 @@ e) Analizar y recomendar al Ministro de Hacienda y Crédito Público la programa
 
 f) Coordinar y evaluar la ejecución de los presupuestos, en términos financieros y físicos.
 
-g) Coordinar, con la colaboración del Sistema Nacional de Inversiones Públicas (SNIP) y los órganos y entidades del Sector Público, la formulación presupuestaria anual y programación de mediano plazo de las inversiones públicas.
+g) Coordinar, con la colaboración del Sistema Nacional de Inversiones Públicas (SNIP) y los órganos y entidades del sector público, la formulación presupuestaria anual y programación de mediano plazo de las inversiones públicas.
 
 h) Preparar informes periódicos de evaluación de la ejecución presupuestaria.
 

@@ -1,3 +1,5 @@
 # Artículo 183
 
-Adopción de la Metodología del Marco Presupuestario de Mediano Plazo. Todas las instituciones del Sector Público deberán adoptar la metodología del Marco Presupuestario de Mediano Plazo, al que se hace referencia en el artículo 37 de la presente Ley, que establecerá el Ministerio de Hacienda y Crédito Público a través de la Dirección General de Presupuesto. El Ministerio de Hacienda y Crédito Público garantizará que el Marco Presupuestario de Mediano Plazo se vaya implementando en forma gradual en cada entidad y organismo presupuestado, para que en un período no mayor de tres años después de haber entrado en vigencia la presente Ley, éste se haya implementado en todas las instituciones del Sector Público.
+Adopción de la Metodología del marco presupuestario de mediano plazo
+
+Sin Vigencia.

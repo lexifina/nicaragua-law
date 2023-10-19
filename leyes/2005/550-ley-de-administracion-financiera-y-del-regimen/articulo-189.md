@@ -1,7 +1,7 @@
 # Artículo 189
 
-Derogaciones. Se derogan las siguientes disposiciones:
+Derogaciones
 
-La Ley 51, Ley de Régimen Presupuestario, sus reformas y adiciones, publicada en La Gaceta, Diario Oficial, No. 243, del 22 de diciembre de 1988.
+Se derogan las siguientes disposiciones:
 
-Capitulo 3. Disposiciones Finales.
+La Ley N°. 51, Ley de Régimen Presupuestario, sus reformas y adiciones, publicada en La Gaceta, Diario Oficial N°. 243 del 22 de diciembre de 1988.

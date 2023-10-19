@@ -1,3 +1,7 @@
 # Artículo 38
 
-Modificaciones al Proyecto de Ley. La Asamblea Nacional al aprobar el proyecto de presupuesto no podrá introducir aumentos del total de egresos, sin señalar una nueva fuente de ingresos suficientes para atender esos aumentos.
+Modificaciones al Proyecto de Ley
+
+Al tenor del Artículo 112 de la Constitución Política de la República de Nicaragua, la Asamblea Nacional, al aprobar el Proyecto de Ley de Anual de Presupuesto General de la República, no podrá introducir aumentos al total de egresos, sin señalar la fuente de ingresos suficientes para atender esos aumentos.
+
+La nueva fuente de ingresos que se pretenda incorporar durante el proceso de discusión y aprobación de la Ley anual del Presupuesto General de la República, deberá observar los resultados del dictamen emitido por un Comité Técnico integrado por el Ministerio de Hacienda y Crédito Público y la Comisión de Producción, Economía y Presupuesto de la Asamblea Nacional, al que se le solicitará pronunciarse sobre esta materia en el plazo de 10 días contados a partir de la solicitud hecha por la Comisión de Producción, Economía y Presupuesto de la Asamblea Nacional.
