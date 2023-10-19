@@ -1,7 +1,7 @@
 # Artículo 43
 
-Normas y Procedimientos. El Ministerio de Hacienda y Crédito Público podrá emitir normas y procedimientos operativos que garanticen el funcionamiento de las emisiones de los títulos valores gubernamentales y aquellos emitidos por las Alcaldías Municipales.
+Normas y procedimientos
 
-Capítulo VI
+El Ministerio de Hacienda y Crédito Público podrá emitir normas y procedimientos operativos que garanticen el funcionamiento de las emisiones de los títulos valores gubernamentales y aquellos emitidos por las alcaldías municipales.
 
-Endeudamiento Público de Mediano y Largo Plazo
+ENDEUDAMIENTO PÚBLICO DE MEDIANO Y LARGO PLAZO

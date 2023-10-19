@@ -1,3 +1,5 @@
 # Artículo 33
 
-Colocación. La colocación por subastas u ofertas públicas de títulos valores se efectuarán solamente a través del Ministerio de Hacienda y Crédito Público, un agente emisor debidamente autorizado por la Superintendencia de Bancos Y de Otras Instituciones Financieras o a través del Banco Central de Nicaragua. La colocación directa de títulos valores deberá efectuarse conforme a las normas y los procedimientos internos que se emitan para tal fin y serán formalizados individualmente mediante Acuerdo Ministerial o Acuerdo de Creación de la Emisión debidamente suscrito por las autoridades competentes.
+Colocación
+
+La colocación por subastas u ofertas públicas de títulos valores se efectuarán solamente a través del Ministerio de Hacienda y Crédito Público, un agente emisor debidamente autorizado por la Superintendencia de Bancos y de Otras Instituciones Financieras o a través del Banco Central de Nicaragua. La colocación directa de títulos valores deberá efectuarse conforme a las normas y los procedimientos internos que se emitan para tal fin y serán formalizados individualmente mediante Acuerdo Ministerial o Acuerdo de Creación de la Emisión debidamente suscrito por las autoridades competentes.
