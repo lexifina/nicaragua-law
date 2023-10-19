@@ -1,20 +1,20 @@
 # Artículo 18
 
-Órgano Asesor del Sistema de Transferencias
+Órgano asesor del Sistema de Transferencias
 
 Créase la Comisión de Transferencias a las Municipalidades, como instancia de asesoría y consulta en la administración del Sistema de Transferencias Presupuestarias a los municipios de Nicaragua, que en adelante se denominará la Comisión de Transferencias.
 
-La Comisión de Transferencias estará integrada por:
+1) La Comisión de Transferencias estará integrada por:
 
-1) El Presidente Ejecutivo del Instituto Nicaragüense de Fomento Municipal (INIFOM), quien coordinará la Comisión.
+2) El Presidente Ejecutivo del Instituto Nicaragüense de Fomento Municipal (INIFOM), quien coordinará la Comisión.
 
-2) El Presidente de la Asociación de Municipios de Nicaragua (AMUNIC).
+3) El Presidente de la Asociación de Municipios de Nicaragua (AMUNIC).
 
-3) El Presidente de la Asociación de Municipios de la Costa Caribe (AMURACAN).
+4) El Presidente de la Asociación de Municipios de la Costa Caribe (AMURACAN).
 
-4) El Director del Sistema Nacional de Inversión Pública.
+5) El Director del Sistema Nacional de Inversión Pública.
 
-5) El Presidente de la Comisión de Asuntos Municipales de la Asamblea Nacional.
+El Presidente de la Comisión de Población, Desarrollo y Asuntos Municipales de la Asamblea Nacional.
 
 En esta Comisión participará también en carácter de observador, un delegado de la Contraloría General de la República.
 
