@@ -1,0 +1,5 @@
+# Artículo 11
+
+Nombramiento del Director o Directora Nacional de Registros y del Director o Directora Nacional de Registros Adjunto
+
+La Dirección Nacional de Registros y la Dirección Nacional de Registros Adjunta, estará a cargo de un Director o una Directora Nacional de Registros y un Director Nacional de Registros Adjunto o una Directora Nacional de Registros Adjunta, cuyo nombramiento se efectuará por la Procuradora o Procurador General de la República, por un periodo de cinco años, pudiendo ser confirmados según lo estipulado en el reglamento de la presente Ley.
