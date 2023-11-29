@@ -2,7 +2,7 @@
 
 Los Regentes tendrán las siguientes funciones:
 
-1. Elaborar inventarios forestales, planes de manejo forestal, planes operativos anuales, planes de protección, estudios técnicos, planes de aprovechamiento forestal, informes de aprovechamiento relacionados con las actividades expresadas en las normas técnicas forestales del país, así como elaborar los informes respectivos expresados en el presente Reglamento y disposiciones administrativas. Para cada una de las actividades anteriores e informes, utilizarán la metodología oficial aprobada por INAFOR así como los formatos que se elaboren para tal efecto.
+1. Elaborar inventarios forestales, planes de manejo forestal, planes operativos anuales, planes de protección, estudios técnicos, planes de aprovechamiento forestal, informes de aprovechamiento relacionados con las actividades expresadas en las normas técnicas forestales del país, así como elaborar los informes respectivos expresados en el presente Reglamento y disposiciones administrativas. Para cada una de las actividades anteriores e informes, utilizarán la metodología oficial aprobada por INAFOR, así como los formatos que se elaboren para tal efecto.
 
 2. Elaborar las modificaciones que deban realizarse a los planes de manejo forestal y planes operativos anuales, si así se requiriera.
 
@@ -10,7 +10,7 @@ Los Regentes tendrán las siguientes funciones:
 
 4. Garantizar la ejecución de los planes de manejo forestal y sus respectivos planes operativos anuales.
 
-5. Servir como contraparte técnico en las visitas de supervisión que sean programadas por el INAFOR en el seguimiento y control de las actividades de aprovechamiento.
+5. Servir como contraparte técnico en las visitas de supervisión que sean programadas por el INAFOR en el seguimiento y control de las actividades de aprovechamiento
 
 6. Garantizar que las actividades a realizar en el manejo forestal cumplan las normas técnicas forestales.
 

@@ -2,7 +2,7 @@
 
 Para la mejor aplicación de la Ley, del presente Reglamento, de los Reglamentos Específicos y las Normativas que se emitan, se establecen las siguientes definiciones:
 
-Aprovechamiento Forestal: Conjunto de actividades destinadas a extraer los productos del bosque y de plantaciones Forestales, de forma eficiente de acuerdo a su productividad y a las normas técnicas obligatorias en el caso del bosque natural y de acuerdo a las prácticas de silvicultura específicas para el caso de las plantaciones Forestales.
+Aprovechamiento Forestal: Conjunto de actividades destinadas a extraerlos productos del bosque y de plantaciones Forestales, de forma eficiente de acuerdo a su productividad y a las normas técnicas obligatorias en el caso del bosque natural y de acuerdo a las prácticas de silvicultura específicas para el caso de las plantaciones Forestales.
 
 Aprovechamiento Forestal no comercial en fincas: Es el Aprovechamiento Forestal para uso propio del dueño del recurso, considerando las normas técnicas establecidas.
 
@@ -10,7 +10,7 @@ Aptitud Forestal: Conjunto de calidades suficientes de un suelo que determinan l
 
 Área boscosa: Extensión de tierra que cuenta con cobertura Forestal maderable, al menos en un 30% de ella.
 
-Aserrío industrial: Toda empresa que utilice materia prima de madera en rollo para su primera transformación.
+Aserrío industrial: Toda empresa que utilice materia prima de madera en rollo para su primera transformación
 
 Aserríos Portátiles (Aserradero móvil): Equipo de aserrar que por su tamaño y características fácilmente puede ser trasladado de un sitio a otro.
 
@@ -34,7 +34,7 @@ Concesión Forestal: Derechos que otorga el estado para el uso y aprovechamiento
 
 Contrato de Concesión: Instrumento legal a través del cual el Estado otorga derechos sobre las tierras y sobre el vuelo Forestal existente en ella.
 
-Delegado Distrital Forestal: El Profesional o Técnico Forestal acreditado por el Instituto Nacional Forestal (INAFOR), nombrado por el Director Ejecutivo del INAFOR, que representa a la Institución en un Distrito Forestal.
+Delegado Departamental o Subregional Forestal: El Profesional o Técnico Forestal acreditado por el Instituto Nacional Forestal (INAFOR), nombrado por los Codirectores o Codirectoras del INAFOR, que representa a la Institución en una Delegación Departamental o Subregional Forestal.
 
 Forestación: Acción de poblar o plantar con especies arbóreas o arbustivas, terrenos que carezcan de ellas.
 
@@ -50,9 +50,9 @@ Manejo Forestal: Conjunto de acciones y procedimientos que tienen por objeto la 
 
 Materias Primas Forestales: Los productos del aprovechamiento del bosque y/o plantación, incluyendo la madera en rollo, la leña, las astillas, resinas, carbón vegetal y otros.
 
-Patio de todo tiempo: Lugar donde se almacena la madera para carga y transporte de la misma, y es accesible en la época de invierno y verano.
+Patio de todo tiempo: Lugar donde se almacena la madera para caiga y transporte de la misma, y es accesible en la época de invierno y verano.
 
-Plan de Manejo Forestal: Documento técnico de planeación y seguimiento, que de acuerdo con la Normativa Técnica de Manejo Forestal, integra los requisitos en materia de inventario, silvicultura, protección, aprovechamiento y transporte de materias primas forestales, en un área determinada.
+Plan de Manejo Forestal: Documento técnico de planeación y seguimiento, que, de acuerdo con la Normativa Técnica de Manejo Forestal, integra los requisitos en materia de inventario, silvicultura, protección, aprovechamiento y transporte de materias primas forestales, en un área determinada.
 
 Plantación Forestal: Bosque provenientes del cultivo de árboles con fines comerciales o de conservación. Está integrado por especies introducidas o especies autóctonas.
 
