@@ -8,4 +8,4 @@ b) Por la renuncia expresa que haga el titular en escrito presentado al Minister
 
 c) Por caducidad declarada.
 
-d) Por cancelación decretada por Ministerio de Energía y Minas.
+d) Por cancelación decretada por el Ministerio de Energía y Minas.

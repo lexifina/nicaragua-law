@@ -14,9 +14,9 @@ Para efecto de la presente Ley y su Reglamento se adoptarán las siguientes defi
 
 6) Investigaciones preliminares: Son los estudios y trabajos geocientíficos preliminares realizados en el suelo y subsuelo que no afectan el medio ambiente y permiten identificar y conocer la existencia de recursos geotérmicos, realizados ya sea por la Empresa Nicaragüense de Electricidad (ENEL) o por personas naturales o jurídicas con la participación de la empresa estatal.
 
-7) Ley: Ley de Exploración y Explotación de Recursos Geotérmicos.
+7) Ley: Ley N°. 443, Ley de Exploración y Explotación de Recursos Geotérmicos.
 
-8) Pozos de gradiente: Pozos de pequeño diámetro y poca profundidad que se perforan para conocer la litología y flujo de calor en el suelo.
+8) Pozos de gradiente; Pozos de pequeño diámetro y poca profundidad que se perforan para conocer la litología y flujo de calor en el suelo.
 
 9) Pozos de reinyección: Pozos profundos perforados en un área de recursos geotérmicos, con el fin de eliminar las aguas de desechos (separadas del vapor a cabeza-pozo) por contener elementos contaminantes para el medio ambiente y preservar la presión en el reservorio al reinyectar las aguas en el mismo sistema geotérmico.
 

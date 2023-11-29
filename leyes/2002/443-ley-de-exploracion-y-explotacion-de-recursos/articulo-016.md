@@ -20,7 +20,7 @@ De no suscribirse el contrato de exploración o de explotación, según sea el c
 
 6. El plan de inversiones y su cronograma;
 
-7. El cronograma de actividades anuales con el flujo grama que se propone realizar durante la vigencia de la concesión para los efectos de poder determinar el potencial del recurso geotérmico del área concesionada;
+7. El cronograma de actividades anuales con el flujograma que se propone realizar durante la vigencia de la concesión para los efectos de poder determinar el potencial del recurso geotérmico del área concesionada;
 
 8. La evaluación técnica, económica y ambiental, y
 

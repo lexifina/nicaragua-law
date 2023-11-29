@@ -1,6 +1,6 @@
 # Artículo 2
 
-Los recursos geotérmicos son patrimonio nacional, de conformidad con la Constitución Política y demás leyes de la República.
+Los recursos geotérmicos son patrimonio nacional, de conformidad con la Constitución Política de la República de Nicaragua y demás leyes de la República.
 
 El Estado promueve, regula y establece las actividades inherentes a la exploración y explotación de los recursos geotérmicos.
 

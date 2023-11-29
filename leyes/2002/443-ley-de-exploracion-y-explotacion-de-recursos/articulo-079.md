@@ -1,3 +1,3 @@
 # Artículo 79
 
-Sin vigencia.
+Sin Vigencia.
