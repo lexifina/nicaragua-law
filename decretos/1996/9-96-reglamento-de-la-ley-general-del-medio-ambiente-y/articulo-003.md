@@ -1,0 +1,3 @@
+# Artículo 3
+
+El Ministerio del Ambiente y de los Recursos Naturales, es la autoridad nacional competente en materia de regulación, normación, monitoreo control de la calidad ambiental; del uso sostenible de los recursos naturales renovables y el manejo ambiental de los no renovables, conforme lo dispuesto en la Ley N°. 217, Ley General del Medio Ambiente y los Recursos Naturales y demás leyes vigentes. El Ministerio del Ambiente y de los Recursos Naturales es además la autoridad competente para sancionar administrativamente por el incumplimiento de las Normas Ambientales. Estas atribuciones las ejercerá en coordinación con otros organismos estatales y las autoridades regionales y municipales pertinentes.

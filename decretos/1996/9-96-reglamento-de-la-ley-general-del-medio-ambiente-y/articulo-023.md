@@ -1,0 +1,5 @@
+# Artículo 23
+
+Sin Vigencia.
+
+DE LOS PERMISOS Y EVALUACIÓN DE IMPACTO AMBIENTAL
