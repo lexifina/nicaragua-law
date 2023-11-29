@@ -1,3 +1,3 @@
 # Artículo 5
 
-Derogado.
+Derogado,

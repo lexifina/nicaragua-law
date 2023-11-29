@@ -12,7 +12,7 @@ Dirigen la administración del Fondo, un Consejo integrado por los titulares de 
 
 2. Un delegado de la Asociación de Municipios de Nicaragua.
 
-3. Ente Regulador de la Energía.
+3. Ente Regulador dé la Energía.
 
 4. Ministerio de Hacienda y Crédito Público, quien preside el Consejo.
 
