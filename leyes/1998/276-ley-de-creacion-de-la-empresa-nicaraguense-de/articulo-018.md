@@ -1,3 +1,3 @@
 # Artículo 18
 
-La presente Ley deroga el Decreto No. 27-95, Creación de la Empresa Nicaragüense de Acueductos y Alcantarillados (ENACAL) , publicado en La Gaceta, Diario Oficial, número 118, del 26 de Junio de 1995 y deja sin efecto cualquier otra disposición que se le oponga.
+La Empresa Nicaragüense de Acueductos y Alcantarillados Sanitarios ENACAL, no estará obligada a rendir fianza alguna para ejercer sus acciones, estando exenta además de la obligación de depositar sumas de dinero como requisito indispensable para apelar.
