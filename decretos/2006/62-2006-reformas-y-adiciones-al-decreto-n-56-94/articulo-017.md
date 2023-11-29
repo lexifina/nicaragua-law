@@ -1,9 +1,11 @@
 # Artículo 17
 
-Derogado.
+Derogado.”
 
-Artículo 2 Las presentes reformas y adiciones son complementarias a las disposiciones legales y reglamentarias
+Artículo 2
 
-vigentes en esta materia, y su aplicación será efectiva a partir de su publicación en La Gaceta, Diario Oficial.
+Las presentes reformas y adiciones son complementarias a las disposiciones legales y reglamentarias vigentes en esta materia, y su aplicación será efectiva a partir de su publicación en La Gaceta, Diario Oficial.
 
-Artículo 3 El presente Decreto entrará en vigencia a partir de su publicación en La Gaceta, Diario Oficial.
+Articulo 3
+
+El presente Decreto entrará en vigencia a partir de su publicación en La Gaceta, Diario Oficial.
