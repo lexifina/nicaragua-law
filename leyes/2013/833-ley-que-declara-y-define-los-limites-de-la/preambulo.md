@@ -1,12 +1,12 @@
-TEXTO CONSOLIDADO, LEY Nº. 883, LEY ORGÁNICA DE LA EMPRESA NICARAGÜENSE DEL PETRÓLEO (PETRONIC)
+TEXTO CONSOLIDADO, LEY N°. 883, LEY ORGÁNICA DE LA EMPRESA NICARAGÜENSE DEL PETRÓLEO (PETRONIC)
 
-Aprobado el 11 de noviembre de 2020
+Aprobado el 24 de octubre de 2023
 
-Publicado en La Gaceta, Diario Oficial N°. 130 del 14 de julio de 2021
+Publicado en La Gaceta, Diario Oficial N°. 217 del 29 de noviembre de 2023
 
 Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero
 
-El presente texto contiene incorporadas todas sus modificaciones consolidadas al 11 de noviembre de 2020, de la Ley Nº. 883, Ley Orgánica de la Empresa Nicaragüense del Petróleo (PETRONIC), aprobada el 14 de junio de 1995 y publicada en La Gaceta, Diario Oficial Nº. 118 del 26 de junio de 1995, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 201 7 y la Ley Nº. 1045, Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero, aprobada el 11 de noviembre de 2020.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 24 de octubre de 2023, de la Ley N°. 883, Ley Orgánica de la Empresa Nicaragüense del Petróleo (PETRONIC), y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense y la Ley N°. 1166, Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero, aprobada el 24 de octubre de 2023.
 
 EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
@@ -34,7 +34,7 @@ HA DICTADO
 
 La siguiente:
 
-LEY Nº. 883
+LEY N°. 883
 
 LEY ORGÁNICA DE LA EMPRESA NICARAGÜENSE DEL PETRÓLEO (PETRONIC)
 

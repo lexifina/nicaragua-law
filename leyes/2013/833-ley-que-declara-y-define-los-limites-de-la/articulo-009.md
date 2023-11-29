@@ -12,13 +12,13 @@ c) Aprobar o ratificar la participación en sociedades, asociaciones, fundacione
 
 d) Aprobar la contratación de empréstitos nacionales e internacionales, la emisión de bonos y otros títulos similares de conformidad a lo establecido en la Constitución Política de la República de Nicaragua y las leyes de la materia;
 
-e) A pro bar los estados financieros internos y auditados anuales de la Empresa;
+e) Aprobar los estados financieros internos y auditados anuales de la Empresa;
 
 f) Ejercer por medio del Presidente de la Junta Directiva, la representación legal de la entidad con las facultades de mandatario generalísimo y otorgar poderes de cualquier clase o naturaleza con las facultades que juzgare necesarias;
 
 g) Aprobar la enajenación, hipoteca o gravamen de los bienes inmuebles de la Empresa;
 
-h) Aprobar la contratación de la firma de Auditoría Externa y recibir los respectivos informes;
+h) Aprobar la contratación de la firma de Auditoria Externa y recibir los respectivos informes;
 
 i) Aprobar la Estructura Organizativa y Funcional y los Reglamentos Internos de la Empresa y sus reformas;
 

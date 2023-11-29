@@ -18,7 +18,7 @@ f) Comercializar petróleo y sus derivados, incluyendo la importación y exporta
 
 g) Almacenar petróleo y sus derivados;
 
-h) Sin vigencia.
+h) Sin Vigencia.
 
 i) Elaborar el plan de expansión de la Empresa para el corto, mediano y largo plazo; y
 
