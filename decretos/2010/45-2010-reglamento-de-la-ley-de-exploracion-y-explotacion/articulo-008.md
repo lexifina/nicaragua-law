@@ -28,4 +28,6 @@ II. PERSONA JURÍDICA:
 
 4. Nombres y generales de ley del Representante Legal domiciliado en el país.
 
-5. Dirección para recibir notificaciones en la ciudad de Managua. En ambos casos se deberá señalar lugar, fecha, objeto, indicación exacta del área y firma de la solicitud.
+5. Dirección para recibir notificaciones en la ciudad de Managua.
+
+En ambos casos se deberá señalar lugar, fecha, objeto, indicación exacta del área y firma de la solicitud.

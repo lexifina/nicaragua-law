@@ -1,6 +1,8 @@
 # Artículo 75
 
-Prorroga del Período de Explotación Para los efectos de la prórroga del período de Explotación, el Concesionario deberá presentar su Solicitud de prórroga al MEM después de cinco años de iniciada la Explotación y por lo menos tres años antes de la fecha de expiración del Contrato.
+Prorroga del Período de Explotación
+
+Para los efectos de la prórroga del período de Explotación, el Concesionario deberá presentar su Solicitud de prórroga al MEM después de cinco años de iniciada la Explotación y por lo menos tres años antes de la fecha de expiración del Contrato.
 
 El MEM deberá resolver sobre la solicitud de prórroga presentada por el Concesionario en un término no mayor de seis meses y notificará su resolución al Concesionario.
 

@@ -12,7 +12,7 @@ Para efectos de la renuncia expresa de la Concesión por el Concesionario, en un
 
 Por Caducidad:
 
-Para efectos de la Caducidad de la Concesión se aplicará el procedimiento establecido en los Artículos 40, 41, 42 y 45 de la Ley.
+Para efectos de la Caducidad de la Concesión se aplicará el procedimiento establecido en los Artículos 40,41, 42 y 45 de la Ley.
 
 Por Cancelación:
 
