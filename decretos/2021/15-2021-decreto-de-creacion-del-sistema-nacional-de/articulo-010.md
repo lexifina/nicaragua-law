@@ -1,27 +1,25 @@
 # Artículo 10
 
-Principios de la Política Nacional de Cambio Climático. Son principios de la Política Nacional de Cambio Climático, los siguientes:
+Principios de la Política Nacional de Cambio Climático
 
-1. Enfocada al desarrollo: La consideración del cambio climático debe influir en las decisiones y en el conjunto de lineamientos y sus acciones que generan crecimiento económico con enfoque de gestión del cambio climático.
+Son principios de la Política Nacional de Cambio Climático, los siguientes:
 
-2. Complementariedad con la gestión del riesgo de desastres y eventos hidrometeorológicos extremos: Considerando que la reducción del riesgo a los eventos actuales es una contribución importante para reducir el riesgo futuro.
+1. Justicia climática con reparación: Lograr un trato justo de todas las personas y países, para evitar discriminaciones que pueden conllevar determinadas decisiones y proyectos relacionados con la acción climática, y reconocer las diversidades territoriales, sociales y culturales, en particular la participación de las mujeres y jóvenes, de los Pueblos Originarios y Afrodescendientes.
 
-3. Innovación y uso eficiente de los recursos: Incorporar el desarrollo tecnológico en procesos productivos, estrategias de negocios del sector privado e inversiones públicas.
+2. Desarrollo humano, Buen Vivir y Bien Común: Promover la ampliación de capacidades y oportunidades de las personas, un modelo de crecimiento económico con bajas emisiones, y la conservación y uso racional y responsable del patrimonio natural de Nicaragua, que reconozca la cosmovisión de los Pueblos Originarios y Afrodescendientes, y promueva la cultura del buen vivir, sustentada sobre la práctica cotidiana del respeto, la armonía y el equilibrio con su entorno y con la Madre Tierra.
 
-4. Enfoque ecosistémico: Las medidas de adaptación ante el cambio climático considerarán el grado de degradación ambiental de los ecosistemas y su contexto evolutivo.
+3. Reparación de pérdidas y daños: Adoptar medidas urgentes para combatir el cambio climático, para su reparación y recuperación de pérdidas y daños, así como la gestión de riesgos en todas las esferas de la economía regional de forma planificada.
 
-5. Equidad de género, juventud y grupos vulnerables: Garantizar la equidad de género y la incorporación de la juventud y de los grupos vulnerables (mujeres, pueblos originarios y afrodescendientes, comunidades rurales) en las acciones, medidas, planes y estrategias del cambio climático a todos los niveles.
+4. Equidad de género: Garantizar la incorporación de mujeres y hombres en la planificación, ejecución y toma de decisiones relacionadas con la acción climática.
 
-6. Participación: Las medidas ante el cambio climático incorporarán la participación de la población en general, bajo el modelo de fé, familia y comunidad.
+5. Enfoque intergeneracional: Reconocer y promover la participación protagónica de la juventud, como impulsora de la acción climática hacia el futuro.
 
-7. Viabilidad de las medidas: Las medidas serán evaluadas para determinar su viabilidad económica, social, ambiental y climática.
+6. Responsabilidad compartida y solidaria: entre los distintos niveles de gobierno, Gobierno Central, Región Autónoma de la Costa Caribe, Régimen Especial de Desarrollo Alto Wangki y Bokay, y los protagonistas de la política que tienen derechos y obligaciones en los asuntos públicos y de desarrollo humano.
 
-8. Finanzas climáticas: Las instituciones de gobierno y sector privado trabajarán de forma conjunta para gestionar recursos financieros que contribuyan a reducir los efectos del cambio climático.
+7. Diálogo de saberes: Articular el conocimiento tradicional de los Pueblos Originarios y Afrodescendientes y los nuevos saberes en la planificación y gestión de la acción climática.
 
-9. Reconocimiento a los pueblos originarios y afrodescendientes y comunidades indígenas: el cambio climático afecta los hábitos, costumbres y tradiciones de los pueblos originarios y afrodescendientes, y comunidades indígenas por ello se hará énfasis en prestarle apoyo para la gestión del cambio climático.
+8. Consentimiento previo, libre e informado: Busca incrementar la participación en procesos y procedimientos que generarán impactos en Pueblos Originarios y Afrodescendientes.
 
-10. Educación y creación de capacidades en cambio climático: El Estado promoverá y facilitará el desarrollo de conocimientos y educación a todos los niveles, sus impactos, y las buenas prácticas que aumenten la resiliencia ante los efectos del cambio climático.
+9. Finanzas climáticas: Reforzar las capacidades nacionales para gestionar recursos financieros globales y regionales que contribuyan a la gestión de la acción climática.
 
-11. Plan Nacional de Lucha Contra la Pobreza para el Desarrollo Humano y los Objetivos de Desarrollo Sostenible: La política, estrategias y acciones climáticas deben de ser coherentes con los esfuerzos para luchar contra la pobreza y acorde con la Agenda 2030 de desarrollo.
-
-12. Gestión del Cambio Climático: La Gestión del Cambio Climático integra los procesos de políticas y acciones que incluyen la Justicia Climática y Reparación, Vulnerabilidad; así como también la práctica ciudadana para enfrentar los impactos haciendo uso eficiente de los pilares del cambio climático, tales como: creación de capacidades, transferencia de tecnologías, financiamiento y medios de implementación, adaptación, mitigación; pérdidas y daños.
+10. Cultura climática: Impulsare! conocimiento, la investigación y la innovación para fortalecer la conciencia sobre los efectos de la variabilidad y el cambio climático, particularmente en niñas, niños y jóvenes.

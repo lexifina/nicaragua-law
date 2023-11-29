@@ -1,6 +1,8 @@
 # Artículo 4
 
-Integración del Sistema Nacional de Gestión del Cambio Climático. El Sistema está integrado por los titulares de las siguientes instituciones:
+Integración del Sistema Nacional de Gestión del Cambio Climático
+
+El Sistema está integrado por los titulares de las siguientes instituciones:
 
 1. Secretaría de Cambio Climático de la Presidencia de la República, quien lo coordinará;
 
@@ -40,6 +42,6 @@ Integración del Sistema Nacional de Gestión del Cambio Climático. El Sistema 
 
 19. Secretaría para el Desarrollo de la Costa Caribe de la Presidencia de la República;
 
-20. Consejo Nicaragüense de Ciencia y Tecnología;
+20. Sin Vigencia.
 
 21. Consejo Nacional de Universidades.

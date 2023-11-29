@@ -1,6 +1,6 @@
 # Artículo 6
 
-Funciones del Coordinador del Sistema Nacional de Gestión del Cambio Climático: Son funciones del Coordinador de El Sistema:
+Funciones del Coordinador del Sistema Nacional de Gestión del Cambio Climático Son funciones del Coordinador de El Sistema:
 
 1. Convocar a los integrantes de El Sistema a las reuniones ordinarias trimestrales y extraordinarias cuando sea necesario. Los miembros de El Sistema podrán solicitar reuniones extraordinarias a través del Coordinador quien las convocará;
 
