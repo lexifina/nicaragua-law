@@ -10,4 +10,4 @@ Las resoluciones se adoptarán por mayoría simple del total de los miembros de 
 
 En los casos de ausencia, inhabilidad o incapacidad del Presidente de la Junta Directiva a una o más sesiones, asumirá dicho cargo el vicepresidente.
 
-El quórum de la Junta Directiva para las sesiones se constituye con la mitad más uno del total de sus miembros.
+El quorum de la Junta Directiva para las sesiones se constituye con la mitad más uno del total de sus miembros.
