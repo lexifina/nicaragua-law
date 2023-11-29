@@ -2,13 +2,13 @@
 
 Glosario
 
-Para los fines y efectos de la presente Ley, sin perjuicio de las definiciones establecidas en la Ley Nº. 272, "Ley de la Industria Eléctrica", cuyo texto consolidado fue publicado en La Gaceta, Diario Oficial Nº. 172 del 10 de septiembre del 2012, se establecen las siguientes definiciones:
+Para los fines y efectos de la presente Ley, sin perjuicio de las definiciones establecidas en la Ley N°. 272, Ley de la Industria Eléctrica, se establecen las siguientes definiciones:
 
 1. Acreedores calificados: Son las instituciones financieras que van a financiar el desarrollo del Proyecto;
 
 2. CEP: Es el Cronograma de Ejecución de Proyecto;
 
-3. Certificación de la operación comercial plena por parte de los acreedores calificados: Es el documento en el que oficialmente se notifica que todas las condiciones de conclusión del Proyecto que figuran en los contratos de financiamiento suscritos entre El Desarrollador y los órganos financiadores, se han cumplido satisfactoriamente o en su caso se han dispensado por los órganos financiadores;
+3. Certificación de la operación comercial plena por parte de los acreedores calificados: Es el documento en el que oficialmente se notifica que todas las condiciones de conclusión del Proyecto que figuran en los contratos de financiamiento suscritos entre El Desarrollador y los óiganos financiadores, se han cumplido satisfactoriamente o en su caso se han dispensado por los óiganos financiadores;
 
 4. CHN: Es El Desarrollador o Empresa Centrales Hidroeléctricas de Nicaragua, Sociedad Anónima;
 
@@ -24,7 +24,7 @@ Para los fines y efectos de la presente Ley, sin perjuicio de las definiciones e
 
 10. CROM: Son los Costos Reconocidos de Operación y Mantenimiento;
 
-11. Desarrollo del Proyecto: Comprende las etapas de estudios de preinversión, factibilidad del Proyecto, obtención de financiamiento, construcción, habilitación de la operación comercial por parte del CNDC, Certificación de la Operación Comercial plena por parte de los acreedores calificados y transferencia del Proyecto al Estado de Nicaragua;
+11. Desarrollo del Proyecto; Comprende las etapas de estudios de preinversión, factibilidad del Proyecto, obtención de financiamiento, construcción, habilitación de la operación comercial por parte del CNDC, Certificación de la Operación Comercial plena por parte de los acreedores calificados y transferencia del Proyecto al Estado de Nicaragua;
 
 12. DIA: Es el Documento de Impacto Ambiental;
 

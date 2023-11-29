@@ -6,7 +6,7 @@ La Comisión Negociadora estará integrada por un miembro permanente de cada una
 
 1. El Ministerio de Energía y Minas, quien la preside, representado por el Ministro o el Viceministro;
 
-2. El Presidente del Consejo de Dirección del Instituto Nicaragüense de Energía (INE), o su representante que deberá de ser uno de los miembros del Consejo Directivo;
+2. El Presidente del Consejo de Dirección del Instituto Nicaragüense de Energía (INE), o su representante que deberá ser uno de los miembros del Consejo Directivo;
 
 3. El Ministro del Ambiente y de los Recursos Naturales o el Viceministro;
 
@@ -20,11 +20,11 @@ También podrán participar en calidad de invitados a la Comisión los represent
 
 1. El Presidente del Consejo Regional Autónomo del Caribe Sur o su delegado, RACCS;
 
-2. El Director de la Empresa Nacional de Transmisión Eléctrica (ENATREL);
+2. El Presidente Ejecutivo de la Empresa Nacional de Transmisión Eléctrica (ENATREL);
 
 3. Un Representante de las Empresas Distribuidoras de Energía Eléctrica;
 
-4. Un Representante del Ministerio de Fomento Industria y Comercio;
+4. Un Representante del Ministerio de Fomento, Industria y Comercio;
 
 5. Un Representante de las diferentes organizaciones de defensa de los consumidores designados entre ellos mismos;
 
@@ -32,7 +32,7 @@ También podrán participar en calidad de invitados a la Comisión los represent
 
 7. La Procuraduría General de la República, representada por el Procurador General o el Procurador en quien él delegue;
 
-8. El Director o el Subdirector General del Instituto Nicaragüense de Estudios Territoriales;
+8. Los Codirectores o Codirectoras del Instituto Nicaragüense de Estudios Territoriales;
 
 9. El Alcalde de la Cruz de Río Grande; y
 

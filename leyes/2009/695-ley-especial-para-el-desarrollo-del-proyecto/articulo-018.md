@@ -16,8 +16,8 @@ La CONEPHIT establecerá las reglas de compensación a El Desarrollador en el ca
 
 Será responsabilidad de El Desarrollador, además de las obras establecidas en el Artículo 4 de la presente Ley, la ejecución de las siguientes infraestructuras:
 
-1) La construcción de las obras del sistema secundario de transmisión, que incluye la longitud total de dos líneas simples de transmisión independientes, en 230 kilovoltios (kV) entre las subestaciones Tumarín y Mulukukú con sus respectivas bahías de conexión con el Sistema Nacional de Transmisión (SNT), conforme diseños aprobados por la Empresa Nacional de Transmisión Eléctrica, (ENATREL);
+1) La construcción de las obras del sistema secundario de transmisión, que incluye la longitud total de dos líneas simples de transmisión independientes, en 230 kilovoltios (kV) entre las subestaciones Tumarín y Mulukukú con sus respectivas bahías de conexión con el Sistema Nacional de Transmisión (SNT), conforme diseños aprobados por la Empresa Nacional de Transmisión Eléctrica (ENATREL);
 
-2) La construcción del tramo de carretera en su longitud total que comunicará el poblado de San Pedro del Norte con el sitio de construcción de la Central Hidroeléctrica Tumarín y de los puentes necesarios en el referido tramo, conforme diseños aprobados por el Ministerio de Transporte e Infraestructura, (MTI).
+2) La construcción del tramo de carretera en su longitud total que comunicará el poblado de San Pedro del Norte con el sitio de construcción de la Central Hidroeléctrica Tumarín y de los puentes necesarios en el referido tramo, conforme diseños aprobados por el Ministerio de Transporte e Infraestructura (MTI).
 
 El punto de entrega de la energía del Proyecto Hidroeléctrico Tumarín será la subestación ubicada en Mulukukú.
