@@ -1,14 +1,14 @@
-TEXTO CONSOLIDADO, LEY Nº. 467, LEY DE PROMOCIÓN AL SUB- SECTOR HIDROELÉCTRICO
+TEXTO CONSOLIDADO, LEY N°. 467, LEY DE PROMOCIÓN AL SUB-SECTOR HIDROELÉCTRICO
 
-Aprobado el 11 de noviembre de 2020
+Aprobado el 24 de octubre de 2023
 
-Publicado en La Gaceta, Diario Oficial N°. 130 del 14 de julio de 2021
+Publicado en La Gaceta, Diario Oficial N°. 217 del 29 de noviembre de 2023
 
 Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero
 
-El presente texto contiene incorporadas todas sus modificaciones consolidadas al 11 de noviembre de 2020, de la Ley Nº. 467, Ley de Promoción al Sub-Sector Hidroeléctrico, aprobada el 09 de julio de 2003 y publicada en La Gaceta, Diario Oficial Nº. 169 del 5 de septiembre de 2003, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1045, Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero, aprobada el 11 de noviembre de 2020.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 24 de octubre de 2023, de la Ley N°. 467, Ley de Promoción al Sub-Sector Hidroeléctrico, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense y la Ley N°. 1166, Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero, aprobada el 24 de octubre de 2023.
 
-LEY Nº. 467
+LEY N°. 467
 
 EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
@@ -20,7 +20,7 @@ CONSIDERANDO
 
 I
 
-Que la Constitución Política de la República de Nicaragua, establece en el artículo 102, que los recursos naturales son patrimonio nacional y que corresponde al Estado la conservación, desarrollo y aprovechamiento racional de los mismos.
+Que la Constitución Política de la República de Nicaragua, establece en el Artículo 102, que los recursos naturales son patrimonio nacional y que corresponde al Estado la conservación, desarrollo y aprovechamiento racional de los mismos.
 
 II
 
@@ -52,7 +52,7 @@ HA DICTADO
 
 La siguiente:
 
-LEY DE PROMOCIÓN AL SUB- SECTOR HIDROELÉCTRICO
+LEY DE PROMOCIÓN AL SUB-SECTOR HIDROELÉCTRICO
 
 CAPÍTULO I
 
