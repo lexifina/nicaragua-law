@@ -1,13 +1,15 @@
 # Artículo 35
 
-CONDICIONES DE FINANCIAMIENTO. Los destinos y condiciones de otorgamiento, operatividad y ejecución en cada una de las modalidades descritas, serán definidos específicamente para cada cuenta y según el caso, en el Manual Operativo Específico para la Administración de la Cuenta, y en los casos aplicables y/o necesarios, en los contratos respectivos o de Administración de Fondos por cuenta de terceros. En todo caso, las condiciones deberán indicar por lo menos:
+Condiciones de Financiamiento
 
-a) Monto del financiamiento.
+Los destinos y condiciones de otorgamiento, operatividad y ejecución en cada una de las modalidades descritas, serán definidos específicamente para cada cuenta y según el caso, en el Manual Operativo Específico para la Administración de la Cuenta, y en los casos aplicables y/o necesarios, en los contratos respectivos o de Administración de Fondos por cuenta de terceros. En todo caso, las condiciones deberán indicar por lo menos:
 
-b) Plazo indicando períodos de gracia y cronograma de ejecución.
+a. Monto del financiamiento.
 
-c) Garantías.
+b. Plazo indicando períodos de gracia y cronograma de ejecución.
 
-d) Forma de pago (sí es aplicable)
+c. Garantías.
 
-f) Proyecciones técnico- financieras.
+d. Forma de pago (sí es aplicable).
+
+e. Proyecciones técnico- financieras.

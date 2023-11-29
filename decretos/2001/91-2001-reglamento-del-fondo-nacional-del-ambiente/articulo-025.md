@@ -1,12 +1,14 @@
 # Artículo 25
 
-FUNCIONES DEL DIRECTOR EJECUTIVO. Son funciones del Director Ejecutivo del FNA las siguientes:
+Funciones del Director Ejecutivo
 
-a) Dirigir al FNA de acuerdo con lo dispuesto por su Junta Directiva y en el marco del presente reglamento.
+Son funciones del Director Ejecutivo del FNA las siguientes:
 
-b) Elaborar Términos de Referencia para las contrataciones permanentes así como para las temporales, y seleccionar y contratar al personal técnico y administrativo del FNA, en estricta sujeción a la planta de personal, al manual de funciones y las escalas de remuneraciones aprobadas por la Junta Directiva
+a) Dirigir al FNA de acuerdo con lo dispuesto por su Junta Directiva y en el marco del presente Reglamento.
 
-c) Ejecutar las resoluciones de la Junta Directiva.
+b) Elaborar Términos de Referencia para las contrataciones permanentes, así como para las temporales, y seleccionar y contratar al personal técnico y administrativo del FNA, en estricta sujeción a la planta de personal, al manual de funciones y las escalas de remuneraciones aprobadas por la Junta Directiva.
+
+c) Ejecutar las resoluciones de la Junta Directiva,
 
 d) Suscribir los contratos y convenios a nombre del FNA que sean necesarios para el cumplimiento de los objetivos institucionales del mismo.
 
@@ -16,7 +18,7 @@ f) Formular el proyecto anual de presupuesto del FNA, elaborar el Programa Opera
 
 g) Representar legalmente al FNA por delegación del Presidente de la Junta Directiva.
 
-h) Administrar los recursos del FNA de acuerdo a los lineamientos que reciba de la Junta Directiva y presentar a ésta informes periódicos sobre su administración.
+h) Administrar los recursos del FNA de acuerdo a los lineamientos que reciba de la Junta Directiva y presentar a esta, informes periódicos sobre su administración.
 
 i) Elaborar los documentos de normativas a ser sometidos a la consideración de la Junta Directiva, para el ordenamiento de todos los aspectos operativos del FNA y para la creación de las cuentas, previo acuerdo con el donante o financiador.
 

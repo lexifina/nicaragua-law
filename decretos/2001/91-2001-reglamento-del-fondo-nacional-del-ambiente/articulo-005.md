@@ -1,6 +1,8 @@
 # Artículo 5
 
-COMPETENCIAS: El Fondo podrá resolver en cuanto a:
+Competencias
+
+El Fondo podrá resolver en cuanto a:
 
 a) Su operatividad y la administración de sus recursos de capital, físicos y humanos.
 

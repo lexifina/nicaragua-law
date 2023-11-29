@@ -1,3 +1,5 @@
 # Artículo 19
 
-RESPONSABILIDAD DE LOS MIEMBROS DE LA JUNTA DIRECTIVA. Los miembros de la Junta Directiva ejercerán sus funciones con absoluta independencia de criterio y bajo su responsabilidad, dentro de lo establecido por la Constitución Política de la República de Nicaragua, las leyes y reglamentos aplicables. Son solidariamente responsables de los daños y perjuicios que causen al Estado, al FNA y a terceros por omisiones y actos ilegales en que incurran en el ejercicio de sus cargos. Quedan exentos de responsabilidad los miembros de la Junta Directiva que hubiesen hecho constar su voto disidente.
+Responsabilidad de los Miembros de la Junta Directiva
+
+Los miembros de la Junta Directiva ejercerán sus funciones con absoluta independencia de criterio y bajo su responsabilidad, dentro de lo establecido por la Constitución Política de la República de Nicaragua, las leyes y reglamentos aplicables. Son solidariamente responsables de los daños y perjuicios que causen al Estado, al FNA y a terceros por omisiones y actos ilegales en que incurran en el ejercicio de sus cargos. Quedan exentos de responsabilidad los miembros de la Junta Directiva que hubiesen hecho constar su voto disidente.

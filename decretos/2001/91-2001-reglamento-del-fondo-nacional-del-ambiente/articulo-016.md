@@ -1,10 +1,12 @@
 # Artículo 16
 
-FUNCIONES Y ATRIBUCIONES DE LA JUNTA DIRECTIVA. Corresponde a La Junta Directiva ejercer la dirección superior del FNA y tendrá las siguientes atribuciones:
+Funciones y Atribuciones de la Junta Directiva
+
+Corresponde a la Junta Directiva ejercer la dirección superior del FNA y tendrá las siguientes atribuciones:
 
 a) Cumplir y hacer cumplir el presente Reglamento.
 
-b) Aprobar el Plan Operativo Anual del Fondo en consulta con la Comisión Nacional del Ambiente, todo de conformidad con lo establecido en el Arto. 48 de la Ley No. 217 Ley General del Medio Ambiente y los Recursos Naturales.
+b) Aprobar el Plan Operativo Anual del Fondo en consulta con la Comisión Nacional del Ambiente, todo de conformidad con lo establecido en el Artículo 51 de la Ley N°. 217, Ley General del Medio Ambiente y los Recursos Naturales.
 
 c) Para la elaboración del Plan Operativo Anual, la Junta Directiva designará equipos de trabajo integrados por técnicos de las instituciones representadas en ella. Estos equipos técnicos de trabajo serán coordinados por el Director Ejecutivo del FNA con el fin de generar las propuestas de planes y programas estratégicos a ejecutar por el Fondo.
 

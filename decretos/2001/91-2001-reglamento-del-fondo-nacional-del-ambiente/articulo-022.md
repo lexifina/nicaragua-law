@@ -1,6 +1,8 @@
 # Artículo 22
 
-DEL SECRETARIO DE LA JUNTA DIRECTIVA. Son funciones del Secretario de Junta Directiva:
+Del Secretario de la Junta Directiva
+
+Son funciones del Secretario de Junta Directiva:
 
 a) Llevar y suscribir conjuntamente con el Presidente de Junta Directiva las actas de sesiones de Junta Directiva.
 

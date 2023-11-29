@@ -1,6 +1,8 @@
 # Artículo 23
 
-DE LOS DIRECTORES. Son funciones de los directores:
+De los Directores
+
+Son funciones de los directores:
 
 a) Participar con voz y voto en las reuniones de Junta Directiva;
 

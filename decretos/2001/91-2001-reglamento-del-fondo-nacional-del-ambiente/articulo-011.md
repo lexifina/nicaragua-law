@@ -1,10 +1,12 @@
 # Artículo 11
 
-FONDOS CONFIADOS EN ADMINISTRACIÓN. El FNA administrará:
+Fondos Confiados en Administración
+
+El FNA administrará:
 
 a) Los fondos que anualmente pudieran ser asignados para su administración dentro del Presupuesto General de la República.
 
-b) Los fondos de donaciones nacionales e internacionales o de cualquier fuente específicamente confiados en administración financiera, a través de cualquier modalidad, provenientes de las cuentas específicas que se operen a través del Fondo.
+b) Los fondos de donaciones nacionales e internacionales o de cualquier fuente específicamente confiados en administración financiera, a través de cualquier modalidad, provenientes de las cuentas específicas que se operen a través del Fondo
 
 c) Fondos provenientes de licencias ambientales, multas y decomisos por infracciones a la Ley.
 

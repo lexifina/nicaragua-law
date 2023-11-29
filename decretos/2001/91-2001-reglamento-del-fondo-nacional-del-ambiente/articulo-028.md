@@ -1,19 +1,21 @@
 # Artículo 28
 
-INTEGRACIÓN DE LOS COMITÉS DE CUENTAS. Los Comités de Cuenta estarán integrados por: los representantes del donante o financiador de los fondos, y cuando éste lo considere necesario, podrá incorporar al Comité representantes de las comunidades beneficiadas, entidades públicas, entes territoriales, sociedad civil, comunidad científica, genero, técnicos tales como:
+Integración de los Comités de Cuentas
 
-a) Un representante del municipio o municipios involucrados.
+Los Comités de Cuenta estarán integrados por: los representantes del donante o financíador de los fondos, y cuando este lo considere necesario, podrá incorporar al Comité representantes de las comunidades beneficiadas, entidades públicas, entes territoriales, sociedad civil, comunidad científica, género, técnicos tales como:
 
-b) Un representante de las organizaciones comunitarias locales (sociedad civil).
+a. Un representante del municipio o municipios involucrados.
 
-c) Un representante de las ONG’s de la localidad, con trabajo en la zona y/o en las áreas temáticas apoyadas con recursos de la sub-cuenta, cuando estas no sean ejecutores de sub proyectos.
+b. Un representante de las organizaciones comunitarias locales (sociedad civil).
 
-d) Un representante de la comunidad científica.
+c. Un representante de los OSFL de la localidad, con trabajo en la zona y/o en las áreas temáticas apoyadas con recursos de la sub-cuenta, cuando estas no sean ejecutores de sub proyectos.
 
-e) Representantes de entidades públicas relacionadas con el origen de los fondos
+d. Un representante de la comunidad científica.
 
-f) Otra persona que sea de interés para los objetivos de la cuenta, como un asesor o técnico especializado.
+e. Representantes de entidades públicas relacionadas con el origen de los fondos.
 
-g) Otro representante que determine la Junta Directiva del FNA, y/o el representante del donante o del financiador, cuando ellos así lo requieran.
+f. Otra persona que sea de interés para los objetivos de la cuenta, como un asesor o técnico especializado.
 
-Siempre que se trate de proyectos en la Costa Atlántica, estará representado en el Comité de Cuenta el Gobierno Regional correspondiente.
+g. Otro representante que determine la Junta Directiva del FNA, y/o el representante del donante o del financíador, cuando ellos así lo requieran.
+
+Siempre que se trate de proyectos en la Costa Caribe, estará representado en el Comité de Cuenta el Gobierno Regional correspondiente.
