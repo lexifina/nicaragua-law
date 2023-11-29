@@ -1,0 +1,3 @@
+# Artículo 13
+
+Créase la Comisión de la Reserva de Biosfera Isla de Ometepe, en adelante la Comisión, la que tiene por objeto fundamental la coordinación de las distintas instancias nacionales con representación en la Reserva, autoridades municipales, comunidades, así como Organismos Sin Fines de Lucro, que deseen contribuir con sus pobladores en la protección y manejo de la Reserva.
