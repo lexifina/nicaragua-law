@@ -1,3 +1,5 @@
 # Artículo 11
 
-Regulación de las industrias u otras actividades económicas, no contempladas en el presente Reglamento. Las industrias u otras actividades económicas, no contempladas en el presente Reglamento, que generen aguas residuales, serán reguladas de acuerdo con el criterio de la Mejor Tecnología Práctica Disponible y de acuerdo con la caracterización del vertido correspondiente. Corresponde a MARENA, establecer los parámetros y sus límites máximos permisibles a ser cumplidos por el regulado. Todo lo no regulado por este Reglamento en lo que corresponda será objeto de otros instrumentos.
+Regulación de las Industrias u otras Actividades Económicas, no Contempladas en el Presente Reglamento
+
+Las industrias u otras actividades económicas, no contempladas en el presente Reglamento, que generen aguas residuales, serán reguladas de acuerdo con el criterio de la Mejor Tecnología Práctica Disponible y de acuerdo con la caracterización del vertido correspondiente. Corresponde a MARENA, establecer los parámetros y sus límites máximos permisibles a ser cumplidos por el regulado. Todo lo no regulado por este Reglamento en lo que corresponda será objeto de otros instrumentos.

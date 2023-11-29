@@ -1,6 +1,8 @@
 # Artículo 28
 
-De Los Vertidos provenientes de los Sistemas de Tratamiento de Laboratorios de Ensayos, de Producción y de Investigación. Los vertidos provenientes de los sistemas de tratamiento de Laboratorios de Ensayos, de Producción y de Investigación que sean descargados a los cuerpos receptores, según la caracterización de sus afluentes, deberán cumplir los rangos y valores máximos permisibles siguientes:
+De los Vertidos Provenientes de los Sistemas de Tratamiento de Laboratorios de Ensayos, de Producción y de Investigación
+
+Los vertidos provenientes de los sistemas de tratamiento de Laboratorios de Ensayos, de Producción y de Investigación que sean descargados a los cuerpos receptores, según la caracterización de sus afluentes, deberán cumplir los rangos y valores máximos permisibles siguientes:
 
 Se excepcionan de estos parámetros los Centros de Producción de Larvas y Maduración, los laboratorios que forman parte de la cadena de Producción de Acuicultura y los laboratorios que realicen dentro de sus procesos únicamente ensayos físicos y no generen aguas residuales.
 

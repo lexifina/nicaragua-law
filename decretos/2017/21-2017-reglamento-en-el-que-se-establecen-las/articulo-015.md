@@ -1,10 +1,12 @@
 # Artículo 15
 
-Prohibición de Verter en las Redes de Alcantarillado Sanitario. Queda prohibido verter directa o indirectamente a las redes de alcantarillado sanitario:
+Prohibición de Verter en las Redes de Alcantarillado Sanitario
 
-1. Desechos sólidos, líquidos o gaseosos que en razón de su naturaleza, propiedades y cantidad, causen o puedan causar por sí solos, o por interacción con otros desechos, peligros, deterioro y colapso en las instalaciones de saneamiento, sin perjuicio que éstos se consideren una lista taxativa:
+Queda prohibido verter directa o indirectamente a las redes de alcantarillado sanitario:
 
-a. Sustancias sólidas o viscosas en cantidades y tamaños tales que, por sí solos o por integración con otros, sean capaces de producir obstrucciones o sedimentos que impidan el correcto funcionamiento de la red de saneamiento dificulten los trabajos de conservación o mantenimiento de las mismas. Los materiales prohibidos incluyen, en relación no exhaustiva: vísceras, tejidos animales, huesos, pelos, pieles, carnaza, plumas, cenizas, escorias, arenas, piedras, cascotes, escombros, yeso, mortero producto de obras de construcción, hormigón, cal gastada, trozos de metal, vidrio, paja, virutas, recortes de césped, retazos de tela, granos de productos básicos, lúpulo, desechos de papel, maderas, plásticos, alquitrán, residuos asfálticos, residuos del procesado de combustibles o aceites lubricantes y en general, sólidos de tamaño superior a 1,5 cm .
+1. Desechos sólidos, líquidos o gaseosos que en razón de su naturaleza, propiedades y cantidad, causen o puedan causar por sí solos, o por interacción con otros desechos, peligros, deterioro y colapso en las instalaciones de saneamiento, sin perjuicio que estos se consideren una lista taxativa:
+
+a. Sustancias sólidas o viscosas en cantidades y tamaños tales que, por sí solos o por integración con otros, sean capaces de producir obstrucciones o sedimentos que impidan el correcto funcionamiento de la red de saneamiento o dificulten los trabajos de conservación o mantenimiento de las mismas. Los materiales prohibidos incluyen, en relación no exhaustiva: vísceras, tejidos animales, huesos, pelos, pieles, carnaza, plumas, cenizas, escorias, arenas, piedras, cascotes, escombros, yeso, mortero producto de obras de construcción, hormigón, cal gastada, trozos de metal, vidrio, paja, virutas, recortes de césped, retazos de tela, granos de productos básicos, lúpulo, desechos de papel, maderas, plásticos, alquitrán, residuos asfálticos, residuos del procesado de combustibles o aceites lubricantes y en general, sólidos de tamaño superior a 1,5 cm.
 
 b. Sólidos procedentes de trituradoras de residuos, tanto domésticos como industriales.
 
@@ -24,21 +26,21 @@ b. Sólidos procedentes de trituradoras de residuos, tanto domésticos como indu
 
 9. Compuestos orgánicos halogenados, excluyendo materiales polímeros inertes y sustancias conexas.
 
-10. Compuestos organofosfóricos y organoestannicos.
+10. Compuestos órganofosfóricos y organoestannicos.
 
 11. Compuestos organosilícicos tóxicos o persistentes y sustancias que puedan originarlos en las aguas, excluidos los biológicamente inofensivos y los que dentro del agua se transforman rápidamente en sustancias inofensivas.
 
-12. Compuestos aromáticos policíclicos (con efectos cancerígenos).
+12. Compuestos aromáticos policiclicos (con efectos cancerígenos).
 
-13. Biocidas, biológicos y químicos y sustancias fitofarmacéuticas. Compuestos procedentes de laboratorios químicos, bien sean identificables, bien sean de nueva síntesis, cuyos efectos sobre el medio ambiente no sean conocidos.
+13. Biocidas, biológicos y químicos y sustancias fitofarmacéuticas. Compuestos procedentes de laboratorios químicos, bien sean identificares, bien sean de nueva síntesis, cuyos efectos sobre el medio ambiente no sean conocidos.
 
 14. Fármacos desechables procedentes de industrias farmacéuticas o centros sanitarios que puedan producir graves alteraciones en las estaciones depuradoras.
 
 15. Aguas residuales de centros sanitarios que no hayan sufrido un pre-tratamiento de microorganismos patógenos.
 
-16. Aguas residuales con un valor de pH inferior a 5,5 o superior a 9,5 que tengan alguna propiedad corrosiva capaz de causar daño a las instalaciones de saneamiento o al personal encargado de la limpieza y conservación.
+16. Aguas residuales con un valor de pH inferior a 5,5 o superior a 9,5 que tengan alguna propiedad corrosiva capaz de causar daño a las instalaciones de saneamiento o al personal encargado de la limpieza y conservación,
 
-17. Cualquier líquido o vapor a temperatura mayor de 50° C.
+17. Cualquier líquido o vapor a temperatura mayor de 50 °C.
 
 18. Aguas de disolución.
 

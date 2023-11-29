@@ -1,16 +1,18 @@
-REGLAMENTO EN EL QUE SE ESTABLECEN LAS DISPOSICIONES PARA EL VERTIDO DE AGUAS RESIDUALES
+TEXTO CONSOLIDADO, DECRETO EJECUTIVO N°. 21-2017, REGLAMENTO EN EL QUE SE ESTABLECEN LAS DISPOSICIONES PARA EL VERTIDO DE AGUAS RESIDUALES
 
-DECRETO EJECUTIVO N°. 21-2017, aprobado el 28 de noviembre de 2017
+DECRETO EJECUTIVO N°. 21-2017, aprobado el 27 de septiembre de 2023
 
-Publicado en La Gaceta, Diario Oficial N°. 229 del 30 de noviembre de 2017
+Publicado en La Gaceta, Diario Oficial N°. 217 del 29 de noviembre de 2023
 
-Gobierno de Reconciliación y Unidad Nacional
+ASAMBLEA NACIONAL
 
-Unida Nicaragua Triunfa
+Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales
 
-El Presidente de la República de Nicaragua
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 27 de septiembre del 2023, del Decreto Ejecutivo N°. 21-2017, Reglamento en el que se Establecen las Disposiciones para el Vertido de Aguas Residuales, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense y la Ley N°. 1163, Ley del Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales, aprobada el 27 de septiembre de 2023.
 
-Comandante Daniel Ortega Saavedra
+DECRETO N°. 21-2017
+
+El Presidente de la República de Nicaragua, Comandante Daniel Ortega Saavedra
 
 CONSIDERANDO
 
@@ -28,7 +30,7 @@ El Estado de Nicaragua asume y hace suyo en la Constitución Política de la Rep
 
 II
 
-Que la Ley No. 217 Ley General del Medio Ambiente y los Recursos Naturales, establece que es responsabilidad del Ministerio del Ambiente y los Recursos Naturales (MARENA) establecer las normas, para la conservación, protección, mejoramiento y restauración del medio ambiente y los recursos naturales, asegurando su uso racional y sostenible.
+Que la Ley N°. 217, Ley General del Medio Ambiente y los Recursos Naturales, establece que es responsabilidad del Ministerio del Ambiente y los Recursos Naturales (MARENA) establecer las normas, para la conservación, protección, mejoramiento y restauración del medio ambiente y los recursos naturales, asegurando su uso racional y sostenible.
 
 III
 
@@ -38,7 +40,7 @@ En uso de las facultades que le confiere la Constitución Política de la Repúb
 
 HA DICTADO
 
-El siguiente;
+El siguiente:
 
 DECRETO
 
@@ -46,4 +48,4 @@ REGLAMENTO EN EL QUE SE ESTABLECEN LAS DISPOSICIONES PARA EL VERTIDO DE AGUAS RE
 
 CAPÍTULO I
 
-Del Objeto, Ámbito y Autoridades de Aplicación.
+DEL OBJETO, ÁMBITO Y AUTORIDADES DE APLICACIÓN
