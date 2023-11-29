@@ -1,20 +1,28 @@
-DE ESTABLECIMIENTO DE LA POLÍTICA NACIONAL DE HUMEDALES
+TEXTO CONSOLIDADO, DECRETO EJECUTIVO N°. 78-2003, DE ESTABLECIMIENTO DE LA POLÍTICA NACIONAL DE HUMEDALES
 
-DECRETO EJECUTIVO N°. 78-2003, aprobado el 10 de noviembre del 2003.
+DECRETO EJECUTIVO N°. 78-2003, aprobado el 27 de septiembre de 2023
 
-Publicado en La Gaceta Diario Oficial N°. 220 del 19 de noviembre del 2003.
+Publicado en La Gaceta, Diario Oficial N°. 217 del 29 de noviembre de 2023
 
-EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA,
+ASAMBLEA NACIONAL
 
-CONSIDERANDO:
+Digesto Jurídico Nicaragüense de fa Materia de Medio Ambiente y Recursos Naturales
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 27 de septiembre del 2023, del Decreto Ejecutivo N°. 78-2003, De Establecimiento de la Política Nacional de Humedales, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense y la Ley N°. 1163, Ley del Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales, aprobada el 27 de septiembre de 2023.
+
+DECRETO N° 78-2003
+
+El Presidente de la República de Nicaragua,
+
+CONSIDERANDO
 
 I
 
-Que el artículo 150, numerales 4 y 13 de la Constitución Política de Nicaragua, establece que es facultad del Poder Ejecutivo, dictar Decretos Ejecutivos en materia administrativa, y determinar la política y el programa económico y social del país.
+Que el Artículo 150, numerales 4 y 13 de la Constitución Política de la República de Nicaragua, establece que es facultad del Poder Ejecutivo, dictar Decretos Ejecutivos en materia administrativa, y determinar la política y el programa económico y social del país.
 
 II
 
-Que Nicaragua firmó la Convención relativa a los Humedales de Importancia Internacional, conocida como Convención RAMSAR, el 18 de Febrero de 1996, la cual fue negociada en el año 1971, en la Ciudad Iraní de Ramsar, habiéndose Nicaragua adherido a dicha Convención, mediante Decreto No. 21-96, publicado en La Gaceta, Diario Oficial No. 206, del 31 de Octubre de 1996; en la cual se estipula que todas las Partes, deben promover las políticas en materia de Humedales de Importancia Internacional.
+Que Nicaragua firmó la Convención relativa a los Humedales de Importancia Internacional, conocida como Convención Ramsar, el 18 de febrero de 1996, la cual fue negociada en el afro 1971, en la Ciudad Iraní de Ramsar, habiéndose Nicaragua adherido a dicha Convención, mediante Decreto N°. 21-96, publicado en La Gaceta, Diario Oficial N°, 206, del 31 de octubre de 1996; en la cual se estipula que todas las Partes, deben promover las políticas en materia de Humedales de Importancia Internacional.
 
 III
 
@@ -22,15 +30,15 @@ Que la Región Centroamericana promulgó su política Regional de Humedales, la 
 
 IV
 
-Que los artículos 8 inciso d) y 11 del Convenio de Diversidad Biológica estipula que, los Estados partes deben promover la protección de ecosistemas y hábitat naturales; así como, adoptar medidas económicas y socialmente idóneas que actúen como incentivos para la conservación y utilización sostenible.
+Que los Artículos 8 inciso d) y 11 del Convenio de Diversidad Biológica estipula que, los Estados partes deben promover la protección de ecosistemas y hábitat naturales; así como, adoptar medidas económicas y socialmente idóneas que actúen como incentivos para la conservación y utilización sostenible.
 
 V
 
-Que los artículos 10, 11 y 15 del Convenio para la Conservación de la Biodiversidad y protección de áreas silvestres prioritarias en América Central establece que, los Estados partes deben, tomar todas las medidas posibles para asegurar la conservación de los ecosistemas, y su uso sostenible, el desarrollo de sus componentes dentro de su jurisdicción nacional, debiendo cooperar en la medida de sus posibilidades en las acciones fronterizas regionales, así como, tomar las acciones pertinentes para incorporar a las respectivas políticas y planes de desarrollo, los lineamientos, el valor socioeconómico de la conservación de los recursos biológicos, integrar la conservación y el uso sostenible de los recursos biológicos en las políticas y programas relevantes de otros sectores.
+Que los Artículos 10, 11 y 15 del Convenio para la Conservación de la Biodiversidad y protección de áreas silvestres prioritarias en América Central establece que, los Estados partes deben, tomar todas las medidas posibles para asegurar la conservación de los ecosistemas, y su uso sostenible, el desarrollo de sus componentes dentro de su jurisdicción nacional, debiendo cooperar en la medida de sus posibilidades en las acciones fronterizas regionales, así como, tomar las acciones pertinentes para incorporar a las respectivas políticas y planes de desarrollo, los lineamientos, el valor socioeconómico de la conservación de los recursos biológicos, integrar la conservación y el uso sostenible de los recursos biológicos en las políticas y programas relevantes de otros sectores.
 
 VI
 
-Que el artículo 28 de la Ley No. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, establece que corresponde al Ministerio del Ambiente y de los Recursos Naturales, formular, proponer y dirigir las políticas nacionales del ambiente y en coordinación con los Ministerios sectoriales respectivos, el uso sostenible de los recursos naturales.
+Que el Artículo 28 de la Ley N°. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, establece que corresponde al Ministerio del Ambiente y de los Recursos Naturales, formular, proponer y dirigir las políticas nacionales del ambiente y en coordinación con los Ministerios sectoriales respectivos, el uso sostenible de los recursos naturales.
 
 VII
 
@@ -44,16 +52,16 @@ IX
 
 Que para conservar y utilizar sosteniblemente los Humedales y los Bienes y Servicios que generan, es necesario establecer lineamientos de Política que permitan orientar las acciones del sector público y privado.
 
-En uso de las facultades que le confiere la Constitución Política,
+En uso de las facultades que le confiere la Constitución Política de la República de Nicaragua,
 
-HA DICTADO:
+HA DICTADO
 
 El Siguiente:
 
-DECRETO:
+DECRETO
 
 DE ESTABLECIMIENTO DE LA POLÍTICA NACIONAL DE HUMEDALES
 
 CAPÍTULO I
 
-Disposiciones Generales
+DISPOSICIONES GENERALES

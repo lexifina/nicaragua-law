@@ -1,6 +1,8 @@
 # Artículo 8
 
-Lineamientos socio–culturales. Son lineamientos Socio-Culturales de la Política los siguientes:
+Lineamientos socio-culturales
+
+Son lineamientos Socio-Culturales de la Política los siguientes:
 
 1. Facilitar la participación ciudadana, comunitaria, experimentada, especializada y organizada para la asesoría, consulta y conformación de instancias de fortalecimiento institucional que permitan una gestión sostenible (desarrollo, protección, manejo y preservación) de los humedales, incluyendo la aplicación de la Convención Ramsar.
 

@@ -1,6 +1,8 @@
 # Artículo 6
 
-Objetivos específicos de la política. Son objetivos específicos de la Política, los siguientes:
+Objetivos específicos de la política
+
+Son objetivos específicos de la Política, los siguientes:
 
 1. Promover la conservación y el uso sostenible de los humedales con enfoque por ecosistemas, considerando al humedal como ecosistema frágil, promoviendo la protección de sus funciones ecológicas, su diversidad genética y asegurando la no alteración o deterioro de su integridad.
 
@@ -10,4 +12,4 @@ Objetivos específicos de la política. Son objetivos específicos de la Políti
 
 4. Alcanzar un mayor conocimiento de los ecosistemas de humedales, fomentando la investigación y promoviendo la capacitación y concienciación ciudadana.
 
-Lineamientos de la Política
+LINEAMIENTOS DE LA POLÍTICA
