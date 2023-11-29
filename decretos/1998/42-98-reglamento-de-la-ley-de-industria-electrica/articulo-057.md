@@ -9,3 +9,5 @@ El Consejo de Operación, estará integrado por representantes de las empresas q
 3) Un representante de las Empresas de Distribución y su suplente.
 
 4) Un representante de los Grandes Consumidores y su suplente.
+
+5) Un representante de las empresas de Importación y/o Exportación y su suplente.

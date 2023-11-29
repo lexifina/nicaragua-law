@@ -2,7 +2,7 @@
 
 El formato de Anexo Manejo de Aguas para una licencia de generación hidroeléctrica a elaborar por el MEM incluirá como mínimo:
 
-1) La descripción de las normas para usos particulares del agua según corresponda, tales como control de crecidas, riego, consumo de agua potable y otra información pertinente
+1) La descripción de ¡as normas para usos particulares del agua según corresponda, tales como control de crecidas, riego, consumo de agua potable y otra información pertinente
 
 2) Descripción de las normas sobre seguridad de presas, red de alerta de crecidas, plan de acción durante emergencias y sobre la operación segura.
 

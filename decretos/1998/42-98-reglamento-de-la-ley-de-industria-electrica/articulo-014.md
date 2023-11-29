@@ -6,4 +6,4 @@ Un Agente Económico, filiales o accionistas dedicados a la actividad de generac
 
 2) De estar su generación en un sistema aislado, podrán constituir una empresa integrada que participe en las actividades de transmisión y/o de distribución, de acuerdo a lo establecido en el Artículo 31 de la Ley.
 
-3) De estar la generación conectada al SIN, podrá ser propietario o accionista de un sistema de distribución si la capacidad de generación propia combinada es menor o igual que 10,000 kilowatts (K w), de acuerdo a lo establecido en el Artículo 34 de la Ley.
+3) De estar la generación conectada al SIN, podrá ser propietario o accionista de un sistema de distribución si la capacidad de generación propia combinada es menor o igual que 10,000 kilowatts (Kw), de acuerdo a lo establecido en el Artículo 34 de la Ley.

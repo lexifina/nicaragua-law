@@ -8,12 +8,12 @@ Las sanciones a que se refiere el Capítulo XVI de la Ley, se aplicarán a los c
 
 3) Operar en actividades de la industria eléctrica sin la respectiva concesión o licencia.
 
-4) Negar o dificultar la prestación del servicio en casos justificados de necesidad pública, aunque no sea su zona de concesión, si se comprueba que se halla en condiciones de prestar dicho servicio.
+4) Negar o dificultar la prestación del servicio en casos justificados de necesidad pública, aunque no sea su zona de concesión, sí se comprueba que se halla en condiciones de prestar dicho servicio.
 
 5) Prestar servicio de cualquier índole fuera del perímetro de la zona de concesión.
 
 6) Infringir las disposiciones del Capítulo XI de la Ley y cualquier otra obligación que dicha Ley y el presente Reglamento les señale, en una forma que no revista la suficiente gravedad como para que se declare la caducidad de la respectiva concesión o licencia.
 
-7) Negar las facilidades necesarias para la realización de la inspección y control a que se refiere el Artículo 85 de la ley.
+7) Negar las facilidades necesarias para la realización de la inspección y control a que se refiere el Artículo 85 de la Ley.
 
 8) Cualquier otro caso previsto en la Leyes, Reglamentos y Normas específicas de la materia.

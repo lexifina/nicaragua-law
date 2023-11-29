@@ -4,6 +4,6 @@ El formato de Anexo Tarifario para una concesión o licencia de transmisión a e
 
 1) Descripción del cuadro tarifario, incluyendo peajes por el uso de la red por terceros.
 
-2) Descripción del procedimiento para el recálculo del cuadro tarifario.
+2) Descripción del procedimiento para el recalculo del cuadro tarifario.
 
 3) Identificación de las normas tarifarias vigentes en el MEM.

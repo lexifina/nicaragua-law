@@ -1,3 +1,3 @@
 # Artículo 107
 
-Recibida la solicitud de concesión, se asentará una nota marginal con constancia de la hora, día, mes y año de su presentación y se registrará en el "Libro de Registro de Solicitudes de Concesiones", que al efecto llevará la Dirección General de Electricidad del Ministerio de Energía y Minas, debiendo entregarse al interesado el comprobante correspondiente.
+Recibida la solicitud de concesión, se dejará constancia de la hora, día, mes y año de su presentación, debiendo entregarse al interesado el comprobante correspondiente.

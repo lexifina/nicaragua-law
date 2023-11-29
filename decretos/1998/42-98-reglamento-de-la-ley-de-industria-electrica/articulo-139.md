@@ -1,3 +1,5 @@
 # Artículo 139
 
-El interesado deberá presentar solicitud de traspaso de una concesión o licencia la cual deberá ir acompañada de los documentos e información señalada en el correspondiente formato de licencia o concesión. El procedimiento para dar trámite a la cesión será el mismo que el establecido para el otorgamiento inicial de la licencia o concesión, en lo que le fuere aplicable. El Cedente deberá mandar a publicar un aviso en los diarios de circulación nacional por dos veces consecutivas con intervalos de tres días, dando a conocer al público su intención de ceder su concesión o licencia.
+El interesado deberá presentar solicitud de traspaso de una concesión o licencia la cual deberá ir acompañada de los documentos e información señalada en el correspondiente formato de licencia o concesión.
+
+El procedimiento para dar trámite a la cesión será el mismo que el establecido para el otorgamiento inicial de la licencia o concesión, en lo que le fuere aplicable. El Cedente deberá mandar a publicar un aviso en La Gaceta, Diario Oficial por dos veces consecutivas con intervalos de tres días, dando a conocer al público su intención de ceder su concesión o licencia.

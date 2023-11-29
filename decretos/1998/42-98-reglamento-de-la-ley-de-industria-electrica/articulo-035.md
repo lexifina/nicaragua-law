@@ -8,7 +8,7 @@ De conformidad a lo establecido en el Artículo 39 de la Ley, toda persona que p
 
 3) Ubicación y Plano del terreno que se va a urbanizar.
 
-4) Memoria descriptiva y de cálculo
+4) Memoria descriptiva y de cálculo.
 
 5) Planos de la distribución eléctrica y alumbrado público proyectados.
 
