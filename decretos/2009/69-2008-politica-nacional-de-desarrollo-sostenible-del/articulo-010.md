@@ -1,10 +1,12 @@
 # Artículo 10
 
-Ordenamiento Territorial del Recurso Forestal. Con el objetivo de involucrar, coordinar y consensuar con los actores locales como alcaldías municipales, gobiernos regionales, consejos regionales, actores de desarrollo como ONGs, organizaciones sociales, sociedad civil e instituciones gubernamentales en la elaboración y aplicación de Planes de Ordenamiento Territorial para los ecosistemas forestales como instrumentos de planificación, que establecen normas particulares y zonificaciones territoriales que indican el uso y ocupación de las tierras destinadas a la producción forestal. En este caso se impulsarán las siguientes directrices:
+Ordenamiento Territorial del Recurso Forestal
+
+Con el objetivo de involucrar, coordinar y consensuar con los actores locales como alcaldías municipales, gobiernos regionales, consejos regionales, actores de desarrollo como OSFL, organizaciones sociales, sociedad civil e instituciones gubernamentales en la elaboración y aplicación de Planes de Ordenamiento Territorial páralos ecosistemas forestales como instrumentos de planificación, que establecen normas particulares y zonificaciones territoriales que indican el uso y ocupación de las tierras destinadas a la producción forestal. En este caso se impulsarán las siguientes directrices:
 
 1. Se promoverá el Ordenamiento Territorial como un instrumento de planificación, que permita orientar en el espacio y el tiempo las intervenciones (políticas de desarrollo económico, social y ambiental), de acuerdo a los objetivos nacionales de desarrollo y a las características y potencialidades del territorio y sus actores locales.
 
-2. Se propiciará una coherencia jurídica con la Ley de municipios; sus reglamentos y cualquier otro cuerpo jurídico afín a la materia, que haga viable la ejecución de los diferentes planes, programas y proyectos dirigidos al manejo y aprovechamiento de los ecosistemas forestales.
+2. Se propiciará una coherencia jurídica con la Ley N°. 40, Ley de Municipios; sus reglamentos y cualquier otro cuerpo jurídico afín a la materia, que haga viable la ejecución de los diferentes planes, programas y proyectos dirigidos al manejo y aprovechamiento de los ecosistemas forestales.
 
 3. Se armonizará la política forestal con las diferentes propuestas de ordenamiento y desarrollo territorial sectoriales e intersectoriales.
 

@@ -1,6 +1,8 @@
 # Artículo 24
 
-Instrumentos Económicos. En este caso se impulsarán las siguientes directrices:
+Instrumentos Económicos
+
+En este caso se impulsarán las siguientes directrices:
 
 1. Se fomentará el mercado de Pagos por Servicios Ambientales (PSA), para las diferentes modalidades de reposición forestal sustentadas en el manejo de los ecosistemas forestales, establecimiento de plantaciones forestales puras o mixtas, manejo de regeneración natural y los sistemas agroforestales.
 

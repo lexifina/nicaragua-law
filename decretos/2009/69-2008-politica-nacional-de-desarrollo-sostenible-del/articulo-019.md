@@ -1,6 +1,8 @@
 # Artículo 19
 
-Desarrollo de la cultura, educación, innovación e investigación para el uso y manejo sostenible de los ecosistemas forestales. En este caso se impulsarán las siguientes directrices:
+Desarrollo de la cultura, educación, innovación e investigación para el uso y manejo sostenible de los ecosistemas forestales
+
+En este caso se impulsarán las siguientes directrices:
 
 1. Se promoverá la cultura y educación para el uso y manejo sostenible de los árboles, bosques y ecosistemas forestales.
 
