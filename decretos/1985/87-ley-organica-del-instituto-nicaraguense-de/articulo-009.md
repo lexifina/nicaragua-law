@@ -4,11 +4,11 @@ El Consejo de Dirección estará integrado por un número de tres miembros de re
 
 Los miembros del Consejo Directivo podrán ser destituidos por las siguientes causales:
 
-a) Negligencia comprobada en el cargo.
+a) Negligencia comprobada en el cargo,
 
 b) Ausencia injustificada en su cargo.
 
-c) Contravención a lo dispuesto en el Artículo 130 de la Constitución Política.
+c) Contravención a lo dispuesto en el Artículo 130 de la Constitución Política de la República de Nicaragua.
 
 d) Por estar coludido con las empresas a quienes están encargados de fiscalizar.
 
@@ -18,11 +18,9 @@ La solicitud de destitución se hará mediante informe con la firma de treinta d
 
 Posterior a su comparecencia a Plenario, se someterá a votación la destitución del o los directivos del INE, la aprobación de la destitución deberá contar con el 60% de los votos del total de los diputados.
 
-El Consejo de Dirección deberá reunirse en Sesión Ordinaria por lo menos una vez al mes, pudiendo celebrar sesiones extraordinarias cuando las necesidades lo requieran o lo solicite cualquiera de sus miembros.
+El Consejo de Dirección deberá reunirse en Sesión Ordinaria por lo menos una vez al mes, pudiendo celebrar sesiones extraordinarias cuando las necesidades lo requieran o lo solicite cualquiera de sus miembros. La convocatoria se hará por escrito con siete días de anticipación. Habrá quórum con la asistencia de dos miembros. Las resoluciones se tomarán por mayoría de votos, pudiendo ejercer el Presidente el doble voto en caso de empate.
 
-La convocatoria se hará por escrito con siete días de anticipación. Habrá quórum con la asistencia de dos miembros. Las resoluciones se tomarán por mayoría de votos, pudiendo ejercer el Presidente el doble voto en caso de empate.
-
-El Consejo de Dirección tendrá las siguientes facultades:
+El Consejo de Dirección tendrá las siguientes facultades;
 
 a) Aprobar el Plan General de Trabajo y el Presupuesto Anual de Ingresos y Egresos del Instituto.
 
@@ -44,7 +42,7 @@ i) Ejecutar los actos y celebrar los contratos que expresa o tácitamente estén
 
 j) Resolver en apelación las controversias entre los agentes económicos.
 
-k) Velar para que se cumplan las funciones del Instituto, según su Ley Orgánica y otras leyes del sector energía.
+k) Velar para que se cumplan las funciones del Instituto, según la presente Ley y otras leyes del sector energía.
 
 l) Decidir sobre toda otra cuestión de su competencia según las disposiciones legales vigentes.
 

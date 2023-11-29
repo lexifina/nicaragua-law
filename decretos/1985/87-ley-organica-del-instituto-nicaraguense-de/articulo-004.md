@@ -20,7 +20,7 @@ h) Aprobar, publicar y controlar las tarifas de peaje por el uso de las redes de
 
 i) Aplicar las sanciones en los casos previstos por las leyes, normas, reglamentos, contratos de concesiones y licencias y demás disposiciones.
 
-j) Resolver las controversias entre los agentes económicos que participan en el sector energía según lo establecido en la Ley de la Industria Eléctrica.
+j) Resolver las controversias entre los agentes económicos que participan en el sector energía según lo establecido en la Ley N°. 272, Ley de la Industria Eléctrica.
 
 k) Derogado.
 
@@ -30,15 +30,15 @@ m) Designar interventores en su caso.
 
 n) Derogado.
 
-ñ) Inspeccionar las obras e instalaciones de los titulares de licencias y concesiones para la generación, transmisión y distribución de energía eléctrica;
+ñ) Inspeccionar las obras e instalaciones de los titulares de licencias y concesiones para la generación, transmisión y distribución de energía eléctrica.
 
-o) Inspeccionar y controlar los instrumentos de medición instalados por el concesionario y titulares de licencias para el registro de la producción y entrega de la energía eléctrica;
+o) Inspeccionar y controlar los instrumentos de medición instalados por el concesionario y titulares de licencias para el registro de la producción y entrega de la energía eléctrica.
 
-p) Prevenir y adoptar medidas necesarias para impedir prácticas restrictivas de la competencia en el suministro o prestación de los productos y servicios regulados en el subsector eléctrico;
+p) Prevenir y adoptar medidas necesarias para impedir prácticas restrictivas de la competencia en el suministro o prestación de los productos y servicios regulados en el subsector eléctrico.
 
-q) Fiscalizar el cumplimiento de las regulaciones de protección al medio ambiente por parte de los titulares de licencias y concesiones;
+q) Fiscalizar el cumplimiento de las regulaciones de protección al medio ambiente por parte de los titulares de licencias y concesiones.
 
-r) Establecer y mantener el sistema de información de las variables más importantes del sector;
+r) Establecer y mantener el sistema de información de las variables más importantes del sector.
 
 s) Derogado.
 
