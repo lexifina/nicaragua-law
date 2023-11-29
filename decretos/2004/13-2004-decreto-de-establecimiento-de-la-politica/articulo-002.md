@@ -4,9 +4,9 @@ Principios de la Política
 
 El sector energía es un componente clave en las estrategias de desarrollo sostenible del país. Los principios generales de la política energética nacional están basados en las leyes y demás normativas del sector existentes en el país, así:
 
-1. Corresponde al Ministerio de Energía y Minas la conducción de esta política sectorial.
+1. Corresponde al Ministerio de Energía y Minas la conducción de esta política sectorial,
 
-2. La política energética nacional debe estar acorde con la Constitución Política, los Convenios Internacionales, Leyes de la República y las políticas económicas, sociales y ambientales del Estado.
+2. La política energética nacional debe estar acorde con la Constitución Política de la República de Nicaragua, los Convenios Internacionales, Leyes de la República y las políticas económicas, sociales y ambientales del Estado.
 
 3. Garantizar la participación del Estado, cuando sea necesario, en el abastecimiento energético del país, en el caso de ausencia o desinterés del sector privado.
 

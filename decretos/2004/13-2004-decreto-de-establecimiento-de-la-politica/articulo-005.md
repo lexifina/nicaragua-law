@@ -4,7 +4,7 @@
 
 La Política Energética Nacional debe ejecutarse de acuerdo a las leyes y procedimientos administrativos existentes, en las siguientes áreas:
 
-l. Marco Legal Regulatorio:
+I. Marco Legal Regulatorio:
 
 1. Proceder a fortalecer el papel del Estado en la regulación y control de los sectores involucrados a través del INE.
 
@@ -14,7 +14,7 @@ l. Marco Legal Regulatorio:
 
 4. Desarrollar una política de precios y subsidios para el sector energético, que tomando en cuenta los recursos y políticas financieras del país, sirva de guía para el establecimiento de las estructuras en los pliegos tarifarios.
 
-5. Promover el fortalecimiento y adecuación del marco legal regula torio e institucional del sector para asegurar su coordinación con estas políticas energéticas.
+5. Promover el fortalecimiento y adecuación del marco legal regulatorio e institucional del sector para asegurar su coordinación con estas políticas energéticas.
 
 6. Apoyar el cumplimiento de las medidas y leyes existentes que mitiguen los impactos ambientales en el desarrollo de todas las fuentes energéticas.
 
@@ -86,19 +86,19 @@ V. De la Electrificación Rural:
 
 6. Otorgar los subsidios directos y transparentes a la inversión en proyectos de electrificación rural, de acuerdo con los procesos administrativos y legales, que se calculen necesarios para hacer posible el acceso del servicio de electricidad de la población rural.
 
-7. Promover el uso de fuentes renovables de energía para la electrificación rural, como parte de las soluciones "fuera de red".
+7. Promover el uso de fuentes renovables de energía para la electrificación rural, como parte de las soluciones “fuera de red”
 
-8. Promover que los proyectos de electrificación rural "fuera de red" sean financieramente estables a través del apoyo que pueda brindárseles en sus costos de inversión con los subsidios que se calculen necesarios para producir tarifas viables a los consumidores del área.
+8. Promover que los proyectos de electrificación rural “fuera de red” sean financieramente estables a través del apoyo que pueda brindárseles en sus costos de inversión con los subsidios que se calculen necesarios para producir tarifas viables a los consumidores del área.
 
 9. Promover en los esquemas de desarrollo de electrificación rural la formación de empresas que permitan la participación sostenida de la iniciativa privada en su operación mantenimiento y expansión.
 
 10. Promover y buscar la participación de la cooperación internacional para el desarrollo en la electrificación rural a través del FODIEN y en la financiación de estudios de factibilidad de proyectos de electrificación rural.
 
-11. Facilitar que los proyectos de electrificación rural operen bajo regímenes de propiedad (cooperativas, comunales, organizaciones no gubernamentales, empresas privadas, etc.) de manera sostenible.
+11. Facilitar que los proyectos de electrificación rural operen bajo regímenes de propiedad (cooperativas, comunales, Organismos sin Fines de Lucro (OSFL), empresas privadas, etc.) de manera sostenible.
 
 12. Promover la incorporación de normativas en el sector eléctrico para las condiciones particulares del sector de electrificación rural y en los sistemas fuera de red.
 
-13. Impulsar la participación de los usuarios potenciales en la activación de los mecanismos contemplados en la Ley de la Industria Eléctrica y su normativa para que las concesionarias del Sistema Interconectado Nacional, procedan a conectarlos según lo establecido en la Ley y los planes de expansión requeridos.
+13. Impulsar la participación de los usuarios potenciales en la activación de los mecanismos contemplados en la Ley N°. 272, Ley de la Industria Eléctrica y su normativa para que las concesionarias del Sistema Interconectado Nacional, procedan a conectarlos según lo establecido en la Ley y los planes de expansión requeridos.
 
 14. Ampliar la cobertura rural a través de equipos fotovoltaicos u otras alternativas con energías renovables, cuando se juzgue que el acceso por los medios convencionales no ocurrirá en el mediano plazo.
 
@@ -124,4 +124,4 @@ VI. De los Hidrocarburos:
 
 10. Promover a través de las instituciones correspondientes la integración regional en el campo de los hidrocarburos.
 
-VII. Derogado.
+VII Derogado.

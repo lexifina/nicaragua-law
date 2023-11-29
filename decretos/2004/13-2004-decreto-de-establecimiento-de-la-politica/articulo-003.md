@@ -4,7 +4,7 @@ Objetivos específicos
 
 La Política Energética Nacional tiene como objetivos específicos los siguientes:
 
-1. Coordinarse con el Plan Nacional de Desarrollo.
+1. Coordinarse con el Plan Nacional de Lucha Contra la Pobreza y Para el Desarrollo Humano.
 
 2. Contribuir a la remoción de obstáculos tanto legales como institucionales que limitan el desarrollo a corto y mediano plazo del sector energía.
 

@@ -1,14 +1,14 @@
-TEXTO CONSOLIDADO, DECRETO EJECUTIVO Nº. 13-2004, DECRETO DE ESTABLECIMIENTO DE LA POLÍTICA ENERGÉTICA NACIONAL
+TEXTO CONSOLIDADO, DECRETO EJECUTIVO N°. 13-2004, DECRETO DE ESTABLECIMIENTO DE LA POLÍTICA ENERGÉTICA NACIONAL
 
-DECRETO EJECUTIVO Nº. 13-2004, aprobado el 11 de noviembre de 2020
+DECRETO EJECUTIVO N°. 13-2004, aprobado el 24 de octubre de 2023
 
-Publicado en La Gaceta, Diario Oficial N°. 130 del 14 de julio de 2021
+Publicado en La Gaceta, Diario Oficial N°. 217 del 29 de noviembre de 2023
 
 Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero
 
-El presente texto contiene incorporadas todas sus modificaciones consolidadas al 11 de noviembre de 2020, del Decreto Ejecutivo Nº. 13-2004, Decreto de Establecimiento de la Política Energética Nacional, aprobado el 02 de marzo de 2004 y publicado en La Gaceta, Diario Oficial Nº. 45 del 4 de marzo de 2004, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1045, Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero, aprobada el 11 de noviembre de 2020.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 24 de octubre de 2023, del Decreto Ejecutivo N°. 13-2004, Decreto de Establecimiento de la Política Energética Nacional, y sé ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense y la Ley N°. 1166, Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero, aprobada el 24 de octubre de 2023.
 
-DECRETO Nº. 13-2004
+DECRETO N°. 13-2004
 
 El Presidente de la República de Nicaragua,
 
@@ -16,7 +16,7 @@ CONSIDERANDO
 
 I
 
-Que el Ministerio de Energía y Minas creado por la Ley Nº. 612, Ley de Reforma y Adición a la Ley Nº. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicado en La Gaceta, Diario Oficial, Nº. 20 del 29 de enero de 2007, es el órgano interinstitucional a cargo de elaborar las políticas del sector energía, incluyendo la política energética nacional, que tiene un rol de gran importancia dentro del desarrollo del país, por ser la energía un elemento determinante y pilar imprescindible para la realización de las actividades económicas productivas y sociales de la nación. La Política Energética Nacional es una política sectorial de largo plazo, que aunque sujeta a revisiones periódicas debe ser de vigencia nacional.
+Que el Ministerio de Energía y Minas creado por la Ley N°. 612, Ley de Reforma y Adición a la Ley N°. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicado en La Gaceta, Diario Oficial, N°. 20 del 29 de enero de 2007, es el órgano interinstitucional a cargo de elaborar las políticas del sector energía, incluyendo la política energética nacional, que tiene un rol de gran importancia dentro del desarrollo del país, por ser la energía un elemento determinante y pilar imprescindible para la realización de las actividades económicas productivas y sociales de la nación. La Política Energética Nacional es una política sectorial de largo plazo, que aunque sujeta a revisiones periódicas debe ser de vigencia nacional.
 
 II
 
@@ -24,7 +24,7 @@ Que el establecimiento de una política energética nacional, es el paso inicial
 
 III
 
-Que la formulación de una política energética nacional requiere de la participación de los actores, protagonistas y destinatarios de ella, y que la CNE presentó esta propuesta de política energética a los sectores involucrados de la sociedad, así como la aprobación por parte de los miembros de la CNE por medio del acta de la sesión ordinaria Nº. 07-03.
+Que la formulación de una política energética nacional requiere de la participación de los actores, protagonistas y destinatarios de ella, y que la CNE presentó esta propuesta de política energética a los sectores involucrados de la sociedad, así como la aprobación por parte de los miembros de la CNE por medio del acta de la sesión ordinaria N°. 07-03.
 
 IV
 
@@ -48,6 +48,6 @@ HA DICTADO
 
 El siguiente:
 
-DECRETO
+Decreto
 
-DE ESTABLECIMIENTO DE LA POLITICA ENERGÉTICA NACIONAL
+De Establecimiento de la Política Energética Nacional
