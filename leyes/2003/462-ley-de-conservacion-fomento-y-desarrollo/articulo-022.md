@@ -1,0 +1,3 @@
+# Artículo 22
+
+El INAFOR con la participación de representantes de las autoridades municipales y gobiernos regionales, en su caso, aprobará o denegará, previa audiencia pública, los planes de manejo forestales en un plazo no mayor de 30 días hábiles. La audiencia pública será convocada por el INAFOR y en ella podrán participar los técnicos forestales de las alcaldías municipales y gobiernos regionales autónomos que correspondan. La audiencia pública tomará como referencia obligatoria la norma técnica aprobada según el tipo de bosque o el área bajo manejo. Vencido este plazo el Plan de Manejo se dará por aprobado y el solicitante podrá ejecutarlo. En este caso el INAFOR procederá a registrar y emitir el permiso correspondiente de forma inmediata.
