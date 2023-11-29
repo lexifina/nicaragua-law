@@ -1,10 +1,16 @@
-LEY N°. 738, LEY QUE DECLARA Y DEFINE EL SISTEMA DE LOS CAYOS PERLAS COMO REFUGIO DE VIDA SILVESTRE
+TEXTO CONSOLIDADO, LEY N°. 738, LEY QUE DECLARA Y DEFINE EL SISTEMA DE LOS CAYOS PERLAS COMO REFUGIO DE VIDA SILVESTRE
 
-Aprobada el 21 de octubre de 2010
+Aprobado el 27 de septiembre de 2023
 
-Publicada en la Gaceta, Diario Oficial N°. 229 del 30 de noviembre de 2010
+Publicado en La Gaceta, Diario Oficial N°. 217 del 29 de noviembre de 2023
 
-LEY N°. 738
+ASAMBLEA NACIONAL
+
+Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 27 de septiembre de 2023, de la Ley Nº. 738, Ley que Declara y Define el Sistema de los Cayos Perlas como Refugio de Vida Silvestre, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, y la Ley Nº. 1163, Ley del Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales, aprobada el 27 de septiembre de 2023.
+
+LEY Nº. 738
 
 El Presidente de la República de Nicaragua
 
@@ -18,11 +24,11 @@ CONSIDERANDO
 
 I
 
-Que la Ley No. 217, "Ley General del Medio ambiente y los Recursos Naturales", publicada en La Gaceta, Diario Oficial No. 105 del 6 de Junio de 1996 y el Decreto No. 01-2007, "Reglamento de Áreas Protegidas de Nicaragua", publicado en La Gaceta No. 8 del 11 de enero del 2007, regulan los requisitos y trámites para la declaración de áreas protegidas en el país, que se harán mediante ley de la República y su iniciativa se formulará de acuerdo a lo establecido en el artículo 140 de la Constitución Política de la República de Nicaragua.
+Que la Ley Nº. 217, "Ley General del Medio ambiente y los Recursos Naturales'', publicada en La Gaceta, Diario Oficial Nº. 105 del 6 de junio de 1996 y el Decreto Nº. 01-2007, "Reglamento de Áreas Protegidas de Nicaragua", publicado en La Gaceta Nº. 8 del 11 de enero del 2007, regulan los requisitos y trámites para la declaración de áreas protegidas en el país, que se harán mediante ley de la República y su iniciativa se formulará de acuerdo a lo establecido en el Artículo 140 de la Constitución Política de la República de Nicaragua.
 
 II
 
-Que la Ley No. 445, "Ley del Régimen de Propiedad Comunal de los Pueblos Indígenas y Comunidades Étnicas de las Regiones Autónomas de la Costa Atlántica de Nicaragua y de los Ríos Bocay, Coco, Indio y Maíz", publicada en la Gaceta, Diario Oficial No. 16 del 23 de Enero del 2003, establece que debe acordarse con los representantes legales de la comunidad indígena la declaración de las áreas protegidas situadas en propiedades comunales y que la administración será bajo el sistema de manejo conjunto, para lo que las comunidades indígenas podrán auxiliarse de las organizaciones no gubernamentales ambientales que elijan, sin perjuicio del apoyo técnico que deberá brindarles el Ministerio del Ambiente y de los Recursos Naturales (MARENA) y que el Plan de Manejo se hará en conjunto con las comunidades indígenas involucradas y el MARENA, tomándose en cuenta las formas de uso tradicional de los recursos naturales que emplean las comunidades.
+Que la Ley Nº. 445, "Ley del Régimen de Propiedad Comunal de los Pueblos Indígenas y Comunidades Étnicas de las Regiones Autónomas de la Costa Caribe de Nicaragua y de los Ríos Bocay, Coco, Indio-Maíz", publicada en La Gaceta, Diario Oficial Nº. 16 del 23 de enero del 2003, establece que debe acordarse con los representantes legales de la comunidad indígena la declaración de las áreas protegidas situadas en propiedades comunales y que la administración será bajo el sistema de manejo conjunto, para lo que las comunidades indígenas podrán auxiliarse de las organizaciones no gubernamentales ambientales que elijan, sin perjuicio del apoyo técnico que deberá brindarles el Ministerio del Ambiente y de los Recursos Naturales (MARENA) y que el Plan de Manejo se hará en conjunto con las comunidades indígenas involucradas y el MARENA, tomándose en cuenta las formas de uso tradicional de los recursos naturales que emplean las comunidades.
 
 III
 

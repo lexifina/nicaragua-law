@@ -1,14 +1,14 @@
 # Artículo 6
 
-Creación de Comisión.
+Creación de Comisión
 
 Crease la Comisión para la Gestión del Área Protegida del Refugio de Vida Silvestre de los Cayos Perlas, la que estará integrada por un representante de las instituciones y organizaciones siguientes:
 
 a) Ministerio del Ambiente y de los Recursos Naturales (MARENA);
 
-b) Gobierno Regional de la Región Autónoma del Atlántico Sur (GRAAS);
+b) Gobierno Regional de la Región Autónoma de la Costa Caribe Sur (GRACCS);
 
-c) Consejo Regional de la Región Autónoma del Atlántico Sur (CRAAS);
+c) Consejo Regional de la Región Autónoma de la Costa Caribe Sur (CRACCS);
 
 d) Un representante de las autoridades territoriales de las doce comunidades de la cuenca de Laguna de Perlas;
 

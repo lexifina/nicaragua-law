@@ -1,6 +1,6 @@
 # Artículo 7
 
-Funciones de la Comisión.
+Funciones de la Comisión
 
 Serán funciones de esta Comisión:
 
