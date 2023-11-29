@@ -2,7 +2,7 @@
 
 Procedimiento de reclamo ante el INE
 
-En cualquier caso de las infracciones establecidas en la presente ley, en las que el Cliente o Consumidor no estuviese de acuerdo con el dictamen de la Empresa Distribuidora y habiendo reclamado ante la misma, en primera y segunda instancia, tal como lo establece la Normativa de Servicio Eléctrico, podrá hacer uso de los siguientes recursos administrativos ante el INE:
+En cualquier caso de las infracciones establecidas en la presente Ley, en las que el Cliente o Consumidor no estuviese de acuerdo con el dictamen de la Empresa Distribuidora y habiendo reclamado ante la misma, en primera y segunda instancia, tal como lo establece la Normativa de Servicio Eléctrico, podrá hacer uso de los siguientes recursos administrativos ante el INE:
 
 1. El Recurso de Revisión en la vía administrativa para los clientes, consumidores cuyos derechos se consideren perjudicados por actos del prestador de servicio. Este Recurso deberá interponerse en el término de quince días hábiles a partir del día siguiente de la notificación.
 
@@ -14,11 +14,11 @@ La interposición del Recurso no suspende la ejecución del acto, pero la autori
 
 El Recurso de Revisión se resolverá en un término de veinte días a partir de la interposición del mismo.
 
-2. El Recurso de Apelación se interpondrá, ante el mismo órgano que dictó el acto en un término de seis días después de notificado, éste remitirá el recurso junto con el informe, al Consejo de Dirección del INE en un término de diez días.
+2, El Recurso de Apelación se interpondrá, ante el mismo órgano que dictó el acto en un término de seis días después de notificado, éste remitirá el recurso junto con el informe, al Consejo de Dirección del INE en un término de diez días.
 
 El Recurso de Apelación se resolverá en un término de treinta días a partir de su interposición, agotándose así la vía administrativa. La Resolución dictada por el INE presta mérito ejecutivo.
 
-Si en cualquier estado del procedimiento administrativo se llegase a establecer que la Empresa Distribuidora, cobró más de lo que le correspondía o es responsable de un daño cuantificado, esta deberá pagar o establecer un acuerdo de pago dentro de un término de cinco días a partir de la certificación que al efecto libre el INE.
+Sí en cualquier estado del procedimiento administrativo se llegase a establecer que la Empresa Distribuidora, cobró más de lo que le correspondía o es responsable de un daño cuantificado, esta deberá pagar o establecer un acuerdo de pago dentro de un término de cinco días a partir de la certificación que al efecto libre el INE.
 
 El INE estará obligado a resolver en los plazos establecidos en la ley y en las normativas correspondientes los recursos administrativos aquí establecidos.
 

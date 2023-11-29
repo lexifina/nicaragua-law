@@ -14,7 +14,7 @@ d) Realizar las inspecciones del servicio público previstas en el procedimiento
 
 e) Alterar intencionalmente la cuenta del cliente o consumidor vía factura. El monto total de estas facturas deberá ser compensado al cliente o consumidor cuando así lo certifique el INE hasta por dos veces el valor cobrado o intentado cobrar.
 
-f) Solicitar o cobrar al cliente el costo de los materiales o equipos para hacer reparaciones y mantenimientos que constituyen responsabilidad de la empresa prestadora del servicio público de energía eléctrica, este monto deberá ser compensado al cliente aún cuando no hubiese sido cancelado.
+f) Solicitar o cobrar al cliente el costo de los materiales o equipos para hacer reparaciones y mantenimientos que constituyen responsabilidad de la empresa prestadora del servicio público de energía eléctrica, este monto deberá ser compensado al cliente aun cuando no hubiese sido cancelado.
 
 g) Cobrar en concepto de Energía No Registrada, cuando el hecho sea por defectos en la lectura o en el aparato de medición, dado que no es responsabilidad del cliente o consumidor.
 

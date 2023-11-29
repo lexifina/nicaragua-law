@@ -8,7 +8,7 @@ a) Servicio de Energía Eléctrica: Servicio prestado por un agente, distribuido
 
 b) Ente Regulador: Instituto Nicaragüense de Energía, denominado también INE, cuya función principal es regular, supervisar y fiscalizar la prestación del servicio de energía eléctrica ofrecida por las Empresas Operadoras de Distribución a los Clientes, Consumidores o Usuarios y garantizar los derechos de las partes.
 
-c) Normativa de Servicio Eléctrico: Normas que debe cumplir todo distribuidor de Energía Eléctrica para establecer sus relaciones de distribución o comercialización con sus Clientes de acuerdo a lo establecido en la Ley Nº. 272, Ley de la Industria Eléctrica, y su reglamento. La Normativa debe ser aprobada por el Ministerio de Energía y Minas a propuesta del INE, en ella no se podrá disminuir los derechos establecidos por la ley a favor de los Clientes o Consumidores de energía eléctrica.
+c) Normativa de Servicio Eléctrico: Normas que debe cumplir todo distribuidor de Energía Eléctrica para establecer sus relaciones de distribución o comercialización con sus Clientes de acuerde a lo establecido en la Ley N°. 272, Ley de la Industria Eléctrica, y su Reglamento. La Normativa debe ser aprobada por el Ministerio de Energía y Minas a propuesta del INE, en ella no se podrá disminuir los derechos establecidos por la ley a favor de los Clientes o Consumidores de energía eléctrica.
 
 d) Empresa Distribuidora: Agente Económico que distribuye en forma eficiente, continua y segura la energía eléctrica a los clientes o consumidores.
 
@@ -26,7 +26,7 @@ j) Energía sustraída: Energía eléctrica suministrada por la Empresa Distribu
 
 k) Energía no registrada: Energía Eléctrica suministrada por la Empresa Distribuidora a un Cliente o Consumidor y que no ha sido registrada correctamente por el equipo de medición por fallas técnicas o mecánicas del equipo de medición sin responsabilidad del Cliente o Consumidor.
 
-l) Línea directa manifiesta: Conexión utilizada por un Cliente, Consumidor o Usuario que permita el consumo de energía sin que pase a través del dispositivo de medición.
+l) Línea directa manifiesta: Conexión utilizada por un Cliente, Consumidor o Usuario que permita el consumo de energía sin que pase a través del dispositivo de medición,
 
 m) Formato de Notificación: Formato informativo de las supuestas causas por las que se pretende realizar la inspección, en original y copia, entregado al Cliente, Consumidor o Representante, con el objeto de darle a conocer la actividad a realizarse por la Empresa Distribuidora.
 
