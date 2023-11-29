@@ -20,10 +20,8 @@ h. Las demás que esta Ley y otros ordenamientos jurídicos le confieran, respet
 
 Los Gobiernos Municipales podrán conformar Comisiones Técnicas de protección y bienestar de animales, como apoyo en la aplicación de las políticas y las disposiciones de la presente Ley, además de servir como órgano consultivo y fiscalizador en el control de la tenencia de animales.
 
-Los infractores sancionados por violación a lo establecido en la presente Ley, podrán recurrir de revisión y apelación de conformidad al procedimiento establecido en los artículos 40 y 41 de la Ley de Municipios, texto reformado y adicionado por la Ley No. 261, publicada en La Gaceta, Diario Oficial No. 162 del 26 de agosto de 1997.
+Los infractores sancionados por violación a lo establecido en la presente Ley, podrán recurrir de revisión y apelación de conformidad al procedimiento establecido en los Artículos 40 y 41 de la Ley N°. 40, Ley de Municipios.
 
 DE LA PROTECCIÓN Y EL BIENESTAR ANIMAL
 
-Sección l
-
-De los Animales de Compañía o Mascotas
+DE LOS ANIMALES DE COMPAÑÍA O MASCOTAS

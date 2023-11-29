@@ -4,6 +4,4 @@ Las crías de los animales domésticos o animales silvestres domesticados que se
 
 En el caso de los zoocriaderos, que son considerados sitios dedicados a la cría y aprovechamiento de especies de fauna en peligro de extinción, ya sea con fines científicos, comerciales, de fomento, reproducción y repoblamiento. Estos sitios requieren de permisos especiales otorgados por la autoridad competente.
 
-Sección Vll
-
-De la Experimentación e Investigación
+DE LA EXPERIMENTACIÓN E INVESTIGACIÓN

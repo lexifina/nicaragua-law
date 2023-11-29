@@ -6,6 +6,4 @@ Todo aquel propietario de animal abandonado, que aún a sabiendas de la retenci�
 
 Las autoridades competentes y las instituciones de apoyo, podrán realizar las inspecciones que sean necesarias para verificar el cumplimiento de estas condiciones.
 
-Sección V
-
-De las Exhibiciones y Espectáculos
+DE LAS EXHIBICIONES Y ESPECTÁCULOS

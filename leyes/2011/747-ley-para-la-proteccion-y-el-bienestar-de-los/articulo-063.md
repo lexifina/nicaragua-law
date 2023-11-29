@@ -2,7 +2,7 @@
 
 El Fondo lo administrará un Consejo Directivo integrado por los titulares o delegados de las siguientes instituciones:
 
-1. Ministerio Agropecuario y Forestal, que presidirá;
+1. Ministerio Agropecuario, que presidirá;
 
 2. Ministerio de Hacienda y Crédito Público; y
 

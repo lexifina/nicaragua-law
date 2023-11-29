@@ -4,9 +4,9 @@ Son funciones del Consejo Nacional de Protección y Bienestar Animal (CONAPROBIA
 
 a. Conocer, aprobar y actualizar la propuesta de Política Nacional de Protección y Bienestar Animal, velando por su cumplimiento.
 
-b. Emitir recomendaciones a las autoridades correspondientes, para promover el cumplimiento de la Ley y demás normas y estrategias;
+b. Emitir recomendaciones a las autoridades correspondientes, para promover el cumplimiento de la Ley y demás normas y estrategias.
 
-c. Proporcionar asesoría y emitir opiniones en materia de protección y bienestar de los animales;
+c. Proporcionar asesoría y emitir opiniones en materia de protección y bienestar de los animales.
 
 d. Promover, analizar y proponer las normas, programas y estrategias para la protección y bienestar de los animales.
 
@@ -22,6 +22,6 @@ i. Impulsar con las instituciones y organizaciones competentes, la realización 
 
 j. Conocer sobre el manejo, uso y destino del Fondo para la Protección y Bienestar Animal.
 
-k. Elaborar y aprobar el reglamento Interno para su funcionamiento.
+k. Elaborar y aprobar el reglamento interno para su funcionamiento.
 
 DEL FONDO PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES

@@ -6,19 +6,19 @@ Animal (es): Todos aquellos seres vivos que sienten y se mueven por su propio im
 
 Animales de asistencia: Son animales domésticos, que han sido especialmente adiestrados para realizar labores que ayuden a las personas con discapacidades físicas en general. Comúnmente el perro guía.
 
-Animales abandonados: Animales domésticos que deambulan libremente por la vía pública sin ninguna identificación de su origen o propietario, así como, el que teniendo identificación, no es denunciada su pérdida por el propietario. También se consideran abandonados, los que son dejados dentro de las viviendas de sus propietarios sin el cuido y la protección necesaria.
+Animales abandonados: Animales domésticos que deambulan libremente por la vía pública sin ninguna identificación de su origen o propietario, así como, el que, teniendo identificación no es denunciada su pérdida por el propietario. También se consideran abandonados, los que son dejados dentro de las viviendas de sus propietarios sin el cuido y la protección necesaria.
 
-Animales amansados. Son animales salvajes que pueden ser entrenados en alguna actividad, pero sus crías siempre son salvajes.
+Animales amansados: Son animales salvajes que pueden ser entrenados en alguna actividad, pero sus crías siempre son salvajes.
 
-Animales cimarrones. Son aquellos animales domésticos que vueltos a la vida silvestre adoptan conductas de animales salvajes.
+Animales cimarrones: Son aquellos animales domésticos que vueltos a la vida silvestre adoptan conductas de animales salvajes.
 
 Animales de compañía o mascota: Es un animal doméstico que no es forzado a trabajar, ni usado para fines lucrativo ni como alimento.
 
-Animales domesticados: Un animal se considera domesticado cuando se reproduce bajo la dirección' del ser humano y da origen a una progenie que sigue bajo la tutela de éste, quien la aprovecha para su beneficio.
+Animales domesticados: Un animal se considera domesticado cuando se reproduce bajo la dirección del ser humano y da origen a una progenie que sigue bajo la tutela de este, quien la aprovecha para su beneficio.
 
 Animales exóticos: Aquellos que se encuentran libres en la naturaleza y sobre los cuales no se ha ejercido dominio humano y además se encuentran registrados como especies exóticas en los listados nacionales o internacionales.
 
-Animales para espectáculos: Animales domésticos y/o especímenes de fauna silvestre mantenidos en cautiverio, que son utilizados en espectáculos públicos ó privados bajo el adiestramiento del ser humano.
+Animales para espectáculos: Animales domésticos y/o especímenes de fauna silvestre mantenidos en cautiverio, que son utilizados en espectáculos públicos o privados bajo el adiestramiento del ser humano.
 
 Animales potencialmente peligrosos: Todos aquellos que pertenecen a la fauna salvaje y su tenencia sea con fines domésticos o de compañía, cuyas características físicas y de agresividad pongan en riesgo la vida, la seguridad física y los bienes tantos de sus propietarios como de terceros.
 
@@ -44,22 +44,22 @@ Epizootia: Es una enfermedad contagiosa que ataca a un número inusual de animal
 
 Eutanasia animal: Muerte aplicada a un animal desahuciado clínicamente, practicada y supervisada por un médico veterinario legalmente certificado.
 
-Maltrato animal: Todo hecho, acto u omisión consciente o inconsciente realizado por el propietario, dueño o poseedor de un animal, que pueda ocasionar dolor, sufrimiento, poner en peligro la vida del animal o que afecten gravemente su salud por la sobreexplotación de su trabajo.
+Maltrato animal: Todo hecho, acto u omisión consciente o inconsciente realizado por el propietario, dueño o poseedor de un animal, que pueda ocasionar dolor, sufrimiento, poner en peligro la vida del animal o que afecten gravemente su salud por la sobre explotación de su trabajo.
 
 Protección animal: Son las acciones que realizan las entidades públicas y privadas destinadas para tal fin, que conllevan a vigilar y garantizar los derechos, la salud y la prevención en contra del maltrato, sufrimiento y explotación de los animales.
 
-Sacrificio de animales. El sacrificio o matanza de animales para el consumo humano, bajo las estrictas medidas de seguridad e higiene establecidas para estos fines.
+Sacrificio de animales: El sacrificio o matanza de animales para el consumo humano, bajo las estrictas medidas de seguridad e higiene establecidas para estos fines.
 
-Trato digno y respetuoso: Medidas que se aplican para evitar a los animales, dolor innecesario o angustia durante su crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento ó sacrificio.
+Trato digno y respetuoso: Medidas que se aplican para evitar a los animales, dolor innecesario o angustia durante su crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento o sacrificio.
 
 Veterinario: Es un profesional de la medicina legalmente autorizado para profesar y ejercer la veterinaria, la cual se ocupa del cuidado y estudio de la producción, explotación, medicina preventiva y curativa de los animales útiles al ser humano, de sus relaciones higiénico-sanitarias y de la obtención, industrialización y tipificación de los productos de origen animal.
 
 Vivisección: Es la disección de animales vivos con una finalidad científica.
 
-Zoofilia: Consiste en la atracción sexual de un humano hacia un animal. Las personas que sienten esta afinidad o atracción sexual son conocidas como zoófilos o zoofílicos.
+Zoofilia: Consiste en la atracción sexual de un humano hacia un animal. Las personas que sienten esta afinidad o atracción sexual son conocidas como zoófilas o zoofílicas.
 
 Zoonosis: Enfermedad que puede transmitirse de otros animales vertebrados a seres humanos o viceversa.
 
-En el reglamento de la presente Ley se podrán establecer otras definiciones que sean de importancia para esta Ley.
+En el Reglamento de la presente Ley se podrán establecer otras definiciones que sean de importancia para esta Ley.
 
 DE LA AUTORIDAD COMPETENTE

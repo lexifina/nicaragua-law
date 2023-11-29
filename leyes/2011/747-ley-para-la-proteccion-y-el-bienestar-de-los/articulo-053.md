@@ -8,7 +8,7 @@ b. Velar por su alimentación, salud y condiciones de vida adecuadas, según la 
 
 c. Cuidarlo y protegerlo de agresiones, peligros o molestias que le puedan causar otras personas o animales.
 
-d. No criar mayor número de animales del que pueda ser bien atendido y. controlado, para no ocasionar molestias a terceros, ni poner en peligro la salud pública.
+d. No criar mayor número de animales del que pueda ser bien atendido y controlado, para no ocasionar molestias a terceros, ni poner en peligro la salud pública.
 
 e. Evitar cualquier mutilación, alteración de la integridad física o modificación negativa de sus instintos naturales, que no se efectúe bajo causa justificada y cuidado de un especialista o persona debidamente autorizada y que cuente con conocimientos técnicos en la materia.
 

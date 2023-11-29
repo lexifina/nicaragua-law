@@ -8,8 +8,6 @@ b. Documentos que acrediten la tenencia legal y marca del animal o declaración 
 
 c. Certificado sanitario del animal.
 
-El Gobierno Municipal podrá celebrar convenios de colaboración con la Policía Nacional, las Universidades, Asociaciones y organizaciones afines, con el objetivo de ejercer un mayor y efectivo control sobre el bienestar de los animales de tiro.
+El Gobierno Municipal podrá celebrar convenios de colaboración con la Policía Nacional, las universidades, asociaciones y organizaciones afines, con el objetivo de ejercer un mayor y efectivo control sobre el bienestar de los animales de tiro.
 
-Sección IV
-
-De los Animales Abandonados
+DE LOS ANIMALES ABANDONADOS

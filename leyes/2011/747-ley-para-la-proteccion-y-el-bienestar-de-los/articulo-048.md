@@ -6,6 +6,4 @@ El sacrificio o matanza de animales domésticos o silvestres destinados al consu
 
 Las autoridades correspondientes, encargadas de la salud de la población y de los aspectos sanitarios y fitosanitarios, deberán velar por las condiciones de vida, la alimentación, reproducción, transporte y sacrificio o matanza de los animales para el consumo humano.
 
-Sección IX
-
-De los Centros de Atención y Rehabilitación
+DE LOS CENTROS DE ATENCIÓN Y REHABILITACIÓN

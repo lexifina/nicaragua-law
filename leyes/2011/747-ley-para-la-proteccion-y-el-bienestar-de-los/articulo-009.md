@@ -8,7 +8,7 @@ En la aplicación de la presente Ley la autoridad competente, las instituciones 
 
 3. Todos los animales tienen derecho a la atención, a los cuidados y a la protección del ser humano;
 
-4. Ningún animal será sometido a malos tratos ni actos de crueldad. Si es necesaria la muerte de un animal, ésta debe ser instantánea, indolora y no comportará angustia alguna para el mismo;
+4. Ningún animal será sometido a malos tratos ni actos de crueldad. Si es necesaria la muerte de un animal, esta debe ser instantánea, indolora y no comportará angustia alguna para el mismo;
 
 5. Todo animal que el ser humano ha escogido como compañero tiene derecho a que la duración de su vida sea conforme a su longevidad natural. El abandono de un animal es un acto cruel y degradante;
 

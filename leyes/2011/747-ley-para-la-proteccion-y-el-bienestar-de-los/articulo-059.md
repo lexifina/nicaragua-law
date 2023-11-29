@@ -2,7 +2,7 @@
 
 El Consejo Nacional de Protección y Bienestar Animal estará integrada por un representante o delegado de las instituciones siguientes:
 
-a. Ministerio Agropecuario y Forestal, que coordina;
+a. Ministerio Agropecuario, que coordina;
 
 b. Ministerio del Ambiente y de los Recursos Naturales;
 

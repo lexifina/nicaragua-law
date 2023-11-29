@@ -8,4 +8,4 @@ b. El desarrollo de programas de educación, difusión y fomento de la cultura e
 
 c. El desarrollo de las acciones establecidas en los convenios que el Gobierno establezca con los sectores sociales, privados, académicos y de investigación en las materias de la presente Ley.
 
-d. Las demás que esta Ley, su reglamento y otros ordenamientos jurídicos establezcan.
+d. Las demás que esta Ley, su Reglamento y otros ordenamientos jurídicos establezcan.

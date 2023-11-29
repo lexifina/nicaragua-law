@@ -1,6 +1,6 @@
 # Artículo 72
 
-El Ministerio Agropecuario Forestal en coordinación con las demás instituciones competentes, elaborará y aprobará las normas técnicas necesarias en un plazo no mayor de seis meses a partir de la entrada en vigencia de esta Ley, entre estas:
+El Ministerio Agropecuario en coordinación con las demás instituciones competentes, elaborará y aprobará las normas técnicas necesarias en un plazo no mayor de seis meses a partir de la entrada en vigencia de esta Ley, entre estas:
 
 a. Normas para la realización de la eutanasia animal;
 

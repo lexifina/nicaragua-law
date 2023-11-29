@@ -1,10 +1,16 @@
-LEY N°. 747, LEY PARA LA PROTECCIÓN Y EL BIENESTAR DE LOS ANIMALES DOMÉSTICOS Y ANIMALES SILVESTRES DOMESTICADOS
+TEXTO CONSOLIDADO, LEY N°. 747, LEY PARA LA PROTECCIÓN Y EL BIENESTAR DE LOS ANIMALES DOMÉSTICOS Y ANIMALES SILVESTRES DOMESTICADOS
 
-Aprobada el 11 de mayo del 2011
+Aprobado el 27 de septiembre de 2023
 
-Publicada en La Gaceta, Diario Oficial N°. 96 del 26 de Mayo del 2011
+Publicado en La Gaceta, Diario Oficial N°. 217 del 29 de noviembre de 2023
 
-LEY Nº. 747
+ASAMBLEA NACIONAL
+
+Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 27 de septiembre del 2023, de la Ley Nº. 747, Ley para la Protección y el Bienestar de los Animales Domésticos y Animales Silvestres Domesticados, y se ordena su publicación en La Gaceta Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense y la Ley Nº. 1163, Ley del Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales, aprobada el 27 de septiembre del 2023.
+
+LEY N°. 747
 
 El Presidente de la República de Nicaragua
 
@@ -16,19 +22,19 @@ LA ASAMBLEA NACIONAL
 
 CONSIDERANDO
 
-l
+I
 
-Que la Constitución Política de la República de Nicaragua, en sus artículos 60 y 102 establece que es obligación del Estado la preservación, conservación y rescate del medio ambiente y de los recursos naturales, declarando a estos últimos como Patrimonio Nacional.
+Que la Constitución Política de la República de Nicaragua, en sus Artículos 60 y 102 establece que es obligación del Estado la preservación, conservación y rescate del medio ambiente y de los recursos naturales, declarando a estos últimos como Patrimonio Nacional.
 
-ll
+II
 
 Que Nicaragua es parte de varios Tratados y Convenios Internacionales relacionados al tema de la diversidad biológica, fauna y flora silvestre y de protección a las especies en peligro de extinción.
 
-lll
+III
 
 Que el Estado de Nicaragua ha reconocido el importante rol que juegan los animales en el equilibrio del medio ambiente y su efecto en la calidad de vida de la sociedad nicaragüense y del mundo, apoyando el proceso para la adopción de la Declaración Universal sobre el Bienestar Animal (DUBA), que impulsan la Organización de las Naciones Unidas.
 
-lV
+IV
 
 Que los nicaragüenses, estamos obligados a velar por la protección y el bienestar de los animales domésticos y silvestres que cohabitan con los seres humanos, a fin de evitar su extinción, maltrato u otras formas de discriminación o sufrimientos innecesarios durante su reproducción, desarrollo y existencia.
 
@@ -44,6 +50,6 @@ Ha ordenado la siguiente:
 
 LEY PARA LA PROTECCIÓN Y EL BIENESTAR DE LOS ANIMALES DOMÉSTICOS Y ANIMALES SILVESTRES DOMESTICADOS
 
-CAPÍTULO l
+CAPÍTULO I
 
 DISPOSICIONES GENERALES
