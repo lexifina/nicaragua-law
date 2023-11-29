@@ -1,8 +1,8 @@
 # Artículo 9
 
-La Estación de Servicio Rural y los Centros o Puestos de Distribución, de conformidad con lo establecido en el artículo 11 bis y 47 bis segundo párrafo de la Ley, deberán cumplir con los requisitos siguientes:
+La Estación de Servicio Rural y los Centros o Puestos de Distribución, de conformidad con lo establecido en el Artículo 14 y 58 segundo párrafo de la Ley, deberán cumplir con los requisitos siguientes:
 
-1.- Acreditación legal del solicitante, que comprende:
+1. Acreditación legal del solicitante, que comprende:
 
 1.1 Nombre completo o razón social;
 
@@ -12,7 +12,7 @@ La Estación de Servicio Rural y los Centros o Puestos de Distribución, de conf
 
 1.4 Copia de cédula de identidad;
 
-1.6 En caso de personas jurídicas, copia de la escritura de constitución social y estatutos, nombre del representante legal y copia del poder de representación, todos debidamente autenticados y registrados en el registro público correspondiente; si es extranjera, presentar documentos que lo habilita para que surtan efectos en el país.
+1.5 En caso de personas jurídicas, copia de la escritura de constitución social y estatutos, nombre del representante legal y copia del poder de representación, todos debidamente autenticados y registrados en el registro público correspondiente; si es extranjera, presentar documentos que lo habilita para que surtan efectos en el país.
 
 2. Pólizas de seguros vigentes de cobertura mínima contra daños y perjuicios a terceros y daños al medio ambiente;
 
@@ -22,7 +22,7 @@ La Estación de Servicio Rural y los Centros o Puestos de Distribución, de conf
 
 5. Plan de Contingencia para caso de emergencias e información sobre equipos de seguridad industrial y de protección ambiental;
 
-6. Autorización Ambiental emitido por MARENA, Consejos Regionales o Municipalidades correspondientes conforme lo establece la legislación pertinente;
+6. Autorización Ambiental emitida por MARENA, Consejos Regionales o Municipales correspondientes conforme lo establece la legislación pertinente;
 
 7. Certificado de Cumplimiento emitido por la DGH-MEM, en el caso de nuevas instalaciones;
 

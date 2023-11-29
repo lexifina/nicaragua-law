@@ -1,6 +1,6 @@
 # Artículo 71
 
-De acuerdo al principio establecido por el artículo 47 de la Ley, se impondrán sanciones en forma progresiva y escalonada según la gravedad de la infracción, tomando en cuenta las circunstancias agravantes o atenuantes, tales como el grado de perturbación o alteración de los servicios, la trascendencia para la cadena de suministro y la cuantía del daño o perjuicio ocasionado:
+De acuerdo al principio establecido por el Artículo 57 de la Ley, se impondrán sanciones en forma progresiva y escalonada según la gravedad de la infracción, tomando en cuenta las circunstancias agravantes o atenuantes, tales como el grado de perturbación o alteración de los servicios, la trascendencia para la cadena de suministro y la cuantía del daño o perjuicio ocasionado:
 
 1. Las infracciones leves serán sancionadas con la imposición de medidas correctivas y multas de no más de veinte mil Córdobas;
 

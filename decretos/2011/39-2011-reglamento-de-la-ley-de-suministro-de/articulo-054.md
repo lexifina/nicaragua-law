@@ -1,6 +1,6 @@
 # Artículo 54
 
-De conformidad con el artículo 30 y demás disposiciones de la Ley, para la mejor eficiencia de las acciones de protección ambiental en el subsector hidrocarburos, se requiere de la coordinación y consulta interinstitucional basada en las siguientes condiciones:
+De conformidad con el Artículo 38 y demás disposiciones de la Ley, para la mejor eficiencia de las acciones de protección ambiental en el subsector hidrocarburos, se requiere de la coordinación y consulta interinstitucional basada en las siguientes condiciones:
 
 1. El MARENA y el MEM, deberán coordinarse para la elaboración de las normas sobre la protección ambiental en el subsector hidrocarburos.
 

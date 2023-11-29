@@ -1,6 +1,6 @@
 # Artículo 23
 
-El formulario de solicitud de Autorización de Construcción de instalaciones de la cadena de suministro de hidrocarburos, además de lo establecido en el Articulo 14 de la Ley, contendrá los requisitos siguientes:
+El formulario de solicitud de Autorización de Construcción de instalaciones de la cadena de suministro de hidrocarburos, además de lo establecido en el Artículo 17 de la Ley, contendrá los requisitos siguientes:
 
 1. Acreditación legal del solicitante, que comprende:
 
@@ -36,11 +36,11 @@ El formulario de solicitud de Autorización de Construcción de instalaciones de
 
 5.7 Copia física y digital de los planos incluyendo dimensiones y detalles técnicos relativos al diseño de las principales construcciones, instalaciones y equipos que forman parte de la obra.
 
-5.8 Copia física y digital de los planos de los sistemas y equipos contra-incendio y de seguridad industrial, sustentados con las normas y especificaciones aplicadas en el diseño.
+5.8 Copia física y digital de los planos de los sistemas y equipos contra incendio y de seguridad industrial, sustentados con las normas y especificaciones aplicadas en el diseño.
 
 5.9 Copia física y digital de los planos del sistema de tratamiento de residuos industriales, memoria de cálculos sustentados con las normas y especificaciones aplicadas en el diseño.
 
-5.10 Autorización de Construcción y montaje de los sistemas eléctricos y sistema contra-incendios otorgados por la autoridad correspondiente;
+5.10 Autorización de Construcción y montaje de los sistemas eléctricos y sistema contraincendios otorgados por la autoridad correspondiente;
 
 5.11 Copia certificada de las pólizas de seguros vigentes de cobertura contra daños y perjuicios a terceros y al medio ambiente durante la ejecución de la obra sujeto a la autorización solicitada. Los montos de cobertura mínimos para las respectivas actividades serán establecidos en una normativa administrativa que emitirá el MEM; en el caso de los seguros ambientales, éstos se establecerán conforme a las disposiciones establecidas por el MARENA.
 
@@ -48,7 +48,7 @@ El formulario de solicitud de Autorización de Construcción de instalaciones de
 
 5.13 Fecha estimada de inicio y cronograma de ejecución de la obra;
 
-5.14 Pago del valor no reembolsable de la Autorización estipulado en el artículo 33 numeral 5 de este Reglamento;
+5.14 Pago del valor no reembolsable de la Autorización estipulado en el Artículo 33 numeral 5 de este Reglamento;
 
 5.15 Permiso y/o Autorización Ambiental emitido por MARENA, Gobiernos Regionales o Municipales en el caso que corresponda, conforme lo establece la legislación vigente pertinente;
 
@@ -56,4 +56,4 @@ El formulario de solicitud de Autorización de Construcción de instalaciones de
 
 5.17 Para la construcción de tanques de almacenamiento y ductos de recepción y/o despacho de hidrocarburos, ubicados en puertos y planteles portuarios, se debe presentar planos del proyecto, descripción del producto a manejar y detalles del entorno, a la Dirección General de Transporte Acuático del Ministerio de Transporte e Infraestructura (MTI) para su revisión y aprobación, previo a ser sometido para aprobación del MEM.
 
-6. A criterio de la DGH-MEM se solicitarán otros estudios o documentación con el objetivo de garantizar mayor seguridad de las instalaciones a construir y de protección al ambiente, pobladores, fuentes de agua, según sea el caso conforme a las normas nacionales o internacionales de la industria petrolera aplicables. Para la realización y entrega de estos estudios o documentación, la DGH— MEM concederá un plazo razonable y suficiente. Este plazo no será contabilizado para las partes.
+6. A criterio de la DGH-MEM se solicitarán otros estudios o documentación con el objetivo de garantizar mayor seguridad de las instalaciones a construir y de protección al ambiente, pobladores, fuentes de agua, según sea el caso conforme a las normas nacionales o internacionales de la industria petrolera aplicables. Para la realización y entrega de estos estudios o documentación, la DGH-MEM concederá un plazo razonable y suficiente. Este plazo no será contabilizado para las partes.

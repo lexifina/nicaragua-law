@@ -12,4 +12,4 @@ Para la negativa indicada anteriormente, es necesario que se hayan agotado todos
 
 4. La DGH-MEM solicitará otros estudios o documentación cuando considere necesario, con el objetivo de garantizar mayor seguridad de las instalaciones y de protección al ambiente conforme a las normas internacionales o nacionales aplicables al caso.
 
-5. Para su otorgamiento, la DGH-MEM seguirá el procedimiento estipulado en el artículo 10 de este Reglamento simplificando el procedimiento en lo tocante a la información que pueda estar en el expediente del MEM, por licencias otorgadas anteriormente.
+5. Para su otorgamiento, la DGH-MEM seguirá el procedimiento estipulado en el Artículo 10 de este Reglamento simplificando el procedimiento en lo tocante a la información que pueda estar en el expediente del MEM, por licencias otorgadas anteriormente.

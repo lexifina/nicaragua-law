@@ -12,4 +12,4 @@ Para la comercialización de un derivado cuyas especificaciones de calidad no es
 
 La DGH-MEM realizará una evaluación de los aspectos técnicos y ambientales del nuevo producto y comunicará su recomendación al interesado dentro de un plazo de treinta (30) días hábiles. En caso de un dictamen favorable, la DGH-MEM coordinará con el Ministerio de Fomento, Industria y Comercio (MIFIC) el registro y la aprobación temporal para la comercialización del derivado hasta la emisión de la respectiva norma de calidad de acuerdo a la Ley de Normalización Técnica y Calidad.
 
-Se aplican las disposiciones del Artículo 17 de la Ley sobre notificación y aprobación de solicitudes de Licencias en forma análoga a las solicitudes de comercialización de nuevos derivados.
+Se aplican las disposiciones del Artículo 20 de la Ley sobre notificación y aprobación de solicitudes de Licencias en forma análoga a las solicitudes de comercialización de nuevos derivados.

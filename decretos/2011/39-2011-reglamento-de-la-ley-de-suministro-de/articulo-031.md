@@ -2,11 +2,11 @@
 
 Una vez otorgada la Licencia por parte del MEM, los agentes económicos deberán presentar original y copia de la siguiente información:
 
-1. Formato de solicitud
+1. Formato de solicitud.
 
 2. Planos de construcción aprobados por el MEM.
 
-3. Licencia
+3. Licencia.
 
 4. Los programas de mantenimiento del equipamiento y los sistemas de seguridad industrial.
 

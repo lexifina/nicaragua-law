@@ -18,6 +18,6 @@ Si el solicitante requiere un plazo adicional, antes de finalizar los quince (15
 
 6. Una vez cumplidos los requisitos establecidos en el procedimiento descrito en los numerales anteriores, la DGH-MEM dictaminará la resolución correspondiente en un plazo no mayor de quince días hábiles.
 
-7. La resolución que declare la aprobación o rechazo de la solicitud será notificada al solicitante, dentro del periodo correspondiente conforme al artículo 17 de la Ley.
+7. La resolución que declare la aprobación o rechazo de la solicitud será notificada al solicitante, dentro del período correspondiente conforme al Artículo 20 de la Ley.
 
 8. En caso que se declarase positiva la solicitud de Licencia, se registrarán sus datos en el Registro Central de Hidrocarburos y se extenderá la licencia de conformidad con la actividad solicitada.

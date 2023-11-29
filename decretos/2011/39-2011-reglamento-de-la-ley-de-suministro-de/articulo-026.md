@@ -1,6 +1,6 @@
 # Artículo 26
 
-El titular de una Autorización, tendrá un plazo de noventa (90) días hábiles después de su otorgamiento para iniciar la obra; en caso de no iniciar la obra, la autorización caducará. Dicho plazo podrá ser prorrogado hasta cuarenta y cinco (45) días, a solicitud del titular. Si en este segundo período no se da inicio a las obras, la Autorización caducará automáticamente, debiendo someter nuevamente la solicitud en ambos casos.
+El titular de una Autorización, tendrá un plazo de noventa (90) días hábiles después de su otorgamiento para iniciar la obra; en caso de no iniciar la obra, la autorización caducará. Dicho plazo podrá ser prorrogado hasta cuarenta y cinco (45) días, a solicitud del titular. Sí en este segundo período no se da inicio a las obras, la Autorización caducará automáticamente, debiendo someter nuevamente la solicitud en ambos casos.
 
 La obra se ejecutará conforme los plazos establecidos en el cronograma. En casos de retrasos por razones de fuerza mayor, éste deberá actualizarse ante el MEM. Durante la ejecución de la obra, el titular de la Autorización deberá asegurar la supervisión de la construcción.
 

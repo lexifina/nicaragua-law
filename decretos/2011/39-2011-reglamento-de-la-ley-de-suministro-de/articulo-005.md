@@ -1,6 +1,6 @@
 # Artículo 5
 
-Los formularios de solicitud de Licencia para cada una de las actividades de la cadena de suministro, serán elaborados por la DGH-MEM y contendrán los siguientes requisitos, los que deberán ser cumplidos por los solicitantes y acompañados por la documentación que se especifica:
+Los formularios de solicitud de Licencia para cada una de las actividades de la cadena de suministro, serán elaborados por la DGH-MEM y contendrán los siguientes requisitos, los que deberán ser cumplidos por los solicitantes y acompañados por la documentación que se especifica;
 
 1. Acreditación legal del solicitante, que comprende:
 
@@ -46,6 +46,6 @@ Los formularios de solicitud de Licencia para cada una de las actividades de la 
 
 15. Certificado de Cumplimiento emitido por la DGH-MEM, en el caso de nuevas instalaciones;
 
-16. Pago del valor no reembolsable de la Licencia estipulado en el artículo 33 numeral 1 de este Reglamento;
+16. Pago del valor no reembolsable de la Licencia estipulado en el Artículo 33 numeral 1 de este Reglamento;
 
-17. La DGH-MEM solicitará otros estudios o documentación con el objetivo de garantizar mayor seguridad de las instalaciones a construir y de protección al ambiente, pobladores, fuentes de agua, según sea el caso conforme a las normas nacionales o internacionales de la industria petrolera aplicables. Para la realización y entrega de estos estudios o documentación, la DGH - MEM concederá un plazo razonable y suficiente. Este plazo no será contabilizado para las partes.
+17. La DGH-MEM solicitará otros estudios o documentación con el objetivo de garantizar mayor seguridad de las instalaciones a construir y de protección al ambiente, pobladores, fuentes de agua, según sea el caso conforme a las normas nacionales o internacionales de la industria petrolera aplicables. Para la realización y entrega de estos estudios o documentación, la DGH-MEM concederá un plazo razonable y suficiente. Este plazo no será contabilizado para las partes.
