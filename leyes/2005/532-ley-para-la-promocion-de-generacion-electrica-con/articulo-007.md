@@ -16,7 +16,7 @@ La compra de paneles y baterías solares.
 
 En el caso de los proyectos denominados Sistemas Aislados con generación propia, esta exoneración cubre sus labores de pre inversión, las de construcción de las obras para generación con fuentes renovables y las de la construcción de las líneas de subtransmisión y todas las inversiones en distribución asociadas al proyecto.
 
-3. Exoneración del pago del Impuesto sobre la Renta (IR) y del pago mínimo definido del IR establecido en la Ley Nº. 822, Ley de Concertación Tributaria, por un período máximo de 7 años a partir de la entrada de operación comercial o mercantil del Proyecto. Igualmente, durante este mismo periodo estarán exentos del pago del IR los ingresos derivados por venta de bonos de dióxido de carbono.
+3. Exoneración del pago del Impuesto sobre la Renta (IR) y del pago mínimo definido del IR establecido en la Ley N°. 822, Ley de Concertación Tributaria, por un período máximo de 7 años a partir de la entrada de operación comercial o mercantil del Proyecto. Igualmente, durante este mismo periodo estarán exentos del pago del IR los ingresos derivados por venta de bonos de dióxido de carbono.
 
 4. Exoneración de todos los Impuestos Municipales vigentes sobre bienes inmuebles, ventas, matrículas durante la construcción del Proyecto, por un período de 10 años a partir de la entrada en operación comercial del Proyecto, la que se aplicará de la forma siguiente: exoneración del 75% en los tres primeros años; del 50% en los siguientes cinco años y el 25% en los dos últimos años.
 

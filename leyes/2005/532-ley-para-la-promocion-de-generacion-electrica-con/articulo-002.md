@@ -2,7 +2,7 @@
 
 Definiciones
 
-Para los efectos de esta Ley se establecen las siguientes definiciones adicionales a las incorporadas en la Ley de la Industria Eléctrica y sus Reformas:
+Para los efectos de esta Ley se establecen las siguientes definiciones adicionales a las incorporadas en la Ley N°. 272, Ley de la Industria Eléctrica:
 
 AGENTE ECONÓMICO: Según definido por la LIE, es toda persona natural o jurídica calificada, domiciliada en el país, que desarrolla actividades definidas en la industria eléctrica bajo cualquier régimen de propiedad.
 
@@ -14,7 +14,7 @@ PGEFR: Proyecto de Generación Eléctrica con Fuentes Renovables que desarrolla 
 
 MARENA: Es el Ministerio del Ambiente y de los Recursos Naturales.
 
-LIE: Ley de la Industria Eléctrica y sus reformas.
+LIE; Ley N°. 272, Ley de la Industria Eléctrica.
 
 MHCP: Ministerio de Hacienda y Crédito Público.
 
@@ -22,7 +22,7 @@ PERÍODO DE PRE INVERSIÓN DE UN PGEFR: Período en el cual se realizan las acti
 
 SISTEMA AISLADO: Según definido por la LIE, es la central o conjunto de centrales de generación eléctrica y sistemas de transmisión y distribución que no se encuentran interconectados al Sistema Nacional de Transmisión.
 
-PERÍODO DE INVERSIÓN DE UN PGEFR: Período en el cual se realizan las actividades correspondientes a la construcción del Proyecto. Inicia al finalizar el período de pre inversión y al iniciarse efectivamente las operaciones de construcción y culmina cuando se empieza la operación comercial. Este período se establecerá según el Plan de Ejecución que presente el agente económico al Ministerio de Energía y Minas el cual constatará su desarrollo.
+PERÍODO DE INVERSIÓN DE UN PGEFR: Período en el cual se realizan las actividades correspondientes a la construcción del Proyecto. Inicia al finalizar el período de pre inversión y al iniciarse efectivamente las operaciones de construcción y culmina cuando se empieza la operación comercial. Este periodo se establecerá según el Plan de Ejecución que presente el agente económico al Ministerio de Energía y Minas el cual constatará su desarrollo.
 
 FECHA DE INICIO DE OPERACIÓN (FIO): Fecha en que el proyecto inicia la operación comercial según establecido por el Ministerio de Energía y Minas.
 
@@ -42,4 +42,4 @@ e) Residuos sólidos de basuras municipales o de otros: Los residuos sólidos ur
 
 f) Biogás producido por cualquiera de estas fuentes.
 
-CERTIFICADO DE REDUCCIÓN DE EMISIONES: Son las constancias que acreditan los beneficios ambientales de la reducción o el desplazamiento de emisiones de gases con efectos invernaderos, a que se refiere la Convención Marco de las Naciones U ni das para el cambio climático y el protocolo de Kioto aprobado mediante Decretos A.N. Nº. 1010 de 1995 y Nº. 2295 de 1999, debidamente certificados como dióxido de carbono (C02) equivalente por año por entidades facultadas y capacitadas para el monitoreo y verificación de las mismas, de conformidad con los procedimientos establecidos por la Oficina Nacional de Desarrollo Limpio (ONDL).
+CERTIFICADO DE REDUCCIÓN DE EMISIONES: Son las constancias que acreditan los beneficios ambientales de la reducción o el desplazamiento de emisiones de gases con efectos invernaderos, a que se refiere la Convención Marco de las Naciones Unidas para el cambio climático y el protocolo de Kioto aprobado mediante Decretos A. N. N°. 1010 de 1995 y N°. 2295 de 1999, debidamente certificados como dióxido de carbono (CO,) equivalente por año por entidades facultadas y capacitadas para el monitoreo y verificación de las mismas, de conformidad con los procedimientos establecidos por la Oficina Nacional de Desarrollo Limpio (ONDL).
