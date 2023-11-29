@@ -1,6 +1,6 @@
 # Artículo 84
 
-Para registro de Derechos de Propiedad Intelectual, la ó el solicitante deberá presentar un aval que demuestre la autenticidad de los estudios realizados sobre conocimientos, prácticas y recursos biológicos que impliquen el uso de la diversidad biológica.
+Para registro de Derechos de Propiedad Intelectual, la o el solicitante deberá presentar un aval que demuestre la autenticidad de los estudios realizados sobre conocimientos, prácticas y recursos biológicos que impliquen el uso de la diversidad biológica.
 
 Dicho aval será emitido por la Dirección de Biodiversidad, quien emitirá un certificado de revelación de origen para lo referente al otorgamiento de autorizaciones y derecho de patente de recursos genéticos.
 

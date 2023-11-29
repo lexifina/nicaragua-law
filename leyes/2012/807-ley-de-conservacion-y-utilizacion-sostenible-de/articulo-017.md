@@ -1,10 +1,10 @@
 # Artículo 17
 
-Constituyen instrumentos de planificación nacional de la diversidad biológica, además de los previstos en la Ley No. 217, “Ley General del Medio Ambiente y los Recursos Naturales”, los siguientes:
+Constituyen instrumentos de planificación nacional de la diversidad biológica, además de los previstos en la Ley N°. 217, Ley General del Medio Ambiente y los Recursos Naturales, los siguientes:
 
 1. La Estrategia Nacional de Diversidad Biológica;
 
-2. El Plan Nacional de Desarrollo Humano;
+2. El Plan Nacional de Lucha contra la Pobreza para el Desarrollo Humano;
 
 3. El Sistema de Evaluación Ambiental;
 

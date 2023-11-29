@@ -2,7 +2,7 @@
 
 Son parte del Contrato de Permiso de Acceso:
 
-1. El Estado, representado por la entidad competente y la autoridad indígena y afro descendientes, en el caso de sus territorios; y
+1. El Estado, representado por la entidad competente y la autoridad indígena y afrodescendientes, en el caso de sus territorios; y
 
 2. La persona solicitante, interesada en el recurso genético.
 

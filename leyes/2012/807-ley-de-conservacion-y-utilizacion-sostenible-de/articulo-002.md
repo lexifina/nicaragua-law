@@ -1,6 +1,6 @@
 # Artículo 2
 
-Son objetivos específicos de la presente ley:
+Son objetivos específicos de la presente Ley:
 
 1. Establecer los mecanismos para la utilización sostenible de los componentes de la diversidad biológica;
 

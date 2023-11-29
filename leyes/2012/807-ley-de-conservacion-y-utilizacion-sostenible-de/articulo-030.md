@@ -6,7 +6,7 @@ Los ingresos a la Cuenta de la Diversidad Biológica se destinarán de manera pr
 
 2. Creación de capacidades institucionales para el monitoreo, regulación y control del uso y manejo de los recursos de diversidad biológica;
 
-3. Desarrollo de tecnologías tradicionales, la ampliación de los conocimientos, innovaciones y prácticas de hombres y mujeres de pueblos indígenas y afro descendientes, comunidades étnicas y locales;
+3. Desarrollo de tecnologías tradicionales, la ampliación de los conocimientos, innovaciones y prácticas de hombres y mujeres de pueblos indígenas y afrodescendientes, comunidades étnicas y locales;
 
 4. Proyectos de investigación sobre el uso tradicional de los recursos biológicos con plena participación, equidad social y de género respetando los derechos de quienes guardan estos conocimientos;
 

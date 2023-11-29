@@ -12,6 +12,4 @@ Son instrumentos para la gestión de la diversidad biológica y de los conocimie
 
 5. La Cuenta de la Diversidad Biológica del Fondo Nacional Ambiental.
 
-Sección I
-
-De la planificación
+DE LA PLANIFICACIÓN

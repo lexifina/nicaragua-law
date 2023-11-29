@@ -18,4 +18,4 @@ La presente Ley es aplicable a:
 
 8. Repatriación de los recursos genéticos que hayan sido extraídos del país incumpliendo los requisitos de las normas nacionales; y
 
-9. Los conocimientos y prácticas tradicionales de los pueblos originarios, pueblos indígenas y afro descendientes, comunidades étnicas y locales para la conservación y uso sostenible de la diversidad biológica.
+9. Los conocimientos y prácticas tradicionales de los pueblos originarios, pueblos indígenas y afrodescendientes, comunidades étnicas y locales para la conservación y uso sostenible de la diversidad biológica.

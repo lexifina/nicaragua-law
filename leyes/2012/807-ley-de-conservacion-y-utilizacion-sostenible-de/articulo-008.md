@@ -4,7 +4,7 @@ La presente Ley, se regirá por los siguientes principios:
 
 1. Principio de sostenibilidad: Constituye un deber del Estado y de los particulares la utilización de los componentes de la diversidad biológica, de manera que se asegure una productividad sostenible compatible con su equilibrio e integridad para satisfacer las necesidades y las aspiraciones de las generaciones actuales y futuras.
 
-2. Principio de respeto a la vida en todas sus formas. Todos los seres vivos tienen derecho a la vida, independientemente del valor económico actual o potencial.
+2. Principio de respeto a la vida en todas sus formas: Todos los seres vivos tienen derecho a la vida, independientemente del valor económico actual o potencial.
 
 3. Principio de acción responsable: Hay factores que ejercen influencia sobre al ambiente y hay otros que lo regulan, sobre estos últimos recae la acción responsable incluyendo leyes, administración, políticas, responsabilidad cívica, decisiones de productores y consumidores, y todo aquello que regule la interacción humana con el ambiente.
 
@@ -24,6 +24,4 @@ La presente Ley, se regirá por los siguientes principios:
 
 11. Principio meritorio: Los elementos de la diversidad biológica son bienes meritorios ya que tienen importancia decisiva y estratégica para el desarrollo del país y son indispensables para el uso doméstico, económico, social, cultural y estético de sus habitantes.
 
-Capítulo III
-
-Definiciones básicas
+DEFINICIONES BÁSICAS

@@ -1,6 +1,6 @@
 # Artículo 12
 
-Sin perjuicio de las atribuciones establecidas en la Ley No. 290, “Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo”, y en la Ley No. 217, “Ley General del Medio Ambiente y los Recursos Naturales”, publicada en La Gaceta, Diario Oficial No. 105 del 6 de Junio de 1996, para efectos de esta Ley se establecen a la entidad competente las siguientes atribuciones:
+Sin perjuicio de las atribuciones establecidas en la Ley N°. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, y en la Ley N°. 217, Ley General del Medio Ambiente y los Recursos Naturales, para efectos de esta Ley se establecen a la entidad competente las siguientes atribuciones:
 
 1. Elaborar las Normas Técnicas Obligatorias y jurídicas específicas necesarias que garanticen la conservación, aprovechamiento y uso sostenible de la diversidad biológica;
 
@@ -44,6 +44,4 @@ Sin perjuicio de las atribuciones establecidas en la Ley No. 290, “Ley de Orga
 
 21. Supervisar y regular la bioprospección y el acceso a los recursos genéticos de diversidad biológica.
 
-Capítulo V
-
-Del comité técnico de diversidad biológica
+DEL COMITÉ TÉCNICO DE DIVERSIDAD BIOLÓGICA

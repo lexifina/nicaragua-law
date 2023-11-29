@@ -1,6 +1,6 @@
 # Artículo 73
 
-La ó el solicitante está obligado a informar y solicitar autorización de la entidad competente respecto de:
+La o el solicitante está obligado a informar y solicitar autorización de la entidad competente respecto de:
 
 1. Cesión y transferencia a terceros de la autorización de acceso, manejo o uso de los recursos genéticos;
 

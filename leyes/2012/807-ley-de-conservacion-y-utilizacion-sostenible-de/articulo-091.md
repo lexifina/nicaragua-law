@@ -12,6 +12,4 @@ El Estado promoverá la investigación científica al menos en los siguientes te
 
 5. Restauración de las zonas degradadas.
 
-Capítulo XVII
-
-De las infracciones y sanciones
+DE LAS INFRACCIONES Y SANCIONES
