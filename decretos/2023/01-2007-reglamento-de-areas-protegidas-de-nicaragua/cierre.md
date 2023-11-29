@@ -1,0 +1,9 @@
+Dado en la ciudad de Managua, Casa Presidencial, el ocho de enero del año dos mil siete. ENRIQUE BOLAÑOS GEYER, Presidente de la República de Nicaragua.
+
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por: 1. Ley N°. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo, publicada en La Gaceta, Diario Oficial N° 102 del 3 de junio de 1998; 2. Decreto Ejecutivo N°. 26-2007, Reforma al Decreto N° 01-2007, Reglamento de Áreas Protegidas de Nicaragua, publicado en La Gaceta, Diario Oficial N°. 63 del 29 de marzo de 2007; 3. Decreto Ejecutivo N°. 11-2012, Reforma al Decreto N°. 01-2007 Reglamento de Áreas Protegidas de Nicaragua, publicado en La Gaceta, Diario Oficial N°. 86 del 10 de mayo de 2012; 4. Ley N°. 854, Ley de Reforma Parcial a la Constitución Política de la República de Nicaragua, publicada en La Gaceta, Diario Oficial N°. 26 del 10 de febrero de 2014; 5. Ley N°. 926, Ley de Reforma a la Ley N° 28, Estatuto de la Autonomía de las Regiones de la Costa Caribe de Nicaragua, publicada en La Gaceta, Diario Oficial N°. 59 del 31 de marzo de 2016; y 6. Ley N°. 1115, Ley General de Regulación y Control de Organismos Sin Fines de Lucro, publicada en La Gaceta, Diario Oficial N°. 66 del 6 de abril de 2022.
+
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los veintisiete días del mes de septiembre del año dos mil veintitrés. Dip. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+
+Observación: El Texto Consolidado del Decreto Ejecutivo N°. 01-2007, Reglamento de Áreas Protegidas de Nicaragua, se encuentra incorporado en el Anexo IV, Registro de Normas Consolidadas de la Ley del Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales.
+
+.
