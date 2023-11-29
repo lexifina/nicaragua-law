@@ -1,10 +1,18 @@
-“CREACIÓN DE UNIDADES DE GESTIÓN AMBIENTAL”
+TEXTO CONSOLIDADO, DECRETO EJECUTIVO N°. 68-2001, CREACIÓN DE UNIDADES DE GESTIÓN AMBIENTAL
 
-DECRETO EJECUTIVO N°. 68-2001, aprobado el 12 de julio de 2001
+DECRETO EJECUTIVO N°. 68-2001, aprobado el 27 de septiembre de 2023
 
-Publicado en La Gaceta, Diario Oficial N°. 144 del 31 de julio del 2001
+Publicado en La Gaceta, Diario Oficial N°. 217 del 29 de noviembre de 2023
 
-EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+ASAMBLEA NACIONAL
+
+Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 27 de septiembre de 2023, del Decreto Ejecutivo Nº. 68-2001, Creación de Unidades de Gestión Ambiental y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, y la Ley Nº. 1163, Ley del Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales, aprobada el 27 de septiembre de 2023.
+
+DECRETO N°. 68-2001
+
+El Presidente de la República de Nicaragua
 
 CONSIDERANDO:
 
@@ -18,7 +26,7 @@ Que la gestión ambiental se entiende como la “Administración del uso y manej
 
 III
 
-Que la Ley No. 217, “Ley General del Medio Ambiente y los Recursos Naturales”, en su Artículo 11 define como instrumentos para la Gestión Ambiental, el conjunto de políticas, directrices, normas técnicas y legales, actividades, programas, proyectos e instituciones que permiten la aplicación de los principios generales ambientales y la consecución de los objetivos ambientales del país.
+Que la Ley N°. 217, “Ley General del Medio Ambiente y los Recursos Naturales”, en su Artículo 11 define como instrumentos para la Gestión Ambiental, el conjunto de políticas, directrices, normas técnicas y legales, actividades, programas, proyectos e instituciones que permiten la aplicación de los principios generales ambientales y la consecución de los objetivos ambientales del país.
 
 IV
 
@@ -26,7 +34,7 @@ Que es imprescindible reconocer el carácter sistémico y transsectorial de la g
 
 V
 
-Que una efectiva gestión ambiental implica además del enfoque preventivo, la participación ciudadana, el trabajo multidisciplinario e interdisciplinario, la actuación Intersectorial, la desconcentración vertical y horizontal así como la descentralización y coordinación Municipal .
+Que una afectiva gestión ambiental implica además del enfoque preventivo, la participación ciudadana, el trabajo multidisciplinario e interdisciplinario, la actuación intersectorial, la desconcentración vertical y horizontal así como la descentralización y coordinación Municipal.
 
 VI
 
@@ -44,7 +52,7 @@ HA DICTADO
 
 El siguiente Decreto de:
 
-“CREACIÓN DE UNIDADES DE GESTIÓN AMBIENTAL”
+CREACIÓN DE UNIDADES DE GESTIÓN AMBIENTAL
 
 CAPITULO I
 

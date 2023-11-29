@@ -8,6 +8,6 @@ b) Unidades Sectoriales de Gestión Ambiental: Entendiéndose como tales las uni
 
 c) Unidades Municipales de Gestión Ambiental: Se podrán formar en las Alcaldías, para apoyar y asegurar la gestión Municipal en lo referente a regulaciones y políticas nacionales en el ámbito de las atribuciones propias del Municipio y de conformidad con las leyes respectivas.
 
-d) Unidades de Gestión Ambiental de entes sin mandato regulatorio: Se forman en Entes, programas y proyectos gubernamentales y no gubernamentales, en empresas y otras instancias organizativas sin atribuciones normativas-reguladoras.
+d) Unidades de Gestión Ambiental de entes sin mandato regulatorio: Se forman en Entes, programas y proyectos gubernamentales y Organismos Sin Fines de Lucro, en empresas y otras instancias organizativas sin atribuciones normativas reguladoras.
 
 DE LAS FUNCIONES DE LAS UNIDADES DE GESTIÓN AMBIENTAL
