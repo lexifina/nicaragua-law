@@ -1,6 +1,6 @@
 # Artículo 106
 
-El dueño del predio sirviente tendrá derecho a que se le pague:
+El dueño del predio sirviente tendrá derecho a que se le pague;
 
 1) La compensación por la ocupación de los terrenos necesarios para la constitución de la servidumbre.
 

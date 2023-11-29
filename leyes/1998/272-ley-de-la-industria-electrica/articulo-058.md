@@ -14,6 +14,8 @@ El Centro Nacional de Despacho de Carga, tiene las siguientes funciones:
 
 6) Obtener y procesar la información necesaria para cumplir con sus funciones, así como elaborar informes periódicos respecto a la operación real y proyectada del SIN, para ser presentados a los Agentes Económicos del sector, al Ministerio de Energía y Minas y al Instituto Nicaragüense de Energía.
 
-7) Informar al Ministerio de Energía y Minas y al Instituto Nicaragüense de Energía sobre las violaciones o conductas contrarias al Reglamento de Operación del SIN.
+7) Informar al Ministerio de Energía y Minas y al Instituto Nicaragüense de Energía sobre las violaciones o conductas contrarias al Reglamento de Operación del SIN,
 
 8) Cualquier otra función relacionada con sus objetivos.
+
+9) Coordinar con el Ente Operador Regional (EOR) la operación y transacciones comerciales relacionadas con la importación y exportación de energía eléctrica.

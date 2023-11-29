@@ -14,11 +14,11 @@ El Reglamento General de la presente Ley y la Normativa de Servicio Eléctrico d
 
 6) Ser atendido por la Empresa Distribuidora en las consultas o reclamos que formule, en el menor plazo posible.
 
-7) Recurrir ante el INE cuando los niveles de servicio sean inferiores a los establecidos y la Empresa Distribuidora no hubiera atendido su reclamo en tiempo oportuno.
+7) Recurrir ante el INE cuando los niveles de servicio sean inferiores a tos establecidos y la Empresa Distribuidora no hubiera atendido su reclamo en tiempo oportuno.
 
 8) Recurrir ante el INE, de conformidad con el procedimiento establecido en la Normativa de Servicio Eléctrico, cuando las resoluciones de sus reclamos ante la Empresa Distribuidora o cualquier acción del mismo no le sean satisfactorias.
 
-9) Solicitar al INE la inspección y calibración de su equipo de medición, de conformidad con el procedimiento establecido en la Normativa de Servicio Eléctrico.
+9) Solicitar al INE la inspección y calibración de su equipo de medición, de conformidad con el procedimiento establecido en ia Normativa de Servicio Eléctrico.
 
 10) Ser informado, con suficiente antelación y a través de un medio de comunicación social, de las áreas o comunidades que serán objeto de cortes de fluido eléctrico.
 
@@ -28,4 +28,4 @@ Mientras dure el procedimiento, la empresa distribuidora deberá seguir prestand
 
 Se prohíbe el examen o inspección del medidor que utilice el consumidor o cliente, sin su autorización previa y con conocimiento pleno de cuáles son las causas supuestas por las que se pretende realizar la inspección, el INE deberá enviar un perito a fin de que opine sobre el estado en que se encontró el equipo de medición.
 
-La Normativa de Servicio Eléctrico y en especial las tarifas autorizadas deberán ser del conocimiento de los clientes, por tanto deberá publicarse en dos diarios de circulación nacional y estar a disposición de los clientes en todas las sucursales de las empresas distribuidoras.
+La Normativa de Servicio Eléctrico y en especial las tarifas autorizadas deberán ser del conocimiento de los clientes, por tanto, deberá publicarse en La Gaceta, Diario Oficial y estar a disposición de los clientes en todas las sucursales de las empresas distribuidoras.

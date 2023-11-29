@@ -37,3 +37,5 @@ El contrato de concesión o de licencia deberá contener entre otras, las siguie
 17) Lugar y fecha de otorgamiento.
 
 18) Mecanismo a aplicar y destino de los activos al finalizar el plazo de la concesión o licencia.
+
+Para los contratos de licencia de importación y/o exportación se aplicarán los numerales 1), 2), 3), 6), 7), 8), 10), 11), 12), 13), 14), 15), 16) y 17) antes referidos. En relación con el numeral 5), se debe asegurar un cronograma de compras y/o ventas anuales en el Mercado Eléctrico Regional, dependiendo de las necesidades del país.
