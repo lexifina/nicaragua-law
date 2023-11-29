@@ -10,4 +10,4 @@ c) Llevar en legajos foliados las certificaciones extendidas a los CAPS con una 
 
 d) Coordinar a nivel de municipio las actividades de atención a los CAPS, con los niveles locales del FISE, MINSA, ENACAL, MARENA, INIFOM, INAFOR y otras instituciones u organismos.
 
-Certificado Municipal a favor de los CAPS.
+CERTIFICADO MUNICIPAL A FAVOR DE LOS CAPS

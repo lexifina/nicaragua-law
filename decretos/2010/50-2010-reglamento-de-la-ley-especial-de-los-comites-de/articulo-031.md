@@ -8,8 +8,8 @@ a) Copia simple de acta de constitución.
 
 b) Certificado de Registro Central de los CAPS.
 
-c) En caso de que el trámite no lo realice el Presidente, deberá presentar autorización de la Junta Directiva certificada donde se le otorga poder para realizar el Trámite de la Exención
+c) En caso de que el trámite no lo realice el Presidente, deberá presentar autorización de la Junta Directiva certificada donde se le otorga poder para realizar el Trámite de la Exención.
 
 d) Copia de los últimos tres recibos pagados del servicio de energía eléctrica.
 
-e) Número de Identificación del Servicio (NIS)
+e) Número de Identificación del Servicio (NIS).
