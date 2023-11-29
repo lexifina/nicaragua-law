@@ -6,4 +6,4 @@ Las concesiones caducan antes de entrar en explotación en los siguientes casos:
 
 2. Si no se ejecutaren las obras señaladas en el Acuerdo de Concesión, necesarias para la explotación del servicio de conformidad a lo establecido en el plan de desarrollo.
 
-La caducidad será declarada por el Consejo de Dirección de INAA, mediante Resolución.
+La caducidad será declarada por el Consejo de Dirección de la ANA, mediante Resolución.

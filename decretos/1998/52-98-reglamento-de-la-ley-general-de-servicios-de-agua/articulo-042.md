@@ -1,6 +1,6 @@
 # Artículo 42
 
-INAA, organizará y llevará un Registro Público de Concesiones de Agua Potable y Alcantarillado Sanitario. Para la organización y correcto funcionamiento de este Registro, INAA emitirá una Normativa Especial, debiendo contener al menos la organización, funcionamiento, instrumentos y procedimientos del mismo, en un plazo máximo de seis (6) meses de la entrada en vigencia de este Reglamento. En el registro se mantendrá la información actualizada de cada concesión, conteniendo entre otros aspectos los siguientes:
+La ANA, organizará y llevará un Registro Público de Concesiones de Agua Potable y Alcantarillado Sanitario. Para la organización y correcto funcionamiento de este Registro, la ANA emitirá una Normativa Especial, debiendo contener al menos la organización, funcionamiento, instrumentos y procedimientos del mismo, en un plazo máximo de seis (6) meses de la entrada en vigencia de este Reglamento. En el registro se mantendrá la información actualizada de cada concesión, conteniendo entre otros aspectos los siguientes:
 
 1. Acuerdo de Concesión y sus antecedentes.
 
@@ -18,6 +18,6 @@ INAA, organizará y llevará un Registro Público de Concesiones de Agua Potable
 
 8. Inventario actualizado de los bienes del servicio público, régimen jurídico de propiedad e identificación de los titulares de los bienes.
 
-9. Aprobación de las Regiones Autónomas de la Costa Atlántica u opinión de los Municipios en su caso.
+9. Aprobación de las Regiones Autónomas de la Costa Caribe u opinión de los Municipios en su caso.
 
 CONSTRUCCIÓN Y OPERACIÓN DE OBRAS NUEVAS DE LA CONCESIÓN

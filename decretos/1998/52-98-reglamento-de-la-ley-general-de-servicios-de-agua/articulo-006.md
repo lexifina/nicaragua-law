@@ -1,8 +1,8 @@
 # Artículo 6
 
-En lo que se refiere a la operación de los sistemas de menos de quinientas (500) conexiones de agua potable, éstos se regirán por un régimen especial, que estará contenido en una normativa de inversiones, construcción, operación, mantenimiento y administración de acueductos. Estos sistemas comprenden los administrador por:
+En lo que se refiere a la operación de los sistemas de menos de quinientas (500) conexiones de agua potable, estos se regirán por un régimen especial, que estará contenido en una normativa de inversiones, construcción, operación, mantenimiento y administración de acueductos. Estos sistemas comprenden los administrados por:
 
-1. Empresa Nicaragüense de Acueductos y Alcantarillados Sanitarios (ENACAL) .
+1. Empresa Nicaragüense de Acueductos y Alcantarillados Sanitarios (ENACAL).
 
 2. Gobiernos municipales.
 
