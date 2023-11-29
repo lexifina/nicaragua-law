@@ -1,6 +1,6 @@
 # Artículo 9
 
-Como lineamientos de GESTIÓN DE RIESGOS se establecen los siguientes:
+Como Lineamientos de gestión de riesgos se establecen los siguientes:
 
 1. Fortalecer la capacidad institucional para realizar la evaluación de riesgos para la salud y el ambiente.
 

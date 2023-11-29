@@ -1,6 +1,6 @@
 # Artículo 4
 
-Son objetivos específicos de la presente política los siguientes:
+Son objetivos específicos de la presente Política los siguientes:
 
 1. Determinar los principios y lineamientos para una gestión eficiente de las sustancias y residuos peligrosos, a lo largo de su ciclo de vida, que garantice un nivel elevado de protección a la salud humana y el ambiente, tanto para la generación actual como para las futuras.
 

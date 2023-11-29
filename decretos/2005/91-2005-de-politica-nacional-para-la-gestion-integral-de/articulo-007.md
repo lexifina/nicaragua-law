@@ -1,6 +1,6 @@
 # Artículo 7
 
-Como lineamientos INSTITUCIONALES se establecen los siguientes:
+Como Lineamientos institucionales se establecen los siguientes:
 
 1. Implementar un sistema de gestión de sustancias y residuos peligrosos eficiente a lo largo de su ciclo de vida, con la participación de las autoridades involucradas de conformidad con sus competencias y de representantes de la sociedad civil.
 

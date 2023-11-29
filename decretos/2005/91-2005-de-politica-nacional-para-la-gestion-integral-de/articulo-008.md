@@ -1,6 +1,6 @@
 # Artículo 8
 
-Como lineamientos LEGALES se establecen los siguientes:
+Como Lineamientos legales se establecen los siguientes:
 
 1. Actualizar y complementar el marco legal nacional con el objeto de facilitar el proceso de implementar la gestión eficiente de las sustancias y residuos peligrosos a lo largo de su ciclo de vida y todas las etapas en su proceso de transformación y superar las dificultades de competencias, duplicidad de funciones y facilitar la coordinación interinstitucional.
 
