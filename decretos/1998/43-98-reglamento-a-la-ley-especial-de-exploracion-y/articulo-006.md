@@ -1,6 +1,6 @@
 # Artículo 6
 
-Los interesados en obtener un permiso, deberán presentar ante la Dirección General de Hidrocarburos del MEM, el instrumento que demuestren el cumplimiento de lo establecido en el Artículo uno (1) bis de la presente reforma, en el que conste la participación de ENIH; los requisitos prescritos en el Artículo 10 de la ley, y la siguiente información particular:
+Los interesados en obtener un permiso, deberán presentar ante la Dirección General de Hidrocarburos del MEM, el instrumento que demuestren el cumplimiento de lo establecido en el Artículo uno (1) bis del presente Reglamento, en el que conste la participación de ENIH; los requisitos prescritos en el Artículo 10 de la Ley, y la siguiente información particular:
 
 A) PERSONA NATURAL:
 
@@ -20,7 +20,7 @@ B) PERSONA JURÍDICA:
 
 1. Nombre, razón social o denominación de la misma y domicilio.
 
-2. Antecedentes legales acerca de la constitución, naturaleza jurídica y nacionalidad de la sociedad o corporación. Deberá anexarse la documentación probatoria. En caso de empresas extranjeras, la documentación deberá ser autenticada de tal manera que pueda surtir efectos legales en Nicaragua.
+2, Antecedentes legales acerca de la constitución, naturaleza jurídica y nacionalidad de la sociedad o corporación. Deberá anexarse la documentación probatoria. En caso de empresas extranjeras, la documentación deberá ser autenticada de tal manera que pueda surtir efectos legales en Nicaragua.
 
 3. Objeto de la sociedad.
 

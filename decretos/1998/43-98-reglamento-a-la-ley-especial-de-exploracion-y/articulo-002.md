@@ -16,9 +16,7 @@ GARANTÍA O FIANZA DE MANTENIMIENTO DE OFERTA: Obligación accesoria que el ofer
 
 MEM: Ministerio de Energía y Minas.
 
-LEY: Ley Especial de Exploración y Explotación de Hidrocarburos Nº. 286 publicada en el Diario Oficial, La Gaceta Nº. 109 del 12 de junio de 1998.
-
-MARENA: Ministerio del Ambiente y de los Recursos Naturales
+LEY: Ley N°. 286, Ley Especial de Exploración y Explotación de Hidrocarburos. MARENA: Ministerio del Ambiente y de los Recursos Naturales
 
 PERMISO: Autorización de Reconocimiento Superficial.
 

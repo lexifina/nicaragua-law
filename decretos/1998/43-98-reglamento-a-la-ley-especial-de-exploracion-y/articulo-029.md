@@ -2,7 +2,7 @@
 
 Cada convocatoria para concurrencia de ofertas, deberá contener como mínimo:
 
-1. Indicación de que toda persona, natural o jurídica, nacional o extranjera, debidamente pre-calificada podrá presentar ofertas.
+1. Indicación de que toda persona, natural o jurídica, nacional o extranjera, debidamente precalificada podrá presentar ofertas.
 
 2. Designación de las oficinas en donde estarán a la disposición de los interesados, los Documentos de Presentación de Ofertas, los que deberán contener las bases del concurso, especificaciones técnicas mínimas, delimitación del área o áreas y el tipo de Contrato Modelo que se pretende celebrar.
 
@@ -16,7 +16,9 @@ Cada convocatoria para concurrencia de ofertas, deberá contener como mínimo:
 
 7. Síntesis de la información y documentación que el oferente debe presentar.
 
-8. Monto de la Garantía de Mantenimiento de Oferta y la forma en que dicha Garantía debe hacerse efectiva a favor del Ministerio de Energía y Minas. 9. Precio de los documentos de presentación de oferta los cuales podrán ser adquiridos únicamente por los interesados previamente calificados.
+8. Monto de la Garantía de Mantenimiento de Oferta y la forma en que dicha Garantía debe hacerse efectiva a favor del Ministerio de Energía y Minas.
+
+9. Precio de los documentos de presentación de oferta los cuales podrán ser adquiridos únicamente por los interesados previamente calificados.
 
 10. Indicación de la existencia de información geológica y geofísica relativa al área o áreas bajo oferta, disponible para ser adquirida a opción de los interesados.
 

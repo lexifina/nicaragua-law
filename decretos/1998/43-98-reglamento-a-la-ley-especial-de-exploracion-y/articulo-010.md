@@ -1,10 +1,10 @@
 # Artículo 10
 
-Si la solicitud se resolviese positivamente, la Resolución del Permiso, deberá contener:
+SÍ la solicitud se resolviese positivamente, la Resolución del Permiso, deberá contener:
 
 1) Las coordenadas exactas del área en la cual podrá llevar a cabo el reconocimiento superficial cuyo permiso se otorga.
 
-2) Las operaciones autorizadas que podrán realizarse de conformidad con el programa de trabajo aprobado.
+2) Las operaciones autorizadas que podrán realizarse de conformidad con el programa de trabajo aprobado,
 
 3) Plazo del Permiso y plazo en que deberán iniciarse los trabajos.
 
