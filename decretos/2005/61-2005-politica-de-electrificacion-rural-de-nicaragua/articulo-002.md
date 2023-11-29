@@ -1,10 +1,8 @@
 # Artículo 2
 
-Principios
+Principios Son principios rectores de la Política de Electrificación Rural, además de los contenidos en las leyes de la materia, los siguientes:
 
-Son principios rectores de la Política de Electrificación Rural, además de los contenidos en las leyes de la materia, los siguientes:
-
-1. Estar acorde con la Constitución Política, las Leyes de la República, el Plan Nacional de Desarrollo y la Política Energética Nacional, además de las políticas económicas, sociales y ambientales del Estado.
+1. Estar acorde con la Constitución Política de la República de Nicaragua, las Leyes de la República, el Plan Nacional de Lucha Contra la Pobreza y para el Desarrollo Humano y la Política Energética Nacional, además de las políticas económicas, sociales y ambientales del Estado.
 
 2. Servir de guía para asegurar que el Estado a través del Ministerio de Energía y Minas (MEM) procure la máxima expansión de la cobertura eléctrica en las áreas rurales.
 

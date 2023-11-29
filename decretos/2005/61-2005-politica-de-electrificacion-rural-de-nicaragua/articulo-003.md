@@ -26,7 +26,7 @@ Promover la identificación y el uso de las fuentes de energía renovables para 
 
 4. De la Coordinación con otras Instituciones y Organizaciones
 
-4.1 La planificación y coordinación de los proyectos de electrificación rural deberá ser armonizada con los Planes de Desarrollo Departamental y Municipal.
+4.1 La planificación y coordinación de los proyectos de electrificación rural deberá ser armonizada con los Planes de Desarrollo Departamental y Municipal,
 
 4.2 Promover la cooperación de las autoridades municipales y de la población para facilitar la ejecución de los proyectos de electrificación de su comunidad.
 
@@ -60,15 +60,13 @@ Promover la identificación y el uso de las fuentes de energía renovables para 
 
 8.1 En el área concesionada
 
-8.1.1 La expansión del servicio eléctrico en las actuales áreas de conces10n a partir del SIN deberá ser preferiblemente mediante extensiones de la red de las distribuidoras.
+8. 1.1 La expansión del servicio eléctrico en las actuales áreas de concesión a partir del SIN deberá ser preferiblemente mediante extensiones de la red de las distribuidoras.
 
 8.1.2 Promover la elaboración y el cumplimiento de los Planes de Inversión de las Distribuidoras, en lo que respecta a la expansión de la cobertura eléctrica en su área de concesión.
 
 8.2 En el área no concesionada
 
-8.2.1 Impulsar los proyectos de electrificación rural con generación propia que optimicen la
-
-utilización de los recursos renovables locales.
+8.2.1 Impulsar los proyectos de electrificación rural con generación propia que optimicen la utilización de los recursos renovables locales.
 
 8.2.2 La planificación de la electrificación rural deberá priorizar las zonas con mayor potencial productivo que apoyen el desarrollo del país.
 
