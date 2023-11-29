@@ -1,6 +1,6 @@
 # Artículo 10
 
-Categorías de los CAPS.
+Categorías de los CAPS
 
 Para los efectos de esta Ley, se establecen las siguientes categorías de Comités de Agua Potable y Saneamiento:
 

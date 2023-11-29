@@ -1,8 +1,16 @@
-LEY N°. 722, LEY ESPECIAL DE COMITÉS DE AGUA POTABLE Y SANEAMIENTO
+TEXTO CONSOLIDADO, LEY N°. 722, LEY ESPECIAL DE COMITÉS DE AGUA POTABLE Y SANEAMIENTO
 
-Aprobada el 19 de mayo de 2010
+Aprobado el 27 de septiembre de 2023
 
-Publicada en La Gaceta, Diario Oficial N°. 111 del 14 de junio de 2010
+Publicado en La Gaceta, Diario Oficial N°. 217 del 29 de noviembre de 2023
+
+ASAMBLEA NACIONAL
+
+Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 27 de septiembre de 2023, de la Ley Nº. 722, Ley Especial de Comités de Agua Potable y Saneamiento, y se ordena su publicación en La Gaceta, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense y la Ley Nº. 1163, Ley del Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales, aprobada el 27 de septiembre de 2023
+
+LEY N°. 722
 
 El Presidente de la República de Nicaragua
 
@@ -32,11 +40,11 @@ Que, sin embargo, la mayor parte de estas organizaciones comunitarias funcionan 
 
 V
 
-Que con la participación activa de los Comités de Agua Potable y Saneamiento, se estaría contribuyendo al cumplimiento de los Objetivos de desarrollo del Milenio impulsado por la Organización de las Naciones Unidas, en cuanto a reducir a la mitad, para el 2015, la proporción de personas sin acceso sostenible al agua potable y a servicios básicos de saneamiento.
+Que, con la participación activa de los Comités de Agua Potable y Saneamiento, se estaría contribuyendo al cumplimiento de los Objetivos de Desarrollo del Milenio impulsado por la Organización de las Naciones Unidas, en cuanto a reducir a la mitad, para el 2015, la proporción de personas sin acceso sostenible al agua potable y a servicios básicos de saneamiento.
 
 VI
 
-Que la Ley N°. 620, Ley General de Aguas Nacionales, publicada en La Gaceta, Diario Oficial N°. 169 del 4 de Septiembre del 2007 y su Reglamento, establecen una serie de disposiciones y enunciados generales sobre los Comités de Agua Potable y Saneamiento, que ameritan la aprobación de un marco legal específico sobre el tema qué disponga fundamentalmente lo relacionado a la organización, constitución, legalización y funcionamiento de estas organizaciones comunitarias en el País.
+Que la Ley Nº. 620, Ley General de Aguas Nacionales, publicada en La Gaceta, Diario Oficial Nº. 169 del 4 de septiembre del 2007 y su Reglamento, establecen una serie de disposiciones y enunciados generales sobre los Comités de Agua Potable y Saneamiento, que ameritan la aprobación de un marco legal específico sobre el tema que disponga fundamentalmente lo relacionado a la organización, constitución, legalización y funcionamiento de estas organizaciones comunitarias en el país.
 
 POR TANTO:
 
@@ -44,7 +52,7 @@ En uso de sus facultades
 
 Ha ordenado la siguiente:
 
-Ley N°. 722,
+LEY Nº. 722
 
 LEY ESPECIAL DE COMITÉS DE AGUA POTABLE Y SANEAMIENTO
 

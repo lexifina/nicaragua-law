@@ -1,6 +1,6 @@
 # Artículo 21
 
-Patrimonio de los CAPS existentes.
+Patrimonio de los CAPS existentes
 
 En los casos de CAPS existentes y reconocidos en esta Ley, el patrimonio inicial estará conformado por los bienes muebles e inmuebles, instalaciones, derechos y obligaciones que actualmente les pertenecen o están en posesión.
 

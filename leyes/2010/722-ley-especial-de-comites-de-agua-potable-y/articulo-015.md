@@ -1,6 +1,6 @@
 # Artículo 15
 
-Facultades de los CAPS.
+Facultades de los CAPS
 
 Sin perjuicio de lo que establezcan el Acta Constitutiva, los Estatutos y Reglamentos, respectivos, los Comités de Agua Potable y Saneamiento tendrán las facultades siguientes:
 
