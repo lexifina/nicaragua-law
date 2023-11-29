@@ -1,6 +1,8 @@
 # Artículo 6
 
-FUNCIONES. Corresponde a la Comisión Reserva de Biosfera del Sureste de Nicaragua, las siguientes funciones:
+Funciones
+
+Corresponde a la Comisión Reserva de Biosfera del Sureste de Nicaragua, las siguientes funciones:
 
 a) Proponer políticas y normas para el manejo y protección de la Reserva.
 
