@@ -2,4 +2,12 @@
 
 Publicación
 
-Se ordena la publicación en La Gaceta, Diario Oficial, de los Registros contenidos en los Anexos I, II, III y IV de la presente Ley, así como la publicación de los textos de las normas consolidadas de la Materia de Medio Ambiente y Recursos Naturales.
+Se ordena la publicación en La Gaceta, Diario Oficial de:
+
+a). Anexo I: Registro de Normas Vigentes y sus Textos de Normas Consolidadas;
+
+b). Anexo II: Registro de Instrumentos Internacionales;
+
+c). Anexo III: Registro de Normas sin Vigencia o Derecho Histórico;
+
+d). Anexo IV: Registro de Normas Consolidadas, y sus Textos de Normas Consolidadas

@@ -1,7 +1,7 @@
 # Artículo 9
 
-Actualización de los Registros del Digesto Jurídico de la Materia de Medio Ambiente y Recursos Naturales
+Actualización de los registros del Digesto Jurídico de la Materia de Medio Ambiente y Recursos Naturales
 
-La Dirección General del Digesto Jurídico Nicaragüense de la Asamblea Nacional, de conformidad con los Artículos 4, 27 y 28 de la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, actualizará de forma permanente y sistemática el contenido de este Digesto Jurídico, conforme la aprobación y publicación de nuevas normas jurídicas relacionadas con la materia.
+La Comisión del Medio Ambiente y Recursos Naturales de la Asamblea Nacional, con la asesoría, apoyo y asistencia de la Dirección General del Digesto Jurídico Nicaragüense y de la Dirección General de Asuntos Legislativos, de conformidad con la Ley N°. 963, Ley Digesto Jurídico Nicaragüense, actualizarán de forma permanente y sistemática el contenido de este Digesto Jurídico, conforme la identificación y verificación de nuevas normas jurídicas relacionadas con la materia.
 
-La actualización del Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales, deberá cumplir el proceso de formación de ley, establecido por la Constitución Política de la República de Nicaragua y la Ley Nº. 606, Ley Orgánica del Poder Legislativo de la República de Nicaragua y sus Reformas, para su debida aprobación.
+La Actualización del presente Digesto Jurídico seguirá el proceso de formación de ley para su aprobación respectiva.

@@ -1,7 +1,17 @@
 # Artículo 5
 
-Registro de Normas Consolidadas
+Registro de Normas sin Vigencia o Derecho Histórico
 
-Declárense vigentes las normas jurídicas que integran el Registro contenido en el Anexo IV, Registro de Normas Consolidadas.
+Declárense sin vigencia las normas jurídicas que integran el Anexo III, Registro de Normas sin Vigencia o Derecho Histórico.
 
-De igual manera, se aprueban los textos de las nomas que estando vigentes se sometieron al proceso de consolidación normativa y que también forman parte integrante de este Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales.
+Estas normas han perdido su vigencia en aplicación de los criterios siguientes:
+
+1. Que haya sido derogada de forma expresa o tácita por otra norma posterior;
+
+2. Que sea inaplicable por haber sido declarada inconstitucional por resolución de la máxima instancia del Poder Judicial;
+
+3. Que tenga Plazo vencido;
+
+4. Que haya cumplido su objeto;
+
+5. Que haya sido incorporada en el texto consolidado de la norma que afecta, excepto si la misma contiene disposiciones autónomas.

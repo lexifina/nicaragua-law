@@ -1,8 +1,8 @@
-LEY N°. 1051, LEY DEL DIGESTO JURÍDICO NICARAGÜENSE DE LA MATERIA DE MEDIO AMBIENTE Y RECURSOS NATURALES
+LEY N°. 1163, LEY DEL DIGESTO JURÍDICO NICARAGÜENSE DE LA MATERIA DE MEDIO AMBIENTE Y RECURSOS NATURALES
 
-Aprobada el 09 de diciembre del 2020
+Aprobada el 27 de septiembre de 2023
 
-Publicada en La Gaceta, Diario Oficial N°. 197 del 20 de octubre de 2022
+Publicada en La Gaceta, Diario Oficial N°. 217 del 29 de noviembre de 2023
 
 EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
@@ -24,7 +24,7 @@ Que la Constitución Política de la República de Nicaragua establece que el Po
 
 II
 
-Que los Artículos 60 y 102 de la Constitución Política de la República de Nicaragua, expresan que todos los nicaragüenses tienen derecho de habitar en un ambiente saludable, así como la obligación de su preservación y conservación. Que la Madre Tierra es el bien común supremo y universal, debe ser amada, cuidada, regenerada, que debemos entenderla como viva y sujeta de dignidad y que los recursos naturales son patrimonio nacional que es el Estado el garante de la preservación del ambiente, la conservación, desarrollo y explotación racional.
+Que los Artículos 60 y 102 de la Constitución Política de la República de Nicaragua, expresa que todos los nicaragüenses tienen derecho de habitar en un ambiente saludable, así como la obligación de su preservación y conservación. Que la Madre Tierra es el bien común supremo y universal, debe ser amada, cuidada, regenerada, que debemos entenderla como viva y sujeta de dignidad y que los recursos naturales son patrimonio nacional que es el Estado el garante de la preservación del ambiente, la conservación, desarrollo y explotación racional.
 
 III
 
@@ -32,7 +32,11 @@ Que la Asamblea Nacional, con la aprobación de la Ley Nº. 963, Ley del Digesto
 
 IV
 
-Que se hace necesario ordenar toda la legislación ambiental aprobada en Nicaragua, desde el año 1821 hasta la actualidad para tener claridad y certeza del marco jurídico existente, dando como resultado el fortalecimiento jurídico ambiental del país.
+Que se hace necesario ordenar toda la legislación ambiental aprobada en Nicaragua, desde 1821 hasta la actualidad para tener claridad y certeza del marco jurídico existente, dando como resultado el fortalecimiento jurídico ambiental del país.
+
+V
+
+Que la Ley N°. 1051, Ley del Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales, fue aprobado el 09 de diciembre del año 2020 y publicada en La Gaceta, Diario Oficial N°. 197, del 20 de octubre del año 2022, y que al día de hoy se hace necesario su Actualización para incluir todas aquellas normas jurídicas que se han aprobado, reformado o se han derogado y que este ordenamiento garantizará la seguridad jurídica y el fortalecimiento del estado democrático y social de derecho de nuestro país.
 
 POR TANTO
 
@@ -42,6 +46,6 @@ HA DICTADO
 
 La siguiente:
 
-LEY N°. 1051
+LEY N°. 1163
 
 LEY DEL DIGESTO JURÍDICO NICARAGÜENSE DE LA MATERIA DE MEDIO AMBIENTE Y RECURSOS NATURALES

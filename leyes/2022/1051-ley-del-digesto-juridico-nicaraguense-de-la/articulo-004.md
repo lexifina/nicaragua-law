@@ -1,5 +1,5 @@
 # Artículo 4
 
-Registro de Normas sin Vigencia o Derecho Histórico
+Registro de Instrumentos Internacionales
 
-Declárense sin vigencia las normas jurídicas que integran el Registro contenido en el Anexo III, Registro de Normas sin Vigencia o Derecho Histórico.
+Apruébese la referencia de los Instrumentos Internacionales, indicados en el Anexo II, Registro de Instrumentos Internacionales.

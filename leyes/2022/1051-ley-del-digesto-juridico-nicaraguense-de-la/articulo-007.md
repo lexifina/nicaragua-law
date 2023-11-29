@@ -1,5 +1,5 @@
 # Artículo 7
 
-Autorización para reproducción
+Reproducción
 
-La reproducción comercial del Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales, debe contar previamente con la autorización por escrita del Presidente de la Asamblea Nacional.
+Las Instituciones u organismos públicos o privados, nacionales e internacionales, interesadas en publicar total o parcialmente el contenido del Digesto Jurídico Nicaragüense de la Materia de Medio Ambiente y Recursos Naturales, deben respetar el Texto Oficial del mismo, requiriendo para su reproducción comercial autorización expresa del Presidente de la Asamblea Nacional.
