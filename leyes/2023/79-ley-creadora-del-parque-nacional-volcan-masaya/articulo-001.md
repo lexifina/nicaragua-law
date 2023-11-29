@@ -1,0 +1,3 @@
+# Artículo 1
+
+Declárase de interés público el área del volcán Masaya, y en consecuencia será administrado como Parque Nacional, dentro de los conceptos internacionalmente admitidos por la Organización de las Naciones Unidas (ONU) para este tipo de áreas. Para estos efectos, se determinan como límites del Parque Nacional Volcán Masaya, toda el área comprendida dentro de la caldera geológica en donde se encuentran los volcanes Masaya y Nindiri, así como las áreas recubiertas por correntadas de lava dentro de los límites naturales de la caldera, exceptuando los terrenos comprendidos entre la costa de la Laguna de Masaya y la carretera que conduce de Nindiri a Venecia, y los comprendidos al Noreste de la carretera Managua-Masaya.
