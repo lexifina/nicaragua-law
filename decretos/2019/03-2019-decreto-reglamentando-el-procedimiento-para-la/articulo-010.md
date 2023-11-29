@@ -1,6 +1,8 @@
 # Artículo 10
 
-De los Derechos. Los miembros del Comité de Incentivos Forestales tienen los siguientes derechos:
+De los Derechos
+
+Los miembros del Comité de Incentivos Forestales tienen los siguientes derechos:
 
 a) Participar con voz y voto en las reuniones del Comité, a través de sus representantes designados para tal efecto;
 

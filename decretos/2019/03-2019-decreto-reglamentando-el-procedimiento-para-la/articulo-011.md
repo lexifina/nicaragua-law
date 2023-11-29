@@ -1,6 +1,8 @@
 # Artículo 11
 
-De los Deberes. Los miembros del Comité de Incentivos Forestales tienen los siguientes deberes:
+De los Deberes
+
+Los miembros del Comité de Incentivos Forestales tienen los siguientes deberes:
 
 a) Cumplir con el presente Reglamento;
 

@@ -1,12 +1,14 @@
 # Artículo 38
 
-De los Recursos. Contra las resoluciones administrativas se podrá ejercer el recurso de revisión, el cual se interpondrá por escrito ante el Comité de Incentivos Forestales en el término de quince (15) días hábiles a partir del día siguiente de la notificación, quien lo resolverá en un término de veinte (20) días hábiles a partir de la interposición del mismo.
+De los Recursos
 
-Además de los requisitos establecidos en la Ley No. 290; Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo y el artículo 56 de la Ley No. 462, el recurso de revisión deberá cumplir con los siguientes requisitos:
+Contra las resoluciones administrativas se podrá ejercer el recurso de revisión, el cual se interpondrá por escrito ante el Comité de Incentivos Forestales en el término de quince (15) días hábiles a partir del día siguiente de la notificación, quien lo resolverá en un término de veinte (20) días hábiles a partir de la interposición del mismo.
+
+Además de los requisitos establecidos en la Ley N°. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo y el Artículo 56 de la Ley N°. 462, Ley de Conservación, Fomento y Desarrollo Sostenible del Sector Forestal, el recurso de revisión deberá cumplir con los siguientes requisitos:
 
 a) Indicación de la autoridad a que se dirige;
 
-b) Nombre, apellidos y generales del recurrente. Cuando no actué en nombre propio deberá acreditar su representación acompañando escritura pública del poder con una fotocopia,
+b) Nombre, apellidos y generales del recurrente. Cuando no actué en nombre propio deberá acreditar su representación acompañando escritura pública del poder con fotocopia;
 
 c) Reseña del acto que se objeta y la razón de su impugnación con la relación de hechos;
 
@@ -16,6 +18,6 @@ e) Señalamiento de domicilio para oír notificaciones;
 
 f) Lugar, fecha y firma del recurrente.
 
-Así mismo, se podrá recurrir al Recurso de Apelación, el que se interpondrá ante el mismo órgano que dictó el acto, en un término de seis (6) días después de notificado, éster emitirá el recurso junto con su informe al superior jerárquico, siendo este el Codirector Forestal del Instituto Nacional Forestal, en un término de diez (10) días.
+Así mismo, se podrá recurrir al Recurso de Apelación, el que se interpondrá ante el mismo órgano que dictó el acto, en un término de seis (6) días después de notificado, este remitirá el recurso junto con su informe al superior jerárquico, siendo estos los Codirectores o Codirectoras del Instituto Nacional Forestal, en un término de diez (10) días.
 
 El Recurso de Apelación se resolverá en un término de treinta (30) días a partir de su interposición, agotándose así la vía administrativa.

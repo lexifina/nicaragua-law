@@ -1,6 +1,8 @@
 # Artículo 34
 
-Requisitos para la Deducción de Rentas de Actividades Económicas, destinadas a la Promoción de Reforestación o creación de plantaciones forestales. Para la deducción de hasta el cien por ciento (100%) del pago del IR anual de rentas de actividades económicas, destinado a la promoción de reforestación o creación de plantaciones forestales, se deberá cumplir lo siguiente:
+Requisitos para la Deducción de Rentas de Actividades Económicas, Destinadas a la Promoción de Reforestación o Creación de Plantaciones Forestales
+
+Para la deducción de hasta el cien por ciento (100%) del pago del IR anual de rentas de actividades económicas, destinado a la promoción de reforestación o creación de plantaciones forestales, se deberá cumplir lo siguiente:
 
 El dueño de la iniciativa forestal deberá realizar la solicitud ante la Administración de Rentas y/o Dirección de Grandes Contribuyentes, donde se encuentre inscrito, previo a su declaración anual, adjuntando como mínimo:
 

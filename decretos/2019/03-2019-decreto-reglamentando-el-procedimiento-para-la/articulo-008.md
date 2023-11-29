@@ -1,6 +1,8 @@
 # Artículo 8
 
-Atribuciones. Son atribuciones del Comité de Incentivos Forestales las siguientes:
+Atribuciones
+
+Son atribuciones del Comité de Incentivos Forestales las siguientes:
 
 a) Cumplir y hacer cumplir el presente Reglamento;
 

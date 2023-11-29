@@ -1,8 +1,10 @@
 # Artículo 9
 
-Funciones del Comité. Son funciones del Comité de Incentivos Forestales:
+Funciones del Comité
 
-a) Revisar el contenido legal, administrativo, financiero y técnico de las Iniciativas Forestales y Plan de Inversión presentadas ante el INAFOR;
+Son funciones del Comité de Incentivos Forestales:
+
+a) Revisar el contenido legal, administrativo, financiero y técnico de las Incentivas Forestales y Plan de Inversión presentadas ante el INAFOR;
 
 b) Emitir al INAFOR sugerencias y recomendaciones sobre el contenido de las iniciativas, para ser transmitidas al solicitante;
 
