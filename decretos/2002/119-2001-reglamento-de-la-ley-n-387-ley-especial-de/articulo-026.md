@@ -8,7 +8,7 @@ Los concesionarios sujetos a exoneración según la Ley, deberán presentar anua
 
 - Niveles de inventario físico de los bienes importados, necesarios como reserva para el proceso productivo.
 
-- Certificación de estar inscritos en los Registros de Contribuyente de la DGI y de la DGSA.
+- Certificación de estar inscritos en los Registros de Contribuyente de la DGI y de la DGA.
 
 - Plan anual de producción que especifique las cantidades de consumo de combustible.
 

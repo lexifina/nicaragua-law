@@ -18,7 +18,7 @@ El Libro de Registro de Concesiones Mineras deberá contener:
 
 8. Ubicación y Nombre del lote.
 
-9. Área Otorgada.
+9. Área Otorgada,
 
 10. Coordenadas.
 
@@ -30,10 +30,10 @@ El Libro de Registro de Concesiones Mineras deberá contener:
 
 En este Libro se inscribirán además:
 
-. Las anotaciones preventivas de los gravámenes de cada concesión;
+- Las anotaciones preventivas de los gravámenes de cada concesión;
 
-. Las anotaciones provisionales (promesas de venta, certificados regístrales de inmueble, prorrogas, renuncias, divisiones, traspasos)
+- Las anotaciones provisionales (promesas de venta, certificados regístrales de inmueble, prorrogas, renuncias, divisiones, traspasos)
 
-. Las cancelaciones o anulaciones de la concesión y motivo por la cual se cancela .
+- Las cancelaciones o anulaciones de la concesión y motivo por la cual se cancela.
 
-. Las hipotecas y su cancelación cuando corresponda, haciendo una relación del instrumento público donde consten los mismos.
+- Las hipotecas y su cancelación cuando corresponda, haciendo una relación del instrumento público donde consten los mismos.

@@ -1,8 +1,6 @@
 # Artículo 54
 
-Los pequeños mineros legalmente constituidos, que deseen ejercer su actividad, deberán presentar una carta solicitud para obtener la licencia especial que les otorgará el MEM a través de un acuerdo ministerial.
-
-Esta carta solicitud deberá contener los siguientes requisitos:
+Los pequeños mineros legalmente constituidos, que deseen ejercer su actividad, deberán presentar una carta solicitud para obtener la licencia especial que les otorgará el MEM a través de un acuerdo ministerial. Esta carta solicitud deberá contener los siguientes requisitos:
 
 1. Nombres, apellidos, cédula de identidad del solicitante.
 

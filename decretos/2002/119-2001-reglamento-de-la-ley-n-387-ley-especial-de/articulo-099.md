@@ -1,6 +1,6 @@
 # Artículo 99
 
-Además de lo señalado en el Artículo 90 de la Ley sobre la ocultación con fines fraudulentos de sustancias extraídas de la concesión minera, se incluyen las siguientes acciones:
+Además de Lo señalado en el Artículo 90 de la Ley sobre la ocultación con fines fraudulentos de sustancias extraídas de la concesión minera, se incluyen las siguientes acciones:
 
 1. Disponer sin autorización de los minerales radioactivos, sales, fuentes geotérmicas y carbones que se descubran en el desarrollo de las obras y trabajos mineros.
 

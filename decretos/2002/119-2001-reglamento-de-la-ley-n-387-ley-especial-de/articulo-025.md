@@ -2,7 +2,7 @@
 
 Los derechos e impuestos sujetos a exoneración, incluyen entre otros:
 
-- Los Derechos Arancelarios de Importación (DAI).
+- Los Derechos Arancelarios a la Importación (DAI).
 
 - El Impuesto Selectivo al Consumo (ISC).
 

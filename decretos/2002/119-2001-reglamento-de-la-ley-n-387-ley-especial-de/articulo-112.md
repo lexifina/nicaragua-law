@@ -1,14 +1,14 @@
 # Artículo 112
 
-Las causas administrativas por infracciones cometidas por titulares y no titulares de derechos mineros a las disposiciones de la Ley Nº. 387, su Reglamento, normas técnicas o regulaciones afines, podrán ser iniciadas por denuncia escrita según formato establecido, o de oficio por el MEM, y se tramitarán de acuerdo a la Ley Nº. 387, su reglamento, el procedimiento común y las disposiciones siguientes
+Las causas administrativas por infracciones cometidas por titulares y no titulares de derechos mineros a las disposiciones de la Ley N°. 387, Ley Especial sobre Exploración y Explotación de Minas, su Reglamento, normas técnicas o regulaciones afines, podrán ser iniciadas por denuncia escrita según formato establecido, o de oficio por el MEM, y se tramitarán de acuerdo a la Ley N°. 387, Ley Especial sobre Exploración y Explotación de Minas, su reglamento, el procedimiento común y las disposiciones siguientes:
 
 1. Recibida una denuncia, el MEM ordenará una inspección para verificar los méritos de la misma. El MEM podrá realizar inspección de rutina de oficio, para verificar el cumplimiento de las disposiciones legales que regulan la actividad minera, asimismo podrá verificar a través de los expedientes el cumplimiento de las condiciones y obligaciones emanadas de una concesión minera. Producto de esta fase de inspección o verificación, o ambas, el MEM podrá decidir archivar las diligencias o admitir la causa administrativa.
 
 2. Admitida la causa administrativa, el MEM notificará al presunto infractor para que en el término de seis (6) días hábiles después de notificado, conteste lo que tenga a bien, adjuntando opcionalmente, las pruebas de descargo que considere apropiadas en razón de su contestación. Con la contestación y explicaciones formuladas por el emplazado, y siempre que el presunto infractor no solicite expresamente la apertura a pruebas, el MEM, decidirá si el proceso requiere del trámite probatorio o si cuenta con los elementos de juicio suficientes para resolver. En caso de considerar necesario el período probatorio se abrirá a pruebas por un término de veinte (20) días hábiles.
 
-3. Vencido el período probatorio, si lo hubiere, el MEM emitirá su resolución en un plazo no mayor de diez (10) días hábiles, debiendo notificar de ésta al infractor. Contra la resolución del MEM se podrán hacer uso de los recursos administrativos previstos en la Ley Nº. 290, y en el Artículo 41 del Decreto 119-2001, hasta agotar la vía administrativa.
+3. Vencido el período probatorio, si lo hubiere, el MEM emitirá su resolución en un plazo no mayor de diez (10) días hábiles, debiendo notificar de ésta al infractor. Contra la resolución del MEM se podrán hacer uso de los recursos administrativos previstos en la Ley N°. 290, Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo y en el Artículo 41 del presente Decreto, hasta agotar la vía administrativa.
 
-4. Las multas impuestas por el MEM deberán enterarse conforme lo dispuesto en el Artículo 109 del Reglamento de la Ley Nº. 387 en un término no mayor de quince (15) días hábiles.
+4. Las multas impuestas por el MEM deberán enterarse conforme lo dispuesto en el Artículo 109 del presente Reglamento, en un término no mayor de quince (15) días hábiles.
 
 5. Los inspectores mineros en el ejercicio de sus funciones tendrán las facultades de:
 
@@ -24,6 +24,6 @@ Las causas administrativas por infracciones cometidas por titulares y no titular
 
 5.6. Realizar examen de documentación referente a concesiones, licencias o permisos, informes, recibos de cánones, impuestos y demás, que permitan verificar el cumplimiento efectivo de todas las responsabilidades y obligaciones establecidas en la Ley.
 
-5. 7. Revisar cualquier otra documentación vinculada al objeto de la inspección.
+5.7. Revisar cualquier otra documentación vinculada al objeto de la inspección.
 
-5 .8. Hacer uso de medios audiovisuales de apoyo técnico, para plasmar y dejar constancia efectiva de sus hallazgos.
+5.8. Hacer uso de medios audiovisuales de apoyo técnico, para plasmar y dejar constancia efectiva de sus hallazgos.

@@ -1,20 +1,20 @@
 # Artículo 3
 
-Además de las definiciones y abreviaturas consignadas en la Ley General sobre Explotación de Nuestras Riquezas Naturales, Decreto Nº. 3 16 Gaceta Nº. 83 del 1 7 de abril de 19 5 8, y para los efectos de aplicación de la Ley y este Reglamento, se utilizarán las siguientes definiciones:
+Además de las definiciones y abreviaturas consignadas en el Decreto N°, 316, Ley General sobre Explotación de Nuestras Riquezas Naturales, y para los efectos de aplicación de la Ley y este Reglamento, se utilizarán las siguientes definiciones:
 
-. COEFICIENTES TÉCNICOS: Es la relación entre los insumos incorporados al mineral extraído y los utilizados durante el proceso de beneficio expresados en términos físicos.
+COEFICIENTES TÉCNICOS: Es la relación entre los insumos incorporados al mineral extraído y los utilizados durante el proceso de beneficio expresados en términos físicos.
 
-. DGI: Dirección General de Ingresos.
+DGI: Dirección General de Ingresos.
 
-. DGSA: Dirección General de Servicios Aduaneros.
+DGA: Dirección General de Servicios Aduaneros.
 
-. DERECHO DE EXTRACCIÓN O REGALÍA: Compensación económica que se le paga al Estado por la explotación de recursos minerales.
+DERECHO DE EXTRACCIÓN O REGALÍA: Compensación económica que se le paga al Estado por la explotación de recursos minerales.
 
-. DERECHOS DE VIGENCIA O SUPERFICIALES: Compensación económica que se le confiere al Estado por el área otorgada en concesión minera medida en hectáreas.
+DERECHOS DE VIGENCIA O SUPERFICIALES: Compensación económica que se le confiere al Estado por el área otorgada en concesión minera medida en hectáreas.
 
-. DICTÁMEN TÉCNICO: Análisis y evaluación detallada de la información geológica-minera y de la breve reseña del proyecto presentada por el solicitante al momento de hacer la solicitud.
+DICTAMEN TÉCNICO: Análisis y evaluación detallada de la información geológica-minera y de la breve reseña del proyecto presentada por el solicitante al momento de hacer la solicitud.
 
-. FASES DE LA ACTIVIDAD MINERA:
+FASES DE LA ACTIVIDAD MINERA:
 
 - Exploración: Conjunto de trabajos geológicos de campo subterráneos o superficiales, necesarios para la localización de un depósito mineral, mediante realización de sondeos, perforaciones, evaluaciones de depósitos o yacimientos minerales. Incluye trabajos de gabinete y administrativos. Puede ser semidetallada y a detalle.
 
@@ -22,36 +22,36 @@ Además de las definiciones y abreviaturas consignadas en la Ley General sobre E
 
 Incluye las actividades necesarias para la instalación de infraestructuras mineras para extracción y beneficio del mineral.
 
-- Beneficio. Conjunto de procesos empleados para la separación y transformación del mineral de interés de la mina mediante la aplicación de métodos físicos-mecánicos y químicos.
+- Beneficio: Conjunto de procesos empleados para la separación y transformación del mineral de interés de la mina mediante la aplicación de métodos físicos-mecánicos y químicos.
 
-- Comercialización. Venta del producto obtenido, dentro y fuera del país.
+- Comercialización: Venta del producto obtenido, dentro y fuera del país.
 
-. FORMATO: Formularios diseñados por el MEM para recopilar informaciones geológicas, ambientales; producción, exploración y explotación mineras.
+FORMATO: Formularios diseñados por el MEM para recopilar informaciones geológicas, ambientales; producción, exploración y explotación mineras.
 
-. IVA: Impuesto al Valor Agregado.
+IVA: Impuesto al Valor Agregado.
 
-. ÍNDICE DE RENDIMIENTO SOBRE EL CONSUMO DE COMBUSTIBLE: Es la cantidad de combustible utilizado por el concesionario hasta el proceso de beneficio, mediante el cual se determinará el valor de Impuesto Selectivo al Consumo (ISC) a exonerar. Este índice será determinado sobre el costo estándar razonable calculado basándose en parámetros de eficiencia del sector.
+ÍNDICE DE RENDIMIENTO SOBRE EL CONSUMO DE COMBUSTIBLE: Es la cantidad de combustible utilizado por el concesionario hasta el proceso de beneficio, mediante el cual se determinará el valor de Impuesto Selectivo al Consumo (ISC) a exonerar. Este índice será determinado sobre el costo estándar razonable calculado basándose en parámetros de eficiencia del sector.
 
-. INETER: Instituto Nicaragüense de Estudios Territoriales.
+INETER: Instituto Nicaragüense de Estudios Territoriales.
 
-. LA LEY: La Ley Especial sobre Exploración y Explotación de Minas, Ley Nº. 387, La Gaceta Nº. 151 del 13 de agosto de 2001.
+LA LEY: La Ley N°. 387, Ley Especial sobre Exploración y Explotación de Minas.
 
-. LA LEY GENERAL: Ley General sobre Explotación de Nuestras Riquezas Naturales, Decreto Nº. 316, La Gaceta Nº. 83 del 17 de abril de 1958.
+LA LEY GENERAL: El Decreto N°, 316, Ley General sobre Explotación de Nuestras Riquezas Naturales.
 
-. MHCP: Ministerio de Hacienda y Crédito Público.
+MHCP: Ministerio de Hacienda y Crédito Público.
 
-. MITRAB: Ministerio del Trabajo.
+MITRAB: Ministerio del Trabajo.
 
-. MARENA: Ministerio del Ambiente y de los Recursos Naturales.
+MARENA: Ministerio del Ambiente y de los Recursos Naturales.
 
-. MEM: Ministerio de Energía y Minas.
+MEM: Ministerio de Energía y Minas.
 
-. PRODUCTOS MINEROS: Rocas o minerales extraídos de un yacimiento o los productos resultantes de la separación de los mismos.
+PRODUCTOS MINEROS: Rocas o minerales extraídos de un yacimiento o los productos resultantes de la separación de los mismos.
 
-. RECURSO MINERAL: Sustancias naturales con integración de elementos esenciales de la corteza terrestre.
+RECURSO MINERAL: Sustancias naturales con integración de elementos esenciales de la corteza terrestre.
 
-. REGISTRO: Registro Central de Concesiones que lleva el MEM.
+REGISTRO: Registro Central de Concesiones que lleva el MEM.
 
-. DTGR: Dirección de Tesorería General de la República.
+DTGR: Dirección de Tesorería General de la República.
 
-. YACIMIENTOS DE DEPÓSITOS: Todos los afloramientos o concentraciones naturales de rocas de uno o varios minerales.
+YACIMIENTOS DE DEPÓSITOS: Todos los afloramientos o concentraciones naturales de rocas de uno o varios minerales.

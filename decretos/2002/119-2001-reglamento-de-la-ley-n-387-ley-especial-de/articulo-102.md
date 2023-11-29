@@ -2,7 +2,7 @@
 
 Las concesiones mineras se extinguen por las siguientes causas:
 
-- El vencimiento del plazo original o de su prórroga
+- El vencimiento del plazo original o de su prórroga.
 
 - Por la renuncia expresa del titular de la concesión, la cual deberá presentar por escrito ante el MEM.
 

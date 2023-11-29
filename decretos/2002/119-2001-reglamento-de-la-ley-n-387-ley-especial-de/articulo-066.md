@@ -6,7 +6,7 @@ El Libro de Registro de Solicitudes Iniciales y Modificaciones de Concesiones Mi
 
 2. Hora y Fecha de Presentación.
 
-3. Nombre y Cédula de Identidad de quién la presenta
+3. Nombre y Cédula de Identidad de quién la presenta.
 
 4. A favor de quién se presenta.
 

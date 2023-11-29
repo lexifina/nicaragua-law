@@ -20,7 +20,7 @@ Serán infracciones graves:
 
 - Pasar de la etapa de exploración a la etapa de explotación sin previa comunicación al MEM.
 
-Realizar trabajos de exploración y explotación en propiedad privada, sin prev10 consentimiento del propietario.
+- Realizar trabajos de exploración y explotación en propiedad privada, sin previo consentimiento del propietario.
 
 Las infracciones graves serán sancionadas con una multa en moneda nacional equivalente a diez mil dólares de los Estados Unidos de América.
 

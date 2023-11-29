@@ -1,6 +1,6 @@
 # Artículo 53
 
-Los programas para la promoción, desarrollo, evaluación y seguimiento de la Pequeña Minería y la Minería Artesanal que promoverá el MEM, comprenden:
+Los programas para la promoción, desarrollo, evaluación y seguimiento de la Pequeña Minería y la Minería Artesanal que promoverá el MEM, comprenden;
 
 1. Apoyar a los pequeños mineros que deseen obtener concesiones mineras. El MEM velará y dará seguimiento a las solicitudes de los mismos hasta su otorgamiento.
 

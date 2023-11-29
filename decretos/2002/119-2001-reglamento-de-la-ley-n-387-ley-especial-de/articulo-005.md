@@ -18,15 +18,15 @@ e. Molibdeno, Tungsteno y Cromo.
 
 a. Elementos nativos, grupo de los Azufres y de los Carbones.
 
-b. Grupo de los Hidróxidos, Sales, Carbonatos, Nitratos y Boratos.
+b. Grupo de los Hidróxidos, Sales, Carbonates, Nitratos y Boratos.
 
-c. Grupo de los Sulfatos, Cromatos, Anhídricos, Scheelita, grupo de los Fosfatos, Arsenatos, Vanadatos, Apatito y grupo de los Silicatos.
+c. Grupo de los Sulfatas, Cromatos, Anhídricos, Scheelita, grupo de los Fosfatos, Arsenatos, Vanadatos, Apatita y grupo de los Silicatos.
 
-d. Los minerales no metálicos de Magnesita, Zincita, Crisoberilo, Corindón y el grupo de los Rutilos. Tierras raras, minerales derivados de la descomposición de roca (caolín, montmorillonitas, cuarzo, feldespato y plagioclasas).
+d. Los minerales no metálicos de Magnesita, Zincita, Crisoberilo, Corindón y el grupo de los Rútilos. Tierras raras, minerales derivados de la descomposición de roca (caolín, montmorillonitas, cuarzo, feldespato y plagioclasas).
 
 3. Rocas.
 
-a. Ácidas básicas. Granitos, granodioritas, monzonitas, andesitas, basaltos, y otras.
+a. Acidas básicas. Granitos, granodioritas, monzonitas, andesitas, basaltos, y otras.
 
 b. Carbonatadas Sedimentarias y no sedimentarias. Calizas, yeso, mármoles, calcitas.
 
