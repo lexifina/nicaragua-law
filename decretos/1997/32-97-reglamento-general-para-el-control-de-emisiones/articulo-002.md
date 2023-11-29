@@ -6,7 +6,7 @@ a) Centro de Certificación de Emisiones Vehiculares: Local autorizado por la in
 
 b) Emisión Vehicular: Gases, humos y partículas contaminantes producidos por un vehículo automotor.
 
-c) Humo y hollín: Residuo resultante de una combustión incompleta que se compone en su mayoría de carbón, cenizas y partículas sólidas visibles en la atmósfera.
+c) Humo y Hollín: Residuo resultante de una combustión incompleta que se compone en su mayoría de carbón, cenizas y partículas sólidas visibles en la atmósfera.
 
 d) Monóxido de Carbono (CO): Contaminante vehicular producido por la combustión incompleta del combustible, medido en porcentaje con respecto al volumen total de los gases.
 
@@ -34,13 +34,13 @@ n) Convertidor catalítico: Componente que es parte del sistema de control de em
 
 o) Vehículo en circulación: Vehículo automotor que transita en la vía pública o privada.
 
-p) Motocicleta: Vehículo automotor de 2 ó 3 ruedas, que puede usar motor a gasolina de 2 ó 4 tiempos.
+p) Motocicleta: Vehículo automotor de 2 o 3 ruedas, que puede usar motor a gasolina de 2 o 4 tiempos.
 
 q) Opacidad: Estado en el cual un material en general, o en particular los gases, impiden parcialmente o en su totalidad el paso de un haz de luz.
 
 r) Opacímetro: Dispositivo para medir el grado de opacidad de los gases, humos y partículas del escape de un vehículo. El equipo destinado a lo que se refiere este Reglamento, es el opacímetro de flujo parcial que mide la opacidad en porcentajes, con una longitud óptica de referencia de cuatrocientos treinta milímetros.
 
-s) Certificado de Control de Emisiones: Documento oficial emitido por la instancia correspondiente, mediante el cual se da constancia de que el vehículo no excede los límites permisibles establecidos en el presente Reglamento.
+s) Certificado de Control de Emisiones: Documento oficial emitido por la instancia correspondiente o por el fabricante mediante el cual se da constancia de que el vehículo no excede los límites permisibles establecidos en el presente Reglamento.
 
 t) Equipo de medición: Todo aquel equipo autorizado por la instancia correspondiente, que tiene la función de determinar los niveles de contaminación de las emisiones de gases, humos y partículas.
 
