@@ -6,7 +6,7 @@ Los contratistas que se asocien están directa e individualmente obligados al pa
 
 La renta neta de cada persona natural o jurídica se determinará sobre la totalidad de sus actividades de exploración y explotación, emergentes de los contratos celebrados u otorgados a partir de la vigencia de la presente Ley.
 
-La renta neta se determinará por las reglas que establece la Ley de Concertación Tributaria, sus reformas, su Reglamento y demás disposiciones conexas.
+La renta neta se determinará por las reglas que establece la Ley N°. 822, Ley de Concertación Tributaria, sus reformas, su Reglamento y demás disposiciones conexas.
 
 Los ingresos correspondientes a la producción de las áreas del contrato, serán equivalentes a los provenientes de la comercialización de los hidrocarburos a los precios dictados por un mercado competitivo en el punto o puntos de fiscalización.
 
@@ -14,6 +14,6 @@ Para determinar la renta neta indicada, el sujeto pasivo de la obligación tribu
 
 a) Las regalías pagadas conforme el Artículo 57 y 58 de la presente Ley;
 
-b) Los costos y gastos razonables y necesarios atribuibles a las actividades de exploración, desarrollo y explotación incurridos hasta el punto o puntos de fiscalización, conforme a lo establecido en la Ley de Concertación Tributaria, sus reformas y demás disposiciones conexas.
+b) Los costos y gastos razonables y necesarios atribuibles a las actividades de exploración, desarrollo y explotación incurridos hasta el punto o puntos de fiscalización, conforme a lo establecido en la Ley N°. 822, Ley de Concertación Tributaria, sus reformas y demás disposiciones conexas.
 
-Este impuesto sobre la renta será declarado y liquidado anualmente de conformidad con las reglas establecidas por la Ley de Concertación Tributaria, sus reformas y demás disposiciones regulatorias de este impuesto.
+Este impuesto sobre la renta será declarado y liquidado anualmente de conformidad con las reglas establecidas por la Ley N°. 822, Ley de Concertación Tributaria, sus reformas y demás disposiciones regulatorias de este impuesto.

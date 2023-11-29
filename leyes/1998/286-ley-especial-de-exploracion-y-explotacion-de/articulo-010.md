@@ -12,6 +12,6 @@ d) Cronograma de ejecución de los trabajos y el plazo total necesario;
 
 e) Presupuesto de gastos e inversiones.
 
-El Ministerio de Energía y Minas resolverá sobre la solicitud en un período máximo de 3 O días hábiles después de recibida la solicitud, debiendo de previo notificar al MARENA e informar a las alcaldías y Gobiernos Regionales en su caso.
+El Ministerio de Energía y Minas resolverá sobre la solicitud en un período máximo de 30 días hábiles después de recibida la solicitud, debiendo de previo notificar al MARENA e informar a las alcaldías y Gobiernos Regionales en su caso.
 
 DE LOS CONTRATOS

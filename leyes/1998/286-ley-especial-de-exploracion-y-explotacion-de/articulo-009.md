@@ -4,6 +4,4 @@ El Ministerio de Energía y Minas podrá otorgar permisos de reconocimiento en �
 
 El reconocimiento superficial comprende las actividades orientadas hacia la búsqueda de hidrocarburos, tales como: estudios geológicos y geofísicos, levantamiento de planos topográficos, trabajos gravimétricos, magnetométricos, sísmicos y geoquímicos.
 
-El Ministerio de Energía y Minas en cualquier momento, podrá cancelar el permiso en toda o en parte del área sujeta a permisos de reconocimiento; en tal caso el permiso terminará "ipso jure" en relación al área afectada.
-
-El titular del permiso no tendrá derecho a reclamar ninguna compensación.
+El Ministerio de Energía y Minas en cualquier momento, podrá cancelar el permiso en toda o en parte del área sujeta a permisos de reconocimiento; en tal caso el permiso terminará “ipso jure” en relación al área afectada. El titular del permiso no tendrá derecho a reclamar ninguna compensación.
