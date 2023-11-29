@@ -2,11 +2,11 @@
 
 Funciones del Consejo Directivo
 
-Corresponde al Consejo Directivo, por delegación del MEM, la dirección del FODIEN y tendrá las siguientes facultades:
+Corresponde al Consejo Directivo, por delegación del MEM, la dirección del FODIEN y tendrá las siguientes facultades;
 
 1. Aprobar el Plan Operativo Anual del FODIEN para el desarrollo de los PER.
 
-2. Tomar las decisiones que corresponda sobre priorización de proyectos y asignación de recursos financieros a los PER, que le sean propuestas por el Director Ejecutivo del Fondo.
+2. Tomar las decisiones que corresponda sobre priorización de proyectos y asignación de recursos financieros a los PER, que le sean propuestas por el Director Ejecutivo del Fondo,
 
 3. Instruir al Director Ejecutivo para el cumplimiento de los acuerdos que adopte.
 

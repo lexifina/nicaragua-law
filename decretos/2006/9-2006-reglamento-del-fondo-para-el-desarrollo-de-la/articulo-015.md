@@ -1,6 +1,8 @@
 # Artículo 15
 
-Funciones del Presidente del Consejo Directivo El Presidente del Consejo Directivo del FODIEN tendrá las siguientes funciones:
+Funciones del Presidente del Consejo Directivo
+
+El Presidente del Consejo Directivo del FODIEN tendrá las siguientes funciones:
 
 1. Convocar y presidir las sesiones del Consejo.
 

@@ -1,6 +1,6 @@
 # Artículo 23
 
-Recursos Confiados en Administración de Fondos de Terceros ó Fideicomiso
+Recursos Confiados en Administración de Fondos de Terceros o Fideicomiso
 
 El FODIEN administrará los recursos para desarrollo de Proyectos de Electrificación Rural provenientes de:
 

@@ -6,7 +6,7 @@ El Director Ejecutivo tendrá además las siguientes funciones:
 
 1. Fungir como Secretario del Consejo Directivo y suscribir, conjuntamente con el Presidente, las Actas y Acuerdos.
 
-2. Mantener comunicación entre el FODIEN y el MEM, así como entre el FODIEN con las entidades bancarias, los donantes y organismos multilaterales.
+2. Mantener comunicación entre el FODIEN y el MEM, así como entre el FODIEN con las entidades bancadas, los donantes y organismos multilaterales.
 
 3. Mantener comunicación con el Gobierno Central y los otros Poderes del Estado, previa autorización del Presidente del Consejo Directivo del FODIEN.
 
@@ -20,6 +20,6 @@ El Director Ejecutivo tendrá además las siguientes funciones:
 
 8. Cumplir y hacer cumplir el Reglamento del FODIEN, las normativas administrativas, financieras y de operaciones.
 
-9. Nombrar y remover al personal a su cargo.
+9. Nombrar y remover al personal a su caigo.
 
 10. Las demás que le asigne el Consejo Directivo.

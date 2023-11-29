@@ -1,6 +1,8 @@
 # Artículo 36
 
-Contrato de Subsidio y de Aporte del Concesionario Previo a la contratación de la Unidad Ejecutora por parte del FODIEN, el Fondo y el Concesionario firmarán un contrato que deberá definir al menos las siguientes materias:
+Contrato de Subsidio y de Aporte del Concesionario
+
+Previo a la contratación de latinidad Ejecutora por parte del FODIEN, el Fondo y el Concesionario firmarán un contrato que deberá definir al menos las siguientes materias:
 
 1. Subsidio aportado por el FODIEN.
 
