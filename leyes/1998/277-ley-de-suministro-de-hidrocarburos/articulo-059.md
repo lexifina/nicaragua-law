@@ -1,6 +1,6 @@
 # Artículo 59
 
-Para la aplicación de las sanciones a que se refiere en los Artículos anteriores el INE tendrá en cuenta lo siguiente:
+Para la aplicación de las sanciones a que se refiere en los Artículos anteriores el MEM o el INE tendrán en cuenta lo siguiente:
 
 a) La mayor o menor gravedad de la infracción;
 
