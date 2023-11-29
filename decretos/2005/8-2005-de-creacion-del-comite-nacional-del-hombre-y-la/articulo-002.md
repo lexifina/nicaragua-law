@@ -16,4 +16,4 @@ Son funciones del Comité MAB:
 
 7. Promover la cooperación técnica y financiera orientada a fortalecer las actividades en las Reservas de Biosfera de Nicaragua;
 
-8. Contribuir a la comunicación entre el Gobierno de Nicaragua y el Programa MAB de la UNESCO;
+8. Contribuir a la comunicación entre el Gobierno de Nicaragua y el Programa MAB de la UNESCO.
