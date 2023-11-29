@@ -1,0 +1,5 @@
+# Artículo 12
+
+Derogado.
+
+ÓRGANOS DE CONTROL Y APLICACIÓN DE LA LEY
