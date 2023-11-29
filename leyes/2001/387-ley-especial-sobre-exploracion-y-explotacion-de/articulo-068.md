@@ -6,4 +6,4 @@ Ningún trabajo de exploración y de explotación podrá ser ejecutado a menos d
 
 2. De ambos lados de las vías de comunicación, acueductos y oleoductos y obras de utilidad pública sin autorización del Ministerio de Energía y Minas.
 
-DE LOS PAGOS A QUE ESTAN AFECTOS LOS CONCESIONARIOS
+DE LOS PAGOS A QUE ESTÁN AFECTOS LOS CONCESIONARIOS

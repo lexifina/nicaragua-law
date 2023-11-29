@@ -8,7 +8,7 @@ El equivalente en moneda nacional a veinticinco centavos de dólar de los Estado
 
 El equivalente en moneda nacional a setenta y cinco centavos de dólar de los Estados Unidos de América ($0.75), por el segundo año por hectárea.
 
-El equivalente en moneda nacional a uno cincuenta centavos de dólar de los Estados Unidos de América ($1.50), el tercer y cuarto año por hectárea.
+El equivalente en moneda nacional a uno cincuenta centavos de dólar de los Estados Unidos de América ($ 1.50), el tercer y cuarto año por hectárea.
 
 El equivalente en moneda nacional a tres dólares de los Estados Unidos de América ($3.00), por el quinto y sexto año por hectárea.
 

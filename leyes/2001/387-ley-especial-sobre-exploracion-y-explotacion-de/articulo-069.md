@@ -1,6 +1,6 @@
 # Artículo 69
 
-Los titulares de una concesión minera, estarán obligados a los pagos siguientes.
+Los titulares de una concesión minera, estarán obligados a los pagos siguientes:
 
 1. Derechos de Vigencias o Superficiales.
 

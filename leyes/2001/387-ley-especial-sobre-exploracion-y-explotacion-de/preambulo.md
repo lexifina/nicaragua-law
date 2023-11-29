@@ -1,18 +1,18 @@
-TEXTO CONSOLIDADO, LEY Nº. 387, LEY ESPECIAL SOBRE EXPLORACIÓN Y EXPLOTACIÓN DE MINAS
+TEXTO CONSOLIDADO, LEY N°. 387, LEY ESPECIAL SOBRE EXPLORACIÓN Y EXPLOTACIÓN DE MINAS
 
-Aprobado el 11 de noviembre de 2020
+Aprobado el 24 de octubre de 2023
 
-Publicado en La Gaceta, Diario Oficial N°. 130 del 14 de julio de 2021
+Publicado en La Gaceta, Diario Oficial N°. 217 del 29 de noviembre de 2023
 
 Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero
 
-El presente texto contiene incorporadas todas sus modificaciones consolidadas al 11 de noviembre de 2020, de la Ley Nº. 387, Ley Especial sobre Exploración y Explotación de Minas, aprobada el 13 de marzo de 2001 y publicada en La Gaceta, Diario Oficial Nº. 151 del 13 de agosto de 2001, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 201 7 y la Ley Nº. 1045, Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero, aprobada el 11 de noviembre de 2020.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 24 de octubre de 2023, de la Ley N°. 387, Ley Especial sobre Exploración y Explotación de Minas, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense y la Ley N°; 1166 Ley del Digesto Jurídico Nicaragüense de la Materia del Sector Energético y Minero, aprobada el 24 de octubre de 2023.
 
-LEY Nº. 387
+LEY N°. 387
 
 EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
-Hace saber al pueblo nicaragüense que:
+Hace saber al pueblo nicaragüense que;
 
 LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
 

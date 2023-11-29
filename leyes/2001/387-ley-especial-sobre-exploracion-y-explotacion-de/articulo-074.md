@@ -4,4 +4,4 @@ Salvo lo dispuesto en los Artículos 69, 70, 71 y 72 de la presente Ley, no se p
 
 El Poder Legislativo no aprobará los Planes de Arbitrio de las Municipalidades que establezcan los pagos por servicios e impuestos a que se refiere el párrafo anterior. El Estado garantizará estabilidad fiscal para la inversión nacional y extranjera destinada a la actividad minera.
 
-DE LOS FONDOS MINEROS Y DEL USO DE LOS DERECHOS SUPERFICIALES Y REGALÍAS
+DE LOS FONDOS MINEROS V DEL USO DE LOS DERECHOS SUPERFICIALES Y REGALÍAS

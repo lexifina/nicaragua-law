@@ -16,7 +16,7 @@ f) Los avisos notariales preventivos con motivo de celebración de Contratos.
 
 g) Las anotaciones judiciales preventivas derivadas de reclamaciones por negativa, rectificaciones, modificaciones, nulidad o cancelación de inscripciones.
 
-h) Las anotaciones preventivas para interrumpir la cancelación de inscripciones de contratos y convenios sujetos a temporalidad.
+h) Las anotaciones preventivas para interrumpir la cancelación de inscripciones de contratos y convenios sujetos a temporalidad,
 
 i) Cualquier otro acto o contrato que afecte a las concesiones mineras.
 

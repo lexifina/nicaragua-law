@@ -12,7 +12,7 @@ c) El 20% al Tesoro Nacional.
 
 d) El 10% al Fondo de Vigilancia y Supervisión Minera.
 
-e) El 15% al Fondo de Desarrollo y Promoción Minera
+e) El 15% al Fondo de Desarrollo y Promoción Minera.
 
 2) En concesiones mineras o sus partes ubicadas en el resto del país.
 

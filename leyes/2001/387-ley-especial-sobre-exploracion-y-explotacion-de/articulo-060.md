@@ -10,4 +10,4 @@ Los titulares de concesiones mineras en los terrenos nacionales dentro de los pe
 
 4. Cortar las maderas necesarias para los trabajos cumpliendo con las obligaciones en lo que se refiere a las prácticas de conservación de bosques según las leyes de la materia, lo que no implica una concesión para aprovechamiento forestal, así como, utilizar las aguas racionalmente.
 
-Cuando las obras a que se refieren los numerales 2), 3) y 4) de este Artículo, necesariamente deban ser ejecutadas fuera del perímetro de la concesión minera, deberá solicitarse la autorización del caso al Ministerio de Energía y Minas, la que será concedida una vez comprobada la necesidad de dichos trabajos, sin perjuicio de las autorizaciones que deban obtener de otras autoridades.
+Cuando las obras a que se refieren los numerales 2), 3) y 4) de este Artículo, necesariamente deban ser ejecutadas fuera del perímetro de la concesión minera, deberá solicitarse la autorización de) caso al Ministerio de Energía y Minas, la que será concedida una vez comprobada la necesidad de dichos trabajos, sin perjuicio de las autorizaciones que deban obtener de otras autoridades.
