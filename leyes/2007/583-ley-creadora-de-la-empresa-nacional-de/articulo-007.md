@@ -6,6 +6,6 @@ Para ser miembro de la Junta Directiva de la Empresa Nacional de Transmisión El
 
 1. Estar en pleno goce de sus derechos civiles y políticos;
 
-2. Ocupar el cargo en la correspondiente Institución; y
+2. Derogado.
 
 3. No haber sido suspendido ni inhabilitado para el desempeño de cargos públicos por sentencia firme.

@@ -14,13 +14,13 @@ Son atribuciones de la Junta Directiva de ENATREL, las siguientes:
 
 5. Ratificar la participación accionaria de ENATREL en sociedades, empresas, de derecho público, privado, o mixtas;
 
-6. Otorgar poderes de cualquier clase o naturaleza con las facultades que considere necesarias;
+6. Otorgar poderes de Administración, Especiales o Judiciales de acuerdo con las necesidades y la buena andanza de ENATREL;
 
 7. Aprobar la enajenación, hipoteca o gravamen de los bienes inmuebles de la Empresa, todo de conformidad con lo establecido en las leyes de la materia;
 
 8. Solicitar al Consejo Superior de la Contraloría General de la República el nombramiento del Auditor Interno de la Empresa y suspender o destituir al que haya sido seleccionado por la Contraloría General de la República conforme la Ley de la materia;
 
-9. Establecer y aprobar la estructura organizativa y funcional de la Empresa, sus reformas y adiciones, los Reglamentos Internos de la Empresa, sus manuales y demás normativas aplicables;
+9. Establecer y aprobar la estructura organizativa y funcional de la Empresa, sus reformas y adiciones, los Reglamentos Internos de la Empresa, sus manuales y demás normativas aplicables; incluyendo el nombramiento de un Vicepresidente Ejecutivo. El cargo de Vicepresidente Ejecutivo es compatible con el de miembro de la Junta Directiva de ENATREL.
 
 10. Conocer de los informes de auditoría interna y externa, resolviendo lo que en derecho corresponda; y
 

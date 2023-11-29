@@ -12,13 +12,13 @@ La finalidad principal de ENATREL es la transmisión eléctrica, para ello deber
 
 4. Transmitir o transportar energía eléctrica a un voltaje mayor o igual a 69 kv, a través del Sistema Nacional de Transmisión;
 
-5. Transformar energía eléctrica en todos los niveles de tensión con capacidad instalada en el país, de conformidad a lo dispuesto en la Ley Nº. 272, Ley de la Industria Eléctrica, su Reglamento y las Normativas del Sector Eléctrico que le fueren aplicables;
+5. Transformar energía eléctrica en todos los niveles de tensión con capacidad instalada en el país, de conformidad a lo dispuesto en la Ley N°. 272, Ley de la Industria Eléctrica, su Reglamento y las Normativas del Sector Eléctrico que le fueren aplicables;
 
 6. Elaborar el Plan de Expansión de ENATREL tomando como referencia el Plan del o los distribuidores de energía eléctrica, el Plan Indicativo de Generación elaborado por el Ministerio de Energía y Minas y las condiciones actuales del Sistema Nacional de Transmisión;
 
 7. Ejecutar programas, proyectos, obras o contratos de ampliación del sistema de distribución de energía en coordinación con las empresas distribuidoras en las zonas concesionadas y no concesionadas, derivados del Fondo para el Desarrollo de la Industria Eléctrica Nacional FODIEN, el Programa Nacional de Electrificación Sostenible y Energía Renovable PNESER y de otros proyectos de electrificación urbanos o rurales;
 
-8. Establecer servidumbres administrativas de conformidad al procedimiento establecido en la Ley Nº. 272, Ley de la Industria Eléctrica, publicada en La Gaceta, Diario Oficial Nº. 74 del 23 de abril de 1998 y sus reformas;
+8. Establecer servidumbres administrativas de conformidad al procedimiento establecido en la Ley N°. 272, Ley de la Industria Eléctrica;
 
 9. Participar en la constitución y creación de empresas de transmisión, de telecomunicación por fibra óptica u otros del sector eléctrico nacionales, regionales o internacionales, de derecho público, privado o mixto y asociarse con las existentes y formar parte de empresas regionales de transmisión, de telecomunicación por fibra óptica u otros del sector eléctrico, de conformidad con la legislación nacional y los instrumentos internacionales ratificados por Nicaragua;
 
@@ -41,3 +41,5 @@ f. Servicios de diseño, consultoría e instalación de sistemas de comunicacion
 g. Cualquier otra actividad o prestación de servicios conexos.
 
 12. Ejecutar cualquier otra actividad necesaria para su desarrollo, todo de conformidad con la Ley de la materia.
+
+13. Comercializar energía eléctrica, así como ejercer la actividad de distribución de energía eléctrica, dentro de las áreas que le sean concesionadas y/o asignadas por el Ministerio de Energía y Minas. De igual forma, participar en la constitución y creación de empresas de distribución y/o comercialización de energía eléctrica nacionales, así como ostentar la titularidad directa o indirecta de acciones, asociarse y/o crear alianzas con empresas de distribución de energía eléctrica en operación.

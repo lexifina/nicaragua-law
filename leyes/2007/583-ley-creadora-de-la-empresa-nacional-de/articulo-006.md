@@ -2,22 +2,14 @@
 
 Órganos de Dirección
 
-Son Órganos de Dirección y Administración de ENATREL:
+Son Óiganos de Dirección y Administración de ENATREL:
 
 1. La Junta Directiva;
 
-2. El Presidente Ejecutivo.
+2. El Presidente Ejecutivo y el Vicepresidente Ejecutivo.
 
-La Junta Directiva de ENATREL, estará integrada por:
+La Junta Directiva de ENATREL, estará integrada por un número no mayor de cuatro miembros y no menor de dos miembros designados por el Presidente de la República. De entre ellos, elegirán un Presidente y un Secretario, el resto de miembros ocuparán el cargo de Vocal.
 
-1. Un representante del Ministerio de Energía y Minas, quien ocupará el cargo de Presidente (a) de la Junta Directiva;
+La Junta Directiva deberá elaborar su Reglamento Interno en el que se establecerá su funcionamiento, forma de representación y .otras regulaciones. Operará válidamente siempre que cumpla la integración indicada en el presente artículo.
 
-2. Un representante del Ministerio de Hacienda y Crédito Público, quien ocupará el cargo de Vicepresidente (a);
-
-3. Un representante de ENATREL, quien ocupará el cargo de Secretario (a) de la Junta Directiva;
-
-4. Un (a) representante del Instituto Nicaragüense de Telecomunicaciones y Correos, quien ocupará el cargo de Vocal;
-
-5. Un representante de la Empresa Nicaragüense de Acueductos y Alcantarillados, quien ocupará el cargo de Fiscal.
-
-La designación de los representantes de las instituciones que integran la Junta Directiva y del Presidente Ejecutivo de ENATREL le corresponde al Presidente de la República. La Junta Directiva deberá elaborar su Reglamento Interno en el que se establecerán su funcionamiento, forma de representación y otras regulaciones.
+La designación del Presidente Ejecutivo de ENATREL le corresponde al Presidente de la República.

@@ -12,9 +12,9 @@ De acuerdo a sus finalidades, actividades conexas y demás, son atribuciones del
 
 4. Representar a ENATREL ante las empresas regionales, públicas, privadas o mixtas de las cuales forma parte ENATREL, pudiendo delegar la participación en sesiones de estas por medio del instrumento legal correspondiente;
 
-5. Otorgar poderes de Administración, Especiales o Judiciales de acuerdo a las necesidades y la buena andanza de ENATREL;
+5. Otorgar poderes Especiales o Judiciales de acuerdo con las necesidades y la buena andanza de ENATREL;
 
-6. Dirigir y administrar la ejecución de los proyectos relacionados con la electrificación a nivel nacional con fondos propios, fondos del tesoro nacional o externos, entre estos el componente uno (1) "Electrificación Rural por Extensión de Redes" y dos (2) "Normalización del Servicio en Asentamientos", el Programa Nacional de Electrificación Sostenible y Energía Renovable PNESER, en áreas concesionadas o no concesionadas;
+6. Dirigir y administrar la ejecución de los proyectos relacionados con la electrificación a nivel nacional con fondos propios, fondos del tesoro nacional o externos, entre estos el componente uno (1) “Electrificación Rural por Extensión de Redes” y dos (2) “Normalización del Servicio en Asentamientos”, el Programa Nacional de Electrificación Sostenible y Energía Renovable PNESER, en áreas concesionarias o no concesionarias;
 
 7. Establecer y aprobar los instrumentos normativos y reglamentarios relacionados con las políticas de servicios que brinda ENATREL, en el giro normal de la empresa, que no requiera aprobación del ente regulador;
 
