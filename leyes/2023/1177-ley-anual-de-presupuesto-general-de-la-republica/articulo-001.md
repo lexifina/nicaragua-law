@@ -1,0 +1,3 @@
+# Artículo 1
+
+Apruébese el Presupuesto General de Ingresos para el ejercicio presupuestario 2024, por el monto estimado de C$138,634,267,607.00 (CIENTO TREINTA Y OCHO MIL SEISCIENTOS TREINTA Y CUATRO MILLONES DOSCIENTOS SESENTA Y SIETE MIL SEISCIENTOS SIETE CÓRDOBAS NETOS), de los que C$ 138,616,836,471.00 (CIENTO TREINTA Y OCHO MIL SEISCIENTOS DIECISEIS MILLONES OCHOCIENTOS TREINTA Y SEIS MIL CUATROCIENTOS SETENTA Y UN CÓRDOBAS NETOS) corresponden a ingresos corrientes y C$17,431,136.00 (DIECISIETE MILLONES CUATROCIENTOS TREINTA Y UN MIL CIENTO TREINTA Y SEIS CÓRDOBAS NETOS) a ingresos de capital, que forman parte de esta Ley, de acuerdo a la distribución por fuente de ingresos.

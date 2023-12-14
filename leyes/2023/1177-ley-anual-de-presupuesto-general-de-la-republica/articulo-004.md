@@ -1,0 +1,7 @@
+# Artículo 4
+
+El Financiamiento Neto estimado, de conformidad al Artículo anterior, está compuesto por la suma de C$1,054,429,064.00 (UN MIL CINCUENTA Y CUATRO MILLONES CUATROCIENTOS VEINTINUEVE MIL SESENTA Y CUATRO CÓRDOBAS NETOS), en concepto de donaciones externas; C$4,760,058,621.00 (CUATRO MIL SETECIENTOS SESENTA MILLONES CINCUENTA Y OCHO MIL SEISCIENTOS VEINTIÚN CÓRDOBAS NETOS) de financiamiento externo neto, menos C$ 10,644,040,292.00 (DIEZ MIL SEISCIENTOS CUARENTA Y CUATRO MILLONES CUARENTA MIL DOSCIENTOS NOVENTA Y DOS CÓRDOBAS NETOS) de financiamiento interno neto.
+
+El financiamiento externo neto está conformado por la suma de C$20,001,268,621.00 (VEINTE MIL UN MILLONES DOSCIENTOS SESENTA Y OCHO MIL SEISCIENTOS VEINTIÚN CÓRDOBAS NETOS) de desembolsos de préstamos externos, menos la suma de C$ 15,241,210,000.00 (QUINCE MIL DOSCIENTOS CUARENTA Y UN MILLONES DOSCIENTOS DIEZ MIL CÓRDOBAS NETOS) que corresponden a pagos de amortización de la deuda externa.
+
+Por su parte, el financiamiento interno neto está compuesto de la colocación de Bonos de la República de Nicaragua por la suma de C$3,662,430,000.00 (TRES MIL SEISCIENTOS SESENTA Y DOS MILLONES CUATROCIENTOS TREINTA MIL CÓRDOBAS NETOS), aumento de disponibilidades en el Banco Central de Nicaragua de C$7,040,061,292.00 (SIETE MIL CUARENTA MILLONES SESENTA Y UN MIL DOSCIENTOS NOVENTA Y DOS CÓRDOBAS NETOS), menos la suma de C$7,266,409,000.00 (SIETE MIL DOSCIENTOS SESENTA Y SEIS MILLONES CUATROCIENTOS NUEVE MIL CÓRDOBAS NETOS) que corresponden a pagos de amortización de la deuda interna.

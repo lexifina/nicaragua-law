@@ -1,0 +1,3 @@
+# Artículo 6
+
+Sin perjuicio de lo establecido en la Ley Nº. 466, Ley de Transferencias Presupuestarias a los Municipios de Nicaragua, se establece como medida temporal para el ejercicio presupuestario 2024, el porcentaje del ocho por ciento (8.0%) sobre el monto estimado de ingresos tributarios establecidos en la presente Ley, como asignación para transferencias municipales a las Alcaldías. Por tanto, el monto asignado a la partida de transferencia municipal para el presente ejercicio presupuestario es de C$10,356,832,595.00 (DIEZ MIL TRESCIENTOS CINCUENTA Y SEIS MILLONES OCHOCIENTOS TREINTA Y DOS MIL QUINIENTOS NOVENTA Y CINCO CÓRDOBAS NETOS), y cuya distribución es parte de esta Ley.
