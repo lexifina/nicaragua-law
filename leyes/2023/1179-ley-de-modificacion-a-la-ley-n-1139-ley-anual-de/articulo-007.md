@@ -1,0 +1,3 @@
+# Artículo 7
+
+Modifíquese el Artículo 1, de la Ley N°. 1139, Ley Anual de Presupuesto General de la República 2023, el cual se leerá así: “Apruébese el Presupuesto General de Ingresos para el ejercicio presupuestario 2023 por un monto estimado de C$128,882,879,146.00 (CIENTO VEINTIOCHO MIL OCHOCIENTOS OCHENTA Y DOS MILLONES OCHOCIENTOS SETENTA Y NUEVE MIL CIENTO CUARENTA Y SEIS CÓRDOBAS NETOS), de los que C$128,881,116,679.00 (CIENTO VEINTIOCHO MIL OCHOCIENTOS OCHENTA Y UN MILLONES CIENTO DIECISEIS MIL SEISCIENTOS SETENTA Y NUEVE CÓRDOBAS NETOS) corresponden a ingresos corrientes y C$1,762,467.00 (UN MILLÓN SETECIENTOS SESENTA Y DOS MIL CUATROCIENTOS SESENTA Y SIETE CÓRDOBAS NETOS) a ingresos de capital, que forman parte de la Ley”.

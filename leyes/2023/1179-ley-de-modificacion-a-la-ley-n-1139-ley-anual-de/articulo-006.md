@@ -1,0 +1,3 @@
+# Artículo 6
+
+Redúzcase el Financiamiento Interno Neto en un monto de C$1,310,962,388.00 (UN MIL TRESCIENTOS DIEZ MILLONES NOVECIENTOS SESENTA Y DOS MIL TRESCIENTOS OCHENTA Y OCHO CÓRDOBAS NETOS), correspondiente a mayor pago de amortización del servicio de la Deuda Pública Interna por el monto de C$1,194,158,316.00 (UN MIL CIENTO NOVENTA Y CUATRO MILLONES CIENTO CINCUENTA Y OCHO MIL TRESCIENTOS DIECISEIS CÓRDOBAS NETOS), de conformidad con los aumentos contenidos en Anexo N°. VI, y aumento de variación de disponibilidades en el monto de C$116, 804,072.00 (CIENTO DIESCISÉIS MILLONES OCHOCIENTOS CUATRO MIL SETENTA Y DOS CÓRDOBAS NETOS).

@@ -1,0 +1,27 @@
+LEY N°. 1179, LEY DE MODIFICACIÓN A LA LEY N°. 1139, LEY ANUAL DE PRESUPUESTO GENERAL DE LA REPÚBLICA 2023
+
+Aprobada el 12 de diciembre de 2023
+
+Publicada en La Gaceta, Diario Oficial N°. 228 del 15 de diciembre de 2023
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+A sus habitantes, hace saber:
+
+Que,
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+Ha ordenado lo siguiente:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+HA DICTADO
+
+La siguiente:
+
+LEY N°. 1179
+
+LEY DE MODIFICACIÓN A LA LEY N°. 1139, LEY ANUAL DE PRESUPUESTO GENERAL DE LA REPÚBLICA 2023
