@@ -1,0 +1,7 @@
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua, a los veintidós días del mes de diciembre del año dos mil veintitrés. Dip. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+
+Por tanto. Téngase como Ley de la República. Publíquese y Ejecútese. Managua, el día veintidós de diciembre del año dos mil veintitrés. Daniel Ortega Saavedra, Presidente de la República de Nicaragua.
+
+Observación: La Ley N°. 1183, dispone la Jerarquía de los Grados en las Direcciones Generales del Ministerio de Gobernación. La Ley N° 1184, en el Artículo 10 Adecuación, dispone que para todos los efectos legales, en todo instrumento jurídico donde se lea Ministerio de Gobernación, deberá leerse Ministerio del Interior.
+
+.
