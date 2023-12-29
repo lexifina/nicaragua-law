@@ -1,0 +1,23 @@
+LEY N°. 1184, LEY QUE ESTABLECE LAS FUNCIONES Y ESTRUCTURA DEL MINISTERIO DEL INTERIOR
+
+Aprobada el 28 de diciembre de 2023
+
+Publicada en La Gaceta, Diario Oficial N°. 237 del 29 de diciembre de 2023
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+A sus habitantes, hace saber:
+
+Que,
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA,
+
+En uso de sus facultades,
+
+HA DICTADO
+
+La siguiente:
+
+LEY N°. 1184
+
+LEY QUE ESTABLECE LAS FUNCIONES Y ESTRUCTURA DEL MINISTERIO DEL INTERIOR
