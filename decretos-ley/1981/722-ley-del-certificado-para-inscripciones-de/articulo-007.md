@@ -1,6 +1,6 @@
 # Artículo 7
 
-La Comisión a que se refiere el artículo anterior en uso de las facultades generales que se le otorgan por esta Ley podrá:
+La Comisión a que se refiere el Artículo anterior en uso de las facultades generales que se le otorgan por esta Ley podrá:
 
 a) Fijar en forma progresiva las zonas geográficas de aplicación del sistema creado por esta Ley;
 

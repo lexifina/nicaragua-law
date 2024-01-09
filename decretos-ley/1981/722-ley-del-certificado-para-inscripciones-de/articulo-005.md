@@ -18,6 +18,6 @@ El Certificado de Defunción emitido por el Ministerio de Salud debe contener lo
 
 8. Lugar y fecha de emisión del Certificado.
 
-9. Nombre de la persona que estableció el diagnóstico; y,
+9. Nombre de la persona que estableció el diagnóstico; y.
 
 10. Nombre y firma del Responsable del Ministerio de Salud.
