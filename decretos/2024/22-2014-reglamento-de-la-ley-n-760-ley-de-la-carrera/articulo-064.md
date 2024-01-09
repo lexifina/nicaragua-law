@@ -1,0 +1,11 @@
+# Artículo 64
+
+Del Recurso de Apelación al proceso de Evaluación al Desempeño
+
+De acuerdo al Artículo 60 de la Ley, de haber obtenido una Resolución desfavorable, él o la integrante de la Carrera Sanitaria podrá interponer Recurso de Apelación ante la Comisión Nacional de la Carrera Sanitaria, dentro de los cinco (5) días hábiles después de haber sido notificado de la Resolución sobre el Recurso de Revisión.
+
+La admisión del Recurso de Apelación será tramitada por la División General de Recursos Humanos o por quien ella delegue, convocará a los otros integrantes de la Comisión Nacional de la Carrera Sanitaria y solicitará a la Comisión de Evaluación del Desempeño del Establecimiento de Salud correspondiente, el envío de las diligencias realizadas dentro del término de setenta y dos (72) horas hábiles.
+
+La Comisión Nacional de la Carrera Sanitaria resolverá el Recurso de Apelación a más tardar dentro del término de sesenta (60) días hábiles, que se contarán a partir de haber sido interpuesto. Si no se resuelve en este plazo se tendrá por resuelto a favor del apelante.
+
+La interposición de los Recursos de Revisión y de Apelación, suspende los efectos de la evaluación mientras se resuelven estos Recursos.
