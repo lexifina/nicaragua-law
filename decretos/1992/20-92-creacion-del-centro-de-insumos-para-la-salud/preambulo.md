@@ -1,12 +1,16 @@
+TEXTO CONSOLIDADO, DECRETO EJECUTIVO N°. 20-92, CREACIÓN DEL CENTRO DE INSUMOS PARA LA SALUD
+
+DECRETO EJECUTIVO N°. 20-92, aprobado el 27 de septiembre de 2023
+
+Publicado en La Gaceta, Diario Oficial N°. 2 del 09 de enero de 2024
+
+Digesto Jurídico Nicaragüense de la Materia de Salud
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas del Decreto Ejecutivo N°. 20-92, Creación del Centro de Insumos para la Salud, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense y la Ley N°. 1164, Ley del Digesto Jurídico Nicaragüense de la Materia de Salud, aprobada el 27 de septiembre de 2023.
+
 CREACIÓN DEL CENTRO DE INSUMOS PARA LA SALUD
 
-DECRETO EJECUTIVO N°. 20-92, aprobado el 20 de marzo de 1992
-
-Publicado en La Gaceta, Diario Oficial N°. 66 del 06 de abril de 1992
-
-Creación del Centro de Insumos para la Salud
-
-DECRETO No. 20-92
+DECRETO N°. 20-92
 
 EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA,
 
@@ -22,7 +26,7 @@ Que el abastecimiento médico a la población constituye una de las áreas de ge
 
 III
 
-Que para agilizar y mejorar los mecanismos de distribución y abastecimiento médico en beneficio de la salud de los nicaragüenses, la Junta General de Corporaciones Nacionales del Sector Público, de acuerdo con el Ministerio de Salud y el Ministerio de Finanzas, ha aprobado y presentado a la Presidencia de la República una resolución para que se transfiera la Corporación Farmacéutica al sector de la salud, proponiendo la asunción por el Estado de los pasivos de dicha Corporación.
+Que para agilizar y mejorar los mecanismos de distribución y abastecimiento médico en beneficio de la salud de los nicaragüenses, la Junta General de Corporaciones Nacionales del Sector Público, de acuerdo con el Ministerio de Salud y el Ministerio de Hacienda y Crédito Público, ha aprobado y presentado a la Presidencia de la República una resolución para que se transfiera la Corporación Farmacéutica al sector de la salud, proponiendo la asunción por el estado de los pasivos de dicha Corporación.
 
 Por Tanto:
 
