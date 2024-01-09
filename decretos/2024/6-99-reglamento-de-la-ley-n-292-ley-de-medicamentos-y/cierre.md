@@ -1,0 +1,9 @@
+Dado en la ciudad de Managua, Casa Presidencial, a los veinticinco días del mes de enero de mil novecientos noventa y nueve. ARNOLDO ALEMÁN LACAYO, PRESIDENTE DE LA REPÚBLICA DE NICARAGUA. - MARTHA MCCOY SÁNCHEZ, MINISTRO DE SALUD.
+
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por: 1. Decreto Ejecutivo N°. 125-99, publicado en La Gaceta, Diario Oficial N°. 235 del 9 de diciembre de 1999; 2. Decreto Ejecutivo N°. 50-2000, Reforma del Decreto N°. 6-99, Reglamento de la Ley de Medicamentos y Farmacias, Ley Nº. 292, publicado en La Gaceta, Diario Oficial N°. 107 del 7 de junio de 2000; 3. Decreto Ejecutivo N°. 23-2002, De Reforma del Decreto No. 6-99, Reglamento de la Ley de Medicamentos y Farmacias, publicado en La Gaceta, Diario Oficial Nº. 46 del 7 de marzo de 2002; 4. Ley N°. 987, Ley de Reformas y Adiciones a la Ley Nº. 822, Ley de Concertación Tributaria, publicada en La Gaceta, Diario Oficial N°. 41 del 28 de febrero de 2019; 5. Ley N°. 1068, Ley Creadora de la Autoridad Nacional de Regulación Sanitaria, publicada en La Gaceta, Diario Oficial N°. 58 del 24 de marzo de 2021; 6. Ley N°. 1115, Ley General de Regulación y Control de Organismos Sin Fines de Lucro, publicada en La Gaceta, Diario Oficial N°. 66 del 6 de abril de 2022 y los criterios jurídicos de pérdida de vigencia por Objeto Cumplido.
+
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los veintisiete días del mes de septiembre del año dos mil veintitrés. Dip. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+
+Observación: El Texto Consolidado del Decreto Ejecutivo N°. 6-99, Reglamento de la Ley N°. 292, Ley de Medicamentos y Farmacias, se encuentra incorporado en el Anexo IV, Registro de Normas Consolidadas de la Ley del Digesto Jurídico Nicaragüense de la Materia de Salud.
+
+.

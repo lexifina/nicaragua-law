@@ -1,0 +1,3 @@
+# Artículo 49
+
+Los puestos de venta de medicamentos a que hace referencia el Artículo 59 literal d) de la Ley, están facultados para vender productos populares y será necesario que el Responsable de este establecimiento realice un curso básico de almacenamiento y expendio de medicamentos, el que será impartido por la Dirección de Farmacia del Ministerio de Salud. Los productos populares se podrán comercializar en pulperías, misceláneas, supermercados gasolineras y en cualquier tipo de comercio, a excepción de los canastos de los mercados y las ventas ambulantes, las que no podrán comercializar ningún tipo de medicamento.

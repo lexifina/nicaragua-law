@@ -1,0 +1,3 @@
+# Artículo 31
+
+Para la adquisición de nuevos recetarios es obligatorio presentar los talonarios en la Dirección de Farmacia del Ministerio de Salud. En caso de extravío o robo de un recetario, se levantará Acta ante la Estación Policial que corresponda, dando aviso al Ministerio de Salud en las primeras 24 horas, anexando copia del Acta levantada, requisito indispensable para la adquisición de uno nuevo. Además deberá publicar al menos un aviso en un periódico de circulación nacional, haciendo constar el hecho e indicando la numeración de las recetas extraviadas o robadas y dejando constancia de que no responderá por el mal uso que se puedan hacer de estas.
