@@ -16,7 +16,7 @@ e) Tenga con la persona receptora relación conyugal o unión de hecho estable d
 
 f) Cumpla con los protocolos establecidos;
 
-g) Tenga compatibilidad sanguínea e histocompatibilidad con la persona receptora, de conformidad con las pruebas médicas practicadas, según reglamento y normativas que para su efecto dicte el Ministerio de Salud;
+g) Tenga compatibilidad sanguínea e histocompatibilidad con la persona receptora, de conformidad con las pruebas médicas practicadas, según Reglamento y normativas que para su efecto dicte el Ministerio de Salud;
 
 h) Cuando la remoción de uno de dos órganos pares o de componentes anatómicos no implique un riesgo previsible para la persona del donante; y
 

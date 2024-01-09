@@ -6,41 +6,41 @@ Para los efectos de esta Ley, la muerte encefálica de una persona, podrá ser e
 
 a) La presencia del conjunto de los siguientes signos clínicos:
 
-1) Coma o pérdida permanente e irreversible del estado de conciencia;
+1. Coma o pérdida permanente e irreversible del estado de conciencia;
 
-2) Ausencia de respuesta motora y de reflejos a la estimulación externa;
+2. Ausencia de respuesta motora y de reflejos a la estimulación externa;
 
-3) Ausencia de reflejos propios del tallo cerebral; y
+3. Ausencia de reflejos propios del tallo cerebral; y
 
-4) Apnea.
+4. Apnea.
 
 b) Previa a la certificación clínica de la muerte, según criterios neurológicos, deben descartarse casos de:
 
-1) Hipotermia;
+1. Hipotermia;
 
-2) Intoxicaciones;
+2. Intoxicaciones;
 
-3) Intoxicaciones irreversibles;
+3. Intoxicaciones irreversibles;
 
-4) Alteraciones metabólicas graves;
+4. Alteraciones metabólicas graves;
 
-5) Shock; y
+5. Shock; y
 
-6) Uso de sedantes o bloqueadores neuromusculares.
+6. Uso de sedantes o bloqueadores neuromusculares.
 
-c) La realización de pruebas instrumentales, se considerará en aquellos casos donde haya imposibilidad de realizar el examen neurológico y para acortar los tiempos de observación entre diferentes evaluaciones clínicas. Su objetivo es valorar tanto el flujo sanguíneo cerebral como la funciones electrofisiológica del encéfalo y el tallo cerebral.
+c) La realización de pruebas instrumentales, se considerará en aquellos casos donde haya imposibilidad de realizar el examen neurológico y para acortar los tiempos de observación entre diferentes evaluaciones clínicas. Su objetivo es valorar tanto el flujo sanguíneo cerebral como las funciones electrofisiológicas del encéfalo y el tallo cerebral.
 
 d) Las pruebas instrumentales a realizar sin que sean acumulativas podrán ser:
 
-1) Las que valoran la función electrofisiológica encefálica y del tallo cerebral:
+1. Las que valoran la función electrofisiológica encefálica y del tallo cerebral:
 
 i. Electroencefalograma.
 
 ii. Potenciales evocados de tallo cerebral.
 
-2) Las que valoran la circulación cerebral:
+2. Las que valoran la circulación cerebral:
 
-i. Sonografía Doppler Transcraneal
+i. Sonografía Doppler Transcraneal.
 
 ii. Arteriografía Cerebral de 4 Vasos.
 

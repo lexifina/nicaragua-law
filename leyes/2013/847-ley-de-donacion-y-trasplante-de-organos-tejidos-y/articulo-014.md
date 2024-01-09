@@ -20,4 +20,4 @@ g) Las o los parientes consanguíneos mayores de veintiún años hasta el cuarto
 
 h) Las o los parientes por afinidad mayores de veintiún años hasta el segundo grado de afinidad inclusive.
 
-Si las personas están ubicadas en un mismo grado de consanguinidad o afinidad en el orden que se establece en el presente artículo, la oposición de una sola de éstas, eliminará la posibilidad de disponer del cadáver a los fines previstos en esta ley.
+Si las personas están ubicadas en un mismo grado de consanguinidad o afinidad en el orden que se establece en el presente Artículo, la oposición de una sola de estas, eliminará la posibilidad de disponer del cadáver a los fines previstos en esta Ley.

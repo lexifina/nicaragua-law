@@ -1,8 +1,8 @@
 # Artículo 4
 
-Definiciones Básicas.
+Definiciones Básicas
 
-Para los fines y efectos de la presente ley, se establecen las definiciones básicas siguientes:
+Para los fines y efectos de la presente Ley, se establecen las definiciones básicas siguientes:
 
 1. Ablación: Extirpación de cualquier órgano o parte del cuerpo de una persona mediante una operación o escisión quirúrgica, con fines de trasplantarlo en otra.
 
@@ -10,11 +10,11 @@ Para los fines y efectos de la presente ley, se establecen las definiciones bás
 
 3. Banco de tejidos: Lugar donde se conservan los tejidos en condiciones óptimas, procedentes de las y los donantes vivos o fallecidos para ser trasplantados, debidamente autorizados por el Ministerio de Salud.
 
-4. Cadáver: El cuerpo de una persona en el cual se ha producido el cese irreversible de las funciones cerebral o cardio-respiratorias, diagnosticadas de conformidad con la presente Ley.
+4. Cadáver: E l cuerpo de una persona en el cual se ha producido el cese irreversible de las funciones cerebral o cardio-respiratorias, diagnosticadas de conformidad con la presente Ley.
 
 5. Célula: Unidad morfológica y funcional del ser vivo.
 
-6. Células madres: Son células que dan origen a los diferentes tipos celulares que conforman los tejidos y órganos del organismo. Se denominan “células madres embrionarias” las que se encuentran durante las primeras etapas del desarrollo embrionario del individuo y “células madres adultas” las que se encuentran en los tejidos y órganos desde la etapa fetal y durante toda la vida.
+6. Células madres: Son células que dan origen a los diferentes tipos celulares que conforman los tejidos y órganos del organismo. Se denominan "células madres embrionarias" las que se encuentran durante las primeras etapas del desarrollo embrionario del individuo y "células madres adultas" las que se encuentran en los tejidos y órganos desde la etapa fetal y durante toda la vida.
 
 7. Componentes anatómicos: Órganos, tejidos, células y en general todas las partes que constituyen un organismo.
 
@@ -22,11 +22,11 @@ Para los fines y efectos de la presente ley, se establecen las definiciones bás
 
 9. Donante: Persona viva o muerta de la cual se obtiene un órgano, tejido u otro componente anatómico para un trasplante.
 
-10. Donante fallecida o fallecido: Es la persona que ha dejado constancia expresa para que se le extraigan órganos o componentes anatómicos de su cuerpo, a fin de ser utilizados para trasplantes en otros seres humanos. También podrá ser donante fallecida o fallecido, cuando después de ocurrida la muerte encefálica, los deudos autorizan a que del cuerpo de la persona fallecida se extraigan órganos, tejidos y células con el propósito de ser utilizados para trasplante en otras personas, con objetivos terapéuticos.
+10 Donante fallecida o fallecido: Es la persona que ha dejado constancia expresa para que se le extraigan órganos o componentes anatómicos de su cuerpo, a fin de ser utilizados para trasplantes en otros seres humanos. También podrá ser donante fallecida o fallecido, cuando después de ocurrida la muerte encefálica, los deudos autorizan a que del cuerpo de la persona fallecida se extraigan órganos, tejidos y células con el propósito de ser utilizados para trasplante en otras personas, con objetivos terapéuticos.
 
 11. Donante viva o vivo: Es la persona que efectúa la donación de su órgano o algún componente del mismo en vida, cuya extracción debe ser compatible con la vida del receptor y cuya función debe ser compensada por el organismo del donante, en forma adecuada y suficientemente segura.
 
-12. Donante viva relacionada o donante vivo relacionado: Se considera donante viva relacionada o donante vivo relacionado, aquella persona dentro del cuarto grado de consanguinidad y segundo de afinidad, que cumpliendo los requisitos establecidos en la presente ley, efectúe la donación en vida de aquellos órganos, o parte de los mismos, cuya extracción sea compatible con la vida y cuya función pueda ser compensada por el organismo del donante de forma adecuada y suficientemente segura. Se incluye al compañero o compañera en unión de hecho estable. La misma regla se aplicará para los casos de filiación por adopción.
+12. Donante viva relacionada o donante vivo: Se considera donante viva relacionada o donante vivo relacionado, aquella persona dentro del cuarto grado de consanguinidad y segundo de afinidad, que, cumpliendo los requisitos establecidos en la presente Ley, efectúe la donación en vida de aquellos órganos, o parte de los mismos, cuya extracción sea compatible con la vida y cuya función pueda ser compensada por el organismo del donante de forma adecuada y suficientemente segura. Se incluye al compañero o compañera en unión de hecho estable. La misma regla se aplicará para los casos de filiación por adopción.
 
 13. Extracción de órganos: Proceso quirúrgico por el cual se obtienen el o los órganos de una persona donante viva o fallecida para su posterior trasplante.
 
@@ -38,7 +38,7 @@ Para los fines y efectos de la presente ley, se establecen las definiciones bás
 
 17. Investigación y docencia: Son los actos realizados por profesionales de la medicina o asociados a estos, en instituciones educativas científicas debidamente autorizadas por el Ministerio de Salud, en donde se utilizan órganos, tejidos y células, con propósitos de enseñanza o búsqueda de conocimiento que no puedan obtenerse por otros métodos, fundamentados en la experimentación previa o mediante la verificación de otros hechos científicos.
 
-18. Lista de espera: Es la relación de pacientes nicaragüenses con indicación médica y en espera de trasplante, que permite determinar el orden de distribución y asignación de órganos, tejidos y células, de acuerdo a los criterios establecidos en esta ley.
+18. Lista de espera: Es la relación de pacientes nicaragüenses con indicación médica y en espera de trasplante, que permite determinar el orden de distribución y asignación de órganos, tejidos y células, de acuerdo a los criterios establecidos en esta Ley.
 
 19. MINSA: Ministerio de Salud.
 

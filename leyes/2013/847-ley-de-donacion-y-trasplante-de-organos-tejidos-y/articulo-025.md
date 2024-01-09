@@ -18,6 +18,6 @@ f) Solicitud al Comité Hospitalario de Trasplantes correspondiente para el trá
 
 g) La institución pública o privada no estará obligada a informar la procedencia del órgano o tejido de la o él donante; y
 
-h) Pacientes que han sido sometidos a trasplante de órganos o tejidos y hubo rechazo de éste, debe someterse nuevamente a lista de espera y ser evaluado por el Comité Hospitalario de Trasplantes para una nueva oportunidad.
+h) Pacientes que han sido sometidos a trasplante de órganos o tejidos y hubo rechazo de este, debe someterse nuevamente a lista de espera y ser evaluado por el Comité Hospitalario de Trasplantes para una nueva oportunidad.
 
 REGISTRO Y ACREDITACIÓN DE LAS Y LOS PROFESIONALES

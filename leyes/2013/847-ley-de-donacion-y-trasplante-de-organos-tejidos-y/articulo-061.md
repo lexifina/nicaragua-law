@@ -1,10 +1,10 @@
 # Artículo 61
 
-Reforma a la Ley Nº. 641
+Reforma a la Ley N°. 641
 
-Refórmese el artículo 346 del Libro Segundo de la Ley No. 641, “Código Penal”, publicada en La Gaceta, Diario Oficial Números 83, 84, 85, 86 y 87 correspondientes a los días 5, 6, 7, 8 y 9 de mayo del 2008, respectivamente, el que se leerá así:
+Refórmese el Artículo 346 del Libro Segundo de la Ley N°. 641, Código Penal, publicada en La Gaceta, Diario Oficial Números 83, 84, 85, 86 y 87 correspondientes a los días 5, 6, 7, 8 y 9 de mayo del 2008, respectivamente, el que se leerá así:
 
-“Art. 346. Tráfico, extracción, conservación, traslado y trasplante de órganos, tejidos y células humanas
+"Artículo. 346. Tráfico, extracción, conservación, traslado y trasplante de órganos, tejidos y células humanas
 
 Quien sin la autorización correspondiente o mediante móvil de interés económico, favores o ventajas, importe, exporte, traslade, extraiga, trasplante, conserve o tenga en su poder órganos, tejidos y células, propios o ajenos tanto de persona viva como fallecida, será penada o penado con prisión de cinco a diez años e inhabilitación especial por el mismo período para el ejercicio de la profesión, oficio o actividad relacionados con la conducta. Si los órganos o tejidos humanos provinieran de una niña, niño o adolecente o personas con discapacidades, entre otras personas que no les permita tomar decisiones libres y consientes, la pena será de seis a doce años de prisión y la inhabilitación especial por el mismo período.
 
@@ -14,4 +14,4 @@ La publicidad, anuncio u ofrecimiento por cualquier medio, para cometer cualquie
 
 En la misma pena incurrirá el que trafique con gametos, cigotos o embriones humanos, obtenidos de cualquier manera o a cualquier título.
 
-Las penas anteriores se impondrán sin perjuicio de las que correspondan en caso de delitos en contra de la vida o la integridad física.”
+Las penas anteriores se impondrán sin perjuicio de las que correspondan en caso de delitos en contra de la vida o la integridad física".

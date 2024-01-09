@@ -2,7 +2,7 @@
 
 Derechos de las personas donantes y receptores
 
-Además de los derechos establecidos en la Ley N°. 423, “Ley General de Salud”, las personas donantes y las receptoras, gozarán de los siguientes derechos:
+Además de los derechos establecidos en la Ley N°. 423, Ley General de Salud, las personas donantes y las receptoras, gozarán de los siguientes derechos:
 
 a) Ser informadas e informados de manera suficiente, clara y adaptada a su edad, nivel cultural y desarrollo emocional sobre los riesgos de la operación de ablación y trasplante terapéutico, según sea el caso, sus secuelas físicas y psíquicas ciertas o posibles, la evolución previsible y las limitaciones resultantes, así como las posibilidades de mejoría para el receptor o receptora;
 
