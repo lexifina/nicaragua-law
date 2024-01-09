@@ -1,14 +1,16 @@
-REGLAMENTO DE LA LEY N°. 727, LEY PARA EL CONTROL DEL TABACO
+TEXTO CONSOLIDADO, DECRETO EJECUTIVO Nº. 41-2011, REGLAMENTO DE LA LEY Nº. 727, LEY PARA EL CONTROL DEL TABACO
 
-DECRETO EJECUTIVO N°. 41-2011, aprobado el 11 de agosto de 2011
+DECRETO EJECUTIVO Nº. 41-2011, aprobado el 27 de septiembre de 2023
 
-Publicado en La Gaceta, Diario Oficial N°. 155 del 18 de agosto de 2011
+Publicado en La Gaceta, Diario Oficial N°. 2 del 09 de enero de 2024
 
-Gobierno de Reconciliación y Unidad Nacional
+ASAMBLEA NACIONAL
 
-Unida Nicaragua Triunfa
+Digesto Jurídico Nicaragüense de la Materia de Salud
 
-DECRETO No. 41-2011
+El presente texto contiene incorporadas todas sus modificaciones consolidadas del Decreto Ejecutivo Nº.41-2011, Reglamento de la Ley Nº. 727, Ley para el Control del Tabaco, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense y la Ley Nº. 1164, Ley del Digesto Jurídico Nicaragüense de la Materia de Salud, aprobada el 27 de septiembre de 2023.
+
+DECRETO Nº. 41-2011
 
 El Presidente de la República
 
@@ -22,15 +24,15 @@ Que la Constitución Política de Nicaragua en su Artículo 59 establece que "Lo
 
 II
 
-Que la 56a Asamblea Mundial de la Salud, WHA56.1, aprobó el 21 de mayo 2003. El Convenio Marco para el Control del Tabaco, siendo su objetivo y de sus protocolos proteger a las generaciones presentes y futuras contra las devastadoras consecuencias sanitarias, sociales, ambientales y económicas del consumo de tabaco y de las exposición al humo de tabaco proporcionando un marco para las medidas de control del tabaco que habrán de aplicar las Partes a nivel nacional, regional e internacional a fin de reducir de manera continua y sustancial la prevalencia del consumo de tabaco y la exposición al humo de tabaco.
+Que la 56a Asamblea Mundial de la Salud, WHA56.1, aprobó el 21 de mayo 2003, el Convenio Marco para el Control del Tabaco, siendo su objetivo y de sus protocolos proteger a las generaciones presentes y futuras contra las devastadoras consecuencias sanitarias, sociales, ambientales y económicas del consumo de tabaco y de las exposición al humo de tabaco proporcionando un marco para las medidas de control del tabaco que habrán de aplicar las Partes a nivel nacional, regional e internacional a fin de reducir de manera continua y sustancial la prevalencia del consumo de tabaco y la exposición al humo de tabaco.
 
 III
 
-Que la República de Nicaragua, mediante Decreto AN No. 5318, publicado en la Gaceta, Diario Oficial el 01 de Febrero del 2008, ratifico el Convenio Marco de la OMS para el Control del Tabaco.
+Que la República de Nicaragua, mediante Decreto AN Nº. 5318, publicado en La Gaceta, Diario Oficial el 01 de febrero del 2008, ratificó el Convenio Marco de la OMS para el Control del Tabaco.
 
 IV
 
-Que la Asamblea Nacional de Nicaragua, aprobó la Ley No. 727, "Ley para el Control del Tabaco", publicada en La Gaceta, Diario Oficial No. 151 del diez de Agosto del 2010; la que establece en su artículo 30 que La presente Ley será reglamentada en base a lo establecido en el numeral 10 del artículo 150 de la Constitución Política de la República de Nicaragua.
+Que la Asamblea Nacional de Nicaragua, aprobó la Ley Nº. 727, Ley para el Control del Tabaco, publicada en La Gaceta, Diario Oficial Nº. 151 del diez de agosto del 2010; la que establece en su Artículo 30 que la presente Ley será reglamentada en base a lo establecido en el numeral 10 del Artículo 150 de la Constitución Política de la República de Nicaragua.
 
 POR TANTO
 
@@ -42,8 +44,8 @@ El siguiente:
 
 DECRETO
 
-REGLAMENTO DE LA LEY No. 727, LEY PARA EL CONTROL DEL TABACO
+REGLAMENTO DE LA LEY Nº. 727, LEY PARA EL CONTROL DEL TABACO
 
-Capítulo I
+CAPÍTULO I
 
-Disposiciones Generales
+DISPOSICIONES GENERALES

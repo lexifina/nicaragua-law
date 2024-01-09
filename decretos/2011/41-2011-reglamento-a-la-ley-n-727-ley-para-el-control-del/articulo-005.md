@@ -1,12 +1,12 @@
 # Artículo 5
 
-Definiciones.
+Definiciones
 
-Sin perjuicio de las definiciones establecidas en el artículo 4 de la Ley, para efectos de este Reglamento, se entenderá por:
+Sin perjuicio de las definiciones establecidas en el Artículo 4 de la Ley, para efectos de este Reglamento, se entenderá por:
 
-Aditivo: Cualquier sustancia que se incluya en la preparación de los productos de tabaco cuyo objetivo sea desempeñar una función tecnológica como conservador o modificador de las características organolépticas, así como sustancias que modifiquen su absorción o el comportamiento fisiológico de cualquiera de los componentes de dichos productos.
+Aditivo: Cualquier sustancia que se incluya en la preparación de los productos de tabaco cuyo objetivo sea desempeñar una función tecnológica como conservador o modificador de las características organolépticas, así como sustancias que modifiquen su absorción o el comportamiento fisiológico de cualquiera de los componentes de dichos productos;
 
-Consejo: El Consejo Nacional para el Control del Tabaco.
+Consejo: El Consejo Nacional para el Control del Tabaco;
 
 Cigarrillo: Cigarro pequeño de picadura envuelta en un papel de fumar;
 
@@ -14,7 +14,7 @@ Cigarro o Puro: Rollo de hojas de tabaco, que se enciende por un extremo y se ch
 
 Control sanitario de los productos del Tabaco: Conjunto de acciones de orientación, educación, muestreo, verificación y en su caso, aplicación de medidas de seguridad y sanciones, que ejerce el MINSA, con base en lo que establecen la Ley, el Reglamento y demás disposiciones aplicables. Comprende diversas estrategias de reducción de la oferta, la demanda y los daños con objeto de mejorar la salud de la población reduciendo el consumo de productos del tabaco y la exposición al humo de tabaco de segunda mano;
 
-Contenido: A la lista compuesta de ingredientes, así como los componentes diferentes del tabaco, papel boquilla, tinta para impresión de marca, papel cigarro, filtro, envoltura de filtro y adhesivo de papel cigarro.
+Contenido: A la lista compuesta de ingredientes, así como los componentes diferentes del tabaco, papel boquilla, tinta para impresión de marca, papel cigarro, filtro, envoltura de filtro y adhesivo de papel cigarro;
 
 Denuncia Ciudadana: Notificación hecha a la autoridad competente por cualquier persona respecto de los presuntos hechos de incumplimiento de las disposiciones contenidas en esta Ley, sus reglamentos y demás disposiciones aplicables;
 
@@ -34,4 +34,4 @@ Pictograma: Advertencia sanitaria basada en fotografías, dibujos, signos, gráf
 
 Proceso: El conjunto de actividades relativas a la obtención, elaboración, fabricación, preparación, conservación, mezclado y acondicionamiento, de productos del tabaco objeto de este Reglamento;
 
-Tabaquismo: Grado intoxicación crónica producida por el consumo de tabaco.
+Tabaquismo: Grado de intoxicación crónica producida por el consumo de tabaco.

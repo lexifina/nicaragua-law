@@ -1,13 +1,5 @@
 # Artículo 44
 
-De la sanción administrativa.
+Mecanismos de coordinación interinstitucional
 
-El MINSA deberá motivar en su resolución la imposición de las sanciones y graduará el monto de las multas considerando el riesgo generado para la salud, la capacidad económica del infractor, la conducta sancionada, si el afectado es un menor de edad y la reiteración de las infracciones.
-
-Una vez comprobada y graduada la infracción, el MINSA procederá, mediante Resolución Administrativa motivada, a la aplicación de la sanción correspondiente.
-
-En la imposición de las sanciones que ameriten cierre o clausura temporal o definitiva se seguirá el procedimiento establecido en el Arto. 77 de la Ley No. 423, "Ley General de Salud" y los Artos. 430 al 440 del Decreto No. 001-2003, "Reglamento de la Ley General de Salud", en lo que le fuere aplicable.
-
-Capítulo VIII
-
-Disposiciones Finales y Transitorias
+El MINSA con el fin de garantizar la correcta y efectiva aplicación de las disposiciones contenidas en la Ley, el presente Reglamento y demás disposiciones aplicables, elaborará los instrumentos o documentos que establezcan los mecanismos de coordinación con las instituciones señaladas en el Artículo 28 de la Ley, los cuales serán a probados por los titulares de las mismas.

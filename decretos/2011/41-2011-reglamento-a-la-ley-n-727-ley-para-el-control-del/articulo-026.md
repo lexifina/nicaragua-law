@@ -1,6 +1,6 @@
 # Artículo 26
 
-De la Publicidad Engañosa.
+De la Publicidad Engañosa
 
 La publicidad de los productos del tabaco induce a engaño cuando, en cualquier tipo de información, comunicación, publicidad comercial, envase o etiqueta se utilicen textos, diálogos, sonidos, imágenes o descripciones que directa o indirectamente:
 

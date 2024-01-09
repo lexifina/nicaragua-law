@@ -1,6 +1,6 @@
 # Artículo 7
 
-Tarea Educativa e Informativa.
+Tarea Educativa e Informativa
 
 Las instituciones rectoras del sistema educativo y los medios de comunicación públicos y privados, contribuirán y facilitarán la tarea educativa e informativa de promoción de la salud y prevención de los riesgos ocasionados por el consumo de productos del tabaco.
 
