@@ -1,0 +1,5 @@
+# Artículo 441
+
+Será causal de cancelación del registro de funcionamiento de las entidades de prepago, el incumplimiento de los requisitos definidos en los numerales 2, 3, 6, 8 y 9 del Artículo 35 de este Reglamento, que afecte la provisión de servicios de salud.
+
+DE LA APLICACIÓN DE LAS SANCIONES
