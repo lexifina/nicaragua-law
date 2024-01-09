@@ -1,6 +1,6 @@
 # Artículo 10
 
-De las Funciones de la Comisión de Evaluación del Desempeño en los Establecimientos de Salud.
+De las Funciones de la Comisión de Evaluación del Desempeño en los Establecimientos de Salud
 
 De acuerdo a las normas, parámetros e instrumentos de evaluación que determine la Instancia de Recursos Humanos del MINSA, la Comisión tendrá las siguientes funciones:
 

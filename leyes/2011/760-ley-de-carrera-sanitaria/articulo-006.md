@@ -1,6 +1,6 @@
 # Artículo 6
 
-De la Comisión Nacional de la Carrera Sanitaria.
+De la Comisión Nacional de la Carrera Sanitaria
 
 Créase la Comisión Nacional de la Carrera Sanitaria, la cual estará integrada por:
 

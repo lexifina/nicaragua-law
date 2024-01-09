@@ -1,6 +1,6 @@
 # Artículo 60
 
-Del recurso de apelación.
+Del Recurso de Apelación
 
 En caso de haber obtenido una resolución desfavorable, el personal de la Carrera Sanitaria podrá interponer recurso de apelación ante la Comisión Nacional de la Carrera Sanitaria dentro de los cinco días hábiles de haber sido notificado de la resolución sobre el recurso de revisión.
 

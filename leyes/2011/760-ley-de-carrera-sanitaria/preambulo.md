@@ -1,10 +1,16 @@
-LEY N°. 760, LEY DE LA CARRERA SANITARIA
+TEXTO CONSOLIDADO, LEY Nº. 760, LEY DE LA CARRERA SANITARIA
 
-Aprobada el 30 de marzo de 2011
+Aprobado el 27 de septiembre de 2023
 
-Publicada en La Gaceta, Diario Oficial N°. 122 del 01 de julio de 2011
+Publicado en La Gaceta, Diario Oficial N°. 02 del 09 de enero de 2024
 
-LEY N°. 760
+ASAMBLEA NACIONAL
+
+Digesto Jurídico Nicaragüense de la Materia de Salud
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas de la Ley Nº. 760, Ley de la Carrera Sanitaria, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense y la Ley Nº. 1164, Ley del Digesto Jurídico Nicaragüense de la Materia de Salud, aprobada el 27 de septiembre de 2023.
+
+LEY Nº. 760
 
 El Presidente de la República de Nicaragua
 
@@ -28,7 +34,7 @@ El mérito es el rector de todos los elementos constitutivos y de los procesos c
 
 II
 
-La equidad garantiza que todos los y las trabajadoras de la salud, tienen oportunidades similares de ingresar a la Carrera Sanitaria si hay un puesto vacante, priorizándose a las personas de la Carrera Sanitaria, en el caso de promociones, frente a un aspirante de nuevo ingreso, siempre que ambos cumplan de igual manera los requisitos y calificaciones del cargo a ocupar.
+La equidad garantiza que todos los y las trabajadores de la salud, tienen oportunidades similares de ingresar a la Carrera Sanitaria si hay un puesto vacante, priorizándose a las personas de la Carrera Sanitaria, en el caso de promociones, frente a un aspirante de nuevo ingreso, siempre que ambos cumplan de igual manera los requisitos y calificaciones del cargo a ocupar.
 
 III
 
@@ -44,7 +50,7 @@ La sostenibilidad obliga a que los derechos derivados de la Carrera Sanitaria, s
 
 VI
 
-La función social, es la misión o razón de ser de las profesiones y Ocupaciones en el MINSA, resguardando el humanismo de las mismas, en donde los miembros de la Carrera Sanitaria sustentan su actuación en una finalidad eminentemente dirigida al bienestar de la población, basada en el respeto de sus derechos humanos, en los que se incluye el derecho a la salud, fomentando la equidad de género.
+La función social, es la misión o razón de ser de las profesiones y ocupaciones en el MINSA, resguardando el humanismo de las mismas, en donde los miembros de la Carrera Sanitaria sustentan su actuación en una finalidad eminentemente dirigida al bienestar de la población, basada en el respeto de sus derechos humanos, en los que se incluye el derecho a la salud, fomentando la equidad de género.
 
 VII
 
@@ -52,7 +58,7 @@ Por la participación social, se garantiza la participación activa de los ciuda
 
 VIII
 
-La inserción en el movimiento de la salud internacional, permite que las acciones contempladas en la Carrera Sanitaria, si nuestras realidades y las MINSA con el Estado, condiciones económicas del país lo permiten, deben estar en consonancia con el Plan Nacional de Salud y el movimiento mundial por la promoción de la salud y la prevención de enfermedades: campañas internacionales de control y erradicación de enfermedades, lucha por eliminar factores de riesgo, la violencia, el tabaco, alcohol, y otras afines, para recuperar, mejorar y rehabilitar la salud de las personas y población en general.
+La inserción en el movimiento de la salud internacional, permite que las acciones contempladas en la Carrera Sanitaria, si nuestras realidades y las condiciones económicas del país lo permiten, deben estar en consonancia con el Plan Nacional de Salud y el movimiento mundial por la promoción de la salud y la prevención de enfermedades: campañas internacionales de control y erradicación de enfermedades, lucha por eliminar factores de riesgo, la violencia, el tabaco, alcohol, y otras afines, para recuperar, mejorar y rehabilitar la salud de las personas y población en general.
 
 IX
 
@@ -62,9 +68,9 @@ X
 
 La ética profesional es referente a la evaluación y valoración de la conducta de las personas los de la Carrera Sanitaria, sobre la base de su comportamiento y actitudes en el desempeño de sus funciones, para lo cual se mencionan las siguientes:
 
-a) Respetar la vida, la dignidad y la libertad de cada ser humano y procurar que el fin sea el beneficio de su salud Física, psíquica y social, tomando en cuenta la interculturalidad y multietnicidad de nuestra población.
+a) Respetar la vida, la dignidad y la libertad de cada ser humano y procurar que el fin sea el beneficio de su salud física, psíquica y social, tomando en cuenta la interculturalidad y multietnicidad de nuestra población.
 
-b) Brindar a la persona sus conocimientos para que ésta promueva, proteja y recupere su salud y se haga consciente de cómo controlar por si misma las causas de su malestar o enfermedad.
+b) Brindar a la persona sus conocimientos para que esta promueva, proteja y recupere su salud y se haga consciente de cómo controlar por si misma las causas de su malestar o enfermedad.
 
 c) Ser consciente de sus propios valores éticos, ideológicos, políticos y religiosos, no utilizar su poder para manipular a terceros desde un punto de vista afectivo-emocional, económico o sexual.
 

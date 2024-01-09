@@ -1,6 +1,6 @@
 # Artículo 13
 
-De los deberes del personal de Carrera Sanitaria.
+De los Deberes del Personal de Carrera Sanitaria
 
 De conformidad a las Políticas de Salud y el Modelo de Salud vigente, el personal de Carrera Sanitaria está comprometido con la población nicaragüense, a trabajar de acuerdo con las formas organizativas que garanticen mejorar sus niveles de salud y bienestar.
 
@@ -8,7 +8,7 @@ El trabajo del personal de Carrera Sanitaria, se realizará tanto a lo interno d
 
 1. Respetar y cumplir con lealtad la Constitución Política de la República de Nicaragua, la presente Ley, y demás leyes vigentes en materia de derecho de salud.
 
-2. Respetar los derechos de los ciudadanos, de conformidad a lo establecido en la Ley No. 423, Ley General de Salud y su Reglamento y demás disposiciones atingentes.
+2. Respetar los derechos de los ciudadanos, de conformidad a lo establecido en la Ley Nº. 423, Ley General de Salud y su Reglamento y demás disposiciones atingentes.
 
 3. Cumplir con el horario y la jornada laboral establecida, desempeñando las funciones que le competen con objetividad, imparcialidad, eficiencia, diligencia, solidaridad, humanismo y disciplina laboral.
 
@@ -20,11 +20,11 @@ El trabajo del personal de Carrera Sanitaria, se realizará tanto a lo interno d
 
 7. Atender y responder a las necesidades y reclamos de la población, de acuerdo con sus facultades, funciones y medios que disponga.
 
-8. Usar los uniformes, equipos y medios de protección establecidos, cumpliendo con las disposiciones contenidas en la Ley No. 618, Ley de Higiene y Seguridad del Trabajo, publicada en La Gaceta, Diario Oficial No. 133 del 13 de julio de 2007, su Reglamento y demás normativas afines, así como la disposición de mantener siempre el porte y aspecto en el trabajo.
+8. Usar los uniformes, equipos y medios de protección establecidos, cumpliendo con las disposiciones contenidas en la Ley Nº. 618, Ley General de Higiene y Seguridad del Trabajo, su Reglamento y demás normativas afines, así como la disposición de mantener siempre el porte y aspecto en el trabajo.
 
 9. Utilizar bienes, recursos y materiales asignados para la realización de su trabajo, con responsabilidad, racionalidad y el cuidado debido, bajo el efecto de responder económicamente por los daños que causare intencionalmente, o que se debiera a su negligencia o descuido manifiesto.
 
-10. Mantener una conducta respetuosa con las autoridades, sus compañeros de trabajo y la población en general, absteniéndose de asistir a sus labores, bajo tos efectos de bebidas alcohólicas o drogas.
+10. Mantener una conducta respetuosa con las autoridades, sus compañeros de trabajo y la población en general, absteniéndose de asistir a sus labores, bajo los efectos de bebidas alcohólicas o drogas.
 
 11. Asistir y desempeñarse satisfactoriamente en los procesos de capacitación, formación o adiestramiento que se convenga con el empleador, con el objetivo de mejorar su desempeño. De no cumplir con este deber, el personal de la Carrera Sanitaria, reembolsará al MINSA, los gastos invertidos a la fecha, si una vez iniciados dichos estudios, los abandonare sin justificación alguna.
 

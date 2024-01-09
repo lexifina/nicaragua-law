@@ -1,5 +1,5 @@
 # Artículo 63
 
-Garantías mejoradas.
+Garantías Mejoradas
 
-Las disposiciones pactadas en el Convenio Colectivo y Salarial, su Reglamento de Aplicación y acuerdos laborales que superen los términos establecidos en esta Ley, tendrán vigencia y aplicación privilegiada en el MINSA conforme se establece en el Principio III del Título Preliminar del Código del Trabajo.
+Las disposiciones pactadas en el Convenio Colectivo y Salarial, su Reglamento de Aplicación y acuerdos laborales que superen los términos establecidos en esta Ley, tendrán vigencia y aplicación privilegiada en el MINSA conforme se establece en el Principio III del Título Preliminar de la Ley Nº. 185, Código del Trabajo.
