@@ -1,0 +1,3 @@
+# Artículo 2
+
+Se suspende en todo el territorio nacional la Veda para el corte, aprovechamiento, transporte y comercialización de árboles de la especie Pochote por el periodo de un año, excluyendo las áreas protegidas de conformidad a lo establecido en la legislación ambiental vigente, exceptuando el aprovechamiento de conformidad al Decreto 20-2017; la veda de la especie Pochote podrá ser prorrogable, teniendo como soporte los estudios y recomendaciones técnicas y administrativas presentadas por el Instituto Nacional Forestal (INAFOR) con la aprobación de la Comisión Nacional Forestal (CONAFOR).
