@@ -1,5 +1,5 @@
 # Artículo 30
 
-Actualización de datos
+Personalidad jurídica de los OSFL
 
-Los OSFL de otras nacionalidades deberán reportar a la Dirección General de Registro y Control de OSFL, los cambios internos del organismo en su país de origen: Juntas Directivas, domicilios, ingresos y bajas de miembros, teléfonos, correos electrónicos y reformas de Estatutos.
+De acuerdo a las facultades establecidas en la presente Ley, le corresponde al Ministerio de Gobernación otorgar la personalidad jurídica a los OSFL según la clasificación establecida en la presente Ley, mediante Acuerdo Ministerial el que deberá ser publicado en La Gaceta, Diario Oficial.

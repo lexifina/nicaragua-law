@@ -1,5 +1,7 @@
 # Artículo 53
 
-Actualización de multas y tarifas por servicios
+Disolución voluntaria de los OSFL
 
-Las multas y las tarifas por servicios establecidas en la presente Ley, serán actualizadas cada (2) dos años por el Ministerio de Gobernación mediante Acuerdo Ministerial a partir del 1 de enero de 2024.
+La disolución acordada por los miembros del OSFL se formalizará mediante Escritura Pública de Disolución en la que se designarán las personas responsables de la liquidación y sus facultades.
+
+La Escritura Pública deberá ser inscrita en la Dirección General de Registro y Control de OSFL.

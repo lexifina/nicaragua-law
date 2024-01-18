@@ -1,5 +1,7 @@
 # Artículo 23
 
-Inscripción de los OSFL
+Causal especial de cancelación de la personalidad jurídica
 
-Los OSFL para iniciar su funcionamiento y operación, deberán inscribirse en la Dirección General de Registro y Control de Organismos sin Fines de Lucro del Ministerio de Gobernación, dentro del plazo máximo de quince (15) días hábiles posteriores a la publicación en La Gaceta, Diario Oficial, del Decreto Legislativo de otorgamiento de la personalidad jurídica, una vez inscrita se deberán publicar sus Estatutos por ese mismo medio en un plazo máximo de treinta (30) días hábiles.
+La personalidad jurídica de la OSFL Deportivas, de Educación Física y de Recreación Física, podrá ser cancelada, cuando incurra en las causales de cancelación previstas en esta Ley, y por realizar actividades que contravengan la política deportiva del Estado de Nicaragua.
+
+OSFL DE ENTIDADES GREMIALES EMPRESARIALES

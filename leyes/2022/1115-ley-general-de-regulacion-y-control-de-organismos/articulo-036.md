@@ -1,7 +1,7 @@
 # Artículo 36
 
-Facultad de supervisión y control a los OSFL
+Trámite ante otras instituciones
 
-El Ministerio de Gobernación a través de la Dirección General de Registro y Control de OSFL tiene la facultad de realizar visitas de supervisión y control a los OSFL, con el objetivo de verificar el cumplimiento de lo establecido en la presente Ley, su Reglamento, la Normativa, el Acta de Constitución y Estatutos.
+Los Ministerios, Entes Gubernamentales, Registros Públicos e Instituciones Financieras, que deban tramitar documentos solicitados por los OSFL contempladas en la presente Ley, deberán solicitarles de previo las constancias de registro y cumplimiento de sus obligaciones emitidas por el Ministerio de Gobernación
 
-INFRACCIONES Y SANCIONES DE LOS OSFL
+ORGANISMOS SIN FINES DE LUCRO DE OTRAS NACIONALIDADES

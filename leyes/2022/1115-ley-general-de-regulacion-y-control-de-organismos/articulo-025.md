@@ -1,15 +1,9 @@
 # Artículo 25
 
-Negativa de inscripción
+Gobierno gremial
 
-El Registro de los OSFL podrá negar la inscripción de documentos, cuando:
+El gobierno de las entidades gremiales empresariales, estará constituido por la asamblea general, la cual será la máxima autoridad y tendrá los plenos poderes de dichas entidades; asimismo, estará encabezado por una junta directiva.
 
-1. El OSFL solicitante no se encuentre incluido en el ámbito de aplicación de la presente Ley;
+En los estatutos de cada entidad gremial empresarial se fijará la competencia y atribuciones de cada autoridad, organismo, número de miembros, período de designación, tipos de convocatoria, quorum, toma de decisiones, requisitos de afiliación y todo lo relacionado con su funcionamiento.
 
-2. Cuando se identifiquen defectos formales en la solicitud o en la documentación que se acompaña;
-
-3. Si el documento es contrario a lo establecido en el Acta de Constitución o Estatutos del OSFL;
-
-4. Se tenga presunción de ilicitud del acto o documento que se pretenda registrar;
-
-5. No se cumpla con los requisitos establecidos en la presente Ley.
+Las entidades gremiales empresariales podrán crear las comisiones y secretarías de trabajo internas que consideren necesarias, de conformidad a los estatutos de cada organización empresarial.

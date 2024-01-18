@@ -1,5 +1,7 @@
 # Artículo 48
 
-Queja
+Sanciones
 
-Los miembros de los OSFL podrán interponer queja ante la Dirección General de Registro y Control de OSFL del Ministerio de Gobernación, en contra de los Directores o Administradores de los OSFL por incumplimiento al Acta Constitutiva y Estatutos, cuando consideren que se está realizando uso indebido del patrimonio, transgresión a sus derechos como miembros, o incumplimiento a la presente Ley, su Reglamento y Normativa. Previo a la interposición de la queja se debe agotar el procedimiento interno establecido en sus Estatutos.
+La Dirección General de Registro y Control de OSFL, podrá aplicar las sanciones administrativas de multa, intervención y suspensión, cuando corresponda. Asimismo, podrá emitir Dictamen Legal para solicitar la cancelación de la personalidad jurídica del OSFL.
+
+Las sanciones a que se refiere la presente Ley, se aplicarán sin perjuicio de las responsabilidades civiles y penales que correspondan.

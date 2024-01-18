@@ -1,5 +1,13 @@
 # Artículo 52
 
-Recursos administrativos
+Disolución de los OSFL
 
-De las Resoluciones Administrativas dictadas por la Dirección General de Registro y Control de Organismos sin Fines de Lucro, procederá el Recurso de Revisión y el de Apelación, según corresponda; de conformidad a las disposiciones establecidas en la Ley Nº. 290, Ley de Organización, Competencia, y Procedimientos del Poder Ejecutivo, y sus Reformas.
+Los OSFL se disolverán por las siguientes causas:
+
+1. Por voluntad de sus miembros de conformidad a las causas y procedimientos previstos en sus Estatutos;
+
+2. Por vencimiento de su plazo;
+
+3. Por el cumplimiento de sus objetivos y fines o imposibilidad manifiesta de realizarlos;
+
+4. Por la disminución del número de miembros a menos del mínimo fijado por la presente Ley para su constitución, si esta situación se prolongaré por más de un año.

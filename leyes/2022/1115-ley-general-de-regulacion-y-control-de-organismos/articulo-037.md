@@ -1,11 +1,5 @@
 # Artículo 37
 
-Infracciones de los OSFL
+Operación y funcionamiento de los OSFL de otras nacionalidades
 
-Son infracciones de los OSFL las siguientes:
-
-1. Incumplir con las obligaciones establecidas en la presente Ley, su Reglamento; y demás leyes de la materia;
-
-2. Realizar acciones prohibidas establecidas la presente Ley y su Reglamento;
-
-3. Obstaculizar las funciones de control de la autoridad de aplicación de la presente Ley y su Reglamento.
+Los OSFL de otras nacionalidades que decidan dar inicio a sus operaciones en Nicaragua, para ser autorizadas en el país deberán presentar los documentos de inscripción establecidos en la presente Ley ante el Ministerio de Gobernación, cuyos objetivos y fines no sean contrarios a la Constitución Política de la República de Nicaragua y las leyes

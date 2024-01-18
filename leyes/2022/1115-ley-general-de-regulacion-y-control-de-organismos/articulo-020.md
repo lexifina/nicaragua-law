@@ -1,7 +1,5 @@
 # Artículo 20
 
-Personalidad jurídica de los OSFL
+Finalidad y Objetivos
 
-Corresponde a la Asamblea Nacional de conformidad a sus facultades constitucionales y los procedimientos y requisitos establecidos en la Ley N°. 606, Ley Orgánica del Poder Legislativo, otorgar la personalidad jurídica a los OSFL nacionales, mediante Decreto Legislativo el que deberá ser publicado en La Gaceta, Diario Oficial.
-
-El representante legal del OSFL, deberá solicitar ante el Ministerio de Gobernación Constancia de No Inscripción y Constancia de No Objeción para la solicitud de personalidad jurídica.
+Los fines y objetivos de las diferentes asociaciones, federaciones y confederaciones deportivas, de educación física y de recreación física, deben corresponderse con la Política Nacional, dictada por el Estado de la República de Nicaragua por medio del Consejo Nacional del Deporte, la Educación Física y la Recreación Física.

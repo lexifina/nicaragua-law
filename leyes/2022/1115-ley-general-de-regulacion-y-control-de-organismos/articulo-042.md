@@ -1,13 +1,9 @@
 # Artículo 42
 
-Disolución de los OSFL
+Liquidación de bienes y activos
 
-Los OSFL se disolverán por las siguientes causas:
+La liquidación de bienes y activos del OSFL de otra nacionalidad, que adquirieron durante el tiempo que operaron en Nicaragua, no podrá ser distribuido entre sus asociados o trabajadores, se hará conforme lo establecen los artículos 46 y 47 de la presente Ley.
 
-1. Por voluntad de sus miembros de conformidad a las causas y procedimientos previstos en sus Estatutos;
+DERECHOS, OBLIGACIONES Y PROHIBICIONES
 
-2. Por vencimiento de su plazo;
-
-3. Por el cumplimiento de sus objetivos y fines o imposibilidad manifiesta de realizarlos;
-
-4. Por la disminución del número de miembros a menos del mínimo fijado por la presente Ley para su constitución, si esta situación se prolongaré por más de un año.
+DE LOS OSFL NACIONALES Y DE OTRAS NACIONALIDADES

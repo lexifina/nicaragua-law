@@ -26,9 +26,9 @@ Los Estatutos de los OSFL deberán contener al menos los elementos siguientes:
 
 11. Miembros, categoría, requisitos de afiliación de nuevos miembros, deberes, derechos y pérdida de membresía;
 
-12. Asamblea General: Es la máxima autoridad del OSFL, integrada por la totalidad de sus miembros y para su funcionamiento se deberán establecer las condiciones y procedimientos para su convocatoria, sus atribuciones, establecimiento de quórum y forma de votación para la toma de decisiones y establecimiento de criterios que garanticen el funcionamiento democrático del OSFL;
+12. Asamblea General: Es la máxima autoridad del OSFL, integrada por la totalidad de sus miembros y para su funcionamiento se deberán establecer las condiciones y procedimientos para su convocatoria, sus atribuciones, establecimiento de quorum y forma de votación para la toma de decisiones y establecimiento de criterios que garanticen el funcionamiento democrático del OSFL;
 
-13. Junta Directiva: Es el órgano de administración del OSFL, para lo cual debe establecerse su integración y requisitos para ocupar el cargo, procedimiento de elección, periodo, atribuciones o funciones, quórum para sesionar; modalidad de votaciones para la toma de decisiones, reelección, destitución, sustitución, y retribuciones en función del cargo en lo aplicable;
+13. Junta Directiva: Es el órgano de administración del OSFL, para lo cual debe establecerse su integración y requisitos para ocupar el cargo, procedimiento de elección, periodo, atribuciones o funciones, quorum para sesionar; modalidad de votaciones para la toma de decisiones, reelección, destitución, sustitución, y retribuciones en función del cargo en lo aplicable;
 
 14. Representación legal: Se establecerá quien ostenta la representación legal del OSFL y sus atribuciones;
 
@@ -42,4 +42,4 @@ Los Estatutos de los OSFL deberán contener al menos los elementos siguientes:
 
 19. Otras disposiciones y condiciones lícitas que los miembros o fundadores consideren convenientes, siempre que no se opongan a las leyes ni contradigan los objetivos y fines del OSFL.
 
-PERSONALIDAD JURÍDICA E INSCRIPCIÓN DE LOS OSFL
+OSFL DEPORTIVAS, DE EDUCACIÓN FÍSICA Y DE RECREACIÓN FÍSICA

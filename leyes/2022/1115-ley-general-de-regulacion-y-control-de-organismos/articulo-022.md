@@ -1,5 +1,11 @@
 # Artículo 22
 
-Personalidad jurídica de las federaciones y confederaciones
+Integración
 
-Las federaciones y confederaciones, presentarán ante la Dirección General de Registro y Control de Organismos sin Fines de Lucro, la solicitud de su personalidad jurídica, dirigida a la Primera Secretaría de la Asamblea Nacional, la que será distinta e independiente de los OSFL que las componen, debiendo cumplir con los requisitos y procedimientos establecidos para el otorgamiento de personalidad jurídica de las asociaciones y fundaciones.
+Cada una de estas entidades estará integrada como mínimo de la siguiente forma:
+
+1. Las asociaciones deportivas, de educación física y de recreación física se integrarán con quince personas naturales.
+
+2. Las federaciones deportivas y de recreación física, se integrarán con dos o más asociaciones similares.
+
+3. Las confederaciones deportivas y de recreación física, se integrarán con dos o más federaciones similares.

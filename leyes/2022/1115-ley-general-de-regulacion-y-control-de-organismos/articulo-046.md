@@ -1,5 +1,7 @@
 # Artículo 46
 
-Destino del patrimonio del OSFL
+Facultad de supervisión y control a los OSFL
 
-El destino del remanente de la liquidación de bienes, derechos y acciones del OSFL, se llevará a efecto conforme a lo que establece su Escritura de Constitución o Estatutos, deberá ser destinado a un organismo con fines y objetivos similares, no podrá ser repartido entre sus miembros; y si nada se hubiere dispuesto sobre ello, pasaran a ser propiedad del Estado de Nicaragua.
+El Ministerio de Gobernación a través de la Dirección General de Registro y Control de OSFL tiene la facultad de realizar visitas de supervisión y control a los OSFL, con el objetivo de verificar el cumplimiento de lo establecido en la presente Ley, su Reglamento, la Normativa, el Acta de Constitución y Estatutos.
+
+INFRACCIONES Y SANCIONES DE LOS OSFL

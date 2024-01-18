@@ -1,7 +1,7 @@
 # Artículo 41
 
-Suspensión
+Registro y cancelación
 
-La Dirección General de Registro y Control de OSFL podrá suspender el funcionamiento de los OSFL hasta por el periodo de (3) tres años, por el incumplimiento de una obligación o realización de acciones prohibidas establecidas en esta Ley, su Reglamento y Normativa.
+El Ministerio de Gobernación, a través de la Dirección General de Registro y Control de OSFL, mediante Resolución Administrativa, autorizará el registro del OSFL de otra nacionalidad cuando cumpla con los requisitos establecidos en la presente Ley.
 
-DISOLUCIÓN, LIQUIDACIÓN Y CANCELACIÓN DE PERSONALIDAD JURÍDICA DE LOS OSFL
+El registro y número perpetuo del OSFL de otra nacionalidad, se cancelará cuando estas lo soliciten o cuando incurran en las causales de cancelación establecidas en la presente Ley y demás leyes de la República de Nicaragua, a través de Resolución Administrativa de la Dirección General de Registro y Control de OSFL.

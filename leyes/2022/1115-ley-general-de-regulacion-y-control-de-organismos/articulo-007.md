@@ -16,8 +16,8 @@ Sin perjuicio de las demás disposiciones vigentes, el Ministerio de Gobernació
 
 6. Establecer mecanismos de cooperación con las autoridades públicas correspondiente para la implementación de políticas y actividades contra el LA/FT/FP;
 
-7. Remitir a la Asamblea Nacional la solicitud de otorgamiento de la personalidad jurídica de los OSFL;
+7. Otorgar y cancelar la personalidad jurídica de las OSFL de acuerdo a la clasificación establecida en la presente Ley, mediante Acuerdo Ministerial, el que deberá ser publicado en La Gaceta, Diario Oficial;
 
-8. Solicitar a la Asamblea Nacional la cancelación de personalidad jurídica de los OSFL, de conformidad a lo establecido en la presente Ley y su Reglamento;
+8. Remitir a la Presidencia de la República y a la Asamblea Nacional de la República de Nicaragua, el informe anual que contenga el detalle del otorgamiento de las personalidades jurídicas y el registro de las OSFL, así como la disolución y cancelación de las OSFL;
 
 9. Conocer y resolver el recurso de apelación de las resoluciones dictadas por la Dirección General de Registro y Control de OSFL.

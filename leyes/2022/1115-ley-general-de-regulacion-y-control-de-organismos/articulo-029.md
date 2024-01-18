@@ -1,5 +1,7 @@
 # Artículo 29
 
-Nombramiento del representante legal
+Día de las cámaras gremiales empresariales
 
-Los OSFL de otras nacionalidades deberán nombrar mediante acuerdo o resolución de la Junta Directiva del país de origen a un representante legal en Nicaragua.
+En base al Artículo 99 de la Constitución Política de Nicaragua, que reconoce el rol protagónico de la iniciativa privada en la actividad y desarrollo económico del país, se establece el 12 de octubre de cada año como el “Día de las cámaras, federaciones y confederaciones gremiales empresariales de Nicaragua”.
+
+PERSONALIDAD JURÍDICA E INSCRIPCIÓN DE LOS OSFL

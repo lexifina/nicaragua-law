@@ -1,7 +1,5 @@
 # Artículo 32
 
-Liquidación de bienes y activos
+Personalidad jurídica de las federaciones y confederaciones
 
-La liquidación de bienes y activos del OSFL de otra nacionalidad, que adquirieron durante el tiempo que operaron en Nicaragua, no podrá ser distribuido entre sus asociados o trabajadores, se hará conforme lo establecen los artículos 46 y 47 de la presente Ley.
-
-DERECHOS, OBLIGACIONES Y PROHIBICIONES DE LOS OSFL NACIONALES Y DE OTRAS NACIONALIDADES
+Las federaciones y confederaciones, presentarán ante la Dirección General de Registro y Control de Organismos sin Fines de Lucro, la solicitud de su personalidad jurídica, la que será distinta e independiente de los OSFL que las componen, debiendo cumplir con los requisitos y procedimientos establecidos para el otorgamiento de personalidad jurídica de las asociaciones y fundaciones.

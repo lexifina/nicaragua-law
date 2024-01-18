@@ -18,9 +18,9 @@ El Acta Constitutiva de los OSFL nacionales, deberá contener al menos los sigui
 
 7. Domicilio;
 
-8. Patrimonio: Establecer el patrimonio inicial con indicación precisa de la cuantía que se aporta, de los bienes muebles o inmuebles en su caso, que habrán de transferírsele al OSFL una vez reconocida su personalidad jurídica.
+8.Patrimonio: Establecer el patrimonio inicial con indicación precisa de la cuantía que se aporta, de los bienes muebles o inmuebles en su caso, que habrán de transferírsele al OSFL una vez reconocida su personalidad jurídica.
 
-El patrimonio de los OSFL estará destinado exclusivamente a la consecución de sus objetivos y fines; no pertenece ni en todo ni en parte a las personas naturales y jurídicas que la integran, será nula toda disposición que establezcan derecho a sus integrantes sobre el patrimonio del OSFL;
+El patrimonio de los OSFL estará destinado exclusivamente a la consecución de sus objetivos y Fines; no pertenece ni en todo ni en parte a las personas naturales y jurídicas que la integran, será nula toda disposición que establezcan derecho a sus integrantes sobre el patrimonio del OSFL;
 
 9. Régimen económico;
 

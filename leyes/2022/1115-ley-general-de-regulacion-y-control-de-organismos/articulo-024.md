@@ -1,27 +1,7 @@
 # Artículo 24
 
-Actos y documentos a inscribir
+Organización
 
-Para efecto de la presente Ley son actos y documentos a inscribir:
+Las entidades gremiales empresariales contarán con su estructura funcional y se organizarán a nivel municipal o departamental por su ramo o sector económico o de servicio a que se dedican. Para constituir una cámara se requiere el concurso mínimo de cinco miembros, que ejercen la misma actividad comercial o empresarial.
 
-1. Decreto Legislativo de otorgamiento de personalidad jurídica;
-
-2. Acta de Constitución y Estatutos;
-
-3. Junta Directiva o administradores;
-
-4. Miembros de los OSFL, bajas e ingresos;
-
-5. Modificaciones o reformas al Acta de Constitución y Estatutos;
-
-6. Cambio de domicilio;
-
-7. Cambio de denominación conforme a sentencia judicial;
-
-8. Apertura y cierre de delegaciones, sucursales o establecimientos;
-
-9. Poderes de representación, las modificaciones o revocatoria de los mismos;
-
-10. Disolución y liquidación de los OSFL; y
-
-11. Cierre parcial o total del OSFL.
+Para el caso de las cámaras binacionales o mixtas por su propia naturaleza no será exigible el requisito del concurso mínimo de cinco miembros antes referido.

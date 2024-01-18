@@ -1,14 +1,12 @@
 # Artículo 10
 
-Facultades de la Dirección General de Registro y Control de Organismos sin Fines de Lucro
-
-La Dirección General de Registro y Control de Organismos sin Fines de Lucro, tendrá las siguientes facultades:
+Facultades de la Dirección General de Registro y Control de Organismos sin Fines de Lucro La Dirección General de Registro y Control de Organismos sin Fines de Lucro, tendrá las siguientes facultades:
 
 1. Recibir, revisar y analizar la documentación para las nuevas solicitudes de personalidad jurídica;
 
-2. Emitir constancia de no Inscripción y no objeción de las nuevas solicitudes de personalidad jurídica que cumplan con los requisitos establecidos en la presente Ley;
+2. Emitir constancia de no Inscripción;
 
-3. Remitir, a través del Ministerio de Gobernación, a la Asamblea Nacional el expediente administrativo de las nuevas solicitudes de personalidad jurídica para su consideración;
+3. Remitir, al Ministro o Ministra de Gobernación el expediente administrativo de las nuevas solicitudes de personalidad jurídica para su revisión y resolución;
 
 4. Autorizar el registro de los OSFL nacionales, una vez otorgada la personalidad jurídica;
 
@@ -18,7 +16,7 @@ La Dirección General de Registro y Control de Organismos sin Fines de Lucro, te
 
 7. Requerir a los Directivos o Administradores de los OSFL información de carácter legal, financiera o de otra naturaleza;
 
-8. Supervisar el funcionamiento de los OSFL, para que sus actos sean conforme la Constitución Política de la República de Nicaragua, las Leyes, su Acta Constitutiva y Estatutos;
+8. Supervisar el funcionamiento de los OSFL, para que sus actos sean conforme la Constitución Política de la República de Nicaragua, las leyes, su Acta Constitutiva y Estatutos;
 
 9. Autorizar por razones de interés público, sanción administrativa o a solicitud del OSFL, el cierre temporal o definitivo de esta, según lo dispuesto en la presente Ley, su Reglamento y Normativa;
 

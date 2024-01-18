@@ -1,7 +1,9 @@
 # Artículo 49
 
-Dictamen Legal de cancelación de personalidad jurídica
+Multa
 
-La Dirección General de Registro y Control de OSFL dictaminará y solicitará a la Asamblea Nacional a través del Ministerio de Gobernación la cancelación de la personalidad jurídica del OSFL, cuando incurran en cualquiera de las causales de cancelación estipuladas en esta Ley.
+Se impondrá multa de cinco mil córdobas (C$5,000.00) a diez mil córdobas (C$10,000.00) a favor del Estado, por cada incumplimiento de las obligaciones o por incurrir en las prohibiciones establecidas en la presente Ley y su Reglamento.
 
-TARIFAS POR SERVICIOS Y RECURSOS FINANCIEROS
+En caso de reincidencia la multa se duplicará.
+
+El Reglamento de esta Ley establecerá la gradualidad de la multa para cada infracción.

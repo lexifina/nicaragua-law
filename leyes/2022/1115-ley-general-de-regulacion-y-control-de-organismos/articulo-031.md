@@ -1,7 +1,27 @@
 # Artículo 31
 
-Registro y cancelación
+Requisitos previos para obtención de personalidad jurídica de OSFL
 
-El Ministerio de Gobernación, a través de la Dirección General de Registro y Control de Organismos sin Fines de Lucro, mediante Resolución Administrativa, autorizará el registro del OSFL de otra nacionalidad cuando cumpla con los requisitos establecidos en la presente Ley.
+El representante legal del OSFL, deberá presentar a la Dirección General de Registro y Control de Organismos sin Fines de Lucro, la solicitud para la obtención de personalidad jurídica dirigida al Ministro o Ministra de Gobernación acompañada de los siguientes documentos:
 
-El registro y número perpetuo del OSFL de otra nacionalidad, deberá ser cancelado, cuando estas lo soliciten o cuando incumplan con la presente Ley y demás leyes de la República de Nicaragua, a través de Resolución Administrativa de la Dirección General de Registro y Control de OSFL.
+1. Constancia de No Inscripción otorgada por el Ministerio de Gobernación;
+
+2. Constancia de No Objeción del Ministerio de Gobernación que indique que el Acta de Constitución y Estatutos cumplen con los requisitos establecidos en la presente Ley;
+
+3. Escritura de Constitución y Estatutos;
+
+4. Lista de miembros directivos y asociados;
+
+5. Fotocopia de cédulas de identidad ciudadana vigentes de los directivos y asociados;
+
+6. Record de policía de los miembros que constituyen el OSFL, en caso de ser una persona jurídica, el record de policía de quien la represente;
+
+7. De existir miembros de otras nacionalidades, deberán presentar certificado de antecedentes penales emitido por autoridad competente de su país de origen o de residencia, debidamente apostillado o autenticado, en idioma español o traducidos a éste con las formalidades establecidas en la legislación nacional, o en su defecto certificado de INTERPOL- Nicaragua y copia de pasaporte con al menos seis meses de vigencia.
+
+8. El otorgamiento de personalidad jurídica a que se refiere la Ley de Autonomía de las Instituciones de Educación Superior, siempre que sean sin fines de lucro, deberán presentar, además:
+
+8.1. Copia de solicitud presentada al Consejo Nacional de Universidades - CNU, en que pidió autorización para el funcionamiento de la Universidad;
+
+8.2. Constancia o Certificación del Consejo Nacional de Universidades donde se autorizó el funcionamiento de la Universidad.
+
+Si la solicitud de personalidad jurídica cumple con los requisitos establecidos en la presente Ley, la Dirección General de Registro y Control de Organismos sin Fines de Lucro, remitirá el expediente al Ministro o Ministra de Gobernación para que de conformidad a sus facultades revise y resuelva sobre la aprobación.

@@ -1,7 +1,5 @@
 # Artículo 26
 
-Trámite ante otras instituciones
+Cámaras empresariales de organización especial
 
-Los Ministerios, Entes Gubernamentales, Registros Públicos e Instituciones Financieras, que deban tramitar documentos solicitados por los OSFL contempladas en la presente Ley, deberán solicitarles de previo las constancias de registro y cumplimiento de sus obligaciones emitidas por el Ministerio de Gobernación.
-
-ORGANISMOS SIN FINES DE LUCRO DE OTRAS NACIONALIDADES
+Cuando en un municipio o departamento no exista la cantidad suficiente de empresarios del mismo giro comercial, para constituirse legalmente, sean estos personas naturales o jurídicas, que se dediquen a una rama económica o de servicio determinado, para conformar una cámara con el número de miembros que se requiere, estos podrán aglutinarse con empresarios del mismo giro comercial de otros departamentos y constituir una cámara, debiendo cumplir con los requisitos establecidos en la presente Ley para tal fin.
