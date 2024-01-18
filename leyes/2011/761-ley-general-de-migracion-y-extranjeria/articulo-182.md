@@ -6,11 +6,11 @@ El recurso de apelación se interpondrá ante la Dirección General de Migració
 
 El recurso de apelación se admitirá en los siguientes casos:
 
-1) Se lesionen intereses de los extranjeros en relación con su condición migratoria legal;
+1. Se lesionen intereses de los extranjeros en relación con su condición migratoria legal;
 
-2) Se deniegue de manera injustificada la permanencia legal de un extranjero; y
+2. Se deniegue de manera injustificada la permanencia legal de un extranjero; y
 
-3) La deportación o expulsión se ordene de manera injustificada.
+3. La deportación o expulsión se ordene de manera injustificada.
 
 La interposición del recurso de revisión y el de apelación suspenderá la orden de deportación o expulsión.
 

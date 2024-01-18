@@ -2,17 +2,15 @@
 
 Categorías
 
-La admisión de extranjeros al territorio nacional se efectuará bajo las siguientes categorías de visas según el motivo de
+La admisión de extranjeros al territorio nacional se efectuará bajo las siguientes categorías de visas según el motivo de ingreso:
 
-ingreso:
+1. Diplomáticos;
 
-1) Diplomáticos;
+2. Invitados;
 
-2) Invitados;
+3. Residentes; y
 
-3) Residentes; y
-
-4) No Residente.
+4. No Residente.
 
 El otorgamiento de las categorías migratorias de visas mencionadas en los numerales 1) y 2) es competencia del Ministerio de Relaciones Exteriores.
 

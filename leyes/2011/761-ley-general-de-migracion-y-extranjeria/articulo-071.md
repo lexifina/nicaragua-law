@@ -6,16 +6,16 @@ El pasaporte es un documento público, personal, individual e intransferible, qu
 
 Le corresponde a la Dirección General de Migración y Extranjería la tramitación y expedición de los siguientes documentos migratorios:
 
-1) Pasaportes Ordinarios;
+1. Pasaportes Ordinarios;
 
-2) Pasaporte Oficial;
+2. Pasaporte Oficial;
 
-3) Salvoconducto;
+3. Salvoconducto;
 
-4) Permiso Colectivo;
+4. Permiso Colectivo;
 
-5) Permiso vecinal;
+5. Permiso vecinal;
 
-6) Pase fronterizo; y
+6. Pase fronterizo; y
 
-7) Documento de identidad y viaje para asilados y refugiados.
+7. Documento de identidad y viaje para asilados y refugiados.

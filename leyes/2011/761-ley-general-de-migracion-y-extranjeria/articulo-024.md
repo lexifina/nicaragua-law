@@ -6,6 +6,6 @@ Es residente, el extranjero autorizado por la Dirección General de Migración y
 
 Los extranjeros residentes se clasifican en:
 
-1) Residentes temporales; y
+1. Residentes temporales; y
 
-2) Residentes permanentes
+2. Residentes permanentes

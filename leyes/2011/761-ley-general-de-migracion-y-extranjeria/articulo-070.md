@@ -4,25 +4,25 @@ Documentos migratorios para nacionales
 
 Se consideran documentos migratorios para nacionales los siguientes:
 
-1) Pasaporte ordinario;
+1. Pasaporte ordinario;
 
-2) Pasaporte oficial;
+2. Pasaporte oficial;
 
-3) Pasaporte de servicio;
+3. Pasaporte de servicio;
 
-4) Pasaporte diplomático;
+4. Pasaporte diplomático;
 
-5) Pasaporte provisional;
+5. Pasaporte provisional;
 
-6) Salvoconducto;
+6. Salvoconducto;
 
-7) Permiso colectivo;
+7. Permiso colectivo;
 
-8) Pase fronterizo;
+8. Pase fronterizo;
 
-9) Permiso vecinal; y
+9. Permiso vecinal; y
 
-10) Cédula de identidad.
+10. Cédula de identidad.
 
 Dichos documentos migratorios, se otorgan únicamente a las personas que ostentan la nacionalidad nicaragüense y se definen así:
 

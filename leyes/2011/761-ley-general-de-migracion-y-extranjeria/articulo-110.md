@@ -4,11 +4,11 @@ Requisitos para la salida de personas extranjeras no residentes
 
 Las personas extranjeras no residentes, para salir del territorio nacional deberán cumplir con los siguientes requisitos:
 
-1) Presentar pasaporte vigente o documento migratorio equivalente;
+1. Presentar pasaporte vigente o documento migratorio equivalente;
 
-2) Encontrarse dentro de la permanencia autorizada; y
+2. Encontrarse dentro de la permanencia autorizada; y
 
-3) Cumplir con el despacho migratorio y requisitos establecidos por la Dirección General de Migración y Extranjería.
+3. Cumplir con el despacho migratorio y requisitos establecidos por la Dirección General de Migración y Extranjería.
 
 Las personas extranjeras no residentes que al momento de salir del país, se encuentren con la permanencia vencida, pagarán la multa establecida.
 

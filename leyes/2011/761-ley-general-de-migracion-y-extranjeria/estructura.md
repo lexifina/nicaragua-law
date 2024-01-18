@@ -49,7 +49,7 @@
 - TÍTULO XII (antes del artículo 120)
 - CAPÍTULO I (antes del artículo 120)
 - CAPÍTULO II (antes del artículo 127)
-- CAPITULO III (antes del artículo 128)
+- CAPÍTULO III (antes del artículo 128)
 - TÍTULO XIII (antes del artículo 136)
 - CAPÍTULO I (antes del artículo 136)
 - CAPÍTULO II (antes del artículo 151)

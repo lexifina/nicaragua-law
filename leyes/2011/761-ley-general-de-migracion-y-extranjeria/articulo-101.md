@@ -6,22 +6,22 @@ Las visas consultadas regulan el ingreso al territorio nacional de personas extr
 
 Las visas consultadas se sub dividen en:
 
-1) Visa de residente:
+1. Visa de residente:
 
-a) Visa de estudiante;
+a. Visa de estudiante;
 
-b) Visa de profesionales; y
+b. Visa de profesionales; y
 
-c) Otros.
+c. Otros.
 
-2) Visa de no residente;
+2. Visa de no residente;
 
-a) Visa de visitante o turista;
+a. Visa de visitante o turista;
 
-b) Visa de tránsito;
+b. Visa de tránsito;
 
-c) Visa de negocios; y
+c. Visa de negocios; y
 
-d) Otros.
+d. Otros.
 
 Las visas consultadas tendrán una vigencia de treinta días, prorrogables hasta completar noventa días, excepto las visas de tránsito cuya vigencia es de cinco días.

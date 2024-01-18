@@ -4,7 +4,7 @@ Escalafón de grados
 
 Se establece en la Dirección General de Migración y Extranjería el siguiente escalafón:
 
-l. GRADOS DE OFICIALES
+I. GRADOS DE OFICIALES
 
 OFICIALES SUPERIORES:
 
@@ -32,6 +32,6 @@ Sub-teniente.
 
 II. CLASES
 
-Sargento Mayor
+Sargento Mayor; y
 
 Sargento

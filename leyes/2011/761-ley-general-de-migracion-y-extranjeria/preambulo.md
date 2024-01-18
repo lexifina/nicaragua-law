@@ -1,26 +1,22 @@
 TEXTO CONSOLIDADO, LEY N°. 761, LEY GENERAL DE MIGRACIÓN Y EXTRANJERÍA
 
-Aprobado el 27 de mayo de 2021
+Aprobado el 28 de febrero de 2023
 
-Publicado en La Gaceta, Diario Oficial N°. 34 del 22 de febrero de 2022
+Publicado en La Gaceta, Diario Oficial N°. 09 del 18 de enero de 2024
 
-Digesto Jurídico Nicaragüense de la Materia Orden Interno
+Digesto Jurídico Nicaragüense de la Materia de Orden Interno
 
-El presente texto contiene incorporadas todas sus modificaciones consolidadas al 27 de mayo de 2021, de la Ley Nº. 761, Ley General de Migración y Extranjería, aprobada el 31 de marzo de 2011 y publicada en La Gaceta, Diario Oficial Nº. 125 y 126 del 6 y 7 de julio de 2011, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1074, Ley del Digesto Jurídico Nicaragüense de la Materia Orden Interno, aprobada el 27 de mayo de 2021.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 28 de febrero de 2023, de la Ley N°. 761, Ley General de Migración y Extranjería, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense y la Ley N°. 1146, Ley del Digesto Jurídico Nicaragüense de la Materia Orden Interno, aprobada el 28 de febrero de 2023.
 
 LEY N°. 761
 
-EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+El Presidente de la República de Nicaragua
 
 A sus habitantes, Sabed:
 
 Que,
 
-La Asamblea Nacional de la República de Nicaragua
-
-Ha ordenado lo siguiente:
-
-LA ASAMBLEA NACIONAL
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
 
 CONSIDERANDO
 

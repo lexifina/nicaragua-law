@@ -8,10 +8,10 @@ Todo empleador que contrate de manera verbal o por escrito a extranjeros, deber�
 
 También estarán obligados a:
 
-1) Tener planillas y listados de los trabajadores extranjeros contratados;
+1. Tener planillas y listados de los trabajadores extranjeros contratados;
 
-2) Mostrar las planillas y listados de trabajadores, cuando sea requerido por la Dirección General de Migración y Extranjería;
+2. Mostrar las planillas y listados de trabajadores, cuando sea requerido por la Dirección General de Migración y Extranjería;
 
-3) Enviar semestralmente a la Dirección General de Migración y Extranjería, informe donde se exprese nombre y apellidos, nacionalidad, cargo, ingreso, término de vigencia del contrato y dirección de los extranjeros que se encuentren laborando para los mismos; y
+3. Enviar semestralmente a la Dirección General de Migración y Extranjería, informe donde se exprese nombre y apellidos, nacionalidad, cargo, ingreso, término de vigencia del contrato y dirección de los extranjeros que se encuentren laborando para los mismos; e
 
-4) Informar a la Dirección General de Migración y Extranjería, la baja laboral de los extranjeros que tenían contratados.
+4. Informar a la Dirección General de Migración y Extranjería, la baja laboral de los extranjeros que tenían contratados.
