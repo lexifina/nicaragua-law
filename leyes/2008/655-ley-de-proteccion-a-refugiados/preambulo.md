@@ -1,16 +1,16 @@
 TEXTO CONSOLIDADO, LEY N°. 655, LEY DE PROTECCIÓN A REFUGIADOS
 
-Aprobado el 27 de mayo de 2021
+Aprobado el 28 de febrero de 2023
 
-Publicado en La Gaceta, Diario Oficial N°. 34 del 22 de febrero de 2022
+Publicado en La Gaceta, Diario Oficial N°. 09 del 18 de enero de 2024
 
 Digesto Jurídico Nicaragüense de la Materia Orden Interno
 
-El presente texto contiene incorporadas todas sus modificaciones consolidadas al 27 de mayo de 2021, de la Ley Nº. 655, Ley de Protección a Refugiados, aprobada el 03 de junio de 2008 y publicada en La Gaceta, Diario Oficial Nº. 130 del 9 de julio de 2008, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1074, Ley del Digesto Jurídico Nicaragüense de la Materia Orden Interno, aprobada el 27 de mayo de 2021.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas de la Ley Nº. 655, Ley de Protección a Refugiados, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense y la Ley Nº. 1146, Ley del Digesto Jurídico Nicaragüense de la Materia Orden Interno, aprobada el 28 de febrero de 2023.
 
 LEY N°. 655
 
-EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+El Presidente de la República de Nicaragua
 
 A sus habitantes, Sabed:
 
@@ -38,7 +38,7 @@ Que Nicaragua por Decreto Nº. 1096 publicado en La Gaceta, Diario Oficial Nº. 
 
 V
 
-Que se hace necesario derogar el contenido del Decreto Nº. 1096 de 1982, a fin de dar cumplimiento a las obligaciones internacionales aceptadas por Nicaragua en materia de refugiados
+Que se hace necesario derogar el contenido del Decreto 1096 de 1982, a fin de dar cumplimiento a las obligaciones internacionales aceptadas por Nicaragua en materia de refugiados
 
 POR TANTO
 

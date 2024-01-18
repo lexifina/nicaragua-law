@@ -6,7 +6,7 @@ A) Las resoluciones que reconozcan la condición de refugiado no serán objeto d
 
 B) Las resoluciones denegatorias de la CONAR serán objeto de los siguientes recursos:
 
-1. De Revisión, que será interpuesto ante la Secretaría Ejecutiva a más tardar cinco días después de ser notificado de la resolución denegatoria, para que sea resuelto y notificado por la CON AR en quince días después de la interposición del recurso.
+1. De Revisión, que será interpuesto ante la Secretaría Ejecutiva a más tardar cinco días después de ser notificado de la resolución denegatoria, para que sea resuelto y notificado por la CONAR en quince días después de la interposición del recurso.
 
 2. De Apelación, que será interpuesto ante la Secretaría Ejecutiva a más tardar cinco días después de ser notificada de la decisión sobre el recurso de revisión, para que el Ministro de Gobernación resuelva y notifique en los treinta días siguientes.
 
