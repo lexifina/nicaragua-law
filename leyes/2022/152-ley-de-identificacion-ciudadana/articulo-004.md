@@ -8,7 +8,7 @@ b) Tomar posesión de cargos públicos;
 
 c) Celebrar contratos de trabajo;
 
-ch) Obtener o renovar pasaporte, licenciad e conducir, carné del Seguro Social, Cédula del Registro Único del Contribuyente y cualquier otro documento de esta naturaleza;
+ch) Obtener o renovar pasaporte, licencia de conducir, carnét del Seguro Social, Cédula del Registro Único del Contribuyente y cualquier otro documento de esta naturaleza;
 
 d) Recibir pagos o giros del Estado, de los municipios o de instituciones autónomas;
 

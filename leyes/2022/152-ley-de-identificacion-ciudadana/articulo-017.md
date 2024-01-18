@@ -24,7 +24,7 @@ i) Nacionalidad. Si fuere nicaragüense nacionalizado deberá indicar el número
 
 j) Indicación si sabe leer o escribir, o al menos firmar;
 
-k) Indicación si está o no inscrito su nacimiento en el registro del estado civil de las personas respectivo. En caso afirmativo presentará certificación de la partida de nacimiento, para que se tome razón de ella;
+k) Indicación si está o no inscrito su nacimiento en el Registro del Estado Civil de las personas respectivo. En caso afirmativo presentará certificación de la partida de nacimiento, para que se tome razón de ella;
 
 l) Lugar y fecha de la solicitud;
 

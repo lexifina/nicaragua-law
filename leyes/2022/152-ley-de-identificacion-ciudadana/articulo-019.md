@@ -6,7 +6,7 @@ La identidad del solicitante de primera cédula se comprobará mediante la prese
 
 - Licencia de conducir
 
-- Carné del Instituto Nicaragüense de Seguridad Social, o cualquier documento de identidad calificado por el Director Municipal de Cedulación.
+- Carnét del Instituto Nicaragüense de Seguridad Social, o cualquier documento de identidad calificado por el Director Municipal de Cedulación.
 
 No se aceptarán documentos de identidad expedidos por partidos políticos u organizaciones afines.
 
