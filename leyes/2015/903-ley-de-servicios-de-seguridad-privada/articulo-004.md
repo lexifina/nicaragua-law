@@ -6,7 +6,7 @@ Para la aplicación de la presente Ley, se establecen las definiciones básicas 
 
 1) Acreditación: Es el documento que se le extiende al personal de seguridad privada después de haber cursado y aprobado el curso de capacitación y el cumplimiento de los demás requisitos específicos de formación y preparación teórico práctico establecidos en la presente Ley;
 
-2) DAEM: Son las siglas que corresponden a la especialidad denominada Dirección de Registro y Control de Armas de Fuego, Municiones, Explosivos y Materiales relacionados de la Policía Nacional creada por la Ley Nº. 510, Ley Especial para el Control y Regulación de Armas de Fuego, Municiones, Explosivos y otros materiales relacionados, publicada en La Gaceta, Diario Oficial Nº. 40 del 25 de febrero de 2005 y su normativa técnica;
+2) DAEM: Son las siglas que corresponden a la especialidad denominada Dirección de Registro y Control de Armas de Fuego, Municiones, Explosivos y Materiales relacionados de la Policía Nacional creada por la Ley Nº. 510, Ley Especial para el Control y Regulación de Armas de Fuego, Municiones, Explosivos y otros materiales relacionados y su normativa técnica;
 
 3) Licencia de operación: Es el documento público emitido por la autoridad de aplicación mediante la cual se autoriza al titular de la misma a prestar uno o más servicios de seguridad privada;
 

@@ -16,7 +16,7 @@ d) Cédula del Registro Único de Contribuyente;
 
 e) Número de empleador del Instituto Nicaragüense de Seguridad Social;
 
-f) Inscripción en el Instituto Nacional Tecnológico;
+f) Inscripción en el Instituto Nacional Técnico y Tecnológico;
 
 g) Matrícula de comerciante;
 

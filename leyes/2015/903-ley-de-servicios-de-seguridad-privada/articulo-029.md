@@ -18,7 +18,7 @@ Los requisitos que deben de presentarse son los siguientes:
 
 6) Copia de la Renovación de la Matrícula en la Alcaldía correspondiente y su solvencia;
 
-7) Constancia y copia del recibo del pago por aporte del 2% al Instituto Nacional Tecnológico;
+7) Constancia y copia del recibo del pago por aporte del 2% al Instituto Nacional Técnico y Tecnológico;
 
 8) Copia del Recibo de Tesorería del Pago del Impuesto Municipal sobre Ingresos;
 

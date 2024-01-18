@@ -4,9 +4,7 @@ Funciones
 
 Son funciones de la autoridad de aplicación de la presente Ley las siguientes:
 
-1) Autorizar, regular, supervisar, controlar y fiscalizar los servicios de seguridad privada y las personas prestadoras del servicio en las distintas modalidades, sus instalaciones, personal,
-
-medios técnicos y sus actuaciones;
+1) Autorizar, regular, supervisar, controlar y fiscalizar los servicios de seguridad privada y las personas prestadoras del servicio en las distintas modalidades, sus instalaciones, personal, medios técnicos y sus actuaciones;
 
 2) Renovar, denegar, suspender, cancelar la licencia de operación a los prestadores de servicios de seguridad privada de conformidad a la presente Ley;
 

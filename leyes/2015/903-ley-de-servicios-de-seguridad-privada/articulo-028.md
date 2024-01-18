@@ -4,9 +4,7 @@ Modalidad, tipos de servicio, número de guardas y valor de la licencia de opera
 
 Las licencias son únicas y por un periodo de cinco años y comprenden las modalidades, tipos de servicio, incremento de activos, número de guardas, recursos técnicos y valor de la licencia y comprende las diversas actividades de servicios de seguridad privada autorizadas, las que se detallan y clasifican de la forma siguiente:
 
--
-
--
+Las licencias de operaciones serán nacionales, regionales y departamentales y su cobertura deberá hacerse constar en la licencia.
 
 La actualización de los valores de las tasas para la emisión de licencia de operación, servicios policiales y multas, se realizarán cada dos años fiscales mediante un Acuerdo Ministerial del Ministerio de Hacienda y Crédito Público de conformidad al deslizamiento monetario del córdoba con respecto al dólar de los Estados Unidos de América en base a lo dispuesto por el Banco Central de Nicaragua. Las actualizaciones se realizarán en el primer trimestre que corresponda, siendo la primera en el año 2017.
 

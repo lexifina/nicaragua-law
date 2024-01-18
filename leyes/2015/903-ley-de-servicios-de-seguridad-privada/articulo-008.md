@@ -8,7 +8,7 @@ Son funciones del Registro Nacional de Servicios de Seguridad Privada las siguie
 
 2) Inscribir altas y bajas del personal con que se presta el servicio;
 
-3) Registrar las características particulares del diseño de los uniformes que serán autorizados por la autoridad de aplicación, para ello se llevará un catálogo que muestre el diseño con los colores que utilizará cada prestador de servicios de seguridad privada.
+3) Registrar las características particulares del diseño de los uniformes que serán autorizados por la autoridad de aplicación, para ello se llevará un catálogo que muestre el diseño con los colores que utilizará cada prestador de servicios de seguridad privada;
 
 4) Controlar los tipos de licencias y modalidades de servicio autorizados;
 

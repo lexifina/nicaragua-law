@@ -10,7 +10,7 @@ a) Notificar a la autoridad de aplicación de la ley de forma tardía el cambio 
 
 b) No remitir en tiempo y forma la información requerida por la autoridad de aplicación de la ley;
 
-c) No extender el carné que lo identifique como guarda de seguridad privada de un prestador de servicio;
+c) No extender el carnet que lo identifique como guarda de seguridad privada de un prestador de servicio;
 
 d) Usar de forma intimidatoria las armas de fuego y demás medios asignados;
 
@@ -70,7 +70,7 @@ iv) Ámbito territorial de actuación;
 
 v) Representante legal;
 
-vi) Cambios o modificaciones en el estatuto, participación societaria o titularidad accionaria;
+vi) Cambios o modificaciones en el estatuto, participación societaria o titularidad accionaria; y
 
 vii) Cambios de gerencia o administración de las empresas;
 

@@ -32,7 +32,7 @@ iv. Cambios o modificaciones en el estatuto.
 
 10) Informar a la autoridad de la aplicación la causa de la desvinculación laboral del personal de seguridad;
 
-11) Emitir el carné o credencial que identifique al personal de seguridad durante la prestación del servicio;
+11) Emitir el carnet o credencial que identifique al personal de seguridad durante la prestación del servicio;
 
 12) Los prestadores del servicio de seguridad privada deberán garantizar la inscripción del personal de seguridad que contraten para la prestación de los servicios de seguridad privada en el Instituto Nicaragüense de Seguridad Social y el pago de la justa remuneración de los guardas de seguridad para el personal y de lo cual deben de informar a la autoridad de aplicación de la presente Ley para su debida comprobación por la autoridad correspondiente;
 

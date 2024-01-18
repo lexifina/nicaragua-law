@@ -4,7 +4,7 @@ Obligaciones generales del personal de servicios de seguridad privada
 
 El personal que se encuentre prestando servicios de seguridad privada, en cualquiera de las modalidades establecidas por la presente Ley, deberá cumplir con las obligaciones siguientes:
 
-1) Portar el carné de acreditación otorgado por el prestador del servicio, debiendo identificarse siempre que se le requiera;
+1) Portar el carnet de acreditación otorgado por el prestador del servicio, debiendo identificarse siempre que se le requiera;
 
 2) Portar la licencia extendida por la DAEM para la portación de armas de fuego en los casos previstos por la Ley;
 

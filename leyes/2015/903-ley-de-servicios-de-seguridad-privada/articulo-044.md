@@ -4,7 +4,7 @@ Funciones del supervisor o supervisora de servicios de seguridad privada
 
 El supervisor o supervisora de servicios de seguridad privada tiene las funciones siguientes:
 
-1) Cumplir con esta ley, así como las demás leyes del ordenamiento jurídico nicaragüense;
+1) Cumplir con esta Ley, así como las demás leyes del ordenamiento jurídico nicaragüense;
 
 2) Colaborar con la Policía Nacional, previa coordinación con el mando superior;
 

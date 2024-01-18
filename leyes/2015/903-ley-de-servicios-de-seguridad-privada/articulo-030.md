@@ -22,4 +22,4 @@ Una vez firme la resolución de cancelación, el titular de la licencia deberá:
 
 1) Entregar personalmente o por medio de otra persona designada por el ex titular a la Autoridad de aplicación la licencia de operación cancelada dentro del plazo de cinco días. En caso de no hacerlo, la Autoridad de aplicación lo apercibirá para que la entregue; y.
 
-2) Entregar las armas de fuego y municiones que se encuentren registradas, de conformidad a la Ley Nº 510, Ley Especial para el Control y Regulación de Armas de Fuego, Municiones, Explosivos y otros Materiales Relacionados y su normativa técnica.
+2) Entregar las armas de fuego y municiones que se encuentren registradas, de conformidad a la Ley Nº. 510, Ley especial para el control y regulación de armas de fuego, municiones, explosivos y otros materiales relacionados y su normativa técnica.
