@@ -1,6 +1,6 @@
 # Artículo 65
 
-Sin perjuicio de las funciones establecidas en el Artículo 37 de la Ley Nº. 837, la Autoridad de Aplicación tendrá las atribuciones siguientes:
+Sin perjuicio de las funciones establecidas en el Artículo 37 de la Ley N°. 837, la Autoridad de Aplicación tendrá las atribuciones siguientes:
 
 1. Realizar inspección ocular y material en el sitio del siniestro;
 

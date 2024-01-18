@@ -2,7 +2,7 @@
 
 De las Bajas
 
-La Baja es el egreso de cualquier miembro de la Dirección General de Bomberos de Nicaragua, de conformidad al Artículo 87 de la Ley Nº. 837. La Baja implica el cese de la relación contractual del funcionario con la Institución.
+La Baja es el egreso de cualquier miembro de la Dirección General de Bomberos de Nicaragua, de conformidad al Artículo 87 de la Ley N°. 837. La Baja implica el cese de la relación contractual del funcionario con la Institución.
 
 Son Bajas Ordinarias:
 
@@ -24,4 +24,4 @@ Son Bajas Deshonrosas, las siguientes:
 
 4. Por actos que lesionen los principios institucionales establecidos en la Ley y el presente Reglamento; y
 
-5. Por faltas muy graves o graves establecidas en el Reglamento Disciplinario.
+Por faltas muy graves o graves establecidas en el Reglamento Disciplinario.

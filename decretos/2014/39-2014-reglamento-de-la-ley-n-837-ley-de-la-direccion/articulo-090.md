@@ -6,4 +6,6 @@ Para el cumplimiento de lo establecido en el Artículo 51 de la Ley, la Direcci�
 
 2. El diseño y especificaciones técnicas de las nuevas delegaciones de bomberos aeroportuarios a construirse o de las que se vayan a rehabilitar o remodelar; y
 
-3. De acuerdo a la categoría del aeropuerto presentará la propuesta de medios y fuerzas para la atención de las emergencias aeroportuarias. Lo anterior debe ajustarse a los parámetros establecidos en las normas internacionales establecidas por la OACI y la Ley Nº. 595, Ley General de Aeronáutica Civil.
+3. De acuerdo a la categoría del aeropuerto presentará la propuesta de medios y fuerzas para la atención de las emergencias aeroportuarias.
+
+Lo anterior debe ajustarse a los parámetros establecidos en las normas internacionales establecidas por la OACI y la Ley N°. 595, Ley General de Aeronáutica Civil,

@@ -4,7 +4,7 @@ Los requisitos del Certificado en instalaciones eléctricas para hospitales priv
 
 1. Formulario de trámite;
 
-2. Minuta de pago del arancel correspondiente:
+2. Minuta de pago del arancel correspondiente;
 
 3. Fotocopia de cédula;
 

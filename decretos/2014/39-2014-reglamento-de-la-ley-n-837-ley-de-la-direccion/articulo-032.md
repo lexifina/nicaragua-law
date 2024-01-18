@@ -6,7 +6,7 @@ Los requisitos del Certificado de Vivienda de uso habitacional, hasta 60 m2, son
 
 2. Minuta de Depósito del pago del arancel correspondiente;
 
-3. Fotocopia de cédula:
+3. Fotocopia de cédula;
 
 4. Inspección in situ de verificación y cumplimiento;
 

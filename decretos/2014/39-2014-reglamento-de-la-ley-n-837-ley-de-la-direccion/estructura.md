@@ -13,7 +13,7 @@
 - CAPÍTULO IV (antes del artículo 80)
 - CAPÍTULO V (antes del artículo 87)
 - CAPÍTULO VI (antes del artículo 92)
-- CAPÍTULO VII (antes del artículo 96)
+- CAPÍTULO VIl (antes del artículo 96)
 - CAPÍTULO VIII (antes del artículo 105)
 - CAPÍTULO IX (antes del artículo 118)
 - CAPÍTULO X (antes del artículo 121)

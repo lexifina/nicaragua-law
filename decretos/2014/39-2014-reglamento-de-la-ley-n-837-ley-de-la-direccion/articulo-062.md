@@ -1,12 +1,12 @@
 # Artículo 62
 
-Los requisitos del Certificado de Inspección y permiso a vehículos automotores para transporte hasta un volumen de 378.5 litros (100 galones), de líquidos inflamables o combustibles o más, son los siguientes:
+Los requisitos del Certificado de inspección y permiso a vehículos automotores para transporte hasta un volumen de 378.5 litros (100 galones), de líquidos inflamables o combustibles o más, son los siguientes:
 
 1. Formulario de trámite;
 
 2. Minuta de pago del arancel correspondiente;
 
-3. Fotocopia de Cédula;
+3. Fotocopia de cédula;
 
 4. Fotocopia de la Licencia de Circulación;
 

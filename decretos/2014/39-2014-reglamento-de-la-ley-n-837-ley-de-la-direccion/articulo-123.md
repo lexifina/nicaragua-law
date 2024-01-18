@@ -1,8 +1,8 @@
 # Artículo 123
 
-Sin perjuicio de los deberes establecidos en la Ley Nº. 837, Ley de la Dirección General de Bomberos de Nicaragua, los miembros de la Dirección General de Bomberos, tienen los siguientes deberes:
+Sin perjuicio de los deberes establecidos en la Ley N°. 837, Ley General de la Dirección General de Bomberos de Nicaragua, los miembros de la Dirección General de Bomberos, tienen los siguientes deberes:
 
-1. Respetar y cumplir la Constitución Política, las leyes, reglamentos, disposiciones y normativas que regulan la carrera y actividad de bomberos;
+1. Respetar, y cumplir la Constitución Política, las leyes, reglamentos, disposiciones y normativas que regulan la carrera y actividad de bomberos;
 
 2. Guardar respeto, lealtad y fidelidad al Ministerio de Gobernación, Dirección General de Bomberos de Nicaragua, sus mandos y compañeros;
 

@@ -1,6 +1,6 @@
 # Artículo 10
 
-Sin perjuicio de las funciones establecidas en el Artículo 11 de la Ley Nº. 837, el Inspector (a) General, tendrá las atribuciones siguientes:
+Sin perjuicio de las funciones establecidas en el Artículo 11 de la Ley N°. 837, el Inspector (a) General, tendrá las atribuciones siguientes:
 
 1. Velar por el fiel cumplimiento de la Constitución Política, las Leyes, Reglamentos y demás normativas que afecten a la Dirección General de Bomberos, velando por el cumplimiento de los principios y valores fundamentales de la actuación bomberil;
 
@@ -8,7 +8,7 @@ Sin perjuicio de las funciones establecidas en el Artículo 11 de la Ley Nº. 83
 
 3. Garantizar el permanente respeto de los Derechos Humanos de los funcionarios y de todo el personal de la Dirección General de Bomberos de Nicaragua en el cumplimiento de sus funciones;
 
-4. Informar al Director (a) General de las denuncias o quejas que reciba sobre el comportamiento de los miembros de la Dirección General de Bomberos de Nicaragua, de conformidad al Reglamento Disciplinario y al Código de Ética y de Conducta de los Servidores Públicos del Poder Ejecutivo, publicado en La Gaceta. Diario Oficial Nº. 113 del 18 de junio del 2009;
+4. Informar al Director (a) General de las denuncias o quejas que reciba sobre el comportamiento de los miembros de la Dirección General de Bomberos de Nicaragua, de conformidad al Reglamento Disciplinario y al Código de Ética y de Conducta de los Servidores Públicos del Poder Ejecutivo, publicado en La Gaceta, Diario Oficial N°. 113 del 18 de junio del 2009;
 
 5. Realizar verificaciones, supervisiones e inspecciones en las distintas unidades de la Dirección General de Bomberos de Nicaragua a fin de constatar el funcionamiento de estas y el buen servicio que se debe brindar a la población;
 

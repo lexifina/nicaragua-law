@@ -24,6 +24,6 @@ Los requisitos de Licencia para personas que se desempeñan como técnico multip
 
 11. Resolución de Exención de Pago emitida por el Director (a) o en su defecto el Subdirector (a) de la Dirección General; y
 
-12. Presentar de forma trimestral el listado de personas que han recibido capacitaciones e informar sobre eventos futuros de capacitaciones de conformidad con las Normas y otras directrices que establezca la Dirección General de Bomberos de Nicaragua. así como también fotocopia del programa y lista de participantes.
+12. Presentar de forma trimestral el listado de personas que han recibido capacitaciones e informar sobre eventos futuros de capacitaciones de conformidad con las Normas y otras directrices que establezca la Dirección General de Bomberos de Nicaragua, así como también fotocopia del programa y lista de participantes.
 
 DE LAS LICENCIAS A PERSONAS JURÍDICAS QUE REALIZAN ACTIVIDADES CON RIESGO DE INCENDIO O EXPLOSIÓN

@@ -2,7 +2,7 @@
 
 De la Constancia
 
-La Constancia de avería, explosión o incendio, establecida en el Artículo 37 numeral 3 y Artículo 92 de la Ley Nº. 837, podrá ser solicitada por el afectado, previo cumplimiento de los requisitos siguientes:
+La Constancia de avería, explosión o incendio, establecida en el Artículo 37 numeral 3 y Artículo 92 de la Ley N°. 837, podrá ser solicitada por el afectado, previo cumplimiento de los requisitos siguientes:
 
 1. Formulario de trámite;
 
@@ -12,6 +12,6 @@ La Constancia de avería, explosión o incendio, establecida en el Artículo 37 
 
 4. Nacionalidad;
 
-5. Dirección completa. incluyendo números de teléfono, fax, correo electrónico; y
+5. Dirección completa, incluyendo números de teléfono, fax, correo electrónico; y
 
-6. Fotocopia de Cédula de identidad.
+6. Fotocopia de cédula de identidad.

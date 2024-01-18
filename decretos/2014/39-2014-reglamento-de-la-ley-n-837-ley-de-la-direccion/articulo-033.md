@@ -1,10 +1,10 @@
 # Artículo 33
 
-Los requisitos del Certificado de Vivienda de uso habitacional, de más de 60m2 hasta 120m2 , son los siguientes:
+Los requisitos del Certificado de Vivienda de uso habitacional, de más de 60m2 hasta 120m2, son los siguientes:
 
-1. Formulario de trámite:
+1. Formulario de trámite;
 
-2. Minuta de Depósito del pago del arancel correspondiente:
+2. Minuta de Depósito del pago del arancel correspondiente;
 
 3. Fotocopia de cédula;
 

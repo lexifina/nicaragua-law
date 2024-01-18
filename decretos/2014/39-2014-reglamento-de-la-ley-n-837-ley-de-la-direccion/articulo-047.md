@@ -6,7 +6,7 @@ Los requisitos del Certificado para Objetivos Medianamente Peligrosos, MP, son l
 
 2. Minuta de pago del arancel correspondiente;
 
-3. Fotocopia de Cédula;
+3. Fotocopia de cédula;
 
 4. Inspección in situ de verificación y cumplimiento;
 

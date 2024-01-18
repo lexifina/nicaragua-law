@@ -1,12 +1,12 @@
 # Artículo 27
 
-Los requisitos de Licencia para importación de aparatos, equipos, sistemas, Recipientes, contenedores, bultos, aparatos y otros de mercancías peligrosas con características de explosividad, inflamabilidad. Gases licuados y naturales de petróleo, Oxidantes y peróxidos orgánicos Líquidos y sólidos, tóxicos y altamente tóxicos, Líquidos y sólidos pirofóricos, productos cuya reactividad y toxicidad impliquen riesgos de incendio o explosión. Líquidos y sólidos inestables, Líquidos y sólidos reactivos al agua son los siguientes:
+Los requisitos de Licencia para importación de aparatos, equipos, sistemas, recipientes, contenedores, bultos, aparatos y otros de mercancías peligrosas con características de explosividad, inflamabilidad, gases licuados y naturales de petróleo, oxidantes y peróxidos orgánicos líquidos y sólidos, tóxicos y altamente tóxicos, líquidos y sólidos pirofóricos, productos cuya reactividad y toxicidad impliquen riesgos de incendio o explosión, líquidos y sólidos inestables, líquidos y sólidos reactivos al agua son los siguientes:
 
 1. Formulario de trámite;
 
 2. Minuta de Depósito del pago del arancel correspondiente;
 
-3. Fotocopia de la escritura de constitución social y estatutos y copia del poder de representación. debidamente autenticada por Notario Público; si es extranjera presentar documentos que lo habilita para que surtan efectos en el País;
+3. Fotocopia de la escritura de constitución social y estatutos y copia del poder de representación, debidamente autenticada por Notario Público; si es extranjera presentar documentos que lo habilita para que surtan efectos en el País;
 
 4. Fotocopia de cédula RUC;
 

@@ -1,14 +1,14 @@
 # Artículo 40
 
-La Dirección General de Bomberos de Nicaragua. aprobará los planos eléctricos previo cumplimiento de los requisitos mínimos siguientes:
+La Dirección General de Bomberos de Nicaragua, aprobará los planos eléctricos previo cumplimiento de los requisitos mínimos siguientes:
 
-1. Simbología que indique los elementos involucrados en la información gráfica, con las características eléctricas y las alturas de montaje:
+1. Simbología que indique los elementos involucrados en la información gráfica, con las características eléctricas y las alturas de montaje;
 
 2. Distribución de las plantas físicas con la información gráfica de todos los circuitos eléctricos.
 
 3. Características eléctricas y físicas de cada tablero o panel;
 
-4. Carga eléctrica conectada y demandada:
+4. Carga eléctrica conectada y demandada;
 
 5. Factor de potencia y factor de demanda;
 

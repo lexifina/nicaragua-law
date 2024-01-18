@@ -4,7 +4,7 @@ Los requisitos del Certificado de Vivienda de uso habitacional e interés social
 
 1. Formulario de trámite;
 
-2. Fotocopia de cédula:
+2. Fotocopia de cédula;
 
 3. Inspección in situ de verificación y cumplimiento;
 

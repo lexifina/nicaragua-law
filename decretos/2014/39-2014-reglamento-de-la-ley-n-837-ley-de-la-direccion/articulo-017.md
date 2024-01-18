@@ -10,7 +10,7 @@ Los requisitos de Licencia para instaladores eléctricos, son los siguientes:
 
 4. Fotocopia de Diploma o Certificado de formación profesional;
 
-5. En caso de no tener formación profesional, presentar original de Declaración notarial eje realización de trabajo empírico;
+5. En caso de no tener formación profesional, presentar original de Declaración notarial de realización de trabajo empírico;
 
 6. Currículum Vitae;
 

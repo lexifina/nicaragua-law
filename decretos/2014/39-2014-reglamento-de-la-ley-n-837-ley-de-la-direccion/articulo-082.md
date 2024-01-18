@@ -16,9 +16,9 @@ Sin perjuicio de las funciones establecidas en el Artículo 40 de la Ley, la Dir
 
 7. Realiza la evaluación del TRIAGE que corresponda;
 
-8. Establecer el Plan de Acción del Incidente, PAi, que puede ser mental o escrito y darlo a conocer;
+8. Establecer el Plan de Acción del Incidente, PAI, que puede ser mental o escrito y darlo a conocer;
 
-9. Coordinar con la autoridad de la materia la función de aislamiento perimetral, sean personas o bienes:
+9. Coordinar con la autoridad de la materia la función de aislamiento perimetral, sean personas o bienes;
 
 10. Informar al Centro Nacional de Comunicaciones sobre la localización, escombro o del incendio;
 

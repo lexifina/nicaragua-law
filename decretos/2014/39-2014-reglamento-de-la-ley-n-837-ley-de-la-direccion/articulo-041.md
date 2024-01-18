@@ -1,8 +1,8 @@
 # Artículo 41
 
-La información en los planos de casas de habitación de los proyectos definidos como obra menor de 60m2 según la Ley N°. 677, Ley Especial para el Fomento de la Construcción de Vivienda y de Acceso a la Vivienda de Interés Social debe contar al menos con los siguientes circuitos;
+La información en los planos de casas de habitación de los proyectos definidos como obra menor de 60 m2 según la Ley N°. 677, Ley Especial para el Fomento de la Construcción de Vivienda y de Acceso a la Vivienda de Interés Social debe contar al menos con los siguientes circuitos:
 
-1. Un circuito de iluminación cuya carga será de 1 O voltios-amperios por m2;
+1. Un circuito de iluminación cuya carga será de 10 voltios-amperios por m2;
 
 2. Dos circuitos de tomas para el área de cocina de 1500 voltios-amperios cada uno;
 

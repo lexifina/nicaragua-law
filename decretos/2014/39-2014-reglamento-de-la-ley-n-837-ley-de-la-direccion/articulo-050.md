@@ -4,9 +4,9 @@ Los requisitos del Certificado de inspección para importación, comercializaci�
 
 1. Formulario de trámite;
 
-2. Minuta de pago del arancel correspondiente:
+2. Minuta de pago del arancel correspondiente;
 
-3. Fotocopia de Cédula;
+3. Fotocopia de cédula;
 
 4. Inspección in situ de verificación y cumplimiento;
 
@@ -14,7 +14,7 @@ Los requisitos del Certificado de inspección para importación, comercializaci�
 
 6. Acta de constitución de brigada contra incendios;
 
-7. Fichas de seguridad de los materiales pirotécnicos a almacenar y utilizar:
+7. Fichas de seguridad de los materiales pirotécnicos a almacenar y utilizar;
 
 8. Cumplir con los demás requisitos de las leyes, reglamentos y normas técnicas aplicables; y
 

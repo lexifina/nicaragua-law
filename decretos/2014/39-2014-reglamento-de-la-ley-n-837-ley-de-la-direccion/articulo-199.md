@@ -1,6 +1,6 @@
 # Artículo 199
 
-Los criterios técnicos básicos que deben cumplir las nuevas asociaciones de bomberos no gubernamentales para que puedan otorgar el servicio de prevención y riesgos especiales, extinción de incendios, de conformidad al Artículo 5 numeral 6 de la Ley, son los siguientes:
+Los criterios técnicos básicos que deben cumplir las nuevas asociaciones de bomberos sin fines de lucro para que puedan otorgar el servicio de prevención y riesgos especiales, extinción de incendios, de conformidad al Artículo 5 numeral 6 de la Ley, son los siguientes:
 
 1. Disponer de la técnica fundamental mínima siguiente:
 
@@ -10,7 +10,7 @@ Los criterios técnicos básicos que deben cumplir las nuevas asociaciones de bo
 
 2. Disponer de la técnica complementaria mínima siguiente:
 
--Mangueras: Siete de 77 milímetros, (3.031487 pulgadas) siete de 66 milímetros (2.598417 pulgadas) y siete de 51 milímetros de diámetro (2.007868 pulgadas) o su equivalencia en pulgadas, todas por 20 m de longitud como mínimo;
+- Mangueras: Siete de 77 milímetros, (3.031487 pulgadas) siete de 66 milímetros (2.598417 pulgadas) y siete de 51 milímetros de diámetro (2.007868 pulgadas) o su equivalencia en pulgadas, todas por 20 m de longitud como mínimo;
 
 - Dos mangueras de succión;
 
@@ -44,9 +44,9 @@ Los criterios técnicos básicos que deben cumplir las nuevas asociaciones de bo
 
 - Una mandarria o mazo:
 
-- Una Llave francesa 18" (457.2 mm) mínimo;
+- Una Llave francesa 18” (457.2 mm) mínimo;
 
-- Una Llave Inglesa 24" (609 .6 mm) mínimo;
+- Una Llave Inglesa 24” (609 .6 mm) mínimo;
 
 - Una llave de hidrante;
 
@@ -62,7 +62,7 @@ Los criterios técnicos básicos que deben cumplir las nuevas asociaciones de bo
 
 3. Equipo básico de rescate y primeros auxilios:
 
--Cuatro Cascos de seguridad;
+- Cuatro Cascos de seguridad;
 
 - Cuatro Arneses integrales o pélvicos;
 

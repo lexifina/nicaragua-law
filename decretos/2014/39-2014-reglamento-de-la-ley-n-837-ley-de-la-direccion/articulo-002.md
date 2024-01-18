@@ -2,17 +2,17 @@
 
 Además de las definiciones y abreviaturas establecidas en la Ley, se utilizarán las definiciones y abreviaturas siguientes:
 
-1. Autoridad de Aplicación: Para los efectos de aplicación y cumplimiento de la Ley Nº. 837 y de este Reglamento, se designa como Autoridad de Aplicación a la Dirección General de Bomberos de Nicaragua, la que además tendrá las funciones de Ente Regulador en la actividad de prevención de incendios y sus riesgos especiales, extinción de incendios y demás actividades conexas, gozando del carácter de autoridad pública;
+1. Autoridad de Aplicación: Para los efectos de aplicación y cumplimiento de la Ley N°. 837 y de este Reglamento, se designa como Autoridad de Aplicación a la Dirección General de Bomberos de Nicaragua, la que además tendrá las funciones de Ente Regulador en la actividad de prevención de incendios y sus riesgos especiales, extinción de incendios y demás actividades conexas, gozando del carácter de autoridad pública;
 
-2. Acreditación: Reconocimiento formal por el Ente Regulador, de acuerdo al cumplimiento de requisitos en la actividad de prevención de incendios y sus riesgos especiales, extinción de incendios y demás actividade; conexas;
+2. Acreditación: Reconocimiento formal por el Ente Regulador, de acuerdo al cumplimiento de requisitos en la actividad de prevención de incendios y sus riesgos especiales, extinción de incendios y demás actividades conexas;
 
 3. DGBN: Dirección General de Bomberos de Nicaragua;
 
 4. GRE: Guía de Respuesta de Emergencia en materia de incidentes con sustancias químicas, tóxicas, peligrosas y similares;
 
-5. Inspección: Acto mediante el cual la Dirección General de Bomberos de Nicaragua verifica y certifica dando seguimiento al cumplimiento de las regulaciones de protección contra incendios en las instalaciones eléctricas, aspectos tecnológicos, evacuación, instalaciones de protección contra incendios, organización, planes de emergencias y contingencias, así como todas aquellas condiciones que puedan originar incidentes o siniestros que ponen en riesgo la vida. bienes, salud pública y el ambiente;
+5. Inspección: Acto mediante el cual la Dirección General de Bomberos de Nicaragua verifica y certifica dando seguimiento al cumplimiento de las regulaciones de protección contra incendios en las instalaciones eléctricas, aspectos tecnológicos, evacuación, instalaciones de protección contra incendios, organización, planes de emergencias y contingencias, así como todas aquellas condiciones que puedan originar incidentes o siniestros que ponen en riesgo la vida, bienes, salud pública y el ambiente;
 
-6. Multa: Es la sanción de carácter pecuniario establecida por la Ley Nº. 837, Ley de la Dirección General de Bomberos de Nicaragua;
+6. Multa: Es la sanción de carácter pecuniario establecida por la Ley N°. 837, Ley de la Dirección General de Bomberos de Nicaragua;
 
 7. NPO: Son las Normas de Procedimientos Operativos para la extinción de incendios;
 

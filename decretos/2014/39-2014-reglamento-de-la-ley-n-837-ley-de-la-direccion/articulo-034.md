@@ -1,6 +1,6 @@
 # Artículo 34
 
-Los requisitos del Certificado de Vivienda de uso habitacional. de más de 120m2 hasta 300m2, son los siguientes:
+Los requisitos del Certificado de Vivienda de uso habitacional, de más de 120m2 hasta 300m2, son los siguientes:
 
 1. Formulario de trámite;
 
@@ -14,7 +14,7 @@ Los requisitos del Certificado de Vivienda de uso habitacional. de más de 120m2
 
 6. Plano Arquitectónico;
 
-7. Plano del Sistema de agua contra incendio si fuera urbanización:
+7. Plano del Sistema de agua contra incendio si fuera urbanización;
 
 8. Memorias de cálculo; y
 
