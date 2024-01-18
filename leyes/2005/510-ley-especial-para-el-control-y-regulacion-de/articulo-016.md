@@ -12,6 +12,8 @@ También comprende aquellas que son propias para la técnica antidisturbios, cuy
 
 III. Municiones de uso civil: Se les consideran municiones de uso civil todas aquellas que no están comprendidas en el acápite anterior y se utilizan en las armas de uso civil para la defensa personal, protección de objetivos, uso deportivo y colección; incluye los cartuchos de luces de bengala o de humo de colores utilizados para enviar señales.
 
-Se podrán coleccionar municiones de hasta 12.6 m.m, siempre y cuando estén desactivadas. Se prohíbe coleccionar granadas o cualquier tipo de explosivos.
+Se podrán coleccionar municiones de hasta 12.6 m.m, siempre y cuando estén desactivadas.
+
+Se prohíbe coleccionar granadas o cualquier tipo de explosivos.
 
 DE LA CLASIFICACIÓN DE LAS SUSTANCIAS EXPLOSIVAS CONTROLADAS

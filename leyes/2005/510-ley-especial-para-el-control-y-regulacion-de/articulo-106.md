@@ -2,7 +2,7 @@
 
 Requerimientos para otorgar el Certificado
 
-La autoridad de aplicación de la presente Ley y su Reglamento para poder otorgar el Certificado de importación de armas de fuego y municiones deben requerir al interesado lo siguiente:
+La Autoridad de Aplicación de la presente Ley y su Reglamento para poder otorgar el Certificado de importación de armas de fuego y municiones debe requerir al interesado lo siguiente:
 
 1. La cédula de identificación ciudadana del importador o de su representante legal;
 

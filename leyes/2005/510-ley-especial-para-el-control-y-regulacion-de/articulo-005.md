@@ -32,7 +32,7 @@ Para los fines y efectos de la presente Ley y su Reglamento se establecen las fu
 
 14. Inscribir las altas de las armas de fuego nuevas, explosivos y otros materiales relacionados, el registro de bajas, cambio de dueño o del domicilio;
 
-15. Cumplir con el principio de publicidad registra) emitiendo los certificados de tenencia y uso de armas de fuego, explosivos y otros materiales relacionados;
+15. Cumplir con el principio de publicidad registra! emitiendo los certificados de tenencia y uso de armas de fuego, explosivos y otros materiales relacionados;
 
 16. Efectúa las anotaciones preventivas pertinentes que emitan las autoridades judiciales por medio de los oficios respectivos;
 

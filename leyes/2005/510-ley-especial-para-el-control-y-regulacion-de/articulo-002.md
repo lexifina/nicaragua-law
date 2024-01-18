@@ -4,9 +4,9 @@ Definiciones Básicas
 
 Para el cumplimiento del objeto de la presente Ley y sin perjuicio de otras definiciones básicas que se pudiesen determinar en el Reglamento de ésta y cada vez que aparezcan en ella los términos siguientes, deben de entenderse así:
 
-1. Arma: Instrumento útil en la lucha que mantiene o aumenta la fuerza propia, especialmente referida al arma de fuego; incluye armas corto punzante y contundente;
+1. Arma: Instrumento útil en la lucha que mantiene o aumenta la fuerza propia, especialmente referida al arma de fuego; incluye armas corto punzantes y contundentes;
 
-2. Arma de fuego: Es toda arma portátil que tenga cañón y que haya sido concebida para lanzar o pueda transformarse fácilmente para lanzar un balín, una bala o proyectil por la acción de un explosivo, excluidas las armas de fuego antiguas fabricadas antes del siglo XX o sus réplicas; o cualquier artefacto que conste de por lo menos un cañón por el cual una bala o proyectil puede ser descargado por la acción de un explosivo y que haya sido diseñada para ello o pueda convertirse fácilmente para tal efecto, excepto las armas antiguas o sus réplicas o cualquier otra arma o dispositivo destructivo tal como bomba explosiva, incendiaria o de gas, granada, cohete, lanzacohetes, misil, sistema de mísiles y minas o las que emplean como agente impulsor del proyectil o bala la fuerza creada por expansión de los gases producidos por la combustión de una sustancia química u otros propulsores creados o a crearse;
+2. Arma de fuego: Es toda arma portátil que tenga cañón y que haya sido concebida para lanzar o pueda transformarse fácilmente para lanzar un balín, una bala o proyectil por la acción de un explosivo, excluidas las armas de fuego antiguas fabricadas antes del siglo XX o sus réplicas; o cualquier artefacto que conste de por lo menos un cañón por el cual una bala o proyectil puede ser descargado por la acción de un explosivo y que haya sido diseñada para ello o pueda convertirse fácilmente para tal efecto, excepto las armas antiguas o sus réplicas o cualquier otra arma o dispositivo destructivo tal como bomba explosiva, incendiaria o de gas, granada, cohete, lanzacohetes, misil, sistema de misiles y minas o las que emplean como agente impulsor del proyectil o bala la fuerza creada por expansión de los gases producidos por la combustión de una sustancia química u otros propulsores creados o a crearse;
 
 3. Accesorio Adosable: Es el dispositivo auxiliar de un arma de fuego, electrónica o de lanzamiento especialmente diseñado para alterar su funcionamiento o para brindar prestaciones adicionales, entre las que se incluyen los silenciadores y bayonetas;
 
@@ -18,7 +18,7 @@ Para el cumplimiento del objeto de la presente Ley y sin perjuicio de otras defi
 
 7. Certificado de Importación: Es el documento emitido por el organismo competente del país importador y que debe de contener la información obligatoriamente establecida por la presente Ley;
 
-8. Certificado de Destino Final: Es el documento oficial otorgado por la autoridad de aplicación de la Ley y su Reglamento, por medio del cual se autoriza al importador o al exportador, previa definición de la información exigida por ley, para que la persona natural o jurídica autorizada en el Estado a importar o exportar pueda tomar posesión del cargamento de conformidad a la ley de la materia;
+8. Certificado de Destino Final: Es el documento oficial otorgado por la Autoridad de Aplicación de la Ley y su Reglamento, por medio del cual se autoriza al importador o al exportador, previa definición de la información exigida por ley, para que la persona natural o jurídica autorizada en el Estado a importar o exportar pueda tomar posesión del cargamento de conformidad a la ley de la materia;
 
 9. Destinatario Final: Es la persona natural o jurídica autorizada en el Estado importador para tomar posesión del cargamento de conformidad a la ley de la materia;
 
@@ -62,7 +62,7 @@ c) Cuando no se disponga de la licencia o autorización de una autoridad compete
 
 25. Portación: Es la acción de una persona natural o el efecto de ésta al portar un arma de fuego de uso civil en forma discreta y prudente, la cual está debidamente autorizada por la Autoridad de Aplicación de la Ley que regula la materia y no causa intimidación, daños o lesiones físicas o psicológicas a terceras personas;
 
-26. Producto Pirotécnico: Se dice de los explosivos de manufactura comercial o artesanal que combina la pólvora con otros elementos y compuestos químicos, a fin de producir una combustión o detonación controlada, que no produzca daños a bienes materiales o a las personas, pero sí efectos luminosos y sonoros propios para actividades de esparcimiento y diversión popular;
+26. Producto Pirotécnico: Se dice de los explosivos de manufactura comercial o' artesanal que combina la pólvora con otros elementos y compuestos químicos, a fin de producir una combustión o detonación controlada, que no produzca daños a bienes materiales o a las personas, pero sí efectos luminosos y sonoros propios para actividades de esparcimiento y diversión popular;
 
 27. Pólvora: Mezcla de compuestos a partir de las sustancias denominadas nitrato de potasio, carbono y azufre;
 

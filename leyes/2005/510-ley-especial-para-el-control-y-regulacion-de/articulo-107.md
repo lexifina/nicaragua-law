@@ -6,4 +6,4 @@ Durante el proceso de importación y exportación de armas de fuego y municiones
 
 La importación o exportación de armas de fuego o de municiones, no se autorizará si el interesado no dispone la licencia especial que corresponde y el certificado respectivo para cada lote.
 
-El Reglamento de la presente Ley definirá los formularios de información que deberán completarse y los procedimientos específicos a cumplirse, para tal efecto, la Dirección de Registro y Control de Armas de Fuego, Explosivos y Materiales Relacionados de la Policía Nacional debe de presentar las propuestas respectivas.
+El Reglamento de la presente Ley definirá los formularios de información que deberán completarse y los procedimientos específicos a cumplirse, para tal efecto, la Dirección de Registro y Control de Armas de Fuego, Municiones, Explosivos y Materiales relacionados de la Policía Nacional debe de presentar las propuestas respectivas.

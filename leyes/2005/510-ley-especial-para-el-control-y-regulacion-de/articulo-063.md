@@ -2,7 +2,7 @@
 
 Normas técnicas básicas
 
-Sin perjuicio de cualquier otra disposición o normativa establecida en el Reglamento de la Ley por parte de la Autoridad de Aplicación de la ésta y su Reglamento, se consideran normas técnicas básicas obligatorias, las siguientes:
+Sin perjuicio de cualquier otra disposición o normativa establecida en el Reglamento de esta Ley por parte de la Autoridad de Aplicación de esta y su Reglamento, se consideran normas técnicas básicas obligatorias, las siguientes:
 
 1. Que los locales estén ubicados fuera del perímetro urbano de las ciudades y a una distancia mínima de dos kilómetros de poblados, casas o cualquier tipo de asentamientos humanos, según sea la orientación del ángulo de tiro.
 

@@ -14,6 +14,6 @@ La fabricación de artefactos y artículos pirotécnicos, pólvora negra, perdig
 
 5. Contar con un sistema de prevención y extinción de incendios debidamente avalados por la Dirección General de Bomberos de Nicaragua del Ministerio de Gobernación;
 
-6. Existencia de un plan de seguridad ciudadana, el que debe contener las medidas de prevención y lucha contra siniestros y evacuación de personas, este debe de ser aprobado por la autoridad de aplicación de la presente Ley y su Reglamento; y
+6. Existencia de un plan de seguridad ciudadana, el que debe contener las medidas de prevención y lucha contra siniestros y evacuación de personas, este debe de ser aprobado por la Autoridad de Aplicación de la presente Ley y su Reglamento; y
 
 7. El diseño de las construcciones y las instalaciones físicas deben de ajustarse a las especificaciones técnicas que se establezcan en el Reglamento de esta Ley y demás disposiciones administrativas de otras instituciones.
