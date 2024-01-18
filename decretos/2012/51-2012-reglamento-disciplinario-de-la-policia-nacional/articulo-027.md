@@ -16,6 +16,6 @@ El inicio de las investigaciones también procederá:
 
 4) Cuando sea solicitado por el Jefe de la estructura correspondiente a la División de Asuntos Internos.
 
-El término de la investigación, se computará a partir de la notificación al presunto infractor sobre la apertura o inicio de una investigación en su contra. hasta un plazo máximo de treinta días hábiles. que pueden ser prorrogables por quince días adicionales, para emitir el informe conclusivo.
+El término de la investigación, se computará a partir de la notificación al presunto infractor sobre la apertura o inicio de una investigación en su contra, hasta un plazo máximo de treinta días hábiles, que pueden ser prorrogables por quince días adicionales, para emitir el informe conclusivo.
 
 Para los fines previstos, la División de Asuntos Internos, podrá llevar a cabo todos los actos de investigación lícita, tales como entrevistas de testigos, peritajes, inspecciones, reconocimientos y otros que sean pertinentes para el esclarecimiento de los hechos.

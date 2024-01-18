@@ -2,7 +2,7 @@
 
 Causales de abstención y excusas
 
-El personal policial designado, para ser miembros de la Comisión de Honor y Disciplina. deberán abstenerse o excusarse, de cumplir esta función, cuando concurra alguna de las siguientes circunstancias:
+El personal policial designado, para ser miembros de la Comisión de Honor y Disciplina, deberán abstenerse o excusarse, de cumplir esta función, cuando concurra alguna de las siguientes circunstancias:
 
 1) Que sea cónyuge o pareja en unión de hecho estable con el presunto infractor.
 

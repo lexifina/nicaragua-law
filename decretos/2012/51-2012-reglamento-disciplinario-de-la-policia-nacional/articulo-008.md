@@ -30,11 +30,11 @@ Constituyen infracciones leves las siguientes:
 
 13) Desatender las órdenes de un superior, siempre que no cause repercusiones graves al servicio.
 
-14) No prestar con la urgencia debida. el auxilio que por razón de su condición de policía deba brindar.
+14) No prestar con la urgencia debida, el auxilio que por razón de su condición de policía deba brindar.
 
 15) Girar instrucciones que están fuera de su ámbito de competencia, siempre que no tenga repercusiones graves al servicio o no cause graves daños a terceros.
 
-16) Introducirse, acostarse. dormir o descansar en horas o lugares no autorizados.
+16) Introducirse, acostarse, dormir o descansar en horas o lugares no autorizados.
 
 17) Violentar reglas establecidas al tener en su poder, objetos no autorizados sin que constituya delito.
 
@@ -54,7 +54,7 @@ Constituyen infracciones leves las siguientes:
 
 25) No hacer uso del conducto reglamentario establecido, para dirigirse a sus superiores.
 
-26) Imponer sanción disciplinaria. sin apego a los procedimientos establecidos.
+26) Imponer sanción disciplinaria, sin apego a los procedimientos establecidos.
 
 27) Abusar de su condición de funcionario policial, al detener un vehículo particular o público, para su traslado personal sin que existan fines relacionados al servicio.
 

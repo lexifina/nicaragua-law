@@ -4,9 +4,9 @@ Infracciones Graves
 
 Constituyen infracciones graves las siguientes:
 
-1) Ausentarse de la unidad o lugar donde deba prestar servicios, cursos. o eventos de capacitación, por término que no exceda de tres días.
+1) Ausentarse de la unidad o lugar donde deba prestar servicios, cursos, o eventos de capacitación, por término que no exceda de tres días.
 
-2) Ofender, agredir verbalmente o irrespetar a los vecinos o miembros de la comunidad. afectando la imagen de la institución.
+2) Ofender, agredir verbalmente o irrespetar a los vecinos o miembros de la comunidad, afectando la imagen de la institución.
 
 3) Asistir tardíamente al lugar o unidad donde deba prestar su servicio, hasta en tres ocasiones consecutivas, o de forma esporádica en el periodo de un mes.
 
@@ -32,7 +32,7 @@ Constituyen infracciones graves las siguientes:
 
 14) Manipular armas de fuego, sin justificación alguna.
 
-15) Dirigirse de manera descortés, o hacer comentarios que dañen la honra. moral y reputación profesional de los funcionarios policiales.
+15) Dirigirse de manera descortés, o hacer comentarios que dañen la honra, moral y reputación profesional de los funcionarios policiales.
 
 16) Sustraer objetos personales de poco valor, tanto de funcionarios policiales, así como pertenencias de la Institución.
 
@@ -64,13 +64,13 @@ Constituyen infracciones graves las siguientes:
 
 30) Discriminar por razón de género, edad, sexo, nacionalidad, condición social, étnica, religiosa, por filiación partidaria, política sin que ello cause daño grave a la imagen y prestigio de la Institución y a terceros.
 
-31) No asistir injustificadamente, a las Audiencias Orales de procedimiento establecidas en el presente Reglamento
+31) No asistir injustificadamente, a las Audiencias Orales de procedimiento establecidas en el presente Reglamento.
 
-32) Ausentarse injustificadamente de seminarios, cursos de formación profesional, eventos de capacitación o planes especiales, a los que sea designado
+32) Ausentarse injustificadamente de seminarios, cursos de formación profesional, eventos de capacitación o planes especiales, a los que sea designado.
 
-33) Recurrir a personas naturales o jurídicas ajenas a la Institución, para obtener prebendas de orden personal. que comprometan la imparcialidad de la misma.
+33) Recurrir a personas naturales o jurídicas ajenas a la Institución, para obtener prebendas de orden personal, que comprometan la imparcialidad de la misma.
 
-34) Obstaculizar o negar la cooperación necesaria. en las investigaciones que realice la División de Asuntos Internos o cualquier otra especialidad de la Policía Nacional, en materia de su competencia.
+34) Obstaculizar o negar la cooperación necesaria, en las investigaciones que realice la División de Asuntos Internos o cualquier otra especialidad de la Policía Nacional, en materia de su competencia.
 
 35) Aprovecharse de su cargo, para impedir o evitar que cualquier funcionario de igual, menor o mayor jerarquía, cumpla con sus funciones relativas al servicio.
 

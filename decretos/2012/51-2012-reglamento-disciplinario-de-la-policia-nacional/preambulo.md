@@ -1,16 +1,18 @@
-TEXTO CONSOLIDADO, DECRETO EJECUTIVO Nº. 51-2012, DECRETO REGLAMENTO DISCIPLINARIO DE LA POLICÍA NACIONAL DE NICARAGUA
+TEXTO CONSOLIDADO, DECRETO EJECUTIVO Nº. 51-2012, REGLAMENTO DISCIPLINARIO DE LA POLICÍA NACIONAL DE NICARAGUA
 
-DECRETO EJECUTIVO Nº. 51-2012, aprobado el 27 de mayo de 2021
+DECRETO EJECUTIVO Nº. 51-2012, aprobado el 28 de febrero de 2023
 
-Publicado en La Gaceta, Diario Oficial N°. 34 del 22 de febrero de 2022
+Publicado en La Gaceta, Diario Oficial N°. 09 del 18 de enero de 2024
+
+ASAMBLEA NACIONAL
 
 Digesto Jurídico Nicaragüense de la Materia Orden Interno
 
-El presente texto contiene incorporadas todas sus modificaciones consolidadas al 27 de mayo de 2021, del Decreto Ejecutivo Nº. 51-2012, Reglamento Disciplinario de la Policía Nacional de Nicaragua, aprobado el 20 de diciembre de 2012 y publicado en La Gaceta. Diario Oficial Nº. 245 del 21 de diciembre de 2012, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1074, Ley del Digesto Jurídico Nicaragüense de la Materia Orden Interno, aprobada el 27 de mayo de 2021.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas del Decreto Ejecutivo N°. 51-2012, Reglamento Disciplinario de la Policía Nacional de Nicaragua y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense y la Ley Nº. 1146, Ley del Digesto Jurídico Nicaragüense de la Materia de Orden Interno, aprobada el 28 de febrero de 2023.
 
 DECRETO Nº. 51-2012
 
-EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+El Presidente de la República de Nicaragua
 
 Comandante Daniel Ortega Saavedra
 
@@ -18,7 +20,7 @@ CONSIDERANDO
 
 I
 
-Que la Policía Nacional como institución garante del Orden Público y la Seguridad Ciudadana, requiere de un instrumento que garantice. a través de sus jefes respectivos, el orden jerárquico, el cumplimiento de las leyes y los principios de actuación, así como la disciplina de sus miembros en el cumplimiento de las atribuciones que las leyes de la República de Nicaragua le han otorgado.
+Que la Policía Nacional como institución garante del Orden Público y la Seguridad Ciudadana, requiere de un instrumento que garantice, a través de sus jefes respectivos, el orden jerárquico, el cumplimiento de las leyes y los principios de actuación, así como la disciplina de sus miembros en el cumplimiento de las atribuciones que las leyes de la República de Nicaragua le han otorgado.
 
 II
 
@@ -32,7 +34,9 @@ HA DICTADO
 
 El siguiente:
 
-DECRETO REGLAMENTO DISCIPLINARIO DE LA POLICÍA NACIONAL DE NICARAGUA
+DECRETO
+
+REGLAMENTO DISCIPLINARIO DE LA POLICÍA NACIONAL DE NICARAGUA
 
 CAPÍTULO I
 
