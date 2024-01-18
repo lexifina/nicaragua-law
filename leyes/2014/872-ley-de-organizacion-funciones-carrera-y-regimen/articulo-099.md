@@ -1,7 +1,5 @@
 # Artículo 99
 
-Derogado
+Subsidio de lactancia
 
-DEL DESARROLLO HUMANO
-
-Derogado
+Derogado.

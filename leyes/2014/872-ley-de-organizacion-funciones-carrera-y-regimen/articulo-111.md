@@ -1,3 +1,5 @@
 # Artículo 111
 
-Derogado
+Endoso y cesión
+
+Derogado.

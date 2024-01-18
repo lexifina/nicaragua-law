@@ -1,3 +1,5 @@
 # Artículo 97
 
-Derogado
+Indemnización
+
+Derogado.

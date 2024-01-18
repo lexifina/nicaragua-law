@@ -1,3 +1,5 @@
 # Artículo 94
 
-Derogado
+Asignaciones familiares
+
+Derogado.

@@ -1,7 +1,5 @@
 # Artículo 83
 
-Derogado
+Auditoría Interna
 
-PENSIÓN POR RETIRO
-
-Derogado
+Derogado.

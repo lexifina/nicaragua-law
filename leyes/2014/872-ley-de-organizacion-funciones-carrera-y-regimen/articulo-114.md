@@ -1,3 +1,5 @@
 # Artículo 114
 
-Derogado
+Disposiciones de excepción
+
+Derogado.

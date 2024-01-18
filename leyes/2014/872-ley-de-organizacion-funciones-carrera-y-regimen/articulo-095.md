@@ -1,3 +1,5 @@
 # Artículo 95
 
-Derogado
+Acumulación de cotizaciones
+
+Derogado.

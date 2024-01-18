@@ -1,5 +1,5 @@
 # Artículo 126
 
-Vigencia.
+Reconocimiento de derechos adquiridos
 
-La presente Ley entrará en vigencia a partir de su publicación en La Gaceta, Diario Oficial.
+Los oficiales que a la entrada en vigencia de esta Ley, se encuentren en condición de retiro recibiendo beneficios y prestaciones económicas, materiales o de seguridad de acuerdo con lo dispuesto por la Ley N°. 228, Ley de la Policía Nacional y disposiciones reglamentarias, continuarán recibiéndolos y estos se extinguirán al cumplir cincuenta y cinco años de edad o pasar a condición de pensionado.

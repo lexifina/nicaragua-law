@@ -1,3 +1,5 @@
 # Artículo 105
 
-Derogado
+Patrimonio del Instituto
+
+Derogado.

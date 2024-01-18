@@ -1,3 +1,5 @@
 # Artículo 82
 
-Derogado
+Consejo Técnico
+
+Derogado.

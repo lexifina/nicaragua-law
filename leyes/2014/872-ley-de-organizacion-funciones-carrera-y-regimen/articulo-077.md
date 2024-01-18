@@ -1,3 +1,5 @@
 # Artículo 77
 
-Derogado
+Órganos del Instituto
+
+Derogado.

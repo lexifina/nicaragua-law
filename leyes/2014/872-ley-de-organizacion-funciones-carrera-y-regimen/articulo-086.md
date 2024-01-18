@@ -1,7 +1,9 @@
 # Artículo 86
 
-Derogado
+Programa de afiliación voluntaria
 
-DE OTRAS PENSIONES Y PRESTACIONES
+Derogado.
+
+PENSIÓN POR RETIRO
 
 Derogado

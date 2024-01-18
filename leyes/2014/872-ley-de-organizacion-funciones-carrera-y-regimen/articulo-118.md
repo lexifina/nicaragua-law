@@ -1,3 +1,5 @@
 # Artículo 118
 
-Derogado
+Norma supletoria
+
+Derogado.

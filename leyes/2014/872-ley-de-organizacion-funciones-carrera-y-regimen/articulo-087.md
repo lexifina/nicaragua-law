@@ -1,3 +1,5 @@
 # Artículo 87
 
-Derogado
+Pensión por retiro
+
+Derogado.

@@ -1,3 +1,5 @@
 # Artículo 92
 
-Derogado
+Pensión por vejez
+
+Derogado.

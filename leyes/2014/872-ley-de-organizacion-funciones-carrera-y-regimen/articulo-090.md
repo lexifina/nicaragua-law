@@ -1,3 +1,5 @@
 # Artículo 90
 
-Derogado
+Cobertura de contingencias
+
+Derogado.

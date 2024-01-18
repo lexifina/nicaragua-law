@@ -1,3 +1,5 @@
 # Artículo 96
 
-Derogado
+Beneficios adicionales a pensionados del ISSDHU
+
+Derogado.

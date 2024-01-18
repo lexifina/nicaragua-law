@@ -2,8 +2,8 @@
 
 Naturaleza
 
-La Policía Nacional es un cuerpo armado de naturaleza civil, profesional, apolítica, apartidista, obediente y no deliberante. Es el único cuerpo policial del país, es indivisible y tiene a su cargo la totalidad de la actividad policial.
+La Policía Nacional es un cuerpo armado, subordinado al Presidente de la República, encargado de proteger la vida de los habitantes del país, preservar el orden social y el orden interno, garantizar la seguridad de las personas y las instituciones, velar por el respeto de los bienes nacionales, sociales y particulares, ejercer la prevención, persecución, e investigación del delito y prestar el auxilio necesario a las autoridades civiles y judiciales para el cumplimiento de la Ley y el desempeño de sus funciones.
 
-Se regirá en estricto apego a la Constitución Política de la República de Nicaragua a la que guardará respeto y obediencia. Estará sometida a la autoridad civil que será ejercida por el Presidente de la República, en su carácter de Jefe Supremo de la Policía Nacional.
+La Policía Nacional depende de la autoridad ejercida por el Presidente de la República, en su carácter de Jefe Supremo y en estricto apego a la Constitución Política a la que guardará respeto y obediencia.
 
-La Policía Nacional se rige por la más estricta disciplina de sus miembros sometidos al cumplimiento de la ley. Su organización interna se fundamenta en la jerarquía única y en la disciplina de sus mandos y personal. Las disposiciones de la presente Ley contribuyen a la Política Nacional de Prevención y Seguridad Ciudadana y Humana.
+La Policía Nacional se rige por la más estricta disciplina de sus miembros sometidos al cumplimiento de la Ley. Su organización interna se fundamenta en la jerarquía única y en la disciplina de sus mandos y personal.

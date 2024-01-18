@@ -1,3 +1,5 @@
 # Artículo 113
 
-Derogado
+Mérito ejecutivo
+
+Derogado.

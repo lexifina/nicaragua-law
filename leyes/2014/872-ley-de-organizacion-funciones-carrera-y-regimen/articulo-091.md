@@ -1,3 +1,5 @@
 # Artículo 91
 
-Derogado
+Discapacidad
+
+Derogado.

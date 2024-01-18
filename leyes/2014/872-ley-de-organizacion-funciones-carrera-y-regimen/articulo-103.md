@@ -1,7 +1,5 @@
 # Artículo 103
 
-Derogado
+Desarrollo humano
 
-DE LOS PRIVILEGIOS DEL INSTITUTO
-
-Derogado
+Derogado.

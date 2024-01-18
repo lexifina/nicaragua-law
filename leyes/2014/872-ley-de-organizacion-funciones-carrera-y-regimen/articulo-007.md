@@ -16,7 +16,7 @@ d) Vigilar y proteger los edificios e instalaciones públicas, vías de comunica
 
 e) Apoyar al Consejo Supremo Electoral en los procesos electorales, asegurando la protección de sus funcionarios, del material electoral, de los centros de votación y centros de cómputos, de las y los candidatos y de las actividades proselitistas, dictando las medidas necesarias para garantizar el mantenimiento del orden público, la seguridad ciudadana y humana y el libre sufragio de las y los ciudadanos.
 
-f) Participar en los Consejos, Comités, Comisiones Sectoriales, instancias especializadas creadas conforme a las leyes, y las que disponga el Presidente de la República y Jefe Supremo de la Policía Nacional.
+f) Participaren los Consejos, Comités, Comisiones Sectoriales, instancias especializadas creadas conforme a las leyes, y las que disponga el Presidente de la República y Jefe Supremo de la Policía Nacional.
 
 g) En coordinación con las autoridades de turismo, gobiernos locales, empresarios, gremios turísticos y Ejército de Nicaragua establecer y mantener una estrategia de prevención, atención y protección a los turistas nacionales y extranjeros, rutas, zonas de interés y de desarrollo turístico.
 
@@ -36,7 +36,7 @@ m) Autorizar, regular, realizar inspecciones, controlar o suspender en su caso a
 
 n) Prevenir, normar, controlar, regular la fabricación, tenencia y portación de armas de fuego, municiones, explosivos, pólvora y similares; emitir las licencias relacionadas con este tipo de bienes, su importación y exportación, comercialización e intermediación; diseño y elaboración de pirotécnicos; talleres, clubes de tiro y caza, de coleccionistas. Así como otorgar las licencias de armas de fuego y municiones de los servicios de vigilancia y seguridad privada. Aplicar las sanciones por la comisión de infracciones administrativas. Todo conforme a la ley de la materia y reglamentaciones específicas.
 
-En el caso del Ejército de Nicaragua se regirá por lo que dispone la Ley Nº. 181, Ley de Organización, Jurisdicción y Previsión Social Militar, cuyo texto íntegro con sus reformas incorporadas fue publicada en La Gaceta, Diario Oficial Nº. 41 del 3 de marzo de 2014 y la Ley Nº. 510, Ley Especial para el Control y Regulación de Armas de Fuego, Municiones, Explosivos y Otros Materiales Relacionados, publicada en La Gaceta, Diario Oficial Nº. 40 del 25 de febrero del 2005.
+En el caso del Ejército de Nicaragua se regirá por lo que dispone la Ley N°. 181, Ley de Organización, Jurisdicción y Previsión Social Militar, y la Ley N°. 510, Ley Especial para el Control y Regulación de Armas de Fuego, Municiones, Explosivos y Otros Materiales Relacionados.
 
 o) Autorizar, regular, controlar, otorgar permisos, licencias, autorizaciones especiales para los expendios de bebidas alcohólicas, determinando los lugares y horarios para su funcionamiento, tomando en cuenta la necesidad de preservación del orden público y la convivencia ciudadana. Así mismo imponer las sanciones administrativas por las infracciones cometidas, incluyendo multas, suspensión temporal o cierre definitivo y el decomiso del producto que se pretenda comercializar de forma ilegal, de conformidad con las reglamentaciones y normativas correspondientes.
 
@@ -48,7 +48,7 @@ r) Promover y articular la participación de los miembros de la comunidad, de fo
 
 2) En el ámbito de investigaciones, auxilio judicial e inteligencia policial. Son las funciones y facultades de la Policía Nacional orientadas a la persecución e investigación del delito en general, del crimen organizado, terrorismo, actividades de narcotráfico y delitos conexos, siendo las siguientes:
 
-a) Investigar cualquier hecho que pudiera constituir delito o falta, impedir que los hechos cometidos sean llevados a consecuencias ulteriores, individualizar y detener a los presuntos autores y partícipes, realizar los allanamientos y el secuestro de bienes; reunir elementos de investigación útiles y demás elementos de información necesarios para el descubrimiento del delito.
+a) Investigar cualquier hecho que pudiera constituir delito o falta, impedir que los hechos cometidos sean llevados a consecuencias ulteriores, individualizar y detener a los presuntos autores y partícipes, realizar ¡os allanamientos y el secuestro de bienes; reunir elementos de investigación útiles y demás elementos de información necesarios para el descubrimiento del delito.
 
 b) Llevar a cabo la prevención, investigación y tratamiento de los ilícitos penales relacionados con la violencia de género, así mismo realizar en coordinación con las entidades, instituciones pertinentes y con sectores de la comunidad la atención especializada a las víctimas sobrevivientes, de conformidad con las leyes de la materia.
 
@@ -72,7 +72,7 @@ k) Citar a toda persona que pudiera aportar datos de interés a las investigacio
 
 l) Cumplir con los actos o diligencias de asistencia investigativa internacional en materia penal, que sea requerido conforme los procedimientos y conductos establecidos en los tratados o acuerdos internacionales y la legislación del país.
 
-m) Desarrollar relaciones de colaboración, cooperación mutua con instituciones homólogas de otros países o con organismos policiales regionales o internacionales, en función de fortalecer la lucha en contra de la delincuencia organizada transnacional.
+m) Desarrollar relaciones de colaboración, cooperación mutua con instituciones homologas de otros países o con organismos policiales regionales o internacionales, en función de fortalecer la lucha en contra de la delincuencia organizada transnacional.
 
 3) En el ámbito de seguridad y protección de personalidades. Son las funciones y facultades de la Policía Nacional orientadas a garantizar la vida, seguridad e integridad del Presidente de la República y su familia, Vicepresidente y otras personalidades nacionales y extranjeras.
 
@@ -80,23 +80,23 @@ Estas funciones son:
 
 a) Establecer y aplicar un sistema de medidas preventivas y procedimientos operativos de forma permanente, circular y escalonada, mediante el uso de medios técnicos, de apoyo y de protección necesarios para garantizar de manera integral la vida e integridad física, tanto en el ámbito público, como privado de las siguientes personalidades:
 
-i. Presidente de la República y Jefe Supremo de la Policía Nacional, y su familia.
+i) Presidente de la República y Jefe Supremo de la Policía Nacional, y su familia.
 
-ii. Vicepresidente de la República y su familia.
+ii) Vicepresidente de la República y su familia.
 
-iii. Presidentes y Presidentas de los Poderes de Estado.
+iii) Presidentes y Presidentas de los Poderes de Estado.
 
-iv. Expresidentes de la República.
+iv) Expresidentes de la República.
 
-v. Presidente y Vicepresidente electos.
+v) Presidente y Vicepresidente electos.
 
-vi. Jefes de Estado y de Gobierno de otros países que nos visiten.
+vi) Jefes de Estado y de Gobierno de otros países que nos visiten.
 
-vii. Candidatos a Presidente y Vicepresidente de la República, durante las campañas electorales.
+vii) Candidatos a Presidente y Vicepresidente de la República, durante las campañas electorales.
 
-viii. Director o Directora General de la Policía Nacional.
+viii) Director o Directora General de la Policía Nacional.
 
-ix. Otras personalidades que el Presidente de la República y Jefe Supremo de la Policía Nacional determine.
+ix) Otras personalidades que el Presidente de la República y Jefe Supremo de la Policía Nacional determine.
 
 b) Brindar protección al Presidente de la República y su familia y al Vicepresidente en los viajes que realicen al exterior.
 

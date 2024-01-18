@@ -1,3 +1,5 @@
 # Artículo 74
 
-Derogado
+Instituto de Seguridad Social y Desarrollo Humano
+
+Derogado.

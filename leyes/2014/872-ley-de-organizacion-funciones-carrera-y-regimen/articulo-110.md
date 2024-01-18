@@ -1,3 +1,5 @@
 # Artículo 110
 
-Derogado
+Prelación
+
+Derogado.

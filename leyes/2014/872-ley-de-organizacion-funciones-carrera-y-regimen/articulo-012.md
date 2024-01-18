@@ -4,14 +4,14 @@
 
 Son órganos de apoyo directo de la Jefatura Nacional, los siguientes:
 
-1) Asesoría Legal
+1) Asesoría Legal.
 
-2) Relaciones Públicas
+2) Relaciones Públicas.
 
-3) Secretaría Ejecutiva
+3) Secretaría Ejecutiva.
 
-4) Relaciones Internacionales
+4) Relaciones Internacionales.
 
-5) Supervisión y Control
+5) Supervisión y Control.
 
-6) Integridad y Ética Policial
+6) Integridad y Ética Policial.

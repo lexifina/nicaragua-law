@@ -1,3 +1,5 @@
 # Artículo 100
 
-Derogado
+Derecho a prótesis y órtesis
+
+Derogado.

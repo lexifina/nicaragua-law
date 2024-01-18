@@ -1,3 +1,5 @@
 # Artículo 85
 
-Derogado
+Instituciones y personal afiliado
+
+Derogado.

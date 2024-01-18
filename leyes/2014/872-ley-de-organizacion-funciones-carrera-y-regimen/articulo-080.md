@@ -1,3 +1,5 @@
 # Artículo 80
 
-Derogado
+Atribuciones del Consejo Directivo
+
+Derogado.

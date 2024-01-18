@@ -1,3 +1,5 @@
 # Artículo 98
 
-Derogado
+Auxilio funerario
+
+Derogado.

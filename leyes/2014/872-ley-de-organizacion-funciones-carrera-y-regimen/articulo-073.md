@@ -1,7 +1,5 @@
 # Artículo 73
 
-Derogado
+Régimen especial de seguridad social
 
-ORGANIZACIÓN
-
-Derogado
+Derogado.

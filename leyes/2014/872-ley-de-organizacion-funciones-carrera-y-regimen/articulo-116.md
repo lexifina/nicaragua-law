@@ -1,3 +1,5 @@
 # Artículo 116
 
-Derogado
+Solvencia económica
+
+Derogado.

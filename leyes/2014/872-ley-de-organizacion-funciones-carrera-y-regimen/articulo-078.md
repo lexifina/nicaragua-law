@@ -1,3 +1,5 @@
 # Artículo 78
 
-Derogado
+Consejo Directivo
+
+Derogado.

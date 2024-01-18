@@ -1,3 +1,5 @@
 # Artículo 88
 
-Derogado
+Programa de pensionados
+
+Derogado.

@@ -8,7 +8,7 @@ Las Delegaciones de Policía tienen las funciones principales que se describen a
 
 2) Desarrollar estrategias, planes y acciones para la prevención de delitos con un enfoque proactivo, en conjunto con distintos sectores y organizaciones de la comunidad.
 
-3) Vigilar y proteger los edificios e instalaciones públicas, vías de comunicación terrestre, playas, parques, monumentos, centros y establecimientos de sus respectivas demarcaciones que por su interés así lo requieran, en coordinación con el Ejército de Nicaragua y otras instituciones, en los casos que correspondan.
+3) Vigilar y proteger los edificios e instalaciones públicas, vías de comunicación terrestre, playas, parques, monumentos, centros y establecimientos de sus respectivas demarcaciones que por su interés asi lo requieran, en coordinación con el Ejército de Nicaragua y otras instituciones, en los casos que correspondan.
 
 4) Establecer y mantener coordinaciones con las autoridades municipales y de otras instituciones a fin de definir estrategias y acciones conjuntas para el fortalecimiento de la seguridad ciudadana desde el nivel local.
 

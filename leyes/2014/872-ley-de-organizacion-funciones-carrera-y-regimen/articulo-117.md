@@ -1,3 +1,5 @@
 # Artículo 117
 
-Derogado
+Reservas técnicas
+
+Derogado.

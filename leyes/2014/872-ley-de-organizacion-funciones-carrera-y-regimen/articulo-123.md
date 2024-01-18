@@ -1,5 +1,5 @@
 # Artículo 123
 
-Reconocimiento de derechos adquiridos
+Reglamento de Ética
 
-Los oficiales que a la entrada en vigencia de esta Ley, se encuentren en condición de retiro recibiendo beneficios y prestaciones económicas, materiales o de seguridad de acuerdo con lo dispuesto por la Ley Nº. 228, Ley de la Policía Nacional y disposiciones reglamentarias, continuarán recibiéndolos y estos se extinguirán al cumplir cincuenta y cinco años de edad o pasar a condición de pensionado.
+El Reglamento de Ética a que se refiere el Artículo 6 de esta Ley, será dictado por la Directora o Director General de la Policía Nacional.

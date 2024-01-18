@@ -1,9 +1,7 @@
 # Artículo 68
 
-Control financiero
+Régimen de detención
 
-La Contraloría General de la República en su carácter de organismo rector del sistema de control de la Administración Pública y fiscalización de los bienes y recursos del Estado, conforme a las funciones y atribuciones que le otorga su Ley Orgánica, examinará, comprobará y evaluará la ejecución de los fondos, bienes y recursos asignados a la Policía Nacional, para asegurar un manejo eficiente y transparente. Para estos fines la institución policial como entidad sujeta al control contará con una Unidad de Auditoría Interna.
+Toda detención y condena de miembros de la Policía Nacional deberá ser informada a su mando superior respectivo por la autoridad actuante, y al internarse en centros de detención durante el proceso o para el cumplimiento de condena deberá mantenérseles separados del resto de detenidos o condenados. Las y los miembros de la Policía Voluntaria, cuando sean procesados por la comisión de delitos o faltas establecidas en el Código Penal y en esta Ley; y ocurridas en el cumplimiento del servicio policial, estarán sujeto a lo establecido en la presente Sección.
 
-En el desempeño de sus funciones los auditores tendrán en cuenta las restricciones y regulaciones referidas a la reserva y confidencialidad establecida por la Ley Nº. 621, Ley de Acceso a la Información Pública, publicada en La Gaceta Diario Oficial Nº. 118 del 22 de junio del 2007 y la Ley Nº. 735, Ley de Prevención, Investigación y Persecución del Crimen Organizado y de la Administración de los Bienes Incautados, Decomisados y Abandonados, publicada en La Gaceta, Diario Oficial N°. 199 del 19 de octubre del 2010, en material policial.
-
-Corresponde a la Administración General, como órgano de apoyo nacional, formular la propuesta de presupuesto anual de la institución, planificar y ejecutar las adquisiciones, asegurar el suministro de los medios técnicos, equipos especializados, avituallamiento, comunicaciones, armas de uso policial, transporte y demás medios logísticos requeridos para el cumplimiento de la misión y funciones; coordinar, dirigir y supervisar la ejecución de proyectos de construcción, mantenimiento y mejoras de edificios, infraestructura e instalaciones policiales.
+RÉGIMEN ECONÓMICO

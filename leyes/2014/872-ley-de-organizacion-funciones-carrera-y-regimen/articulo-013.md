@@ -20,7 +20,7 @@ Corresponde al Director o Directora General de la Policía Nacional, ejercer las
 
 8) Organizar, dirigir y administrar sus órganos, servicios y personal de acuerdo a las necesidades operativas y conforme a lo dispuesto en la presente Ley y demás leyes del país.
 
-9) Otorgar mandatos generales de administración, o de cualquier otra naturaleza con todas o algunas de las facultade que le corresponden, a los funcionarios policiales que estime conveniente, para el buen cumplimiento de los fines, misión y funciones institucionales.
+9) Otorgar mandatos generales de administración, o de cualquier otra naturaleza con todas o algunas de las facultades que le corresponden, a los funcionarios policiales que estime conveniente, para el buen cumplimiento de los fines, misión y funciones institucionales.
 
 10) Otorgar los actos y concertar los contratos que expresa o tácitamente estuvieren comprendidos dentro del giro ordinario de la actividad de la Policía Nacional, inclusive aquellos que fueren consecuencia necesaria de los mismos, salvo los que la ley prohíba.
 

@@ -1,7 +1,5 @@
 # Artículo 101
 
-Derogado
+Atención médica a pensionados
 
-PATRIMONIO Y ADMINISTRACIÓN
-
-Derogado
+Derogado.

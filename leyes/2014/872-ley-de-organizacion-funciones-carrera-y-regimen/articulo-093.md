@@ -1,3 +1,5 @@
 # Artículo 93
 
-Derogado
+Pensión por muerte
+
+Derogado.

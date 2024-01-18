@@ -1,3 +1,5 @@
 # Artículo 79
 
-Derogado
+Presidencia del Consejo Directivo
+
+Derogado.

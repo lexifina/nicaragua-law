@@ -1,7 +1,5 @@
 # Artículo 112
 
-Derogado
+Prioridad en gestiones
 
-DISPOSICIONES COMUNES
-
-Derogado
+Derogado.

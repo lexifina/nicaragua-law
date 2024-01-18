@@ -4,7 +4,7 @@ Disposiciones para el cumplimiento de sus funciones
 
 Para el efectivo cumplimiento de su misión constitucional y sus funciones la Policía Nacional podrá:
 
-a) Elaborar y proponer para su aprobación al Presidente de la República y Jefe Supremo de la Policía Nacional, las Políticas Nacionales de Seguridad y Convivencia Ciudadana.
+a) Elaborar y proponer para su aprobación al Presidente de la República y Jefe Supremo de la Policía Nacional, las Políticas Nacionales de Seguridad y Convivencia Ciudadana,
 
 b) Adquirir derechos y contraer obligaciones de conformidad con las leyes de la materia.
 

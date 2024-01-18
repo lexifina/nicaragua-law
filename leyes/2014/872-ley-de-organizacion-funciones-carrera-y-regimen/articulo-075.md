@@ -1,3 +1,5 @@
 # Artículo 75
 
-Derogado
+Cancelación de la personalidad jurídica del Instituto
+
+Derogado.

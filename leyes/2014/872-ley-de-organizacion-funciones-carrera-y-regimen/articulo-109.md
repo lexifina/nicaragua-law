@@ -1,3 +1,5 @@
 # Artículo 109
 
-Derogado
+Exención
+
+Derogado.

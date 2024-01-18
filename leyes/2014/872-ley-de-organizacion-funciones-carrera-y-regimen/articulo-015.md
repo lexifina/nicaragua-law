@@ -14,7 +14,7 @@ El Inspector o Inspectora General depende directamente del Director o Directora 
 
 5) Dictar resoluciones en base a las verificaciones que realice y al resultado de las investigaciones por denuncias o quejas que reciba o tenga conocimiento sobre el comportamiento del personal policial, corrigiendo de forma oportuna y justa las faltas e infracciones en que incurran sus miembros.
 
-6) Corregir de forma inmediata, cualquier infracción muy grave que por su trascendencia y relevancia afecten sensiblemente la disciplina y el prestigio institucional aplicando las sanciones correspondientes a este tipo de infracciones mediante un procedimiento extraordinario definido en la normativa disciplinaria.
+6) Corregir de forma inmediata, cualquier infracción muy grave que por su trascendencia y relevancia afecten sensiblemente la disciplina y el prestigio institucional aplicando las sanciones correspondiente a este tipo de infracciones mediante un procedimiento extraordinario definido en la normativa disciplinaria.
 
 7) Verificar el cumplimiento de las instrucciones y órdenes del Director o Directora General de la Policía Nacional.
 

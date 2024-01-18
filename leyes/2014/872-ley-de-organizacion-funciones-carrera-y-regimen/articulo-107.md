@@ -1,3 +1,5 @@
 # Artículo 107
 
-Derogado
+Bienes no gravables
+
+Derogado.

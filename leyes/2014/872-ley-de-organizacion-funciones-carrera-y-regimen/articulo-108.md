@@ -1,3 +1,5 @@
 # Artículo 108
 
-Derogado
+Inembargabilidad
+
+Derogado.

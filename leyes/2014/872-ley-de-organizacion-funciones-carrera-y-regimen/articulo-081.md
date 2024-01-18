@@ -1,7 +1,5 @@
 # Artículo 81
 
-Derogado
+Directora Ejecutiva o Director Ejecutivo
 
-CAMPO DE APLICACIÓN
-
-Derogado
+Derogado.
