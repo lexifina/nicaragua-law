@@ -14,6 +14,6 @@ Los ambientes básicos de los que debe disponer son los siguientes:
 
 4. Talleres y lugares para la actividad productiva;
 
-5. Comedor, cocina, salones para visitas, así como área para los encuentros conyugales;
+5. Comedor, cocina, salones para visitas, así como área para los encuentros conyugales; y
 
 6. Cualquier otra instalación que resulte necesaria para el cumplimiento y ejecución de la pena, así como las actividades conexas del privado de libertad y de las autoridades del Sistema Penitenciario Nacional.

@@ -16,6 +16,6 @@
 - CAPÍTULO XVI (antes del artículo 112)
 - CAPÍTULO XVII (antes del artículo 118)
 - CAPÍTULO XVIII (antes del artículo 121)
-- CAPITULO XIX (antes del artículo 133)
+- CAPÍTULO XIX (antes del artículo 133)
 - CAPÍTULO XX (antes del artículo 135)
 - CAPÍTULO XXI (antes del artículo 138)

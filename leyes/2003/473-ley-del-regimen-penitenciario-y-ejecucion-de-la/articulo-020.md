@@ -6,8 +6,8 @@ Las Especialidades Nacionales ejercen funciones rectoras de asesoría, definici�
 
 Son Órganos de Especialidades Nacionales las siguientes:
 
-1) Dirección de Reeducación Penal;
+1. Dirección de Reeducación Penal;
 
-2) Dirección de Control Penal; y
+2. Dirección de Control Penal; y
 
-3) Dirección de Seguridad Penal.
+3. Dirección de Seguridad Penal.

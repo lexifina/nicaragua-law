@@ -8,6 +8,6 @@ En este régimen, los privados de libertad conviven en el exterior del centro pe
 
 Bajo este régimen, se podrán ubicar a los ciudadanos que en general carezcan de antecedentes penales, siempre y cuando los delitos por los cuales hayan sido procesados y condenados no sean aquellos que por su naturaleza no aceptan fianza de ningún tipo.
 
-La incorporación a este Régimen es a propuesta del director general del centro penitenciario, quien debe de coordinar con el juez ejecutor de la pena, en base a los criterios y las recomendaciones del equipo interdisciplinario.
+La incorporación a este Régimen es a propuesta del Director General del centro penitenciario, quien debe de coordinar con el Juez Ejecutor de la Pena, en base a los criterios y las recomendaciones del equipo interdisciplinario.
 
 El Reglamento de la presente Ley establecerá el procedimiento de este régimen.

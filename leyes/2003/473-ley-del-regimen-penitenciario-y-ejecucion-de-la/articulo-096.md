@@ -8,7 +8,7 @@ Para los fines y efectos de la presente Ley y su Reglamento, se establecen a los
 
 2. Cumplir con las normas de régimen interior y con las disposiciones orientadas por los funcionarios penitenciarios en el ejercicio de sus funciones, así como las medidas restrictivas y sanciones que se le impongan de acuerdo a su conducta y disciplina en el centro penitenciario previstas por la presente Ley y su Reglamento;
 
-3. Colaborar para alcanzar una adecuada convivencia, respetar al personal del Sistema Penitenciario Nacional, a los· otros internos y a las demás personas que entraren a los recintos penitenciarios;
+3. Colaborar para alcanzar una adecuada convivencia, respetar al personal del Sistema Penitenciario Nacional, a los otros internos y a las demás personas que entraren a los recintos penitenciarios;
 
 4. Asistir y cumplir con la disciplina laboral;
 

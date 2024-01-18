@@ -4,18 +4,18 @@ Denominaciones
 
 Con el objeto normativo y funcional del personal y del cumplimiento de la carrera penitenciaria, se establecen las denominaciones siguientes:
 
-1. Prefecto;
+Prefecto;
 
-2. Subprefecto;
+Subprefecto;
 
-3. Alcaide;
+Alcaide;
 
-4. Subalcaide;
+Subalcaide;
 
-5. Primer Alguacil;
+Primer Alguacil;
 
-6. Alguacil;
+Alguacil;
 
-7. Sub alguacil; y
+Sub alguacil; y
 
-8. Agente.
+Agente.

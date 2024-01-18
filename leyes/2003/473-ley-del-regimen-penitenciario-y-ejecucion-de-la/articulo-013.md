@@ -2,9 +2,9 @@
 
 Autoridad de aplicación y sus funciones
 
-Para los fines y efectos de la presente Ley, se designa como autoridad de aplicación de ésta, a la Dirección General del Sistema Penitenciario Nacional, siendo sus funciones las siguientes:
+Para los fines y efectos de la presente Ley, se designa como autoridad de aplicación de esta, a la Dirección General del Sistema Penitenciario Nacional, siendo sus funciones las siguientes:
 
-1) En el ámbito de las políticas públicas sobre el Sistema Penitenciario podrá:
+1. En el ámbito de las políticas públicas sobre el Sistema Penitenciario podrá:
 
 1.1 Proponer al Ministro de Gobernación las políticas penitenciarias y proporcionarle asesoría en la ejecución de las mismas;
 
@@ -14,11 +14,11 @@ Para los fines y efectos de la presente Ley, se designa como autoridad de aplica
 
 1.4 Promover el intercambio de cooperación técnica y científica a nivel nacional e internacional en asuntos relacionados al sistema penitenciario;
 
-1.5 Coordinar y supervisar las diversas actividades que desarrollen dentro del Sistema Penitenciario Nacional, las diferentes instituciones del Estado nicaragüense:
+1.5 Coordinar y supervisar las diversas actividades que desarrollen dentro del Sistema Penitenciario Nacional, las diferentes instituciones del Estado nicaragüense;
 
 1.6 Cualquier otra que le faculte la ley y su reglamento;
 
-2) Con relación a los internos:
+2. Con relación a los internos:
 
 2.1 Hacer cumplir las sanciones penales y medidas cautelares de privación de libertad dictadas por las autoridades judiciales competentes;
 
@@ -30,19 +30,19 @@ Para los fines y efectos de la presente Ley, se designa como autoridad de aplica
 
 2.5 Cuidar por la vida, integridad física y moral, así como la seguridad y custodia de los internos dentro de las instalaciones del Sistema Penitenciario Nacional y durante el proceso de las diligencias que realizare fuera de las instalaciones del Centro Penitenciario;
 
-2.6 Garantizar la seguridad interna y externa de los centros penitenciarios ordinarios y especiales, así como la disciplina y control sobre la población penitenciaria de acuerdo con el reglamento interno respectivo.
+2.6 Garantizar la seguridad interna y externa de los centros penitenciarios ordinarios y especiales, asi como la disciplina y control sobre la población penitenciaria de acuerdo con el reglamento interno respectivo.
 
-2.7 Levantar y mantener la información legal relativa a los internos actualizada, así como facilitar el acceso a ésta cuando la soliciten las autoridades judiciales, la Procuraduría para la Defensa de los Derechos Humanos, el Ministerio Público, la Comisión de la Paz, Defensa, Gobernación y Derechos Humanos de la Asamblea Nacional, la Policía Nacional o cualquier otro órgano competente del Estado, así como las diferentes organizaciones de derechos humanos jurídicamente reconocidas y establecidas en el país y los familiares de los internos o sus defensores.
+2.7 Levantar y mantener la información legal relativa a los internos actualizada, así como facilitar el acceso a esta cuando la soliciten las autoridades judiciales, la Procuraduría para la Defensa de los Derechos Humanos, el Ministerio Público, la Comisión de La Paz, Defensa, Gobernación y Derechos Humanos de la Asamblea Nacional, la Policía Nacional o cualquier otro órgano competente del Estado, así como las diferentes organizaciones de derechos humanos jurídicamente reconocidas y establecidas en el país y los familiares de los internos o sus defensores.
 
 2.8 Promover, coordinar, ordenar y supervisar la participación y apoyo de las diferentes entidades públicas, sean estas nacionales o extranjeras, públicas o privadas; y de la sociedad civil, así como de aquellas personas interesadas a título particular en el proceso de asistencia y atención post penitenciaria.
 
-3) En lo relativo a la organización interna:
+3. En lo relativo a la organización interna:
 
 3.1 Administrar y controlar la actividad penitenciaria, evaluar su funcionamiento de conformidad con las directrices establecidas por el Ministerio de Gobernación;
 
 3.2 Administrar y controlar el proceso de selección, ingreso, formación, capacitación, rotación, especialización y promoción en la carrera penitenciaria del personal penitenciario;
 
-3.3 Proponer, administrar, ejecutar y controlar el presupuesto asignado al Sistema Penitenciario Nacional de conformidad a la ley de la materia y a las normativas especificas establecidas por el Ministerio de Gobernación y la Contraloría General de la República;
+3.3 Proponer, administrar, ejecutar y controlar el presupuesto asignado al Sistema Penitenciario Nacional de conformidad a la ley de la materia y a las normativas específicas establecidas por el Ministerio de Gobernación y la Contraloría General de la República;
 
 3.4 Divulgar todo lo relativo con la política y programas desarrollados por la administración del Sistema Penitenciario Nacional;
 

@@ -2,7 +2,7 @@
 
 Creación del Patronato Nacional para privados de libertad en el Sistema Penitenciario
 
-Créase el Patronato Nacional para Privados de libertad en el Sistema Penitenciario Nacional, como un organismo de apoyo a la administración penitenciaria y de gestión comunitaria en beneficio de los privados de libertad, siendo sus objetivos los siguientes:
+Créase el Patronato Nacional para Privados de Libertad en el Sistema Penitenciario Nacional, como un organismo de apoyo a la administración penitenciaria y de gestión comunitaria en beneficio de los privados de libertad, siendo sus objetivos los siguientes:
 
 1. Apoyar el tratamiento y gestión reeducativo;
 
