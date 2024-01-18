@@ -12,4 +12,4 @@ A los Sub-Directores Generales, además de lo contemplado en la Ley, les corresp
 
 4. Dar parte al Director General de las novedades ocurridas, las que por su gravedad o naturaleza deban ser comunicadas de inmediato.
 
-5. En ausencia temporal del Director General, asumirán la Dirección del Sistema Penitenciario cuando sea designado.
+5. En ausencia temporal del Director General, asumirá la Dirección del Sistema Penitenciario cuando sea designado.

@@ -12,7 +12,7 @@ La Auditoría Interna es el órgano facultado para fiscalizar, inspeccionar, vig
 
 4. Dar seguimiento al cumplimiento de las recomendaciones formuladas por la Contraloría General de la República, auditoría interna del Ministerio de Gobernación y por la auditoría del Sistema Penitenciario.
 
-5. Realizar las pruebas correspondientes de control, a fin de detectar las irregularidades, errores o deficiencias en las operaciones contables. ·
+5. Realizar las pruebas correspondientes de control, a fin de detectar las irregularidades, errores o deficiencias en las operaciones contables.
 
 6. Efectuar exámenes especiales, cuando el caso lo requiera.
 

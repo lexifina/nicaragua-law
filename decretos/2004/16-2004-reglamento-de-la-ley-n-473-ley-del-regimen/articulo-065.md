@@ -2,7 +2,7 @@
 
 Conducciones de internos
 
-Los traslados y presentaciones de los internos ante la autoridad judicial, clínicas, hospitales o cualquier otro sitio, deben estar soportados con "Orden de Conducción".
+Los traslados y presentaciones de los internos ante la autoridad judicial, clínicas, hospitales o cualquier otro sitio, deben estar soportados con “Orden de Conducción”.
 
 Los Directores de Centros Penitenciarios son los responsables de garantizar la plena identificación de los internos a través de los documentos establecidos, así como la presencia de los internos en las presentaciones judiciales en lugar, hora y fecha que señala la autoridad competente.
 

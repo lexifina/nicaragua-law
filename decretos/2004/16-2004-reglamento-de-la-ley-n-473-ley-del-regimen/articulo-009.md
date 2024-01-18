@@ -17,3 +17,7 @@ El Sistema Penitenciario Nacional está organizado y estructurado de la siguient
 6. Los Directores de Centros Penitenciarios.
 
 De conformidad al Artículo 129 de la Ley, los miembros titulares a que se refieren los numerales 1, 2 y 3, conforman la Jefatura Nacional del Sistema Penitenciario.
+
+Artículo Director General
+
+El Director General es el superior jerárquico y máxima autoridad del Sistema Penitenciario, a quien se le subordinan todos los demás funcionarios y empleados del Sistema Penitenciario Nacional.

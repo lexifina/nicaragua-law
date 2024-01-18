@@ -8,4 +8,4 @@ Son funciones del jefe de la División de Escuela para Estudios Penitenciarios l
 
 2. Efectuar el registro, control académico y certificación de los diferentes eventos de formación, capacitación y preparación del personal del Sistema Penitenciario.
 
-3. Coordinar con Instituciones y Organismos vinculados a la materia. con el fin de garantizar los conocimientos necesarios en el actuar penitenciario del personal del Sistema Penitenciario.
+3. Coordinar con Instituciones y Organismos vinculados a la materia, con el fin de garantizar los conocimientos necesarios en el actuar penitenciario del personal del Sistema Penitenciario.

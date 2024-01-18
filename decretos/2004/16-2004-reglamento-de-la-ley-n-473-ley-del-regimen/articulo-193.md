@@ -1,6 +1,6 @@
 # Artículo 193
 
-Si al momento de realizar el registro o requisa de los internos, se encuentra en poder de los mismos objetos prohibidos, se deberá levantar Acta de Ocupación, donde se reflejará lo siguiente:
+Si al momento de realizar el registro o requisa de los internos, se encuentra en poder de los mismos objetos prohibidos, se deberá levantar Acta de Ocupación, donde se reflejará lo siguiente;
 
 1. Fecha de ocupación.
 

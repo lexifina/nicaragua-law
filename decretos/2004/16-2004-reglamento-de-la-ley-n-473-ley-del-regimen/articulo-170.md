@@ -2,7 +2,7 @@
 
 Parámetros para el otorgamiento de Estímulos colectivos
 
-El estímulo colectivo se otorgará al contingente o sección /galería, basado en los siguientes parámetros.
+El estímulo colectivo se otorgará al contingente o sección / galería, basado en los siguientes parámetros.
 
 1. Disciplina y conducta del contingente.
 

@@ -2,7 +2,7 @@
 
 Reingreso
 
-Se denomina reingreso, cuando un interno que por determinada razón egresó del Sistema Penitenciario, sin haber cumplido su pena, y es remitido nuevamente a un Centro Penitenciario.
+Se denomina reingreso, cuando un interno que por determinada razón egresó del Sistema Penitenciario, sin haber cumplido su pena, es remitido nuevamente a un Centro Penitenciario.
 
 Son causas de reingreso:
 

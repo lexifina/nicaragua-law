@@ -14,7 +14,7 @@ Infracciones Muy Graves
 
 6. Intimidar y agredir a otros internos con el fin de imponer supremacía de grupo (pandilla o banda).
 
-7. Inducir a participar en huelga de hambre. amotinamiento y disturbios.
+7. Inducir a participar en huelga de hambre, amotinamiento y disturbios.
 
 8. Intento de secuestro a autoridades penitenciarias y civiles.
 

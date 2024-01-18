@@ -1,14 +1,14 @@
-TEXTO CONSOLIDADO, DECRETO EJECUTIVO Nº. 16-2004, REGLAMENTO DE LA LEY N°. 473, LEY DEL RÉGIMEN PENITENCIARIO Y EJECUCIÓN DE LA PENA
+TEXTO CONSOLIDADO, DECRETO EJECUTIVO N°. 16-2004, REGLAMENTO DE LA LEY N°. 473, LEY DEL RÉGIMEN PENITENCIARIO Y EJECUCIÓN DE LA PENA
 
-DECRETO EJECUTIVO Nº. 16-2004, aprobado el 27 de mayo de 2021
+DECRETO EJECUTIVO N°. 16-2004, aprobado el 28 de febrero de 2023
 
-Publicado en La Gaceta, Diario Oficial N°. 34 del 22 de febrero de 2022
+Publicado en La Gaceta, Diario Oficial N°. 09 del 18 de enero de 2024
 
-Digesto Jurídico Nicaragüense de la Materia Orden Interno
+Digesto Jurídico Nicaragüense de la Materia de Orden Interno
 
-El presente texto contiene incorporadas todas sus modificaciones consolidadas al 27 de mayo de 2021, del Decreto Ejecutivo Nº. 16-2004, Reglamento de la Ley Nº. 473, Ley del Régimen Penitenciario y Ejecución de la Pena, aprobado el 12 de marzo de 2004 y publicado en La Gaceta, Diario Oficial Nº. 54 del 17 de marzo de 2004, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1074, Ley del Digesto Jurídico Nicaragüense de la Materia Orden Interno, aprobada el 27 de mayo de 2021.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 28 de febrero de 2023, del Decreto Ejecutivo N°. 16-2004, Reglamento de la Ley N°. 473, Ley del Régimen Penitenciario y Ejecución de la Pena, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense y la Ley N°. 1146, Ley del Digesto Jurídico Nicaragüense de la Materia Orden Interno, aprobada el 28 de febrero de 2023.
 
-DECRETO Nº. 16-2004
+DECRETO N°. 16-2004,
 
 EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
@@ -20,7 +20,7 @@ El siguiente:
 
 DECRETO
 
-REGLAMENTO DE LA LEY Nº. 473, LEY DEL RÉGIMEN PENITENCIARIO Y EJECUCIÓN DE LA PENA
+REGLAMENTO DE LA LEY N°. 473, LEY DEL RÉGIMEN PENITENCIARIO Y EJECUCIÓN DE LA PENA
 
 CAPÍTULO I
 

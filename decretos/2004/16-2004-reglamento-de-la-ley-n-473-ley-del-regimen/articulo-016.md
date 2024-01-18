@@ -2,7 +2,7 @@
 
 División de Asesoría Jurídica
 
-Las funciones de la Asesoría Jurídica son:
+Las funciones de la Asesoría Jurídica son
 
 1. Brindar asesoramiento a la Dirección General, Especialidades Nacionales, órganos de Apoyo, Direcciones Penitenciarias y Personal Penitenciario debidamente autorizado.
 

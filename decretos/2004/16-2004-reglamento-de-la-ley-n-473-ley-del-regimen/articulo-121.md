@@ -2,7 +2,7 @@
 
 Procedimientos para la progresión
 
-La Progresión en régimen. se hace con base a la evaluación que realiza el equipo interdisciplinario al interno y es presentada al Director del Centro Penitenciario, el que se encargará de aprobar o denegar la propuesta.
+La Progresión en régimen, se hace con base a la evaluación que realiza el equipo interdisciplinario al interno y es presentada al Director del Centro Penitenciario, el que se encargará de aprobar o denegar la propuesta.
 
 La ruta progresiva se inicia a partir del Régimen Laboral.
 
