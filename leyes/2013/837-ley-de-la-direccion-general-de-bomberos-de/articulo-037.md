@@ -6,11 +6,11 @@ Sin perjuicio de las facultades de investigación de la Policía Nacional, corre
 
 Durante el proceso de investigación tendrá las funciones siguientes:
 
-1) Iniciar el proceso de investigación técnica de las causas que dieron lugar a la avería, explosión o incendio, sea de oficio o a solicitud de parte interesada, de conformidad a lo establecido en la presente Ley y su Reglamento;
+1. Iniciar el proceso de investigación técnica de las causas que dieron lugar a la avería, explosión o incendio, sea de oficio o a solicitud de parte interesada, de conformidad a lo establecido en la presente Ley y su Reglamento;
 
-2) Emitir el Dictamen que determine el origen y causas de la avería, explosión o incendio, el que tiene carácter de peritaje técnico; y
+2. Emitir el Dictamen que determine el origen y causas de la avería, explosión o incendio, el que tiene carácter de peritaje técnico; y
 
-3) Emitir constancia a los afectados sobre la avería, explosión o incendio, en el que se indicará únicamente la ocurrencia del hecho.
+3. Emitir constancia a los afectados sobre la avería, explosión o incendio, en el que se indicará únicamente la ocurrencia del hecho.
 
 La Dirección General de Bomberos proporcionará el dictamen técnico emitido a la autoridad policial, a los afectados o a las empresas aseguradoras cuando estas así lo requieran.
 

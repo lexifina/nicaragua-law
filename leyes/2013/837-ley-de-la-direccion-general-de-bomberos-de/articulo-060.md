@@ -18,7 +18,7 @@ El Ministerio de Gobernación para efectos de la presente Ley, tendrá las sigui
 
 7) Emitir el dictamen técnico para las nuevas asociaciones civiles sin fines de lucro cuyo giro sea la actividad bomberil para garantizar el servicio de prevención, extinción de incendios, salvamento y rescate que se vaya a otorgar a la comunidad sea de calidad, eficientes y eficaz con relación al Plan Nacional de Bomberos y la seguridad ciudadana.
 
-Las solicitudes de constitución de nuevas asociaciones civiles sin fines de lucro de actividad bomberil, deben efectuarse de conformidad a los requisitos establecidos en la Ley Nº. 147, Ley General sobre Personas Jurídicas sin Fines de Lucro, publicada en La Gaceta, Diario Oficial Nº. 102 del 29 de mayo de 1992, deberán presentar ante la Asamblea Nacional el dictamen técnico favorable para la obtención de la personalidad jurídica;
+Las solicitudes de constitución de nuevas asociaciones sin fines de lucro de actividad bomberil, deben efectuarse de conformidad a los requisitos establecidos en la Ley N°. 1115, Ley General de Regulación y Control de Organismos Sin Fines de Lucro y su reforma, Ley N°. 1127, Ley de Reformas y Adiciones a la Ley N°. 1115, Ley General de Regulación y Control de Organismos Sin Fines de Lucro y de Reformas a la Ley N°. 522, Ley General de Deporte, Educación Físicas y Recreación Física, deberán presentar ante la Ministra o Ministro de Gobernación el dictamen técnico favorable para la obtención de la personalidad jurídica;
 
 8) Aprobar y otorgar los grados de Primeros Oficiales;
 

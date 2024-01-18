@@ -36,7 +36,7 @@ Son infracciones graves las siguientes:
 
 16) Falta de un Plan de Emergencia o del dominio y conocimiento pleno del personal de las instituciones públicas o privadas;
 
-17) Incumplimiento de los simulacros en el tiempo establecido en la Ley N°. 618, Ley General de Higiene y Seguridad del Trabajo, publicada en La Gaceta, Diario Oficial N°. 133 del 13 de julio del 2007, su Reglamento y las NTON y las normas técnicas administrativas;
+17) Incumplimiento de los simulacros en el tiempo establecido en la Ley N°. 618, Ley General de Higiene y Seguridad del Trabajo, su Reglamento, las NTON y las Normas Técnicas Administrativas;
 
 18) Incumplimiento de las medidas correctivas establecidas por la Autoridad de Aplicación de la Ley relativas a las condiciones de seguridad que se establezcan en las licencias o permisos;
 

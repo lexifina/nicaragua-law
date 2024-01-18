@@ -6,7 +6,7 @@ Para los fines y efectos de la presente Ley, se establecen las definiciones bás
 
 1. Búsqueda y rescate: Conjunto de acciones dirigidas a preservar la vida y los bienes de las personas que estén amenazadas por incidentes, siniestros, desastres naturales o de cualquier otro tipo;
 
-2. Bombera voluntaria o bombero voluntario: Son las personas altruistas, nacionales o extranjeras, que de su libre y espontánea voluntad se incorporan a las instituciones gubernamentales o personas jurídicas fines de lucro que desarrollan la actividad bomberil en Nicaragua;
+2. Bombera voluntaria o bombero voluntario: Son las personas altruistas, nacionales o extranjeras, que de su libre y espontánea voluntad se incorporan a las instituciones gubernamentales o personas jurídicas sin fines de lucro que desarrollan la actividad bomberil en Nicaragua;
 
 3. Cargo: Es la designación para desempeñar una responsabilidad en la estructura y organización de la Dirección General de Bomberos con atención a la denominación prevista por la Ley;
 
@@ -20,7 +20,7 @@ Para los fines y efectos de la presente Ley, se establecen las definiciones bás
 
 8. Investigación de Incendios: Comprende el conjunto de actividades relacionadas al proceso de investigación y esclarecimiento del origen y las causas que han dado lugar a incendios, siniestros o explosiones de cualquier tipo o naturaleza;
 
-9. Licencia. Documento público que autoriza el ejercicio de una actividad determinada de conformidad a lo previsto por la presente Ley y su reglamento;
+9. Licencia: Documento público que autoriza el ejercicio de una actividad determinada de conformidad a lo previsto por la presente Ley y su reglamento;
 
 10. Miembros de la Dirección General de Bomberos: Toda persona natural que previo al cumplimiento de requisitos establecidos en la presente Ley y su Reglamento forma parte de la Carrera Administrativa de Bombero en la Dirección General de Bomberos;
 
@@ -30,7 +30,7 @@ Para los fines y efectos de la presente Ley, se establecen las definiciones bás
 
 13. Prevención: Acciones dirigidas a mitigar los peligros, evitando o disminuyendo el impacto destructivo de los fenómenos perturbadores sobre la vida y bienes de la población, los servicios vitales y estratégicos, la planta productiva y el medio ambiente, a través de acciones de mitigación y preparación;
 
-14. Protección Contra Incendios. Es el conjunto de medidas de carácter organizativo, técnico y operativo destinadas a disminuir las probabilidades de surgimiento de incendios, su desarrollo y propagación, así como sus consecuencias económicas, sociales y ambientales.
+14. Protección Contra Incendios: Es el conjunto de medidas de carácter organizativo, técnico y operativo destinadas a disminuir las probabilidades de surgimiento de incendios, su desarrollo y propagación, así como sus consecuencias económicas, sociales y ambientales;
 
 15. Servicio pre hospitalario: Acción que se desarrolla por personal especializado, que garantiza mediante la aplicación de técnicas adecuadas de primeros auxilios, la atención y estabilización de las personas que por su estado o condición requieran de esta urgencia médica, hasta su traslado a un centro hospitalario; y
 

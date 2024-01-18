@@ -6,4 +6,4 @@ Créase la Academia Nacional de Bomberos como una dirección especializada de fo
 
 La Ministra o el Ministro de Gobernación deberá presentar la documentación correspondiente al Consejo Nacional de Universidades o al Instituto Nacional Tecnológico, para su reconocimiento como institución de formación técnica o de educación superior que implica tres niveles: básico, técnico y superior a nivel de licenciatura o especialidad, los que posteriormente deben de ser acreditados y certificados por la autoridad de la materia.
 
-La Academia Nacional de Bomberos deberá cumplir con la Ley Nº. 704, Ley Creadora del Sistema Nacional para el Aseguramiento de la Calidad de la Educación y Reguladora del Consejo Nacional de Evaluación y Acreditación, publicada en La Gaceta, Diario Oficial Nº. 172, del I 2 de septiembre de 2011.
+La Academia Nacional de Bomberos deberá cumplir con la Ley N°. 704, Ley Creadora del Sistema Nacional para el Aseguramiento de la Calidad de la Educación y Reguladora del Consejo Nacional de Evaluación y Acreditación.

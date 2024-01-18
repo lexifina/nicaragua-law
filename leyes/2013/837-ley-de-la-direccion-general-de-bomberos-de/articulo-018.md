@@ -4,8 +4,8 @@ Clasificación
 
 La jerarquía de cargos de la Dirección General de Bomberos de Nicaragua, se clasifica de la forma siguiente:
 
-a) Cargos de Dirección;
+a. Cargos de Dirección;
 
-b) Cargos Operativos; y
+b. Cargos Operativos; y
 
-c) Cargos Administrativos.
+c. Cargos Administrativos.

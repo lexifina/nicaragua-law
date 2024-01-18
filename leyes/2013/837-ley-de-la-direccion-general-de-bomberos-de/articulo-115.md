@@ -4,11 +4,11 @@ Prohibiciones
 
 Para los efectos de la presente Ley se establece a las personas naturales y jurídicas, en general, las prohibiciones siguientes:
 
-l. A las personas naturales y jurídicas:
+I. A las personas naturales y jurídicas:
 
 1) Uso de uniformes, insignias, emblemas, logotipos, sellos y chapas de los miembros de la Dirección General de Bomberos, o utilizar alguno cuyo parecido tienda a confundir a la ciudadanía, exceptuándose el uso para las asociaciones y federaciones de Bomberos Voluntarios que actúen como fuerza coadyuvante de la Dirección General de Bomberos bajo su autoridad y control;
 
-2) Uso de los dispositivos sonoros o lumínicos de la Dirección General de Bomberos, de conformidad a la Ley Nº. 431, Ley para el Régimen de Circulación vehicular e Infracciones de Tránsito;
+2) Uso de los dispositivos sonoros o lumínicos de la Dirección General de Bomberos, de conformidad a la Ley N°. 431, Ley para el Régimen de Circulación vehicular e Infracciones de Tránsito;
 
 3) Usar o reproducir papelería oficial de la Dirección General de Bomberos o de las asociaciones de Bomberos Voluntarios;
 

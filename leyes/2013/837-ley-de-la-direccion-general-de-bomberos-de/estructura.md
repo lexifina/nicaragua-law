@@ -10,7 +10,7 @@
 - CAPÍTULO X (antes del artículo 75)
 - CAPÍTULO XI (antes del artículo 78)
 - CAPÍTULO XII (antes del artículo 88)
-- CAPÍTULO XIII (antes del artículo 93)
+- CAPÍTULO XIII (antes del artículo 92)
 - CAPÍTULO XIV (antes del artículo 94)
 - CAPÍTULO XV (antes del artículo 100)
 - CAPÍTULO XVI (antes del artículo 101)

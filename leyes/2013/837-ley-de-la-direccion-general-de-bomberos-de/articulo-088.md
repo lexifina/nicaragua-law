@@ -20,7 +20,7 @@ Son derechos de los miembros de la Dirección General de Bomberos los siguientes
 
 8) Promoción en cargo y grado de acuerdo a la política institucional;
 
-9) Recibir los medios técnicos, materiales y el' avituallamiento necesario para el cumplimiento de las misiones y funciones;
+9) Recibir los medios técnicos, materiales y el avituallamiento necesario para el cumplimiento de las misiones y funciones;
 
 10) Tener las condiciones básicas necesarias para el desempeño de las funciones institucionales cuando así lo demande la institución sea en el desempeño ordinario o cuando se trate de comisiones de servicio, cobertura en prevención y riesgos especiales, extinción de incendios, búsqueda, rescate, salvamento y servicio pre hospitalario o actividades especiales;
 

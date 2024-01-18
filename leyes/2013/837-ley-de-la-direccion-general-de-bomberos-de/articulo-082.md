@@ -8,7 +8,7 @@ El ascenso a cada uno de los niveles jerárquicos de grados está determinado po
 
 2) Formación profesional;
 
-3) Cursos de especialización recibidos;
+3) Cursos de especializaron recibidos;
 
 4) Resultado de la evaluación al desempeño, aptitud y actitud;
 
