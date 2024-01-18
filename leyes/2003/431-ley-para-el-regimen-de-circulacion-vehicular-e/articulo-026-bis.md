@@ -12,6 +12,6 @@ Se establece como conducción temeraria las conductas siguientes:
 
 4) Realizar maniobras acrobáticas con el vehículo en la vía pública.
 
-5) Cualquier otra conducta que constituya infracción a las normas de tránsito, calificada en la presente Ley y su reglamento, que sea ejecutada por los conductores con manifiesto desprecio por la vida, la integridad física de las personas, sus bienes o con notoria y deliberada transgresión a las normas de tránsito.
+5) Cualquier otra conducta que constituya infracción a las normas de tránsito, calificada en la presente Ley y su Reglamento, que sea ejecutada por los conductores con manifiesto desprecio por la vida, la integridad física de las personas, sus bienes o con notoria y deliberada transgresión a las normas de tránsito.
 
 Los conductores que incurran en las conductas antes relacionadas serán responsables de infracción de conducción temeraria y se les aplicará la multa correspondiente, sin perjuicio de la responsabilidad penal y civil que corresponda.

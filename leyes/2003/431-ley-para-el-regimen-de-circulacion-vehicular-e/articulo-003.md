@@ -18,7 +18,7 @@ Para los fines y efectos de la presente Ley, ténganse como conceptos básicos l
 
 5) Arcén: Franja longitudinal afirmada contiguo a la calzada, que no está destinada al uso de vehículos automotores, salvo circunstancias excepcionales.
 
-6) Ángulo de visibilidad: Es el área máxima de visión que debe de tener todo conductor al desplazarse sobre la vía.
+6) Angulo de visibilidad: Es el área máxima de visión que debe de tener todo conductor al desplazarse sobre la vía.
 
 7) Boleta de infracción: Formulario mediante el cual se aplica una o más infracciones de tránsito a cualquier conductor, para que este pague el valor de la misma en moneda de curso legal, por incurrir en la violación a la Ley de la materia.
 
@@ -32,7 +32,7 @@ Para los fines y efectos de la presente Ley, ténganse como conceptos básicos l
 
 9) Carretera: Término genérico que designa una vía de uso y dominio público proyectada y construida fundamentalmente para la circulación de vehículos automotores, que incluye la extensión total comprendida dentro del derecho de vía, con acceso a las propiedades colindantes. Se diferencia de caminos y calles por el diseño concebido para la circulación de vehículos automotores de transporte y de las autovías y autopistas, que no pueden tener pasos y cruces a un mismo nivel.
 
-10) Caminos: Área destinada para la circulación vehicular, sin que esta tenga trazo alguno que determine su dirección.
+10) Caminos: Area destinada para la circulación vehicular, sin que esta tenga trazo alguno que determine su dirección.
 
 11) Carril: Banda longitudinal en que puede estar subdividida la calzada, delimitada o no por marcas viales longitudinales, siempre que tenga una anchura determinada y suficiente para permitir la circulación de una fila de automóviles que no sean motocicletas.
 
@@ -56,7 +56,7 @@ Para los fines y efectos de la presente Ley, ténganse como conceptos básicos l
 
 19) Estacionamiento: Área especial fuera de la vía destinada exclusivamente para el parqueo de los vehículos automotores.
 
-20) Equipo especializado para remolque: Vehículo automotor dotado del equipo especial necesario, tales como barras, cadenas u otros, destinado para el remolque de otros vehículos automotores similares que resultasen con averías técnicas o mecánicas en cualquier punto de la vía pública.
+20) Equipo especializado para remolque: Vehículo automotor dotado del equipo especial necesario, tales como barras, cadenas u otros, destinados para el remolque de otros vehículos automotores similares que resultasen con averías técnicas o mecánicas en cualquier punto de la vía pública.
 
 21) Inspección técnica de vehículos: Control, chequeo y revisión que se efectúa de forma periódica para la verificación de las características del vehículo automotor, así como las condiciones mínimas de seguridad para su funcionamiento y circulación.
 
@@ -78,7 +78,7 @@ Para los fines y efectos de la presente Ley, ténganse como conceptos básicos l
 
 30) Paso a nivel: Es el cruce a la misma altura entre una vía y una línea de ferrocarril con plataforma independiente.
 
-31) Paso a desnivel: Es el punto en que dos vías se interceptan entre si, una por encima de la otra para que la circulación vehicular se realice a diferentes niveles de la superficie y en distintas direcciones.
+31) Paso a desnivel: Es el punto en que dos vías se interceptan entre sí, una por encima de la otra para que la circulación vehicular se realice a diferentes niveles de la superficie y en distintas direcciones.
 
 32) Patrullaje motorizado: Es la acción que realiza el agente de tránsito, auxiliado de una motocicleta, con el fin de regular la circulación de los medios automotores que se desplazan en la vía pública, incluyendo las gasolineras.
 

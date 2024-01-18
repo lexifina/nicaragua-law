@@ -4,7 +4,7 @@ Clasificación de infracciones
 
 Para los fines y efectos de la presente Ley, las infracciones de tránsito se clasifican en:
 
-l. De Mayor Peligrosidad.
+I. De Mayor Peligrosidad.
 
 II. Peligrosas.
 

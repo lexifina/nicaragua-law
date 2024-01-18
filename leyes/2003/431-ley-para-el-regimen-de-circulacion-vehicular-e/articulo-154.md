@@ -10,7 +10,7 @@ Una vez que haya entrado en vigencia la presente Ley, el Ejército establecerá 
 
 Los vehículos de uso militar clasificados como técnica de combate quedan exentos del pago de sticker de rodamiento y seguros de daños a terceros, sin embargo, en época de normalidad, los daños materiales o lesiones y daños a terceros que resulten a consecuencia de maniobras, prácticas o de mantenimiento el Ejército de Nicaragua responderá solidariamente por estos.
 
-Los conductores de los medios de transportes livianos o pesados o de cualquier otro medio de locomoción, que no sea considerado técnica de combate, deberán asegurar sus respectivas licencias de conducir para responder por daños a terceros.
+Los conductores de los medios de transporte livianos o pesados o de cualquier otro medio de locomoción, que no sea considerado técnica de combate, deberán asegurar sus respectivas licencias de conducir para responder por daños a terceros.
 
 Es responsabilidad y obligación del Ejército de Nicaragua, la formación e instrucción de los conductores de los vehículos militares, la cual se realizará de conformidad a los planes de instrucción de estas.
 

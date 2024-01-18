@@ -4,9 +4,9 @@ Prueba de concentración de alcohol en sangre
 
 Prueba de concentración de alcohol en sangre es el examen al que están obligados los conductores de vehículos automotores y, cuando se vean involucrados en accidentes de tránsito, los pasajeros, peatones y demás usuarios de la vía para comprobar el grado de concentración de alcohol en la sangre.
 
-La prueba de concentración de alcohol en sangre podrá ser realizada mediante el examen de alcoholimetría el que consiste en el análisis de aire expirado practicado por el agente de tránsito utilizando alcoholímetros o bien, mediante el examen de alcoholemia el que consiste en el análisis de muestras de sangre u orina practicado por el Instituto de Medicina Legal, el Laboratorio de Criminalista de la Policía Nacional, o Centros de Análisis Especializado, autorizados por el Ministerio de Salud de la República de Nicaragua, a costa del conductor cuando lo solicite por no estar conforme con los resultados de la prueba del alcoholímetro.
+La prueba de concentración de alcohol en sangre podrá ser realizada mediante el examen de alcoholimetría el que consiste en el análisis de aire expirado practicado por el agente de tránsito utilizando alcoholímetros o bien, mediante el examen de alcoholemia el que consiste en el análisis de muestras de sangre u orina practicado por el Instituto de Medicina Legal, el Instituto de Criminalística y Ciencias Forenses, o Centros de Análisis Especializado, autorizados por el Ministerio de Salud de la República de Nicaragua, a costa del conductor cuando lo solicite por no estar conforme con los resultados de la prueba del alcoholímetro.
 
-A efectos de esta ley los resultados de la prueba de concentración de alcohol en sangre se clasifican de la forma siguiente:
+A efectos de esta Ley los resultados de la prueba de concentración de alcohol en sangre se clasifican de la forma siguiente:
 
 1) Estado de embriaguez ligera: Concentración de 0.5 a 1 gramo de alcohol por litro de sangre.
 

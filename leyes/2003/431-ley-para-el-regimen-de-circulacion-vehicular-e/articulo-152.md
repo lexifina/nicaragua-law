@@ -1,5 +1,5 @@
 # Artículo 152
 
-Régimen especial de vehículo del Ejército de Nicaragua
+Régimen especial de vehículos del Ejército de Nicaragua
 
 Para los fines y efectos de los medios de transporte del Ejército de Nicaragua, créase un Régimen Especial de Tráfico e Inspección de los medios motorizados que constituyan parte del inventario automotor del Ejército de Nicaragua, su organización y funcionamiento será ejercida por la dependencia que al respecto establezca el Ejército, estableciendo las coordinaciones pertinentes y necesarias con la Especialidad de Tránsito de la Policía Nacional para la colaboración y apoyo técnico que pudiese ser necesario. Su uso y acceso es exclusivo del Ejército de Nicaragua.

@@ -8,9 +8,9 @@ Para los fines y efectos del funcionamiento del Registro de la Propiedad Vehicul
 
 2) Inscribir las altas de los nuevos vehículos y el registro de bajas, cambio de dueño, gravámenes y modificaciones a las características físicas y del tipo de servicio que presta.
 
-3) Cumplir con la función de publicidad registra! emitiendo los certificados del Registro Vehicular.
+3) Cumplir con la función de publicidad registral emitiendo los certificados del Registro Vehicular.
 
-4) Autorizar a los talleres para realizar la inspección técnica mecánica de los vehículos automotores y los requisitos para su funcionamiento, quedando sujetos a la supervisión, regulación, control y sanción de conformidad a la presente ley.
+4) Autorizar a los talleres para realizar la inspección técnica mecánica de los vehículos automotores y los requisitos para su funcionamiento, quedando sujetos a la supervisión, regulación, control y sanción de conformidad a la presente Ley.
 
 5) Efectuar las anotaciones preventivas pertinentes que emanen de autoridad judicial a través de oficio.
 

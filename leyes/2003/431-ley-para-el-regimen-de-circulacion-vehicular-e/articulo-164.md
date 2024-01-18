@@ -12,8 +12,8 @@ De forma extraordinaria y en circunstancias excepcionales, la Autoridad de Aplic
 
 3) Vehículos ya inscritos cuyos propietarios solicitan autorización de cambio de motor por mal estado y el nuevo motor no trae numeración.
 
-4) Vehículos siniestrados cuando se compruebe que Producto del siniestro se ha deteriorado la numeración original resultando imposible su identificación.
+4) Vehículos siniestrados cuando se compruebe que producto del siniestro se ha deteriorado la numeración original resultando imposible su identificación.
 
-5) Vehículos con más de diez años de uso, cuando se compruebe que la numeración de chasis/VIN o motor se ha deteriorado por la corrosión.
+5) Vehículos con más de diez años de uso, cuando se compruebe que la numeración de chasis/ VIN o motor se ha deteriorado por la corrosión.
 
 6) Cualquier otro que establezca el Reglamento de la presente Ley.

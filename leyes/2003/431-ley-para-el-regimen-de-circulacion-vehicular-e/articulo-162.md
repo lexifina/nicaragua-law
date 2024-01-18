@@ -6,4 +6,4 @@ La Policía Nacional queda facultada por Ministerio de Ley, para efectuar los ch
 
 Para el cumplimiento de lo establecido en el párrafo anterior, se requerirá de un peritaje, que podrá ser emitido por tres especialistas en la materia, estos peritos podrán ser de conjunto o por separado. Los peritos serán nombrados por el Ministerio de Transporte e Infraestructura, el afectado y la Policía Nacional.
 
-El costo del peritaje en ningún caso será mayor al uno por ciento del valor de mercado del vehículo y será por del interesado.
+El costo del peritaje en ningún caso será mayor al uno por ciento del valor de mercado del vehículo y será por cuenta del interesado.

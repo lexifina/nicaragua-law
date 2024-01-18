@@ -10,4 +10,4 @@ Colocar señales lumínicas de dinamo, cintas adhesivas reflectivas o de otro ti
 
 Efectuar los trámites relacionados a la licencia de circulación y placas ante las instancias de los gobiernos municipales. Los medios de transporte a que se refiere este Artículo que no porten licencia de circulación y placas, se retendrán y se les aplicará la infracción establecida en el Artículo 26 de la presente Ley, la multa se pagará en un plazo no mayor de sesenta días, caso contrario estos medios se declararán en abandono.
 
-En el reglamento se establecerán los requisitos y procedimientos para el destino de los vehículos de tracción humana o animal declarados en estado de abandono.
+En el Reglamento se establecerán los requisitos y procedimientos para el destino de los vehículos de tracción humana o animal declarados en estado de abandono.

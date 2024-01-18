@@ -16,4 +16,4 @@ La Policía Nacional podrá retener cualquier vehículo que circule en el país 
 
 6) Sin la documentación correspondiente, o constancia que demuestre que se encuentra en trámite.
 
-En todos los casos previstos, el propietario o poseedor debe aclarar el origen o procedencia del automotor y la situación del mismo, en caso contrario el vehículo será enviado al depósito público o privado debidamente habilitado y de conformidad al procedimiento establecido en el artículo 138 de la presente Ley.
+En todos los casos previstos, el propietario o poseedor debe aclarar el origen o procedencia del automotor y la situación del mismo, en caso contrario el vehículo será enviado al depósito público o privado debidamente habilitado y de conformidad al procedimiento establecido en el Artículo 13 8 de la presente Ley.

@@ -6,7 +6,7 @@ Créase el Consejo Nacional de Seguridad y Educación Vial, como órgano consult
 
 1) El Ministro o Ministra de Educación, quien preside;
 
-2) El Director o Directora Genera_! de la Policía Nacional, Secretaría Ejecutiva;
+2) El Director o Directora General de la Policía Nacional, Secretaría Ejecutiva;
 
 3) El Ministro o Ministra de Gobernación;
 
@@ -18,7 +18,7 @@ Créase el Consejo Nacional de Seguridad y Educación Vial, como órgano consult
 
 7) El Presidente o Presidenta Ejecutiva del Instituto Nicaragüense de Seguros y Reaseguros;
 
-8) El jefe o jefa de la Especialidad de Seguridad de Tránsito de la Policía Nacional;
+8) El Jefe o Jefa de la Especialidad de Seguridad de Tránsito de la Policía Nacional;
 
 9) El Director o Directora del Centro de Educación Vial de la Policía Nacional;
 
@@ -36,4 +36,4 @@ El Consejo Nacional de Seguridad y Educación Vial, sesionará en forma ordinari
 
 El Consejo Nacional de Seguridad y Educación Vial, a través de quien lo presida, rendirá el informe de su gestión al Presidente de la República con copia a la Presidencia de la Asamblea Nacional.
 
-El reglamento de la presente ley establecerá los procedimientos.
+El Reglamento de la presente Ley establecerá los procedimientos.

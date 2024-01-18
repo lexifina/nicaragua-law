@@ -1,6 +1,6 @@
 # Artículo 11
 
-Creación del impuesto municipal de rodamiento
+Creación y pago del impuesto municipal de rodamiento
 
 Créase el impuesto municipal de rodamiento, el que tendrá las denominaciones y valores siguientes:
 

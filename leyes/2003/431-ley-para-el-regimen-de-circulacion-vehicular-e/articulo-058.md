@@ -10,7 +10,7 @@ Corresponde a la Autoridad de Aplicación de la presente Ley la administración 
 
 3) El o la representante de la Contraloría General de la República.
 
-4) El o la representante del Ministerio de Hacienda y Crédito Público.
+4 El o la representante del Ministerio de Hacienda y Crédito Público.
 
 5) El o la representante de las compañías aseguradoras privadas.
 

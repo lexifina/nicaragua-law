@@ -10,8 +10,8 @@ Los Tipos de Licencias de Conducir son las siguientes:
 
 2) Profesional: Será extendida a las personas que ejerzan de forma permanente la labor de la conducción de vehículos automotores y principal haciendo de ella una labor profesional.
 
-3) Menor de Edad: Se otorga a las personas que habiendo cumplido los dieciséis años y no hayan alcanzado la mayoría de edad. Para su trámite deberán de presentar la respectiva autorización de padre, madre, tutor o tutora en instrumento público constituyéndose en fiadores solidarios por los daños causados a terceros. Esta licencia expira al cumplir la mayoría de edad del titular.
+3) Menor de Edad: Se otorga a las personas que habiendo cumplido los dieciséis años y no hayan alcanzado la mayoría de edad. Para su trámite deberán de presentar la respectiva autorización del padre, madre, tutor o tutora en instrumento público constituyéndose en fiadores solidarios por los daños causados a terceros. Esta licencia expira al cumplir la mayoría de edad del titular.
 
 4) Especial: Se otorga a las personas que profesionalmente se dedican a la conducción de vehículos automotores dedicados a la labor agrícola y de construcción.
 
-Las licencias de conducir en sus diferentes tipos se otorgarán previo cumplimiento de los requisitos para cada una de estas según sus particularidades. El procedimiento se establecerá en el reglamento de la presente Ley.
+Las licencias de conducir en sus diferentes tipos se otorgarán previo cumplimiento de los requisitos para cada una de estas según sus particularidades. El procedimiento se establecerá en el Reglamento de la presente Ley.
