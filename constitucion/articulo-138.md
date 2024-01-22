@@ -17,7 +17,7 @@ a) Al Superintendente y Vicesuperintendente General de Bancos y de Otras Institu
 b) Al Fiscal General de la República, quien estará a cargo del Ministerio Público y al Fiscal General Adjunto de la República, quienes deberán tener las mismas calidades que se requieren para ser Magistrados de la Corte Suprema de Justicia.
 El Ministerio Público es una institución independiente, con autonomía orgánica, funcional y administrativa, que tiene a su cargo la función acusadora y la representación de los intereses de la sociedad y de la víctima del delito en el proceso penal, a través del Fiscal General de la República. Sólo estará subordinado a la Constitución Política de la República y a las leyes.
 c) A los miembros del Consejo Superior de la Contraloría General de la República.
-d) Al Procurador y Subprocurador para la Defensa de los Derechos Humanos.
+d) Derogado.
 Todos estos funcionarios serán elegidos para un período de cinco años y gozarán de inmunidad.
 Los candidatos propuestos para los cargos mencionados en este numeral y en los numerales 7) y 8), no deberán tener vínculos de parentesco entre sí, ni con el Presidente de la República, ni con los Diputados proponentes dentro del cuarto grado de consanguinidad y segundo de afinidad, ni deberán ser miembros de las Juntas Directivas Nacionales, Departamentales o Municipales de los Partidos Políticos y si lo fueren, deberán cesar en sus funciones partidarias.
 El plazo para presentar las listas de candidatos será de quince días contados a partir de la convocatoria de la Asamblea Nacional para su elección. Si no hubiere listas presentadas por el Presidente de la República, bastarán las listas propuestas por los Diputados.
