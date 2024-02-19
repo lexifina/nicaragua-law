@@ -1,0 +1,27 @@
+LEY N°. 1192, LEY PARA LA CERTIFICACIÓN DE PERMISOS Y AUTORIZACIONES AMBIENTALES
+
+Aprobada el 15 de febrero de 2024
+
+Publicada en La Gaceta, Diario Oficial N°. 31 del 19 de febrero de 2024
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+A sus habitantes, hace saber:
+
+Que,
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+Ha ordenado lo siguiente:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+HA DICTADO
+
+La siguiente:
+
+LEY N°. 1192
+
+LEY PARA LA CERTIFICACIÓN DE PERMISOS Y AUTORIZACIONES AMBIENTALES
