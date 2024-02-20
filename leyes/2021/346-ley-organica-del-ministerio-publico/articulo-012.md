@@ -10,6 +10,4 @@ El Ministerio Público contará con una Unidad de Capacitación y Planificación
 
 Los integrantes de esta Unidad deberán desplazarse a las distintas oficinas del Ministerio Público en el país, con el fin de verificar el cumplimiento de las directrices, así como el desempeño de las labores en general e impartir las instrucciones técnicas que sean necesarias para un mejor servicio público.
 
-Capítulo III
-
-Funciones de los Órganos Sustantivos
+FUNCIONES DE LOS ÓRGANOS SUSTANTIVOS

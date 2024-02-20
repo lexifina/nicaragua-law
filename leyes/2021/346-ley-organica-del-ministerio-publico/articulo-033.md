@@ -6,6 +6,4 @@ Debe mantenerse una coordinación directa y permanente en lo relacionado a la in
 
 Las relaciones entre los fiscales y los oficiales de la Policía Nacional deberán regirse por el respeto mutuo y la constante disposición de eficaz cumplimiento del servicio público que les ha sido encomendado.
 
-Capítulo VII
-
-Del Presupuesto, Franquicias y Exenciones
+DEL PRESUPUESTO, FRANQUICIAS Y EXENCIONES

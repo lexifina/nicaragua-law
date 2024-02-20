@@ -1,12 +1,12 @@
 TEXTO CONSOLIDADO, LEY N°. 346, LEY ORGÁNICA DEL MINISTERIO PÚBLICO
 
-Aprobado el 15 de octubre de 2020
+Aprobado el 14 de julio de 2023
 
-Publicado en La Gaceta, Diario Oficial N°. 105 del 09 de junio de 2021
+Publicado en La Gaceta, Diario Oficial N°. 32 del 20 de febrero de 2024
 
 Digesto Jurídico Nicaragüense de la Materia de Justicia Penal
 
-El presente texto contiene incorporadas todas sus modificaciones consolidadas al 15 de octubre de 2020, de la Ley Nº. 346, Ley Orgánica del Ministerio Público, aprobada el 02 de mayo de 2000 y publicada en La Gaceta, Diario Oficial Nº. 196 del 17 de octubre de 2000, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1041, Ley del Digesto Jurídico Nicaragüense de la Materia de Justicia Penal, aprobada el 15 de octubre de 2020.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas de la Ley N°. 346, Ley Orgánica del Ministerio Público, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense y la Ley N°. 1159, Ley del Digesto Jurídico Nicaragüense de la Materia de Justicia Penal, aprobada el 14 de julio de 2023.
 
 LEY N°. 346
 
@@ -24,6 +24,6 @@ La siguiente:
 
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO
 
-Capítulo I
+CAPÍTULO I
 
-Disposiciones Generales
+DISPOSICIONES GENERALES

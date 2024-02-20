@@ -6,7 +6,7 @@ El Fiscal General Adjunto estará bajo la subordinación directa del titular, a 
 
 El Fiscal General Adjunto desempeñará las siguientes funciones:
 
-1. Asistir al Fiscal General cuando éste lo requiera.
+1. Asistir al Fiscal General cuando este lo requiera.
 
 2. Coordinar la Unidad de Capacitación y Planificación.
 

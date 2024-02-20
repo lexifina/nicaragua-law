@@ -10,6 +10,4 @@ Son causales de suspensión:
 
 3. Licencia concedida por la Asamblea Nacional con el voto favorable de la mayoría simple.
 
-Capítulo V
-
-Prohibiciones e Incompatibilidades
+PROHIBICIONES E INCOMPATIBILIDADES
