@@ -6,6 +6,4 @@ La Comisión se reunirá al menos una vez cada seis meses con organizaciones que
 
 La Comisión, deberá proporcionarles información a las organizaciones sobre los planes para implementar las políticas de lucha contra la violencia hacia las mujeres y los informes estadísticos de monitoreo y evaluación.
 
-Capítulo II
-
-De la elaboración y del objetivo
+DE LA ELABORACIÓN Y DEL OBJETIVO

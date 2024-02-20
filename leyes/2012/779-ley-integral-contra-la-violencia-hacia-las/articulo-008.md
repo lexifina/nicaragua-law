@@ -22,6 +22,4 @@ g) Violencia sexual: Toda acción que obliga a la mujer a mantener contacto sexu
 
 DE LOS DELITOS Y DE LAS PENAS
 
-Capítulo Único
-
-Delitos de violencia contra las mujeres y sus penas
+DELITOS DE VIOLENCIA CONTRA LAS MUJERES Y SUS PENAS

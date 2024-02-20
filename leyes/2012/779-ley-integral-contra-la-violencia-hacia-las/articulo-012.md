@@ -12,6 +12,6 @@ c) Limitación al ejercicio del derecho de propiedad: Quien impida, limite o pro
 
 d) Sustracción de las utilidades de las actividades económicas familiares: Quien sustraiga las ganancias derivadas de una actividad económica familiar o disponga de ellas para su exclusivo beneficio personal y en perjuicio de los derechos de la mujer, será sancionado con pena de dos a cuatro años de prisión.
 
-e) Explotación económica de la mujer: Quien, mediante violencia, amenazas, intimidación o cualquier tipo de coacción, se haga mantener, total o parcialmente, será sancionado con pena de uno a tres años de prisión.
+e) Explotación económica de la mujer: Quien mediante violencia, amenazas, intimidación o cualquier tipo de coacción, se haga mantener, total o parcialmente, será sancionado con pena de uno a tres años de prisión.
 
 f) Negación del derecho a los alimentos y al trabajo: Quien se negare a proveer los recursos necesarios en el hogar o le obligue a la mujer que abandone o no inicie un trabajo remunerado, será sancionado con pena de uno a tres años de prisión.

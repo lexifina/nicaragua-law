@@ -12,6 +12,4 @@ Para el funcionamiento integral de la Unidad Especializada, el Estado asignará 
 
 DEL PROCEDIMIENTO PENAL EN LOS DELITOS REGULADOS EN LA PRESENTE LEY
 
-Capítulo I
-
-Del régimen en el procedimiento
+DEL RÉGIMEN EN EL PROCEDIMIENTO

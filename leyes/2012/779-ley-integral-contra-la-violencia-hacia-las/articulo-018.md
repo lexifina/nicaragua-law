@@ -6,6 +6,4 @@ Toda autoridad jerárquica en centros de empleo, de educación o de cualquier ot
 
 DE LAS MEDIDAS DE ATENCIÓN, PROTECCIÓN, SANCIÓN, PRECAUTELARES Y CAUTELARES
 
-Capítulo I
-
-De las medidas de atención, protección y sanción
+DE LAS MEDIDAS DE ATENCIÓN, PROTECCIÓN Y SANCIÓN

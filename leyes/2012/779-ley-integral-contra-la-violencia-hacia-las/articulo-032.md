@@ -2,9 +2,9 @@
 
 Competencia Objetiva
 
-En los términos relacionados en el presente artículo, los Juzgados de Distrito Especializados en Violencia, son competentes para conocer y resolver en primera instancia los procesos relacionados con los delitos tipificados en la presente Ley y además, los siguientes delitos:
+En los términos relacionados en el presente Artículo, los Juzgados de Distrito Especializados en Violencia, son competentes para conocer y resolver en primera instancia los procesos relacionados con los delitos tipificados en la presente Ley y además, los siguientes delitos:
 
-a) Del Título I, Libro II de la Ley Nº. 641, Código Penal, y que específicamente se encuentran contemplados en los siguientes Capítulos:
+a) Del Título I, Libro II de la Ley N°. 641, Código Penal, y que específicamente se encuentran contemplados en los siguientes Capítulos:
 
 1. Capítulo I, Delitos Contra la Vida
 
@@ -18,13 +18,13 @@ Art. 145. Aborto Imprudente
 
 Art. 148. De las Lesiones en el que está por nacer
 
-3. Capitulo III, Lesiones y Riña Tumultuaria
+3. Capítulo III, Lesiones y Riña Tumultuaria
 
-Art. I55. Violencia doméstica o intrafamiliar
+Art. 155. Violencia doméstica o intrafamiliar
 
 Art. 156. Contagio Provocado
 
-b) Del Título II, Libro II de la Ley Nº. 641, Código Penal, y que específicamente se encuentran contemplados en los siguientes Capítulos:
+b) Del Título II, Libro II de la Ley N°. 641, Código Penal, y que específicamente se encuentran contemplados en los siguientes Capítulos:
 
 1. Capítulo II, Delitos contra la Libertad e Integridad Sexual
 
@@ -64,7 +64,7 @@ Art. 188. Inseminación sin Consentimiento
 
 Art. 189. Inseminación Fraudulenta
 
-c) Del Título V, Libro II de la Ley Nº. 641, Código Penal, y que específicamente se encuentran contemplados en los siguientes Capítulos:
+c) Del Título V, Libro II de la Ley N°. 641, Código Penal, y que específicamente se encuentran contemplados en los siguientes Capítulos:
 
 1. Capítulo I, Delitos Contra el Estado Civil
 
@@ -78,9 +78,7 @@ Art. 212. Celebración Ilegal de Matrimonio
 
 Art. 217. Incumplimiento de los deberes alimentarios
 
-3. Capítulo IV, Delitos Contra las Relaciones Madre, Padre e Hijos, Tutela y Guarda
-
-Art. 218. Sustracción de menor o incapaz.
+3. Capítulo IV, Delitos Contra las Relaciones Madre, Padre e Hijos, Tutela y Guarda Art. 218. Sustracción de menor o incapaz.
 
 Todos ellos siempre que se hubiesen cometido contra mujeres, niñas, niños o adolescentes, mayores discapacitados que se hallen o hubieren estado ligados al autor del delito por relación de consanguinidad, afinidad, sujetos a tutela, cónyuges, excónyuges, convivientes en unión de hecho, exconvivientes en unión de hecho, novios, exnovios, cualquier relación de afectividad, o que el autor del hecho sea desconocido.
 

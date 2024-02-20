@@ -10,9 +10,9 @@ b) Incidir en la transformación de los modelos socioculturales de conducta de m
 
 c) Dotarles de instrumentos que les permitan la atención y el juzgamiento con perspectiva de género, de acuerdo a lo previsto en esta Ley, educar, capacitar y sensibilizar en materia de derechos humanos de las mujeres a:
 
-1. Operadoras y operadores del sistema de justicia, incluyendo jueces y juezas, personal del Poder judicial, fiscales, policías; y
+1. Operadoras y operadores del sistema de justicia, incluyendo Jueces y Juezas, personal del Poder Judicial, fiscales, policías; y
 
-2. Funcionarias y funcionarios encargados de las políticas de prevención, atención, sanción y erradicación de la violencia hacia las mujeres.
+2. Funcionarías y funcionarios encargados de las políticas de prevención, atención, sanción y erradicación de la violencia hacia las mujeres.
 
 d) Brindar servicios especializados y gratuitos de atención y protección a las víctimas, por medio de las autoridades y las instituciones públicas o privadas;
 
@@ -28,6 +28,4 @@ i) Promover la cultura de denuncia de la violencia hacia las mujeres en el marco
 
 Las instituciones del Estado dentro del marco de su competencia deberán cumplir con las medidas establecidas en la presente Ley, sin detrimento de la participación de la sociedad civil para el cumplimiento de las mismas.
 
-Capítulo II
-
-Naturaleza y acciones de las medidas precautelares y cautelares
+NATURALEZA Y ACCIONES DE LAS MEDIDAS PRECAUTELARES Y CAUTELARES

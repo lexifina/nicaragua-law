@@ -6,6 +6,6 @@ Constituyen fuentes de interpretación de esta Ley, la Constitución Política d
 
 En particular, serán fuentes de interpretación de esta Ley:
 
-a) La Convención para la eliminación de todas las formas de discriminación contra la mujer; y
+a) La Convención para la Eliminación de todas las Formas de Discriminación contra la Mujer; y
 
-b) La Convención interamericana para prevenir, sancionar y erradicar la violencia contra la mujer.
+b) La Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer, “Convención de Belém Do Pará”.

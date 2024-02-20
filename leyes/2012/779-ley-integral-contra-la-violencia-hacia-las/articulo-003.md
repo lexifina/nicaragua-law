@@ -24,6 +24,4 @@ i) Establecer y fortalecer medidas de protección de emergencia y cautelares que
 
 j) Abrir una línea telefónica gratuita y accesible conectada a las instancias policiales y al Ministerio Público, destinada a dar información y brindar asesoramiento sobre recursos existentes en materia de prevención de la violencia hacia las mujeres y asistencia a quienes la padecen.
 
-Capítulo II
-
-Principios, fuentes y derechos
+PRINCIPIOS, FUENTES Y DERECHOS

@@ -16,8 +16,8 @@ e) Por misoginia;
 
 f) Cuando el hecho se cometa en presencia de los hijos e hijas o ante niño, niña o adolescentes.
 
-Será sancionado con pena de veinte a veinticinco años de prisión. Si concurren dos o más de las circunstancias mencionadas en los literales anteriores se aplicará la pena máxima.
+Será sancionado con pena de veinte a veinticinco años de prisión. Si concurren dos o más de las circunstancias mencionadas en los literales a), b) y c) se aplicará la pena máxima.
 
-Cuando concurran las circunstancias constitutivas y agravantes previstas en el delito de asesinato la pena será de veinte a treinta años.
+Cuando concurran cualquiera de las circunstancias de los literales d) e) y f) y cualquiera de las circunstancias constitutivas y agravantes previstas en el delito de asesinato en los que les fuera aplicables, se aplicará la pena de prisión perpetua revisable.
 
 Se entenderá por relación interpersonal aquella que nace de las relaciones de pareja, de convivencia entre un hombre y una mujer, entiéndase, relaciones afectivas con el cónyuge, excónyuge, conviviente, exconviviente, novio o exnovio.

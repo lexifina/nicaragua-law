@@ -1,12 +1,12 @@
-TEXTO CONSOLIDADO, LEY N°. 779, LEY INTEGRAL CONTRA LA VIOLENCIA HACIA LAS MUJERES Y DE REFORMAS A LA LEY Nº. 641, CÓDIGO PENAL
+TEXTO CONSOLIDADO, LEY N°. 779, LEY INTEGRAL CONTRA LA VIOLENCIA HACIA LAS MUJERES Y DE REFORMAS A LA LEY N°. 641, CÓDIGO PENAL
 
-Aprobado el 15 de octubre de 2020
+Aprobado el 14 de julio de 2023
 
-Publicado en La Gaceta, Diario Oficial N°. 105 del 09 de junio de 2021
+Publicado en La Gaceta, Diario Oficial N°. 32 del 20 de febrero de 2024
 
 Digesto Jurídico Nicaragüense de la Materia de Justicia Penal
 
-El presente texto contiene incorporadas todas sus modificaciones consolidadas al 15 de octubre de 2020, de la Ley Nº. 779, Ley Integral Contra la Violencia Hacia las Mujeres y de Reformas a la Ley Nº. 641, "Código Penal", aprobada el 26 de enero de 2012 y publicada en La Gaceta, Diario Oficial Nº. 35 del 22 de febrero de 2012, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1041, Ley del Digesto Jurídico Nicaragüense de la Materia de Justicia Penal, aprobada el 15 de octubre de 2020.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 14 de julio de 2023, de la Ley N°. 779, Ley Integral Contra la Violencia Hacia las Mujeres y de Reformas a la Ley N°. 641, “Código Penal”, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense, y la Ley N°. 1159, Ley del Digesto Jurídico Nicaragüense de la Materia de Justicia Penal, aprobada el 14 de julio de 2023.
 
 LEY N°. 779
 
@@ -26,7 +26,7 @@ Que la normativa existente para frenar la violencia de género en contra de las 
 
 II
 
-El Estado de Nicaragua ha suscrito y ratificado diversos instrumentos internacionales como la "Convención para la Eliminación de todas las Formas de Discriminación contra la Mujer", la "Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia Contra la Mujer", la "Convención sobre los Derechos del Niño", y la "Convención Internacional sobre los Derechos de las Personas con Discapacidad", entre otras. Estos instrumentos obligan al Estado a establecer normas especiales que aseguren una efectiva igualdad ante la Ley, a eliminar la discriminación y prohibir explícitamente la violencia hacia la mujer en cualquiera de sus manifestaciones.
+El Estado de Nicaragua ha suscrito y ratificado diversos instrumentos internacionales como la “Convención para la Eliminación de todas las Formas de Discriminación contra la Mujer”, la “Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia Contra la Mujer”, la “Convención sobre los Derechos del Niño”, y la “Convención Internacional sobre los Derechos de las Personas con Discapacidad”, entre otras. Estos instrumentos obligan al Estado a establecer normas especiales que aseguren una efectiva igualdad ante la Ley, a eliminar la discriminación y prohibir explícitamente la violencia hacia la mujer en cualquiera de sus manifestaciones.
 
 III
 
@@ -40,12 +40,12 @@ HA DICTADO
 
 La siguiente:
 
-LEY INTEGRAL CONTRA LA VIOLENCIA HACIA LAS MUJERES Y DE REFORMAS A LA LEY Nº. 641, "CÓDIGO PENAL"
+LEY INTEGRAL CONTRA LA VIOLENCIA HACIA LAS MUJERES Y DE REFORMAS A LA LEY N°. 641, “CÓDIGO PENAL”
 
 TÍTULO I
 
 DISPOSICIONES Y PRINCIPIOS GENERALES
 
-Capítulo I
+CAPÍTULO I
 
-Del objeto, ámbito y políticas
+DEL OBJETO, ÁMBITO Y POLÍTICAS

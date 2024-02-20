@@ -6,4 +6,4 @@ Las Jefas de la Comisaría de la Mujer, la Niñez y Adolescencia o en su caso el
 
 En los demás casos se requerirá de mandamiento judicial para proceder a la detención.
 
-Cuando se produzca la detención de una persona, los funcionarios policiales deberán informar en un término no superior a las doce horas al Ministerio Público de las diligencias efectuadas y presentar en el plazo constitucional al imputado ante el juez competente.
+Cuando se produzca la detención de una persona, los funcionarios policiales deberán informar en un término no superior a las doce horas al Ministerio Público de las diligencias efectuadas y presentar en el plazo constitucional al imputado ante el Juez competente.

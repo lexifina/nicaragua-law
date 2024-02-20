@@ -6,6 +6,4 @@ Quienes resulten culpables de delitos de violencia en contra de las mujeres, ni�
 
 POLÍTICAS DE PREVENCIÓN, ATENCIÓN Y PROTECCIÓN A LA MUJER
 
-Capítulo I
-
-De los mecanismos para la implementación de las medidas de prevención, atención y protección a la mujer
+DE LOS MECANISMOS PARA LA IMPLEMENTACIÓN DE LAS MEDIDAS DE PREVENCIÓN, ATENCIÓN Y PROTECCIÓN A LA MUJER

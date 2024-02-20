@@ -18,11 +18,11 @@ f) Solicitar la intervención del Ministerio de la Familia, Adolescencia y Niñe
 
 g) Prohibir al presunto agresor realizar actos de intimidación, persecución, acoso o perturbación contra la mujer, cualquier miembro del grupo familiar o las personas relacionadas con la denunciante, ya sea por sí mismo o a través de terceros, por cualquier medio electrónico, escrito y audio visual;
 
-h) Secuestrar y retener inmediatamente las armas de fuego o armas corto punzantes y contundentes que se encuentren en manos del presunto agresor, independientemente de que porte o no permiso; y de su profesión u oficio. En todos los casos las armas retenidas deberán ser remitidas a la Policía Nacional y su destino se determinará de acuerdo a las disposiciones de la Ley Nº. 510, Ley Especial para el Control y Regulación de Armas de Fuego, Municiones, Explosivos y otros Materiales Relacionados, Ley Nº. 872, Ley de Organización, Funciones, Carrera y Régimen Especial de Seguridad Social de la Policía Nacional, Ley Nº. 406, Código Procesal Penal de la República de Nicaragua y Ley Nº. 641, Código Penal;
+h) Secuestrar y retener inmediatamente las armas de fuego o armas corto punzantes y contundentes que se encuentren en manos del presunto agresor, independientemente de que porte o no permiso; y de su profesión u oficio. En todos los casos las armas retenidas deberán ser remitidas a la Policía Nacional y su destino se determinará de acuerdo a las disposiciones de la Ley N°. 510, Ley Especial para el Control y Regulación de Armas de Fuego, Municiones, Explosivos y otros Materiales Relacionados, Ley N°. 872, Ley de Organización, Funciones, Carrera y Régimen Especial de Seguridad Social de la Policía Nacional, Ley N°. 406, Código Procesal Penal de la República de Nicaragua y Ley N°. 641, Código Penal;
 
 i) Prohibir al presunto agresor que introduzca o mantenga armas en la casa de habitación para intimidar, amenazar o causar daño a alguna de las personas integrantes del grupo familiar;
 
-j) Levantar un inventario de los bienes muebles existentes en el domicilio familiar, a fin de salvaguardar el patrimonio de la mujer y sus hijos. Esta medida se ejecutará cuando se aplique la medida del literal a) y c) de este artículo; y
+j) Levantar un inventario de los bienes muebles existentes en el domicilio familiar, a fin de salvaguardar el patrimonio de la mujer y sus hijos. Esta medida se ejecutará cuando se aplique la medida del literal a) y c) de este Artículo; y
 
 k) Ordenar que la mujer pueda llevar consigo, aquellos bienes que garanticen su bienestar y del grupo familiar, cuando decida, por razones de seguridad, salir del hogar que comparte con el agresor.
 
