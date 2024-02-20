@@ -16,6 +16,6 @@ e) Principio de Temporalidad: Las medidas de protección se mantendrán mientras
 
 f) Principio de Reciprocidad: Las autoridades policiales, fiscales, judiciales deberán facilitar el intercambio de información y las medidas de protección a las personas o sus familiares que sean objeto de las mismas, a solicitud de las autoridades homologas de otro Estado, cuando corresponda;
 
-g) Principio de subsidiariedad: En virtud de la presente ley, las medidas de protección se aplicarán exclusivamente a las personas en riesgo únicamente en aquellos casos en que las medidas generales de orden público adoptadas por el Estado no sean suficientes para reducir la situación de riesgo;
+g) Principio de subsidiariedad: En virtud de la presente Ley, las medidas de protección se aplicarán exclusivamente a las personas en riesgo únicamente en aquellos casos en que las medidas generales de orden público adoptadas por el Estado no sean suficientes para reducir la situación de riesgo;
 
 h) Principio de voluntariedad: Las personas sujetas a protección, expresarán su consentimiento con las medidas de protección a aplicársele por esta Ley.

@@ -22,7 +22,7 @@ h) Apoyar al Ministerio de Relaciones Exteriores, en todas las acciones relativa
 
 i) Recomendar la suscripción o en su caso la adhesión de Instrumentos Internacionales Tratados, Acuerdos o Convenios sobre la materia sean estos de carácter bilateral o multilateral y darle seguimiento a su aplicación;
 
-j) Promover conforme lo establecido en la Constitución Política de la República de Nicaragua y la Ley Nº. 606, Ley Orgánica del Poder Legislativo, que se aprueben iniciativas de Leyes en la lucha contra la narcoactividad y el crimen organizado;
+j) Promover conforme lo establecido en la Constitución Política de la República de Nicaragua y la Ley N°. 606, Ley Orgánica del Poder Legislativo, que se aprueben iniciativas de Leyes en la lucha contra la narcoactividad y el crimen organizado;
 
 k) Crear un centro de documentación nacional e internacional sobre esta materia, para lo cual las entidades que forman el Consejo Nacional deberán suministrar periódicamente información sobre sus actividades en relación a las regulaciones establecidas en la presente Ley;
 

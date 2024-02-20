@@ -4,7 +4,7 @@ Creación del Consejo Nacional Contra el Crimen Organizado
 
 Crease el Consejo Nacional Contra el Crimen Organizado, que en lo sucesivo de esta Ley se denominará el Consejo Nacional, que será el órgano rector del Estado para la elaboración, impulso y evaluación de políticas nacionales, planes y acciones preventivas.
 
-El Consejo Nacional gozará de autonomía funcional, financiera y administrativa. Sesionará en forma ordinaria y obligatoria cuatro veces al año y de forma extraordinaria cuando lo soliciten sus miembros. La solicitud de reuniones extraordinarias deberá hacerse con setenta y dos horas de anticipación como mínimo, a través de la Secretaria Ejecutiva del Consejo Nacional.
+El Consejo Nacional gozará de autonomía funcional, financiera y administrativa. Sesionará en forma ordinaria y obligatoria cuatro veces al año y de forma extraordinaria cuando lo soliciten sus miembros. La solicitud de reuniones extraordinarias deberá hacerse con setenta y dos horas de anticipación como mínimo, a través de la Secretaría Ejecutiva del Consejo Nacional.
 
 El Consejo Nacional rendirá el informe de su gestión anualmente por medio de su Presidente ante el Presidente de la República.
 

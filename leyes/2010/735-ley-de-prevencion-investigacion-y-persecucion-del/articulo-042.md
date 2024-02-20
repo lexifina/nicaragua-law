@@ -8,6 +8,4 @@ Las personas naturales o jurídicas requeridas por el Ministerio Público, en ej
 
 La información bancaria, financiera y tributaria será solicitada de conformidad al procedimiento establecido en esta Ley.
 
-Capítulo VII
-
-De la Unidad Administradora de Bienes Incautados, Decomisados o Abandonados
+DE LA UNIDAD ADMINISTRADORA DE BIENES INCAUTADOS, DECOMISADOS O ABANDONADOS

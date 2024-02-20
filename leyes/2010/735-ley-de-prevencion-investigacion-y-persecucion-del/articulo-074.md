@@ -2,7 +2,7 @@
 
 Medidas adicionales
 
-Además de las medidas de protección señaladas en el artículo anterior, la autoridad central podrá solicitar colaboración a las autoridades policiales, penitenciarias y judiciales, y al Ejército de Nicaragua, para que se adopten las medidas que se enumeran a continuación con el fin de garantizar la seguridad física de las personas sujetas a protección.
+Además de las medidas de protección señaladas en el Artículo anterior, la autoridad central podrá solicitar colaboración a las autoridades policiales, penitenciarias y judiciales, y al Ejército de Nicaragua, para que se adopten las medidas que se enumeran a continuación con el fin de garantizar la seguridad física de las personas sujetas a protección.
 
 1) Medidas Policiales y Penitenciarias:
 

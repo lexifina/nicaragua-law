@@ -2,7 +2,7 @@
 
 Autorización para la entrega controlada
 
-En el caso de la entrega controlada el Director General de la Policía Nacional solicitará al Fiscal General de la República su aplicación, quien otorgará la autorización para el uso de la técnica especial de investigación de entrega controlada en caso de que existan indicios razonables de que se ha cometido un delito a los que se refiere esta Ley o dará comienzo su ejecución, siempre y cuando se cumplan una o varias de las siguientes condiciones:
+En el caso de la entrega controlada el Director o Directora General de la Policía Nacional solicitará al Fiscal General de la República su aplicación, quien otorgará la autorización para el uso de la técnica especial de investigación de entrega controlada en caso de que existan indicios razonables de que se ha cometido un delito a los que se refiere esta Ley o dará comienzo su ejecución, siempre y cuando se cumplan una o varias de las siguientes condiciones:
 
 a) Cuando la investigación del caso aparezca como imposible o sumamente difícil.
 

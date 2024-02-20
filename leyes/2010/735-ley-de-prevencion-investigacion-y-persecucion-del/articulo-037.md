@@ -2,7 +2,7 @@
 
 Medidas cautelares
 
-Además de las establecidas en el Código Procesal Penal, el juez a solicitud del Ministerio Público o de la víctima constituido en acusador particular podrá decretar las siguientes medidas cautelares:
+Además de las establecidas en la Ley N°. 406, Código Procesal Penal de la República de Nicaragua, el juez a solicitud del Ministerio Público o de la víctima constituido en acusador particular podrá decretar las siguientes medidas cautelares:
 
 a) La clausura temporal del negocio o empresa; y
 

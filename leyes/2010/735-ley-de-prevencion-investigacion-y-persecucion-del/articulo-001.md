@@ -2,9 +2,9 @@
 
 Objeto de la Ley
 
-La presente ley tiene por objeto regular las funciones del Estado para prevenir, detectar, investigar, perseguir y procesar los delitos relacionados con el crimen organizado y la administración y disposición de los bienes, objetos, productos, equipos u otros instrumentos utilizados o destinados a ser utilizados en la comisión de los delitos comprendidos en esta Ley.
+La presente Ley tiene por objeto regular las funciones del Estado para prevenir, detectar, investigar, perseguir y procesar los delitos relacionados con el crimen organizado y la administración y disposición de los bienes, objetos, productos, equipos u otros instrumentos utilizados o destinados a ser utilizados en la comisión de los delitos comprendidos en esta Ley.
 
-De igual forma esta ley coordina las políticas, planes y acciones de lucha en contra de estas actividades ilícitas por medio de los órganos competentes del Estado, encargados de preservar el orden interno, la seguridad ciudadana y la soberanía nacional.
+De igual forma esta Ley coordina las políticas, planes y acciones de lucha en contra de estas actividades ilícitas por medio de los órganos competentes del Estado, encargados de preservar el orden interno, la seguridad ciudadana y la soberanía nacional.
 
 Para tal efecto regula:
 

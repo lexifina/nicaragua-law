@@ -10,10 +10,10 @@ La intervención podrá levantarse por resolución judicial, a solicitud del Fis
 
 Los medios en los que se hagan constar las grabaciones serán custodiados por la Policía Nacional.
 
-A efecto de judicial izar los resultados de la intervención, en la audiencia preparatoria del juicio, con asistencia e intervención de las partes, deberán escucharse las grabaciones y seleccionar las que correspondan para su transcripción literal en un acta levantada al efecto. Las partes podrán obtener copia de las transcripciones y de los registros seleccionados.
+A efecto de judicializar los resultados de la intervención, en la audiencia preparatoria del juicio, con asistencia e intervención de las partes, deberán escucharse las grabaciones y seleccionar las que correspondan para su transcripción literal en un acta levantada al efecto. Las partes podrán obtener copia de las transcripciones y de los registros seleccionados.
 
 Los aspectos que sean de interés para ser conocidos en juicio se incorporarán a través de los funcionarios de la Policía Nacional encargados de la investigación, sin perjuicio de que el Fiscal solicite la reproducción parcial de las grabaciones o la lectura del acta indicada en el párrafo anterior.
 
 El juez ordenará la destrucción del material grabado, una vez que se haya dictado con firmeza el sobreseimiento o sentencia de no culpabilidad, salvo que, previamente a solicitud del fiscal se requiera la entrega de las grabaciones para ser aportadas en otro proceso o para efectos de auxilio o colaboración internacional. En todo caso, ordenará la destrucción de las conversaciones e imágenes que no tuvieran relación con lo investigado, salvo que el acusado solicitare que no se destruya para su defensa.
 
-En caso de desestimación, falta de mérito o archivo de la causa, el Fiscal General de la República y el Director General de la Policía Nacional deberán explicar y justificar fehacientemente al juez las razones por la cual no se utilizó la información obtenida y el juez ordenará su destrucción definitiva.
+En caso de desestimación, falta de mérito o archivo de la causa, el Fiscal General de la República y el Director o Directora General de la Policía Nacional deberán explicar y justificar fehacientemente al juez las razones por la cual no se utilizó la información obtenida y el juez ordenará su destrucción definitiva.
