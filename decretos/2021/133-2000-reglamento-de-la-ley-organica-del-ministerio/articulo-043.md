@@ -4,7 +4,7 @@ Reuniones, Sus Fines
 
 Se celebrarán Reuniones Mensuales entre los respectivos Fiscales y Jefes de Policía de cada Departamento o Región, para analizar, evaluar y tomar decisiones, sobre la efectividad de las investigaciones.
 
-Se celebrarán Reuniones bimensuales, entre el Inspector General del Ministerio Público y el Sub-Director General de la Policía Nacional, para consensuar criterios, procurar la unificación de procedimientos o acciones y resolver los problemas, que impidieren una perfecta coordinación de sus Instituciones en la función de la investigación criminal.
+Se celebrarán Reuniones bi-mensuales, entre el Inspector General del Ministerio Público y el Sub-Director o Sub Directora General de la Policía Nacional, para consensuar criterios, procurar la unificación de procedimientos o acciones y resolver los problemas, que impidieren una perfecta coordinación de sus Instituciones en la función de la investigación criminal.
 
 Podrán realizarse Reuniones Extraordinarias, cuando se estimare conveniente, las que deberán ser promovidas por la parte interesada.
 

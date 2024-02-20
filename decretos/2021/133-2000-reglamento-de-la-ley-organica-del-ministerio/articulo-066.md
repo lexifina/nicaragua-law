@@ -1,3 +1,3 @@
 # Artículo 66
 
-Sin vigencia
+Sin vigencia.

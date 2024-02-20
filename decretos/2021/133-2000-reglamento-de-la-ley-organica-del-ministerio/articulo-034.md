@@ -6,7 +6,7 @@ A fin de apoyar al Fiscal General, en los asuntos de su competencia, habrá un s
 
 1. Asesorar y asistir al Fiscal General en el trámite de los asuntos llegados a su conocimiento.
 
-2. Distribuir a los diferentes Órganos de la Institución, las tareas que determine el Fiscal General y velar porque se cumpla lo dispuesto por éste.
+2. Distribuir a los diferentes Órganos de la Institución, las tareas que determine el Fiscal General y velar porque se cumpla lo dispuesto por este.
 
 3. Las demás que le señale el Fiscal General y que guarde relación con la naturaleza del cargo.
 

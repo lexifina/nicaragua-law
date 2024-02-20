@@ -1,5 +1,5 @@
 # Artículo 67
 
-Sin vigencia
+Sin vigencia.
 
 DE LAS DISPOSICIONES FINALES

@@ -1,14 +1,14 @@
-TEXTO CONSOLIDADO, DECRETO EJECUTIVO Nº. 133-2000, REGLAMENTO DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO
+TEXTO CONSOLIDADO, DECRETO EJECUTIVO N°. 133-2000, DECRETO REGLAMENTO DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO
 
-DECRETO EJECUTIVO Nº. 133-2000, aprobado el 15 de octubre de 2020
+DECRETO EJECUTIVO N°. 133-2000, aprobado el 14 de julio de 2023
 
-Publicado en La Gaceta, Diario Oficial N°. 105 del 09 de junio de 2021
+Publicado en La Gaceta, Diario Oficial N°. 32 del 20 de febrero de 2024
 
 Digesto Jurídico Nicaragüense de la Materia de Justicia Penal
 
-El presente texto contiene incorporadas todas sus modificaciones consolidadas al 15 de octubre de 2020, del Decreto Ejecutivo Nº. 133-2000, Reglamento de la Ley Orgánica del Ministerio Público, aprobado el 11 de diciembre de 2000 y publicado en La Gaceta, Diario Oficial Nº. 14 del 19 de enero de 2001, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº.1041, Ley del Digesto Jurídico Nicaragüense de la Materia de Justicia Penal, aprobada el 15 de octubre de 2020.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas del Decreto Ejecutivo N°. 133-2000, Reglamento de la Ley Orgánica del Ministerio Público, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense y la Ley N°. 1159, Ley del Digesto Jurídico Nicaragüense de la Materia de Justicia Penal, aprobada el 14 de julio de 2023.
 
-DECRETO Nº. 133-2000
+DECRETO N°. 133-2000
 
 EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
@@ -18,9 +18,7 @@ HA DICTADO
 
 El siguiente
 
-DECRETO
-
-REGLAMENTO DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO
+DECRETO REGLAMENTO DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO
 
 CAPÍTULO I
 

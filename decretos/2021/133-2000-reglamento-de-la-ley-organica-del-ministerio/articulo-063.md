@@ -1,3 +1,3 @@
 # Artículo 63
 
-Sin vigencia
+Sin vigencia.

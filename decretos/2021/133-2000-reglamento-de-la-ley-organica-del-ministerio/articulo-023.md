@@ -10,4 +10,4 @@ Esta sección será la encargada de organizar los programas de selección e ingr
 
 3. El resto del personal del Ministerio Público, a excepción de los funcionarios nombrados directamente por el Fiscal General, se seleccionarán e ingresarán mediante procedimientos, previamente aprobados por el Fiscal General para lo cual se elaborará el correspondiente Manual de Puestos, Funciones y Requisitos.
 
-Los funcionarios integrantes de ésta Sección, deberán tener la calificación técnica y la experiencia debida que el puesto exige.
+Los funcionarios integrantes de esta Sección, deberán tener la calificación técnica y la experiencia debida que el puesto exige.

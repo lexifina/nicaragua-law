@@ -18,7 +18,7 @@ Para el desarrollo de las funciones descritas en el Artículo 16 de la Ley y de 
 
 7. Coordinar, supervisar y controlar las Fiscalías Departamentales y Regionales, rindiendo informes periódicos al Fiscal General sobre el cumplimiento de las atribuciones que les compete, presentándole las sugerencias o recomendaciones para una mayor efectividad de las mismas.
 
-8. Proponer al Fiscal General, políticas o criterios de persecución penal y una vez aprobadas éstas, velar por su cumplimiento.
+8. Proponer al Fiscal General, políticas o criterios de persecución penal y una vez aprobadas estas, velar por su cumplimiento.
 
 9. Coordinar, previa delegación del Fiscal General, las relaciones con los operadores del Sistema de Justicia a fin de lograr que se establezcan acuerdos, que unifiquen criterios y fijen los procedimientos necesarios.
 
@@ -26,7 +26,7 @@ Para el desarrollo de las funciones descritas en el Artículo 16 de la Ley y de 
 
 11. Brindar asesoría a las Fiscalías Departamentales, Regionales y Auxiliares en el cumplimiento de sus atribuciones, para favorecer el ejercicio de la acción penal.
 
-12. Dirimir los conflictos que, por la tramitación de asuntos propios de su competencia, se susciten entre Fiscalías Departamentales o Regionales.
+12. Dirimir los conflictos que por la tramitación de Asuntos propio de su competencia, se susciten entre fiscalías Departamentales o Regionales.
 
 13. Ejercer la Acción Penal.
 

@@ -28,4 +28,4 @@ Además de las regulaciones indicadas en el Artículo anterior, el Fiscal Genera
 
 12. Nombrar sustitutos por ausencias temporales en cualquiera de las dependencias de la Institución.
 
-13. Las demás que la Constitución, las Leyes y éste Reglamento le atribuyan.
+13. Las demás que la Constitución, las Leyes y este Reglamento le atribuyan.

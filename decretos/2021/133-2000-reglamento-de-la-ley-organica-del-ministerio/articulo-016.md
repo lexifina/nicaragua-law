@@ -16,4 +16,4 @@ Dicha Unidad estará integrada por las Secciones siguientes:
 
 5. Tesorería y Caja.
 
-Los empleados a cargo de estas Secciones, deberán tener la calificación técnica y la debida experiencia que el puesto exige y no podrán conformarlas, los que tengan entre si vinculo de parentesco dentro del cuarto grado de consanguinidad o segundo de afinidad.
+Los empleados a cargo de estas Secciones, deberán tener la calificación técnica y la debida experiencia que el puesto exige y no podrán conformarlas, los que tengan entre sí vínculo de parentesco dentro del cuarto grado de consanguinidad o segundo de afinidad.

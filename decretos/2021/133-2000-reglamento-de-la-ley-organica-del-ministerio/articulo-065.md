@@ -1,3 +1,3 @@
 # Artículo 65
 
-Sin vigencia
+Sin vigencia.
