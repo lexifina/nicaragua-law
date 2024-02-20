@@ -1,6 +1,6 @@
 # Artículo 314
 
-Disposiciones Comunes.
+Disposiciones Comunes
 
 Quedará exento de pena quien antes de sentencia firme solventare las obligaciones correspondientes con la seguridad social, cuando las aportaciones debidas no excedan de tres meses continuos, sin perjuicio de las responsabilidades administrativas, civiles y laborales correspondientes.
 

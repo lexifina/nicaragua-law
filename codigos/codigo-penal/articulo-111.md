@@ -26,15 +26,15 @@ j) Prohibir toda forma de hostigamiento que perturbe la tranquilidad de la ofend
 
 k) Ordenar el decomiso de armas de la persona denunciada.
 
-En el caso de los pueblos indígenas de la Costa Atlántica las medidas serán aplicadas por la autoridad comunal de acuerdo con el derecho consuetudinario y las leyes vigentes.
+En el caso de los pueblos indígenas de la Costa Caribe las medidas serán aplicadas por la autoridad comunal de acuerdo con el derecho consuetudinario y las leyes vigentes.
 
 El Juez o Tribunal podrá ordenar las medidas de protección referidas en los incisos anteriores al momento de tener conocimiento de los delitos. Para su cumplimiento, podrá solicitar el auxilio de la Policía Nacional.
 
-La Policía Nacional y el Ministerio Público en la etapa investigativa solicitarán a la autoridad judicial la aplicación de las medidas de protección referidas en este artículo de forma preventiva, por un plazo que no exceda de diez días.
+La Policía Nacional y el Ministerio Público en la etapa investigativa solicitarán a la autoridad judicial la aplicación de las medidas de protección referidas en este Artículo de forma preventiva, por un plazo que no exceda de diez días.
 
-Cuando el Ministerio Público resuelva no ejercer la acción penal, la víctima o su representante podrán solicitar al juez penal que se apliquen o se mantengan las medidas de protección por el período que tarde en resolver los recursos respectivos.
+Cuando el Ministerio Público resuelva no ejercer la acción penal, la víctima o su representante podrán solicitar al Juez Penal que se apliquen o se mantengan las medidas de protección por el período que tarde en resolver los recursos respectivos.
 
-En caso de incumplimiento por parte del imputado a las medidas de protección ordenadas por el juez, éste procederá a aplicar una medida más grave, a instancia de parte.
+En caso de incumplimiento por parte del imputado a las medidas de protección ordenadas por el Juez, este procederá a aplicar una medida más grave, a instancia de parte.
 
 OTRAS CONSECUENCIAS ACCESORIAS DEL DELITO
 

@@ -2,7 +2,7 @@
 
 Agravantes específicas
 
-Las penas establecidas en el artículo anterior se aumentaran en un tercio en sus límites mínimos y máximos cuando:
+Las penas establecidas en el Artículo anterior se aumentarán en un tercio en sus límites mínimos y máximos cuando:
 
 a) El delito encubierto sea un delito grave;
 

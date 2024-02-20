@@ -1,9 +1,9 @@
 # Artículo 182
 
-Trata de personas con fines de esclavitud, explotación sexual o adopción
+Trata de personas
 
-Quien en ejercicio de poder o valiéndose de amenazas, ofrecimientos, engaños, promueva, facilite, induzca o ejecute la captación, reclutamiento, contratación, transporte, traslado, retención, acogida o recepción de personas, con fines de esclavitud, explotación sexual o adopción, para que la misma sea ejercida dentro o fuera del territorio nacional, aun con el consentimiento de la víctima será sancionado con pena de prisión de siete a diez años.
+Comete el delito de trata de personas, quien organice, financie, dirija, promueva, publicite, gestione, induzca, facilite o quien ejecute la captación directa o indirecta, invite, reclute, contrate, transporte, traslade, vigile, entregue, reciba, retenga, oculte, acoja o aloje a alguna persona con cualquiera de los fines de prostitución, explotación sexual, proxenetismo, pornografía infantil, matrimonio servil, forzado o matrimonio simulado, embarazo forzado, explotación laboral, trabajos o servicios forzados, trabajo infantil, esclavitud o prácticas análogas a la esclavitud, servidumbre, tráfico o extracción ilícita de órganos, tejidos, células o fluidos humanos o cualquiera de sus componentes, experimentación biomédicas clínica o farmacológica ilícitas, participación en actividades de criminalidad organizada, utilización de menores en actividades delictivas, mendicidad o adopción irregular, para que dichos fines sean ejercidos dentro o fuera del territorio nacional.
 
-Si la víctima es una persona menor de dieciocho años, o persona con discapacidad, o el hecho fuere cometido por algún familiar, tutor o encargado de la educación, guarda o custodia, guía espiritual o comparta permanentemente el hogar familiar de la víctima, o medie una relación de confianza, la pena será de diez a doce años de prisión.
+Se aplicará la pena de diez a quince años de prisión y mil días multa, la cancelación de licencia comercial, clausura definitiva del local y el decomiso de los bienes muebles e inmuebles utilizados y los recursos económicos y financieros obtenidos.
 
-Quien venda, ofrezca, entregue, trasfiera o acepte a una niña, niño, o adolescente en la que medie o no, pago o recompensa con fines de explotación sexual, será sancionado con pena de ocho a doce años de prisión. Igual pena se aplicará a quien oferte, posea, adquiera o acepte la venta de una niña, niño o adolescente con fines de adopción ilegítima.
+En ningún caso el consentimiento de la víctima eximirá ni atenuará la responsabilidad penal de las personas que incurran en la comisión del delito de trata de personas.

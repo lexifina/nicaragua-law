@@ -6,4 +6,4 @@ Será sancionado con trescientos a quinientos días multa o pena de prisión de 
 
 a) Reproduzca por incorporación en un circuito integrado, o de cualquier otro modo, de un esquema de trazado protegido, en su totalidad o en cualquiera de sus partes que se considere original.
 
-b) Importe, exporte, venda, distribuya, almacene, un esquema de trazado protegido, un circuito integrado que incorpore ese esquema, o un artículo que contenga un circuito integrado que a su vez incorpore el esquema protegido.
+b) Importe, exporte, venda, distribuya, almacene, un esquema de trazado protegido, un circuito integrado que incorpore ese esquema, o un Artículo que contenga un circuito integrado que a su vez incorpore el esquema protegido.

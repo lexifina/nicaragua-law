@@ -8,4 +8,4 @@ Si el falso testimonio se da en contra del acusado o querellado en causa penal, 
 
 Las penas precedentes se aumentarán en un tercio en sus límites mínimos y máximos, cuando la falsedad sea cometida mediante soborno.
 
-En ningún caso podrá imponerse pena de prisión que exceda la señalada al delito acusado. Si éste estuviera sancionado con pena de otra naturaleza, la pena de prisión será sustituida por la pena de noventa a trescientos días multa, salvo que el delito acusado tenga asignada una pena igual o inferior a ésta en cuyo caso se impondrá al culpable, la mitad del extremo mínimo de la pena que se aplique al delito principal.
+En ningún caso podrá imponerse pena de prisión que exceda la señalada al delito acusado. Si este estuviera sancionado con pena de otra naturaleza, la pena de prisión será sustituida por la pena de noventa a trescientos días multa, salvo que el delito acusado tenga asignada una pena igual o inferior a esta en cuyo caso se impondrá al culpable, la mitad del extremo mínimo de la pena que se aplique al delito principal.

@@ -8,6 +8,6 @@ a) Prohibición de acudir a determinados lugares;
 
 b) Prohibición de ausentarse sin autorización del Juez o Tribunal del lugar donde resida;
 
-c) Cumplir los demás deberes que el Juez o Tribunal estime convenientes para la rehabilitación social del penado, previa conformidad de éste, siempre que no atenten contra su dignidad como persona; o
+c) Cumplir los demás deberes que el Juez o Tribunal estime convenientes para la rehabilitación social del penado, previa conformidad de este, siempre que no atenten contra su dignidad como persona; o
 
 d) Sujeción a la vigilancia de la autoridad, que obligará al penado a presentarse personalmente de manera periódica para informar de sus actividades y justificarlas.

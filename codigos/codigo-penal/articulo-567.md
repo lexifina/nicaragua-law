@@ -6,7 +6,7 @@ El régimen transitorio de este Código, se regirá por las siguientes reglas:
 
 1. Los delitos y faltas cometidos con anterioridad a la entrada en vigencia de este Código se juzgarán conforme al Código Penal de 1974, las leyes que lo reforman y demás leyes especiales que contienen delitos y faltas penales.
 
-2. Una vez que entre en vigencia el presente Código, las disposiciones del mismo tendrán efecto retroactivo, en cuanto favorezcan al acusado o sentenciado. Los jueces podrán proceder de oficio o a instancia de parte a rectificar las sentencias que se hayan dictado antes de la entrada en vigencia de este Código, aplicando la disposición más favorable.
+2. Una vez que entre en vigencia el presente Código, las disposiciones del mismo tendrán efecto retroactivo, en cuanto favorezcan al acusado o sentenciado. Los Jueces podrán proceder de oficio o a instancia de parte a rectificar las sentencias que se hayan dictado antes de la entrada en vigencia de este Código, aplicando la disposición más favorable.
 
 3. Para la determinación de la ley más favorable se debe tener en cuenta además de los elementos típicos y la pena que correspondería al hecho, las circunstancias agravantes o atenuantes, genéricas o específicas, la penalidad correspondiente al concurso de delitos y las causas de exclusión de la responsabilidad penal, si las hubiere. Además se considerarán los beneficios penitenciarios que en cada caso pudieran corresponder.
 
@@ -22,11 +22,11 @@ b) Las penas correccionales corresponderán a pena menos grave.
 
 Las modificaciones que se hicieren al salario mínimo mensual del sector industrial, no se considerarán como variación al tipo penal, a los efectos del principio de aplicación retroactiva de la ley penal más favorable.
 
-7. El plazo de prescripción de la acción penal de causas pendientes en los tribunales al momento de entrar en vigencia el nuevo Código Penal, se regirán por lo establecido en el Código Penal de 1974 y el Código Procesal Penal.
+7. El plazo de prescripción de la acción penal de causas pendientes en los Tribunales al momento de entrar en vigencia el nuevo Código Penal, se regirán por lo establecido en el Código Penal de 1974 y el Código Procesal Penal.
 
-8. Para los efectos de este Código, el delito de asesinato contemplado en el artículo 140 se equipara al asesinato atroz contenido en el artículo 135 del Código Penal de 1974 que se deroga. En consecuencia, a los acusados por el delito de asesinato atroz de acuerdo al Código Penal derogado se les continuará el proceso por el delito de asesinato y aquellos condenados por el mismo delito se les revisará la sanción conforme a la pena del asesinato del presente Código Penal.
+8. Para los efectos de este Código, el delito de asesinato contemplado en el Artículo 140 se equipara al asesinato atroz contenido en el Artículo 135 del Código Penal de 1974 que se deroga. En consecuencia, a los acusados por el delito de asesinato atroz de acuerdo al Código Penal derogado se les continuará el proceso por el delito de asesinato y aquellos condenados por el mismo delito se les revisará la sanción conforme a la pena del asesinato del presente Código Penal.
 
-9. Los acusados o sentenciados por el delito de infanticidio establecido en el artículo 136 del Código derogado, deberán ser juzgados por el delito de homicidio agravado por la circunstancia contemplada en el artículo 36 numeral 2 del presente Código, y en los casos de condena por este delito, ésta deberá ser revisada conforme a esta disposición.
+9. Los acusados o sentenciados por el delito de infanticidio establecido en el Artículo 136 del Código Penal derogado, deberán ser juzgados por el delito de homicidio agravado por la circunstancia contemplada en el Artículo 36 numeral 2 del presente Código, y en los casos de condena por este delito, esta deberá ser revisada conforme a esta disposición.
 
 10. Las disposiciones del Código Penal de 1974 y sus reformas, y las del Código Procesal Penal en las que se haga referencia a las injurias graves, se corresponde al delito de injurias conforme a este Código.
 

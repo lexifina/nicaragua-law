@@ -2,7 +2,7 @@
 
 Circunstancias agravantes
 
-En el caso del artículo anterior la pena se agravará en un tercio en sus extremos mínimo y máximo.
+En el caso del Artículo anterior la pena se agravará en un tercio en sus extremos mínimo y máximo.
 
 a) Si el hecho se cometió con arma de fuego;
 

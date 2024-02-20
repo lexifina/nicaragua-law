@@ -6,4 +6,4 @@ El nicaragüense que en un conflicto armado internacional tome la armas contra N
 
 Las mismas penas se impondrán al que indujere a un Estado extranjero a declarar la guerra a Nicaragua o concertare con ella para el mismo fin.
 
-Si el autor fuese autoridad, funcionario o empleado público, las penas anteriores se aumentaran en un tercio.
+Si el autor fuese autoridad, funcionario o empleado público, las penas anteriores se aumentarán en un tercio.

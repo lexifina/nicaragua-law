@@ -1,6 +1,6 @@
 # Artículo 249
 
-Delitos contra señales Satelitales protegidas
+Delitos contra señales satelitales protegidas
 
 Quien contraviniendo la ley de la materia y con el propósito de obtener un beneficio económico para sí o para un tercero, realice cualquiera de los siguientes actos sin autorización escrita del titular del derecho:
 

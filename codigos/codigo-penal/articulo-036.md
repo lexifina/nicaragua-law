@@ -14,7 +14,7 @@ Son circunstancias agravantes:
 
 5. Discriminación. Cuando se comete el delito por motivos raciales, u otra clase de discriminación referida a la ideología u opción política, religión o creencias de la víctima; etnia, raza o nación a la que pertenezca; sexo u orientación sexual; o enfermedad o discapacidad que padezca.
 
-6. Ensañamiento. Aumentar deliberada e inhumanamente el sufrimiento de la víctima y causar a ésta padecimientos innecesarios para la ejecución del delito.
+6. Ensañamiento. Aumentar deliberada e inhumanamente el sufrimiento de la víctima y causar a esta padecimientos innecesarios para la ejecución del delito.
 
 7. Abuso de confianza. Cuando para ejecutar el hecho se aprovecha de la posición alcanzada como consecuencia de la confianza depositada por la víctima o perjudicado, en violación de los principios de lealtad y fidelidad derivados por los vínculos de amistad, parentesco o de servicio.
 
@@ -24,7 +24,7 @@ Son circunstancias agravantes:
 
 10. Personas protegidas por el derecho internacional. Las personas a quienes se les reconoce este estatuto en virtud de instrumentos internacionales ratificados por Nicaragua.
 
-11. Prevalimiento en razón de género. Cuando el hecho realizado se ejecuta aprovechándose de una relación de dependencia, autoridad o afinidad, para causar perjuicio a otra persona en razón de su sexo; ya sea que deriven esas relaciones del matrimonio, unión de hecho estable u otra relación de afinidad o laboral y aún cuando la relación hubiera cesado.
+11. Prevalimiento en razón de género. Cuando el hecho realizado se ejecuta aprovechándose de una relación de dependencia, autoridad o afinidad, para causar perjuicio a otra persona en razón de su sexo; ya sea que deriven esas relaciones del matrimonio, unión de hecho estable u otra relación de afinidad o laboral y aun cuando la relación hubiera cesado.
 
 El aumento de la pena no podrá superar, por ningún motivo, el máximo establecido para el delito cometido.
 

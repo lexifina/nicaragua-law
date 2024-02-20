@@ -2,7 +2,7 @@
 
 Experimentos en seres humanos
 
-Quien realice experimentos médicos, químicos, bioquímicos, fisiológicos o síquicos sobre una persona, sin el consentimiento de ésta, y sin autorización del órgano competente, será sancionado con prisión de dos a cuatro años e inhabilitación especial de seis a ocho años para ejercer profesión u oficio relacionado con la conducta.
+Quien realice experimentos médicos, químicos, bioquímicos, fisiológicos o síquicos sobre una persona, sin el consentimiento de esta, y sin autorización del órgano competente, será sancionado con prisión de dos a cuatro años e inhabilitación especial de seis a ocho años para ejercer profesión u oficio relacionado con la conducta.
 
 Si los experimentos se hubieran realizado sobre un grupo de más de diez personas se impondrá prisión de cuatro a seis años y la pena de inhabilitación especial señalada tendrá una duración de ocho a diez años.
 

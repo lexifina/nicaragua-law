@@ -2,7 +2,7 @@
 
 Responsabilidad Civil
 
-Toda persona penalmente responsable de un delito o falta lo es también civilmente si del hecho se derivan daños o perjuicios. Si son dos o más los responsables de un delito o falta los jueces o tribunales señalarán la cuota por la que deba responder cada uno.
+Toda persona penalmente responsable de un delito o falta lo es también civilmente si del hecho se derivan daños o perjuicios. Si son dos o más los responsables de un delito o falta los Jueces o Tribunales señalarán la cuota por la que deba responder cada uno.
 
 Los autores, los inductores, los cooperadores necesarios y los cómplices, cada uno dentro de su respectiva clase, serán responsables solidariamente entre sí por sus cuotas, y subsidiariamente por las correspondientes a los demás responsables.
 

@@ -4,7 +4,7 @@ Hurto agravado
 
 El hurto será sancionado con pena de prisión de dos a cinco años y de ciento veinte a trescientos días multa en los casos siguientes, cuando:
 
-a) Se corneta con abuso de confianza o con auxilio de un doméstico o dependiente del ofendido o haciendo uso de nombre supuesto, o simulando autoridad, orden de ella o representación que no se tiene;
+a) Se cometa con abuso de confianza o con auxilio de un doméstico o dependiente del ofendido o haciendo uso de nombre supuesto, o simulando autoridad, orden de ella o representación que no se tiene;
 
 b) Se trate de equipaje o valores de viajero, en cualquier clase de vehículos o en los estacionamientos o terminales de las empresas de transporte, aduanas aéreas o terrestres. Igual se dará si el hurto se da en correspondencias o bienes enviados por correo, recintos aduaneros y similares;
 

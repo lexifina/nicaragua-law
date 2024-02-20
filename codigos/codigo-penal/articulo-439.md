@@ -1,6 +1,6 @@
 # Artículo 439
 
-No comparecencia ante Asamblea Nacional
+No comparecencia ante la Asamblea Nacional
 
 El funcionario, autoridad o empleado público que habiendo sido debidamente citado por la Asamblea Nacional, para comparecer en asuntos de su competencia, y sin justa causa, se niegue a comparecer u omita, oculte o altere información requerida, será sancionado de seis meses a un año de prisión e inhabilitación para ejercer cargo o empleo público por el mismo período.
 

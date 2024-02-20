@@ -6,7 +6,7 @@ La estafa será sancionada con prisión de tres a seis años y de trescientos a 
 
 a) Cuando su objeto lo constituyan viviendas o terrenos destinados a la construcción de aquellas u otros bienes de reconocida utilidad social;
 
-b) Cuando se cometa con abuso de las relaciones personales existentes entre la víctima y el estafador, o éste aproveche su credibilidad empresarial o profesional;
+b) Cuando se cometa con abuso de las relaciones personales existentes entre la víctima y el estafador, o este aproveche su credibilidad empresarial o profesional;
 
 c) Cuando recaiga sobre bienes que integren el patrimonio histórico, cultural o científico de la nación;
 

@@ -2,7 +2,7 @@
 
 Alcance
 
-La responsabilidad establecida en el artículo anterior comprende:
+La responsabilidad establecida en el Artículo anterior comprende:
 
 a) La restitución;
 

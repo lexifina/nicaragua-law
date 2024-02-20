@@ -6,19 +6,21 @@ Las penas se clasifican en principales y accesorias:
 
 Son penas principales:
 
-a) La prisión;
+a) La prisión perpetua revisable;
 
-b) La privación de otros derechos;
+b) La prisión;
 
-c) Días multa;
+c) La privación de otros derechos;
 
-d) La multa.
+d) Días multas;
 
-Son penas accesorias las que por su naturaleza o por disposición de la ley van unidas a otras penas principales, siendo éstas:
+e) La multa.
+
+Son penas accesorias las que por su naturaleza o por disposición de la ley van unidas a otras penas principales, siendo estas:
 
 a) La privación de otros derechos;
 
-b) Días multa;
+b) Días multas;
 
 c) La multa.
 

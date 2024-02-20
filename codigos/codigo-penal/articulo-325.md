@@ -12,6 +12,6 @@ c) Evitando o impidiendo la reparación de desperfectos de obras o instalaciones
 
 Si de esos actos se derivare un estrago o desastre, la pena será de cuatro a seis años de prisión.
 
-Los actos previstos en el presente artículo también serán punibles con prisión de cuatro a seis años, cuando sean ejecutados con el propósito de impedir o dificultar las tareas de defensa o salvamento contra un desastre ocurrido en contra de obras o instalaciones de energía eléctrica o de sustancias energéticas.
+Los actos previstos en el presente Artículo también serán punibles con prisión de cuatro a seis años, cuando sean ejecutados con el propósito de impedir o dificultar las tareas de defensa o salvamento contra un desastre ocurrido en contra de obras o instalaciones de energía eléctrica o de sustancias energéticas.
 
 DELITOS CONTRA LA CIRCULACIÓN, LA SEGURIDAD DE TRÁNSITO Y LOS MEDIOS CONDUCTORES

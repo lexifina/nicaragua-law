@@ -6,7 +6,7 @@ El que a bordo de una aeronave en vuelo, mediante violencia, amenaza de violenci
 
 La misma pena se impondrá a quien:
 
-a) Destruya una aeronave en tierra que estén en servicio o le cause daño que la incapacite para el vuelo o que por su naturaleza constituya un peligro para la seguridad de la aeronave en vuelo;
+a) Destruya una aeronave en tierra que esté en servicio o le cause daño que la incapacite para el vuelo o que por su naturaleza constituya un peligro para la seguridad de la aeronave en vuelo;
 
 b) Coloque o haga colocar en una aeronave en servicio, por cualquier medio, un artefacto o sustancia capaz de destruirla o de causarle daño que la incapaciten para el vuelo o que por su naturaleza constituyan un peligro para la seguridad de la aeronave en vuelo;
 

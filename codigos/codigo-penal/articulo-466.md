@@ -8,6 +8,6 @@ Si la conducta anterior fuere realizada por imprudencia temeraria, será sancion
 
 Serán sancionados con las mismas penas señaladas en el párrafo anterior:
 
-a) el abogado que habiendo asesorado, defendido o representado a una persona, asesorare, defendiere o representare en el mismo asunto a quien tenga intereses contradictorios; o
+a) El abogado que habiendo asesorado, defendido o representado a una persona, asesorare, defendiere o representare en el mismo asunto a quien tenga intereses contradictorios; o
 
-b) el abogado que destruyere, inutilizare u ocultare documentos o información a los que hubiere tenido acceso en razón de su profesión, con perjuicio para los intereses de la parte que representa, asiste o asesora.
+b) El abogado que destruyere, inutilizare u ocultare documentos o información a los que hubiere tenido acceso en razón de su profesión, con perjuicio para los intereses de la parte que representa, asiste o asesora.

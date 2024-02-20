@@ -2,14 +2,14 @@
 
 Asesinato
 
-El que prive de la vida a otro concurriendo alguna de las circunstancias siguientes:
+Se impondrá la pena de veinte a veinticinco años de prisión a quien prive de la vida a otro concurriendo alguna de las circunstancias siguientes:
 
-a) Alevosía;
+1) Alevosía;
 
-b) Ensañamiento;
+2) Precio, recompensa o promesa remuneratoria;
 
-c) Precio, recompensa o promesa remuneratoria.
+3) Ensañamiento;
 
-Se le impondrá una pena de quince a veinte años de prisión.
+4) De noche, en lugar poblado, o en despoblado o en caminos;
 
-Cuando concurran dos o más de las circunstancias señaladas en este artículo, el responsable de asesinato será penado con prisión de veinte a treinta años.
+5) Cuando el acto se ejecute en presencia de otras personas con el objeto de causar intimidación y crear zozobra en la sociedad.

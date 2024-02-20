@@ -9,3 +9,5 @@ Quien promueva, financie, fabrique, reproduzca, publique, comercialice, importe,
 Quien con fines de explotación sexual, posea material pornográfico o erótico en los términos expresado en el párrafo anterior, será castigado con la pena de uno a dos años de prisión.
 
 Quien ejecute acto sexual o erótico con persona mayor de catorce años y menor de dieciocho años de edad de cualquier sexo, pagando o prometiéndole pagar o darle a cambio ventaja económica o de cualquier naturaleza, será sancionado con pena de prisión de cinco a siete años.
+
+Para los fines establecidos en este Código y en las leyes especiales, se entenderá por explotación sexual todo tipo de actividad en que se usa el cuerpo de un menor de dieciocho años de edad o incapaz, aun así sea con su consentimiento, para sacar ventaja o provecho de carácter sexual, erótico, económico, comercial, de reconocimiento público, publicitario o de cualquier otra índole.

@@ -4,7 +4,7 @@ Armas y métodos de combate prohibidos
 
 Quien, con ocasión de un conflicto armado internacional o interno, utilice medios y métodos de guerra prohibidos destinados a causar sufrimientos o pérdidas innecesarios o males superfluos, será sancionado con pena de cinco a diez años de prisión.
 
-Para los efectos del presente artículo los medios prohibidos de guerra son:
+Para los efectos del presente Artículo los medios prohibidos de guerra son:
 
 a) El veneno o armas envenenadas;
 
@@ -18,7 +18,7 @@ e) Las armas cuyo efecto principal sea lesionar mediante fragmentos que no pueda
 
 f) Las minas, armas trampas y otros artefactos similares.
 
-Para efectos de este artículo las minas, armas trampas y otros artefactos similares son:
+Para efectos de este Artículo las minas, armas trampas y otros artefactos similares son:
 
 Las minas, armas trampa y otros artefactos provistos de un mecanismo o dispositivo concebido específicamente para hacer detonar la munición ante la presencia de detectores de minas fácilmente disponibles como resultado de su influencia magnética u otro tipo de influencia que no sea el contacto directo durante su utilización normal en operaciones de detección, prohibidas por el Protocolo sobre Prohibiciones o Restricciones del Empleo de Minas, Armas Trampa y Otros Artefactos según fue enmendado el 3 de mayo de 1996.
 

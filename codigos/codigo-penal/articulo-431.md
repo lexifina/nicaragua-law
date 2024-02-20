@@ -1,6 +1,6 @@
 # Artículo 431
 
-Suspensión de Garantías constitucionales
+Suspensión de garantías constitucionales
 
 La autoridad, funcionario o empleado público que fuera de los casos previstos en la Constitución Política de la República de Nicaragua suspenda total o parcialmente, en parte o en todo el territorio nacional, derechos, libertades o garantías establecidas en ella, será sancionado con pena de cinco a diez años de prisión.
 

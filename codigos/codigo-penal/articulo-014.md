@@ -6,6 +6,6 @@ Las leyes penales nicaragüenses son aplicables a los hechos previstos en ellas 
 
 a) Que el hecho sea punible en el lugar de la ejecución;
 
-b) Que la víctima, ofendido o agraviado o la representación del Estado interponga acusación ante los juzgados o tribunales nicaragüenses;
+b) Que la víctima, ofendido o agraviado o la representación del Estado interponga acusación ante los Juzgados o Tribunales nicaragüenses;
 
-c) Que el delincuente no haya sido absuelto, amnistiado o indultado o no haya cumplido la condena en el extranjero. Si sólo la hubiera cumplido en parte, se le tendrá en cuenta para rebajarle proporcionalmente lo que le corresponda. En el caso de indulto, éste deberá llenar los requisitos de la ley especial.
+c) Que el delincuente no haya sido absuelto, amnistiado o indultado o no haya cumplido la condena en el extranjero. Si sólo la hubiera cumplido en parte, se le tendrá en cuenta para rebajarle proporcionalmente lo que le corresponda. En el caso de indulto, este deberá llenar los requisitos de la ley especial.

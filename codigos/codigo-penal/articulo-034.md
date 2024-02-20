@@ -10,7 +10,7 @@ Está exento de responsabilidad penal quien:
 
 3. Por sufrir alteraciones en la percepción desde el nacimiento o desde la infancia, tenga alterada gravemente la conciencia de la realidad.
 
-4. Actúe en legítima defensa de la persona o derechos propios o ajenos, siempre que concurran los requisitos siguientes.
+4. Actúe en legítima defensa de la persona o derechos propios o ajenos, siempre que concurran los requisitos siguientes:
 
 a) Agresión ilegítima; en caso de defensa de los bienes se considerará agresión ilegítima, el ataque a los mismos que constituya delito y los ponga en grave peligro de deterioro o pérdida inminentes. En caso de agresión ilegítima a la morada y sus dependencias, se considerará la entrada indebida en una u otras;
 
@@ -40,10 +40,10 @@ c) El necesitado no tenga, por su oficio o cargo, obligación de sacrificarse.
 
 a) Que la orden dimane de autoridad competente para expedirla y esté revestida de las formalidades exigidas por la ley;
 
-b) Que el agente esté jerárquicamente subordinado a quien expida la orden; y,
+b) Que el agente esté jerárquicamente subordinado a quien expida la orden; y
 
 c) Que la orden no revista el carácter de una evidente infracción punible.
 
-En los supuestos de los tres primeros numerales de este artículo se aplicarán, si corresponde, las medidas de seguridad previstas en este Código.
+En los supuestos de los tres primeros numerales de este Artículo se aplicarán, si corresponde, las medidas de seguridad previstas en este Código.
 
 CIRCUNSTANCIAS QUE ATENÚAN LA RESPONSABILIDAD PENAL

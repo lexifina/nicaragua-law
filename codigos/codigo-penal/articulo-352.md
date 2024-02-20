@@ -8,4 +8,4 @@ Se impondrá la pena de cuatro a ocho años de prisión al que con el mismo fin,
 
 Cuando el transporte sea internacional, la pena por imponer será de diez a veinte años de prisión, y de quinientos a mil días de multa.
 
-Para los efectos de este artículo se entenderá como medio para el transporte cualquier medio sea este terrestre, aéreo, marítimo, fluvial, o cualquier otro objeto que pueda utilizarse para el fin previsto.
+Para los efectos de este Artículo se entenderá como medio para el transporte cualquier medio sea este terrestre, aéreo, marítimo, fluvial, o cualquier otro objeto que pueda utilizarse para el fin previsto.

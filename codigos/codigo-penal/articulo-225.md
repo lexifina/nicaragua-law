@@ -16,8 +16,8 @@ a) Por dos o más personas;
 
 b) De noche, en lugar despoblado, solitario o en casa de habitación;
 
-c) Con armas u otro medios igualmente peligrosos para cometer el delito; o
+c) Con armas u otros medios igualmente peligrosos para cometer el delito; o
 
-d) Bajo alguna de las circunstancias establecidas en los literales b), d), e), f), g) o i) del artículo de hurto agravado.
+d) Bajo alguna de las circunstancias establecidas en los literales b), d), e), f), g) o i) del Artículo de hurto agravado.
 
 Se aplicará la pena de prisión en su mitad superior, cuando concurran dos o más de las circunstancias descritas en los numerales anteriores.

@@ -1,6 +1,6 @@
 # Artículo 10
 
-Interpretación extensiva y aplicación analógica.
+Interpretación extensiva y aplicación analógica
 
 Se prohíbe en materia penal la interpretación extensiva y la aplicación analógica para:
 

@@ -2,7 +2,7 @@
 
 Reproducción ilícita
 
-Será sancionado con trescientos a quinientos días multa o prisión de uno a tres años e inhabilitación especial por el mismo período para ejercer cargo, profesión, oficio, industria o comercio relacionado con la conducta delictiva, quien contraviniendo la Ley de la materia y con el propósito de obtener un beneficio económico para sí o para un tercero, realice cualquiera de los siguientes actos sin autorización escrita del titular del derecho:
+Será sancionado con trescientos a quinientos días multa o prisión de uno a tres años e inhabilitación especial por el mismo período para ejercer cargo, profesión, oficio, industria o comercio relacionado con la conducta delictiva, quien contraviniendo la ley de la materia y con el propósito de obtener un beneficio económico para sí o para un tercero, realice cualquiera de los siguientes actos sin autorización escrita del titular del derecho:
 
 a) La reproducción, total o parcial, de una obra o fonograma por cualquier medio, forma o procedimiento;
 

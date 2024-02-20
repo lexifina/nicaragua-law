@@ -4,7 +4,7 @@ Circunstancias agravantes
 
 Las penas señaladas para el secuestro extorsivo serán de diez a doce años de prisión, si concurre alguna de las siguientes circunstancias:
 
-a) Que la víctima sea persona con discapacidad o se encuentre gravemente enferma de manera tal que la sitúe en notorio estado de indefensión, menor de trece años, mujer embarazada o persona mayor de sesenta y cinco años.
+a) Que la víctima sea persona con discapacidad o se encuentre gravemente enferma de manera tal que la sitúe en notorio estado de indefensión, menor de trece años, mujer embarazada o persona mayor de sesenta y cinco años;
 
 b) Que la privación de libertad se prolongare por más de diez días;
 

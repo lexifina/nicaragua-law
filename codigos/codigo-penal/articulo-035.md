@@ -6,7 +6,7 @@ Son circunstancias atenuantes:
 
 1. Eximentes incompletas. Las causas expresadas en el capítulo anterior, cuando no concurran todos los requisitos necesarios para eximir de responsabilidad penal en sus respectivos casos.
 
-2. Disminución psíquica por perturbación. La de actuar el culpable a causa de perturbación que no comprenda la eximente establecida en el numeral 2 del artículo 34.
+2. Disminución psíquica por perturbación. La de actuar el culpable a causa de perturbación que no comprenda la eximente establecida en el numeral 2 del Artículo 34.
 
 3. Declaración espontánea. Haber aceptado los hechos en la primera declaración ante Juez o Tribunal competente.
 

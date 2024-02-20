@@ -2,7 +2,7 @@
 
 Peculado
 
-La autoridad, funcionario o empleado público que sustraiga, apropie, distraiga o consienta, que otro sustraiga, apropie o distraiga bienes, caudales, valores o efectos públicos, cuya administración, tenencia o custodia le hayan sido confiados por razón de su cargo en funciones en la administración pública, órganos, dependencias, entes desconcentrados, descentralizados, autónomos o empresas del Estado del Municipio y de las Regiones Autónomas, para obtener para sí o para tercero un beneficio, será penado con prisión de cuatro a diez años, e inhabilitación absoluta por el mismo período.
+La autoridad, funcionario o empleado público que sustraiga, apropie, distraiga o consienta, que otro sustraiga, apropie o distraiga bienes, caudales, valores o efectos públicos, cuya administración, tenencia o custodia le hayan sido confiados por razón de su cargo en funciones en la administración pública, órganos, dependencias, entes desconcentrados, descentralizados, autónomos o empresas del Estado, del Municipio y de las Regiones Autónomas, para obtener para sí o para tercero un beneficio, será penado con prisión de cuatro a diez años, e inhabilitación absoluta por el mismo período.
 
 Si los bienes, caudales, valores o efectos sustraídos, apropiados o distraídos hubieran sido declarados de valor cultural, paleontológico, históricos, artísticos, arqueológico, o si se trata de efectos destinados a aliviar alguna calamidad pública, se impondrá la pena de seis a doce años de prisión e inhabilitación absoluta por el mismo período.
 

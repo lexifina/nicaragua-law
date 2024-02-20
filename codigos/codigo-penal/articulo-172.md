@@ -6,4 +6,4 @@ Quien realice actos lascivos o lúbricos tocamientos en otra persona, sin su con
 
 Cuando en la comisión del delito se dé alguna de las circunstancias de la violación agravada, la pena será de siete a doce años de prisión. Si concurren dos o más de dichas circunstancias o la víctima sea niña, niño, o adolescente se impondrá la pena máxima.
 
-No se reconoce, en ninguno de los supuestos, valor al consentimiento de la víctima cuando ésta sea menor de catorce años de edad, o persona con discapacidad o enfermedad mental.
+No se reconoce, en ninguno de los supuestos, valor al consentimiento de la víctima cuando esta sea menor de catorce años de edad, o persona con discapacidad o enfermedad mental.

@@ -2,7 +2,7 @@
 
 Circunstancias agravantes especiales
 
-Los extremos mínimos y máximos de las penas establecidas en los artículos anteriores, serán aumentadas en un tercio, cuando el delito:
+Los extremos mínimos y máximos de las penas establecidas en los Artículos anteriores, serán aumentadas en un tercio, cuando el delito:
 
 a) Recaiga en reservorios de agua destinada para consumo humano;
 

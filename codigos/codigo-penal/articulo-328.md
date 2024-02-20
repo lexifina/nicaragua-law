@@ -6,7 +6,7 @@ Será penado con prisión de cinco a ocho años, quien:
 
 a) Practique en el mar, en el aire, en lagos o en ríos navegables, algún acto de depredación o violencia contra embarcación de cualquier calado o aeronave, o contra las personas o cosas que en ella se encuentren;
 
-b) Estando dentro se apodere de alguna de embarcación, aeronave o de lo que pertenezca a su carga, equipaje o aperos, por medio de engaño o violencia cometida contra su comandante o encargado de ésta o su tripulación;
+b) Estando dentro se apodere de alguna de embarcación, aeronave o de lo que pertenezca a su carga, equipaje o aperos, por medio de engaño o violencia cometida contra su comandante o encargado de esta o su tripulación;
 
 c) En connivencia con piratas, entregue o facilite el apoderamiento de una embarcación o aeronave, su carga, los bienes o las personas que en ella se encuentren;
 

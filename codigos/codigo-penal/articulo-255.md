@@ -10,4 +10,4 @@ b) La fabricación, reproducción, venta, almacenamiento o distribución de etiq
 
 c) La utilización con fines comerciales de envases, envolturas o embalajes que lleven una marca registrada o signo distintivo con el propósito de dar la apariencia que contienen el producto original; y
 
-d) La fabricación, venta, almacenamiento o distribución del producto que lleve una indicación geográfica o denominación de origen falsa aun cuando se indique el verdadero origen del producto o se use acompañada de expresiones como "tipo", "género", "manera", "imitación" u otras análogas.
+d) La fabricación, venta, almacenamiento o distribución del producto que lleve una indicación geográfica o denominación de origen falsa aun cuando se indique el verdadero origen del producto o se use acompañada de expresiones como “tipo”, “género”, “manera”, “imitación” u otras análogas.

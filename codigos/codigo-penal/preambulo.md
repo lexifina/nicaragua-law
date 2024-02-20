@@ -1,14 +1,18 @@
-LEY N°. 641, CÓDIGO PENAL
+TEXTO CONSOLIDADO, LEY Nº. 641, LEY CÓDIGO PENAL
 
-Aprobada el 13 de noviembre de 2007
+Aprobado el 14 de julio de 2023
 
-Publicada en La Gaceta, Diario Oficial N°. 83, 84, 85, 86 y 87 del 5, 6, 7, 8 y 9 de mayo de 2008
+Publicado en La Gaceta, Diario Oficial N°. 32 del 20 de febrero de 2024
+
+Digesto Jurídico Nicaragüense de la Materia de Justicia Penal
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 14 de julio de 2023, de la Ley N°. 641, Código Penal, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense y la Ley N°. 1159, Ley del Digesto Jurídico Nicaragüense de la Materia de Justicia Penal, aprobada el 14 de julio de 2023.
+
+LEY N°. 641
 
 El Presidente de la República de Nicaragua
 
-A sus habitantes,
-
-Sabed:
+A sus habitantes, Sabed:
 
 Que,
 

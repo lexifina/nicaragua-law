@@ -10,6 +10,8 @@ b) Los de falsificación de firma o sellos oficiales u otras falsificaciones que
 
 c) La falsificación de monedas, títulos valores o valores negociables o billetes de banco cuya emisión esté autorizada por la ley;
 
-d) Los realizados en el ejercicio de sus funciones por autoridades, funcionarios y empleados públicos nicaragüenses residentes en el extranjero o acreditados en sedes diplomáticas y los delitos contra la administración pública nicaragüense y contra sus funcionarios.
+d) Los realizados en el ejercicio de sus funciones por autoridades, funcionarios y empleados públicos nicaragüenses residentes en el extranjero o acreditados en sedes diplomáticas y los delitos contra la administración pública nicaragüense y contra sus funcionarios;
 
-Para todos los supuestos expresados en este artículo rige el literal c) contenido en el artículo 14.
+e) Los realizados en las sedes diplomáticas de Nicaragua en el extranjero.
+
+Para todos los supuestos expresados en este Artículo rige el literal c) contenido en el Artículo 14.

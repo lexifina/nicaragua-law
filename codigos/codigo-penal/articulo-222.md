@@ -32,6 +32,6 @@ m) Siendo Director o responsable de matadero dispense la presentación de la car
 
 Si el apoderamiento se cometiere mediante fuerza sobre las cosas, la pena será de tres a ocho años de prisión. Si se ejecutare con violencia o intimidación sobre las personas, la pena será de cuatro a diez años de prisión. En ambos casos también se impondrá de doscientos a seiscientos días multa.
 
-La pena será de cuatro a dieciocho años de prisión y de doscientos a seiscientos días multa e inhabilitación especial por el mismo periodo de la pena impuesta si el hecho fuera realizado por autoridad, funcionario o empleado público.
+La pena será de cuatro a dieciocho años de prisión y de doscientos a seiscientos días multa e inhabilitación especial por el mismo período de la pena impuesta si el hecho fuera realizado por autoridad, funcionario o empleado público.
 
 DEL ROBO

@@ -2,7 +2,7 @@
 
 Medidas de seguridad
 
-Las medidas de seguridad se fundamentan en la peligrosidad criminal del sujeto al que se impongan, exteriorizada en la comisión de un hecho previsto como delito. Las medidas de seguridad se aplicarán exclusivamente por el Juez o Tribunal en sentencia, a las personas que se encuentren en los supuestos previstos en el capítulo siguiente de este Título, siempre que concurran estas circunstancias:
+Las medidas de seguridad se fundamentan en la peligrosidad criminal del sujeto al que se impongan, exteriorizada en la comisión de un hecho previsto como delito. Las medidas de seguridad se aplicarán exclusivamente por el Juez o Tribunal en sentencia, a las personas que se encuentren en los supuestos previstos en el Capítulo siguiente de este Título, siempre que concurran estas circunstancias:
 
 a) Que el sujeto haya cometido un hecho previsto como delito, según sentencia firme;
 

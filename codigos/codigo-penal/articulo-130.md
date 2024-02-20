@@ -24,6 +24,6 @@ i) Los demás casos expresamente señalados por la ley.
 
 En los casos en que la ley lo permita, el perdón del ofendido podrá ser otorgado en cualquier momento del proceso y de la ejecución de la pena.
 
-En los delitos o faltas contra niñas, niños, adolescentes menores de dieciocho años o personas con problemas de discapacidad, los jueces o tribunales, oído el Ministerio Público, podrán rechazar la eficacia del perdón otorgado por los representantes de aquéllos, y ordenar el cumplimiento de la condena o la continuación del procedimiento.
+En los delitos o faltas contra niñas, niños, adolescentes menores de dieciocho años o personas con problemas de discapacidad, los Jueces o Tribunales, oído el Ministerio Público, podrán rechazar la eficacia del perdón otorgado por los representantes de aquéllos, y ordenar el cumplimiento de la condena o la continuación del procedimiento.
 
 Para rechazar el perdón a que se refiere el párrafo anterior, el Juez o Tribunal deberá oír nuevamente al representante de los niños, niñas, adolescentes o discapacitados.

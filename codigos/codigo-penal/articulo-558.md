@@ -12,4 +12,4 @@ c) Informe negligentemente sobre los requisitos o condiciones necesarias para re
 
 d) No atienda al público en las horas habilitadas para ello.
 
-FALTAS RELATIVA A ESTUPEFACIENTES PSICOTRÓPICOS Y OTRAS SUSTANCIAS CONTROLADAS
+FALTAS RELATIVA A ESTUPEFACIENTES, PSICOTRÓPICOS Y OTRAS SUSTANCIAS CONTROLADAS

@@ -1,6 +1,6 @@
 # Artículo 301
 
-Derribamiento o alteración grave de edificios de interés histórico, artístico, cultural o monumental
+Derriba miento o alteración grave de edificios de interés histórico, artístico, cultural o monumental
 
 Quien contraviniendo las leyes, reglamentos o normativas de planificación urbana, derribe o altere gravemente un edificio o un conjunto urbano o rural protegidos por su interés histórico, artístico, cultural o monumental, será sancionado con la pena de seis meses a tres años de prisión.
 

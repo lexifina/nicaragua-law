@@ -10,6 +10,6 @@ b) Prisión de seis meses a un año y de noventa a trescientos días multa si se
 
 La pena será de tres a ocho años de prisión, si resultare la condena de la persona inocente.
 
-No podrá procederse contra el denunciante o acusador particular, sino tras sentencia de no culpabilidad o de sobreseimiento firme o auto, también firme de rechazo de la acusación por falta de mérito dictado por juez competente.
+No podrá procederse contra el denunciante o acusador particular, sino tras sentencia de no culpabilidad o de sobreseimiento firme o auto, también firme de rechazo de la acusación por falta de mérito dictado por Juez competente.
 
 Sin perjuicio de las responsabilidades que correspondan, no incurrirán en este delito los miembros del Ministerio Público en ejercicio de la acción penal pública.

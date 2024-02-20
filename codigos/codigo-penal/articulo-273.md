@@ -10,4 +10,4 @@ b) La imposición de limitaciones o restricciones a la producción, procesamient
 
 c) El reparto de los mercados, áreas de suministro, fuentes de aprovisionamiento o de clientes;
 
-d) Impedir, dificultar u obstaculizar a otros agentes económicos la entrada o permanencia en un mercado o excluirlas de éste.
+d) Impedir, dificultar u obstaculizar a otros agentes económicos la entrada o permanencia en un mercado o excluirlas de este.

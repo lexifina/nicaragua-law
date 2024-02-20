@@ -16,7 +16,7 @@ e) Prohibición de realizar en el futuro actividades, operaciones mercantiles o 
 
 La clausura temporal prevista en el literal b) y la suspensión señalada en el literal d) del párrafo anterior, podrán ser acordadas por el Juez también durante la tramitación de la causa.
 
-Las consecuencias accesorias previstas en este artículo estarán orientadas en su imposición y cumplimiento a prevenir la continuidad en la actividad delictiva y los efectos de la misma.
+Las consecuencias accesorias previstas en este Artículo estarán orientadas en su imposición y cumplimiento a prevenir la continuidad en la actividad delictiva y los efectos de la misma.
 
 RESPONSABILIDAD CIVIL DERIVADA DE LOS DELITOS Y FALTAS
 

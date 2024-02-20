@@ -6,6 +6,6 @@ Las medidas de seguridad prescribirán a los diez años, si son privativas de li
 
 El tiempo de la prescripción se computará desde el día en que quedó firme la resolución en la que se impuso la medida o, en caso de cumplimiento sucesivo, desde que debió empezar a cumplirse.
 
-Si el cumplimiento de una medida de seguridad es posterior al de una pena, el plazo se computará desde la extinción de ésta.
+Si el cumplimiento de una medida de seguridad es posterior al de una pena, el plazo se computará desde la extinción de esta.
 
 DE LA CANCELACIÓN DE ANTECEDENTES DELICTIVOS

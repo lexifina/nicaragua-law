@@ -6,10 +6,10 @@ Quien forme parte de un grupo delictivo organizado o banda nacional o internacio
 
 La pena se incrementará en sus extremos mínimos y máximos:
 
-a) En un tercio, si el autor ostenta una posición de superioridad con relación al resto de personas involucradas en la organización criminal, o si el delito se realiza total o parcialmente a nivel internacional.
+a) En un tercio, si el autor ostenta una posición de superioridad con relación al resto de personas involucradas en la organización criminal, o si el delito se realiza total o parcialmente a nivel internacional;
 
 b) Al doble si el delito realizado está sancionado con pena igual o superior a quince años de prisión.
 
-La provocación conspiración y proposición para cometer el delito, serán sancionadas con pena de uno a cinco años de prisión.
+La provocación, conspiración y proposición para cometer el delito, serán sancionadas con pena de uno a cinco años de prisión.
 
 TERRORISMO

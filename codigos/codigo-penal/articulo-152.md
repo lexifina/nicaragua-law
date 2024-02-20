@@ -7,3 +7,5 @@ Si la lesión produjera un menoscabo persistente de la salud o integridad físic
 Si la lesión deja una cicatriz visible y permanente en cualquier otra parte del cuerpo, en persona que por su profesión, sexo, oficio o costumbre suele dejar al descubierto será sancionado con la pena de uno a tres años de prisión.
 
 Cuando la lesión grave se produjera utilizando armas, instrumentos, objetos, medios, métodos o formas concretamente peligrosas para la vida, salud física o psíquica del lesionado, se impondrá prisión de tres a seis años.
+
+Se considera lesión grave psicológica si se causara disfunción en cualquiera de las áreas de funcionamiento personal, laboral, escolar, familiar o social que requiera un tratamiento especializado en salud mental, será sancionado con pena de dos a cinco años de prisión.

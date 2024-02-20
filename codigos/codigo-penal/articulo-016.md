@@ -24,12 +24,12 @@ i) Delitos de tráfico de patrimonio histórico cultural;
 
 j) Delitos relacionados con estupefacientes, psicotrópicos y otras sustancias controladas;
 
-k) Delitos de tráfico internacional de vehículos; y
+k) Delitos de tráfico internacional de vehículos;
 
 l) Lavado de dinero, bienes o activos;
 
-m) Delitos sexuales en perjuicio de niños, niñas y adolescentes y
+m) Delitos sexuales en perjuicio de niños, niñas y adolescentes; y
 
 n) Cualquier otro delito que pueda ser perseguido en Nicaragua, conforme los instrumentos internacionales ratificados por el país.
 
-Para todos los supuestos expresados en este artículo rige el literal c) contenido en el artículo 14.
+Para todos los supuestos expresados en este Artículo rige el literal c) contenido en el Artículo 14.

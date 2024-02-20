@@ -2,7 +2,7 @@
 
 Criterio de aplicación de las faltas penales
 
-Las disposiciones contenidas en los artículos de este Libro Tercero, se aplicarán sólo cuando el hecho no constituya delito.
+Las disposiciones contenidas en los Artículos de este Libro Tercero, se aplicarán sólo cuando el hecho no constituya delito.
 
 DISPOSICIONES ADICIONALES, DEROGATORIAS, TRANSITORIAS Y FINALES
 

@@ -8,4 +8,4 @@ Quien lotifique, urbanice o construya en suelos no autorizados o de riesgos, inc
 
 En ambos casos, el Juez ordenará la demolición de la obra a costa del sentenciado.
 
-Iguales penas se impondrá a la autoridad, funcionario o empleado público que, a sabiendas de su ilegalidad, haya aprobado, por si mismo o como miembro de un órgano colegiado, una autorización, licencia o concesión que haya permitido la realización de las conductas descritas o que, con motivo de sus inspecciones, haya guardado silencio sobre la infracción de las leyes, reglamentos y demás disposiciones normativas de carácter general que la regulen.
+Iguales penas se impondrá a la autoridad, funcionario o empleado público que, a sabiendas de su ilegalidad, haya aprobado, por sí mismo o como miembro de un órgano colegiado, una autorización, licencia o concesión que haya permitido la realización de las conductas descritas o que, con motivo de sus inspecciones, haya guardado silencio sobre la infracción de las leyes, reglamentos y demás disposiciones normativas de carácter general que la regulen.

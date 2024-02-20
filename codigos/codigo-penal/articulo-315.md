@@ -2,7 +2,7 @@
 
 Discriminación, servidumbre, explotación
 
-Quien discrimine en el empleo por razón de nacimiento, nacionalidad, afiliación política, raza, origen étnico, opción sexual, género, religión, opinión, posición, económica, discapacidad, condición física, o cualquier otra condición social, será penado con prisión de seis meses a un año y de noventa a ciento cincuenta días multa.
+Quien discrimine en el empleo por razón de nacimiento, nacionalidad, afiliación política, raza, origen étnico, opción sexual, género, religión, opinión, posición económica, discapacidad, condición física, o cualquier otra condición social, será penado con prisión de seis meses a un año y de noventa a ciento cincuenta días multa.
 
 Quien someta, reduzca o mantenga a otra persona en esclavitud o condiciones similares a la esclavitud, trabajo forzoso u obligatorio, régimen de servidumbre o cualquier otra situación en contra de la dignidad humana, en la actividad laboral, será castigado con prisión de cinco a ocho años.
 
