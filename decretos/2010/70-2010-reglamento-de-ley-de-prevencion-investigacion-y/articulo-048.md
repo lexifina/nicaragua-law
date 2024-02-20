@@ -2,9 +2,9 @@
 
 Etapas y condiciones del programa de protección
 
-El Ministerio Público como autoridad competente, para la efectiva administración, aplicación, expedición y ejecución de las medidas de protección establecidas en la ley, creará un programa de protección para personas sujetas a protección que contendrá como mínimo las siguientes etapas y condiciones:
+El Ministerio Público como autoridad competente, para la efectiva administración, aplicación, expedición y ejecución de las medidas de protección establecidas en la Ley, creará un programa de protección para personas sujetas a protección que contendrá como mínimo las siguientes etapas y condiciones:
 
-1- Solicitud: para ser incluido en el programa de protección será preciso que cualquier persona sujeta de protección presente una solicitud ante la autoridad competente. Igualmente podrán tomar la iniciativa de solicitar que se incluya a una persona en el programa de protección, el testigo, la Policía Nacional, el Ministerio Públicos y las autoridades penitenciarias y Judiciales.
+1- Solicitud: para ser incluido en el programa de protección será preciso que cualquier persona sujeta de protección presente una solicitud ante la autoridad competente. Igualmente podrán tomar la iniciativa de solicitar que se incluya a una persona en el programa de protección, el testigo, la Policía Nacional, el Ministerio Público y las autoridades penitenciarias y Judiciales.
 
 2- Evaluación: una vez presentada la solicitud, la autoridad competente, evaluará si el aspirante reúne las condiciones para ser admitido en el programa. Durante la evaluación se tendrán en cuenta los factores siguientes:
 
@@ -26,4 +26,4 @@ f- La vulnerabilidad del aspirante.
 
 5- Evaluación de las medidas de protección: El Ministerio Público, cuando la circunstancias a si lo exijan y en colaboración con las instituciones involucradas nacional e internacionales competentes, reevaluará periódicamente las medidas aplicadas, con el objeto de modificarlas o revocarlas.
 
-La estructura orgánica, regulaciones, normativa y directrices del Programa de protección, serán dictadas por el Fiscal General de la República, conforme la facultad conferida por el artículo 71 de la ley.
+La estructura orgánica, regulaciones, normativa y directrices del Programa de protección, serán dictadas por el Fiscal General de la República, conforme la facultad conferida por el Artículo 71 de la Ley.

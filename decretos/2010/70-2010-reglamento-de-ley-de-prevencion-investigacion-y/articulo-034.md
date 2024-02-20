@@ -2,7 +2,7 @@
 
 Levantamiento del sigilo bancario, financiero y tributario
 
-Cuando en la fase investigativa, el Fiscal General o el Director General de la Policía Nacional soliciten a la autoridad judicial el levantamiento del sigilo bancario, financiero o tributario, el juez competente recibirá directamente la solicitud y sin más trámite resolverá en un plazo no mayor de dos horas a partir de que reciba la solicitud. El contenido de la solicitud será del conocimiento exclusivo de la autoridad judicial.
+Cuando en la fase investigativa, el Fiscal General o el Director o Directora General de la Policía Nacional soliciten a la autoridad judicial el levantamiento del sigilo bancario, financiero o tributario, el juez competente recibirá directamente la solicitud y sin más trámite resolverá en un plazo no mayor de dos horas a partir de que reciba la solicitud. El contenido de la solicitud será del conocimiento exclusivo de la autoridad judicial.
 
 Las entidades bancarias, financieras o aquellas que manejan información tributaria, sin aducir sigilo y/o reserva de ninguna naturaleza, deberán atender el requerimiento judicial y entregar la información a la autoridad solicitante, en los plazos y modo siguiente:
 

@@ -30,7 +30,7 @@ c- El arreglo financiero alcanzado por la persona protegida y el programa de pro
 
 d- Las causales de excusión o de expulsión de la persona protegida del programa de protección, a saber:
 
-l. Cese o variación de las circunstancias que dieron origen a la protección.
+I. Cese o variación de las circunstancias que dieron origen a la protección.
 
 II. Incumplimiento de una o más de las condiciones establecidas en el memorando de entendimiento.
 

@@ -18,4 +18,4 @@ Este registro incluye a las empresas o personas naturales que enajenen de cualqu
 
 A este registro tendrán acceso sin mayor trámite, las autoridades de Policía y el Ministerio Público en el ejercicio de sus funciones y atribuciones.
 
-Medidas especiales para las personas sujetas a protección
+MEDIDAS ESPECIALES PARA LAS PERSONAS SUJETAS A PROTECCIÓN

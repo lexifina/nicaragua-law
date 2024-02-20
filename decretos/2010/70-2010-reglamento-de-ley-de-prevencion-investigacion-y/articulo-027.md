@@ -1,8 +1,6 @@
 # Artículo 27
 
-Requisitos en la incautación de estupefacientes, psicotrópicos y sustancias controladas
-
-En todos los casos en que se contemplen operaciones para incautar estupefacientes, psicotrópicos y sustancias controladas, se procurara la presencia de un técnico o perito especializado en la materia. En todo caso, los funcionarios a cargo de la operación deben de proceder de la siguiente manera:
+Requisitos en la incautación de estupefacientes, psicotrópicos y sustancias controladas En todos los casos en que se contemplen operaciones para incautar estupefacientes, psicotrópicos y sustancias controladas, se procurara la presencia de un técnico o perito especializado en la materia. En todo caso, los funcionarios a cargo de la operación deben de proceder de la siguiente manera:
 
 a) Fijar fotográficamente o mediante video, si es posible, el estado original en que es encontrado el estupefaciente, Psicotrópico u otra sustancia controlada a incautarse, así como una vez practicado el muestreo y agrupados, enumerados, pesados y sellados los paquetes o bultos, en su caso, se deberá de fijar fotográficamente o filmar nuevamente.
 
@@ -14,12 +12,12 @@ d) A cada una de las muestras obtenidas debe de practicársele, un análisis de 
 
 e) Llenar los datos contenidos en la bolsa para evidencias, que son: Descripción de la evidencia o muestra, fecha, hora y lugar de incautación, persona que recolecta o recoge la muestra, así como la que traslada al Laboratorio del Ministerio de Salud o de la Policía Nacional.
 
-f) Si el estupefaciente, psicotrópico u otra sustancia controlada, está embalado en menos de 10 paquetes, de cada uno se debe de extraer una muestra y procederse en la forma señalada en los incisos c), d) y e) de este artículo.
+f) Si el estupefaciente, psicotrópico u otra sustancia controlada, está embalado en menos de 10 paquetes, de cada uno se debe de extraer una muestra y procederse en la forma señalada en los incisos c), d) y e) de este Artículo.
 
-g) Si el estupefaciente, psicotrópico u otra sustancia controlada, está embalado en paquetes que van de 10 a 100 unidades, deben de seleccionarse al azar 10 de ellos, a cada uno de los cuales se le debe de extraer una muestra y procederse en la forma señalada en los incisos c), d) y e) del presente artículo.
+g) Si el estupefaciente, psicotrópico u otra sustancia controlada, está embalado en paquetes que van de 10 a 100 unidades, deben de seleccionarse al azar 10 de ellos, a cada uno de los cuales se le debe de extraer una muestra y procederse en la forma señalada en los incisos c), d) y e) del presente Artículo.
 
-h) Si el estupefaciente, psicotrópico u otra sustancia controlada está presente o embalada en más de 100 paquetes, deben de seleccionarse al azar, un numero de ellos, igual a la raíz cuadrada del número total de paquetes, redondeados al número entero superior y procederse en la forma indicada en los incisos c), d) y e) ya citados.
+h) Si el estupefaciente, psicotrópico u otra sustancia controlada está presente o embalada en más de 100 paquetes, deben de seleccionarse al azar, un número de ellos, igual a la raíz cuadrada del número total de paquetes, redondeados al número entero superior y procederse en la forma indicada en los incisos c), d) y e) ya citados.
 
 i) En todos los casos en que se localicen más de un paquete, debe de procederse de ser posible a una inspección física del contenido y ante diferencias visibles, separar los mismos y organizar sub grupos de material, en correspondencia a las características que cada uno presenta y procederse en la forma señalada en los incisos anteriores.
 
-j) Siempre que se incaute más de un paquete. Éstos deben de ser debidamente numerados y señalar la información relacionada, a qué grupo o número de paquete corresponde la muestra obtenida.
+j) Siempre que se incaute más de un paquete. Estos deben de ser debidamente numerados y señalar la información relacionada, a qué grupo o número de paquete corresponde la muestra obtenida.

@@ -6,4 +6,4 @@ El Instituto Nicaragüense de Aeronáutica Civil (INAC) deberá certificar si lo
 
 Si las pistas, campos o sitios para el aterrizaje estuvieren ubicadas en lugares clandestinos se procederá a su destrucción por la Policía Nacional con la participación del Cuerpo de Ingenieros del Ejército de Nicaragua.
 
-La ocupación de aeronaves involucradas en caso de delitos a los que se refiere esta Ley, se realizará en coordinación con el Ejército de Nicaragua, cuando éstas se encontraren en aeropuertos tanto nacionales como internacionales.
+La ocupación de aeronaves involucradas en caso de delitos a los que se refiere esta Ley, se realizará en coordinación con el Ejército de Nicaragua, cuando estas se encontraren en aeropuertos tanto nacionales como internacionales.
