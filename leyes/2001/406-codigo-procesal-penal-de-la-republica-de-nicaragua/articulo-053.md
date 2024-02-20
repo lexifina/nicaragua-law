@@ -1,6 +1,8 @@
 # Artículo 53
 
-Clasificación. Son delitos de acción privada, los delitos de calumnia e injurias graves.
+Clasificación
+
+Son delitos de acción privada, los delitos de calumnia e injurias graves.
 
 Son delitos de acción pública a instancia particular, los delitos de violación cuando la víctima sea mayor de dieciocho años, estupro y acoso sexual.
 

@@ -1,6 +1,8 @@
 # Artículo 241
 
-Allanamiento sin orden. Podrá procederse al allanamiento sin previa orden judicial cuando:
+Allanamiento sin orden
+
+Podrá procederse al allanamiento sin previa orden judicial cuando:
 
 1. Los que habitan en una casa manifiesten que ahí se está cometiendo un delito o de ella se pida auxilio;
 

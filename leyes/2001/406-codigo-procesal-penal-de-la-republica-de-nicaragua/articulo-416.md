@@ -1,6 +1,8 @@
 # Artículo 416
 
-Atribuciones. En plena observancia y respeto a la independencia y autonomía de cada una de sus instituciones integrantes, son atribuciones de la Comisión Nacional de Coordinación Interinstitucional del Sistema de Justicia Penal de la República las siguientes:
+Atribuciones
+
+En plena observancia y respeto a la independencia y autonomía de cada una de sus instituciones integrantes, son atribuciones de la Comisión Nacional de Coordinación Interinstitucional del Sistema de Justicia Penal de la República las siguientes:
 
 1. Coordinar acciones institucionales encaminadas a garantizar la implementación del proceso de reforma procesal penal, la efectiva capacitación de los operadores del sistema y facilitar los medios para el desempeño de sus respectivas funciones;
 

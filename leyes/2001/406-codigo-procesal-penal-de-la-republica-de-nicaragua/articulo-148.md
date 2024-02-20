@@ -1,6 +1,8 @@
 # Artículo 148
 
-Contenido de la citación. La citación deberá contener:
+Contenido de la citación
+
+La citación deberá contener:
 
 1. Autoridad ante la cual se debe comparecer;
 

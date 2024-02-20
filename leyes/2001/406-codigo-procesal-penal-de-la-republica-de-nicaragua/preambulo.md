@@ -1,18 +1,22 @@
-LEY N°. 406, CÓDIGO PROCESAL PENAL DE LA REPÚBLICA DE NICARAGUA
+TEXTO CONSOLIDADO, LEY N°. 406, LEY CÓDIGO PROCESAL PENAL DE LA REPÚBLICA DE NICARAGUA
 
-Aprobada el 13 de noviembre de 2001
+Aprobado el 14 de julio de 2023
 
-Publicada en La Gaceta, Diario Oficial N°. 243 y 244 del 21 y 24 de diciembre de 2001
+Publicado en La Gaceta, Diario Oficial N°. 32 del 20 de febrero de 2024
 
-LEY No. 406
+Digesto Jurídico Nicaragüense de la Materia de Justicia Penal
 
-EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA,
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 14 de julio de 2023, de la Ley N°. 406, Código Procesal Penal de la República de Nicaragua, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense y la Ley N°. 1159, Ley del Digesto Jurídico Nicaragüense de la Materia de Justicia Penal, aprobada el 14 de julio de 2023.
+
+LEY N°. 406
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
 
 Hace saber al pueblo nicaragüense que:
 
 LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
 
-En uso de sus facultades;
+En uso de sus facultades:
 
 HA DICTADO
 

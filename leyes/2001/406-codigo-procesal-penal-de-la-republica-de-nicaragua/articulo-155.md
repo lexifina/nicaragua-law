@@ -1,6 +1,8 @@
 # Artículo 155
 
-Sobreseimiento. El sobreseimiento se dispondrá mediante sentencia. Procederá siempre que se haya iniciado el proceso, cuando exista certeza absoluta sobre alguna o algunas de las siguientes causales:
+Sobreseimiento
+
+El sobreseimiento se dispondrá mediante sentencia. Procederá siempre que se haya iniciado el proceso, cuando exista certeza absoluta sobre alguna o algunas de las siguientes causales:
 
 1. La inexistencia del hecho investigado;
 

@@ -1,6 +1,8 @@
 # Artículo 135
 
-Asuntos de tramitación compleja. Cuando se trate de causas sobre hechos relacionados con actividades terroristas, legitimación de capitales, tráfico internacional de drogas, delitos bancarios o tráfico de órganos o de personas, el juez a solicitud fundada del Ministerio Público expresada en el escrito de acusación, y previa audiencia al acusado, podrá declarar en forma motivada la tramitación compleja de la causa, que producirá los siguientes efectos:
+Asuntos de tramitación compleja
+
+Cuando se trate de causas sobre hechos relacionados con actividades terroristas, legitimación de capitales, tráfico internacional de drogas, delitos bancarios o tráfico de órganos o de personas, el Juez a solicitud fundada del Ministerio Público expresada en el escrito de acusación, y previa audiencia al acusado, podrá declarar en forma motivada la tramitación compleja de la causa, que producirá los siguientes efectos:
 
 1. Los plazos para interponer y tramitar los recursos se duplicarán;
 
@@ -14,6 +16,4 @@ La resolución que disponga que el asunto es de tramitación compleja deberá se
 
 La declaración de complejidad de la causa podrá ser revocada en cualquier momento, de oficio o a petición de parte.
 
-Capítulo IV
-
-Del auxilio entre autoridades
+DEL AUXILIO ENTRE AUTORIDADES

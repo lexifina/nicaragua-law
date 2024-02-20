@@ -1,6 +1,8 @@
 # Artículo 412
 
-Ejecución diferida. El Juez de Ejecución de la pena podrá suspender el cumplimiento de la pena privativa de libertad, en los siguientes casos:
+Ejecución diferida
+
+El Juez de Ejecución de la pena podrá suspender el cumplimiento de la pena privativa de libertad, en los siguientes casos:
 
 1. Cuando deba cumplirla una mujer en estado de embarazo o con un hijo menor de un año de edad, y,
 

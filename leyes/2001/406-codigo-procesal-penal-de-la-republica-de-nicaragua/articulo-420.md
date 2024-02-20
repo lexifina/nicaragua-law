@@ -1,7 +1,5 @@
 # Artículo 420
 
-Ejecución de penas. Mientras no sean nombrados los jueces de ejecución a que hace referencia el presente Código, las funciones asignadas a éstos serán desempeñadas por los correspondientes jueces de sentencia.
+Ejecución de penas
 
-Capítulo ll
-
-Disposiciones finales
+Mientras no sean nombrados los Jueces de Ejecución a que hace referencia el presente Código, las funciones asignadas a estos serán desempeñadas por los correspondientes Jueces de Sentencia.

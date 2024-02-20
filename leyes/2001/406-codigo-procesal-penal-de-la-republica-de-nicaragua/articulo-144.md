@@ -1,12 +1,14 @@
 # Artículo 144
 
-Práctica y contenido. Las notificaciones se practicarán entre las siete de la mañana y las siete de la noche y serán realizadas por los funcionarios de la Oficina de Notificaciones, los oficiales notificadores o secretarios de los juzgados o tribunales.
+Práctica y contenido
+
+Las notificaciones se practicarán entre las siete de la mañana y las siete de la noche y serán realizadas por los funcionarios de la Oficina de Notificaciones, los oficiales notificadores o secretarios de los Juzgados o Tribunales.
 
 Las notificaciones se practicarán personalmente. Cuando no se encuentre en el lugar a la persona a quien va dirigida, el notificador así lo hará constar y entregará la respectiva cédula a cualquier persona mayor de dieciséis años de edad que habite en la casa del llamado a ser notificado.
 
 La cédula de notificación contendrá:
 
-1. Nombre del juzgado o tribunal y fecha de la resolución;
+1. Nombre del Juzgado o Tribunal y fecha de la resolución;
 
 2. Nombre del notificado;
 

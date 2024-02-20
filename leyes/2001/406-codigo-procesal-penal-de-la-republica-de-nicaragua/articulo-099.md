@@ -1,9 +1,9 @@
 # Artículo 99
 
-Efectos de la rebeldía. La declaración de rebeldía no suspenderá el proceso, pero impedirá la celebración del Juicio no iniciado.
+Efectos de la rebeldía.
 
-Si la rebeldía se produce una vez iniciado el Juicio, éste continuará hasta su fenecimiento, y el acusado será representado por su defensor.
+La declaración de rebeldía no suspenderá el proceso, pero impedirá la celebración del Juicio no iniciado.
 
-Capítulo IV
+Si la rebeldía se produce una vez iniciado el Juicio, este continuará hasta su fenecimiento, y el acusado será representado por su defensor.
 
-De los defensores
+DE LOS DEFENSORES

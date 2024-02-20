@@ -1,6 +1,8 @@
 # Artículo 51
 
-Titularidad. La acción penal se ejercerá:
+Titularidad
+
+La acción penal se ejercerá:
 
 1. Por el Ministerio Público, de oficio, en los delitos de acción pública;
 

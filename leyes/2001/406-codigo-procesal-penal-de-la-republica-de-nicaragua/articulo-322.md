@@ -1,3 +1,5 @@
 # Artículo 322
 
-Debate sobre la pena. Conocido el fallo o veredicto de culpabilidad, el juez procederá a calificar el hecho y, en la misma audiencia o en audiencia convocada para el día inmediato siguiente, concederá sucesivamente el uso de la palabra al fiscal, al acusador particular si lo hubiere y al defensor para que debatan sobre la pena o medida de seguridad por imponer. Seguidamente ofrecerá la palabra al condenado por si desea hacer alguna manifestación. El juez podrá limitar razonable y equitativamente el tiempo de las intervenciones. En este trámite se aceptará la práctica de la prueba pertinente.
+Debate sobre la pena
+
+Conocido el fallo o veredicto de culpabilidad, el Juez procederá a calificar el hecho y, en la misma audiencia o en audiencia convocada para el día inmediato siguiente, concederá sucesivamente el uso de la palabra al fiscal, al acusador particular si lo hubiere y al defensor para que debatan sobre la pena o medida de seguridad por imponer. Seguidamente ofrecerá la palabra al condenado por si desea hacer alguna manifestación. El Juez podrá limitar razonable y equitativamente el tiempo de las intervenciones. En este trámite se aceptará la práctica de la prueba pertinente.

@@ -1,6 +1,8 @@
 # Artículo 84
 
-Audiencia. El día y hora señalados, el juez realizará la audiencia, iniciando con la celebración de un trámite de conciliación.
+Audiencia
+
+El día y hora señalados, el Juez realizará la audiencia, iniciando con la celebración de un trámite de conciliación.
 
 De lograrse acuerdo su contenido se incorporará en la resolución definitiva. En caso contrario, se procederá a la práctica de la prueba ofrecida por cada parte y se oirá el fundamento de sus pretensiones.
 

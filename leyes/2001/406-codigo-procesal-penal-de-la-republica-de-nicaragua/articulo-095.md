@@ -1,8 +1,10 @@
 # Artículo 95
 
-Derechos. El imputado o el acusado tendrán derecho a:
+Derechos
 
-1. Presentarse espontáneamente en cualquier momento ante la Policía Nacional, el Ministerio Público o el juez, acompañado de su defensor, para que se le escuche sobre los hechos que se le imputan;
+El imputado o el acusado tendrán derecho a:
+
+1. Presentarse espontáneamente en cualquier momento ante la Policía Nacional, el Ministerio Público o el Juez, acompañado de su defensor, para que se le escuche sobre los hechos que se le imputan;
 
 2. Ser informado en el momento de su comparecencia o de su detención de manera clara, precisa, circunstanciada y específica acerca de los hechos que se le imputan;
 
@@ -20,9 +22,9 @@ Derechos. El imputado o el acusado tendrán derecho a:
 
 9. Ser presentado ante una autoridad judicial competente dentro de las cuarenta y ocho horas posteriores al inicio de su detención;
 
-10. Ser asesorado por un defensor que designe él o sus parientes o, si lo requiere, por un defensor público o de oficio, según corresponda conforme la Ley Orgánica del Poder Judicial y el presente Código;
+10. Ser asesorado por un defensor que designe él o sus parientes o, si lo requiere, por un defensor público o de oficio, según corresponda conforme la Ley N°. 260, Ley Orgánica del Poder Judicial y el presente Código;
 
-11. Ser asistido gratuitamente por intérprete, si no comprende o no habla el idioma empleado por el tribunal;
+11. Ser asistido gratuitamente por intérprete, si no comprende o no habla el idioma empleado por el Tribunal;
 
 12. Abstenerse de declarar, y a no declararse culpable, y,
 

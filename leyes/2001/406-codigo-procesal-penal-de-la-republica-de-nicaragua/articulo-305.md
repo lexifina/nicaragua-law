@@ -1,6 +1,8 @@
 # Artículo 305
 
-Clausura anticipada del Juicio. En la etapa de Juicio con o sin jurado, hasta antes de la clausura del Juicio el juez puede:
+Clausura anticipada del Juicio
+
+En la etapa de Juicio con o sin Jurado, hasta antes de la clausura del Juicio el Juez puede:
 
 1. Decretar el sobreseimiento, si se acredita la existencia de una causa extintiva de la acción penal y no es necesaria la celebración o conclusión del Juicio para comprobarla;
 

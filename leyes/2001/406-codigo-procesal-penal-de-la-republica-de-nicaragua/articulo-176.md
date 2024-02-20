@@ -1,6 +1,8 @@
 # Artículo 176
 
-Sustitución de prisión preventiva por domiciliaria. El juez puede sustituir la prisión preventiva por prisión domiciliaria, entre otros casos, cuando se trate de:
+Sustitución de prisión preventiva por domiciliaria
+
+El Juez puede sustituir la prisión preventiva por prisión domiciliaria, entre otros casos, cuando se trate de:
 
 1. Mujeres en los tres últimos meses de embarazo;
 

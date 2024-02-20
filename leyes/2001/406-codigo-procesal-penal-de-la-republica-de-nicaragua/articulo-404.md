@@ -1,6 +1,8 @@
 # Artículo 404
 
-Incidentes de ejecución. El Ministerio Público, el acusador particular, el querellante, el condenado o su defensor podrán plantear ante el competente Juez de Ejecución de la pena incidentes relativos a la ejecución, sustitución, modificación o extinción de la pena o de las medidas de seguridad.
+Incidentes de ejecución
+
+El Ministerio Público, el acusador particular, el querellante, el condenado o su defensor podrán plantear ante el competente Juez de Ejecución de la Pena incidentes relativos a la ejecución, sustitución, modificación o extinción de la pena o de las medidas de seguridad.
 
 Estos deberán ser resueltos dentro del plazo de cinco días, previa audiencia a los demás intervinientes. Si fuera necesario incorporar elementos de prueba, el Juez de Ejecución, aun de oficio, ordenará una investigación sumaria, después de la cual decidirá.
 

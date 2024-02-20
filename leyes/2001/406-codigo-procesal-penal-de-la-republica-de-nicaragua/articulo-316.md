@@ -1,6 +1,8 @@
 # Artículo 316
 
-Instrucciones al jurado. Las instrucciones al jurado constituyen un conjunto de normas generales de Derecho necesarias para que éste pueda rendir un veredicto conforme a la ley y los hechos según los determine. Se instruirá al jurado en los siguientes temas:
+Instrucciones al Jurado
+
+Las instrucciones al Jurado constituyen un conjunto de normas generales de Derecho necesarias para que este pueda rendir un veredicto conforme a la ley y los hechos según los determine. Se instruirá al Jurado en los siguientes temas:
 
 1. Valoración de la prueba sobre la base del estricto criterio racional;
 
@@ -10,16 +12,16 @@ Instrucciones al jurado. Las instrucciones al jurado constituyen un conjunto de 
 
 4. Culpabilidad, y,
 
-5. Cualquier otro que, en criterio del juez, garantice que las deliberaciones se realizarán dentro del marco constitucional y legal.
+5. Cualquier otro que, en criterio del Juez, garantice que las deliberaciones se realizarán dentro del marco constitucional y legal.
 
-Además de lo anterior, el juez:
+Además de lo anterior, el Juez:
 
-1. Indicará a los miembros del jurado los hechos y circunstancias sobre los cuales deben decidir en relación con el acusado;
+1. Indicará a los miembros del Jurado los hechos y circunstancias sobre los cuales deben decidir en relación con el acusado;
 
 2. Informará que si tras la deliberación no les ha sido posible resolver las dudas que tengan sobre la prueba deberán decidir en el sentido más favorable al acusado;
 
-3. Advertirá a los miembros del jurado que no aprecien aquellos medios probatorios cuya ilicitud o invalidez haya sido declarada;
+3. Advertirá a los miembros del Jurado que no aprecien aquellos medios probatorios cuya ilicitud o invalidez haya sido declarada;
 
-4. Se abstendrá de informar al jurado, so pena de nulidad del Juicio, sobre la sanción que podría ser impuesta si recayera un veredicto de culpabilidad, y,
+4. Se abstendrá de informar al Jurado, so pena de nulidad del Juicio, sobre la sanción que podría ser impuesta si recayera un veredicto de culpabilidad, y,
 
-5. Advertirá a los miembros del jurado que no deberán abstenerse de votar.
+5. Advertirá a los miembros del Jurado que no deberán abstenerse de votar.

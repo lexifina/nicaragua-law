@@ -1,6 +1,8 @@
 # Artículo 24
 
-Conexión. Se consideran delitos conexos:
+Conexión
+
+Se consideran delitos conexos:
 
 1. Los cometidos simultáneamente por dos o más personas reunidas o con cooperación entre ellas, o aquellos en que varias personas mediante acciones independientes proceden de manera concertada para la comisión del delito;
 

@@ -1,12 +1,14 @@
 # Artículo 282
 
-Inmediación. El Juicio se realizará con la presencia ininterrumpida del juez, todos los miembros del jurado en su caso, la parte acusadora, el acusado y su defensor; podrán participar adicionalmente las otras partes. Sin autorización del juez ninguno de los participantes podrá abandonar la sala de juicios.
+Inmediación
 
-Cuando además del Ministerio Público haya acusador particular, la no comparecencia de éste no suspenderá la celebración del Juicio.
+El Juicio se realizará con la presencia ininterrumpida del Juez, todos los miembros del Jurado en su caso, la parte acusadora, el acusado y su defensor; podrán participar adicionalmente las otras partes. Sin autorización del Juez ninguno de los participantes podrá abandonar la sala de juicios.
 
-Sólo podrá dictar sentencia el juez ante quien se han celebrado todos los actos del Juicio oral. Asimismo, no podrá participar en la deliberación ni concurrir a emitir veredicto el miembro del jurado que no haya estado presente en forma ininterrumpida en el Juicio. Esta disposición rige también para el miembro suplente del jurado.
+Cuando además del Ministerio Público haya acusador particular, la no comparecencia de este no suspenderá la celebración del Juicio.
 
-El acusado no podrá alejarse de la audiencia sin permiso del tribunal. Si rehúsa permanecer, será custodiado en una sala próxima y para todos los efectos podrá ser representado por el defensor. Si la acusación es ampliada, quien presida la audiencia lo hará comparecer para los fines de la intimación que corresponda.
+Sólo podrá dictar sentencia el Juez ante quien se han celebrado todos los actos del Juicio oral. Asimismo, no podrá participar en la deliberación ni concurrir a emitir veredicto el miembro del Jurado que no haya estado presente en forma ininterrumpida en el Juicio. Esta disposición rige también para el miembro suplente del Jurado.
+
+El acusado no podrá alejarse de la audiencia sin permiso del Tribunal. Si rehúsa permanecer, será custodiado en una sala próxima y para todos los efectos podrá ser representado por el defensor. Si la acusación es ampliada, quien presida la audiencia lo hará comparecer para los fines de la intimación que corresponda.
 
 Si su presencia es necesaria para practicar algún reconocimiento u otro acto, podrá ser compelido a comparecer a la audiencia por la fuerza pública.
 

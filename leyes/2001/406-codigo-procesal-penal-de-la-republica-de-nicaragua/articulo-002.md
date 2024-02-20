@@ -1,6 +1,8 @@
 # Artículo 2
 
-Presunción de inocencia. Toda persona a quien se impute un delito se presumirá inocente y como tal deberá ser tratada en todo momento del proceso, mientras no se declare su culpabilidad mediante sentencia firme dictada conforme la ley.
+Presunción de inocencia
+
+Toda persona a quien se impute un delito se presumirá inocente y como tal deberá ser tratada en todo momento del proceso, mientras no se declare su culpabilidad mediante sentencia firme dictada conforme la ley.
 
 Hasta la declaratoria de culpabilidad, ningún funcionario o empleado público podrá presentar a una persona como culpable ni brindar información sobre ella en ese sentido.
 

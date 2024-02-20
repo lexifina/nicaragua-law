@@ -1,6 +1,8 @@
 # Artículo 220
 
-Formalidades para el allanamiento. Una copia de la resolución judicial que autoriza el allanamiento y el secuestro será entregada a quien habite o posea el lugar donde se efectúe o, cuando esté ausente, a su encargado, y, a falta de éste, a cualquier persona mayor de edad que se halle en el lugar. Se preferirá a los familiares del morador.
+Formalidades para el allanamiento
+
+Una copia de la resolución judicial que autoriza el allanamiento y el secuestro será entregada a quien habite o posea el lugar donde se efectúe o, cuando esté ausente, a su encargado, y, a falta de este, a cualquier persona mayor de edad que se halle en el lugar. Se preferirá a los familiares del morador.
 
 La diligencia se practicará procurando afectar lo menos posible la intimidad de las personas.
 

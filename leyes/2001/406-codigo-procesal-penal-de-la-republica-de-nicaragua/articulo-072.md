@@ -1,6 +1,8 @@
 # Artículo 72
 
-Causas. La acción penal se extingue por:
+Causas
+
+La acción penal se extingue por:
 
 1. La muerte del imputado o acusado;
 
@@ -14,7 +16,7 @@ Causas. La acción penal se extingue por:
 
 6. El cumplimiento de los acuerdos reparatorios obtenidos a través de la mediación;
 
-7. El cumplimiento del plazo de suspensión condicional de la persecución penal, sin que ésta sea revocada;
+7. El cumplimiento del plazo de suspensión condicional de la persecución penal, sin que esta sea revocada;
 
 8. Vencimiento del plazo máximo de duración del proceso;
 

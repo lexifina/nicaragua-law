@@ -1,6 +1,8 @@
 # Artículo 69
 
-Clases. El acusado, el querellado o sus abogados pueden oponer las siguientes excepciones:
+Clases
+
+El acusado, el querellado o sus abogados pueden oponer las siguientes excepciones:
 
 1. Falta de jurisdicción o competencia;
 

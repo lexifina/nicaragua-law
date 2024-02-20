@@ -1,6 +1,8 @@
 # Artículo 228
 
-Investigación. La Policía Nacional realizará las actividades de investigación necesarias para el descubrimiento y comprobación de hechos presuntamente delictivos. El resultado de su investigación será presentado como informe al Ministerio Público. El informe policial deberá contener como mínimo lo siguiente:
+Investigación
+
+La Policía Nacional realizará las actividades de investigación necesarias para el descubrimiento y comprobación de hechos presuntamente delictivos. El resultado de su investigación será presentado como informe al Ministerio Público. El informe policial deberá contener como mínimo lo siguiente:
 
 1. Nombres, datos de identificación y ubicación de la persona investigada o imputado, testigos, expertos o técnicos y víctimas;
 

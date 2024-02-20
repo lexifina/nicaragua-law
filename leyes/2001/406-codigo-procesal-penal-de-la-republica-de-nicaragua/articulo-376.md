@@ -1,6 +1,8 @@
 # Artículo 376
 
-Autos recurribles. Serán apelables los siguientes autos:
+Autos recurribles
+
+Serán apelables los siguientes autos:
 
 1. Los que resuelvan una excepción o un incidente que no implique terminación del proceso;
 

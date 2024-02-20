@@ -1,6 +1,8 @@
 # Artículo 110
 
-Derechos de la víctima. La víctima, como parte en el proceso penal, podrá ejercer los siguientes derechos que este Código le confiere:
+Derechos de la víctima
+
+La víctima, como parte en el proceso penal, podrá ejercer los siguientes derechos que este Código le confiere:
 
 1. Conocer oportunamente la propuesta de acuerdo mediante el cual el Ministerio Público prescindirá total o parcialmente de la persecución penal y hacer uso de sus derechos en los casos previstos en el presente Código;
 

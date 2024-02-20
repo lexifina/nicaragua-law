@@ -1,7 +1,7 @@
 # Artículo 315
 
-Uso de la palabra. El juez impedirá cualquier divagación, repetición o interrupción en el uso de la palabra. En caso de manifiesto abuso de la palabra por los abogados de las partes, el juez llamará la atención al orador y, si éste persiste, podrá limitar prudentemente el tiempo del alegato, para lo cual tendrá en cuenta la naturaleza de los hechos en examen, las pruebas recibidas y el grado de dificultad de las cuestiones por resolver. Al finalizar el alegato, el orador expresará sus conclusiones de un modo concreto.
+Uso de la palabra
 
-Capítulo VIII
+El Juez impedirá cualquier divagación, repetición o interrupción en el uso de la palabra. En caso de manifiesto abuso de la palabra por los abogados de las partes, el Juez llamará la atención al orador y, si este persiste, podrá limitar prudentemente el tiempo del alegato, para lo cual tendrá en cuenta la naturaleza de los hechos en examen, las pruebas recibidas y el grado de dificultad de las cuestiones por resolver. Al finalizar el alegato, el orador expresará sus conclusiones de un modo concreto.
 
-Del veredicto, el fallo y la sentencia
+DEL VEREDICTO, EL FALLO Y LA SENTENCIA

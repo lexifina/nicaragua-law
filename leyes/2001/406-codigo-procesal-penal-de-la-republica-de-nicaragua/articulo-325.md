@@ -1,6 +1,8 @@
 # Artículo 325
 
-Acusación. La víctima, la autoridad administrativa afectada o la Policía Nacional, según el caso, están facultados para interponer de forma verbal o escrita la acusación ante el juez local competente. Cuando se interponga verbalmente, se levantará acta de la misma.
+Acusación
+
+La víctima, la autoridad administrativa afectada o la Policía Nacional, según el caso, están facultados para interponer de forma verbal o escrita la acusación ante el Juez local competente. Cuando se interponga verbalmente, se levantará acta de la misma.
 
 La acusación por la comisión de una falta deberá contener como mínimo lo siguiente:
 

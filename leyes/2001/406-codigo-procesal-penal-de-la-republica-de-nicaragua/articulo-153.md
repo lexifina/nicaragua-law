@@ -1,10 +1,12 @@
 # Artículo 153
 
-Fundamentación. Las sentencias y los autos contendrán una fundamentación clara y precisa. En ella se expresarán los razonamientos de hecho y de derecho en que se basan las decisiones, así como del valor otorgado a los medios de pruebas.
+Fundamentación
+
+Las sentencias y los autos contendrán una fundamentación clara y precisa. En ella se expresarán los razonamientos de hecho y de derecho en que se basan las decisiones, así como del valor otorgado a los medios de pruebas.
 
 En la sentencia se deberá consignar una breve y sucinta descripción del contenido de la prueba oral, antes de proceder a su valoración. La simple relación de las pruebas o la mención de los requerimientos de las partes no reemplazará, en ningún supuesto, la fundamentación.
 
-Cuando haya intervención de jurado, la fundamentación de la sentencia será acorde con el veredicto.
+Cuando haya intervención de Jurado, la fundamentación de la sentencia será acorde con el veredicto.
 
 Cuando la sentencia sea condenatoria, deberá fundamentar la pena o medida de seguridad impuesta.
 

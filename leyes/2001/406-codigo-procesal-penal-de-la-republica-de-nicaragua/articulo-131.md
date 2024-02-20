@@ -1,7 +1,7 @@
 # Artículo 131
 
-Plazos judiciales. Cuando la ley permita la fijación de un plazo judicial, el juez lo establecerá conforme con la naturaleza del proceso, a la importancia de la actividad que se deba cumplir y los derechos de las partes.
+Plazos judiciales
 
-Capítulo III
+Cuando la ley permita la fijación de un plazo judicial, el Juez lo establecerá conforme con la naturaleza del proceso, a la importancia de la actividad que se deba cumplir y los derechos de las partes.
 
-Del control de la duración del proceso
+DEL CONTROL DE LA DURACIÓN DEL PROCESO

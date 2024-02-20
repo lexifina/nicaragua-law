@@ -1,6 +1,8 @@
 # Artículo 56
 
-Mediación. La mediación procederá en:
+Mediación
+
+La mediación procederá en:
 
 1. Las faltas;
 

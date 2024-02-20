@@ -1,8 +1,10 @@
 # Artículo 154
 
-Contenido de las sentencias. Toda sentencia se dictará en nombre de la República de Nicaragua y deberá contener:
+Contenido de las sentencias
 
-1. La mención del juzgado, la fecha y hora en que se dicta;
+Toda sentencia se dictará en nombre de la República de Nicaragua y deberá contener:
+
+1. La mención del Juzgado, la fecha y hora en que se dicta;
 
 2. El nombre y apellido del acusado y los demás datos que sirvan para determinar su identidad personal;
 
@@ -12,7 +14,7 @@ Contenido de las sentencias. Toda sentencia se dictará en nombre de la Repúbli
 
 5. La indicación sucinta del contenido de la prueba especificando su valoración;
 
-6. La determinación precisa y circunstanciada de los hechos que el juez estime probados;
+6. La determinación precisa y circunstanciada de los hechos que el Juez estime probados;
 
 7. La exposición de sus fundamentos de hecho y de derecho;
 
@@ -22,7 +24,7 @@ Contenido de las sentencias. Toda sentencia se dictará en nombre de la Repúbli
 
 10. De ser el caso, el plazo dentro del cual se deberá pagar la multa;
 
-11. Las costas y la entrega de objetos ocupados a quien el tribunal considera con mejor derecho a poseerlos, sin perjuicio de los reclamos que correspondan ante los tribunales competentes;
+11. Las costas y la entrega de objetos ocupados a quien el tribunal considera con mejor derecho a poseerlos, sin perjuicio de los reclamos que correspondan ante los Tribunales competentes;
 
 12. La disposición sobre el comiso o destrucción de los objetos, sustancias, productos y efectos secuestrados en la forma prevista en la ley;
 
@@ -32,4 +34,4 @@ Contenido de las sentencias. Toda sentencia se dictará en nombre de la Repúbli
 
 15. De ser el caso, el monto de los honorarios dejados de percibir por el defensor de oficio, y,
 
-16. La firma del juez y del secretario que autoriza.
+16. La firma del Juez y del secretario que autoriza.

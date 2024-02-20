@@ -1,8 +1,10 @@
 # Artículo 219
 
-Contenido de la resolución. La resolución judicial que autoriza el allanamiento, secuestro o detención deberá contener:
+Contenido de la resolución
 
-1. El nombre del juez y la identificación de la investigación o, si corresponde, del proceso;
+La resolución judicial que autoriza el allanamiento, secuestro o detención deberá contener:
+
+1. El nombre del Juez y la identificación de la investigación o, si corresponde, del proceso;
 
 2. La dirección exacta del inmueble y la determinación concreta del lugar o los lugares que habrán de ser registrados;
 
@@ -14,6 +16,6 @@ Contenido de la resolución. La resolución judicial que autoriza el allanamient
 
 6. En su caso, del ingreso nocturno.
 
-Si durante la búsqueda del objeto, sustancia o persona para la cual fue autorizado el allanamiento, se encuentran, en lugares apropiados para la búsqueda autorizada, otros objetos, sustancias o personas relacionados con esa u otra actividad delictiva investigada, éstos podrán ser secuestrados o detenidos según corresponda, sin necesidad de ampliación de la motivación de la autorización.
+Si durante la búsqueda del objeto, sustancia o persona para la cual fue autorizado el allanamiento, se encuentran, en lugares apropiados para la búsqueda autorizada, otros objetos, sustancias o personas relacionados con esa u otra actividad delictiva investigada, estos podrán ser secuestrados o detenidos según corresponda, sin necesidad de ampliación de la motivación de la autorización.
 
 El secuestro de un objeto o sustancia o la detención o constatación de la presencia de persona distintos de lo especificado en la autorización para el allanamiento encontrados durante la búsqueda, en lugar no apropiado para lo que originalmente se autorizó, es ilegal y en consecuencia no podrá hacerse valer como prueba en Juicio.

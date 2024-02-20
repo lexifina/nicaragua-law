@@ -1,6 +1,8 @@
 # Artículo 279
 
-Audiencia Preparatoria del Juicio. A solicitud de cualquiera de las partes, se celebrará Audiencia Preparatoria del Juicio, dentro de los cinco días anteriores a la celebración del Juicio oral y público, para resolver:
+Audiencia Preparatoria del Juicio
+
+A solicitud de cualquiera de las partes, se celebrará Audiencia Preparatoria del Juicio, dentro de los cinco días anteriores a la celebración del Juicio oral y público, para resolver:
 
 1. Cuestiones relacionadas con las controversias surgidas en relación con el intercambio de la información sobre los elementos de prueba;
 

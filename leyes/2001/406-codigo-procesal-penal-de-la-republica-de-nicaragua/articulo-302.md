@@ -1,9 +1,9 @@
 # Artículo 302
 
-Abandono de la sala. Cuando los miembros del jurado abandonen la sala de audiencia, el juez puede ordenarles que se mantengan juntos bajo custodia o les puede permitir que se separen. En este caso, les advertirá de nuevo que no conversen con nadie acerca de este asunto, ni que visiten el lugar donde sucedió el delito.
+Abandono de la sala
 
-Concluida la audiencia de cada día, cada jurado se retirará a su residencia, salvo que el juez estime imprescindible que se mantengan juntos pero aislados del resto de la comunidad.
+Cuando los miembros del Jurado abandonen la sala de audiencia, el Juez puede ordenarles que se mantengan juntos bajo custodia o les puede permitir que se separen. En este caso, les advertirá de nuevo que no conversen con nadie acerca de este asunto, ni que visiten el lugar donde sucedió el delito.
 
-Capítulo VII
+Concluida la audiencia de cada día, cada Jurado se retirará a su residencia, salvo que el Juez estime imprescindible que se mantengan juntos pero aislados del resto de la comunidad.
 
-Del desarrollo del Juicio
+DEL DESARROLLO DEL JUICIO

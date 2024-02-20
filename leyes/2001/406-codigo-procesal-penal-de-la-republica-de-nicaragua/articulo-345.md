@@ -1,6 +1,8 @@
 # Artículo 345
 
-Efectos de la sentencia. La sentencia ordenará, si es del caso:
+Efectos de la sentencia
+
+La sentencia ordenará, si es del caso:
 
 1. La libertad del acusado;
 

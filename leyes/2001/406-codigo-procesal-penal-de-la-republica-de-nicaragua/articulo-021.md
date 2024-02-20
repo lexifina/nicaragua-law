@@ -1,27 +1,29 @@
 # Artículo 21
 
-Competencia funcional. Son tribunales de juicio.
+Competencia funcional
 
-1. Los jueces locales, en materias de delitos menos graves y faltas penales;
+Son Tribunales de Juicio.
 
-2. Los jueces de distrito, en materias de delitos graves, y,
+1. Los Jueces Locales, en materias de delitos menos graves y faltas penales;
 
-3. La Corte Suprema de Justicia, en los casos que la Constitución Política indica.
+2. Los Jueces de Distrito, en materias de delitos graves; y,
 
-El juez que tenga competencia objetiva para conocer de un delito o falta, la tendrá para conocer de todas las incidencias que se produzcan en la causa, incluidos los actos necesarios de la fase previa al Juicio.
+3. La Corte Suprema de Justicia, en los casos que la Constitución Política de la República de Nicaragua indica.
 
-Son tribunales de apelación:
+El Juez que tenga competencia objetiva para conocer de un delito o falta, la tendrá para conocer de todas las incidencias que se produzcan en la causa, incluidos los actos necesarios de la fase previa al Juicio.
 
-1. Los jueces de distrito, en relación con los autos previstos en este Código y sentencias dictados por los jueces locales, en materia de delitos menos graves y faltas penales, y,
+Son Tribunales de Apelación:
 
-2. Las salas penales de los Tribunales de Apelación, en cuanto a los autos previstos por este Código y sentencias dictados por los jueces de distrito, en materia de delitos graves.
+1. Los Jueces de Distrito, en relación con los autos previstos en este Código y sentencias dictados por los Jueces Locales, en materia de delitos menos graves y faltas penales, y
 
-Es tribunal de casación, la Sala de lo Penal de la Corte Suprema de Justicia, en las sentencias por delitos graves conocidas y resueltas en apelación por las salas penales de los tribunales de apelación.
+2. Las Salas Penales de los Tribunales de Apelación, en cuanto a los autos previstos por este Código y sentencias dictadas por los Jueces de Distrito, en materia de delitos graves.
 
-Los jueces de ejecución de la pena controlarán el cumplimiento del régimen penitenciario y el respeto de las finalidades constitucionales y legales de la pena y de las medidas de seguridad.
+Es Tribunal de Casación, la Sala de lo Penal de la Corte Suprema de Justicia, en las sentencias por delitos graves conocidas y resueltas en apelación por las Salas Penales de los Tribunales de Apelación.
 
-Son tribunales de revisión:
+Los Jueces de Ejecución de la Pena controlarán el cumplimiento del régimen penitenciario y el respeto de las finalidades constitucionales y legales de la pena y de las medidas de seguridad.
 
-1. Las salas penales de los tribunales de apelaciones, en las causas por delitos menos graves, y
+Son Tribunales de Revisión:
+
+1. Las Salas Penales de los Tribunales de Apelaciones, en las causas por delitos menos graves, y
 
 2. La Sala de lo Penal de la Corte Suprema de Justicia, en causas por delitos graves.

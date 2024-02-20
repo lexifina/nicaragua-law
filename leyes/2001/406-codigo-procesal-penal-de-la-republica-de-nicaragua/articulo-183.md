@@ -1,8 +1,10 @@
 # Artículo 183
 
-Caución personal. La caución personal consistirá en la obligación de pagar que el imputado asuma junto con uno o más fiadores solidarios, en caso de incomparecencia, la suma que el juez fije al conceder la sustitución de la medida privativa de libertad.
+Caución personal
 
-1. Para la determinación del monto de la fianza el juez tendrá en consideración los siguientes elementos:
+La caución personal consistirá en la obligación de pagar que el imputado asuma junto con uno o más fiadores solidarios, en caso de incomparecencia, la suma que el Juez fije al conceder la sustitución de la medida privativa de libertad.
+
+1. Para la determinación del monto de la fianza el Juez tendrá en consideración los siguientes elementos:
 
 a) La mayor o menor responsabilidad del acusado en los hechos investigados;
 
@@ -18,6 +20,6 @@ Queda absolutamente prohibido fijar una fianza de imposible cumplimiento.
 
 a) Que el acusado cumpla las restricciones impuestas por la medida cautelar sustitutiva;
 
-b) Presentarlo a la autoridad que designe el juez, cada vez que éste así lo ordene, y,
+b) Presentarlo a la autoridad que designe el Juez, cada vez que este así lo ordene, y,
 
 c) Pagar la cantidad que se fije en el acta constitutiva de la fianza, si no presenta al acusado dentro del plazo que al efecto se le señale.

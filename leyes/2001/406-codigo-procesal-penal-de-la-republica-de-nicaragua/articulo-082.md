@@ -1,6 +1,8 @@
 # Artículo 82
 
-Contenido. La solicitud se presentará en papel común y deberá contener:
+Contenido
+
+La solicitud se presentará en papel común y deberá contener:
 
 1. Nombre, generales de ley y número de documento de identidad del solicitante y, en su caso, de su apoderado legal;
 

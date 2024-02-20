@@ -1,6 +1,8 @@
 # Artículo 232
 
-Deberes. La Policía Nacional tendrá, además de otros deberes establecidos en la ley, los siguientes:
+Deberes
+
+La Policía Nacional tendrá, además de otros deberes establecidos en la ley, los siguientes:
 
 1. Informar a la persona en el momento de detenerla:
 

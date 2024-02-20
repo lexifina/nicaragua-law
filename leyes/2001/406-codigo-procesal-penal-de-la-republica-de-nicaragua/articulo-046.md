@@ -1,6 +1,8 @@
 # Artículo 46
 
-Causales de excusa. Podrán excusarse para actuar como jurado:
+Causales de excusa
+
+Podrán excusarse para actuar como Jurado:
 
 1. Las mujeres en estado de embarazo, de lactancia materna o encargadas del cuido de infantes;
 

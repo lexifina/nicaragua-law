@@ -1,6 +1,8 @@
 # Artículo 55
 
-Manifestaciones. Son manifestaciones del principio de oportunidad las siguientes:
+Manifestaciones
+
+Son manifestaciones del principio de oportunidad las siguientes:
 
 1. La mediación;
 

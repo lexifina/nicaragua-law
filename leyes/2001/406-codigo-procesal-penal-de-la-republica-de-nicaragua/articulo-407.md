@@ -1,6 +1,8 @@
 # Artículo 407
 
-Atribuciones de los Jueces de Ejecución. Los Jueces de Ejecución ejercerán las siguientes atribuciones:
+Atribuciones de los Jueces de Ejecución
+
+Los Jueces de Ejecución ejercerán las siguientes atribuciones:
 
 1. Hacer comparecer ante sí a los condenados o a los funcionarios del sistema penitenciario, con fines de vigilancia y control;
 

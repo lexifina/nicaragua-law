@@ -1,8 +1,10 @@
 # Artículo 5
 
-Principio de proporcionalidad. Las potestades que este Código otorga a la Policía Nacional, al Ministerio Público o a los Jueces de la República serán ejercidas racionalmente y dentro de los límites de la más estricta proporcionalidad, para lo cual se atenderá a la necesidad e idoneidad de su ejercicio y a los derechos individuales que puedan resultar afectados.
+Principio de proporcionalidad
 
-El control de proporcionalidad de los actos de la Policía Nacional y del Ministerio Público será ejercido por el Juez, y los de éste por el tribunal de apelaciones a través de los recursos.
+Las potestades que este Código otorga a la Policía Nacional, al Ministerio Público o a los Jueces de la República serán ejercidas racionalmente y dentro de los límites de la más estricta proporcionalidad, para lo cual se atenderá a la necesidad e idoneidad de su ejercicio y a los derechos individuales que puedan resultar afectados.
+
+El control de proporcionalidad de los actos de la Policía Nacional y del Ministerio Público será ejercido por el Juez, y los de este por el Tribunal de Apelaciones a través de los recursos.
 
 Los actos de investigación que quebranten el principio de proporcionalidad serán nulos, sin perjuicio de la responsabilidad penal en que pueda haber incurrido el funcionario público que los haya ordenado o ejecutado.
 

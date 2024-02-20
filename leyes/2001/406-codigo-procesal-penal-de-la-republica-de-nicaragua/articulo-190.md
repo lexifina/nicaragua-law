@@ -1,6 +1,8 @@
 # Artículo 190
 
-Cancelación de las cauciones. La caución se cancelará y las garantías serán restituidas:
+Cancelación de las cauciones
+
+La caución se cancelará y las garantías serán restituidas:
 
 1. Cuando el acusado sea detenido por haberse acordado de nuevo la prisión preventiva;
 
@@ -9,7 +11,3 @@ Cancelación de las cauciones. La caución se cancelará y las garantías serán
 3. Cuando el condenado se presente a cumplir la pena impuesta o sea detenido dentro del plazo fijado.
 
 DE LA PRUEBA
-
-Capítulo I
-
-Disposiciones generales

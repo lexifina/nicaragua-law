@@ -1,6 +1,8 @@
 # Artículo 223
 
-Obligación de denunciar. Tendrán obligación de denunciar los delitos de acción pública:
+Obligación de denunciar
+
+Tendrán obligación de denunciar los delitos de acción pública:
 
 1. Los funcionarios o empleados públicos que los conozcan en el ejercicio de sus funciones;
 

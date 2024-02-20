@@ -1,5 +1,7 @@
 # Artículo 10
 
-Principio acusatorio. El ejercicio de la acción penal es distinto del de la función jurisdiccional. En consecuencia, los jueces no podrán proceder a la investigación, persecución ni acusación de ilícitos penales.
+Principio acusatorio
 
-No existirá proceso penal por delito sin acusación formulad por el Ministerio Público, el acusador particular o el querellante en los casos y en la forma prescritos en el presente Código.
+El ejercicio de la acción penal es distinto del de la función jurisdiccional. En consecuencia, los Jueces no podrán proceder a la investigación, persecución ni acusación de ilícitos penales.
+
+No existirá proceso penal por delito sin acusación formulada por el Ministerio Público, el acusador particular o el querellante en los casos y en la forma prescritos en el presente Código.

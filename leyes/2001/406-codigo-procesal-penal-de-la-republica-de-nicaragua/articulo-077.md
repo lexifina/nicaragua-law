@@ -1,10 +1,12 @@
 # Artículo 77
 
-Requisitos de la acusación. El escrito de acusación deberá contener:
+Requisitos de la acusación
 
-1. Nombre del tribunal al que se dirige la acusación;
+El escrito de acusación deberá contener:
 
-2. Nombre y cargo del fiscal;
+1. Nombre del Tribunal al que se dirige la acusación;
+
+2. Nombre y cargo del Fiscal;
 
 3. El nombre y generales de ley del acusado, si se conocen, o los datos que sirvan para identificación;
 

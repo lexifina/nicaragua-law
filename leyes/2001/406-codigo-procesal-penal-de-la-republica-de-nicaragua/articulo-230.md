@@ -1,6 +1,8 @@
 # Artículo 230
 
-Atribuciones. Los miembros de la Policía Nacional tendrán las siguientes atribuciones:
+Atribuciones
+
+Los miembros de la Policía Nacional tendrán las siguientes atribuciones:
 
 1. Velar porque se conserve todo lo relacionado con el hecho punible y que el estado de las cosas no se modifique hasta que quede debidamente registrado. No obstante, tomarán todas las medidas necesarias para la atención y auxilio debido a las víctimas y proteger a los testigos;
 
@@ -22,6 +24,6 @@ Atribuciones. Los miembros de la Policía Nacional tendrán las siguientes atrib
 
 10. Realizar los registros, allanamientos, inspecciones y requisas que sean necesarios para la buena marcha de la investigación, con las formalidades que prescribe este Código;
 
-11. Solicitar al juez la autorización de actos de investigación que puedan afectar derechos constitucionales, y,
+11. Solicitar al Juez la autorización de actos de investigación que puedan afectar derechos constitucionales, y,
 
 12. Las demás que le otorgan las leyes y disposiciones vigentes.
