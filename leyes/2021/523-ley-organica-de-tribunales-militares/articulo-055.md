@@ -10,7 +10,7 @@ Corresponde a la Fiscalía Militar, en el ámbito de la jurisdicción militar:
 
 4) Requerir los servicios forenses del Instituto de Medicina Legal y de criminalística de la Policía Nacional en los casos que corresponda.
 
-5) Requerir los servicios de la Policía Militar y/o Policía Nacional en lo que corresponda.
+5) Requerir los servicios de la Policía Militar y /o Policía Nacional en lo que corresponda.
 
 6) Actuar en defensa de la legalidad y de los derechos e intereses tutelados por la ley, de oficio o a petición de los interesados; y
 

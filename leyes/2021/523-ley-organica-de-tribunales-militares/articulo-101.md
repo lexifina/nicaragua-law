@@ -1,3 +1,3 @@
 # Artículo 101
 
-Sin vigencia
+Sin vigencia.

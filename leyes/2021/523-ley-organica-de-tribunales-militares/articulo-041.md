@@ -8,7 +8,7 @@ Además de ejercer la fe pública judicial y de asistir a los tribunales y juece
 
 3) Conservar y custodiar los procesos y documentos que estuvieren a su cargo, los bienes y objetos afectos a los procedimientos judiciales.
 
-4) Dar conocimiento a las personas interesadas que lo solicitaren, de los procesos que tengan bajo su custodia y de todos los actos emanados del tribunal o juzgado, salvo en que el procedimiento sea secreto.
+4) Dar conocimiento a las personas interesadas que lo solicitaren, de los procesos que tengan bajo su custodia y de todos los actos emanados del Tribunal o Juzgado, salvo en que el procedimiento sea secreto.
 
 5) Depositar en las instituciones que correspondan, las cantidades y valores, consignaciones y fianzas que reciban en el desempeño de sus funciones.
 

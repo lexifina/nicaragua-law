@@ -2,7 +2,7 @@
 
 Los Juzgados Militares de Audiencia se designarán por circunscripción territorial en atención a la ubicación geográfica y sede de las Unidades Militares.
 
-Se establecen como circunscripciones territoriales, las siguientes:
+Se establecen como circunscripciones territoriales, las siguientes;
 
 1) Circunscripción número 1, Norte - Pacífico, que corresponde a los Departamentos de Managua, Masaya, Granada, Rivas, Carazo, León, Chinandega, Estelí, Nueva Segovia, Madriz, Matagalpa y Jinotega.
 

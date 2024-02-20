@@ -1,6 +1,6 @@
 # Artículo 12
 
-Los conflictos de competencia entre los tribunales de la jurisdicción ordinaria y los órganos judiciales militares, se tramitarán conforme el Código de Procedimiento Civil. En esta materia tendrán prioridad las siguientes disposiciones:
+Los conflictos de competencia entre los tribunales de la jurisdicción ordinaria y los órganos judiciales militares, se tramitarán conforme la Ley N°. 902, Código Procesal Civil de la República de Nicaragua. En esta materia tendrán prioridad las siguientes disposiciones:
 
 1) La cuestión se concretará exclusivamente a resolver a cuál jurisdicción corresponde el conocimiento del asunto, sin prejuzgar la competencia que dentro de su respectiva jurisdicción corresponde a los tribunales que la promueven.
 

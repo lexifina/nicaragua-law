@@ -1,6 +1,6 @@
 # Artículo 30
 
-Son funciones de los Juzgados Militares de Juicio:
+Son funciones de los Juzgados Militares de Juicio;
 
 1) El conocimiento de los procedimientos por delitos de la competencia de la jurisdicción militar que le son remitidos por los Juzgados Militares de Audiencia y cuyo conocimiento no estuviera reservado al Tribunal Militar de Apelación;
 

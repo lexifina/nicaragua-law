@@ -1,12 +1,12 @@
 TEXTO CONSOLIDADO, LEY N°. 523, LEY ORGÁNICA DE TRIBUNALES MILITARES
 
-Aprobado el 15 de octubre de 2020
+Aprobado el 14 de julio de 2023
 
-Publicado en La Gaceta, Diario Oficial N°. 105 del 09 de junio de 2021
+Publicado en La Gaceta, Diario Oficial N°. 32 del 20 de febrero de 2024
 
 Digesto Jurídico Nicaragüense de la Materia de Justicia Penal
 
-El presente texto contiene incorporadas todas sus modificaciones consolidadas al 15 de octubre de 2020, de la Ley Nº. 523, Ley Orgánica de Tribunales Militares, aprobada el 17 de febrero de 2005 y publicada en La Gaceta, Diario Oficial Nº. 65 del 5 de abril de 2005, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley Nº. 963, Ley del Digesto Jurídico Nicaragüense, publicada en La Gaceta, Diario Oficial Nº. 203 del 25 de octubre de 2017 y la Ley Nº. 1041, Ley del Digesto Jurídico Nicaragüense de la Materia de Justicia Penal, aprobada el 15 de octubre de 2020.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 14 de julio de 2023, de la Ley N°. 523, Ley Orgánica de Tribunales Militares, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense y la Ley N°. 1159, Ley del Digesto Jurídico Nicaragüense de la Materia de Justicia Penal, aprobada el 14 de julio de 2023.
 
 LEY N°. 523
 

@@ -1,6 +1,6 @@
 # Artículo 62
 
-El Fiscal Militar General deberá ser abogado y será nombrado por el Comandante en Jefe del Ejército de Nicaragua y deberá tener jerarquía militar de Oficial Superior.
+El Fiscal Militar General deberá ser Abogado y será nombrado por el Comandante en Jefe del Ejército de Nicaragua y deberá tener jerarquía militar de Oficial Superior.
 
 El Fiscal Militar del Tribunal Militar de Apelación deberá ser Abogado y será nombrado por el Comandante en Jefe del Ejército de Nicaragua y deberá tener grado militar de Oficial Superior.
 

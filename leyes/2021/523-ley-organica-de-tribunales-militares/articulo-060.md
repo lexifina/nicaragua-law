@@ -4,7 +4,7 @@ Corresponde al Fiscal Militar General:
 
 1) Ejercer las facultades de la Fiscalía Militar ante la Corte Suprema de Justicia;
 
-2) Ejercer las facultades de la Fiscalía Militar, a prevención de los Fiscales Militares, ante el Tribunal Militar de Apelación y Juzgados Militares de Audiencia y de Juicio que correspondan a dicho Fiscales;
+2) Ejercer las facultades de la Fiscalía Militar, a prevención de los Fiscales Militares, ante el Tribunal Militar de Apelación y Juzgados Militares de Audiencia y de Juicio que correspondan a dichos Fiscales;
 
 3) Impartir a los demás órganos de la Fiscalía Militar, órdenes concretas e instrucciones sobre la aplicación e interpretación de las leyes, con carácter general o referentes a un caso concreto, en aplicación del principio de unidad de actuación y dependencia de las normas jerárquicas;
 
@@ -12,7 +12,7 @@ Corresponde al Fiscal Militar General:
 
 5) Ejercer la potestad disciplinaria que le corresponda;
 
-6) Preparar a principio de cada año judicial, un informe sobre las cuestiones que se hubieren suscitado en el año anterior en relación con la jurisdicción militar y presentarlo al Auditor General.
+6) Preparar a principio de cada año judicial, un informe sobre las cuestiones que se hubieren suscitado en el año anterior en relación con la jurisdicción militar y presentarlo al Auditor General;
 
 7) Formar anualmente la estadística general de los procedimientos seguidos en la jurisdicción militar; y
 

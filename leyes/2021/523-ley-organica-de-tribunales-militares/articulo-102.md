@@ -1,3 +1,3 @@
 # Artículo 102
 
-Sin vigencia
+Sin vigencia.

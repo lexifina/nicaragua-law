@@ -4,4 +4,4 @@ En unidades del Ejército fuera del territorio nacional y en buques o naves mili
 
 De no hacer el inculpado designación de defensor, se le nombrará de oficio, a cuyo fin se establecerá un turno de los oficiales destinados en la unidad o buque.
 
-El Código de Procedimiento Penal Militar determinará las exenciones y excusas para actuar como defensor militar.
+La Ley N°. 617, Código de Procedimiento Penal Militar determinará las exenciones y excusas para actuar como defensor militar.

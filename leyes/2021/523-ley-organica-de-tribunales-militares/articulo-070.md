@@ -1,6 +1,6 @@
 # Artículo 70
 
-Los Magistrados y los Jueces Militares sólo pueden cesar en sus cargos por resolución de la Corte Plena de la Corte Suprema de Justicia, de conformidad con las facultades establecidas en el artículo 64, numeral 5) de la Ley Orgánica del Poder Judicial, por las siguientes causas:
+Los Magistrados y los Jueces Militares sólo pueden cesar en sus cargos por resolución de la Corte Plena de la Corte Suprema de Justicia, de conformidad con las facultades establecidas en el Artículo 64, numeral 5) de la Ley N°. 260, Ley Orgánica del Poder Judicial de la República de Nicaragua, por las siguientes causas:
 
 1) Por nombramiento en otro cargo, comisión de servicio o cualquier otra situación de carácter militar.
 
@@ -12,4 +12,4 @@ Los Magistrados y los Jueces Militares sólo pueden cesar en sus cargos por reso
 
 5) Por imposición de pena por delito militar o común; y
 
-6) Por incurrir en las incompatibilidades y prohibiciones establecidas por la Ley Orgánica del Poder Judicial.
+6) Por incurrir en las incompatibilidades y prohibiciones establecidas por la Ley N°. 260, Orgánica del Poder Judicial de la República de Nicaragua.

@@ -1,5 +1,5 @@
 # Artículo 94
 
-Los abogados están sujetos en el ejercicio de su función a responsabilidad penal, civil y disciplinaria, según proceda.
+Los Abogados están sujetos en el ejercicio de su función a responsabilidad penal, civil y disciplinaria, según proceda.
 
 SOBRE LAS SENTENCIAS

@@ -4,7 +4,7 @@ Corresponde a los Jueces Militares de Juicio, actuar como Juez Militar de Audien
 
 1) Oficiales Generales de cualquier grado y sus equivalentes o asimilados en los Tipos de Fuerza del Ejército.
 
-2) Oficiales Coroneles y sus equivalentes o asimilados en los Tipos de fuerza del Ejército.
+2) Oficiales Coroneles y sus equivalentes o asimilados en los Tipos de Fuerza del Ejército.
 
 3) Integrantes del Tribunal Militar de Apelación.
 

@@ -1,6 +1,6 @@
 # Artículo 78
 
-En los casos de presencia permanente o temporal fuera del territorio nacional de fuerzas o unidades del Ejército, la jurisdicción militar estará sujeta a las siguientes reglas:
+En los casos de presencia permanente o temporal fuera del territorio nacional de Fuerzas o Unidades del Ejército, la jurisdicción militar estará sujeta a las siguientes reglas:
 
 1) Conforme los Tratados, Acuerdos o Convenios internacionales en que Nicaragua sea parte; y
 
