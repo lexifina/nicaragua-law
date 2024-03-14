@@ -1,0 +1,27 @@
+LEY Nº. 1181, LEY DE ADICIÓN A LA LEY N°. 801, LEY DE CONTRATACIONES ADMINISTRATIVAS MUNICIPALES
+
+Aprobada el 13 de diciembre de 2023
+
+Publicada en La Gaceta, Diario Oficial N°. 228 del 15 de diciembre de 2023
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+A sus habitantes, hace saber:
+
+Que,
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+Ha ordenado lo siguiente:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+HA DICTADO
+
+La siguiente:
+
+LEY Nº. 1181
+
+LEY DE ADICIONES A LA LEY Nº. 801, LEY DE CONTRATACIONES ADMINISTRATIVAS MUNICIPALES
