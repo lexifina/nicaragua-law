@@ -1,0 +1,27 @@
+LEY N°. 1198, LEY DE REFORMA Y ADICIONES A LA LEY N°. 896, LEY CONTRA LA TRATA DE PERSONAS
+
+Aprobada el 11 de abril de 2024
+
+Publicada en La Gaceta, Diario Oficial N°. 64 del 12 de abril de 2024
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+A sus habitantes, hace saber:
+
+Que,
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+Ha ordenado lo siguiente:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+HA DICTADO
+
+La siguiente:
+
+LEY N°. 1198
+
+LEY DE REFORMA Y ADICIONES A LA LEY N°. 896, LEY CONTRA LA TRATA DE PERSONAS
