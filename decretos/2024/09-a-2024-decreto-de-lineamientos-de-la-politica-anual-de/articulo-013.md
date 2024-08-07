@@ -1,0 +1,5 @@
+# Artículo 13
+
+Entidades Sujetas a las Disposiciones.
+
+De conformidad con lo establecido en el Artículo 2 de la Ley No. 477 Ley General de Deuda Pública y al Artículo 3 del Decreto No. 2-2004, Reglamento a la Ley No. 477 Ley General de Deuda Pública ambas contenidas en la Ley No. 1101, Ley del Digesto Jurídico Nicaragüense de la Materia Sistema de Administración Financiera Publicada en La Gaceta Diario Oficial No. 190 del 19 de octubre 2023, los Artículos 2 y 3 de Ley No. 290 “Ley de Organización, Competencia y Procedimientos del Poder Ejecutivo con reformas incorporadas”, contenida en la Ley No. 1075, Ley del Digesto Jurídico Nicaragüense de la Materia Administrativa publicada en La Gaceta, Diario Oficial, No. 170 del 21 de septiembre de 2023 y sus Reformas, las disposiciones del presente Decreto son de carácter obligatorio para todas las entidades del Sector Público que requieran contratar crédito público, incluyendo aquellas instituciones que soliciten el aval o garantía del Estado para sus operaciones de crédito público.
