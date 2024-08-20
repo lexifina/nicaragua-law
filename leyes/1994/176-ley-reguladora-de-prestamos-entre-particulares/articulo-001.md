@@ -4,7 +4,7 @@ Los que se dedicaren a prestar dinero con interés, deberán cumplir con los req
 
 a) Declararse como prestamistas en escritura pública la cual deberá contener:
 
-1) Nombres, apellidos, generales de ley, datos de identificación;
+1) Nombres, apellidos, generales de ley, datos de identificación.
 
 2) Dirección exacta del lugar sede en el que ejercerá operaciones.
 
