@@ -1,6 +1,12 @@
-TEXTO DE LEY N°. 976, LEY DE LA UNIDAD DE ANÁLISIS FINANCIERO, CON SUS REFORMAS INCORPORADAS
+TEXTO CONSOLIDADO, LEY N°. 976, LEY DE LA UNIDAD DE ANÁLISIS FINANCIERO
 
-Publicado en La Gaceta, Diario Oficial N°. 190 del 07 de octubre de 2019
+Aprobado el 30 de noviembre de 2023
+
+Publicado en La Gaceta, Diario Oficial N°. 153 del 20 de agosto de 2024
+
+Digesto Jurídico Nicaragüense de la Materia de Banca y Finanzas
+
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 30 de noviembre de 2023, de la Ley N°. 976, Ley de la Unidad de Análisis Financiero, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense, y la Ley N°. 1175, Ley del Digesto Jurídico Nicaragüense de la Materia de Banca y Finanzas, aprobada el 30 de noviembre de 2023.
 
 El Presidente de la República de Nicaragua
 
@@ -24,4 +30,4 @@ LEY DE LA UNIDAD DE ANÁLISIS FINANCIERO
 
 CAPÍTULO I
 
-Disposiciones Generales
+DISPOSICIONES GENERALES

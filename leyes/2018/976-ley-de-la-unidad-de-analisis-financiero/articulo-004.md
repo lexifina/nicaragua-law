@@ -1,6 +1,6 @@
 # Artículo 4
 
-Causales de Remoción
+Causales de remoción
 
 El Director o Subdirector podrán ser removidos de su cargo por el Presidente de la República. Entre otras por las causales siguientes:
 

@@ -8,7 +8,7 @@ Servidores públicos de la UAF
 
 3. Queda estrictamente prohibido para el ejercicio de cargos que el Director, Subdirector y personal de la UAF:
 
-a) Tengan participación accionaría o cualquier tipo de relación en la que posean control administrativo directo o indirecto sobre Sujetos Obligados.
+a) Tengan participación accionaria o cualquier tipo de relación en la que posean control administrativo directo o indirecto sobre Sujetos Obligados.
 
 b) Los que hayan sido declarados en estado de insolvencia, quiebra o concurso por autoridad judicial, en los últimos cinco años antes de su nombramiento.
 
@@ -26,4 +26,4 @@ b) Personas Jurídicas en las que ellos formen parte o tengan interés.
 
 c) Sujetos Obligados con el que pueda tener conflicto de interés.
 
-Para ello deberá realizarse la correspondiente sustitución y en caso de no existir sustituto deberá nombrarse un funcionario ad-hoc. Los Sujetos Obligados pueden recusar al funcionario de la UAF siempre que prueben fehacientemente alguna de las causales establecidas en el Artículo 52 del Código Procesal Civil de la República de Nicaragua, en lo que fueren aplicables.
+Para ello deberá realizarse la correspondiente sustitución y en caso de no existir sustituto deberá nombrarse un funcionario ad hoc. Los Sujetos Obligados pueden recusar al funcionario de la UAF siempre que prueben fehacientemente alguna de las causales establecidas en el Artículo 52 de la Ley N°. 902, Código Procesal Civil de la República de Nicaragua, en lo que fueren aplicables.

@@ -10,7 +10,7 @@ b) Se enviará, se está enviando o que se ha enviado a la UAF un reporte concer
 
 c) Se está desarrollando o se ha desarrollado una investigación criminal sobre él en relación con actividades de LA/FT/FP y delitos precedentes asociados al LA.
 
-d) Se ha tomado la decisión de no proveer un producto o servicio, basándose en sospechas de que los activos del cliente proceden de actividades de LA/ FT/FP.
+d) Se ha tomado la decisión de no proveer un producto o servicio, basándose en sospechas de que los activos del cliente proceden de actividades de LA/FT/FP.
 
 2. Las prohibiciones anteriores no impedirán las revelaciones de información o comunicaciones sobre sospechas de LA/FT/FP y delitos precedentes asociados al LA entre directores, gerentes administrativos, oficiales de cumplimiento y empleados del Sujeto Obligado y asesores jurídicos y autoridades competentes, siempre que se requiera dentro del ejercicio de sus funciones.
 
