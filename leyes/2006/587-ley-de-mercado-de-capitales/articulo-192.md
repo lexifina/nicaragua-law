@@ -1,6 +1,6 @@
 # Artículo 192
 
-En relación con la información y contabilidad.
+En relación con la información y contabilidad
 
 1. Constituye infracción muy grave:
 

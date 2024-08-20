@@ -1,6 +1,8 @@
 # Artículo 123
 
-Normas y reglamentos internos. Los participantes en el mercado de valores deberán respetar las normas de conducta establecidas en este Capítulo.
+Normas y reglamentos internos
+
+Los participantes en el mercado de valores deberán respetar las normas de conducta establecidas en este Capítulo.
 
 Las bolsas de valores deberán establecer reglamentos internos con normas de conducta, de cumplimiento obligatorio para directores, personeros, asesores y empleados, así como para los puestos y agentes de bolsa. Los puestos de bolsa y las sociedades administradoras de fondos de inversión y titularización deberán establecer reglamentos en el mismo sentido.
 

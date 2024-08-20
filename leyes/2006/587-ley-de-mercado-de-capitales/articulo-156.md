@@ -1,6 +1,8 @@
 # Artículo 156
 
-Criterios para la liquidación y compensación. En el desempeño de las funciones de Compensación y Liquidación, las entidades autorizadas al efecto seguirán los principios de universalidad, entrega contra pago, objetivación de la fecha de liquidación, aseguramiento de la entrega y neutralidad financiera. Estos principios se concretan en las siguientes disposiciones:
+Criterios para la liquidación y compensación
+
+En el desempeño de las funciones de compensación y liquidación, las entidades autorizadas al efecto seguirán los principios de universalidad, entrega contra pago, objetivación de la fecha de liquidación, aseguramiento de la entrega y neutralidad financiera. Estos principios se concretan en las siguientes disposiciones:
 
 a) Se procesarán y se liquidarán todas las operaciones que se registren en cada una de las entidades autorizadas y que cumplan con los requisitos para ello.
 

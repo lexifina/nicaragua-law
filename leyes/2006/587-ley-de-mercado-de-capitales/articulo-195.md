@@ -1,6 +1,6 @@
 # Artículo 195
 
-En relación con los mercados y sus operaciones.
+En relación con los mercados y sus operaciones
 
 1. Constituyen infracciones muy graves:
 

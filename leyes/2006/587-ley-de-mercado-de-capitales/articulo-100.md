@@ -1,5 +1,7 @@
 # Artículo 100
 
-Venta o reembolso de participaciones. La venta o el reembolso directo de las participaciones por parte de los fondos de inversión, se hará al precio unitario determinado conforme a las normas generales del Consejo Directivo de la Superintendencia. Sin embargo, podrán establecerse comisiones para la venta o redención de dichos títulos.
+Venta o reembolso de participaciones
+
+La venta o el reembolso directo de las participaciones por parte de los fondos de inversión, se hará al precio unitario determinado conforme a las normas generales del Consejo Directivo de la Superintendencia. Sin embargo, podrán establecerse comisiones para la venta o redención de dichos títulos.
 
 El Superintendente podrá suspender temporalmente, de oficio o a petición de la sociedad administradora, la suscripción o el reembolso de participaciones, por no ser posible determinar su precio o por otra causa de fuerza mayor.

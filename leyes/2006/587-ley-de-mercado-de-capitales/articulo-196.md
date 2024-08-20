@@ -1,6 +1,6 @@
 # Artículo 196
 
-En relación con los intermediarios.
+En relación con los intermediarios
 
 1. Constituyen infracciones muy graves:
 

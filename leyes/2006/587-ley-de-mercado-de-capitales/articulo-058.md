@@ -1,3 +1,5 @@
 # Artículo 58
 
-Reporto. El reporto es un contrato por el cual el reportado traspasa en propiedad, al reportador, títulos valores de una especie dada por un determinado precio, y el reportador asume la obligación de traspasar al reportado, al vencimiento del plazo establecido, la propiedad de otros tantos títulos de la misma especie, contra el reembolso del precio, quedando el reportado obligado a rembolsar el precio, que puede ser aumentado o disminuido en la medida convenida. Este contrato se perfecciona con la entrega de los títulos, o bien conforme las disposiciones que contenga la presente Ley relativa a los valores desmaterializados.
+Reporto
+
+El reporto es un contrato por el cual el reportado traspasa en propiedad, al reportador, títulos valores de una especie dada por un determinado precio, y el reportador asume la obligación de traspasar al reportado, al vencimiento del plazo establecido, la propiedad de otros tantos títulos de la misma especie, contra el reembolso del precio, quedando el reportado obligado a rembolsar el precio, que puede ser aumentado o disminuido en la medida convenida. Este contrato se perfecciona con la entrega de los títulos, o bien conforme las disposiciones que contenga la presente Ley relativa a los valores desmaterializados.

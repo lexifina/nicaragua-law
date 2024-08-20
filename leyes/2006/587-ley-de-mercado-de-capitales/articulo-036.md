@@ -1,6 +1,8 @@
 # Artículo 36
 
-Organización. Las bolsas de valores se organizarán como sociedades anónimas, previa autorización del Consejo Directivo de la Superintendencia, de acuerdo a los procedimientos de autorización para las entidades bancarias señaladas en la Ley General de Bancos, Instituciones Financieras no Bancarias y Grupos Financieros, en lo que le fuere aplicable. Su capital social estará representado por acciones comunes y nominativas, suscritas y pagadas.
+Organización
+
+Las bolsas de valores se organizarán como sociedades anónimas, previa autorización del Consejo Directivo de la Superintendencia, de acuerdo a los procedimientos de autorización para las entidades bancarias señaladas en la Ley N°. 561, Ley General de Bancos, Instituciones Financieras no Bancarias y Grupos Financieros, en lo que le fuere aplicable. Su capital social estará representado por acciones comunes y nominativas, suscritas y pagadas.
 
 En ningún caso, la participación individual de un socio de Bolsa en el capital podrá exceder del veinte por ciento (20%) del capital total de la sociedad.
 

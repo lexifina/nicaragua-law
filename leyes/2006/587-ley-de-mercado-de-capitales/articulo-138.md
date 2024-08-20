@@ -1,29 +1,31 @@
 # Artículo 138
 
-Depositantes. Los depositantes son entidades nacionales o extranjeras que contraten los servicios de una Central de Valores y podrán ser los siguientes:
+Depositantes
 
-a) Los Puestos de Bolsa.
+Los depositantes son entidades nacionales o extranjeras que contraten los servicios de una Central de Valores y podrán ser los siguientes:
+
+a) Los puestos de bolsa.
 
 b) Bancos.
 
-c) Sociedades de Inversión.
+c) Sociedades de inversión.
 
-d) Sociedades Financieras.
+d) Sociedades financieras.
 
-e) Administradoras de Fondos de Pensión.
+e) Administradoras de fondos de pensión.
 
-f) Compañías de Seguros.
+f) Compañías de seguros.
 
-g) Bolsas de Valores.
+g) Bolsas de valores.
 
-h) Centrales de Valores.
+h) Centrales de valores.
 
-i) Arrendadoras Financieras.
+i) Arrendadoras financieras.
 
-j) Almacenes de Depósito.
+j) Almacenes de depósito.
 
-k) Sociedades Administradoras de Fondos de Inversión.
+k) Sociedades administradoras de fondos de inversión.
 
-l) Sociedades Administradoras de Fondos de Titularización
+l) Sociedades administradoras de fondos de titularización.
 
 m) Cualquier otra entidad que el Consejo Directivo de la Superintendencia autorice.

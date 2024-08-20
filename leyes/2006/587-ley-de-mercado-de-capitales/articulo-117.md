@@ -1,6 +1,8 @@
 # Artículo 117
 
-Sistemas de aprobación. La verificación y registro de los fondos de titularización que se propongan emitir valores en régimen de oferta pública, se someterá con las modificaciones que procedan, a las normas previstas en esta Ley, incluyendo entre los documentos acreditativos tanto la escritura de constitución del Fondo, como de las que acrediten la efectiva cesión a su favor de los activos que van a integrar su patrimonio.
+Sistemas de aprobación
+
+La verificación y registro de los fondos de titularización que se propongan emitir valores en régimen de oferta pública, se someterá con las modificaciones que procedan, a las normas previstas en esta Ley, incluyendo entre los documentos acreditativos tanto la escritura de constitución del Fondo, como de las que acrediten la efectiva cesión a su favor de los activos que van a integrar su patrimonio.
 
 Asimismo, la sociedad administradora deberá presentar para cada Fondo un prospecto informativo con carácter público el cual deberá ser aprobado por el Superintendente.
 

@@ -1,12 +1,12 @@
 # Artículo 193
 
-En relación con toda clase de valores y otros instrumentos anotados.
+En relación con toda clase de valores y otros instrumentos anotados
 
 1. Constituyen infracción muy grave:
 
 a) La emisión o distribución entre el público de valores falsos o documentos vinculados a operaciones de obtención de financiamiento por sociedades públicas o privadas, que no cumplan los requisitos previstos en esta Ley.
 
-b) La no-adopción por los emisores de las medidas adecuadas para prevenir y corregir desajustes entre los títulos-valores emitidos y los que se encuentran en circulación.
+b) La no adopción por los emisores de las medidas adecuadas para prevenir y corregir desajustes entre los títulos valores emitidos y los que se encuentran en circulación.
 
 c) La omisión de esas mismas medidas, y de los demás requisitos, por parte de quienes tienen encomendados el control y registros de instrumentos anotados o por quienes gestionen cuentas de valores para sí y para terceros.
 

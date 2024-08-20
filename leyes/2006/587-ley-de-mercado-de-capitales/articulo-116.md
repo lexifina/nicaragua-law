@@ -1,6 +1,8 @@
 # Artículo 116
 
-Calificación crediticia imperativa. No podrá autorizarse la constitución de ningún Fondo de Titularización, cuyos valores no hayan sido objeto de calificación crediticia por parte de una entidad calificadora de riesgos de prestigio internacionalmente reconocida a juicio del Superintendente.
+Calificación crediticia imperativa
+
+No podrá autorizarse la constitución de ningún Fondo de Titularización, cuyos valores no hayan sido objeto de calificación crediticia por parte de una entidad calificadora de riesgos de prestigio internacionalmente reconocida a juicio del Superintendente.
 
 Dicha calificación se requerirá en cada emisión de valores que pretenda poner en circulación cualquier Fondo de Titularización, independientemente de la calificación que tenga con carácter general la entidad o entidades originadoras.
 

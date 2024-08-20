@@ -1,6 +1,8 @@
 # Artículo 175
 
-Funciones del Superintendente. El Superintendente, en su función de vigilancia y fiscalización de las sociedades calificadoras, además de las atribuciones que le concedan otros artículos de esta Ley o sus normas, tendrá las siguientes funciones:
+Funciones del Superintendente
+
+El Superintendente, en su función de vigilancia y fiscalización de las sociedades calificadoras, además de las atribuciones que le concedan otros artículos de esta Ley o sus normas, tendrá las siguientes funciones:
 
 a) Autorizar el inicio de operaciones de este tipo de sociedades; para ello, señalará los requisitos y procedimientos que estas deberán cumplir.
 

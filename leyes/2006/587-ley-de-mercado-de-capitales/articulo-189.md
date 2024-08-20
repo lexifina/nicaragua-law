@@ -1,6 +1,8 @@
 # Artículo 189
 
-Sanciones a directores y personal administrativo. Cuando las infracciones se imputen de manera exclusiva, o bien de forma conjunta o solidaria con la sociedad a los titulares de su órgano directivo, administrativo o a los responsables de un área de actividad, las sanciones aplicables serán las siguientes:
+Sanciones a directores y personal administrativo
+
+Cuando las infracciones se imputen de manera exclusiva, o bien de forma conjunta o solidaria con la sociedad a los titulares de su órgano directivo, administrativo o a los responsables de un área de actividad, las sanciones aplicables serán las siguientes:
 
 a) En caso de infracciones muy graves, separación en el puesto que se estuviera desempeñando. Deberá decretarse como accesoria, la amonestación pública en su caso, la inhabilitación para ejercer cualquier cargo directivo o empleo de responsabilidad en sociedades financieras de todo tipo por plazo no superior a diez años.
 

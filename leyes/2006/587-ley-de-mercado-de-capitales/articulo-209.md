@@ -1,6 +1,8 @@
 # Artículo 209
 
-Revocación de autorización para operar. El Superintendente podrá mediante resolución razonada, revocar la autorización para operar a las entidades reguladas en esta Ley, cuando incurran en las siguientes causales:
+Revocación de autorización para operar
+
+El Superintendente podrá mediante resolución razonada, revocar la autorización para operar a las entidades reguladas en esta Ley, cuando incurran en las siguientes causales:
 
 1) Disminución de capital por debajo del mínimo establecido, si no lo ha restituido en el plazo establecido por el Superintendente, el cual no deberá ser superior a seis meses.
 

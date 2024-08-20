@@ -1,6 +1,8 @@
 # Artículo 190
 
-Graduación de las sanciones aplicables. La determinación y aplicación concreta de las multas, y de las demás sanciones principales o accesorias previstas en esta Ley, la hará el Superintendente, en función de la gravedad de la infracción, del grado de responsabilidad y de los beneficios obtenidos, teniendo en cuenta, además, la naturaleza del sujeto infractor.
+Graduación de las sanciones aplicables
+
+La determinación y aplicación concreta de las multas, y de las demás sanciones principales o accesorias previstas en esta Ley, la hará el Superintendente, en función de la gravedad de la infracción, del grado de responsabilidad y de los beneficios obtenidos, teniendo en cuenta, además, la naturaleza del sujeto infractor.
 
 En la determinación de la gravedad de la infracción y magnitud de la responsabilidad se atenderá a las siguientes circunstancias:
 

@@ -1,6 +1,8 @@
 # Artículo 121
 
-De los valores emitidos por los fondos de titularización. Los valores emitidos con cargo a los fondos de titularización se representarán exclusivamente mediante anotaciones electrónicas en cuenta y las sociedades administradoras de dichos fondos deberán solicitar, salvo las excepciones previstas en esta Ley o que por norma general pueda establecer el Consejo Directivo de la Superintendencia, su admisión a negociación en un mercado secundario organizado.
+De los valores emitidos por los fondos de titularización
+
+Los valores emitidos con cargo a los fondos de titularización se representarán exclusivamente mediante anotaciones electrónicas en cuenta y las sociedades administradoras de dichos fondos deberán solicitar, salvo las excepciones previstas en esta Ley o que por norma general pueda establecer el Consejo Directivo de la Superintendencia, su admisión a negociación en un mercado secundario organizado.
 
 Los valores mencionados en el párrafo anterior podrán ser distintos en cuanto a tipo de interés, que podrá ser fijo o variable, diferir en el plazo y forma de amortización, que podrá adelantarse cuando se produzca anticipadamente la de los activos titularizados, variar respecto de la prelación o subordinación en cuanto al cobro del principal o intereses o en el disfrute de otras ventajas, siempre que las diferencias admisibles aparezcan debidamente recogidas en el prospecto de emisión.
 

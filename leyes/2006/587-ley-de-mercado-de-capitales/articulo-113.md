@@ -1,6 +1,8 @@
 # Artículo 113
 
-Cobertura de los activos cedidos. Cualquier proceso de titularización requerirá de las coberturas internas o externas, así como de los mecanismos de liquidez necesarios para alcanzar y mantener la calificación crediticia que pretendan disfrutar los valores emitidos por el Fondo.
+Cobertura de los activos cedidos
+
+Cualquier proceso de titularización requerirá de las coberturas internas o externas, así como de los mecanismos de liquidez necesarios para alcanzar y mantener la calificación crediticia que pretendan disfrutar los valores emitidos por el Fondo.
 
 Las coberturas internas podrán organizarse mediante el uso de alguna de las siguientes técnicas financieras u otras similares:
 

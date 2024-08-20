@@ -1,12 +1,14 @@
 # Artículo 80
 
-Prohibición para realizar determinadas operaciones. Las sociedades administradoras de fondos de inversión no podrán realizar las operaciones siguientes:
+Prohibición para realizar determinadas operaciones
+
+Las sociedades administradoras de fondos de inversión no podrán realizar las operaciones siguientes:
 
 a) Invertir en valores emitidos por ellas mismas con los recursos de los fondos de inversión que administra.
 
 b) Invertir su capital en los fondos que administran.
 
-c) Conceder créditos con dinero del fondo, sin perjuicio de las operaciones de reporto referidas en esta Ley, de acuerdo con las normas generales del Consejo Directivo de la Superintendencia. Así como, emitir cualquier clase de garantía.
+c) Conceder créditos con dinero del Fondo, sin perjuicio de las operaciones de reporto referidas en esta Ley, de acuerdo con las normas generales del Consejo Directivo de la Superintendencia. Así como, emitir cualquier clase de garantía.
 
 d) Garantizar al inversionista, directa o indirectamente y mediante cualquier tipo de contrato, un rendimiento determinado.
 

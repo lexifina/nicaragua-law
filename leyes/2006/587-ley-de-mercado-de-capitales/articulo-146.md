@@ -1,6 +1,8 @@
 # Artículo 146
 
-Anotaciones en registro. Las Centrales de Valores llevarán las anotaciones correspondientes a la totalidad de los valores desmaterializados, inscritos en el Registro de Valores de la Superintendencia. Para tal efecto, al igual que para los títulos físicos depositados en una central de valores se mantendrán dos tipos de cuentas por cada depositante, uno para los valores por cuenta propia y el otro para los valores por cuenta de terceros.
+Anotaciones en Registro
+
+Las centrales de valores llevarán las anotaciones correspondientes a la totalidad de los valores desmaterializados, inscritos en el Registro de Valores de la Superintendencia. Para tal efecto, al igual que para los títulos físicos depositados en una Central de Valores se mantendrán dos tipos de cuentas por cada depositante, uno para los valores por cuenta propia y el otro para los valores por cuenta de terceros.
 
 Los depositantes llevarán las anotaciones de las personas naturales o jurídicas que no estén autorizadas para participar como depositantes de las centrales de valores.
 

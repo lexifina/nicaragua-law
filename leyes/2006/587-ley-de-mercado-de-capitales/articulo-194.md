@@ -1,6 +1,6 @@
 # Artículo 194
 
-En relación con las ofertas públicas.
+En relación con las ofertas públicas
 
 1. Constituyen infracciones muy graves:
 

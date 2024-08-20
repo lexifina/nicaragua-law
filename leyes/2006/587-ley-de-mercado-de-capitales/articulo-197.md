@@ -1,6 +1,6 @@
 # Artículo 197
 
-En materia de titularización e inversión colectiva.
+En materia de titularización e inversión colectiva
 
 1. Constituyen infracción muy grave:
 
@@ -14,11 +14,11 @@ d) La omisión de los deberes de reposición de activos fallidos o pre amortizad
 
 e) El incumplimiento de las normas sobre calificación crediticia por parte de los fondos de titularización.
 
-f) La transmisión al público en general de valores de Fondos de Titularización sin calificación y, las transacciones con los administradores prohibidas en esta Ley, respecto de los fondos de inversión.
+f) La transmisión al público en general de valores de fondos de titularización sin calificación y, las transacciones con los administradores prohibidas en esta Ley, respecto de los fondos de inversión.
 
 g) Incumplimiento de los deberes de vigilancia recíproca por sociedades administradoras y de custodia de fondos de inversión.
 
-h) Violación de las normas sobre diversificación de inversiones, si repercute de modo importante a juicio del Superintendente, sobre la solvencia del fondo de inversión.
+h) Violación de las normas sobre diversificación de inversiones, si repercute de modo importante a juicio del Superintendente, sobre la solvencia del Fondo de Inversión.
 
 2. Constituyen infracciones graves:
 
@@ -32,4 +32,4 @@ c) Los desajustes no permitidos de los flujos financieros de los fondos de titul
 
 d) No obstante lo previsto en el número anterior, las infracciones contempladas en sus tres últimos numerales podrán calificarse como muy graves, en caso de reincidencia, o cuando concurran alguna de las demás circunstancias agravantes previstas en el Artículo 190 de la presente Ley.
 
-e) Las infracciones previstas en los Artículos 192 y 193 serán también de aplicación a los fondos de inversión, a los fondos de titularización, a sus respectivas sociedades administradoras y demás partícipes en la práctica de las referidas actividades, cuando incurran en los supuestos en dichos artículos contemplados.
+e) Las infracciones previstas en los artículos 192 y 193 serán también de aplicación a los fondos de inversión, a los fondos de titularización, a sus respectivas sociedades administradoras y demás partícipes en la práctica de las referidas actividades, cuando incurran en los supuestos en dichos artículos contemplados.
