@@ -1,5 +1,7 @@
 # Artículo 19
 
+Atribuciones del Presidente
+
 Son atribuciones del Presidente del Consejo Directivo:
 
 1. Ejercer la representación legal del FOGADE.
@@ -14,7 +16,7 @@ Son atribuciones del Presidente del Consejo Directivo:
 
 6. Contratar al personal del FOGADE de acuerdo con las políticas dictadas por su Consejo Directivo.
 
-7. Requerir de la Superintendencia de Bancos y de otras Instituciones Financieras y del Banco Central de Nicaragua, la información necesaria para el cumplimiento de los fines del FOGADE.
+7. Requerir de la Superintendencia de Bancos y de Otras Instituciones Financieras y del Banco Central de Nicaragua, la información necesaria para el cumplimiento de los fines del FOGADE.
 
 8. Ejecutar el proceso de intervención conforme los términos de la presente Ley y ejercer la vigilancia y fiscalización del proceso de liquidación forzosa de entidades financieras miembros del Sistema de Garantía de Depósitos.
 
@@ -33,5 +35,3 @@ Son atribuciones del Presidente del Consejo Directivo:
 15. Otorgar poderes generales judiciales y especiales.
 
 16. Las demás previstas en esta Ley.
-
-Presupuesto del FOGADE.

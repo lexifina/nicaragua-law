@@ -1,5 +1,7 @@
 # Artículo 31
 
+Depósitos excluidos
+
 No obstante lo dispuesto en el Artículo anterior, no están cubiertos por la garantía a que se refiere esta Ley los siguientes depósitos:
 
 1. Los depósitos mantenidos por otras instituciones financieras.
@@ -19,5 +21,3 @@ No obstante lo dispuesto en el Artículo anterior, no están cubiertos por la ga
 8. Los depósitos originados por transacciones relacionadas a sentencias condenatorias por la comisión de ilícitos, y en general, los depósitos constituidos con infracción grave de normas legales o reglamentarias imputables al depositante.
 
 9. Los instrumentos que gozando formalmente de la denominación de depósito, sean esencialmente operaciones distintas.
-
-Monto de la cobertura.

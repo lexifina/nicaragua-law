@@ -1,5 +1,5 @@
 # Artículo 3
 
-El FOGADE tendrá las competencias que esta Ley le señale y no podrá utilizar los recursos que administra para finalidad distinta a la que expresamente establece esta Ley.
+Competencia. Utilización de los recursos
 
-Miembros del Sistema de Garantía de Depósitos.
+El FOGADE tendrá las competencias que esta Ley le señale y no podrá utilizar los recursos que administra para finalidad distinta a la que expresamente establece esta Ley.

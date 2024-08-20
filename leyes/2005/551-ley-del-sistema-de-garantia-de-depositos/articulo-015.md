@@ -1,5 +1,7 @@
 # Artículo 15
 
+Causales de destitución
+
 El Presidente podrá ser destituido en sus funciones por el Presidente de la República, a propuesta del Consejo Directivo del FOGADE, por las causas siguientes:
 
 1. Enfermedad que lo incapacite para el ejercicio de sus funciones.
@@ -13,5 +15,3 @@ El Presidente podrá ser destituido en sus funciones por el Presidente de la Rep
 5. Por incapacidad o negligencia manifiesta en el ejercicio de su cargo.
 
 En todos los casos deberá dársele audiencia para que alegue lo que crea conveniente en su defensa.
-
-Remuneración.

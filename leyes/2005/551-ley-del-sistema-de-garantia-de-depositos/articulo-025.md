@@ -1,9 +1,9 @@
 # Artículo 25
 
+Cálculo de primas. Fecha de pago
+
 Las primas por la garantía de depósitos serán calculadas en base anual y su importe se distribuirá en pagos mensuales iguales. Para su fijación, se tomará como base el saldo promedio mensual al cierre del ejercicio anterior de los depósitos que presente el pasivo del balance de cada entidad del Sistema de Garantía de Depósitos, aplicando al valor resultante un porcentaje para cada una de las entidades, que determinará el Consejo Directivo al comienzo de cada ejercicio, de acuerdo a lo establecido en el numeral 1) del Artículo 18 de esta Ley. La primera fecha de pago coincidirá con el pago de la cuota inicial y las sucesivas el último día hábil de cada mes. El pago se realizará en la moneda en que estén constituidos los depósitos por transferencia a las cuentas respectivas, abiertas a nombre del FOGADE en el Banco Central de Nicaragua. De no realizarse el pago en las fechas debidas, el Banco Central de Nicaragua de oficio, procederá a realizar el cargo contra la cuenta de encaje al momento de cierre de operaciones de dicho día. Si no existieran fondos suficientes en dicha cuenta, se considerará incumplida la obligación de pago con los efectos previstos en el Artículo 5 de esta Ley. La misma regla de cobro de oficio se aplicará para el cobro de la cuota inicial.
 
 Las instituciones financieras miembros del Fondo de Garantía de Depósitos que asuma los depósitos de otra entidad miembro, deberán comenzar a pagar las primas correspondientes a los depósitos asumidos a partir del momento en que se materialice o haga efectiva dicha asunción.
 
 En el caso de instituciones financieras que obtengan autorización para operar con posterioridad a la entrada en vigencia de la presente Ley, el cálculo de la prima para el primer ejercicio será realizado sobre el estimado de las captaciones de depósitos previstas por la entidad para dicho ejercicio en su estudio de factibilidad económico-financiero presentado al Superintendente.
-
-Inembargabilidad de los recursos financieros.

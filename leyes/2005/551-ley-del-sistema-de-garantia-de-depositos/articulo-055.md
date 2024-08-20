@@ -1,5 +1,7 @@
 # Artículo 55
 
+Causales de destitución
+
 El Director de la Unidad solo podrá ser destituido por el Consejo Directivo, por las causas siguientes:
 
 1. Faltas graves cometidas en el ejercicio de sus funciones.
@@ -15,5 +17,3 @@ El Director de la Unidad solo podrá ser destituido por el Consejo Directivo, po
 6. Por ausencia injustificada en el ejercicio de su cargo por más de quince días laborables continuos.
 
 En todos los casos deberá dársele audiencia para que alegue lo que crea conveniente en su defensa.
-
-Contratación de bienes y servicios.

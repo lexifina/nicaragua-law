@@ -1,5 +1,7 @@
 # Artículo 73
 
+Prelación de pago
+
 En la liquidación de una institución financiera referida en la presente Ley, constituyen créditos privilegiados, los siguientes en el orden que se determina:
 
 1. Los montos pagados por el FOGADE, en concepto de restitución de depósitos garantizados cuando haya utilizado los recursos del mismo.
@@ -17,5 +19,3 @@ En la liquidación de una institución financiera referida en la presente Ley, c
 7. Los que se adeuden a otras entidades estatales.
 
 Luego se atenderán otros créditos, de acuerdo al orden y forma determinados por el Código Civil.
-
-Compensación.

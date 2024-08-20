@@ -1,7 +1,7 @@
 # Artículo 22
 
-Las transferencias de activos realizadas en el proceso de restitución estarán exentas del pago de los aranceles registrales.
+Privilegios legales
 
-Serán aplicables al FOGADE, los privilegios legales otorgados a los bancos referidos en la Ley General de Bancos, Instituciones Financieras no Bancarias y Grupos Financieros, en lo que le fuere aplicable.
+Las transferencias de activos realizadas en el proceso de restitución estarán exentas del pago de los aranceles regístrales.
 
-Convenio FOGADE - Banco Central.
+Serán aplicables al FOGADE, los privilegios legales otorgados a los bancos referidos en la Ley N°. 561, Ley General de Bancos, Instituciones Financieras no Bancarias y Grupos Financieros, en lo que le fuere aplicable.
