@@ -1,6 +1,6 @@
 # Artículo 5
 
-Creación.
+Creación
 
 Créase la Comisión Nacional de Microfinanzas (CONAMI) como ente autónomo del Estado, con personalidad jurídica y patrimonio propio, y plena capacidad para adquirir derechos y contraer obligaciones respecto de aquellos actos o contratos que sean necesarios para el cumplimiento de sus objetivos y funciones.
 

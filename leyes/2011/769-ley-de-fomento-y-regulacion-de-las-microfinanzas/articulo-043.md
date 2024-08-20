@@ -1,5 +1,5 @@
 # Artículo 43
 
-Representación legal.
+Representación legal
 
 Cada una de las IMF acreditará a su representante legal ante la CONAMI, de conformidad a lo establecido en su acto constitutivo, estatutos y demás normativas internas de las IMF.

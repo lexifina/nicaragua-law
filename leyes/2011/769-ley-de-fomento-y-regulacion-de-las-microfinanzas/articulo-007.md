@@ -1,6 +1,6 @@
 # Artículo 7
 
-Dirección y administración.
+Dirección y administración
 
 La CONAMI tendrá los siguientes órganos de gobierno:
 

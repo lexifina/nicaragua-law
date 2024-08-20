@@ -1,6 +1,6 @@
 # Artículo 47
 
-Responsabilidades de la Junta Directiva.
+Responsabilidades de la Junta Directiva
 
 La Junta Directiva de las IMF, sin perjuicio de las demás disposiciones legales y contractuales que le sean aplicables, tendrá entre otras las responsabilidades siguientes:
 
@@ -20,13 +20,13 @@ La Junta Directiva de las IMF, sin perjuicio de las demás disposiciones legales
 
 8. Recibir reportes periódicos sobre la marcha de la institución y conocer los estados financieros mensuales y anuales de la misma;
 
-9. Velar por que se observe la debida diligencia por parte de los empleados y funcionarios de la institución, en el manejo y uso de los productos y servicios de ésta;
+9. Velar por que se observe la debida diligencia por parte de los empleados y funcionarios de la institución, en el manejo y uso de los productos y servicios de esta;
 
 10. Establecer las medidas necesarias para corregir las irregularidades detectadas en la gestión de la entidad;
 
-11. Velar porque se cumplan sin demora las resoluciones que dicte la CONAMI, así como los requerimientos de información realizados por ésta;
+11. Velar porque se cumplan sin demora las resoluciones que dicte la CONAMI, así como los requerimientos de información realizados por esta;
 
-12. Establecer las medidas conducentes a garantizar la oportuna realización de las auditorías internas y externas independientes que aseguren un conocimiento de eventuales errores y anomalías, analicen la eficacia de los controles y la transparencia de los estados financieros.
+12. Establecer las medidas conducentes a garantizar la oportuna realización de las auditorías internas y externas independientes que aseguren un conocimiento de eventuales errores y anomalías, analicen la eficacia de los controles y la transparencia de los estados financieros;
 
 13. Asegurar que se implementen las recomendaciones derivadas de los informes de auditoría, tanto interna como externa, así como del Comité de Riesgos; y
 

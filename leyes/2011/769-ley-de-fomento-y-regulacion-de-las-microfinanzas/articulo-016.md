@@ -1,6 +1,6 @@
 # Artículo 16
 
-Presidente ejecutivo.
+Presidente Ejecutivo
 
 El Presidente Ejecutivo de la CONAMI es el funcionario principal de la misma, y tiene a su cargo la representación legal de la institución, tanto en lo judicial como en lo extrajudicial, así como la administración y el manejo de las gestiones propias de la entidad. Además, será el encargado de cumplir y hacer cumplir las normas y demás resoluciones dictadas por el Consejo Directivo de la CONAMI.
 

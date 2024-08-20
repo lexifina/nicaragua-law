@@ -1,6 +1,6 @@
 # Artículo 27
 
-Uso de recursos del FOPROMI.
+Uso de recursos del FOPROMI
 
 Los recursos del FOPROMI serán utilizados para financiar las siguientes actividades y/o proyectos:
 
@@ -10,6 +10,6 @@ Los recursos del FOPROMI serán utilizados para financiar las siguientes activid
 
 3. Capacitaciones para fomentar la oferta de servicios financieros y no financieros.
 
-4. Apoyo técnico, a solicitud de las IFIM registradas, para la gestión de recursos de fondeo tanto de fuentes internas o externas.
+4. Apoyo técnico, a solicitud de las IMF registradas, para la gestión de recursos de fondeo tanto de fuentes internas o externas.
 
 La CONAMI deberá emitir normas generales que regulen el uso de los recursos en las actividades y/o proyectos señalados en los numerales anteriores.

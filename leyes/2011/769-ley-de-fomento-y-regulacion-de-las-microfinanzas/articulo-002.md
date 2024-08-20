@@ -1,6 +1,6 @@
 # Artículo 2
 
-Finalidades.
+Finalidades
 
 Son finalidades de la presente Ley:
 

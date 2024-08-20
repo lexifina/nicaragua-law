@@ -1,6 +1,6 @@
 # Artículo 14
 
-Remoción.
+Remoción
 
 Los miembros del Consejo Directivo de CONAMI solamente podrán ser removidos de sus cargos antes de la expiración del período correspondiente, si se presenta alguna de las siguientes causales:
 

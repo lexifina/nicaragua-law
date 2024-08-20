@@ -1,6 +1,6 @@
 # Artículo 51
 
-Gobierno Corporativo.
+Gobierno corporativo
 
 Gobierno corporativo es el conjunto de directrices y normas que regulan las relaciones internas entre la Asamblea General, la Junta Directiva, el ejecutivo principal, las gerencias, funcionarios y empleados; así como entre la institución, el ente supervisor y el público.
 

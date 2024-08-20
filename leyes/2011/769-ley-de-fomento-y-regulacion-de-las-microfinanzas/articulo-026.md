@@ -1,6 +1,6 @@
 # Artículo 26
 
-Financiamiento del FOPROMI.
+Financiamiento del FOPROMI
 
 El FOPROMI podrá ser financiado mediante:
 

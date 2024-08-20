@@ -1,6 +1,6 @@
 # Artículo 58
 
-Reserva en las operaciones.
+Reserva en las operaciones
 
 Las operaciones activas y de prestación de servicios que las IMF celebren con sus clientes están sujetas a reserva, entendiéndose como tal, la información a la que pueden acceder las partes involucradas en la operación.
 
@@ -20,7 +20,7 @@ Se exceptúa de esta disposición:
 
 7. La información que se canalice a través de convenios de intercambio o de cooperación, suscritos por el Presidente Ejecutivo de la CONAMI con autoridades supervisoras financieras nacionales o extranjeras;
 
-8. Las requeridas por la autoridad judicial en virtud de procesos que este conociendo;
+8. Las requeridas por la autoridad judicial en virtud de procesos que esté conociendo;
 
 9. Los requerimientos de información que efectúe el Banco Central de Nicaragua con fines estadísticos y de análisis macroeconómico, en el marco de lo dispuesto en su Ley Orgánica; y
 
@@ -30,6 +30,6 @@ Ninguna autoridad administrativa, exceptuándose a la CONAMI y la UAF, podrán s
 
 Los directores, gerentes, auditores y cualquier otro empleado de las IMF serán responsables personal y penalmente por la violación de la reserva y estarán obligados a reparar los daños y perjuicios causados al cliente o a la IMF.
 
-Lo señalado en el presente artículo aplicará también al resto de IFIM registradas ante la CONAMI.
+Lo señalado en el presente Artículo aplicará también al resto de IMF registradas ante la CONAMI.
 
 SANCIONES Y RECURSOS ADMINISTRATIVOS
