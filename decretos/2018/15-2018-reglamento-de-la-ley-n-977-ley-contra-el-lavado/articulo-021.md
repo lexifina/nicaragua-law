@@ -1,6 +1,6 @@
 # Artículo 21
 
-Búsqueda e inmovilización de fondos u otros activos de personas y organizaciones designadas.
+Búsqueda e inmovilización de fondos u otros activos de personas y organizaciones designadas
 
 Los Sujetos Obligados y demás destinatarios de las actualizaciones de listas buscarán e inmovilizarán los siguientes fondos u otros activos que se encuentren en su poder:
 

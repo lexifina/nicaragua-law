@@ -1,6 +1,6 @@
 # Artículo 23
 
-Comunicación de resultados.
+Comunicación de resultados
 
 Los Sujetos Obligados y demás destinatarios de las listas informarán de manera confidencial a la UAF sobre:
 

@@ -1,6 +1,6 @@
 # Artículo 28
 
-Acceso a fondos para sufragar gastos básicos.
+Acceso a fondos para sufragar gastos básicos
 
 Las personas y organizaciones afectadas por la medida de inmovilización de fondos u otros activos podrán solicitar a la autoridad judicial el acceso a los fondos u otros activos que sean necesarios para sufragar gastos básicos, incluido el pago de alimentos, alquileres o hipotecas, medicamentos y tratamientos médicos, impuestos, primas de seguros y gastos de agua y electricidad, o exclusivamente para pagar honorarios profesionales razonables y el reembolso de gastos asociados con la prestación de servicios jurídicos o tasas o cargos por servicios de mantenimiento de fondos inmovilizados u otros activos financieros o recursos económicos.
 

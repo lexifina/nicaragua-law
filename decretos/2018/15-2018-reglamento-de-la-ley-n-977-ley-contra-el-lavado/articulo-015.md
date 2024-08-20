@@ -1,8 +1,8 @@
 # Artículo 15
 
-Cooperación relacionada con la información de las OSFL.
+Cooperación relacionada con la información de las OSFL
 
-Las entidades públicas encargadas de la regulación y supervisión de las OSFL competentes a través de mecanismos eficaces de cooperación y coordinación entre sí, en el marco de colaboración interinstitucional en lo referido al desarrollo e implementación de políticas y actividades contra el LA/FT/FP, deberán:
+Las entidades públicas encargadas de la regulación y supervisión de las OSFL competentes a través de mecanismos eficaces de cooperación y coordinación entre sí, en el marco de colaboración interinstitucional en lo referido al desarrollo e implementación de políticas y actividades contra el LA/FT/FP, deberá:
 
 1. Garantizar de manera ágil y oportuna la información requerida por autoridad competente, referida al actuar de las OSFL.
 

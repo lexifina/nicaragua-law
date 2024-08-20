@@ -1,14 +1,14 @@
 # Artículo 14
 
-Deberes de las OSFL.
+Deberes de las OSFL
 
-Además de los deberes relativos a la prevención del LA/ FT/FP, relacionados en el artículo 38 de la Ley No. 977, las OSFL deberán promover la transparencia, integridad y confianza pública en la administración y manejo de todas sus operaciones financieras, cumpliendo con los siguientes requisitos:
+Además de los deberes relativos a la prevención del LA/FT/FP, relacionados en el Artículo 38 de la Ley N°. 977, Ley Contra el Lavado de Activos, el Financiamiento al Terrorismo y el Financiamiento a la Proliferación de Armas de Destrucción Masiva, las OSFL deberán promover la transparencia, integridad y confianza pública en la administración y manejo de todas sus operaciones financieras, cumpliendo con los siguientes requisitos:
 
 1. Presentar información a la entidad reguladora de:
 
-a. Identidad y origen de todos sus miembros donantes (nombres y apellidos, cédula de identificación y/o pasaporte, dirección exacta, domicilio y teléfonos).
+a. Identidad y origen de todos sus miembros donantes (nombres y apellidos, cédula de identidad y/o pasaporte, dirección exacta, domicilio y teléfonos).
 
-b. Estados financieros anuales con desgloses detallados de estados de resultados (ingreso /egreso), balance general, balanza de comprobación, detalle de donaciones y el origen y aplicación de fondos.
+b. Estados financieros anuales con desgloses detallados de estados de resultados (ingreso/egreso), balance general, balanza de comprobación, detalle de donaciones y el origen y aplicación de fondos.
 
 2. Las OSFL están obligadas a enviar a la entidad reguladora, sus estados financieros de acuerdo con el período fiscal vigente.
 
