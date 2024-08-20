@@ -1,12 +1,12 @@
 # Artículo 14
 
-Criterios de inversión.
+Criterios de inversión
 
-En aquellos casos en que el fideicomitente no dé instrucciones precisas al fiduciario sobre las inversiones que pueda realizar, o cuando se hubiere dejado a discreción de este último, para los efectos de lo establecido en el Artículo 32 de la Ley 741, Ley sobre el Contrato de Fideicomiso, entiéndase por inversiones de la más absoluta seguridad aquellas que, entre otras, cumplan con las siguientes características:
+En aquellos casos en que el Fideicomitente no dé instrucciones precisas al Fiduciario sobre las inversiones que pueda realizar, o cuando se hubiere dejado a discreción de este último, para los efectos de lo establecido en el Artículo 32 de la Ley N°. 741, Ley sobre el Contrato de Fideicomiso, entiéndase por inversiones de la más absoluta seguridad aquellas que, entre otras, cumplan con las siguientes características:
 
 a) En el país:
 
-1) Depósitos en bancos o sociedades financieras autorizadas para captarlos;
+1) Depósitos en bancos o sociedades financieras autorizadas para captarlos.
 
 2) Valores representativos de deuda emitidos por el Banco Central de Nicaragua y el Ministerio de Hacienda y Crédito Público.
 

@@ -1,5 +1,5 @@
 # Artículo 22
 
-Vigencia.
+Vigencia
 
 El presente Decreto entrará en vigencia a partir de su publicación en La Gaceta, Diario Oficial. Por tanto publíquese.
