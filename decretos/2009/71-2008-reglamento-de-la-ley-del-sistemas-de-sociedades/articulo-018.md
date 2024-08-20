@@ -1,8 +1,8 @@
 # Artículo 18
 
-Prohibiciones Generales.
+Prohibiciones generales
 
-Al tenor de lo establecido en el Artículo 13 de la Ley, no podrá ser socio partícipe o socio protector:
+Al tenor de lo establecido en el Artículo 13 de la Ley, no podrá ser Socio Partícipe o Socio Protector:
 
 1. Las personas a quienes se les haya condenado por participación en las actividades relacionadas con estupefacientes, psicotrópicos y otras sustancias controladas, delitos contra Hacienda Pública y la Seguridad Social, delitos contra la falsificación de moneda, valores y efectos timbrados, lavado de dinero, bienes o activos, delitos de falsedad, delitos societarios, delitos contra el sistema bancario, delito de usura, delitos de quiebra e insolvencias punibles, delitos de defraudación sin perjuicio de los demás delitos establecidos en el Código Penal vigente de la República de Nicaragua.
 

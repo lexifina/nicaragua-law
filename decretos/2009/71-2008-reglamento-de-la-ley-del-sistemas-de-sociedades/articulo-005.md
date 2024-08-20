@@ -1,6 +1,6 @@
 # Artículo 5
 
-De las atribuciones del Órgano Regulador.
+De las atribuciones del Órgano Regulador
 
 Cuando las SGR y RSGR, estimen conveniente recurrir ante el Órgano Regulador en virtud de lo establecido en los literales c), e), j), l) y q) del Artículo 5 de la Ley, deberán cumplir con los siguientes requisitos:
 

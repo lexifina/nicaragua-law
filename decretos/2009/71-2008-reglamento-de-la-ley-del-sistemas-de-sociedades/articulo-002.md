@@ -1,16 +1,14 @@
 # Artículo 2
 
-Definiciones Generales.
+Definiciones generales
 
 Para los efectos del presente Reglamento se entenderá por:
-
-BCN: Banco Central de Nicaragua.
 
 Comisión Técnica: Comisión Técnica integrada por hasta cinco miembros representantes de cada una de las siguientes instituciones: MHCP, MIFIC, Banco de Fomento a la Producción (PRODUZCAMOS) y un representante a nivel nacional de las MIPYME. Adicionalmente podrá integrarse un representante de las SGR.
 
 El Fondo: Fondo para el Desarrollo de las Sociedades de Garantías Recíprocas.
 
-Ley: Ley 663, Ley del Sistema de Sociedad de Garantías Recíprocas para las Micro, Pequeña y Mediana Empresa.
+Ley: Ley N°. 663, Ley del Sistema de Sociedad de Garantías Recíprocas para las Micro, Pequeña y Mediana Empresa.
 
 MIFIC: Ministerio de Fomento, Industria y Comercio.
 
@@ -22,7 +20,7 @@ RSGR: Sociedades Reavaladoras de Sociedades de Garantías Recíprocas.
 
 SGR: Sociedad de Garantías Recíprocas, entidades financieras de capital variable.
 
-SIBOIF: Superintendencia de Bancos y Otras Instituciones Financieras.
+SIBOIF: Superintendencia de Bancos y de Otras Instituciones Financieras.
 
 Socio Partícipe: Persona natural o jurídica que pertenezca al sector de la MIPYME, que se incorporan participando en el capital social de una SGR, de conformidad a lo establecido en el Artículo 13 de la Ley.
 

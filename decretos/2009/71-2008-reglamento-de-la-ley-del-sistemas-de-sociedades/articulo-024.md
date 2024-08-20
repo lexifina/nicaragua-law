@@ -1,6 +1,6 @@
 # Artículo 24
 
-Recurso de revisión.
+Recurso de Revisión
 
 El socio excluido, dentro del tercer día de emitida la resolución por la Asamblea General de Socios, podrá recurrir de revisión ante esta misma instancia.
 

@@ -1,6 +1,6 @@
 # Artículo 7
 
-Funciones del Coordinador.
+Funciones del Coordinador
 
 Corresponde al Coordinador del Órgano Regulador:
 
@@ -10,7 +10,7 @@ Corresponde al Coordinador del Órgano Regulador:
 
 3. La administración y funcionamiento del Órgano Regulador.
 
-4. Coordinar la elaboración del proyecto de presupuesto del Órgano Regulador conforme a las políticas Presupuestarias que rigen a las Instituciones del Estado de Nicaragua.
+4. Coordinar la elaboración del proyecto de presupuesto del Órgano Regulador conforme a las políticas presupuestarias que rigen a las instituciones del Estado de Nicaragua.
 
 5. Ejecutar las políticas a que se refiere el inciso a) del Artículo 5 de la Ley.
 

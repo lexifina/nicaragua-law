@@ -1,14 +1,14 @@
 # Artículo 31
 
-De la Comisión Técnica.
+De la Comisión Técnica
 
-La Comisión Técnica estará integrada por hasta cinco miembros representantes de cada una de las siguientes instituciones: MHCP, MIFIC, Banco de Fomento a la Producción (PRODUZCAMOS) y un representante a nivel nacional de las MIPYME. La comisión técnica adicionalmente podrá integrar un representante de las SGR cuando así lo estime conveniente.
+La Comisión Técnica estará integrada por hasta cinco miembros representantes de cada una de las siguientes instituciones: MHCP, MIFIC, Banco de Fomento a la Producción (PRODUZCAMOS) y un representante a nivel nacional de las MIPYME. La Comisión Técnica adicionalmente podrá integrar un representante de las SGR cuando así lo estime conveniente.
 
 El representante de la MIPYME a que hace referencia el párrafo anterior, será designado por el Consejo Nacional de la Micro, Pequeña y Mediana Empresa (CONAMIPYME).
 
-La comisión técnica será presidida por el representante del Ministerio de Hacienda y Crédito Público.
+La Comisión Técnica será presidida por el representante del Ministerio de Hacienda y Crédito Público.
 
-Esta comisión sesionará ordinariamente una vez al mes, y extraordinariamente cuando así lo solicite al menos dos de sus miembros.
+Esta Comisión sesionará ordinariamente una vez al mes, y extraordinariamente cuando así lo solicite al menos dos de sus miembros.
 
 Las decisiones serán tomadas por mayoría simple.
 

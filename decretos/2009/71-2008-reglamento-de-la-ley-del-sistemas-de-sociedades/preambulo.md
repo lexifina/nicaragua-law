@@ -1,12 +1,12 @@
 TEXTO CONSOLIDADO, DECRETO EJECUTIVO N°. 71-2008, REGLAMENTO DE LA LEY DEL SISTEMA DE SOCIEDADES DE GARANTÍAS RECÍPROCAS PARA LAS MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
-DECRETO EJECUTIVO N°. 71-2008, aprobado el 10 de mayo de 2018
+DECRETO EJECUTIVO N°. 71-2008, aprobado el 30 de noviembre de 2023
 
-Publicado en La Gaceta, Diario Oficial N°. 164 del 27 de agosto de 2018
+Publicado en La Gaceta, Diario Oficial N°. 153 del 20 de agosto de 2024
 
-DIGESTO JURÍDICO NICARAGÜENSE DE LA MATERIA DE BANCA Y FINANZAS
+Digesto Jurídico Nicaragüense de la Materia de Banca y Finanzas
 
-El presente texto contiene incorporadas todas sus modificaciones consolidadas al 10 de mayo del 2018, del Decreto Ejecutivo N°. 71-2008, “Reglamento de la Ley del Sistema de Sociedades de Garantías Recíprocas para las Micro, Pequeña y Mediana Empresa”, aprobado el 6 de noviembre de 2008 y publicado en La Gaceta, Diario Oficial N°. 49 del 12 de marzo de 2009, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, “Ley del Digesto Jurídico Nicaragüense”, publicada en La Gaceta, Diario Oficial N°. 203 del 25 de octubre de 2017 y la Ley N°. 974, “Ley del Digesto Jurídico Nicaragüense de la Materia de Banca y Finanzas” aprobada el 10 de mayo del 2018.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas del Decreto Ejecutivo N°. 71-2008, Reglamento de la Ley del Sistema de Sociedades de Garantías Recíprocas para las Micro, Pequeña y Mediana Empresa, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense, y la Ley N°. 1175, Ley del Digesto Jurídico Nicaragüense de la Materia de Banca y Finanzas, aprobada el 30 de noviembre de 2023.
 
 DECRETO N°. 71-2008
 
@@ -14,19 +14,19 @@ El Presidente de la República de Nicaragua
 
 CONSIDERANDO
 
-I.
+I
 
 Que la Constitución Política de la República de Nicaragua, señala en su Artículo 98 que “La función principal del Estado en la economía es desarrollar materialmente el país; suprimir el atraso y las dependencias heredados; mejorar las condiciones de vida del pueblo y realizar una distribución cada vez más justa de la riqueza.”
 
-II.
+II
 
 Que la Constitución Política de la República de Nicaragua, indica en el párrafo segundo del Artículo 99 que “El ejercicio de las actividades económicas corresponde primordialmente a los particulares. Se reconoce el rol protagónico de la iniciativa privada, la cual comprende, en su sentido amplio a grandes, medianas y pequeñas empresas, microempresas, empresas cooperativas, asociativa y otras.”
 
-III.
+III
 
-Que en el marco de la modernización, reforma y fortalecimiento de las Instituciones del Estado, debemos considerar que la función principal del Estado de Nicaragua, es velar y mejorar las condiciones de vida del pueblo nicaragüense, realizar una distribución cada vez más justa de la riqueza; siendo el responsable de proveer el desarrollo macroeconómico integral del país y como gestor del bien común debe garantizar los intereses y las necesidades particulares, sociales, sectoriales y regionales de la nación, protegiendo, fomentando y promoviendo las diversas formas de propiedad, de gestión económica y empresarial para garantizar la democracia económica y social.
+Que en el marco de la modernización, reforma y fortalecimiento de las instituciones del Estado, debemos considerar que la función principal del Estado de Nicaragua, es velar y mejorar las condiciones de vida del pueblo nicaragüense, realizar una distribución cada vez más justa de la riqueza; siendo el responsable de proveer el desarrollo macroeconómico integral del país y como gestor del bien común debe garantizar los intereses y las necesidades particulares, sociales, sectoriales y regionales de la nación, protegiendo, fomentando y promoviendo las diversas formas de propiedad, de gestión económica y empresarial para garantizar la democracia económica y social.
 
-IV.
+IV
 
 Que la puesta en vigencia de los diferentes acuerdos, convenios y tratados de comercio internacional han reforzado la urgente necesidad de un diseño e implementación de estrategias nacionales, orientadas a preparar a las instituciones nacionales con fines competitivos de cara a la estructura empresarial de los países del área, para afrontar los desafíos y aprovechar las oportunidades emergentes del nuevo entorno internacional de negocios. En ese marco, surge con renovada fuerza la visión que demanda la armonización de esas iniciativas con las estrategias globales de crecimiento económico, las metas de reducción de la pobreza y de patrones más equilibrados de distribución del ingreso y la riqueza.
 

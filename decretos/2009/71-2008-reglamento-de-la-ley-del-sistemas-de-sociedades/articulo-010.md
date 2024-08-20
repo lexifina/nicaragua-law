@@ -1,8 +1,8 @@
 # Artículo 10
 
-Estabilidad Laboral.
+Estabilidad laboral
 
-Los miembros del Órgano Regulador gozan de estabilidad laboral como garantía de su independencia y solo podrán ser suspendidos o destituidos de sus cargos además de las causales previstas en la Ley N°. 476, por las siguientes:
+Los miembros del Órgano Regulador gozan de estabilidad laboral como garantía de su independencia y solo podrán ser suspendidos o destituidos de sus cargos además de las causales previstas en la Ley N°. 476, Ley del Servicio Civil y de la Carrera Administrativa, por las siguientes:
 
 a) La sentencia definitiva dictada en su contra.
 

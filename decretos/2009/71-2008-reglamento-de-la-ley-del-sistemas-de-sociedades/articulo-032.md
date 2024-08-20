@@ -1,19 +1,19 @@
 # Artículo 32
 
-Atribuciones.
+Atribuciones
 
-La comisión técnica, contará con las siguientes atribuciones:
+La Comisión Técnica, contará con las siguientes atribuciones:
 
-a) Aprobar o denegar las solicitudes de participación del fondo como socio protector en las sociedades de garantías y de reaval.
+a) Aprobar o denegar las solicitudes de participación del fondo como Socio Protector en las sociedades de garantías y de reaval.
 
 b) Aprobar el presupuesto anual operativo y de otras inversiones del fondo.
 
-c) Designar al o los representantes del fondo de las SGR, donde participe como socio protector.
+c) Designar al o los representantes del fondo de las SGR, donde participe como Socio Protector.
 
 d) Aprobar la memoria anual.
 
-e) Recibir informes por parte de la FNI sobre la administración de los recursos financieros del fondo.
+e) Recibir informes por parte del Banco PRODUZCAMOS sobre la administración de los recursos financieros del fondo.
 
-f) Darle seguimiento a la evolución del sistema de sociedad de garantía recíproca.
+f) Darle seguimiento a la evolución del Sistema de Sociedad de Garantía Recíproca.
 
-g) Nombrar al secretario técnico de la Comisión Técnica.
+g) Nombrar al Secretario Técnico de la Comisión Técnica.
