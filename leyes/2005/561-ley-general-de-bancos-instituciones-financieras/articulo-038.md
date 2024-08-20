@@ -1,6 +1,8 @@
 # Artículo 38
 
-La Junta Directiva de los bancos, sin perjuicio de las demás disposiciones legales y contractuales que le sean aplicables, tendrá, entre otras, las responsabilidades siguientes.
+Obligaciones de la Junta Directiva
+
+La Junta Directiva de los bancos, sin perjuicio de las demás disposiciones legales y contractuales que le sean aplicables, tendrá, entre otras, las responsabilidades siguientes:
 
 1. Velar por la liquidez y solvencia de la institución;
 
@@ -33,5 +35,3 @@ La Junta Directiva de los bancos, sin perjuicio de las demás disposiciones lega
 15. Establecer las medidas conducentes a garantizar la oportuna realización de las auditorías internas y externas independientes que aseguren un conocimiento de eventuales errores y anomalías, analicen la eficacia de los controles y la transparencia de los estados financieros.
 
 El Consejo Directivo de la Superintendencia podrá dictar normas de aplicación general en las que se establecerán la forma en que se aplicarán y ejecutarán alguna o todas las responsabilidades aquí enunciadas.
-
-Gobierno corporativo.

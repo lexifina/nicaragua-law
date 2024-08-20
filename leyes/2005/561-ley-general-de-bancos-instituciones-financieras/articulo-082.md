@@ -1,5 +1,5 @@
 # Artículo 82
 
-No se podrá proceder, bajo pena de nulidad, al remate de ningún inmueble hipotecado a un banco, sin citar previamente a este por lo menos con seis días de anticipación a la fecha señalada, no obstante los emplazamientos legales.
+Obligación de citar a los bancos
 
-Documentos que traen aparejada ejecución.
+No se podrá proceder, bajo pena de nulidad, al remate de ningún inmueble hipotecado a un banco, sin citar previamente a este por lo menos con seis días de anticipación a la fecha señalada, no obstante los emplazamientos legales.

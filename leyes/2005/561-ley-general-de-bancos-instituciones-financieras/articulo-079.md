@@ -1,5 +1,5 @@
 # Artículo 79
 
-El acreedor bancario podrá repetir por el saldo insoluto, en los términos de las leyes comunes.
+Derecho de repetir
 
-Exención de fianza.
+El acreedor bancario podrá repetir por el saldo insoluto, en los términos de las leyes comunes.

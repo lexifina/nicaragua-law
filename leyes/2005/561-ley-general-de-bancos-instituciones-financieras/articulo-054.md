@@ -1,5 +1,7 @@
 # Artículo 54
 
+Operaciones de confianza
+
 Todos los bancos podrán efectuar las siguientes operaciones de confianza:
 
 1. Recibir en custodia fondos, valores, documentos y objetos y alquilar cajas de seguridad para guarda de valores como los enumerados;
@@ -25,5 +27,3 @@ Todos los bancos podrán efectuar las siguientes operaciones de confianza:
 Los fondos, valores o efectos que los bancos recibieren en virtud de las operaciones enumeradas en este Artículo, los deberán contabilizar debidamente separados de las cuentas de la institución.
 
 El Consejo Directivo de la Superintendencia de Bancos está facultado para dictar normas generales aplicables a la ejecución y registro contable de cualesquiera de estas operaciones, entre ellas, las atingentes a los modelos de contrato que se utilizarán para su celebración; las destinadas a asegurar su razonable proporcionalidad en relación con las operaciones propiamente bancarias; las que tengan por objeto proveer mecanismos adecuados de cobertura de los riesgos que las mismas representen para la institución bancaria que las realice y las que sean necesarias para evitar su utilización como mecanismos para evitar el cumplimiento de encajes y de otros medios de control de las actividades bancarias legalmente establecidos.
-
-Limitaciones a las operaciones activas entre la institución financiera y sus partes relacionadas.

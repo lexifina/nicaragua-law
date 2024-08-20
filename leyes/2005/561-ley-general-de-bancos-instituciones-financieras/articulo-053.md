@@ -1,5 +1,7 @@
 # Artículo 53
 
+Operaciones de los bancos
+
 Los bancos podrán efectuar las siguientes operaciones:
 
 1. Otorgar créditos en general, sea en moneda nacional o extranjera y cobrarlos en la misma moneda en que se otorgaron;
@@ -34,10 +36,8 @@ c. Contratos de futuro, opciones y productos financieros similares;
 
 d. Toda clase de valores mobiliarios, tales como: Bonos, cédulas, participaciones y otros; en el caso de inversiones en acciones o participaciones, se procederá de acuerdo al Artículo 57, numeral 1 de esta Ley.
 
-Se adiciona un numeral 13 conforme Ley N°. 1072, publicada el 17/05/2021
+13. Proveer servicios de activos virtuales.
 
 Además podrán realizar cualquiera otra operación de naturaleza financiera que apruebe de manera general el Consejo Directivo de la Superintendencia de Bancos.
 
 El Consejo Directivo de la Superintendencia está facultado para dictar normas administrativas de carácter general, respecto a la ejecución de cualquiera de las operaciones antes mencionadas, sean realizadas estas por los bancos o por instituciones financieras no bancarias.
-
-Operaciones de confianza.

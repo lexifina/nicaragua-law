@@ -1,5 +1,7 @@
 # Artículo 106
 
+Orden de prelación de las obligaciones
+
 En la liquidación de una institución financiera constituyen créditos privilegiados, los siguientes en el orden que se determina:
 
 1. Los que se adeuden a los trabajadores por salarios, sueldos, indemnizaciones y otras prestaciones con cargo al empleador, hasta por el monto de las liquidaciones que se practiquen conforme a la legislación laboral. Se exceptúan los montos adeudados al principal ejecutivo, gerentes, funcionarios principales y auditores, mientras el liquidador no concluya sus averiguaciones sobre sus responsabilidades en las causas que dieron lugar a la intervención o a la liquidación forzosa de la institución. Las obligaciones a cargo de la institución derivadas de contratos laborales cuyas prestaciones difieran de las que normalmente contrata la institución no se considerarán privilegiadas y se atenderán conforme a lo establecido en el Código Civil.
@@ -13,5 +15,3 @@ En la liquidación de una institución financiera constituyen créditos privileg
 5. Los que se adeuden a otras entidades estatales.
 
 6. Luego se atenderán otros créditos de acuerdo al orden y forma determinados por el Código Civil.
-
-Imputación de pago.

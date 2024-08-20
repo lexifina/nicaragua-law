@@ -1,10 +1,12 @@
 # Artículo 4
 
+Solicitud a la Superintendencia de Bancos
+
 Las personas que tengan el propósito de establecer un banco deberán presentar una solicitud a la Superintendencia, que contenga los nombres y apellidos o designación comercial, domicilio y profesión de todos los organizadores, los que deberán presentar la documentación y cumplir con los requisitos exigidos a continuación:
 
 1. El proyecto de escritura social y sus estatutos.
 
-2. Un estudio de factibilidad económico-financiero; en el que se incluya, entre otros aspectos, consideraciones sobre el mercado, las características de la institución, la actividad proyectada y las condiciones en que ella se desenvolverá de acuerdo a diversos escenarios de contingencia; conforme a lo indicado por el Consejo Directivo de la Superintendencia mediante normas de aplicación general.
+2. Un estudio de factibilidad económico-financiero, en el que se incluya, entre otros aspectos, consideraciones sobre el mercado, las características de la institución, la actividad proyectada y las condiciones en que ella se desenvolverá de acuerdo a diversos escenarios de contingencia; conforme a lo indicado por el Consejo Directivo de la Superintendencia mediante normas de aplicación general.
 
 3. El nombre y credenciales de las personas que actuarán como miembros de la Junta Directiva e integrarán el equipo principal de su gerencia.
 
@@ -14,7 +16,7 @@ Las personas que tengan el propósito de establecer un banco deberán presentar 
 
 6. Adicionalmente, cada uno de los accionistas que participen ya sea individualmente o en conjunto con sus partes relacionadas, en un porcentaje igual o mayor al 5% del capital deberán cumplir con los requisitos siguientes:
 
-Solvencia: Contar con un patrimonio neto consolidado equivalente a la inversión proyectada y, cuando se reduzca a una cifra inferior, informar a la mayor brevedad posible de este hecho al Superintendente.
+Solvencia: Contar con un patrimonio neto consolidado equivalente a la inversión proyectada y, cuando se reduzcan una cifra inferior, informar a la mayor brevedad posible de este hecho al Superintendente.
 
 Integridad: Que no existan conductas dolosas o negligencias graves o reiteradas que puedan poner en riesgo la estabilidad de la institución que se propone establecer o la seguridad de sus depositantes.
 
@@ -26,9 +28,11 @@ b. Los que hayan sido condenados a penas más que correccionales.
 
 c. Que se le haya comprobado judicialmente participación en actividades relacionadas con el narcotráfico y delitos conexos, con el lavado de dinero y de otros activos o financiamiento al terrorismo.
 
-d. Que sea o haya sido deudor del sistema financiero a los que se les haya demandado judicialmente el pago de un crédito, o a los que se les haya saneado saldos morosos de montos sustanciales a juicio del Superintendente, en los últimos 5 años.
+d. Que sea o haya sido deudor del sistema financiero a los que se les haya demandado judicialmente el pago de un crédito, o a los que se les haya saneado saldos morosos de montos sustanciales ajuicio del Superintendente, en los últimos 5 años.
 
-e. Que en los últimos 10 años haya sido director, gerente, o funcionario de una institución del sistema financiero, quien por determinación del Superintendente, o de sus propias autoridades corporativas, se le haya establecido responsabilidad para que dicha institución haya incurrido en deficiencias del 20% o más del capital mínimo requerido por la Ley, o que dicha institución haya recibido aportes del Fondo de Garantía de Depósitos conforme lo establecido en su Ley.
+e. Que en los últimos 10 años haya sido Director, Gerente, o funcionario de una
+
+institución del sistema financiero, quien por determinación del Superintendente, o de sus propias autoridades corporativas, se le haya establecido responsabilidad para que dicha institución haya incurrido en deficiencias del 20% o más del capital mínimo requerido por la ley, o que dicha institución haya recibido aportes del Fondo de Garantía de Depósitos conforme lo establecido en su Ley.
 
 f. Que haya sido condenado administrativamente o judicialmente por su participación en infracción grave a las leyes y normas de carácter financiero.
 
@@ -44,8 +48,6 @@ El Consejo Directivo de la Superintendencia podrá dictar normas de aplicación 
 
 a. La proveniencia lícita del patrimonio invertido o por invertirse en la institución.
 
-b. La verificación que quienes vayan a integrar su Junta Directiva, no estén incursos en los impedimentos establecidos en el Artículo 29 de esta Ley.
+b. La verificación que quienes vayan a integrar su junta directiva, no estén incursos en los impedimentos establecidos en el Artículo 29 de esta Ley.
 
 En caso que la institución sea aprobada, la información a la que hacen referencia los numerales 3, 4 y 7 deberá ser actualizada o ampliada en los plazos, formas y condiciones que establezca el Superintendente.
-
-Estudio de la solicitud y autorización para constituirse como banco.

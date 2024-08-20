@@ -1,12 +1,12 @@
 TEXTO CONSOLIDADO, LEY N°. 561, LEY GENERAL DE BANCOS, INSTITUCIONES FINANCIERAS NO BANCARIAS Y GRUPOS FINANCIEROS
 
-Aprobado el 10 de mayo de 2018
+Aprobado el 30 de noviembre de 2023
 
-Publicado en La Gaceta, Diario Oficial N°. 164 del 27 de agosto de 2018
+Publicado en La Gaceta, Diario Oficial N°. 153 del 20 de agosto de 2024
 
-DIGESTO JURÍDICO NICARAGÜENSE DE LA MATERIA DE BANCA Y FINANZAS
+Digesto Jurídico Nicaragüense de la Materia de Banca y Finanzas
 
-El presente texto contiene incorporadas todas sus modificaciones consolidadas al 10 de mayo del 2018, de la Ley N°. 561, “Ley General de Bancos, Instituciones Financieras no Bancarias y Grupos Financieros”, aprobada el 27 de octubre de 2005 y publicada en La Gaceta, Diario Oficial N°. 232 del 30 de noviembre de 2005, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, “Ley del Digesto Jurídico Nicaragüense”, publicada en La Gaceta, Diario Oficial N°. 203 del 25 de octubre de 2017 y la Ley N°. 974, “Ley del Digesto Jurídico Nicaragüense de la Materia de Banca y Finanzas” aprobada el 10 de mayo del 2018.
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 30 de noviembre de 2023, de la Ley N°. 561, Ley General de Bancos, Instituciones Financieras no Bancarias y Grupos Financieros, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense, y la Ley N°. 1175, Ley del Digesto Jurídico Nicaragüense de la Materia de Banca y Finanzas, aprobada el 30 de noviembre de 2023.
 
 LEY N°. 561
 
@@ -31,5 +31,3 @@ APLICACIÓN DEL RÉGIMEN DE ESTA LEY
 CAPÍTULO ÚNICO
 
 ALCANCE DE ESTA LEY
-
-Alcance de esta Ley.

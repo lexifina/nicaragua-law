@@ -1,5 +1,5 @@
 # Artículo 10
 
-La solicitud a que se refiere el Artículo que antecede será tramitada de conformidad con los artículos anteriores, en todo cuanto sea aplicable, a juicio del Superintendente de Bancos.
+Solicitud a la Superintendencia
 
-Autorización de establecimiento.
+La solicitud a que se refiere el Artículo que antecede será tramitada de conformidad con los artículos anteriores, en todo cuanto sea aplicable, a juicio del Superintendente de Bancos.

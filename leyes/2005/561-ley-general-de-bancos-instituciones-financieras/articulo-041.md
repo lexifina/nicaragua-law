@@ -1,7 +1,7 @@
 # Artículo 41
 
+Auditor: requisitos, funciones, períodos e informes
+
 Sin perjuicio de la vigilancia y fiscalización de los bancos y sucursales de bancos extranjeros que corresponden al Superintendente de Bancos, dichos bancos y sucursales deberán tener un Auditor Interno a cuyo cargo estarán las funciones de inspección y fiscalización de las operaciones y cuentas del respectivo banco o sucursal de banco extranjero, en ambos casos deberá contar con la objeción del Superintendente. El Auditor Interno deberá ser debidamente calificado y será nombrado por la Junta General de Accionistas o por la matriz de la sucursal extranjera por un período de tres años y podrá ser reelecto. También puede ser removido antes del vencimiento de su período, por el voto de la mayoría de dos tercios de accionistas presentes en una Junta General o por un motivo que justifique tal decisión de la casa matriz de un banco extranjero, en ambos casos deberá contar con la no objeción del Superintendente. El Auditor deberá rendir un informe trimestral de sus labores al o a los vigilantes electos por la Junta General de Accionistas o a la casa matriz cuando se trate de sucursales de bancos extranjeros. Lo anterior es sin perjuicio de comunicar de inmediato a las instancias antes referidas y posteriormente al Superintendente dentro de las 72 horas siguientes, cualquier situación o hallazgo significativo detectado que requiera una acción inmediata para su corrección o prevención.
 
 El Consejo Directivo de la Superintendencia podrá dictar normas de carácter general que deben cumplir los auditores internos de los bancos en el desempeño de sus funciones.
-
-De las auditorías externas.

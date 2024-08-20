@@ -1,5 +1,7 @@
 # Artículo 127
 
+Protección a los depositantes
+
 Con el objeto de proteger los recursos del público, las obligaciones de los bancos con sus acreedores se regirán conforme a lo siguiente:
 
 1. Las diligencias prejudiciales y las acciones judiciales en contra de un banco requerirán una fianza o garantía del ciento por ciento (100%) del monto de la obligación reclamada;
@@ -12,12 +14,10 @@ Con el objeto de proteger los recursos del público, las obligaciones de los ban
 
 Lo indicado en este Artículo se aplicará de conformidad con el Título Preliminar del Código Civil. En consecuencia, en todo procedimiento judicial que se inicie a partir de la entrada en vigencia de la presente Ley, derivado de obligaciones contraídas con anterioridad, se aplicarán estas disposiciones en lo relativo a:
 
-1. El reclamo en juicio de los derechos derivados de la obligación, conforme a la regla 18, numeral 1°, párrafo V;
+1. El reclamo enjuicio de los derechos derivados de la obligación, conforme a la regla 18, numeral 1°, párrafo V;
 
 2. La forma en que debe rendirse la prueba, conforme la regla 19, párrafo V.
 
-3. La sustanciación y ritualidad de los juicios, excepto en los términos que ya hubiesen empezado a correr y a las actuaciones y diligencias que ya estuviesen iniciadas, conforme a la regla 20, párrafo V.
+3. La sustanciación y ritualidad de los juicios, excepto en los términos que ya hubiesen empezado a correr y a las actuaciones y diligencias que ya estuviesen iniciadas.
 
 Para iniciar o proseguir procesos judiciales y administrativos derivados de obligaciones a cargo de los bancos, dichas obligaciones deben originarse en relaciones contractuales debidamente registradas en la contabilidad del respectivo banco, quien deberá demostrar esta situación. Se exceptúan los casos en que por negligencia o culpa del banco no se hayan efectuado el registro contable.
-
-Reclamo de accionistas.

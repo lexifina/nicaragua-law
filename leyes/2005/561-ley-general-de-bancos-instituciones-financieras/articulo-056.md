@@ -1,5 +1,7 @@
 # Artículo 56
 
+Limitaciones de créditos con partes no relacionadas a la institución financiera
+
 Los bancos no podrán otorgar créditos incluyendo operaciones contingentes, directa o indirectamente, a una misma persona natural o jurídica, individualmente considerada o en conjunto con aquellas personas naturales o jurídicas que integren con ella una misma unidad de interés por la existencia de vinculaciones significativas o asunción frecuente de riesgos compartidos, por un monto que exceda en conjunto del 30% de la base de cálculo. Dentro del porcentaje antes señalado se incluirán las inversiones en obligaciones emitidas por las mismas personas antes mencionadas.
 
 A los efectos de este Artículo se consideran formando parte de una misma unidad de interés, las siguientes personas naturales y jurídicas:
@@ -9,5 +11,3 @@ A los efectos de este Artículo se consideran formando parte de una misma unidad
 2. Si el solicitante de crédito es una persona jurídica, formarán con esta una misma unidad de interés, las personas naturales o jurídicas que directamente o indirectamente mantengan vinculaciones significativas con dicho solicitante.
 
 Para determinar las vinculaciones significativas señaladas en los numerales precedentes, se atenderá a las definiciones contenidas en los numerales 2 y 3 del Artículo precedente, en todo cuanto sea aplicable.
-
-Prohibiciones a los Bancos.

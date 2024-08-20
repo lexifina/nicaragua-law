@@ -1,5 +1,7 @@
 # Artículo 59
 
+Privilegios de las obligaciones a favor de los bancos
+
 En las obligaciones a favor de todo banco regirán las siguientes disposiciones de excepción:
 
 1) La mora se producirá por el solo hecho del vencimiento del plazo estipulado, sin necesidad de requerimiento de ninguna especie.
@@ -33,5 +35,3 @@ En las obligaciones a favor de todo banco regirán las siguientes disposiciones 
 15) En caso de garantía mobiliaria, los bancos podrán embargarla o solicitar al depositario su entrega. Si al momento de la adjudicación el bien pignorado no cubre el monto adeudado, el banco podrá perseguir cualquier otro bien del deudor.
 
 16) Derogado.
-
-Disposiciones para las acciones ejecutivas.

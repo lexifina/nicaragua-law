@@ -1,5 +1,7 @@
 # Artículo 122
 
+Facultad de endosar créditos
+
 Los bancos podrán endosar, permutar o ceder créditos sin necesidad de autorización del Superintendente de Bancos.
 
 El endoso, la permuta y la cesión de crédito realizada por un banco a persona natural o a una institución no bancaria, no implica la transferencia de los privilegios que esta Ley consigna a favor de los bancos. Dicho acto se realizará, previo aviso al deudor.
@@ -9,5 +11,3 @@ La cesión del crédito hipotecario o de garantía mobiliaria celebrada entre in
 La firma del endosante y del endosatario será autenticada por un Notario. La autenticación tendrá toda fuerza legal con un solo “Ante Mí” y sello con la indicación del quinquenio del Notario.
 
 Cuando un banco adquiera créditos de una persona natural o jurídica no supervisada, tendrá respecto a dichos créditos los privilegios referidos en el Título II del Capítulo VI de esta Ley. En este caso, el cedente deberá previamente notificar la cesión al deudor, quien podrá cancelar anticipadamente la obligación sin penalidad.
-
-Apelación a resoluciones del Superintendente.

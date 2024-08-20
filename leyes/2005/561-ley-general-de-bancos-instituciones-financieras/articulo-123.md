@@ -1,5 +1,5 @@
 # Artículo 123
 
-Las resoluciones que dicte el Superintendente de Bancos estarán sujetas a los recursos y procedimientos contemplados en la Ley de la Superintendencia de Bancos.
+Apelación a resoluciones del Superintendente
 
-Reservas para saneamientos de activos.
+Las resoluciones que dicte el Superintendente de Bancos estarán sujetas a los recursos y procedimientos contemplados en la Ley de la Superintendencia de Bancos.

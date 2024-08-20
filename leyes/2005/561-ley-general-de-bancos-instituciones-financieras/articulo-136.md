@@ -1,5 +1,7 @@
 # Artículo 136
 
+Inversiones en instituciones financieras extranjeras
+
 Para que un banco, institución financiera no bancaria o Empresa Financiera de Régimen Especial constituida en el exterior, forme parte del grupo financiero nacional, se requerirá de la previa autorización del Superintendente y además cumplir con los requisitos siguientes:
 
 1. Que la institución extranjera esté sujeta a la supervisión consolidada por parte de la Superintendencia y que en el país donde esté domiciliada se encuentre bajo supervisión de acuerdo a los usos internacionales;
@@ -11,5 +13,3 @@ Para que un banco, institución financiera no bancaria o Empresa Financiera de R
 4. Que se compruebe que la tenedora de acciones o empresa responsable ejerce el control de la institución financiera, asegurándose el control de los votos en las Juntas Generales de Accionistas y participando en la administración;
 
 5. Que se obtenga la autorización del Superintendente para realizar la inversión conforme a lo indicado en el Artículo 142 de la presente Ley.
-
-Autorización y supervisión consolidada.

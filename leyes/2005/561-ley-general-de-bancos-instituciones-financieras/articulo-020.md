@@ -1,5 +1,7 @@
 # Artículo 20
 
+Base de cálculo del capital
+
 Se entiende como base de cálculo la suma del capital primario, secundario y cualquier otra subdivisión que mediante norma general establezca el Consejo Directivo de la Superintendencia de Bancos conforme las mejores prácticas internacionales al respecto.
 
 1. El capital primario estará conformado por lo siguiente:
@@ -44,6 +46,4 @@ La proporción que puede ocupar el capital secundario en la base de cálculo nun
 
 Asimismo, en ningún caso, la suma del capital secundario y cualquier otra subdivisión de capital elegible para el cálculo de adecuación de capital podrán superar en un ciento por ciento (100%) el capital primario.
 
-El Consejo Directivo está facultado para establecer mediante normas de aplicación general componentes adicionales a la base de cálculo del capital. Así mismo, podrá establecer deducciones adicionales a las ya establecidas a las distintas clasificaciones de capital.
-
-Reservas de capital y otros.
+El Consejo Directivo está facultado para establecer mediante normas de aplicación general componentes adicionales a la base de cálculo del capital. Asimismo, podrá establecer deducciones adicionales a las ya establecidas a las distintas clasificaciones de capital.

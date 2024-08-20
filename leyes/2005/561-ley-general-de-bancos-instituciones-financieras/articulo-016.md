@@ -1,5 +1,7 @@
 # Artículo 16
 
+Adquisición de acciones, fusiones, reducciones de capital y reformas al pacto social
+
 Las instituciones financieras autorizadas, así como las personas interesadas en adquirir acciones de estas, según el caso, requerirán la aprobación del Superintendente de Bancos para lo siguiente:
 
 1. Fusión con otra institución financiera.
@@ -24,7 +26,7 @@ La cesión de una parte sustancial del balance de una institución bancaria requ
 
 Cualquier reforma de la escritura de constitución social o estatutos. Se exceptúa la reforma que consista en el aumento del capital social, la cual deberá ser informada al Superintendente. Si el aumento del capital social se debe al ingreso de nuevos accionistas que adquieran el 5% o más del capital, o en el caso de los accionistas actuales que adquieran acciones que sumadas a las que ya posea representen una cantidad igual o mayor al referido porcentaje, se deberá atender lo establecido en el numeral 4 de este Artículo.
 
-Las reformas referidas en este numeral no requerirán de autorización judicial, bastará con la certificación de la resolución de la Junta General de Accionistas protocolizada ante notario la cual se inscribirá en el registro público correspondiente.
+Las reformas referidas en este numeral no requerirán de autorización judicial, bastará con la Certificación de la Resolución de la Junta General de Accionistas protocolizada ante notario la cual se inscribirá en el Registro Público correspondiente.
 
 4. Para adquirir directamente o a través de terceros, acciones de un banco, que por sí solas o sumadas a las que ya posea, o en conjunto con las de sus partes relacionadas, representen una cantidad igual o mayor al 5% del capital de este.
 
@@ -37,5 +39,3 @@ El Superintendente deberá pronunciarse en un plazo de 30 días hábiles contado
 Las adquisiciones de porcentajes menores al indicado en el primer párrafo de este numeral deberán ser notificadas al Superintendente en un plazo no mayor de 30 días contados a partir de la fecha en que ocurrió el traspaso.
 
 CAPITAL, RESERVAS Y UTILIDADES
-
-Capital social mínimo.
