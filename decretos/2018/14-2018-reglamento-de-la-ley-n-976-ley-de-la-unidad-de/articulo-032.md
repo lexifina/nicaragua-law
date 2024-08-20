@@ -1,6 +1,6 @@
 # Artículo 32
 
-Respuestas a las solicitudes de información.
+Respuestas a las solicitudes de información
 
 La UAF deberá poner en conocimiento del solicitante que se ha recibido su petición y podrá proporcionarle respuestas provisionales, parciales, totales o negativas.
 

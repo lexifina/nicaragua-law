@@ -1,6 +1,6 @@
 # Artículo 23
 
-Medidas correctivas.
+Medidas correctivas
 
 La UAF podrá ordenar a los Sujetos Obligados que cumplan medidas que corrijan las deficiencias que detecte a través de supervisiones o por cualquier otro medio, sin perjuicio de las sanciones administrativas a que hubiere lugar. A través de normativa, establecerá la gama de medidas correctivas aplicables.
 

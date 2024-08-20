@@ -1,6 +1,6 @@
 # Artículo 19
 
-Objeto de las supervisiones.
+Objeto de las supervisiones
 
 La UAF supervisará con la finalidad de:
 

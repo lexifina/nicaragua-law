@@ -1,11 +1,11 @@
 # Artículo 17
 
-Certificados de inscripción.
+Certificados de inscripción
 
-La UAF emitirá certificados que den constancia que el Sujeto Obligado está inscrito en el Registro, sin perjuicio de que emita otros tipos de certificados. En el caso de los Contadores Públicos Autorizados no se les extenderá certificados de registro.
+La UAF, el Poder Judicial y el Colegio de Contadores Públicos de Nicaragua, emitirán certificados que den constancia, que los Sujetos Obligados bajo su regulación y supervisión están inscritos en sus respectivos registros, sin perjuicio que emitan certificaciones o constancias de otra naturaleza.
 
-Los certificados de inscripción no servirán como demostración de que el Sujeto Obligado implementa sus obligaciones de prevención, detección y reporte de actividades relacionadas con el LA/FT/FP y actividades precedentes al LA de forma adecuada y efectiva.
+Los certificados de inscripción no demostrarán ni acreditarán que el Sujeto Obligado se encuentra cumpliendo sus obligaciones de prevención, detección y reporte de actividades relacionadas con el LA/FT/FP y actividades precedentes al LA de forma adecuada y efectiva; solamente acreditan su inscripción ante el regulador correspondiente.
 
-La UAF dispondrá las condiciones técnicas y de seguridad necesarias para que los certificados puedan emitirse de forma digital.
+La UAF, el Poder Judicial y el Colegio de Contadores Públicos de Nicaragua, dispondrán las condiciones técnicas y de seguridad necesarias para que los certificados puedan emitirse de forma digital.
 
 SUPERVISIÓN

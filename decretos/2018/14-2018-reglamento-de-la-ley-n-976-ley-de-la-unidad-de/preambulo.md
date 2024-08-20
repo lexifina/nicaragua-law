@@ -1,14 +1,14 @@
-REGLAMENTO DE LA LEY N°. 976, LEY DE LA UNIDAD DE ANÁLISIS FINANCIERO
+TEXTO CONSOLIDADO, DECRETO EJECUTIVO N°. 14-2018, REGLAMENTO DE LA LEY N°. 976, LEY DE LA UNIDAD DE ANÁLISIS FINANCIERO
 
-DECRETO EJECUTIVO N°. 14-2018, aprobado el 27 de septiembre de 2018
+DECRETO EJECUTIVO N°. 14-2018, aprobado el 30 de noviembre de 2023
 
-Publicado en La Gaceta, Diario Oficial N°. 190 del 03 de octubre de 2018
+Publicado en La Gaceta, Diario Oficial N°. 153 del 20 de agosto de 2024
 
-Gobierno de Reconciliación y Unidad Nacional
+Digesto Jurídico Nicaragüense de la Materia de Banca y Finanzas
 
-Unida Nicaragua Triunfa
+El presente texto contiene incorporadas todas sus modificaciones consolidadas al 30 de noviembre de 2023, del Decreto Ejecutivo N°. 14-2018, Reglamento de la Ley N°. 976, Ley de la Unidad de Análisis Financiero, y se ordena su publicación en La Gaceta, Diario Oficial, conforme la Ley N°. 963, Ley del Digesto Jurídico Nicaragüense, y la Ley N°. 1175, Ley del Digesto Jurídico Nicaragüense de la Materia de Banca y Finanzas, aprobada el 30 de noviembre de 2023.
 
-DECRETO No. 14-2018
+DECRETO N°. 14-2018
 
 El Presidente de la República de Nicaragua
 
@@ -22,7 +22,7 @@ El siguiente:
 
 DECRETO
 
-REGLAMENTO DE LA LEY N°. 976, LEY DE LA UNIDAD DE ANÁLISIS FINANCIERO.
+REGLAMENTO DE LA LEY N°. 976, LEY DE LA UNIDAD DE ANÁLISIS FINANCIERO
 
 CAPÍTULO I
 

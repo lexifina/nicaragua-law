@@ -1,6 +1,6 @@
 # Artículo 29
 
-Recepción de solicitudes de información.
+Recepción de solicitudes de información
 
 La UAF deberá desarrollar procedimientos internos para dar trámite a las solicitudes de información que reciba, incluyendo criterios para determinar la urgencia con que debe ser atendida la solicitud para permitir su atención oportuna y eficiente.
 
