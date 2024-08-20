@@ -1,6 +1,6 @@
 # Artículo 54
 
-Plazo de la intervención.
+Plazo de la intervención
 
 La intervención tendrá un plazo de tres meses, prorrogable por un mes adicional, durante el cual la SGR no podrá emitir nuevos avales, fianzas o garantías.
 

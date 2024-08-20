@@ -1,6 +1,6 @@
 # Artículo 74
 
-Autonomía e independencia funcional.
+Autonomía e independencia funcional
 
 El Órgano Regulador ejercerá sus funciones de manera autónoma e independiente conforme las atribuciones que le otorga la presente Ley.
 

@@ -1,12 +1,12 @@
 # Artículo 46
 
-Operaciones Prohibidas.
+Operaciones prohibidas
 
 Las SGR no podrán realizar las siguientes operaciones o servicios:
 
 a) Otorgar préstamos y créditos directos o indirectos.
 
-b) Otorgar avales, fianzas u otras garantías a socios protectores y personas naturales y/o jurídicas que no sean socios partícipes.
+b) Otorgar avales, fianzas u otras garantías a Socios Protectores y personas naturales y/o jurídicas que no sean Socios Partícipes.
 
 c) Efectuar operaciones de intermediación financiera.
 

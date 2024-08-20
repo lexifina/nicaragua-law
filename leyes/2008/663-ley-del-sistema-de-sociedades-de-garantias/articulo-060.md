@@ -1,6 +1,6 @@
 # Artículo 60
 
-Duración de la liquidación.
+Duración de la liquidación
 
 La liquidación de una SGR debe quedar concluida en un plazo no mayor de seis meses, y podrá ser prorrogada por el Órgano Regulador por una sola vez y por un período igual al anterior.
 

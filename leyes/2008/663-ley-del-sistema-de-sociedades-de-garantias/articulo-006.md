@@ -1,6 +1,6 @@
 # Artículo 6
 
-Recursos del Órgano Regulador.
+Recursos del Órgano Regulador
 
 Con el fin de garantizar los recursos necesarios para el funcionamiento del Órgano Regulador, creado en esta Ley, contará con las siguientes fuentes de ingreso:
 

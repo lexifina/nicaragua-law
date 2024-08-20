@@ -1,6 +1,6 @@
 # Artículo 8
 
-Autorización para constituir Sociedades de Garantías Recíprocas.
+Autorización para constituir Sociedades de Garantías Recíprocas
 
 Las personas que tengan el propósito de constituir una SGR deberán presentar de previo una solicitud al Órgano Regulador, que contenga los nombres y apellidos o razón social, domicilio y profesión de los organizadores, acompañada de los siguientes documentos:
 

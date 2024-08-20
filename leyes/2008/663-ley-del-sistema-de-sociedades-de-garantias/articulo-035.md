@@ -1,6 +1,6 @@
 # Artículo 35
 
-Atribuciones de la Junta Directiva.
+Atribuciones de la Junta Directiva
 
 Son atribuciones de la Junta Directiva, las siguientes:
 

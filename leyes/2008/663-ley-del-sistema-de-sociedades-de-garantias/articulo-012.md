@@ -1,6 +1,6 @@
 # Artículo 12
 
-Autorización de funcionamiento.
+Autorización de funcionamiento
 
 Cumplidos todos los requisitos exigidos por la presente Ley para el funcionamiento de una SGR, el Órgano Regulador otorgará la autorización de funcionamiento dentro de un plazo máximo de diez días, contados a partir de la fecha de presentación de la solicitud a que se refiere el Artículo que antecede. En caso contrario, se comunicará a los peticionarios los requisitos omitidos y una vez subsanados estos, se otorgará la autorización solicitada dentro de los siguientes tres días. La autorización deberá publicarse en La Gaceta, Diario Oficial, e inscribirse en el Libro Segundo de Sociedades del Registro Público Mercantil por cuenta de la SGR.
 

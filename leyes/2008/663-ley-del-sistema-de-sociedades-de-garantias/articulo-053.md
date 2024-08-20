@@ -1,12 +1,12 @@
 # Artículo 53
 
-Causales de Intervención.
+Causales de intervención
 
 El Órgano Regulador, sin perjuicio de las sanciones que correspondan, aprobará la resolución de intervención siempre que hubiere ocurrido una o varias de las circunstancias siguientes:
 
 1. Encontrarse en una situación de cesación de pagos por incumplimiento de obligaciones líquidas, vencidas y exigibles o que se presentaren indicios de un inminente estado de suspensión de pagos.
 
-2. Si no se presentare el Plan de Regularización mencionado en el artículo anterior.
+2. Si no se presentare el Plan de Regularización mencionado en el Artículo anterior.
 
 3. Por reducción del capital social por debajo del monto mínimo establecido o actualizado para este tipo de sociedades.
 

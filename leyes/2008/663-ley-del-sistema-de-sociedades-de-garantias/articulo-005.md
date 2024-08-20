@@ -1,6 +1,6 @@
 # Artículo 5
 
-Atribuciones del Órgano Regulador.
+Atribuciones del Órgano Regulador
 
 Son atribuciones y funciones del Órgano Regulador, sin perjuicio de las demás que le otorgue la presente Ley y su Reglamento, las siguientes:
 
@@ -22,7 +22,7 @@ h) Llevar estadísticas actualizadas del registro de las SGR y las RSGR.
 
 i) Coordinar su labor con otros organismos nacionales e internacionales.
 
-j) Aprobar las resoluciones de los Órganos sociales de las SGR y RSGR, así como revocarlas o suspenderlas cuando éstas sean contrarias a la presente Ley y su Reglamento, a los Estatutos Sociales y a sus reglamentos internos.
+j) Aprobar las resoluciones de los Órganos sociales de las SGR y RSGR, así como revocarlas o suspenderlas cuando éstas sean contrarias a la presente Ley y su Reglamento, a los estatutos sociales y a sus reglamentos internos.
 
 k) Suspender, de oficio o a solicitud de parte que lo justifique, el funcionamiento de las SGR y las RSGR, así como intervenirlas, disolverlas y liquidarlas cuando se compruebe que cometió o comete infracciones o violaciones fragantes a esta Ley y su Reglamento.
 

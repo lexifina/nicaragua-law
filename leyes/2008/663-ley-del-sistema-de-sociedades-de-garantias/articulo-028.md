@@ -1,5 +1,5 @@
 # Artículo 28
 
-De las Asambleas Generales.
+De las asambleas generales
 
-Las Sesiones de la Asamblea General de Socios serán: Ordinaria y Extraordinaria.
+Las sesiones de la Asamblea General de Socios serán: Ordinaria y Extraordinaria.

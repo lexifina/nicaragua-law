@@ -1,10 +1,10 @@
 # Artículo 61
 
-Atribuciones de la Comisión Liquidadora.
+Atribuciones de la Comisión Liquidadora
 
 La Comisión Liquidadora tendrá las siguientes atribuciones:
 
-a) Levantar inventarío de los activos patrimoniales y de los pasivos de cualquier naturaleza que sean, de los libros correspondientes, de los documentos de la SGR.
+a) Levantar inventario de los activos patrimoniales y de los pasivos de cualquier naturaleza que sean, de los libros correspondientes, de los documentos de la SGR.
 
 b) Concluir las operaciones pendientes al tiempo de la disolución.
 
