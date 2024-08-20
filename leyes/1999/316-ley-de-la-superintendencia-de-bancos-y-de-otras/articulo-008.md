@@ -1,8 +1,8 @@
 # Artículo 8
 
-Además de los órganos establecidos en el Artículo 4 de esta Ley, la Superintendencia de Bancos tendrá cuatro Intendencias especializadas, las cuales serán:
+Además de los órganos establecidos en el Artículo 4 de esta Ley, la Superintendencia de Bancos tendrá cuatro intendencias especializadas, las cuales serán:
 
-1. Intendencia de Bancos y otras instituciones Financieras.
+1. Intendencia de Bancos y otras Instituciones Financieras.
 
 2. Intendencia de Valores.
 

@@ -18,13 +18,13 @@ Cumplir y hacer cumplir las leyes generales, normas reglamentarias y disposicion
 
 7. Hacer cumplir las resoluciones del Consejo Directivo de la Superintendencia, del Fondo de Garantía de Depósitos, las normas de política monetaria y cambiaria emanadas del Banco Central de Nicaragua.
 
-8. Mantener informado al Consejo de los resultados de las inspecciones y de toda información relacionada a las entidades bajo la supervisión, inspección, vigilancia y fiscalización de la Superintendencia, debiendo informar al Consejo de la situación general del sistema financiero y la particular de cada una de las entidades.
+8. Mantener informado al Consejo de los resultados de las inspecciones y de toda información relacionada a las entidades bajo la supervisión, inspección, vigilancia y fiscalización de la Superintendencia, debiendo informar al Consejo de la situación general del Sistema Financiero y la particular de cada una de las entidades.
 
 9. Recabar de los bancos, instituciones financieras no bancarias y grupos financieros, con carácter confidencial, los informes e información necesarios para comprobar el estado de sus finanzas y determinar su observancia a las leyes, reglamentos y disposiciones a que están sujetos.
 
 Toda la documentación e información a que se refiere al párrafo anterior que sea requerida por el Superintendente deberá ser presentada por los bancos sin aducir reservas de ninguna naturaleza.
 
-10. Presentar al Consejo Directivo para su aprobación, el presupuesto de ingresos y egresos de la Superintendencia y rendir a este mismo Consejo, cuenta de su liquidación al final de cada ejercicio.
+10. Presentar al Consejo Directivo para su aprobación el Presupuesto de Ingresos y Egresos de la Superintendencia y rendir a este mismo Consejo, cuenta de su liquidación al final de cada ejercicio.
 
 11. Examinar todas las operaciones financieras o de servicio de las instituciones que estén sujetas a supervisión, y ejercer las demás funciones de supervisión, inspección, vigilancia y fiscalización que le correspondan, de acuerdo con las leyes, reglamentos y otras disposiciones aplicables.
 
@@ -32,23 +32,23 @@ Toda la documentación e información a que se refiere al párrafo anterior que 
 
 13. Establecer programas de prevención que permitan un conocimiento de la situación financiera de las instituciones bajo su supervisión.
 
-14. Contratar los servicios de firmas de reconocido prestigio en auditoria, actuariado o finanzas, para colaborar en las funciones de la Superintendencia.
+14. Contratar los servicios de firmas de reconocido prestigio en auditoría, actuariado o finanzas, para colaborar en las funciones de la Superintendencia.
 
-15. Verificar el cumplimiento del encaje legal. En caso de incumplimiento, el Superintendente de Bancos aplicará una multa, conforme lo establecido en el Artículo 59 de la Ley Orgánica del Banco Central.
+15. Verificar el cumplimiento del encaje legal. En caso de incumplimiento, el Superintendente de Bancos aplicará una multa, conforme lo establecido en el Artículo 59 de la Ley N°. 732, Ley Orgánica del Banco Central.
 
 16. Presentar al Consejo Directivo, iniciativas de propuestas de Normas Generales, en el ámbito de competencia de la Superintendencia.
 
-17. Rendir informe anual a la Asamblea Nacional conforme lo establecido en el Artículo 138 numeral 29 de la Constitución Política de la República.
+17. Rendir informe anual a la Asamblea Nacional conforme lo establecido en el Artículo 138 numeral 29 de la Constitución Política de la República de Nicaragua.
 
-18. Procurar asegurarse acerca de la proveniencia lícita de los recursos que ingresan al capital de las entidades supervisadas. Para tal fin, cualquier aporte de capital o traspaso accionarios iguales o mayores al 5% del capital de la entidad, para su validez deberá contar con la autorización del Superintendente. Las transferencias menores a este porcentaje deberán ser notificadas, a dicho Funcionario. Lo anterior conforme lo establecido en la Ley General de Bancos, Instituciones Financieras no Bancarias y Grupos Financieros.
+18. Procurar asegurarse acerca de la proveniencia lícita de los recursos que ingresan al capital de las entidades supervisadas. Para tal fin, cualquier aporte de capital o traspaso accionarios iguales o mayores al 5% del capital de la entidad, para su validez deberá contar con la autorización del Superintendente. Las transferencias menores a este porcentaje deberán ser notificadas, a dicho Funcionario. Lo anterior conforme lo establecido en la Ley N°. 561, Ley General de Bancos, Instituciones Financieras No Bancarias y Grupos Financieros.
 
 19. Nombrar y remover a los funcionarios y empleados de la Superintendencia. Aprobar los planes de capacitación y profesionalización de los mismos.
 
 20. Las demás que le señalen otras leyes.
 
-Corresponde al Vice-Superintendente:
+Corresponde al Vicesuperintendente:
 
-1. Conocer permanentemente y de forma actualizada la situación general del sistema financiero y la situación particular de las instituciones bajo la supervisión, inspección, vigilancia y fiscalización de la Superintendencia.
+1. Conocer permanentemente y de forma actualizada la situación general del Sistema Financiero y la situación particular de las instituciones bajo la supervisión, inspección, vigilancia y fiscalización de la Superintendencia.
 
 2. Sustituir en todas sus atribuciones al Superintendente en ausencia de este.
 

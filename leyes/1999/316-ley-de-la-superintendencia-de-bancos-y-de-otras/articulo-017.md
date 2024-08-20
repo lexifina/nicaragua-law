@@ -1,6 +1,6 @@
 # Artículo 17
 
-El Superintendente y el Vice-Superintendente solamente podrán ser destituidos de sus cargos por:
+El Superintendente y el Vicesuperintendente solamente podrán ser destituidos de sus cargos por:
 
 1. Faltas graves cometidas en el ejercicio de sus funciones.
 
@@ -8,7 +8,7 @@ El Superintendente y el Vice-Superintendente solamente podrán ser destituidos d
 
 3. Cuando sean condenados mediante sentencia firme a pena de privación de libertad o de inhabilitación para ejercer el cargo.
 
-4. Incapacidad física o mental por un periodo superior a tres meses.
+4. Incapacidad física o mental por un período superior a tres meses.
 
 5. Por negarse a cumplir cualquier resolución emitida por el Consejo Directivo de la Superintendencia en el ámbito de su competencia.
 
