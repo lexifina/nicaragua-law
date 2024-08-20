@@ -2,47 +2,45 @@
 
 Sujetos Obligados
 
-Son Sujetos Obligados a informar a la UAF directamente y sin poder aducir reserva o sigilo de tipo alguno las personas naturales o jurídicas que desarrollen actividades bajo la forma de las siguientes Instituciones Financieras y Actividades y Profesiones No Financieras.
+Son Sujetos Obligados a informar a la UAF directamente y sin poder aducir reserva o sigilo de tipo alguno las personas naturales o jurídicas que desarrollen actividades bajo la forma de las siguientes Instituciones Financieras y Actividades y Profesiones no Financieras.
 
 1. Instituciones Financieras supervisadas por la Superintendencia de Bancos y de Otras Instituciones Financieras:
 
-a. Bancos,
+a. Bancos.
 
-b. Sociedades financieras,
+b. Sociedades financieras.
 
-c. Sociedades de seguros, reaseguros y fianzas e intermediarios de seguro,
+c. Sociedades de seguros, reaseguros y fianzas e intermediarios de seguro.
 
-d. Sociedades de almacenes generales de depósito,
+d. Sociedades de almacenes generales de depósito.
 
-e. Sociedades de bolsa de valores,
+e. Sociedades de bolsa de valores.
 
-f. Centrales de valores,
+f. Centrales de valores.
 
-g. Puestos de bolsa,
+g. Puestos de bolsa.
 
-h. Sociedades de compensación y liquidación,
+h. Sociedades de compensación y liquidación.
 
-i. Sociedades administradoras de fondos,
+i. Sociedades administradoras de fondos.
 
-j. Sociedades de inversión,
+j. Sociedades de inversión.
 
-k. Sociedades de Administración de Fondos de Pensión, Derogado por la Ley N° 1072, publicada el 17/05/21
+k. Derogado.
 
-l. Oficinas de representación de bancos y entidades Financieras extranjeras,
+l. Oficinas de representación de bancos y entidades financieras extranjeras.
 
-m. Sociedades de régimen especial a que se refiere a la Ley General de Bancos, Instituciones Financieras No Bancarias y Grupos Financieros.
+m. Sociedades de régimen especial a que se refiere a la Ley N°. 561, Ley General de Bancos, Instituciones Financieras no Bancarias y Grupos Financieros.
 
 2. Entidades supervisadas por la Comisión Nacional de Microfinanzas:
 
-a. Instituciones Intermedias de Microfinanzas.
+a. Derogado.
 
 b. Instituciones de Microfinanzas.
 
 3. Las siguientes entidades que serán supervisadas por la Unidad de Análisis Financiero en materia de prevención del LA/FT/FP:
 
-a. Sociedades que al realizar las siguientes actividades no mantienen vínculos de propiedad, de administración, de uso de imagen corporativa o de control con bancos u otras instituciones financieras no bancarias reguladas:
-
-Reformado por la Ley N° 1072, publicada el 17/05/2
+a. Personas Jurídicas que al realizar las siguientes actividades no mantienen vínculos de propiedad, de administración, de uso de imagen corporativa o de control con bancos u otras instituciones financieras no bancarias reguladas:
 
 i. Emisión y administración de medios de pago.
 
@@ -54,7 +52,7 @@ iv. Remesas.
 
 v. Compraventa y/o cambio de moneda.
 
-Se adiciona un Inciso vi, conforme la Ley N°. 1072, publicada el 17/05/21
+vi. Proveedores de Servicios de Activos Virtuales.
 
 b. Las microfinancieras que estén fuera de la regulación de la CONAMI, independientemente de su figura jurídica.
 
@@ -74,4 +72,4 @@ i. Proveedores de servicios fiduciarios.
 
 4. Contadores Públicos Autorizados, colegiados, a través del Colegio de Contadores Públicos de Nicaragua y los Abogados y Notarios Públicos autorizados e incorporados, a través del Poder Judicial.
 
-5. Cualquier otra persona natural o jurídica que de conformidad con la presente Ley, sea designada como Sujeto Obligado o por la ley especifica que la cree.
+5. Cualquier otra persona natural o jurídica que de conformidad con la presente Ley, sea designada como Sujeto Obligado o por la ley específica que la cree.

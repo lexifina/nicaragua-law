@@ -1,12 +1,10 @@
 # Artículo 6
 
-Comisión Nacional ALA/CFT/CFP
+Consejo Nacional ALA/CFT/CFP
 
-Artículo 6 reformado por Ley N° 1072, publicada el 17/05/21
+Créase el Consejo Nacional ALA/CFT/CFP el que en lo sucesivo se denominará el “Consejo”.
 
-Crease la Comisión Nacional ALA/CFT/CFP como una comisión adjunta del Consejo Nacional Contra el Crimen Organizado, la que en lo sucesivo se denominará la "Comisión".
-
-La Comisión estará integrada con representantes permanentes y enlaces técnicos designados de las siguientes instituciones:
+El Consejo estará integrado con representantes permanentes y enlaces técnicos designados de las siguientes instituciones:
 
 a. Poder Judicial.
 
@@ -18,12 +16,16 @@ d. Ministerio Público.
 
 e. Policía Nacional.
 
-f. Superintendencia de Bancos y de Otras instituciones Financieras.
+f. Superintendencia de Bancos y de Otras Instituciones Financieras.
 
-g. Unidad de Análisis Financiero (UAF).
+g. Unidad de Análisis Financiero.
 
 h. Comisión Nacional de Microfinanzas.
 
-La Comisión estará coordinada por la persona que designe el Presidente de la República y su Secretaría Técnica corresponde al Director de la UAF. Asimismo, podrá convocar a las instituciones que sean necesarias para llevar a cabo sus funciones.
+i. Ministerio de Gobernación.
 
-La Comisión elaborará su propio reglamento, el cual será aprobado por el Consejo Nacional Contra el Crimen Organizado, en un plazo máximo de ciento veinte (120) días contados a partir de la entrada en vigencia de la presente Ley.
+j. Ejército de Nicaragua.
+
+El Consejo estará coordinado por la persona que designe el Presidente de la República y su Secretaría Técnica corresponde al Director de la UAF. Asimismo, podrá convocar a las instituciones que sean necesarias para llevar a cabo sus funciones.
+
+El Consejo elaborará y aprobará su propio Reglamento, el que será revisado de manera periódica a fin de realizar las reformas que sean requeridas.
