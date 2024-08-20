@@ -1,6 +1,6 @@
-- CAPÍTULO l (antes del artículo 1)
+- CAPÍTULO I (antes del artículo 1)
 - CAPÍTULO II (antes del artículo 5)
 - CAPÍTULO III (antes del artículo 10)
 - CAPÍTULO IV (antes del artículo 13)
-- CAPÍTULO V (antes del artículo 16)
+- CAPITULO V (antes del artículo 16)
 - DISPOSICIONES GENERALES (antes del artículo 16)
