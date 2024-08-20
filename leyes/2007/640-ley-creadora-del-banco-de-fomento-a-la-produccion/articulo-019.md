@@ -1,5 +1,5 @@
 # Artículo 19
 
-Informes de auditorías.
+Informes de auditorías
 
-El Auditor Interno presentará informes individuales de sus labores programadas y eventuales al Consejo Directivo del Banco y al Gerente General del Banco, quienes tomarán conocimiento de los informes y las decisiones que al respecto se adopten. Estos informes y su presentación se establecerán conforme a las normas prudenciales de la Superintendencia de Bancos y de otras Instituciones Financieras para esta materia.
+El Auditor Interno presentará informes individuales de sus labores programadas y eventuales al Consejo Directivo del Banco y al Gerente General del Banco, quienes tomarán conocimiento de los informes y las decisiones que al respecto se adopten. Estos informes y su presentación se establecerán conforme a las normas prudenciales de la Superintendencia de Bancos y de Otras Instituciones Financieras para esta materia.
