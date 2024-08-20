@@ -1,6 +1,6 @@
 # Artículo 59
 
-Cálculo del Encaje Legal.
+Cálculo del encaje legal
 
 El encaje legal se calculará de conformidad al método que establezca el Consejo Directivo del Banco Central de Nicaragua.
 

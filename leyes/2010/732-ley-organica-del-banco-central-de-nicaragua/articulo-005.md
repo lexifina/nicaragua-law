@@ -1,6 +1,6 @@
 # Artículo 5
 
-Funciones y Atribuciones.
+Funciones y atribuciones
 
 Son funciones y atribuciones del Banco Central las siguientes:
 
@@ -22,6 +22,6 @@ Son funciones y atribuciones del Banco Central las siguientes:
 
 9. Asumir la representación del Estado en materia financiera y en tal carácter, celebrar y ejecutar las transacciones que se deriven de la participación de aquel en los organismos financieros internacionales pertinentes. El Banco Central tendrá a su cargo la participación y representación del Estado en cualquier organismo internacional que involucre relaciones propias del Banco y, consecuentemente, podrá celebrar con dichos organismos todas las operaciones que los convenios autoricen. En los casos de organismos internacionales de carácter monetario, el Banco podrá efectuar, con sus recursos propios, los aportes que correspondan de acuerdo con los convenios o acuerdos vigentes; y
 
-10. Realizar todas las operaciones que sean compatibles con su naturaleza de Banco Central, así como las que sean propias de un banco siempre que sean igualmente compatibles con la naturaleza de sus funciones y de las operaciones que está autorizado por esta Ley. En tal carácter el Banco Central gozará de los mismos privilegios establecidos en la ley para los bancos comerciales.
+10. Realizar todas las operaciones que sean compatibles con su naturaleza de Banco Central, así como las que sean propias de un banco siempre que sean igualmente compatibles con la naturaleza de sus funciones y de las operaciones que está autorizado por esta Ley. En tal carácter el Banco Central gozará de los mismos privilegios establecidos en la Ley para los bancos comerciales.
 
 En el ejercicio de sus funciones y atribuciones, el Banco Central, su Consejo Directivo y sus funcionarios estarán sujetos únicamente a lo establecido en la presente Ley.

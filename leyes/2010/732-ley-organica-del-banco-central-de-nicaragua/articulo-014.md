@@ -1,6 +1,6 @@
 # Artículo 14
 
-Administración Superior.
+Administración Superior
 
 La Administración Superior del Banco estará a cargo de los siguientes funcionarios:
 

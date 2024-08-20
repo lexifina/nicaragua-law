@@ -1,6 +1,6 @@
 # Artículo 30
 
-Auditor Interno. Requisitos, Nombramiento y Remoción.
+Auditor Interno. Requisitos, nombramiento y remoción
 
 Las funciones de inspección y fiscalización de las operaciones y de las cuentas del Banco Central estarán a cargo de un Auditor Interno, que será nombrado por el Consejo Directivo del Banco ante el cual responderá. El Auditor Interno debe ser mayor de treinta años de edad, contador público autorizado con al menos diez (10) años de experiencia en el sector financiero o en la administración pública y ser de reconocida competencia y honorabilidad.
 

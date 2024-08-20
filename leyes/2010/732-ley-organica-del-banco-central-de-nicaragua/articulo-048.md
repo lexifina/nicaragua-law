@@ -1,6 +1,6 @@
 # Artículo 48
 
-Compra y Venta de Activos Financieros Internacionales.
+Compra y venta de activos financieros internacionales
 
 El Banco Central podrá comprar y vender activos financieros internacionales, así como celebrar otras transacciones en moneda extranjera.
 

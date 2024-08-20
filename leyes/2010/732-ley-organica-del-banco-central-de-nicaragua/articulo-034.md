@@ -1,5 +1,5 @@
 # Artículo 34
 
-Unidad Monetaria. Símbolo.
+Unidad Monetaria. Símbolo
 
-La unidad monetaria de la República de Nicaragua es el Córdoba, que se subdivide en cien partes iguales denominadas centavos de Córdobas. Su símbolo es “C$”.
+La unidad monetaria de la República de Nicaragua es el Córdoba, que se subdivide en cien partes iguales denominadas centavos de córdobas. Su símbolo es “C$”.

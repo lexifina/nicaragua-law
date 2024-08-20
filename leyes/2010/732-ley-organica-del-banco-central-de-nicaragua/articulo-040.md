@@ -1,6 +1,6 @@
 # Artículo 40
 
-Emisión de Moneda Nacional.
+Emisión de moneda nacional
 
 Al Banco Central de Nicaragua le corresponde, con exclusividad, la emisión de moneda en el país, así como el ejercicio de las funciones relacionadas con la puesta en circulación y retiro de billetes y monedas.
 

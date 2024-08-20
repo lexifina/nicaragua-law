@@ -1,6 +1,6 @@
 # Artículo 29
 
-Atribuciones.
+Atribuciones
 
 Corresponde al Gerente General las siguientes atribuciones:
 
@@ -8,7 +8,7 @@ Corresponde al Gerente General las siguientes atribuciones:
 
 2. Proponer al Presidente del Banco los nombramientos, asignaciones, traslados, suspensiones y remociones de los funcionarios y empleados del Banco;
 
-3. Ejercer por delegación del Presidente del Banco, la representación legal de la Institución en sus operaciones y asuntos corrientes, y en uso de tal delegación, nombrar y remover funcionarios y empleados y autorizar con su firma los actos y contratos que celebre el Banco, así como otros documentos según lo determinen las leyes, los reglamentos del Banco y las resoluciones de su Consejo Directivo;
+3. Ejercer por delegación del Presidente del Banco, la representación legal de la institución en sus operaciones y asuntos corrientes, y en uso de tal delegación, nombrar y remover funcionarios y empleados y autorizar con su firma los actos y contratos que celebre el Banco, así como otros documentos según lo determinen las leyes, los reglamentos del Banco y las resoluciones de su Consejo Directivo;
 
 4. Informar al Presidente sobre los asuntos a él encomendados y preparar los que deban someterse a la consideración del Consejo Directivo;
 

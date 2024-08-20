@@ -1,8 +1,8 @@
 # Artículo 10
 
-Pérdidas.
+Pérdidas
 
-Las pérdidas en las que el Banco incurra en un ejercicio determinado se imputarán a las reservas que se hayan constituido en ejercicios precedentes, y si ello no fuere posible, afectarán el capital de la Institución. En este caso, el Gobierno de la República cubrirá dichas pérdidas mediante:
+Las pérdidas en las que el Banco incurra en un ejercicio determinado se imputarán a las reservas que se hayan constituido en ejercicios precedentes, y si ello no fuere posible, afectarán el capital de la institución. En este caso, el Gobierno de la República cubrirá dichas pérdidas mediante:
 
 1. Transferencia directa de fondos;
 
@@ -10,4 +10,4 @@ Las pérdidas en las que el Banco incurra en un ejercicio determinado se imputar
 
 3. Una combinación de los anteriores numerales.
 
-Para efectos de las transferencias relacionadas en el presente Artículo, el Banco deberá enviar al Ministerio de Hacienda y Crédito Público a más tardar el treinta de junio de cada año, los Estados Financieros auditados, en los que se determinen las pérdidas del ejercicio anual anterior, a fin de que las transferencias directas de fondos, la emisión de valores y el pago de sus intereses correspondientes se incorporen en el Presupuesto General de la República para el ejercicio presupuestario siguiente. La emisión de estos valores estará sujeta únicamente a los requisitos y procedimientos establecidos en la presente Ley.
+Para efectos de las transferencias relacionadas en el presente Artículo, el Banco deberá enviar al Ministerio de Hacienda y Crédito Público a más tardar el treinta de junio de cada año, los estados financieros auditados, en los que se determinen las pérdidas del ejercicio anual anterior, a fin de que las transferencias directas de fondos, la emisión de valores y el pago de sus intereses correspondientes se incorporen en el Presupuesto General de la República para el ejercicio presupuestario siguiente. La emisión de estos valores estará sujeta únicamente a los requisitos y procedimientos establecidos en la presente Ley.

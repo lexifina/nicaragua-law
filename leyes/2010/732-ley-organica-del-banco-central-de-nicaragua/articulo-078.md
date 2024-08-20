@@ -1,3 +1,5 @@
 # Artículo 78
 
-Sin Vigencia.
+Traspaso de acciones o participaciones
+
+Sin vigencia.

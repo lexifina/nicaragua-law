@@ -1,6 +1,6 @@
 # Artículo 8
 
-Utilidades Netas.
+Utilidades netas
 
 Las utilidades netas del Banco Central se determinarán anualmente después de realizar los castigos que corresponda y constituir las provisiones necesarias para cubrir deficiencias de cartera y depreciación de activos. Una vez establecido el monto de las utilidades, se aplicarán en primer término a la cuenta de Reserva General, hasta que dicha cuenta alcance un monto igual al límite establecido en el Artículo precedente.
 

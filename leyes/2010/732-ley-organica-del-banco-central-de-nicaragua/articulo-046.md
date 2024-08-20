@@ -1,6 +1,6 @@
 # Artículo 46
 
-Prohibición de Impresión de Reproducciones de Billetes o Similares.
+Prohibición de impresión de reproducciones de billetes o similares
 
 Se prohíbe imprimir por cualquier medio y para cualquier fin reproducciones de billetes de bancos de cualquier clase o imágenes parecidas, o la acuñación de réplicas de monedas de curso legal.
 

@@ -1,10 +1,10 @@
 # Artículo 19
 
-Atribuciones del Consejo Directivo.
+Atribuciones del Consejo Directivo
 
 El Consejo Directivo tiene las siguientes atribuciones:
 
-1. Aprobar el programa monetario anual del Banco, determinar el régimen cambiario y los lineamientos de la política cambiaria;
+1. Aprobar el Programa Monetario Anual del Banco, determinar el régimen cambiario y los lineamientos de la política cambiaria;
 
 2. Dictar las políticas para la promoción del buen funcionamiento y estabilidad del sistema financiero del país, sin perjuicio de las atribuciones de la Superintendencia de Bancos y de Otras Instituciones Financieras;
 
@@ -20,9 +20,9 @@ El Consejo Directivo tiene las siguientes atribuciones:
 
 8. Determinar los términos y condiciones de las emisiones de valores, así como condiciones generales de las operaciones de mercado abierto que corresponda ejecutar;
 
-9. Aprobar la política de administración de las reservas internacionales del Banco. Determinar las normas de contabilidad que se aplicarán en el Banco. Dichas normas deberán conformarse con estándares internacionales utilizados por entidades financieras. Aprobar el Plan Estratégico Institucional, el cual deberá ser formulado para períodos de tres a cinco años, y los planes anuales de trabajo así como conocer el resultado de su ejecución. Estos planes deberán servir como base para la formulación del Presupuesto anual del Banco;
+9. Aprobar la política de administración de las reservas internacionales del Banco. Determinar las normas de contabilidad que se aplicarán en el Banco. Dichas normas deberán conformarse con estándares internacionales utilizados por entidades financieras. Aprobar el Plan Estratégico Institucional, el cual deberá ser formulado para períodos de tres a cinco años, y los planes anuales de trabajo así como conocer el resultado de su ejecución. Estos planes deberán servir como base para la formulación del Presupuesto Anual del Banco;
 
-10. Aprobar anualmente el presupuesto de ingresos y gastos de la Institución, conocer el comportamiento de su ejecución y aprobar modificaciones, si fuere necesario;
+10. Aprobar anualmente el presupuesto de ingresos y gastos de la institución, conocer el comportamiento de su ejecución y aprobar modificaciones, si fuere necesario;
 
 11. Aprobar los balances y estados de ganancias y pérdidas del Banco, y acordar la constitución de reservas y conocer la distribución de utilidades que corresponda en los términos de lo establecido en la presente Ley;
 
@@ -30,7 +30,7 @@ El Consejo Directivo tiene las siguientes atribuciones:
 
 13. Dictar los reglamentos internos y demás normas generales de operación del Banco;
 
-14. Aprobar la política de selección, contratación, remuneraciones y beneficios del personal del Banco, así como los programas de jubilación de dicho personal, sujeto a las limitaciones del programa monetario y las políticas presupuestarias del Banco;
+14. Aprobar la política de selección, contratación, remuneraciones y beneficios del personal del Banco, así como los programas de jubilación de dicho personal, sujeto a las limitaciones del Programa Monetario y las políticas presupuestarias del Banco;
 
 15. Pedir a las diferentes dependencias del Banco los informes que corresponda y evaluar periódicamente el desarrollo de las operaciones del Banco;
 
@@ -46,4 +46,4 @@ El Consejo Directivo tiene las siguientes atribuciones:
 
 21. Dictar las normas correspondientes y necesarias que garanticen la aplicación de todo lo establecido en la presente Ley; y
 
-22. Ejercer cualquiera otras facultades que corresponda, de acuerdo con leyes o decretos. En caso que alguna facultad atribuida al Banco Central, no estuviere específicamente señalado el funcionario responsable de su ejecución, se entenderá que es competencia de su Consejo Directivo. Las resoluciones del Consejo Directivo en materia de política monetaria, financiera y cambiaria tendrán carácter de normas de orden público.
+22. Ejercer cualquiera otras facultades que corresponda, de acuerdo con leyes o decretos. En caso que alguna facultad atribuida al Banco Central, no estuviere específicamente señalado el funcionario responsable de su ejecución, se entenderá que es competencia de su Consejo Directivo. Las resoluciones del Consejo Directivo en materia de política monetaria, financiera y cambiaría tendrán carácter de normas de orden público.

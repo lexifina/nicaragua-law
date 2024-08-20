@@ -1,6 +1,6 @@
 # Artículo 50
 
-Reservas Internacionales.
+Reservas internacionales
 
 Al Banco Central le corresponde la guarda y administración de las reservas internacionales, en los términos y condiciones que determine su Consejo Directivo y teniendo debidamente en cuenta los criterios de riesgo, liquidez y rentabilidad relacionados con los activos de esta naturaleza.
 

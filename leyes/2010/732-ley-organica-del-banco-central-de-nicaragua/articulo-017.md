@@ -1,6 +1,6 @@
 # Artículo 17
 
-Impedimentos para ser Miembros del Consejo Directivo.
+Impedimentos para ser miembros del Consejo Directivo
 
 No podrán ser miembros del Consejo Directivo del Banco:
 

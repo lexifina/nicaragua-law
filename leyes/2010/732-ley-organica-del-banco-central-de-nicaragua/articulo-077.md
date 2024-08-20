@@ -1,3 +1,5 @@
 # Artículo 77
 
-Sin Vigencia.
+Período de los otros miembros del Consejo Directivo
+
+Sin vigencia.

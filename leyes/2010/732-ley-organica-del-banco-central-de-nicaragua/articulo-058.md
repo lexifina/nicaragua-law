@@ -1,6 +1,6 @@
 # Artículo 58
 
-Fijación de Encajes Bancarios Mínimos.
+Fijación de encajes bancarios mínimos
 
 El Banco Central podrá fijar encajes bancarios mínimos, consistentes en cierto porcentaje de los depósitos y otras obligaciones con el público a cargo de los bancos y sociedades financieras. De igual manera, estarán sujetas a encaje otras operaciones pasivas, contingentes o de servicios que realicen dichas instituciones, cuando estas operaciones, a juicio del Consejo Directivo, previo informe del Superintendente de Bancos, deban ser constitutivas de encaje bancario.
 

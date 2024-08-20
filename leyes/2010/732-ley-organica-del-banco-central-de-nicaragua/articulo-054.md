@@ -1,6 +1,6 @@
 # Artículo 54
 
-Préstamos o Anticipos en caso de Dificultades Transitorias de Liquidez.
+Préstamos o anticipos en caso de dificultades transitorias de liquidez
 
 El Banco Central podrá conceder a los bancos y sociedades financieras, préstamos o anticipos como apoyo para enfrentar dificultades transitorias de liquidez, por un plazo máximo de treinta (30) días, con garantía de valores y otros activos calificados como elegibles por el Consejo Directivo, mediante resolución de carácter general. Corresponderá al Consejo Directivo fijar, mediante resolución, el límite máximo de endeudamiento de los bancos e instituciones financieras con el Banco Central, en base a un porcentaje del patrimonio de la respectiva entidad.
 

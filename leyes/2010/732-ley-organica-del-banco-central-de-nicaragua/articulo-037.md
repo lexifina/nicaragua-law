@@ -1,6 +1,6 @@
 # Artículo 37
 
-Excepciones a la Expresión y Liquidación en Córdobas.
+Excepciones a la expresión y liquidación en córdobas
 
 Se exceptúan de lo dispuesto en el Artículo anterior:
 

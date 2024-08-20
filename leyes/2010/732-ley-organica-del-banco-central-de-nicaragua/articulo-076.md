@@ -1,3 +1,5 @@
 # Artículo 76
 
-Sin Vigencia.
+Período del actual Presidente del Banco Central. Nuevo nombramiento
+
+Sin vigencia.

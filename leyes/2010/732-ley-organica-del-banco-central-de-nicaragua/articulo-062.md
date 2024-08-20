@@ -1,10 +1,10 @@
 # Artículo 62
 
-Créditos o Avales al Gobierno. Descuento de Valores.
+Créditos o avales al Gobierno. Descuento de valores
 
 El Banco Central de Nicaragua no podrá conceder crédito directo o indirecto al Gobierno de la República para suplir deficiencias de sus ingresos presupuestarios, no podrá concederle avales, donaciones o asumir funciones que le correspondan legalmente a otras instituciones gubernamentales. Tampoco podrá conceder crédito, avales o donaciones a entidades públicas no financieras.
 
-No obstante, para subsanar necesidades temporales de caja que se presenten durante el ejercicio presupuestario, el Banco Central podrá descontar valores emitidos por el Gobierno por un monto no mayor del diez por ciento (10%) del promedio de los Ingresos Tributarios recaudados por el Gobierno en los dos últimos años inmediatamente anteriores al año de la solicitud, siempre que se llenen los siguientes requisitos:
+No obstante, para subsanar necesidades temporales de caja que se presenten durante el ejercicio presupuestario, el Banco Central podrá descontar valores emitidos por el Gobierno por un monto no mayor del diez por ciento (10%) del promedio de los ingresos tributarios recaudados por el Gobierno en los dos últimos años inmediatamente anteriores al año de la solicitud, siempre que se llenen los siguientes requisitos:
 
 1. Los gastos a pagarse con los fondos suplidos deberán estar incluidos en el Presupuesto General de la República vigente aprobado por la Asamblea Nacional;
 

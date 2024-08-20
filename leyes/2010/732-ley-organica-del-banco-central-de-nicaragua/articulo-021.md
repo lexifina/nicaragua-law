@@ -1,6 +1,6 @@
 # Artículo 21
 
-Causales de Remoción del Presidente y de los Miembros del Consejo.
+Causales de remoción del Presidente y de los miembros del Consejo
 
 El Presidente del Banco y los miembros del Consejo Directivo solamente podrán ser removidos de sus cargos antes de la expiración del período correspondiente si se presenta alguna de las causales que siguen:
 
