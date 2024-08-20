@@ -1,9 +1,7 @@
 # Artículo 34
 
-Diversificación de las Inversiones.
+Diversificación de las inversiones
 
-Para reducir el riesgo de posibles pérdidas, el fiduciario deberá diversificar las inversiones. Si el fideicomitente no hubiere dispuesto otra cosa, podrá invertirse en un solo negocio hasta el veinte por ciento (20%) del patrimonio dado en fideicomiso.
+Para reducir el riesgo de posibles pérdidas, el Fiduciario deberá diversificar las inversiones. Si el Fideicomitente no hubiere dispuesto otra cosa, podrá invertirse en un solo negocio hasta el veinte por ciento (20%) del patrimonio dado en Fideicomiso.
 
-Sección Cuarta
-
-Prohibiciones al Fiduciario
+PROHIBICIONES AL FIDUCIARIO

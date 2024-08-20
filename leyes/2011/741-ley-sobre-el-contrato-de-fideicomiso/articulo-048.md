@@ -1,29 +1,29 @@
 # Artículo 48
 
-Causales de Extinción del Fideicomiso.
+Causales de extinción del Fideicomiso
 
-El fideicomiso se extingue:
+El Fideicomiso se extingue:
 
 a) Por la realización del fin para el cual fue constituido, o por ser imposible su cumplimiento.
 
-b) Por hacerse imposible el cumplimiento de la condición suspensiva de que depende, o no haberse verificado dentro del término señalado al constituirse el fideicomiso, o en su defecto, dentro de los treinta años siguientes a su constitución.
+b) Por hacerse imposible el cumplimiento de la condición suspensiva de que depende, o no haberse verificado dentro del término señalado al constituirse el Fideicomiso, o en su defecto, dentro de los treinta años siguientes a su constitución.
 
 c) Por haberse cumplido la condición resolutoria a que haya quedado sujeto.
 
-d) Por convenio expreso entre el fideicomitente y el fideicomisario. En este caso, el fiduciario podrá oponerse cuando queden sin garantía derechos de terceras personas, nacidos durante la gestión del fideicomiso.
+d) Por convenio expreso entre el Fideicomitente y el Fideicomisario. En este caso, el Fiduciario podrá oponerse cuando queden sin garantía derechos de terceras personas, nacidos durante la gestión del Fideicomiso.
 
-e) Por revocación que haga el fideicomitente cuando se haya reservado ese derecho. En este caso deberán quedar garantizados los derechos de terceros adquiridos durante la gestión del fideicomiso.
+e) Por revocación que haga el Fideicomitente cuando se haya reservado ese derecho. En este caso deberán quedar garantizados los derechos de terceros adquiridos durante la gestión del Fideicomiso.
 
-f) Por falta del fiduciario, si no fuere posible su sustitución.
+f) Por falta del Fiduciario, si no fuere posible su sustitución.
 
-g) En caso de quiebra del fiduciario, con excepción de lo dispuesto en el Artículo 50 de esta Ley.
+g) En caso de quiebra del Fiduciario, con excepción de lo dispuesto en el Artículo 50 de esta Ley.
 
-h) Por renuncia del o los fideicomisarios.
+h) Por renuncia del o los Fideicomisarios.
 
 i) Por destrucción o pérdida de los bienes fideicomitidos.
 
 j) Por la declaración de nulidad del acto constitutivo.
 
-k) Por la constitución del fideicomiso en fraude de terceros.
+k) Por la constitución del Fideicomiso en fraude de terceros.
 
-l) Por cualquier otra causa establecida en el documento constitutivo del fideicomiso o en esta Ley.
+l) Por cualquier otra causa establecida en el documento constitutivo del Fideicomiso o en esta Ley.

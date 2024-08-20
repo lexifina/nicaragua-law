@@ -1,6 +1,6 @@
 # Artículo 36
 
-Otras Prohibiciones.
+Otras prohibiciones
 
 Adicionalmente, los fiduciarios tendrán las siguientes prohibiciones:
 
@@ -12,6 +12,4 @@ c) Realizar operaciones en condiciones y términos contrarios a las sanas práct
 
 d) Pagar cualquier sanción que le sea impuesta por alguna autoridad cargándolas al patrimonio fideicometido.
 
-Sección Quinta
-
-Causales de Renuncia y de Remoción del Fiduciario
+CAUSALES DE RENUNCIA Y DE REMOCIÓN DEL FIDUCIARIO

@@ -1,21 +1,21 @@
 # Artículo 30
 
-Obligaciones del Fiduciario.
+Obligaciones del Fiduciario
 
-Son obligaciones del fiduciario, entre otras:
+Son obligaciones del Fiduciario, entre otras:
 
-a) Llevar a cabo todos los actos necesarios para la realización del fin del fideicomiso.
+a) Llevar a cabo todos los actos necesarios para la realización del fin del Fideicomiso.
 
-b) Contabilizar los bienes fideicomitidos en forma separada de sus demás bienes y de los correspondientes a otros fideicomisos.
+b) Contabilizar los bienes fideicomitidos en forma separada de sus demás bienes y de los correspondientes a otros Fideicomisos.
 
-c) Rendir cuenta de su gestión al fideicomitente o al fideicomisario, en su caso, o a quien el primero haya designado, por lo menos una vez al año.
+c) Rendir cuenta de su gestión al Fideicomitente o al Fideicomisario, en su caso, o a quien el primero haya designado, por lo menos una vez al año.
 
-El o los destinatarios del informe podrán objetarlo dentro del plazo establecido en el contrato; sino existiere plazo, tendrán noventa (90) días calendarios desde su recibo para hacerlo, en caso contrario, el informe se tendrá como tácitamente aprobado; sin perjuicio de las responsabilidades en que pudo haber incurrido el fiduciario en el ejercicio de su gestión.
+El o los destinatarios del informe podrán objetarlo dentro del plazo establecido en el contrato; sino existiere plazo, tendrán noventa (90) días calendarios desde su recibo para hacerlo, en caso contrario, el informe se tendrá como tácitamente aprobado; sin perjuicio de las responsabilidades en que pudo haber incurrido el Fiduciario en el ejercicio de su gestión.
 
 d) Proteger y defender los bienes fideicomitidos.
 
 e) Prestar caución o garantía.
 
-f) Transferir los bienes fideicomitidos a quien corresponda una vez concluido el fideicomiso.
+f) Transferir los bienes fideicomitidos a quien corresponda una vez concluido el Fideicomiso.
 
-g) Las demás establecidas en el documento constitutivo del fideicomiso.
+g) Las demás establecidas en el documento constitutivo del Fideicomiso.

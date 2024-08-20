@@ -1,21 +1,17 @@
 # Artículo 19
 
-Obligaciones del Fideicomitente.
+Obligaciones del Fideicomitente
 
-Son obligaciones del fideicomitente:
+Son obligaciones del Fideicomitente:
 
-a) Transmitir la propiedad de los bienes con los cuales constituye el fideicomiso.
+a) Transmitir la propiedad de los bienes con los cuales constituye el Fideicomiso.
 
-b) Designar al fiduciario y al fideicomisario, según el caso.
+b) Designar al Fiduciario y al Fideicomisario, según el caso.
 
-c) Pagar los honorarios del fiduciario, salvo pacto en contrario.
+c) Pagar los honorarios del Fiduciario, salvo pacto en contrario.
 
 d) Las demás obligaciones que se establezcan en el contrato.
 
-Capítulo II
+FIDEICOMISARIO
 
-Fideicomisario
-
-Sección Única
-
-Falta de Fideicomisario, Toma de Decisiones y Derechos
+FALTA DE FIDEICOMISARIO, TOMA DE DECISIONES Y DERECHOS

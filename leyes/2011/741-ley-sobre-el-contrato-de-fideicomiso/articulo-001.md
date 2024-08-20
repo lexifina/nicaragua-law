@@ -1,5 +1,5 @@
 # Artículo 1
 
-Objeto de la Ley.
+Objeto de la Ley
 
-La presente Ley tiene por objeto la creación de un marco de regulación de la figura del fideicomiso, como instrumento de administración de patrimonios, canalización de inversiones públicas y privadas, constitución de garantías, entre otros.
+La presente Ley tiene por objeto la creación de un marco de regulación de la figura del Fideicomiso, como instrumento de administración de patrimonios, canalización de inversiones públicas y privadas, constitución de garantías, entre otros.
