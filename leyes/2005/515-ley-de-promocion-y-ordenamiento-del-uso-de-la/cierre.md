@@ -2,8 +2,10 @@ Dada en la ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional, a 
 
 Por tanto: Téngase como Ley de la República. Publíquese y Ejecútese. Managua, diecisiete de enero del año dos mil cinco. Enrique Bolaños Geyer, Presidente de la República de Nicaragua.
 
-NOTA DE CONSOLIDACIÓN: Este texto contiene incorporadas las modificaciones producidas por las siguientes normas: 1. Ley N°. 561, “Ley General de Bancos, Instituciones Financieras no Bancarias y Grupos Financieros”, publicada en La Gaceta, Diario Oficial N°. 232 del 30 de noviembre de 2005 y 2. Ley N°. 641, “Código Penal”, publicado en La Gaceta, Diario Oficial Nos. 83, 84, 85, 86 y 87 del 5, 6, 7, 8 y 9 de mayo de 2008.
+NOTA DE CONSOLIDACIÓN. Este texto contiene incorporadas las modificaciones producidas por: 1. Ley N°. 561, Ley General de Bancos, Instituciones Financieras no Bancarias y Grupos Financieros, publicada en La Gaceta, Diario Oficial N°. 232 del 30 de noviembre de 2005; 2. Ley N°. 641, Código Penal, publicada en La Gaceta, Diario Oficial N°. 83, 84, 85, 86 y 87 del 5, 6, 7, 8 y 9 de mayo de 2008; y 3. Código Civil de la República de Nicaragua, Cuarta Edición Oficial 2019, publicado en La Gaceta, Diario Oficial N°. 236 del 11 de diciembre de 2019.
 
-Dada en la ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional de la República de Nicaragua, a los diez días del mes de mayo del año dos mil dieciocho. Dr. Gustavo Eduardo Porras Cortés, Presidente de la Asamblea Nacional. Lic. Loria Raquel Dixon Brautigam, Secretaria de la Asamblea Nacional.
+Dado en el Salón de Sesiones de la Asamblea Nacional, en la ciudad de Managua a los treinta días del mes de noviembre del año dos mil veintitrés. Dip. Loria Raquel Dixon Brautigam, Primera Secretaria de la Asamblea Nacional.
+
+Observación: El Texto Consolidado, Ley Nº. 515, Ley de Promoción y Ordenamiento del Uso de la Tarjeta de Crédito, se encuentra incorporado en el Anexo IV, Registro de Normas Consolidadas de la Ley del Digesto Jurídico Nicaragüense de la Materia de Banca y Finanzas.
 
 .
