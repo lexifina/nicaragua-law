@@ -16,7 +16,7 @@ La acción heroica de RIGOBERTO LÓPEZ PÉREZ, iniciador del principio del fin d
 El ejemplo de CARLOS FONSECA, el más alto continuador de la herencia de Sandino, fundador del Frente Sandinista de Liberación Nacional y Jefe de la Revolución.
 Al Mártir de la Libertades Públicas, Doctor PEDRO JOAQUÍN CHAMORRO CARDENAL.
 Al Cardenal de la Paz y la Reconciliación, Cardenal MIGUEL OBANDO Y BRAVO.
-A todas las generaciones de Héroes y Mártires que forjaron y desarrollaron la lucha de liberación por la independe nacional.
+A todas las generaciones de Héroes y Mártires que forjaron y desarrollaron la lucha de liberación por la independencia nacional.
 En Nombre
 Del pueblo nicaragüense; de todos los partidos y organizaciones democráticas, patrióticas y revolucionarias de Nicaragua; de sus hombres y mujeres; de sus obreros y campesinos; de su gloriosa juventud; de sus heroicas madres; de los cristianos que desde su fe en DIOS se han comprometido e insertado en la lucha por la liberación de los oprimidos; de sus intelectuales patrióticos; y de todos los que con su trabajo productivo contribuyen a la defensa de la Patria.
 De los que luchan y ofrendan sus vidas frente a la agresión imperialista para garantizar la felicidad de las nuevas generaciones.
