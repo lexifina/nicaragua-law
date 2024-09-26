@@ -1,0 +1,3 @@
+# Artículo 8
+
+Todos los recursos financieros asignados al Programa usura Cero y al Programa Adelante, incluyendo saldos disponibles, recuperaciones de créditos, activos físicos, donaciones y préstamos gestionados por el Gobierno, serán consolidados, con el objetivo de optimizar su uso y maximizar el impacto de los programas. Los Programas Usura Cero y Adelante podrán financiarse a través de: asignaciones del Presupuesto General de la República; fuentes de Rentas del Tesoro; recuperaciones de créditos otorgados por el Gobierno; donaciones y préstamos gestionados por el Gobierno de la República de Nicaragua.
