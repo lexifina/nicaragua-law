@@ -1,0 +1,3 @@
+# Artículo 30
+
+Queja ante el Prestador de Servicios Turísticos. De conformidad con el numeral 15 del Artículo 6 y el numeral 9 del Artículo 20 de la Ley, los turistas o usuarios podrán interponer queja por cualquier hecho irregular cuya responsabilidad se atribuya al prestador de servicios turísticos, ante el mismo prestador de servicios turísticos y por cualquier medio escrito u otro medio comprobable. El plazo para presentar dicha queja será de tres días hábiles contados a partir de la recepción del bien, servicio o factura correspondiente, según sea el caso. El prestador de servicios turísticos contará con hasta tres días hábiles para resolver la queja correspondiente.
