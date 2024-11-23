@@ -1,0 +1,5 @@
+# Artículo 15
+
+Incumplimiento al Plan de Inversión. En caso de incumplimiento en la ejecución del Plan de inversión aprobado por el Comité, la Dirección de Infraestructura e Inversiones Turísticas del INTUR, emitirá un informe a la oficina de Asesoría Legal y Codirección del INTUR. Este informe será presentado en sesenta días calendarios, antes del vencimiento del plazo de ejecución del proyecto, debiendo notificarse de la situación al inversionista, ya sea por medio escrito o electrónico a la dirección indicada por el mismo, otorgándole un plazo de cinco días hábiles contados desde su notificación para que conteste lo que tenga a bien.
+
+Si justifica su incumplimiento, y cabe ampliación de plazo, se le otorgará. En caso contrario, se procede al trámite correspondiente para la ejecución de la Fianza; para lo cual, la Oficina de Asesoría Legal emitirá el dictamen correspondiente a la Codirección del INTUR, quien emitirá una Resolución Administrativa para dar inicio al proceso de ejecución. De lo anterior se mantendrá informado al Comité de Incentivos Turísticos.
