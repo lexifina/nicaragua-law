@@ -1,0 +1,3 @@
+# Artículo 1
+
+Apruébese el Presupuesto General de Ingresos para el ejercicio presupuestario 2025, por el monto estimado de C$158,730,385,898.00 (CIENTO CINCUENTA Y OCHO MIL SETECIENTOS TREINTA MILLONES TRESCIENTOS OCHENTA Y CINCO MIL OCHOCIENTOS NOVENTA Y OCHO CÓRDOBAS NETOS), de los que C$158,728,429,878.00 (CIENTO CINCUENTA Y OCHO MIL SETECIENTOS VEINTIOCHO MILLONES CUATROCIENTOS VEINTINUEVE MIL OCHOCIENTOS SETENTA Y OCHO CÓRDOBAS NETOS) corresponden a ingresos corrientes y C$1,956,020.00 (UN MILLÓN NOVECIENTOS CINCUENTA Y SEIS MIL VEINTE CÓRDOBAS NETOS) a ingresos de capital, que forman parte de esta Ley, de acuerdo a la distribución por fuente de ingresos.
