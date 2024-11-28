@@ -1,0 +1,27 @@
+LEY N°. 1227, LEY DE REFORMA A LA LEY N°. 181, CÓDIGO DE ORGANIZACIÓN, JURISDICCIÓN Y PREVISIÓN SOCIAL MILITAR
+
+Aprobada el 27 de noviembre de 2024
+
+Publicada en La Gaceta, Diario Oficial N°. 221 del 28 de noviembre de 2024
+
+EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+
+A sus habitantes, hace saber:
+
+Que,
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+Ha ordenado lo siguiente:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+HA DICTADO
+
+La siguiente:
+
+LEY N°. 1227
+
+LEY DE REFORMA A LA LEY N°. 181, CÓDIGO DE ORGANIZACIÓN, JURISDICCIÓN Y PREVISIÓN SOCIAL MILITAR
