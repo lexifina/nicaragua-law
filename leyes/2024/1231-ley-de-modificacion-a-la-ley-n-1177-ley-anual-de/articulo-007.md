@@ -1,0 +1,3 @@
+# Artículo 7
+
+Modifíquese el Artículo 1, de la Ley N°. 1177, Ley Anual de Presupuesto General de la República 2024, el cual se leerá así: “Apruébese el Presupuesto General de Ingresos para el ejercicio presupuestario 2024 por un monto estimado de C$150,701,701,741.00 (CIENTO CINCUENTA MIL SETECIENTOS UN MILLONES SETECIENTOS UN MIL SETECIENTOS CUARENTA Y UN CÓRDOBAS NETOS), que corresponden a ingresos corrientes el monto de C$150,684,109,746.00 (CIENTO CINCUENTA MIL SEISCIENTOS OCHENTA Y CUATRO MILLONES CIENTO NUEVE MIL SETECIENTOS CUARENTA Y SEIS CÓRDOBAS NETOS) y a ingresos de capital la suma de C$17,591,995.00 (DIECISIETE MILLONES QUINIENTOS NOVENTA Y UN MIL NOVECIENTOS NOVENTA Y CINCO CÓRDOBAS NETOS), que forman parte de la Ley”.

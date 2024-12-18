@@ -1,0 +1,3 @@
+# Artículo 1
+
+Increméntese el Presupuesto General de Ingresos para el ejercicio presupuestario 2024 en la suma de C$12,067,434,134.00 (DOCE MIL SESENTA Y SIETE MILLONES CUATROCIENTOS TREINTA Y CUATRO MIL CIENTO TREINTA Y CUATRO CÓRDOBAS NETOS), de los que C$12,067,273,275.00 (DOCE MIL SESENTA Y SIETE MILLONES DOSCIENTOS SETENTA Y TRES MIL DOSCIENTOS SETENTA Y CINCO CÓRDOBAS NETOS), corresponde a ingresos corrientes y C$160,859.00 (CIENTO SESENTA MIL OCHOCIENTOS CINCUENTA Y NUEVE CÓRDOBAS NETOS) a ingresos de capital, de acuerdo a la distribución por fuentes de ingresos contenida en el Anexo N° I.
