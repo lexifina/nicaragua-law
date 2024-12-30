@@ -1,0 +1,7 @@
+# Artículo 28
+
+Exigencia de responsabilidad
+
+Para poder iniciar una acción civil, judicial o extrajudicial, contra los miembros del Consejo Directivo, por decisiones o resoluciones adoptadas, o contra la Administración Superior o los empleados del Banco Central y/o de la Superintendencia, por acciones tomadas en el ejercicio de sus funciones, se deberá cumplir primero con el requisito de entablar acción judicial civil, judicial o extrajudicial contra el Banco Central o contra la Superintendencia y que ésta haya sido resuelta favorablemente a las pretensiones del actor o demandante mediante sentencia judicial firme. Sin dicho requisito no se dará curso a las acciones civiles contra estos. A los efectos previstos anteriormente, el Banco Central o la Superintendencia, según corresponda, asumirá los costos de defensa de los demandados, aun cuando estos hayan dejado de prestar servicios a la institución. Dichas instituciones tendrán derecho a repetir tales costos contra dichas personas en el caso en que las mismas fueran encontradas personalmente responsables de la ilegalidad, por la autoridad competente.
+
+En caso que se inicien causas judiciales, incluyendo los recursos de amparo que se interpongan en contra del Consejo Directivo, por sus actuaciones en el ejercicio de sus funciones, serán representados legalmente por el Presidente del Consejo Directivo, lo que no aplicará para las causas penales.

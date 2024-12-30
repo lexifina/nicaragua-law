@@ -1,0 +1,7 @@
+# Artículo 155
+
+Transferencia de activos al Estado provenientes del sistema financiero desincorporado
+
+Por la presente Ley se transfieren a favor del Estado de la República de Nicaragua, representado por la Procuraduría General de la República (PGR), los activos residuales recibidos de la banca desincorporada, conforme cifras del informe financiero auditado del Banco Central del año 2024; y que, a la vigencia de la presente Ley, se encuentren bajo el dominio del Banco Central, sean estos bienes inmuebles, incluidas promesas de ventas de estos, muebles, préstamos, derechos y acciones, sin perjuicio de aquellos activos residuales que la institución tenga en uso, en cuyo caso permanecerán bajo el dominio del Banco Central. El Banco Central elaborará un inventario de la totalidad de los activos residuales a ser transferidos y se lo remitirá a la PGR.
+
+Por la transferencia de los activos residuales, el Ministerio de Hacienda y Crédito Público pagará con valores públicos a favor del Banco Central. Este pago se realizará, en el plazo de un año contado a partir de la entrada en vigencia de la presente Ley. La emisión de estos valores, estará sujeta únicamente a lo dispuesto por la presente Ley, sin requerir las regulaciones establecidas en la Ley N°. 477, Ley General de Deuda Pública, lo que, no obstante, deberá ser informado por el Ministerio de Hacienda y Crédito Público a la Asamblea Nacional.
