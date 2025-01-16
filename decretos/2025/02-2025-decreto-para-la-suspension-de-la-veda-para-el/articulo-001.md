@@ -1,0 +1,3 @@
+# Artículo 1
+
+Conforme las facultades señaladas en el artículo 15 de la Ley No. 585, “Ley de Veda para el Corte, Aprovechamiento y Comercialización del Recurso Forestal” publicado en La Gaceta, Diario Oficial No. 120 del 21 de junio del 2006, se suspende por un período de dos (2) años en todo el territorio nacional, la Veda para Corte, Aprovechamiento, Transporte y Comercialización de árboles de la especie Pochote (Pachira quinata Jacq. W.S); excluyendo las áreas protegidas de conformidad a lo establecido en la legislación ambiental vigente; la veda de la especie Pochote podrá ser prorrogable, teniendo como soporte los estudios y recomendaciones técnicas y administrativas del Ministerio del Ambiente y de los Recursos Naturales.
