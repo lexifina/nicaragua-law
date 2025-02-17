@@ -1,0 +1,17 @@
+LEY N°. 1236, LEY DE REFORMAS Y ADICIONES A LA LEY N°. 551, LEY DEL SISTEMA DE GARANTÍA DE DEPÓSITOS
+
+Aprobada el 11 de febrero de 2025
+
+Publicada en La Gaceta, Diario Oficial N°. 30 del 17 de febrero de 2025
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+HA DICTADO
+
+La siguiente:
+
+LEY N°. 1236
+
+LEY DE REFORMAS Y ADICIONES A LA LEY N°. 551, LEY DEL SISTEMA DE GARANTÍA DE DEPÓSITOS
