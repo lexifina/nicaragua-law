@@ -1,3 +1,4 @@
 # Artículo 111
 
-Los campesinos y demás sectores productivos tienen derecho de participar en la definición de las políticas de transformación agraria, por medio de sus propias organizaciones.
+El Estado promueve el protagonismo de la persona, la familia y la comunidad en la educación.
+La educación se fundamenta en la acción concertada de estudiantes, docentes, padres y madres de familia y comunidad para lograr con éxito sus fines y objetivos.

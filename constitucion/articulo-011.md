@@ -1,3 +1,3 @@
 # Artículo 11
 
-El español es el idioma oficial del Estado. Las lenguas de las Comunidades de la Costa Caribe de Nicaragua también tendrán uso oficial en los casos que establezca la ley.
+Nicaragua asegura la libertad de culto, fe y prácticas religiosas en estricta separación entre el Estado y las iglesias.

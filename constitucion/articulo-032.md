@@ -1,3 +1,4 @@
 # Artículo 32
 
-Ninguna persona está obligada a hacer lo que la ley no mande, ni impedida de hacer lo que ella no prohíbe.
+Nadie puede ser sometido a detención o prisión arbitraria ni ser privado de su libertad. Toda persona tiene derecho en igualdad de condiciones al debido proceso y a la tutela judicial efectiva.
+La ley regulará la materia.

@@ -1,3 +1,3 @@
 # Artículo 62
 
-El Estado procurará establecer programas en beneficio de los discapacitados para su rehabilitación física, sicosocial y profesional y para su ubicación laboral.
+El Estado vigilará que los medios de comunicación social no sean sometidos a intereses extranjeros ni divulguen noticias falsas que atenten contra los derechos del Pueblo. La ley regulará esta materia.

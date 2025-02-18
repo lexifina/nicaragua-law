@@ -1,4 +1,4 @@
 # Artículo 166
 
-Los Magistrados y Jueces en su actividad judicial, son independientes y sólo deben obediencia a la Constitución y a la ley; se regirán entre otros, por los principios de igualdad, celeridad y derecho a la defensa. La justicia en Nicaragua es gratuita y pública.
-La administración de justicia se organizará y funcionará con participación popular que será determinada por las leyes.
+Las comunidades de la Costa Caribe tienen el derecho inalienable de vivir y desarrollarse bajo la forma de organización político-administrativa, social y cultural que corresponde a sus tradiciones históricas y culturales, garantizando la preservación de sus culturas, lenguas, tradiciones y costumbres.
+Las y los miembros de los consejos regionales autónomos de la Costa Caribe serán electos por el Pueblo mediante el sufragio universal, igual, directo, libre y secreto por un período de seis años, de conformidad con la ley. Las y los miembros de los consejos regionales autónomos de la Costa Caribe podrán perder su condición por las causas y los procedimientos que establezcan la Constitución Política y la ley.

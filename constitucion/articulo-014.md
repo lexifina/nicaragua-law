@@ -1,3 +1,3 @@
 # Artículo 14
 
-El Estado no tiene religión oficial.
+El poder revolucionario lo ejerce el Pueblo de forma directa.

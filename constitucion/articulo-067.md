@@ -1,3 +1,6 @@
 # Artículo 67
 
-El derecho de informar es una responsabilidad social y se ejerce con estricto respeto a los principios establecidos en la Constitución. Este derecho no puede estar sujeto a censura, sino a responsabilidades ulteriores establecidas en la ley.
+El Estado otorga protección especial al embarazo, parto y postparto.
+La mujer gozará de licencia de no menos de noventa días pre y postnatal, con remuneración salarial y prestaciones adecuadas de seguridad social.
+Nadie podrá negar empleo a las mujeres aduciendo razones de embarazo ni despedirlas durante el embarazo o en el período postnatal.
+El hombre en matrimonio o en unión de hecho estable tendrá derecho a no menos de cinco días calendario con goce de salario y sin pérdida de ninguna prestación social en ocasión del parto de su pareja. Todo de conformidad con la ley.

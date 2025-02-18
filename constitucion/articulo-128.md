@@ -1,3 +1,4 @@
 # Artículo 128
 
-El Estado protege el patrimonio arqueológico, histórico, lingüístico, cultural y artístico de la nación.
+La Asamblea Nacional ejerce la función legislativa por delegación y mandato del Pueblo. La Asamblea Nacional está integrada por noventa Diputados y Diputadas con sus respectivos suplentes, elegidos por voto universal, igual, directo, libre y secreto, mediante el sistema de representación proporcional. En carácter nacional de acuerdo con lo que se establezca en la ley electoral se elegirán veinte Diputados y Diputadas y en las circunscripciones departamentales y Regiones Autónomas setenta Diputados y Diputadas.
+También integran la Asamblea Nacional como Diputados y Diputadas propietarias, el Ex Co-Presidente y la Ex Co-Presidenta de la República electos por el voto popular directo en el período inmediato anterior; y, como Diputados y Diputadas propietarias, los candidatos a Co-Presidente y Co-Presidenta que participaron en la elección correspondiente, y hubiesen obtenido el segundo lugar.

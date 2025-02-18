@@ -1,3 +1,3 @@
 # Artículo 129
 
-Los Poderes Legislativo, Ejecutivo, Judicial y Electoral, son independientes entre sí y se coordinan armónicamente, subordinados únicamente a los intereses supremos de la nación y a lo establecido en la presente Constitución.
+Los requisitos e inhibiciones para ser candidatos o candidatas a diputados y diputadas están contenidos en la Ley Electoral.

@@ -1,3 +1,3 @@
 # Artículo 57
 
-Los nicaragüenses tienen el derecho al trabajo acorde con su naturaleza humana.
+Es derecho de las y los nicaragüenses la seguridad alimentaria y nutricional. El Estado promoverá programas que aseguren una adecuada disponibilidad de alimentos y el acceso a los mismos.

@@ -1,3 +1,4 @@
 # Artículo 120
 
-Es papel fundamental del magisterio nacional la aplicación creadora de los planes y políticas educativas. Los maestros tienen derecho a condiciones de vida y trabajo acordes con su dignidad y con la importante función social que desempeñan; serán promovidos y estimulados de acuerdo con la ley.
+La Presidencia de la República dirige al Gobierno y como Jefatura de Estado coordina a los órganos legislativo, judicial, electoral, de control y fiscalización, regionales y municipales, en cumplimiento de los intereses supremos del Pueblo nicaragüense y de lo establecido en la presente Constitución Política.
+La Presidencia de la República es la Jefatura Suprema del Ejército de Nicaragua, de la Policía Nacional y del Ministerio del Interior.

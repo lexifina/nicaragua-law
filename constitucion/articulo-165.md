@@ -1,17 +1,13 @@
 # Artículo 165
 
-Se crea el Consejo Nacional de Administración y Carrera Judicial como un organismo de la Corte Suprema de Justicia, al que se le confiere autonomía técnica y funcional, para ejercer la competencia de coordinar, planificar y ejecutar la política administrativa y financiera del Poder Judicial, dirigir la Carrera Judicial y conocer, investigar y resolver en lo que competa, las infracciones al régimen disciplinario en que incurran los profesionales del Derecho y los funcionarios de Carrera Judicial. El Consejo estará integrado por cuatro Magistrados de la Corte Suprema de Justicia, incluido el Presidente de la misma, quien lo presidirá, por cuanto, el Presidente de la Corte Suprema de Justicia, ejerce la representación administrativa, legal e institucional del Poder Judicial. Los tres miembros restantes del Consejo serán electos por el voto favorable de la mayoría de los integrantes del pleno de la Corte Suprema de Justicia.
-Los miembros del Consejo no formarán parte de ninguna de las Salas de la Corte y se dedicarán de manera exclusiva al ejercicio de estas funciones mientras dura su período que será de dos años y medio, excepto integración de Corte Plena, ni en ningún caso podrán ser sustituidos por Magistrados que integren cualquiera de las Salas.
-El Consejo sesionará con un mínimo de tres de sus miembros y sus decisiones se adoptarán con el voto mayoritario de ellos.
-Son atribuciones del Consejo:
-1) Planificar y ejecutar la política administrativa del Poder Judicial, formular el anteproyecto de su presupuesto sometiéndolo a la aprobación de la Corte en Pleno, así como controlar y supervisar la ejecución del mismo.
-2) Aprobar el nombramiento, traslado o despido del personal administrativo de este Poder del Estado, de conformidad con la ley, así como definir las políticas de administración del personal en general.
-3) Nombrar al Secretario General Administrativo, así como organizar y controlar las dependencias administrativas del Poder Judicial.
-4) Derogado.
-5) Nombrar Médicos Forenses, Secretarios de Actuaciones de conformidad con lo establecido en la Ley de la materia.
-6) Instruir, conocer y resolver de las denuncias por faltas disciplinarias leves, graves y muy graves de los Médicos Forenses, Secretarios de Actuaciones, imponiendo las sanciones que establece la Ley de la materia.
-7) Instruir, conocer y resolver de las denuncias por faltas disciplinarias leves y graves en que incurran los Defensores Públicos, Jueces y Magistrados de Apelaciones, imponiendo las sanciones, que establece la Ley de Carrera Judicial y su Reglamento.
-8) Instruir las quejas o denuncias por faltas muy graves en que incurran los Defensores Públicos, Jueces y Magistrados de Apelaciones y elevar al conocimiento del pleno de la Corte Suprema de Justicia los resultados de las investigaciones realizadas y las recomendaciones respectivas.
-9) Elevar a conocimiento de la Corte Plena, las listas de candidatos para llenar la plaza vacante de Magistrados de Tribunales de Apelaciones, Jueces de Distrito y Locales, Propietarios y Suplentes, de conformidad con lo establecido en la Ley de Carrera Judicial.
-10) Organizar y dirigir los procedimientos para la incorporación y otorgamiento de los títulos de abogado y notario público. Extender autorización para el ejercicio de las profesiones de abogado y notario, lo mismo que suspenderlos y rehabilitarlos de conformidad con la ley.
-11) Cualquier otra función que le asignen las leyes.
+El alcalde o alcaldesa, el vicealcalde o vicealcaldesa y las y los concejales, podrán perder su condición por las siguientes causas:
+a) Renuncia del cargo.
+b) Por muerte.
+c) Condena mediante sentencia firme a pena de privación de libertad o de inhabilitación para ejercer el cargo por delito de pena grave por un término igual o mayor al resto de su período.
+d) Abandono de sus funciones durante tres días hábiles continuos.
+e) Tener concesión alguna del Estado o ser apoderado o gestor de empresas privadas, nacionales o extranjeras, en contrataciones de éstas con el Estado. La violación de esta disposición anula las concesiones o ventajas obtenidas y causa la pérdida de la representación.
+f) Incumplimiento de la obligación de declarar sus bienes ante la Contraloría General de la República antes de la toma de posesión del cargo.
+g) Haber sido declarado culpable de malos manejos de los fondos de la alcaldía, según resolución de la Contraloría General de la República.
+h) Por resolución de la Procuraduría General de la República mediante la cual lo declare responsable de abusos o incumplimiento en el ejercicio de sus funciones.
+i) Por violentar los Principios Fundamentales de esta Constitución Política.
+El procedimiento para la remoción y sustitución estarán desarrolladas en la ley.

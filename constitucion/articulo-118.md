@@ -1,3 +1,8 @@
 # Artículo 118
 
-El Estado promueve la participación de la familia, de la comunidad y del pueblo en la educación y garantiza el apoyo de los medios de comunicación social a la misma.
+Las y los funcionarios públicos elegidos directa o indirectamente y los nombrados por la Presidencia de la República, deberán cumplir, preservar y defender los Principios Fundamentales de la Constitución Política. El incumplimiento de esto es causal inmediata y suficiente para su remoción.
+Las y los funcionarios electos por la Asamblea Nacional continuarán en el ejercicio de su cargo después del vencimiento del mandato para el que fueron electos, hasta que sean elegidos y tomen posesión quienes deban sustituirlos.
+Todo funcionario del Estado debe rendir cuentas de sus bienes antes de asumir su cargo y después de entregarlo. La ley regula esta materia.
+Todos los funcionarios públicos, elegidos o nombrados, no pueden obtener concesión alguna del Estado. Tampoco podrán actuar como apoderados o gestores de empresas privadas, nacionales o extranjeras, en contrataciones de estas con el Estado. La violación de esta disposición anula las concesiones o ventajas obtenidas y causa pérdida de la representación y el cargo, sin perjuicio de otras responsabilidades establecidas en la ley.
+Ningún funcionario o empleado público podrá recibir doble remuneración proveniente de fondos fiscales nacionales, regionales o municipales, ni de fondos provenientes de préstamos o donaciones. Se exceptúa de esto la práctica de la docencia y la medicina.
+Ningún cargo concede a quien lo ejerce más funciones que aquellas atribuidas por la Constitución Política y las leyes. Todo funcionario público actuará en estricto respeto a los principios de constitucionalidad y legalidad.

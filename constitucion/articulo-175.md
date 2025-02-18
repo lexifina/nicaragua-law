@@ -1,3 +1,3 @@
 # Artículo 175
 
-El territorio nacional se dividirá para su administración, en Departamentos, Regiones Autónomas de la Costa Caribe y Municipios. Las leyes de la materia determinarán su creación, extensión, número, organización, estructura y funcionamiento de las diversas circunscripciones territoriales.
+Se establece el Recurso de Exhibición Personal en favor de aquellos cuya libertad, integridad física y seguridad sean violadas o estén en peligro de serlo.

@@ -1,3 +1,3 @@
 # Artículo 127
 
-La creación artística y cultural es libre e irrestricta. Los trabajadores de la cultura tienen plena libertad de elegir formas y modos de expresión. El Estado procurará facilitarles los medios necesarios para crear y difundir sus obras y protege sus derechos de autor.
+Los requisitos y prohibiciones para ser ministro o ministra, viceministro o viceministra, presidente o presidenta, director o directora de entes autónomos y gubernamentales, embajadores o embajadoras y jefes superiores del Ejército y la Policía Nacional, serán definidos por las leyes.

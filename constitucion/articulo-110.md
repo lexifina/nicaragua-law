@@ -1,3 +1,3 @@
 # Artículo 110
 
-El Estado promoverá la incorporación voluntaria de pequeños y medianos productores agropecuarios a los planes de desarrollo económico y social del país, bajo formas asociativas e individuales.
+La educación es gratuita y de calidad. Corresponde al Estado planificarla, dirigirla y organizarla. Su organización, regulación y funcionamiento son determinados por la ley.

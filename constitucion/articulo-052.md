@@ -1,3 +1,4 @@
 # Artículo 52
 
-Los ciudadanos tienen derecho de hacer peticiones, denunciar anomalías y hacer críticas constructivas, en forma individual o colectiva, a los Poderes del Estado o cualquier autoridad; de obtener una pronta resolución o respuesta y de que se les comunique lo resuelto en los plazos que la ley establezca.
+Las y los nicaragüenses tienen derecho a la educación gratuita y de calidad en todos sus niveles: inicial, básica, media, técnica, docente y superior.
+Los Pueblos originarios y afrodescendientes tienen derecho a la educación en su lengua materna.

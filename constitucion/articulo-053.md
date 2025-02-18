@@ -1,3 +1,3 @@
 # Artículo 53
 
-Se reconoce el derecho de reunión pacífica; el ejercicio de este derecho no requiere permiso previo.
+Las y los nicaragüenses tienen derecho a la salud gratuita y de calidad, a través del Modelo de Salud Familiar y Comunitaria, con el protagonismo del Pueblo nicaragüense.

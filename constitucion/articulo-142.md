@@ -1,4 +1,3 @@
 # Artículo 142
 
-El Presidente de la República podrá vetar total o parcialmente un proyecto de ley dentro de los quince días siguientes a aquél en que lo haya recibido. Si no ejerciere esta facultad ni sancionará, promulgará y publicará el proyecto, el Presidente de la Asamblea Nacional mandará a publicar la ley en cualquier medio de difusión nacional escrito.
-El Presidente de la República, en el caso del veto parcial, podrá introducir modificaciones o supresiones al articulado de la ley.
+El período de las y los magistrados de la Corte Suprema de Justicia será de seis años. Únicamente podrán ser separados de sus cargos por las causas previstas en la Constitución Política y la ley. Las y los magistrados de la Corte Suprema de Justicia gozan de inmunidad.

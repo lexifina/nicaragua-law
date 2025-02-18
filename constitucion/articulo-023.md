@@ -1,3 +1,5 @@
 # Artículo 23
 
-El derecho a la vida es inviolable e inherente a la persona humana. En Nicaragua no hay pena de muerte.
+Las y los extranjeros pueden ser nacionalizados, previa renuncia a su nacionalidad.
+Las y los centroamericanos de origen, residentes en Nicaragua, tienen derecho de optar a la nacionalidad nicaragüense sin renunciar a su nacionalidad.
+En los casos de doble nacionalidad se procede conforme los tratados y el principio de reciprocidad.

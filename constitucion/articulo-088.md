@@ -1,5 +1,5 @@
 # Artículo 88
 
-Se garantiza el derecho inalienable de los trabajadores para que, en defensa de sus intereses particulares o gremiales, celebren con los empleadores:
-1) Contratos individuales.
-2) Convenios colectivos. Ambos de conformidad con la ley.
+Los delitos y faltas estrictamente militares cometidos por miembros del Ejército, serán conocidos por los tribunales militares establecidos por la ley.
+Los delitos y faltas comunes cometidos por los militares serán conocidos por los tribunales comunes.
+En ningún caso las y los civiles podrán ser juzgados por tribunales militares.

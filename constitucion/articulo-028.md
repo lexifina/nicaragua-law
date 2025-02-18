@@ -1,3 +1,3 @@
 # Artículo 28
 
-Los nicaragüenses que se encuentren en el extranjero gozan del amparo y protección del Estado los que se hacen efectivos por medio de sus representaciones diplomáticas y consulares.
+Se establece la igualdad absoluta entre hombres y mujeres en el cumplimiento de sus deberes y el ejercicio de sus derechos.

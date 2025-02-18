@@ -1,3 +1,3 @@
 # Artículo 79
 
-Se establece el derecho de adopción en interés exclusivo del desarrollo integral del menor. La ley regulará esta materia.
+En Nicaragua existe plena libertad sindical. Los trabajadores y las trabajadoras se organizarán voluntariamente en sindicatos, los que gozan de plena autonomía y fuero sindical. Todo de conformidad a lo que establece la ley.

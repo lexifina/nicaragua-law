@@ -1,3 +1,3 @@
 # Artículo 84
 
-Se prohíbe el trabajo de los menores, en labores que puedan afectar su desarrollo normal o su ciclo de instrucción obligatoria. Se protegerá a los niños y adolescentes contra cualquier clase de explotación económica y social.
+La Presidencia de la República y Jefatura Suprema del Ejército de Nicaragua, formulará y aprobará los Planes y Políticas de la Defensa y Seguridad Nacional a propuesta del Comandante en Jefe de las Fuerzas Militares del Ejército de Nicaragua.

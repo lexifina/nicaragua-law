@@ -1,3 +1,4 @@
 # Artículo 101
 
-Los trabajadores y demás sectores productivos, tanto públicos como privados, tienen el derecho de participar en la elaboración, ejecución y control de los planes económicos, conforme el modelo de diálogo, alianza y consenso impulsado por el Estado, con el objetivo de elevar la productividad a través de una mejor educación y capacitación, mejores formas de organización de la producción, adopción de tecnologías modernas, inversión en capital productivo renovado, mejor infraestructura y servicios públicos.
+La Economía Creativa será promovida por el Estado como un pilar fundamental para el desarrollo sostenible del país, apoyando la innovación, el emprendimiento y la generación de empleo. El Estado impulsará políticas y programas que fomenten el talento local, el patrimonio cultural y la integración tecnológica de los y las protagonistas en el ámbito de la economía creativa.
+La protección de los derechos de propiedad intelectual y el fortalecimiento de la infraestructura creativa serán garantizados por el Estado para incentivar la inversión y el crecimiento de la industria creativa en beneficio de la nación.

@@ -1,4 +1,5 @@
 # Artículo 119
 
-La educación es función indeclinable del Estado. Corresponde a éste planificarla, dirigirla y organizarla. El sistema nacional de educación funciona de manera integrada y de acuerdo con planes nacionales. Su organización y funcionamiento son determinados por la ley.
-Es deber del Estado formar y capacitar en todos los niveles y especialidades al personal técnico y profesional necesario para el desarrollo y transformación del país.
+Las y los funcionarios electos mediante sufragio universal propuestos por partidos políticos, que se cambien de opción política en el ejercicio de su cargo, perderán su condición de electo debiendo asumir el escaño el o la suplente.
+La legalidad de la actuación de la Administración Pública se regirá por los procedimientos administrativos establecidos por ley y la jurisdicción de lo contencioso-administrativo.
+El servicio civil y la carrera administrativa serán regulados por la ley.

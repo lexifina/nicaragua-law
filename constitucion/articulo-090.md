@@ -1,3 +1,3 @@
 # Artículo 90
 
-Las comunidades de la Costa Caribe tienen derecho a la libre expresión y preservación de sus lenguas, arte y cultura. El desarrollo de su cultura y sus valores enriquece la cultura nacional. El Estado creará programas especiales para el ejercicio de estos derechos.
+El Ministerio del Interior es la institución del Estado a la que corresponde implementar, mantener y ejecutar las medidas necesarias para garantizar la Seguridad Ciudadana, Seguridad del Estado y el Orden Interno. Presta servicios públicos a las y los nicaragüenses y ciudadanos de otras nacionalidades, contribuyendo a la seguridad soberana y el orden interno del país a través de las direcciones generales establecidas en la ley.

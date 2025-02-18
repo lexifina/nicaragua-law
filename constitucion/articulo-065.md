@@ -1,3 +1,3 @@
 # Artículo 65
 
-Los nicaragüenses tienen derecho al deporte, a la educación física, a la recreación y al esparcimiento. El Estado impulsará la práctica del deporte y la educación física, mediante la participación organizada y masiva del pueblo, para la formación integral de los nicaragüenses. Esto se realizará con programas y proyectos especiales.
+El matrimonio y la unión de hecho estable están protegidos por el Estado; descansan en el acuerdo voluntario del hombre y la mujer y podrán disolverse por el mutuo consentimiento o por la voluntad de una de las partes. La ley regulará esta materia.

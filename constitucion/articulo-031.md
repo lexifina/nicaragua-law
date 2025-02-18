@@ -1,3 +1,4 @@
 # Artículo 31
 
-Los nicaragüenses tienen derecho a circular y fijar su residencia en cualquier parte del territorio nacional; a entrar y salir libremente del país.
+Los derechos de cada persona están limitados por los derechos de los demás.
+Ninguna persona está obligada a hacer lo que la ley no mande ni impedida de hacer lo que ella no prohíbe.

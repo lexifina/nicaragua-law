@@ -1,3 +1,3 @@
 # Artículo 46
 
-En el territorio nacional toda persona goza de la protección estatal y del reconocimiento de los derechos inherentes a la persona humana, del irrestricto respeto, promoción y protección de los derechos humanos, y de la plena vigencia de los derechos consignados en la Declaración Universal de los Derechos Humanos; en la Declaración Americana de Derechos y Deberes del Hombre; en el Pacto Internacional de Derechos Económicos, Sociales y Culturales y en el Pacto Internacional de Derechos Civiles y Políticos de la Organización de las Naciones Unidas y en la Convención Americana de Derechos Humanos de la Organización de Estados Americanos.
+Las y los nicaragüenses son protagonistas en la formulación, ejecución, evaluación, control y seguimiento de las políticas públicas.

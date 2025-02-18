@@ -1,3 +1,3 @@
 # Artículo 72
 
-El matrimonio y la unión de hecho estable están protegidos por el Estado; descansan en el acuerdo voluntario del hombre y la mujer y podrán disolverse por el mutuo consentimiento o por la voluntad de una de las partes. La ley regulará esta materia.
+Las y los mayores de sesenta años de edad tienen derecho a medidas de protección por parte de sus hijos e hijas, de la familia, de la sociedad y del Estado.

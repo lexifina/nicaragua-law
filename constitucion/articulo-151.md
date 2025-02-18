@@ -1,7 +1,3 @@
 # Artículo 151
 
-El número, organización y competencia de los ministerios de Estado, de los entes autónomos y gubernamentales y de los bancos estatales y demás instituciones financieras del Estado, serán determinados por la ley. Los Ministros y Viceministros gozan de inmunidad.
-Los decretos y providencias del Presidente de la República deben ser refrendados por los Ministros de Estado de las respectivas ramas, salvo aquellos acuerdos que se refieran a nombramiento o remoción de sus Ministros o Viceministros de Estado.
-El Consejo de Ministros, será presidido por el Presidente de la República, y, en su defecto, por el Vicepresidente. El Consejo de Ministros estará integrado por el Vicepresidente de la República y los Ministros de Estado. Sus funciones son determinadas por la Constitución.
-Los Ministros y Viceministros de Estado y los Presidentes o Directores de Entes Autónomos o Gubernamentales, serán personalmente responsables de los actos que firmaren o autorizaren, y solidariamente de los que suscribieren o acordaren con el Presidente de la República o con los otros Ministerios de Estado.
-Los Ministros y Viceministros de Estado y los Presidentes o Directores de Entes Autónomos o Gubernamentales proporcionarán a la Asamblea Nacional las informaciones que se les pidan relativas a los negocios de sus respectivas ramas, ya sea en forma escrita o verbal. También pueden ser interpelados por resolución de la Asamblea Nacional.
+Los requisitos y prohibiciones para ser magistrado o magistrada del Consejo Supremo Electoral estarán establecidos por la ley.

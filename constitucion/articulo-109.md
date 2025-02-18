@@ -1,3 +1,3 @@
 # Artículo 109
 
-El Estado promoverá la asociación voluntaria de los campesinos en cooperativas agrícolas, sin discriminación de sexo y de acuerdo con sus recursos facilitará los medios materiales necesarios para elevar su capacidad técnica y productiva, a fin de mejorar las condiciones de vida de los campesinos.
+La educación tiene como objetivo la formación plena e integral de los y las nicaragüenses; forjarlos en valores patrióticos, humanistas y solidarios, y dotarlos de una conciencia crítica, científica, ambiental y evolucionaría; desarrollar la personalidad de cada quien y el sentido de su dignidad, y capacitar a todos y todas para asumir las tareas de interés común que demanda el progreso de la nación.

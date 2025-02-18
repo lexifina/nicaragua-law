@@ -1,3 +1,4 @@
 # Artículo 182
 
-La Constitución Política es la carta fundamental de la República; las demás leyes están subordinadas a ella. No tendrán valor alguno las leyes, tratados, decretos, reglamentos, órdenes o disposiciones que se le opongan o alteren sus disposiciones.
+La presente Constitución regirá desde su publicación en La Gaceta, Diario Oficial y deroga cualquier otra disposición legal que se le oponga.
+El ordenamiento jurídico existente seguirá en vigencia en todo aquello que no se oponga a la presente Constitución.

@@ -1,3 +1,3 @@
 # Artículo 6
 
-Nicaragua es un Estado independiente, libre, soberano, unitario e indivisible. Se constituye en un Estado Democrático y Social de Derecho, que promueve como valores superiores la dignificación del pueblo a través de su ordenamiento jurídico, la libertad, la justicia, la igualdad, la solidaridad, la responsabilidad social y, en general, la preeminencia de los Derechos Humanos, la ética y el bien común. Las ciudadanas y ciudadanos y la familia son elementos protagónicos en la toma de decisiones, planificación y gestión de los asuntos públicos del Estado.
+La Juventud nicaragüense, que en todo momento ha sabido ser protagonista directa de las epopeyas antiimperialistas y de liberación nacional, es reconocida como Patrimonio Nacional de Nicaragua y constituye la base fundacional del futuro de democracia directa y de valores de dignidad y soberanía, que nos aseguran porvenir honroso y pleno.

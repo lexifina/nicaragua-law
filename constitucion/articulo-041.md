@@ -1,3 +1,3 @@
 # Artículo 41
 
-Nadie será detenido por deudas. Este principio no limita los mandatos de autoridad judicial competente por incumplimiento de deberes alimentarios. Es deber de cualquier ciudadano nacional o extranjero pagar lo que adeuda.
+Las personas cuyos derechos constitucionales hayan sido violados o estén en peligro de serlo, pueden interponer el recurso de exhibición personal, de amparo o de hábeas data, según el caso y de acuerdo con la Ley de Justicia Constitucional.

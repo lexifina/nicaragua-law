@@ -1,3 +1,3 @@
 # Artículo 169
 
-El Poder Electoral está integrado por el Consejo Supremo Electoral y demás organismos electorales subordinados.
+Ningún órgano, instancia o funcionario del Estado tendrá otra autoridad, facultad o jurisdicción que las que le confiere la Constitución Política y las leyes de la República.

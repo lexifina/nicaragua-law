@@ -1,3 +1,3 @@
 # Artículo 13
 
-Los símbolos patrios son: el Himno Nacional, la Bandera y el Escudo establecidos por la ley que determina sus características y usos.
+La República de Nicaragua es un Estado revolucionario, libre, soberano e independiente, que reconoce a la persona, la familia y la comunidad como protagonistas de la democracia directa.

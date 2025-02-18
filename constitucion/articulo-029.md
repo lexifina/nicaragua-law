@@ -1,3 +1,3 @@
 # Artículo 29
 
-Toda persona tiene derecho a la libertad de conciencia, de pensamiento y de profesar o no una religión. Nadie puede ser objeto de medidas coercitivas que puedan menoscabar estos derechos ni a ser obligado a declarar su credo, ideología o creencia.
+Las y los nicaragüenses que se encuentren en el extranjero gozan del amparo y protección del Estado.

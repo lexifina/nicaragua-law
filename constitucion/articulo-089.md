@@ -1,5 +1,3 @@
 # Artículo 89
 
-Las comunidades de la Costa Caribe son parte indisoluble del pueblo nicaragüense y como tal gozan de los mismos derechos y tienen las mismas obligaciones.
-Las comunidades de la Costa Caribe tienen el derecho de preservar y desarrollar su identidad cultural en la unidad nacional; dotarse de sus propias formas de organización social y administrar sus asuntos locales conforme a sus tradiciones.
-El Estado reconoce las formas comunales de propiedad de la tierra de las comunidades de la Costa Caribe. Igualmente reconoce el goce, uso y disfrute de las aguas y bosques de sus tierras comunales.
+La Policía Nacional es un cuerpo armado, subordinado a la Presidencia de la República, encargado de proteger la vida de las y los habitantes del país, preservar el orden social y el orden interno, garantizar la seguridad de las personas y las instituciones, velar por el respeto de los bienes nacionales, sociales y particulares, ejercer la prevención, persecución e investigación del delito, y prestar el auxilio necesario a las autoridades civiles y judiciales para el cumplimiento de la ley y el desempeño de sus funciones.

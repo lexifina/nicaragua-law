@@ -1,3 +1,3 @@
 # Artículo 19
 
-Los extranjeros pueden ser nacionalizados, previa renuncia a su nacionalidad y mediante solicitud ante autoridad competente, cuando cumplieren los requisitos y condiciones que establezcan las leyes de la materia.
+León Santiago de los Caballeros es la Capital de la Revolución Nicaragüense. La ciudad de Managua es la capital de la República y sede del Estado. En circunstancias extraordinarias la sede del Estado podrá establecerse en otras partes del territorio nacional.

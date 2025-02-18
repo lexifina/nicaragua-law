@@ -1,3 +1,4 @@
 # Artículo 117
 
-La educación es un proceso único, democrático, creativo y participativo que vincula la teoría con la práctica, el trabajo manual con el intelectual y promueve la investigación científica. Se fundamenta en nuestros valores nacionales, en el conocimiento de nuestra historia, de la realidad, de la cultura nacional y universal y en el desarrollo constante de la ciencia y de la técnica; cultiva los valores propios del nuevo nicaragüense, de acuerdo con los principios establecidos en la presente Constitución, cuyo estudio deberá ser promovido.
+La Presidencia de la República ejerce la Jefatura de Estado y de Gobierno.
+El Poder reside en el Pueblo, y se ejerce a través de la democracia directa y el protagonismo de la persona, la familia y la comunidad.
