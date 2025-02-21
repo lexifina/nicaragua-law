@@ -1,0 +1,9 @@
+# Artículo 83
+
+Admisión del Recurso de Impugnación
+
+Interpuesto el Recurso de Impugnación, la Procuraduría General de la República al siguiente día hábil solicitará al Área de Adquisiciones de la entidad del Estado contratante remita, en un plazo no mayor de dos (2) días hábiles, informe del proceso de contratación, con descargo de los argumentos de impugnación vertidos por el oferente, y deberá acompañar a dicho informe copia electrónica del PBC, Acta de Apertura de Oferta, Acta de Evaluación, Dictamen de Recomendación de ofertas, resolución de la máxima autoridad que adjudica o declara desierto el proceso.
+
+La Procuraduría General de la República resolverá el recurso conforme las normas de los procesos de contratación, una vez recibido el informe del proceso y de descargo de los alegatos del impugnante, dentro de un plazo máximo de tres (3) días hábiles, contados a partir del siguiente día de recibido el informe, pronunciándose sobre los puntos objeto del recurso. Si dentro de este plazo, la Procuraduría General de la República no resolviere la impugnación podrá el recurrente interponer el Recurso de Nulidad ante la Contraloría General de la República. La resolución que resuelva el Recurso de Impugnación deberá ser notificada a todos los oferentes participantes en el proceso y a la máxima autoridad administrativa de la entidad del Estado contratante.
+
+En el caso de las municipalidades, en un plazo no mayor de dos (2) días hábiles, por acuerdo o resolución del Alcalde o Alcaldesa o máxima autoridad del Sector Municipal, se constituirá un comité revisor, el cual estará integrado conforme se disponga en el Reglamento de la presente Ley, al que se le debe proporcionar el expediente respectivo de la contratación. Una vez recibido el expediente de la contratación, este comité revisor tendrá un plazo máximo de cinco días hábiles para rendir informe a la máxima autoridad del municipio. El Reglamento regulará lo dispuesto en el presente artículo.
