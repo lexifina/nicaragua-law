@@ -1,3 +1,9 @@
 # Artículo 58
 
-Los interesados podrán solicitar ante el Consejo Electoral correspondiente que se corrijan los errores de inscripción y las omisiones. Se entiende por interesado, para los efectos del artículo anterior, al propio ciudadano afectado y a los partidos políticos o alianzas de partidos.
+En las regiones autónomas de la Costa Caribe podrán conformarse partidos regionales, cuyo ámbito de acción estará limitado al territorio de una o ambas regiones autónomas.
+
+Los requisitos serán los mismos establecidos para los partidos nacionales, referidos exclusivamente a la división político administrativa de las regiones autónomas de la Costa Caribe.
+
+Los partidos regionales podrán postular candidatas y candidatos para alcaldes, alcaldesas, vicealcaldes, vicealcaldesas, concejales municipales y miembros de los consejos regionales de las regiones autónomas de la Costa Caribe, así como diputados y diputadas para cada Región Autónoma.
+
+DE LA CANCELACIÓN Y SUSPENSIÓN DE LA PERSONALIDAD JURÍDICA DE LOS PARTIDOS POLÍTICOS

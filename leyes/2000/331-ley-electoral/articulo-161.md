@@ -1,3 +1,3 @@
 # Artículo 161
 
-Los errores aritméticos de las Juntas Receptoras de Votos y los que errores que sean notorios y evidentes serán corregidos por el respectivo Consejo Electoral Departamental o Regional, de oficio, por indicación del Consejo Electoral Municipal respectivo o a solicitud de los fiscales acreditados ante ese Consejo Electoral durante el proceso de revisión. Notificando de su corrección al Consejo Supremo Electoral.
+Se deroga la Ley N°. 331, Ley Electoral, publicada en La Gaceta, Diario Oficial N°. 16 del 24 de enero de 2000, texto íntegro publicado en La Gaceta, Diario Oficial N°. 92 del 20 de mayo de 2022.

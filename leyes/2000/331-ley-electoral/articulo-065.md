@@ -1,27 +1,25 @@
 # Artículo 65
 
-Para obtener personalidad jurídica los interesados deberán llenar los siguientes requisitos:
+Para la presentación de candidatos y candidatas los partidos políticos o alianzas de partidos políticos someterán al Consejo Supremo Electoral una solicitud que deberá contener:
 
-1) Escritura Pública en la que se constituye la agrupación política.
+1. La certificación en que conste la personalidad jurídica.
 
-2) El nombre del partido que desean constituir, y el emblema que lo diferenciará claramente de los demás partidos políticos legalmente existentes.
+2. El nombre de su representante legal y el de su respectivo suplente.
 
-Ningún partido político o alianza de partidos podrá utilizar los colores de la Bandera Nacional en sus símbolos o emblemas partidarios. Queda también prohibido utilizar los nombres “Nicaragua” o “Patria” en la denominación, emblema y símbolos de los partidos o alianzas de partidos; así como utilizar los símbolos patrios en las concentraciones o manifestaciones públicas. Todo lo anterior, es por ser la Bandera, el Escudo y sus colores los símbolos Patrios de la República de Nicaragua.
+3. La identificación de la elección o elecciones en que participarán.
 
-3) Los principios políticos, programas y estatutos del mismo.
+4. Las listas de los y las candidatas presentadas por el o la representante legal del partido político, que al menos contendrán:
 
-4) El patrimonio.
+a. Domicilio,
 
-5) El nombre de su Representante legal y su suplente.
+b. Sexo,
 
-6) Constituir Directivas Nacionales con un número no menor de nueve miembros.
+c. Lugar y fecha de nacimiento,
 
-7) Constituir Directivas Departamentales y de las Regiones Autónomas conforme a la División Político Administrativa, con un número no menor de siete miembros.
+d. Tiempo de residir en el municipio, departamento o región, según el caso,
 
-8) Constituir Directivas Municipales, con un número no menor de cinco miembros, en todos los municipios del país.
+e. Copia de la Cédula de Identificación Ciudadana correspondiente o certificación de la instancia respectiva de que ésta se encuentra en trámite por cada candidato o candidata,
 
-9) Presentar documento debidamente autenticado que contenga el respaldo de al menos el tres por ciento (3%) de firmas de ciudadanos, correspondiente al total de registrados en el Padrón Electoral de las últimas elecciones nacionales.
+f. El nombre del cargo para el que se les propone.
 
-Las firmas de aceptación de los miembros de las Directivas y de documentos de respaldo de ciudadanos, deberán ser autenticadas por Notario Público, conforme la ley de la materia y además llevar el número correspondiente de la Cédula de Identidad. En el caso que los nombres, firmas y cédula de identidad se repitiesen más de una vez se considerará únicamente válida la de la primera solicitud.
-
-Las Asambleas donde se elijan las Directivas a que se refiere el presente artículo, deberán ser verificadas por un representante del Consejo Supremo Electoral, debidamente nombrado para tal efecto.
+5. Las siglas, emblema y colores que hayan adoptado para su identificación de conformidad a lo prescrito en la presente Ley.

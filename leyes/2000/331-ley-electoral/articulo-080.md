@@ -1,7 +1,5 @@
 # Artículo 80
 
-Los partidos políticos con personalidad jurídica podrán constituirse en alianzas de partidos políticos y participarán en las elecciones correspondientes bajo el nombre, bandera y emblema del partido político integrante de la alianza que ellos mismos decidan y de esta forma el partido escogido será quien encabece dicha alianza.
+Los partidos políticos, alianzas de partidos políticos o cualquiera de sus candidatos o candidatas, podrán recibir donaciones de personas naturales y jurídicas nicaragüenses, de conformidad a los requisitos y condiciones establecidos por el Consejo Supremo Electoral.
 
-El partido político que forme parte de una alianza electoral no podrá postular candidatos propios en la elección donde participe la alianza de la que forme parte. Cada partido integrante de la alianza deberá reunir el requisito del numeral 9) del Artículo 65 de la presente Ley.
-
-Los partidos o alianzas de partidos deberán inscribir candidatos para todas las elecciones y cargos a que se refiere el Artículo 1 de la presente Ley.
+Los partidos políticos, alianzas de partidos políticos o cualquiera de sus candidatos o candidatas, no podrán recibir bienes o recursos de ningún tipo de instituciones estatales o mixtas, sean éstas nacionales o extranjeras; ni de privados cuando sean estos extranjeros o de nacionales estando estos en el extranjero. No podrán recibir donaciones de ningún tipo de entidades extranjeras para ningún fin.

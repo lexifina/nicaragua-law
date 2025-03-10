@@ -1,3 +1,5 @@
 # Artículo 97
 
-Setenta y dos horas antes del día de las votaciones cesará toda actividad de la campaña electoral y los medios de comunicación estarán a la orden del Consejo Supremo Electoral para difundir la información acerca de los procedimientos para ejercer el derecho del sufragio.
+En cada Junta Receptora de Votos las y los miembros, fiscales y el personal auxiliar acreditados en el Centro de Votación y la Junta, que no estén ubicados en ese Padrón, podrán votar previa presentación de su credencial y su Cédula de Identificación Ciudadana, debiéndose registrar en las hojas anexas al Padrón Electoral.
+
+De manera similar, se procederá en los casos de militares y policías en servicio fuera de su circunscripción electoral, cada uno debidamente certificado por la institución respectiva.

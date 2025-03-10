@@ -1,3 +1,3 @@
 # Artículo 50
 
-La inscripción se hará en los Catálogos de Electores que llevará cada Junta Receptora de Votos. Los Catálogos de Electores se identificarán con su propio número y con el nombre, ubicación y número de la Junta.
+El Padrón Electoral se cerrará sesenta días antes de las elecciones, con lo cual se formará el Padrón y la Plataforma Electoral definitivos. El Consejo Supremo Electoral entregará el Padrón y la Plataforma a los partidos políticos participantes, cuarenta y cinco días antes de las elecciones.

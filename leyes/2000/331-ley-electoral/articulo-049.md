@@ -1,17 +1,3 @@
 # Artículo 49
 
-La inscripción o verificación en su caso, es personal e indelegable. Para identificarse y comprobar su edad los ciudadanos podrán utilizar:
-
-1) Cédula de Identidad.
-
-2) Carnet del INSS.
-
-3) Licencia de Conducir.
-
-4) Pasaporte.
-
-Los ciudadanos que no dispongan de documentos que los identifiquen, podrán presentar dos testigos idóneos que bajo promesa de ley den testimonio de su identidad y edad. La inscripción se perfeccionará con la firma y la impresión de la huella digital del ciudadano. Quienes no sepan firmar pondrán su huella digital. En caso de personas carentes de extremidades superiores se dejará razón de tal circunstancia.
-
-Las pruebas serán evaluadas de conformidad con las reglas de la sana crítica por la Junta Receptora de Votos, que aceptará o denegará la inscripción.
-
-INSCRIPCIÓN AD-HOC Y CATALOGO DE ELECTORES
+El Consejo Supremo Electoral publicará en los centros de votación el Padrón Electoral Preliminar respectivo, al menos noventa días antes de la fecha de votación, y entregará copia digital a las organizaciones políticas participantes.

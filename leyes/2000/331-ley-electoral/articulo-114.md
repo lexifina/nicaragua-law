@@ -1,3 +1,9 @@
 # Artículo 114
 
-Las votaciones concluirán a las seis de la tarde, no podrán cerrarse mientras haya ciudadanos registrados esperando turno, pero podrán darse por terminadas antes, si los registrados correspondientes a esa Junta ya hubieren votado.
+Las y los fiscales de los partidos o alianzas de partidos políticos participantes en el proceso electoral y debidamente acreditados ante las diferentes instancias electorales, podrán interponer los siguientes recursos:
+
+1. Impugnación,
+
+2. Apelación,
+
+3. Revisión.

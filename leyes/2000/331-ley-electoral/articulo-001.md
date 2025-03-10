@@ -2,28 +2,28 @@
 
 La presente Ley es de carácter constitucional y regula:
 
-a) Los procesos electorales para las elecciones de:
+1. Los procesos electorales para las elecciones de:
 
-1). Presidente y Vice -Presidente de la República.
+a. Co-Presidenta y Co-Presidente de la República.
 
-2). Diputados ante la Asamblea Nacional.
+b. Diputados y diputadas ante la Asamblea Nacional.
 
-3). Diputados ante el Parlamento Centroamericano.
+c. Diputados y diputadas ante el Parlamento Centroamericano.
 
-4). Miembros de los Consejos de las Regiones Autónomas de la Costa Atlántica.
+d. Las y los miembros de los consejos de las regiones autónomas de la Costa Caribe.
 
-5). Alcaldes y Vicealcaldes Municipales.
+e. Alcaldes, alcaldesas, vicealcaldes y vicealcaldesas municipales.
 
-6). Miembros de los Concejos Municipales.
+f. Las y los miembros de los concejos municipales.
 
-Las resoluciones que se dicten sobre los asuntos relacionados en cualquiera de los seis numerales anteriores, no serán objeto de recurso alguno, ordinario ni extraordinario.
+2. Las resoluciones relativas a los partidos políticos en:
 
-b) Las consultas populares que en forma de plebiscito o referendo se convoquen en su oportunidad.
+a. El ejercicio del derecho ciudadano de organizar partidos políticos o afiliarse a ellos con la finalidad de participar, optar y ejercer cargos públicos.
 
-c) El ejercicio del derecho ciudadano de organizar partidos políticos o afiliarse a ellos con la finalidad de participar, optar y ejercer el poder.
+b. La obtención y cancelación de la personalidad jurídica de los partidos políticos y la resolución de sus conflictos.
 
-d) La obtención y cancelación de la personalidad jurídica de los partidos políticos y la resolución de sus conflictos.
+c. El derecho ciudadano a constituir partidos políticos regionales, exclusivamente para participar en los procesos regionales electorales de las regiones autónomas de la Costa Caribe.
 
-e) El derecho ciudadano de constituir partidos políticos regionales, exclusivamente para participar en los procesos regionales electorales de las Regiones Autónomas de la Costa Atlántica.
+3. Cuestiones relativas al funcionamiento administrativo del órgano electoral, de conformidad al procedimiento establecido en la presente Ley.
 
-f) Cuestiones relativas al funcionamiento administrativo de los organismos del Poder Electoral, de conformidad al procedimiento establecido en la presente Ley.
+Las resoluciones que se dicten sobre los procesos electorales y partidos políticos no serán objeto de recurso ordinario ni extraordinario fuera del Sistema Electoral.

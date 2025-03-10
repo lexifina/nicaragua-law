@@ -1,7 +1,3 @@
 # Artículo 60
 
-Cuando un Documento de Inscripción, Verificación, Supletorio se destruya, se pierda o contenga errores, el ciudadano comparecerá ante el Consejo Electoral correspondiente solicitando la reposición o corrección según el caso. El Consejo resolverá dentro de tercero día de acuerdo con los méritos de la solicitud. El plazo para presentar la solicitud vencerá treinta días antes de la fecha de las elecciones.
-
-DE LOS PARTIDOS POLÍTICOS
-
-DERECHOS Y DEBERES
+Son causales de suspensión el incumplimiento de las Normas Éticas de la campaña electoral y/o las contempladas en los estatutos de cada partido.

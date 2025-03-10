@@ -1,3 +1,3 @@
 # Artículo 157
 
-La elección de los Concejales previstos en el artículo anterior se hará por Circunscripción Municipal utilizando el sistema de representación proporcional por cociente electoral y con la misma metodología de media mayor que se utiliza para la elección de los Diputados Departamentales o Regionales.
+De manera extraordinaria y solo para el día de la elección, el Consejo Supremo Electoral podrá emitir una resolución específica en la que autoriza el uso de la Cédula de Identificación Ciudadana vencida, con el propósito único de ejercer el derecho al voto.

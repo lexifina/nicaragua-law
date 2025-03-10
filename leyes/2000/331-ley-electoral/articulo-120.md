@@ -1,21 +1,23 @@
 # Artículo 120
 
-El día de las votaciones se prohíbe:
+Será sancionado o sancionada con arresto inconmutable de seis a doce meses:
 
-1) Los espectáculos o reuniones públicas que interfieran con el desarrollo de las elecciones.
+1. Quien soborne, amenace, fuerce o ejerza violencia sobre otro u otra, obligándolo a:
 
-2) La venta y distribución de bebidas alcohólicas.
+a. Adherirse a determinada candidatura.
 
-3) Entrar armado al local de las votaciones.
+b. Votar en determinado sentido.
 
-4) Hacer proselitismo o propaganda, como: botones, gorras o camisetas o pañoletas o de cualquier otra forma, dentro del local.
+c. Abstenerse de votar.
 
-5) Llegar en estado de embriaguez.
+2. Quien introduzca o extraiga ilegalmente boletas de las juntas receptoras de votos o de las urnas electorales
 
-6) Formar grupos alrededor de los locales de votación.
+3. Quien obstaculice el desarrollo de la votación.
 
-7) Colocar propaganda de los partidos políticos o alianzas de partidos, en el recinto de la votación.
+4. Quien asista armado a los actos de votación o de escrutinio, excepto las y los miembros de la Policía Nacional que estén cumpliendo funciones.
 
-8) Cualquier otra actividad que tienda a impedir o a perturbar el desarrollo normal de la votación.
+5. Quien intencionalmente extravíe el Acta de Escrutinio de la Junta Receptora de Votos y/o otra documentación electoral.
 
-9) La permanencia de la Policía Electoral dentro del local de votación, a menos que sea llamada por la Junta Receptora de Votos.
+6. Quien vote más de una vez.
+
+7. La o el miembro de la Junta Receptora de Votos que permita la votación a cualquier ciudadano o ciudadana que no esté habilitado para votar en dicha Junta Receptora de Votos.

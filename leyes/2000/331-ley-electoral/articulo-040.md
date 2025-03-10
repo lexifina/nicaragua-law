@@ -1,3 +1,7 @@
 # Artículo 40
 
-Las objeciones deberán resolverse en tiempo, con el objeto de que los Padrones Electorales definitivos se publiquen en el local donde funcionarán las Juntas Receptoras de Votos, y de suministrarlos a las Organizaciones Políticas participantes treinta días antes de la fecha de votación.
+Una vez concluida la etapa de diseño y validación se mandarán a imprimir asegurando en ellas todas las medidas de seguridad para evitar su falsificación o reproducción indebida, el control exhaustivo durante su impresión, empaque y distribución.
+
+Durante el empaque de las boletas electorales en la imprenta, se debe asegurar y comprobar que cada paquete de boletas contenga la cantidad exacta establecida para cada Junta Receptora de Votos.
+
+En todo este proceso deben garantizarse las condiciones para la fiscalización por parte de los partidos políticos y alianzas de partidos políticos.

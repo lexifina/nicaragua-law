@@ -1,13 +1,7 @@
 # Artículo 89
 
-Para la realización de manifestaciones públicas durante la campaña electoral se seguirá el siguiente procedimiento:
+Las ciudadanas y los ciudadanos concurrirán a depositar el voto en la Junta Receptora de Votos en cuyo Padrón Electoral se encuentren registrados o registradas.
 
-1) Los partidos políticos, o alianzas de partidos presentarán solicitud al Consejo Electoral correspondiente para la realización de la manifestación, señalando fecha, hora, día, lugar y trayecto con una semana de anticipación como mínimo.
+Únicamente el día de la elección, las y los ciudadanos cedulados que no estén registrados en el Padrón Electoral, tienen el derecho de solicitar su inclusión en el Padrón en la Junta Receptora de Votos que les corresponde, según su último domicilio electoral, presentando su Cédula de Identificación Ciudadana.
 
-2) El Consejo Electoral resolverá dentro de las cuarenta y ocho horas siguientes a la presentación de la solicitud.
-
-3) En caso de manifestaciones que puedan coincidir en tiempo y lugar, el Consejo Electoral podrá modificar la programación de las actividades, en consulta con los solicitantes para evitar alteraciones del orden público. La solicitud presentada primero tendrá preferencia.
-
-El Consejo Supremo Electoral coordinará con las instancias correspondientes, para que movilizaciones de otra naturaleza que no sean partidarias no interfieran con la campaña electoral.
-
-SOBRE EL USO DE LOS MEDIOS RADIALES Y TELEVISIVOS
+Para tal efecto, el Consejo Supremo Electoral debe asegurar el listado de ciudadanos y ciudadanas cedulados no empadronados en cada Centro de Votación y las condiciones para votar en la Junta Receptora de Votos.

@@ -1,3 +1,3 @@
 # Artículo 39
 
-Los partidos o alianzas de partidos que participen en la elección, deberán presentar sus objeciones dentro de los treinta días posteriores a la recepción de los Padrones Electorales. En el caso del Artículo 36 de la presente Ley, el plazo será de veinte días.
+Una vez publicados los listados definitivos de las y los candidatos de cada uno de los procesos electorales, se procederá a validar con los representantes nacionales de los partidos políticos y alianzas de partidos políticos, la correcta utilización de sus símbolos distintivos en la boleta electoral.

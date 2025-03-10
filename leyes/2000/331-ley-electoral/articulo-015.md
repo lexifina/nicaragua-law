@@ -1,11 +1,9 @@
 # Artículo 15
 
-Son funciones de los demás Magistrados:
+Son funciones de los demás magistrados y magistradas:
 
-1) Participar en las Sesiones y en la toma de resoluciones del Consejo Supremo Electoral, con voz y voto.
+1. Participar en las sesiones y en la toma de resoluciones del Consejo con voz y voto.
 
-2) Auxiliar al Presidente en el ejercicio de sus funciones y ejercer las que por resolución del Consejo se les asigne.
-
-3) Podrán asumir funciones específicas, referentes a: cedulación, relación con los partidos políticos, organización y supervisión técnico-administrativa del proceso electoral y otras funciones ejecutivas.
+2. Auxiliar al Presidente o Presidenta en el ejercicio de sus funciones y ejercer las que por resolución del Consejo se les asigne.
 
 DE LOS CONSEJOS ELECTORALES

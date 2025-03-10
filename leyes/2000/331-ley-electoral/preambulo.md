@@ -1,22 +1,28 @@
-LEY N°. 331, LEY ELECTORAL
+LEY N°. 1242, LEY ELECTORAL
 
-Aprobada el 19 de enero de 2000
+Aprobada el 06 de marzo de 2025
 
-Publicada en La Gaceta, Diario Oficial N°. 16 del 24 de enero de 2000
+Publicada en La Gaceta, Diario Oficial N°. 46 del 10 de marzo de 2025
 
-LEY No. 331
+LA PRESIDENCIA DE LA REPÚBLICA DE NICARAGUA
 
-EL PRESIDENTE DE LA REPÚBLICA DE NICARAGUA
+A sus habitantes, hace saber:
 
-Hace saber al pueblo nicaragüense que:
+Que,
 
 LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
 
-En uso de sus facultades;
+Ha ordenado lo siguiente:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
 
 HA DICTADO
 
 La siguiente:
+
+LEY N°. 1242
 
 LEY ELECTORAL
 

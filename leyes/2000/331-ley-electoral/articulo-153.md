@@ -1,5 +1,3 @@
 # Artículo 153
 
-Los escaños que no resulten asignados de acuerdo con el artículo anterior se asignarán siguiendo en lo pertinente el procedimiento establecido para los Diputados Departamentales y de las Regiones Autónomas.
-
-DE LA ELECCIÓN DE ALCALDE Y VICE-ALCALDE Y DE LOS CONCEJOS MUNICIPALES
+Todas las adquisiciones de bienes y servicios que haga el Consejo Supremo Electoral que tienen como propósito asegurar los procesos electorales estarán exoneradas de todos los impuestos.

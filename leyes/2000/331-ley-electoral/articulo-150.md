@@ -1,3 +1,3 @@
 # Artículo 150
 
-Los candidatos a Diputados al Parlamento Centroamericano serán electos en circunscripción nacional en la misma fecha de las elecciones de primera vuelta del Presidente y Vicepresidente de la República.
+El Consejo Supremo Electoral no inscribirá como candidatos y/o candidatas a cargos de elección popular a quienes no llenen las calidades, o tengan impedimentos de acuerdo con la Constitución Política y las leyes.

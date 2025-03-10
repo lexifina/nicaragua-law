@@ -1,5 +1,3 @@
 # Artículo 160
 
-El Consejo Supremo Electoral hará los cómputos necesarios y previa aplicación de las disposiciones de esta Ley, publicará provisionalmente los resultados.
-
-DE LOS ERRORES Y NULIDADES
+En lo que no esté previsto en la presente Ley, se aplicará el derecho común y las otras leyes que contribuyan a resolver la cuestión existente.

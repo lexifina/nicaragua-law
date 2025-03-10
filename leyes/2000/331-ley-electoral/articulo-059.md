@@ -1,3 +1,3 @@
 # Artículo 59
 
-Cuando los recurrentes soliciten la inclusión o exclusión de un ciudadano de los Catálogos de Electores, deberán hacerlo por escrito, el que podrán presentar ante el mismo Consejo Electoral o ante la Junta Receptora de Votos que corresponda, dentro de un plazo de diez días después de cerradas las inscripciones o verificaciones. La Junta, en su caso, remitirá la solicitud al Consejo Electoral respectivo, el que resolverá dentro de los cinco días siguientes a la recepción de la solicitud.
+El Ministerio Público, los Órganos de Fiscalización y Control, otros partidos políticos o la ciudadanía podrán solicitar al Consejo Supremo Electoral la cancelación de la personería jurídica de los partidos políticos que violenten la Constitución Política y las leyes. Sobre esto, el Consejo Supremo Electoral también tiene la facultad de proceder de oficio.

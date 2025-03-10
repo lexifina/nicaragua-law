@@ -1,3 +1,3 @@
 # Artículo 36
 
-Para el caso de las Cédulas emitidas conforme los plazos establecidos en el Artículo 37 de la Ley de Identificación Ciudadana, de los Documentos Supletorios de Votación, los Padrones Electorales definitivos se publicarán en la misma forma con una anticipación mínima de cincuenta días.
+La ciudadana o ciudadano cuando obtenga su Cédula de Identificación Ciudadana quedará incorporado al Padrón Electoral e inscrito en el Centro de Votación en el cual le corresponda votar, de acuerdo a su domicilio.

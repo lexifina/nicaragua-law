@@ -1,3 +1,3 @@
 # Artículo 103
 
-Los partidos políticos o alianzas de partidos podrán recibir donaciones de ciudadanos nicaragüenses o extranjeros, dentro de los montos, límites y con arreglo a los requisitos y condiciones establecidas en esta Ley. No podrán recibirla de Instituciones Estatales o mixtas, sean éstas nacionales o extranjeras. Las donaciones de Instituciones provenientes del extranjero, se destinarán para la asistencia técnica y capacitaciones.
+Se considerará voto válido únicamente el que se realice en la boleta electoral oficial y esté marcado con una “X” o cualquier otro signo en uno de los círculos, si la “X” o cualquier otro signo haya sido marcado en la boleta fuera del círculo de la casilla de su preferencia, pero se puede entender la intención del votante, el voto será válido.

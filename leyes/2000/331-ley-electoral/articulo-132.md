@@ -1,7 +1,7 @@
 # Artículo 132
 
-De las actas sumatorias municipales o departamentales, los fiscales podrán interponer recursos que serán resueltos en un plazo no mayor de tres días. De la resolución de los recursos de impugnación habrá apelación únicamente ante el Consejo Supremo Electoral de conformidad con la presente Ley.
+La Elección del Co-Presidente y Co-Presidenta será cada seis años. Los requisitos para ser candidato y candidata son los establecidos en la Constitución Política. Resultarán electos la candidata y el candidato del partido o alianza de partidos que obtengan el mayor número de votos válidos.
 
-Una vez recibidos por el Consejo Supremo Electoral los resultados finales de los escrutinios y las revisiones, los totalizará y procederá de acuerdo con lo dispuesto en esta Ley.
+En el caso de falta definitiva o incapacidad permanente de cualquiera de los candidatos y candidatas a Co-Presidente y Co-Presidenta de la República, durante el proceso electoral, el partido político o alianza de partidos políticos al que pertenezca designará en un plazo máximo de cinco días a quién o quiénes deben sustituirlos.
 
-DEL PLEBISCITO Y REFERENDO
+DE LOS REQUISITOS PARA SER CANDIDATOS Y CANDIDATAS A DIPUTADOS Y DIPUTADAS, GOBIERNOS MUNICIPALES Y GOBIERNOS REGIONALES

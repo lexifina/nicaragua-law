@@ -1,11 +1,11 @@
 # Artículo 4
 
-El Consejo Supremo Electoral elaborará en consulta con las organizaciones políticas que gozan de personalidad jurídica un calendario electoral con la debida antelación para cada elección, señalando entre otras actividades: el término, desarrollo, procedimiento de la campaña electoral y el día de las votaciones.
+El Órgano Electoral está integrado por el Consejo Supremo Electoral y las siguientes instancias electorales subordinadas:
 
-Dentro de las disposiciones establecidas en el párrafo anterior, el Consejo Supremo Electoral podrá modificar o reformar el calendario electoral por causas de caso fortuito o fuerza mayor, en consulta con las organizaciones políticas.
+1. Los consejos electorales de los departamentos y de las regiones autónomas de la Costa Caribe.
 
-El calendario electoral será publicado en La Gaceta, Diario Oficial y medios de comunicación nacional.
+2. Los consejos electorales municipales.
 
-DEL PODER ELECTORAL
+3. Los centros de votación.
 
-DE LOS ORGANISMOS ELECTORALES
+4. Las juntas receptoras de votos.

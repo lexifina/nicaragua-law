@@ -1,3 +1,5 @@
 # Artículo 158
 
-La determinación de escaños ganados será en función de los cocientes electorales completos que quepan dentro del número de votos válidos obtenidos por cada entidad política, no considerándose fracciones o decimales. Los escaños que faltaren por distribuir se asignarán en base a los votos válidos residuales ordenados de mayor a menor y se adjudicarán conforme al método de la media mayor.
+Se deben establecer Oficinas departamentales, regionales y municipales del Consejo Supremo Electoral, o las que sean necesarias, para asegurar a la población, de manera permanente, la prestación de los servicios de Identificación Ciudadana, Registro Civil y la Cedulación.
+
+En estas oficinas deberán organizarse las áreas técnicas y administrativas con el personal y las condiciones necesarias para asegurar la prestación de estos servicios.

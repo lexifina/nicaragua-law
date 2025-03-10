@@ -1,3 +1,3 @@
 # Artículo 38
 
-Los ciudadanos podrán presentar objeciones a los Padrones Electorales dentro de los treinta días siguientes de su publicación.
+Muestras al azar de la tinta serán analizadas por los representantes nacionales de los partidos políticos o alianzas de partidos políticos ante el Consejo Supremo Electoral de previo a su distribución.

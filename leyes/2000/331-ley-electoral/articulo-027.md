@@ -1,57 +1,59 @@
 # Artículo 27
 
-Son atribuciones de las Juntas Receptoras de Votos:
+Son atribuciones de las juntas receptoras de votos:
 
-1) Verificar las credenciales de sus miembros y de los fiscales y funcionarios auxiliares acreditados ante su Junta Receptora de Votos.
+1. Verificar las credenciales de sus miembros, así como de las y los fiscales y funcionarios o funcionarías auxiliares acreditados ante su Junta Receptora de Votos.
 
-2) Verificar que los ciudadanos se encuentren registrados en la correspondiente lista definitiva del Padrón Electoral o calificar las inscripciones de los ciudadanos de acuerdo con los requisitos de Ley y autorizarla si procede.
+2. Garantizar el ejercicio de sus funciones a los fiscales de partidos o alianzas participantes en todos los momentos del proceso en la Junta Receptora de Votos donde fueron acreditados.
 
-3) Garantizar el ejercicio del sufragio.
+3. Verificar que las y los ciudadanos que se presenten a ejercer su derecho al voto se encuentren registrados en el Padrón Electoral de su Junta Receptora de Votos.
 
-4) Recibir los votos, en la urna o urnas correspondientes.
+4. Autorizar, de acuerdo a la Ley, la votación de las y los militares, policías, fiscales y personal técnico electoral.
 
-5) Realizar el escrutinio de los votos.
+5. Garantizar el ejercicio del sufragio libre, secreto y directo.
 
-6) Garantizar el orden en el recinto correspondiente, durante la inscripción, verificación y votación.
+6. Garantizar que los votos sean depositados en la urna correspondiente.
 
-7) Recibir y dar trámites a las impugnaciones y recursos conforme lo establecido en la presente Ley.
+7. Realizar el escrutinio de los votos.
 
-8) Permitir durante toda su actuación el acceso al local de los observadores debidamente acreditados.
+8. Garantizar el orden en el recinto correspondiente, durante todo el proceso de elección.
 
-9) Formar al término del escrutinio y cómputo de cada votación el expediente electoral que deberá integrarse con la documentación siguiente:
+9. Recibir y remitir al Consejo Electoral Municipal los recursos y quejas conforme a lo establecido en la presente Ley.
 
-a) Original del acta de apertura y constitución.
+10. Permitir durante toda su actuación el acceso al local de los o las acompañantes electorales debidamente acreditados.
 
-b) Original del acta de cierre de la votación correspondiente.
+11. Conformar al término del escrutinio de la votación el expediente electoral que deberá integrarse con la documentación siguiente:
 
-c) Original del acta de escrutinio.
+a. Original del Acta de Constitución y apertura.
 
-d) Los escritos de impugnación recibidos, si los hubiere.
+b. Original del Acta de Cierre de la votación.
 
-En sobre cerrado y por separado se deberán colocar:
+c. Original de las actas de escrutinio.
 
-a. Las boletas que contengan los votos válidos por partido o alianza.
+d. Los escritos de recursos y quejas recibidos, si los hubiere.
 
-b. Las boletas que contengan los votos nulos.
+12. Al finalizar el escrutinio, conformar el Paquete Electoral, que deberá contener en sobre cerrado y por separado:
 
-c. Las boletas sobrantes no utilizadas, debidamente anuladas.
+a. Las boletas utilizadas.
 
-d. El Padrón Electoral o lista de electores.
+b. Las boletas sobrantes no utilizadas.
 
-e) Credenciales de los votantes que ejercieron su derecho al voto en las Juntas Receptoras de Votos sin estar previamente inscritos en el Padrón Electoral, conforme a la presente ley.
+13. El Paquete Electoral en su envoltura deberá ser firmado por las y los miembros de la correspondiente Junta Receptora de Votos y voluntariamente por los fiscales acreditados de los partidos o alianza de partidos.
 
-Con el expediente y los sobres correspondientes a cada elección se formará el Paquete Electoral que deberá ser enviado al correspondiente Consejo Electoral Municipal. Para garantizar la inviolabilidad del Paquete Electoral en su envoltura deberán firmar los miembros de la correspondiente Junta Receptora de Votos y los fiscales acreditados de los partidos o alianza de partidos que desearen hacerlo.
+14. Conformar el Expediente del Registro de Votantes, que debe contener:
 
-10) Adjuntar en la parte exterior y adherido al Paquete Electoral un sobre que contenga una copia legible de la votación correspondiente.
+a. El Padrón Electoral.
 
-11) Trasladar al respectivo Consejo Electoral Municipal el Paquete Electoral que contiene todos los documentos y materiales utilizados durante las votaciones, conteo, escrutinio, actas, materiales sobrantes, documentos supletorios y las bolsas selladas conteniendo las boletas electorales, así como las boletas anuladas y no utilizadas, debiendo coincidir el número de boletas remitidas con el total de las entregadas.
+b. Las Hojas Anexas.
 
-12) Fijar una copia del acta de escrutinio de votos en el exterior del local de la Junta Receptora de Votos, una vez que se hubiere enviado el Paquete Electoral al correspondiente Consejo Electoral Municipal.
+c. Las constancias, documentos y/o listados de electoras o electores acreditados por el Ejército de Nicaragua, la l Nacional y del Ministerio del Interior que ejercieron su derecho al voto en las juntas receptoras de votos, sin estar inscritos en el Padrón Electoral correspondiente, de acuerdo a lo establecido en la presente Ley y las normativas específicas que para tal fin apruebe el Consejo Supremo Electoral.
 
-13) Garantizar los derechos de actuación de los fiscales de partidos o alianzas participantes en todos los momentos del proceso en que participa la Junta Receptora de Votos.
+d. El listado de las y los ciudadanos cedulados no empadronados que ejercieron su derecho al voto en la Junta Receptora de Votos sin estar inscritos en el Padrón Electoral respectivo, de acuerdo a lo establecido en la presente Ley y las normativas específicas que para tal fin apruebe el Consejo Supremo Electoral.
 
-14) Transmitir los resultados del Acta de Escrutinio vía fax o cualquier otro sistema electrónico de transmisión de más avanzada tecnología, al Consejo Supremo Electoral, instalados para ese fin en los Consejos Electorales Municipales o en su defecto en los locales destinados por el Consejo Electoral Municipal autorizados por el Consejo Electoral Departamental.
+15. Los y las miembros de la Junta Receptora de Votos deberán llevar el o las actas de escrutinio al Centro o Área de Transmisión Municipal para su transmisión al Consejo Supremo Electoral.
 
-15) Las demás que le señalen la presente Ley y las resoluciones del Consejo Supremo Electoral.
+16. Una vez transmitida el o las actas de Escrutinio, los y las miembros de la Junta Receptora de Votos deberán trasladar al Área de Recepción y Archivo del Centro de Cómputo Municipal el Expediente Electoral, el Expediente del Registro de Votantes y el Paquete Electoral.
 
-DE LOS FISCALES
+17. Las demás que le señalen la presente Ley y las resoluciones del Consejo Supremo Electoral.
+
+FISCALES

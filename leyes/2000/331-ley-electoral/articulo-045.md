@@ -1,3 +1,13 @@
 # Artículo 45
 
-Los ciudadanos nicaragüenses tienen el deber de inscribirse o de verificar su inclusión en el Padrón Electoral en la Junta Receptora de Votos que les corresponde de acuerdo con lo establecido en esta Ley y en el período señalado para tal efecto por el Consejo Supremo Electoral. En cualquier caso las inscripciones o verificaciones deberán realizarse antes del inicio de la campaña electoral.
+Para ejercer el derecho al sufragio las y los ciudadanos deberán:
+
+1. Estar en pleno goce de sus derechos.
+
+2. Presentar su Cédula de Identificación Ciudadana vigente.
+
+3. Estar inscritos en el Padrón Electoral.
+
+4. Seguir los procedimientos establecidos por la Ley Electoral y las regulaciones del Consejo Supremo Electoral.
+
+DEL PADRÓN ELECTORAL

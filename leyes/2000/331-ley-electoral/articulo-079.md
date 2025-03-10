@@ -1,3 +1,3 @@
 # Artículo 79
 
-El Consejo Supremo Electoral, verificado el cumplimiento de los requisitos que deben llenar los candidatos de acuerdo con lo establecido en la Constitución Política, las leyes de la materia y de los dos artículos anteriores, procederá al registro provisional de los candidatos presentados.
+El Consejo Supremo Electoral, previa aprobación de la Contraloría General de la República, autorizará el reembolso a cada partido político o alianza de partidos políticos y lo comunicará al Ministerio de Hacienda y Crédito Público para que lo haga efectivo.

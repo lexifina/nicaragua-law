@@ -1,3 +1,5 @@
 # Artículo 88
 
-Los partidos políticos o alianzas de partidos deberán acreditar ante el Consejo Supremo Electoral a un representante con su respectivo suplente para los efectos de la campaña electoral.
+Las juntas receptoras de votos funcionarán en los centros de votación que para ese efecto cree y haga del conocimiento público el Consejo Supremo Electoral conforme la Ley y normativas.
+
+Los centros de votación que por caso fortuito o fuerza mayor tengan que cambiar su ubicación dentro de su delimitación territorial, podrán hacerlo previa autorización del Consejo Supremo Electoral mediante solicitud del Consejo Electoral Municipal, tramitada a través del Consejo Electoral Departamental o Regional de la circunscripción correspondiente.

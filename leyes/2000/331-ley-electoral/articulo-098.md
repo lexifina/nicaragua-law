@@ -1,7 +1,3 @@
 # Artículo 98
 
-Los partidos políticos o alianzas de partidos que consideren violados sus derechos, podrán recurrir ante el Consejo Supremo Electoral en contra de las decisiones de los Consejos Electorales, dentro del término de seis días más el término de la distancia, a partir de la notificación de la resolución correspondiente.
-
-El Consejo Supremo Electoral resolverá el recurso abriéndolo a prueba por un período de tres días y dictando el fallo en los tres días siguientes.
-
-DEL FINANCIAMIENTO DE LA CAMPAÑA ELECTORAL
+Una vez ejercido su derecho de votación, al elector o electora se le deberá manchar el dedo pulgar derecho con tinta indeleble procurando que éste quede marcado hasta la base de la uña. En casos excepcionales, el Consejo Supremo Electoral establecerá el procedimiento en el manual correspondiente. La tinta deberá estar en la misma mesa en que opera la Junta Receptora de Votos.

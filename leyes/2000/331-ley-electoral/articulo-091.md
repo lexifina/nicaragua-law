@@ -1,7 +1,17 @@
 # Artículo 91
 
-Para las elecciones de Alcaldes, Vicealcaldes, y de los Concejales Municipales, el Consejo Supremo Electoral garantizará a cada uno de los partidos políticos o alianzas de partidos:
+Las y los miembros de las juntas receptoras de votos levantarán un Acta de Constitución y Apertura en el formulario que determine el Consejo Supremo Electoral, el cual deberá contener, entre otra información, lo siguiente:
 
-1) Quince minutos diarios en cada una de las radioemisoras estatales que no alcancen cobertura nacional, en aquellas circunscripciones que hubiesen inscrito candidato.
+1. Nombre y responsabilidad de quienes integran la Junta Receptora de Votos.
 
-2) Diez minutos diarios en cada una de las radioemisoras estatales con cobertura nacional y tres minutos en cada canal de televisión estatal, al cierre de su campaña. Para efectos de determinar la cobertura de las radioemisoras, el Consejo Supremo Electoral realizará una clasificación de las mismas.
+2. Verificación de los materiales de la maleta electoral.
+
+3. Confirmar que los paquetes de boletas recibidos estén sellados.
+
+4. Revisar las urnas electorales en presencia de las y los fiscales, constatándose que están vacías y de que en tal estado se armaron, cerraron y sellaron.
+
+5. Constatar la firma de las y los miembros de la Junta Receptora de Votos. Estas actas podrán ser firmadas por las y los fiscales si así lo desean.
+
+6. Otros que el Consejo Supremo Electoral determine.
+
+Del Acta de Constitución y Apertura deberá entregársele copia a cada uno de las y los fiscales, según el orden de las casillas.

@@ -1,3 +1,15 @@
 # Artículo 46
 
-Los nicaragüenses que no tengan la edad legal para votar a la fecha de las inscripciones, pero que la fueren a cumplir antes o en la fecha de las elecciones, tienen la misma obligación establecida en el artículo anterior.
+En los procesos electorales regulados en la presente Ley, se utilizará:
+
+1. La Cédula de Identificación Ciudadana otorgada de acuerdo con la Ley de Identificación Ciudadana.
+
+2. El Padrón Electoral que elabore el Consejo Supremo Electoral incluirá:
+
+a. Número de la Cédula de Identificación Ciudadana.
+
+b. Nombres y apellidos.
+
+c. Sexo.
+
+d. Dirección del domicilio, debiendo indicar departamento y municipio.

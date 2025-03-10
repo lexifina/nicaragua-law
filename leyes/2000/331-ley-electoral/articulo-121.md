@@ -1,19 +1,17 @@
 # Artículo 121
 
-Finalizada la votación, los Miembros de las Juntas Receptoras de Votos levantarán Actas de cierre, copias de las cuales deberán entregarse a cada uno de los fiscales y órganos electorales, las que deberán contener:
+Será sancionado con arresto inconmutable de uno a dos años:
 
-1) La hora en que terminó la votación.
+1. Quien amenace o agreda físicamente a las o los funcionarios del órgano electoral.
 
-2) El número de electores que votaron.
+2. Toda persona tanto del sector público como privado que se aproveche de sus funciones o atribuciones para presionar a sus subalternos o subalternas a votar en determinado sentido o abstenerse de votar.
 
-3) Las credenciales y documentos supletorios retenidos.
+3. El o la integrante de una Junta Receptora de Votos que de manera intencional no concurra al lugar y hora señalados para ejercer sus funciones.
 
-4) El nombre de los fiscales que presenciaron la votación y sus reclamos.
+4. Quien altere el Padrón Electoral, destruya material electoral o agregue fraudulentamente boletas electorales con el fin de variar los resultados de la votación o sustraiga urnas electorales.
 
-5) El número de boletas que se recibieron, el número de boletas usadas en la votación, y el de las que no se usaron, debiendo coincidir la suma de todas éstas con el número de boletas que se recibieron.
+5. Quien mediante amenaza o actos de violencia impida u obstaculice la celebración de una elección o limite la libertad de votar.
 
-Los Miembros de la Junta Receptora de Votos y los fiscales de los partidos políticos o alianzas de partidos, deberán firmar el acta.
+6. Cualquier persona que altere los registros o actas electorales.
 
-Si los fiscales se negaren a firmar, se procederá de conformidad con el numeral 10) del Artículo 29 de la presente Ley, pero si hubieren hecho reclamos y no firmaron, éstos quedarán nulos. Las cantidades que se consignen se escribirán con tinta en letras y números.
-
-Los recursos o impugnaciones serán presentados en formatos suministrados por el Consejo Supremo Electoral como parte de los documentos electorales y serán llenados en forma manuscrita o escritos a máquina, indicando la razón y su fundamento, debiendo ser firmados por el fiscal recurrente.
+7. Quien induzca a un candidato o candidata inscrita legalmente a retirar su candidatura.

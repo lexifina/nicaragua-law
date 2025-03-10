@@ -1,9 +1,5 @@
 # Artículo 71
 
-En las Regiones Autónomas de la Costa Atlántica podrán formarse partidos regionales, cuyo ámbito de acción estará limitado a sus circunscripciones.
+Durante la campaña electoral, cuya apertura y cierre fijará el Consejo Supremo Electoral, los partidos políticos o alianzas de partidos políticos que presentaron candidatos y candidatas, desarrollarán las actividades encaminadas a obtener los votos de los y las ciudadanas explicando sus principios ideológicos, sus programas políticos, sociales y económicos y sus plataformas de gobierno.
 
-Los requisitos serán los mismos establecidos para los partidos nacionales, pero remitidos a la división político administrativa de las Regiones Autónomas. En el caso de las organizaciones indígenas para que formen los partidos regionales se respetará su propia forma natural de organización y participación.
-
-Los partidos regionales podrán postular candidatos para Alcaldes, Vicealcaldes y Concejales Municipales y para Concejales y Diputados de las Regiones Autónomas.
-
-DE LA CANCELACIÓN Y SUSPENSIÓN DE LA PERSONALIDAD JURÍDICA DE LOS PARTIDOS POLÍTICOS
+El Consejo Supremo Electoral coordinará con los organismos correspondientes, condiciones de seguridad para los partidos políticos en las elecciones.

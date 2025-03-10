@@ -1,7 +1,3 @@
 # Artículo 144
 
-Los plebiscitos y referendos se realizarán en la circunscripción que se determine en el Decreto Legislativo de convocatoria.
-
-DEL RESULTADO DE LAS ELECCIONES
-
-DE LAS ELECCIONES PRESIDENCIALES
+La toma de posesión del Co-Presidente y la Co-Presidenta, será ante la Asamblea Nacional y prestarán la promesa de Ley ante el Presidente o Presidenta de la misma, el diez de enero del año siguiente a las elecciones.

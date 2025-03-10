@@ -1,3 +1,3 @@
 # Artículo 102
 
-El Ministerio de Hacienda y Crédito Público procederá, de la partida presupuestaria destinada para tal efecto, al reembolso que en proporción a los votos válidos obtenidos corresponde a la organización política acreditada por el Consejo Supremo Electoral.
+Terminadas las votaciones y firmada el Acta de Cierre, la Junta Receptora de Votos procederá a realizar el escrutinio en el mismo local de la votación y a la vista de las y los fiscales.

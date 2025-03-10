@@ -1,3 +1,3 @@
 # Artículo 126
 
-Los votos válidos se clasificarán y contarán de acuerdo con las clasificaciones del Reglamento que dicte el Consejo Supremo Electoral.
+La elección del Co-Presidente y Co-Presidenta de la República se hará en circunscripción nacional.
