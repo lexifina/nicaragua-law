@@ -1,5 +1,11 @@
 # Artículo 24
 
-El Cuerpo Médico Militar está designado para el aseguramiento médico de las Tropas, las misiones combativas, de preparación y de cualquier índole que cumplan las unidades militares, y para la atención de la salud de los miembros del Ejército y sus familiares con cobertura. El Cuerpo Médico Militar se organizará en unidades y pequeñas unidades de acuerdo a la estructura del Ejército.
+Fuerzas Militares de la Reserva Patriótica
 
-3. ESCUELAS Y ACADEMIAS MILITARES
+Las Fuerzas Militares de la Reserva Patriótica, son parte del Ejército, están destinadas para la defensa armada de la nación, para garantizar la Estabilidad, la Seguridad y la Paz.
+
+Las Fuerzas Militares de la Reserva Patriótica, estarán conformadas por las tropas terrestres, navales y aéreas y se organizarán en pequeñas y grandes unidades, según lo establezca la Normativa Interna Militar del Ejército.
+
+Sección Tercera
+
+Órganos Comunes

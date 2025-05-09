@@ -1,13 +1,33 @@
 # Artículo 8
 
-El Comandante en Jefe del Ejército será nombrado por el Presidente de la República, a propuesta del Consejo Militar, por un período de cinco años que se contará a partir de su toma de posesión. La propuesta del Consejo Militar deberá enviarse al Presidente de la República por lo menos un mes antes de la fecha de su nombramiento.
+Alto Mando
 
-Ningún pariente del Presidente y del Vice-Presidente de la República dentro del cuarto grado consanguinidad y segundo de afinidad podrá ser nombrado Comandante en Jefe del Ejército.
+El Alto Mando del Ejército le corresponde a la Comandancia General, compuesta por el Comandante en Jefe de las Fuerzas Militares del Ejército de Nicaragua, el Jefe del Estado Mayor General y el Inspector General. El Alto Mando del Ejército lo ejercerá la Comandancia General bajo el mando militar único del Comandante en Jefe de las Fuerzas Militares del Ejército de Nicaragua, a quien se subordinan todas las fuerzas del Ejército.
 
-El Comandante en Jefe del Ejército tomará posesión del cargo dos meses después del nombramiento, y continuará en el ejercicio del mismo hasta que el sucesor tome posesión.
+La Comandancia General tendrá como órganos de subordinación directa y de apoyo, los siguientes:
 
-El Comandante en Jefe del Ejército no podrá ser reelegido.
+1) Inspectoría General;
 
-En caso de ausencia o falta temporal del Comandante en Jefe del Ejército, desempeñará sus funciones el Jefe del Estado Mayor General.
+2) Secretaría General;
 
-Cuando la falta sea definitiva asumirá el cargo interinamente el Jefe del Estado Mayor General hasta que el nuevo Comandante en Jefe del Ejército sea nombrado. En este caso, el nuevo Comandante en Jefe podrá tomar posesión de inmediato, según lo disponga el Presidente de la República.
+3) Dirección de Relaciones Públicas y Exteriores;
+
+4) Dirección de Educación Patriótica;
+
+5) Dirección de Programas, Proyectos y Desarrollo Tecnológico;
+
+6) Auditoría General, conforme la Ley Nº. 523, Ley Orgánica de Tribunales Militares, con la excepción de lo dispuesto en el Título II, Jurisdicción Militar, Capítulo I, Disposiciones Generales del presente Código;
+
+7) Asesoría Jurídica;
+
+8) Oficina de Asuntos Territoriales;
+
+9) Oficina de Organismos Militares Internacionales;
+
+10) Centro de Historia Militar;
+
+11) Cuerpo de Escoltas;
+
+12) Unidad de Sistemas Especiales; y
+
+13) Otras que fueren creadas por el Comandante en Jefe de las Fuerzas Militares del Ejército de Nicaragua, de conformidad a las facultades que el presente Código le confiere.

@@ -1,7 +1,17 @@
 # Artículo 10
 
-El Mando Superior del Ejército en materia militar le corresponde al Estado Mayor General, conformado por el Jefe del Estado Mayor General y por los Jefes de Direcciones.
+Requisitos para ocupar el cargo de Comandante en Jefe de las Fuerzas Militares del Ejército de Nicaragua
 
-El Estado Mayor General es el órgano técnico, operativo, administrativo y de servicio, colaborador inmediato en el que se apoya el Alto Mando para la planificación, dirección y control de la organización, su adiestramiento, y aseguramiento técnico-material, operacional y desarrollo que requiere el Ejército.
+Para ser nombrado en el cargo de Comandante en Jefe de las Fuerzas Militares del Ejército de Nicaragua, se requiere de las calidades siguientes:
 
-Son Direcciones del Estado Mayor General: Personal y Cuadros, Inteligencia Militar, Operaciones y Planes, Logística y de Finanzas.
+1) Ser nacional de Nicaragua;
+
+2) Estar en pleno goce de sus derechos civiles y políticos;
+
+3) Tener el grado de Oficial General;
+
+4) Integrar la Comandancia General;
+
+5) Tener la preparación militar y profesional para ejercer el cargo; y
+
+6) Tener experiencia en el ejercicio del mando militar.

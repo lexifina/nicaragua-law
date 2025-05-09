@@ -1,25 +1,11 @@
 # Artículo 9
 
-Son deberes y atribuciones del Comandante en Jefe del Ejército:
+Nombramiento y toma de posesión del Comandante en Jefe de las Fuerzas Militares del Ejército de Nicaragua
 
-1.- Guardar respeto, obediencia, lealtad al cumplir y hacer cumplir en el Ejército la Constitución Política, el Código Militar, demás leyes y sus reglamentos, Normativa Interna Militar y Ordenanzas Militares.
+El Comandante en Jefe de las Fuerzas Militares del Ejército de Nicaragua será nombrado por la Presidencia de la República y Jefatura Suprema del Ejército de Nicaragua a propuesta del Consejo Militar por un período de seis años. El nombramiento se efectuará el veintiuno de diciembre y tomará posesión el veintiuno de febrero del siguiente año a su nombramiento. La propuesta del Consejo Militar deberá enviarse a la Presidencia de la República como Jefatura Suprema del Ejército de Nicaragua por lo menos un mes antes de la fecha de su nombramiento. El Comandante en Jefe de las Fuerzas Militares del Ejército de Nicaragua saliente, continuará en el ejercicio del mismo hasta que su sucesor tomare posesión del cargo.
 
-2.- Cumplir y hacer cumplir las órdenes y disposiciones que emita el Presidente de la República en el ejercicio de las atribuciones que le corresponden como Jefe Supremo de las Fuerzas de Defensa y Seguridad.
+Ningún pariente del Co - Presidente ni de la Co - Presidenta de la República dentro del cuarto grado de consanguinidad y segundo de afinidad podrá ser nombrado Comandante en Jefe de las Fuerzas Militares del Ejército de Nicaragua.
 
-3.- Ejercer, dentro de sus deberes y obligaciones, la representación legal del Ejército, por sí o por delegación.
+En caso de ausencia o falta temporal del Comandante en Jefe de las Fuerzas Militares del Ejército de Nicaragua, desempeñará sus funciones el Jefe del Estado Mayor General.
 
-4.- Aprobar los planes de estructuración orgánica, de actividades estratégicas y presupuestarias para el desarrollo del Ejército.
-
-5.- Emitir y reformar, en consulta con el Consejo Militar, la Normativa Interna Militar; y dictar las demás disposiciones, Manuales, Órdenes, directivas, Indicaciones, Ordenanzas, y otras disposiciones, que garanticen el funcionamiento apropiado del Ejército.
-
-6.- Presentar al Alto Mando los planes de la defensa nacional en caso de guerra y coordinar su ejecución. Dirigir el desarrollo general de las operaciones militares, creando y definiendo los teatros de operación necesarios, y designar sus Jefes respectivos.
-
-7.- Establecer la división militar en el territorio nacional; garantizar la organización, adiestramiento, capacitación y movilización de las fuerzas del Ejército; administrar los recursos y medios para el desarrollo del Ejército y el cumplimiento de los planes de la defensa; y representar al Ejército en la coordinación interinstitucional necesaria con los organismos del Estado.
-
-8.- Nombrar a los Jefes, Oficiales, Clases y Soldados y designar a cada uno las áreas de su trabajo; otorgar grados desde Coronel a Soldado y aprobar los ascensos; otorgar las condecoraciones militares y proponer a las autoridades correspondientes a los militares en servicio activo y en retiro que hagan méritos para recibir condecoraciones y Órdenes de la Nación, todo de conformidad con las leyes y reglamentos correspondientes, y sin perjuicio de las atribuciones que le corresponden al Presidente de la República como Jefe Supremo de las Fuerzas de Defensa y Seguridad en los numerales 6 y 9 del artículo 6 de éste Código.
-
-9.- Presidir el Consejo Militar y aprobar la integración al mismo de miembros especiales de acuerdo a los intereses del Ejército.
-
-10.- Las demás que le asigne el Presidente de la República como Jefe Supremo de las Fuerzas de Defensa y Seguridad y las que le señalen las leyes.
-
-MANDO SUPERIOR
+Cuando la falta sea definitiva asumirá el cargo, interinamente, el Jefe del Estado Mayor General hasta que el nuevo Comandante en Jefe de las Fuerzas Militares del Ejército de Nicaragua sea nombrado. En este caso el nuevo Comandante en Jefe de las Fuerzas Militares del Ejército de Nicaragua podrá tomar posesión de inmediato según lo disponga la Presidencia de la República y Jefatura Suprema del Ejército de Nicaragua.

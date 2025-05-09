@@ -1,15 +1,9 @@
 # Artículo 5
 
-El Ejército es una estructura jerarquizada que comprende los siguientes niveles de Mando:
+Base legal
 
-1.- Jefatura Suprema;
+El Ejército se regirá por la Constitución Política de la República de Nicaragua, el presente Código, demás leyes y la Normativa Interna Militar.
 
-2.- Alto Mando;
+Capítulo II
 
-3.- Mando Superior;
-
-4.-Mando de Unidades; y,
-
-5.-Otros Órganos.
-
-JEFATURA SUPREMA
+Niveles de Mando

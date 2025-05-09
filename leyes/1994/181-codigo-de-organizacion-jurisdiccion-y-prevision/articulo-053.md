@@ -1,9 +1,9 @@
 # Artículo 53
 
-Se denominará afiliado para los fines de esta Código, los oficiales, clases o soldados integrantes del Ejército que se encuentren incorporados a la prestación de Pensión para el Retiro de conformidad con lo establecido en el artículo anterior de este Código.
+Nombres de unidades e instalaciones militares
 
-Se establece una cuota mensual obligatoria con la cual se deberá contribuir al "fondo de pensiones para retiro" G Esta cuota estará integrada por: (A) las cotizaciones con que los afiliados contribuyan, que sean deducidas directamente de su haber ordinario y en ningún caso sobrepasarán del diez por ciento de éste. (B) los aportes que el Estado realice, que deberán ser incluidos en el Presupuesto Anual del Ejército. La referida cuota deberá ser pagada en la siguiente proporción:
+Como un homenaje permanente a los ejemplos más dignos, por la defensa de la Paz, la Soberanía, la Independencia, la Autodeterminación y la Integridad Territorial, las gestas heroicas, patriotismo,
 
-Dos tercios (2/3) por el Estado
+legado y valentía de hombres y mujeres nacionales y extranjeros que ofrendaron su vida, y que destacan por su amistad y solidaridad entre los pueblos, así como naciones que han contribuido al desarrollo del país y del Ejército, se reconocen e instituyen los nombres de unidades e instalaciones militares del Ejército a como se detallan en el Anexo Nº. III del presente Código.
 
-Un tercio (1/3) por el afiliado
+La designación de nombres de unidades e instalaciones militares del Ejército, será por acuerdo unánime del Consejo Militar

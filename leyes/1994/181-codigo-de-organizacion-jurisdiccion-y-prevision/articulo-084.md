@@ -1,3 +1,13 @@
 # Artículo 84
 
-Se reconocen todos los nombramientos y grados otorgados dentro del Ejército a la entrada en vigencia del presente Código. El cambio de nombre del Ejército no afectará esta disposición y los grados acompañarán a los oficiales aun cuando pasen a retiro. Los oficiales retirados podrán lucir sus uniformes y grados en actividades conmemorativas y especiales del ejército a los que tendrán derecho a ser invitados.
+Disposiciones comunes
+
+La asistencia, mejoramiento social y seguro social señalados en este Capítulo se implementarán en forma gradual y progresiva de acuerdo a las posibilidades financieras del Instituto y conforme los estudios técnicos actuariales que aseguren su cumplimiento.
+
+La incorporación al régimen de previsión social establecido en el presente Código, será obligatorio para los integrantes militares del Ejército en la medida que las prestaciones y servicios vayan siendo incorporados conforme lo establecido por el presente artículo.
+
+Las cotizaciones que corresponda realizar a los afiliados a medida que se incorporen al régimen creado por esta ley, serán deducibles para efectos del pago de impuesto sobre la renta y las prestaciones y beneficios que se otorguen no estarán sujetos a impuesto fiscal, municipal o especial.
+
+Sección Cuarta
+
+Destinatarios

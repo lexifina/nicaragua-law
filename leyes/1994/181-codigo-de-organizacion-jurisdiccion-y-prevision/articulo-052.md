@@ -1,3 +1,5 @@
 # Artículo 52
 
-Para dar inicio al cumplimiento de lo dispuesto en el Artículo que antecede, el Ejército aportará al Instituto, un monto de dinero suficiente para que permita, de acuerdo a estimaciones técnicas y actuariales, cubrir los aportes que hubiera correspondido realizar al militar afiliado, de conformidad con el artículo siguiente, desde la fecha de su integración al Ejército hasta la entrada en vigencia del presente Código.
+Fechas conmemorativas
+
+Como parte de las tradiciones militares y en reconocimiento a las gloriosas gestas heroicas y de lucha del pueblo por la defensa de la Paz, la Soberanía, la Independencia, la Autodeterminación y la Integridad Territorial, se establecen como fechas conmemorativas de carácter nacional el 2 de septiembre "Día del Ejército de Nicaragua" en homenaje al Ejército Defensor de la Soberanía Nacional de Nicaragua, y el 27 de noviembre, "Día del Soldado de la Patria", como un reconocimiento a todos los soldados y a quienes lucharon y murieron en su defensa.

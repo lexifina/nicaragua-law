@@ -1,3 +1,7 @@
 # Artículo 70
 
-El Instituto constituirá los fondos de reserva necesarios para el cumplimiento de sus obligaciones. Las reservas de contingencias constituidas garantizarán el cumplimiento de obligaciones originadas por una elevada siniestrabilidad o aquellas ocurridas por situaciones imprevisibles y en ningún caso se destinarán o utilizarán para incrementar beneficios o mejoras de servicios; esta reserva se constituirá con el aporte equitativo del afiliado y del Estado a través del presupuesto anual del ejército.
+Pensión de retiro
+
+Se entiende por Pensión para el retiro, para los fines del presente Código, las prestaciones a la cual tendrán derecho los integrantes del Ejército que pasen a la condición de retiro que determine la reglamentación correspondiente y que además hubieren acreditado un mínimo de veintiún años de servicio activo y efectivo en el Ejército y cumplan con los requisitos que el citado Reglamento disponga.
+
+La administración del Instituto incorporará gradual y progresivamente, de acuerdo a las condiciones financieras y actuariales, a los oficiales, funcionarios, suboficiales, clases, soldados y marineros.

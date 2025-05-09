@@ -1,5 +1,13 @@
 # Artículo 47
 
-Se establece como un régimen especial de la seguridad social del Estado, creado por el Decreto 974 el Sistema de Previsión Social Militar, que comprenderá el doble aspecto de la seguridad social y la asistencia y mejoramiento social y económico de los oficiales, clases y soldados del ejército y de sus familiares. El Presidente del INSSBI y el Ministro de Finanzas serán miembros de su órgano administrativo.
+Orden y disciplina militar
 
-Los civiles que trabajen en los diferentes órganos de servicios del Ejército estarán sujetos al mismo régimen general de los demás trabajadores del Estado.
+La Orden Militar es la expresión a través de la cual los integrantes del Ejército-cumplen sus deberes y obligaciones con la Patria, con el pueblo y con la institución. Si un miembro del Ejército no cumple la Orden, atenta contra las misiones, la cohesión y la lealtad.
+
+La Orden es la expresión del mando soportada sobre una estructura jurídica que fundamenta nuestros actos y su cumplimiento, es la disciplina militar.
+
+La disciplina militar es el cumplimiento estricto de lo establecido en la Constitución Política de la República de Nicaragua, las leyes y la Base Normativa Institucional, como expresión de la conciencia plena de los deberes patrióticos, es la lealtad sin límites a Nicaragua, a la institución y sus mandos.
+
+Sección Tercera
+
+Haberes

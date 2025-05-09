@@ -1,7 +1,23 @@
 # Artículo 25
 
-Las Escuelas y Academias Militares están designadas para la preparación, capacitación y superación académica y profesional de los miembros del Ejército.
+Órganos Comunes
 
-Su organización y estructura responderá a los requerimientos de su misión.
+También componen las Fuerzas Militares del Ejército los siguientes Órganos Comunes a todas las fuerzas:
 
-4. DIRECCIÓN DE INFORMACIÓN PARA LA DEFENSA
+1) Comando de Apoyo Logístico;
+
+2) Cuerpo Médico Militar;
+
+3) Universidad de Defensa de Nicaragua "4 de mayo", Escuelas y Centros de Enseñanza Militar;
+
+4) Dirección de Información para la Defensa;
+
+5) Dirección de Contrainteligencia Militar;
+
+6) Unidad de Guardia de Honor;
+
+7) Estado Mayor de la Defensa Civil;
+
+8) Cuerpo de Ingenieros; y
+
+9) Cuerpo de Transmisiones.

@@ -1,7 +1,23 @@
 # Artículo 48
 
-La ejecución y administración de la Previsión Social Militar estará a cargo del INSTITUTO DE PREVISIÓN SOCIAL MILITAR, cuya Personalidad Jurídica se otorga por este mismo Código, que operará sin fines de lucro y que en lo sucesivo podrá denominarse "el Instituto", el que tendrá una duración indefinida, patrimonio propio, y plena capacidad jurídica para adquirir derechos y contraer obligaciones.
+Retribuciones
 
-El Instituto tendrá su domicilio o sede principal en la ciudad de Managua, lugar en que tendrá su establecimiento principal; pero podrá establecer sucursales o sedes secundarias, agencias u oficinas en cualquier otro lugar si así lo resolviere su propia administración.
+Las retribuciones así como las pensiones provisionales de los militares se regirán por las siguientes normas:
 
-Ninguna entidad pública o privada, podrá usar la denominación de "Instituto de Previsión Social Militar" ni la expresión IPSM, ni aun adicionando a tal denominación o locución, alguna o algunas palabras que pretendan inducir a diferenciarla.
+1) Los militares tienen derecho a recibir una retribución justa y equitativa por el servicio que prestan, la que se denominará haber. Los haberes serán ordinarios y adicionales.
+
+El haber ordinario es el sueldo que devenga el militar en retribución de sus servicios, de conformidad con los cargos, grados militares y funciones que cumplen, los que se ajustarán de acuerdo a los incrementos autorizados por ley, para todos los servidores públicos.
+
+Los haberes adicionales consisten en sobresueldos, raciones, gratificaciones, asignaciones, subvenciones, primas y bonificaciones que se otorgan de manera permanente o temporal a los militares en razón de las condiciones propias del empleo.
+
+2) El militar en uso de licencia temporal por causa justificada debidamente autorizada por el mando superior, tendrá derecho a su haber ordinario íntegro hasta por el término de seis meses. Vencido este lapso, pasará la situación de disponibilidad con la pensión correspondiente.
+
+El militar tendrá derecho a sus haberes íntegros mientras permanezca hospitalizado o en su habitación particular curándose de enfermedad o heridas recibidas en servicio.
+
+El militar sometido a juicio gozará de sus haberes ordinarios durante el tiempo de su detención y hasta sentencia definitiva firme, a menos de ser prófugo o desertor; y
+
+3) Al militar hecho prisionero o desaparecido en acción se le asignará el setenta y cinco por ciento del haber que le corresponde, el que se entregará a su cónyuge o conviviente, compañera o compañero en unión de hecho estable, y en su defecto a sus hijos, hijas, descendientes o ascendientes. El veinticinco por ciento se mantendrá en depósito, y le será entregado al ser puesto en libertad o cuando apareciere o a sus herederos si se confirma su muerte.
+
+Sección Cuarta
+
+Símbolos Patrios, Símbolos Militares, Sistema de Valores, Nombres de Unidades e Instalaciones Militares, Emblemas, Insignias y Distintivos

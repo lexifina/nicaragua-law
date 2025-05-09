@@ -1,9 +1,25 @@
 # Artículo 13
 
-El Consejo Militar es el más alto órgano de consulta del Alto Mando para asuntos de doctrina y estrategia del Ejército, para los asuntos relacionados con el desarrollo de la Institución Militar y para los aspectos relativos a los planes de defensa que el Alto Mando estime de importancia para la toma de decisiones.
+Atribuciones del Estado Mayor General.
 
-Además de las que le confiere el presente Código serán atribuciones del Consejo Militar:
+Son atribuciones del Estado Mayor General:
 
-1.- Elaborar la propuesta al Presidente de la República para el nombramiento del oficial que ocupará el cargo de Comandante en Jefe del Ejército;
+1) Elaborar los planes de Defensa y Seguridad Nacional de largo, mediano y corto plazo;
 
-2.- Proponer al Presidente de la República el otorgamiento, a los oficiales que hagan mérito, de los Grados Militares de General de Ejército, Mayor General y General de Brigada.
+2) Elaborar los planes de aseguramiento multilateral que requiere el desarrollo institucional del Ejército y el cumplimiento de los planes de Defensa y Seguridad Nacional;
+
+3) Preparar los planes de información militar;
+
+4) Preparar los planes de educación patriótica, militar, preparación combativa, operativa y especial de los diferentes niveles, del personal militar permanente, temporal y de reserva, a desarrollar por los tipos de fuerzas;
+
+5) Elaborar los planes de formación, superación y perfeccionamiento del personal militar de las diferentes categorías y grados;
+
+6) Estudiar todos los asuntos que sean requeridos y disponer las medidas correspondientes para resolver los problemas y atender las situaciones que sean necesarias;
+
+7) Evaluar y controlar el cumplimiento de los planes, programas, actividades y tareas que se asignen a las fuerzas militares y órganos de dirección del Ejército; y
+
+8) Las demás atribuciones que le asigne el Alto Mando del Ejército.
+
+Sección Cuarta
+
+Mando de Unidades

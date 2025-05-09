@@ -1,5 +1,5 @@
 # Artículo 35
 
-La justicia militar será administrada por la Auditoría General del Ejército mediante los órganos judiciales militares establecidos por la ley. A dichos órganos corresponde exclusivamente juzgar y ejecutar lo juzgado en los asuntos de su competencia.
+Normativa Interna Militar
 
-La Auditoría General del Ejército administra la jurisdicción militar como parte integrante del Poder Judicial del Estado, con arreglo a los principios de la Constitución y de la leyes.
+El Comandante en Jefe de las Fuerzas Militares del Ejército de Nicaragua en consulta con el Consejo Militar, emitirá la Normativa Interna Militar del Ejército y la podrá reformar. La Normativa Interna Militar podrá ser emitida como un sólo cuerpo de una vez, o por partes en ocasiones distintas. Sus disposiciones serán de obligatorio cumplimiento para los militares.

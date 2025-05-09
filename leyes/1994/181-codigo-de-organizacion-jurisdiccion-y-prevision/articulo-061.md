@@ -1,5 +1,17 @@
 # Artículo 61
 
-El sistema de seguridad social funcionará mediante racional contribución de cotizaciones compartidas por el Estado y los beneficiados. El aporte individual del beneficiado por el seguro social no será mayor del tres por ciento (3%) de su haber ordinario mensual.
+Derecho a recurso
 
-Los afiliados al Instituto no podrán estar sujetos a ningún otro régimen de seguridad social dependiente del Estado, ni se les obligará a cotizaciones o deducciones salariales diferentes a los que establezca el Instituto.
+De todas las resoluciones dictadas por los Órganos Judiciales Militares, los perjudicados tienen derecho de apelar ante otro Órgano de jerarquía superior del mismo fuero.
+
+De las sentencias o resoluciones dictadas en primera instancia por un Órgano Judicial Militar que no tenga superior jerárquico, el recurso se interpondrá ante la Corte Suprema de Justicia.
+
+Corresponderá a la Corte Suprema de Justicia conocer de los recursos de casación.
+
+Capítulo II
+
+Límites y Cuestiones de Competencia
+
+Sección Primera
+
+Ámbito de la Competencia

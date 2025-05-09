@@ -1,15 +1,23 @@
 # Artículo 74
 
-El Reglamento Estatutario deberá reglamentar lo concerniente a la administración y gestión del Instituto, especialmente en lo que se refiere a:
+Otorgamiento de pensión de retiro
 
-1. El órgano que tendrá a su cargo la administración y gestión de las actividades del Instituto, su composición, funcionamiento, facultades y atribuciones;
+La prestación de pensión de retiro se otorgará de la forma siguiente:
 
-2. A los dignatarios del Instituto y sus facultades, así como a la representación del mismo;
+1) Cuarenta y uno por ciento del haber ordinario mensual con veintiún años de servicio activo y efectivo;
 
-3. A la organización administrativa interna, y facultades de los Departamentos, Secciones, Comités y Comisiones que se juzgaren convenientes;
+2) Cincuenta por ciento del haber ordinario mensual con veinticuatro años de servicio activo y efectivo;
 
-4. A los funcionarios ejecutivos y sus atribuciones; y
+3) Sesenta y dos por ciento del haber ordinario mensual con veintisiete años de servicio activo y efectivo;
 
-5. Cualquier otra materia relativa a la administración del Instituto.
+4) Setenta y cinco por ciento del haber ordinario mensual con treinta años de servicio activo y efectivo;
 
-DISOLUCIÓN Y LIQUIDACIÓN
+5) Ochenta por ciento del haber ordinario mensual con treinta y dos años de servicio activo y efectivo;
+
+6) Ochenta y cinco por ciento del haber ordinario mensual con treinta y cinco años de servicio activo y efectivo; y
+
+7) Noventa por ciento del haber ordinario mensual con cuarenta años de servicio activo y efectivo. Igual porcentaje recibirá el que cumpla cuarenta y cinco años de servicio activo y efectivo.
+
+Para efectos de determinar el haber ordinario mensual, este corresponderá al promedio del haber ordinario mensual de los cinco últimos años inmediatamente anteriores al año de retiro.
+
+No obstante lo aquí establecido, el Instituto, de común acuerdo con el afiliado, podrá establecer una modalidad diferente para el cumplimiento de la obligación de la prestación de pensión por retiro, siempre y cuando no se excedan de los plazos y montos que correspondan.

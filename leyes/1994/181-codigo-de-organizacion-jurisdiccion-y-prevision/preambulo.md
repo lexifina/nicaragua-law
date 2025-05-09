@@ -1,33 +1,29 @@
-LEY Nº. 181, CÓDIGO DE ORGANIZACIÓN, JURISDICCIÓN Y PREVISIÓN SOCIAL MILITAR
+TEXTO ÍNTEGRO DE LA LEY N°. 181, CÓDIGO DE ORGANIZACIÓN, JURISDICCIÓN Y PREVISIÓN SOCIAL MILITAR
 
-Aprobada el 23 de agosto de 1994
+Publicado en La Gaceta, Diario Oficial N°. 82 del 09 de mayo de 2025
 
-Publicada en La Gaceta, Diario Oficial N°. 165 del 02 de septiembre de 1994
+TEXTO ÍNTEGRO DE LA LEY N°. 181, CÓDIGO DE ORGANIZACIÓN, JURISDICCIÓN Y PREVISIÓN SOCIAL MILITAR
 
-CÓDIGO DE ORGANIZACIÓN, JURISDICCIÓN Y PREVISIÓN SOCIAL MILITAR
-
-Ley No. 181
+Ley N°. 181
 
 El Presidente de la República de Nicaragua
 
-Hace saber al pueblo Nicaragüense que:
+A sus habitantes, Sabed:
+
+Que,
 
 La Asamblea Nacional de la República de Nicaragua
 
-En uso de sus facultades:
+En uso de sus facultades
 
-Ha Dictado
-
-El siguiente:
+Ha dictado el siguiente:
 
 CÓDIGO DE ORGANIZACIÓN, JURISDICCIÓN Y PREVISIÓN SOCIAL MILITAR
 
-TÍTULO PRIMERO
+TÍTULO I
 
 ORGANIZACIÓN MILITAR
 
-CAPÍTULO I
+Capítulo I
 
-DISPOSICIONES GENERALES
-
-NATURALEZA Y FUNCIONES DEL EJÉRCITO
+Disposiciones Generales, Naturaleza y Funciones del Ejército

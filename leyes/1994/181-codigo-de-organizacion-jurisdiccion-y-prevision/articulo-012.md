@@ -1,7 +1,23 @@
 # Artículo 12
 
-El Mando de las Unidades corresponde a los Jefes de la Fuerza Aérea y Fuerza Naval, a los Jefes de las Grandes Unidades Subordinadas al Alto Mando, a los Jefes de Órganos Comunes del Ejército, y a los Jefes de otras Unidades.
+Mando Superior
 
-OTROS ÓRGANOS
+El Mando Superior del Ejército, en materia militar, le corresponde al Estado Mayor General, conformado por el Jefe del Estado Mayor General y por los Jefes de Direcciones.
 
-CONSEJO MILITAR
+El Estado Mayor General es el órgano técnico, operativo, administrativo y de servicio, colaborador inmediato en el que se apoya el Alto Mando para la planificación, dirección y control de la organización, su adiestramiento, y aseguramiento técnico-material, operacional y desarrollo que requiere el Ejército.
+
+Son Direcciones del Estado Mayor General:
+
+1) Personal y Cuadros;
+
+2) Inteligencia Militar;
+
+3) Operaciones y Planes;
+
+4) Logística;
+
+5) Doctrina y Enseñanza;
+
+6) Asuntos Civiles; y
+
+7) Finanzas.

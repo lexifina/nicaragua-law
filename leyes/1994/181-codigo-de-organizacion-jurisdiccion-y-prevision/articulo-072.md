@@ -1,5 +1,5 @@
 # Artículo 72
 
-Además de lo establecido en el artículo anterior, el Instituto contratará a una firma externa de auditoría de reconocida solvencia y competencia a fin de que elabore informes anuales de las operaciones realizadas por el Instituto y presentarlos a la administración y a la Contraloría General de la República, con sus resultados, comentarios y observaciones.
+Afiliados
 
-ESTABLECIMIENTO Y ESTATUTOS DEL INSTITUTO
+Se denominará afiliado, para los fines del presente Código, los oficiales, funcionarios, suboficiales, clases, soldados y marineros integrantes del Ejército que se encuentren incorporados a la prestación de pensión para el retiro de conformidad con lo establecido en el artículo anterior del presente Código.

@@ -1,11 +1,15 @@
 # Artículo 79
 
-La junta liquidadora procederá a la liquidación del Instituto o del plan de pensiones en su caso, llevando a cabo las operaciones necesarias para la realización de los bienes y su conversión a valores negociables o a efectivo para el pago de los acreedores, así como el cobro de las obligaciones a su favor. La liquidación y expresa distribución deberá ser hecha y concluida dentro del plazo que establezca la administración.
+Pérdida de derecho a la pensión
 
-Del producto de la realización de los bienes, cuando la liquidación corresponda al plan de pensiones para el retiro, con relación a cualquier otro acreedor, se distribuirá de la siguiente manera:
+El derecho de un afiliado a la prestación de pensión por retiro establecido por el presente Código, se pierde:
 
-1. Pago del reembolso de las cotizaciones efectuadas por los afiliados o la proporción que corresponda.
+1) Por deserción;
 
-2. Pago total o proporción correspondiente de las pensiones de retiro, si hubiere remanente una vez liquidado lo anterior.
+2) Por haber causado baja deshonrosa; y
 
-3. Pago a los otros acreedores de acuerdo con la ley, si quedare remanente.
+3) Por prescripción, la cual opera contados cinco años a partir de la notificación del beneficiario sin que se haya presentado a reclamar.
+
+Sección Segunda
+
+Seguridad Social Militar

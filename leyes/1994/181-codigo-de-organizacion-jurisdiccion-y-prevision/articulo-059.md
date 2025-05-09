@@ -1,11 +1,5 @@
 # Artículo 59
 
-El derecho de un afiliado a la prestación de pensión por retiro establecido por este Código, se pierde:
+Independencia judicial
 
-1. Por deserción;
-
-2. Por haber causado baja deshonrosa;
-
-3. Por prescripción, la cual opera contados cinco años a partir de la notificación del beneficiario sin que se haya presentado a reclamar.
-
-SEGURIDAD SOCIAL
+En el ejercicio de sus funciones, los miembros de los Órganos Judiciales Militares serán independientes y al respecto estarán exentos de la lealtad y obediencia al superior. Los integrantes de los órganos judiciales militares serán nombrados por la Corte Suprema de Justicia, de listas que proporcione el Consejo Militar. Durante el período legal de sus cargos solo serán removidos por causa justificada.

@@ -1,3 +1,9 @@
 # Artículo 60
 
-Corresponde al Instituto la administración de la seguridad social para la protección integral y medios de subsistencia en casos de invalidez, incapacidad total o parcial, temporal o permanente, vejez, riesgos profesionales, accidentes y enfermedades, extensiva a los respectivos beneficiarios.
+Fallos y resoluciones
+
+Las sentencias y demás resoluciones de los Órganos Judiciales Militares, una vez firmes, serán acatadas y de ineludible cumplimiento.
+
+Las sentencias dictadas por los Órganos Judiciales Militares en materia de su competencia, para gozar de la autoridad de cosa juzgada deberán reunir los requisitos que se exigen para las sentencias dictadas por Tribunales de Justicia de la jurisdicción ordinaria.
+
+Las sentencias dictadas por los Órganos Judiciales Militares, gozan de la autoridad de cosa juzgada en materia civil, de igual manera que las sentencias dictadas por los tribunales de justicia de la jurisdicción ordinaria.

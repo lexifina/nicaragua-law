@@ -1,3 +1,5 @@
 # Artículo 78
 
-Una vez resuelto por la administración del Instituto, la disolución que corresponda, se conformará una junta liquidadora integrada por la totalidad de los miembros del órgano superior de la administración. La junta liquidadora en sus funciones será asistida por la Contraloría General de la República y el Auditor interno del Instituto.
+Déficit actuarial
+
+El déficit actuarial que pudiere resultar del Régimen de Pensiones por Retiro a que se refiere del presente Código, se incluirá en la Ley Anual del Presupuesto General de la República asignado al Ejército.

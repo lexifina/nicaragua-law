@@ -1,5 +1,5 @@
 # Artículo 85
 
-El nuevo Comandante en Jefe del Ejército será nombrado por el Presidente de la República el veintiuno de Diciembre de mil novecientos noventa y cuatro, de conformidad con lo establecido en el numeral 4 del artículo 6 de esta Ley, y tomará posesión el veintiuno de Febrero de mil novecientos noventa y cinco.
+Destinatarios
 
-RESPECTO AL TÍTULO SEGUNDO
+Serán destinatarios de la finalidad, beneficios, planes y programas administrados por el Instituto, los miembros del Ejército que figuren en las listas de la Dirección de Personal y Cuadros y sus beneficiarios que se encuentren registrados como tales. En todo caso los destinatarios deberán llenar los requisitos necesarios que al efecto se establezcan.

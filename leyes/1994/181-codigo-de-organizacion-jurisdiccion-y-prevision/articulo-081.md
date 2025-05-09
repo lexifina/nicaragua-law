@@ -1,5 +1,7 @@
 # Artículo 81
 
-El remanente de los bienes y derechos del Instituto o del fondo de pensiones en su caso, una vez pagadas las deudas y responsabilidades, se destinarán a conformar el patrimonio de una persona jurídica que tenga por finalidad principal: o bien promover entre los miembros del Ejército y de sus familiares actividades de formación educativa de cualquier nivel, servicios médicos y hospitalarios, actividades culturales o bien operar actividades de recreo o distribución según lo determine la administración.
+Contribución y aporte a la Seguridad Social Militar
 
-El remanente referido y cualquier activo o propiedad podrá ser entregado en custodia o en fideicomiso a un banco, para que administre dichos bienes y derechos mientras no se efectúe la distribución real de los mismos.
+El sistema de Seguridad Social Militar funcionará mediante racional contribución de cotizaciones compartidas por el Estado y los beneficiados. El aporte individual del beneficiado por el seguro social no será mayor del tres por ciento de su haber ordinario mensual.
+
+Los afiliados al Instituto no podrán estar sujetos a ningún otro régimen de seguridad social dependiente del Estado, ni se les obligará a cotizaciones o deducciones salariales diferentes a los que establezca el Instituto.

@@ -1,5 +1,7 @@
 # Artículo 29
 
-El Estado Mayor de la Defensa Civil está designado para asegurar la participación efectiva de las diferentes Unidades del Ejército y las coordinaciones con las Instituciones del Estado y con la población en general, en los planes de protección en casos de desastres naturales, catástrofes u otras situaciones similares.
+Dirección de Información para la Defensa
 
-ORGANIZACIÓN Y FUNCIONAMIENTO INTERNO
+La Dirección de Información para la Defensa, es el único órgano especializado de información estratégica de Estado; está destinada a obtener, procesar y analizar la información de actividades que atenten contra la Paz, la Soberanía, la Independencia, la Autodeterminación y la Integridad Territorial.
+
+Está subordinada al Comandante en Jefe de las Fuerzas Militares del Ejército de Nicaragua y en ningún caso podrá realizar actividades de inteligencia política.

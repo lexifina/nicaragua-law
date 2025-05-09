@@ -1,7 +1,7 @@
 # Artículo 40
 
-Las sentencias y demás resoluciones de los Órganos Judiciales Militares, una vez firmes, serán acatadas y de ineludible cumplimiento.
+Ocupación de cargos por interés nacional
 
-Las sentencias dictadas por los Órganos Judiciales Militares en materia de su competencia, para gozar de la autoridad de cosa juzgada deberán reunir los requisitos que se exigen para las sentencias dictadas por tribunales de justicia de la jurisdicción ordinaria.
+Los miembros del Ejército podrán ocupar cargos temporalmente en el ámbito del Ejecutivo, cuando el interés supremo de la nación así lo demande. En este caso, el militar estará en comisión de servicio para todos los efectos legales.
 
-Las sentencias dictadas por los Órganos Judiciales Militares, gozan de la autoridad de cosa juzgada en materia civil, de igual manera que las sentencias dictadas por los tribunales de justicia de la jurisdicción ordinaria.
+El oficial en comisión de servicio en el ámbito del Ejecutivo, recibirá sus haberes correspondientes donde presta su servicio y cotizará al Instituto de Previsión Social Militar, sin exceder el monto del aporte correspondiente al haber del último cargo militar ocupado.

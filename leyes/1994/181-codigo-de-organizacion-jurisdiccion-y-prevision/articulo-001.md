@@ -1,5 +1,11 @@
 # Artículo 1
 
-El Ejército de Nicaragua, que en lo sucesivo de este Código se llamará simplemente "el Ejército", es el único cuerpo militar armado reconocido legalmente en el territorio nicaragüense. Es indivisible y tiene carácter nacional, apartidista, apolítico y profesional. El Ejército se regirá en estricto apego a la Constitución Política y a las Leyes a las que debe guardar respeto y obediencia; igualmente a los convenios y tratados internacionales ratificados por Nicaragua en materia de derechos humanos.
+Naturaleza y carácter
 
-Los miembros del Ejército no podrán realizar proselitismo político partidario ni dentro ni fuera de la institución ni desempeñar cargos públicos de carácter civil.
+El Ejército de Nicaragua que en lo sucesivo se denominará "El Ejército", constitucionalmente es la única Fuerza Militar del País. Es heredero del Ejército Defensor de la Soberanía Nacional de Nicaragua del General Augusto C. Sandino y su divisa "Patria y Libertad"; y del Ejército Popular Sandinista. Es el Pueblo mismo uniformado y organizado para defender la Paz, la Soberanía, la Independencia, la Autodeterminación y la Integridad Territorial.
+
+El Ejército de Nicaragua está bajo el mando de la Presidencia de la República como Jefatura Suprema. Debe guardar protección, respeto y subordinación a la Constitución Política de la República de Nicaragua. Es una institución patriótica, obediente, no deliberante, indivisible, de carácter nacional y profesional.
+
+El Ejército se regirá en estricto apego a la Constitución Política de la República de Nicaragua, a las leyes y a los instrumentos internacionales en materia de Derechos Humanos, Derecho Internacional
+
+Humanitario y otros instrumentos de Derecho Internacional Público ratificados y aprobados por Nicaragua.

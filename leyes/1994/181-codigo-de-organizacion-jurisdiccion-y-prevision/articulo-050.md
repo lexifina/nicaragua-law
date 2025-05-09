@@ -1,11 +1,5 @@
 # Artículo 50
 
-El Instituto tendrá a su cargo la administración de la Asistencia y Mejoramiento Social de los miembros del Ejército y de sus familiares, mediante el establecimiento y operación de:
+Símbolos militares
 
-1. Planes de ahorro y pensiones complementarias,
-
-2. Programas para préstamos hipotecarios para vivienda,
-
-3. Programas para préstamos personales, y
-
-4. Cualquier otro plan de asistencia y mejoramiento social que autorice la administración.
+Son símbolos militares: el Himno del Ejército de Nicaragua, la Bandera de Combate del Ejército de Nicaragua, el Escudo de Armas del Ejército de Nicaragua, el Himno a los Caídos y el Himno del Ejército Defensor de la Soberanía Nacional de Nicaragua, cuyos contenidos y características se establecen en el Anexo Nº. II del presente Código.

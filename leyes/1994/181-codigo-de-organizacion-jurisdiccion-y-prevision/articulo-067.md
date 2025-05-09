@@ -1,17 +1,7 @@
 # Artículo 67
 
-El patrimonio del Instituto estará constituido por:
+Junta Directiva del Instituto de Previsión Social Militar
 
-1. La aportación establecida en los artículos 52 y 53 de este Código;
+La Junta Directiva del Instituto de Previsión Social Militar, estará integrada por el Comandante en Jefe de las Fuerzas Militares del Ejército de Nicaragua, el Jefe del Estado Mayor General, el Inspector General, el Jefe de la Dirección de Personal y Cuadros y el Director Ejecutivo del Instituto. También estará integrada por el Ministro de Hacienda y Crédito Público y el Presidente Ejecutivo del Instituto Nicaragüense de Seguridad Social. Los miembros de la Junta Directiva en caso de fuerza mayor, podrán delegar su representación.
 
-2. Las aportaciones que el Estado le hiciere, a través del Presupuesto General de la República;
-
-3. Las aportaciones, cuotas y contribuciones obligatorias que de conformidad con la ley le corresponda;
-
-4. Las donaciones, cuotas y aportaciones voluntarias para planes que opere el Instituto, herencias y legados que le sean hechas y sean por él aceptadas; y,
-
-5. Las rentas e ingresos que genera su propio patrimonio.
-
-Se prohíbe que las rentas e ingresos que genera el patrimonio del Instituto de Previsión Social Militar sean usadas para otros fines que no sean los de la seguridad social militar.
-
-La Contraloría General de la República ejercerá los controles que le faculta la ley sobre el ejercicio administrativo y financiero del Instituto.
+El personal auxiliar que trabaje en los diferentes órganos del Ejército, estará sujeto al régimen general de la seguridad social de los demás trabajadores del Estado; y aquellos que en su condición de asimilados o funcionarios pasen a formar parte del Ejército, podrán optar de forma voluntaria al régimen de la Previsión Social Militar.

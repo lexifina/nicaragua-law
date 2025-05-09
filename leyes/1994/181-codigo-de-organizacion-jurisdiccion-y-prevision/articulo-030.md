@@ -1,5 +1,5 @@
 # Artículo 30
 
-El Comandante en Jefe del Ejército en consulta con el Consejo Militar, emitirá la Normativa Interna Militar del Ejército y lo podrá reformar. La Normativa Interna Militar y sus Reformas o adiciones se publicarán en "La Gaceta", Diario Oficial.
+Dirección de Contrainteligencia Militar
 
-La Normativa Interna Militar podrá ser emitida como un solo cuerpo de una vez, o por partes en ocasiones distintas. Sus disposiciones serán de obligatorio cumplimiento para los militares.
+La Dirección de Contrainteligencia Militar, es un organismo militar especializado, que está designado para la protección de la Institución, para la prevención de actividades delictivas y de acciones que se den a lo interno de la institución que atenten contra la integridad de la misma. También está destinada para garantizar la protección física de los mandos, de las instalaciones militares y de los bienes y recursos del Ejército.

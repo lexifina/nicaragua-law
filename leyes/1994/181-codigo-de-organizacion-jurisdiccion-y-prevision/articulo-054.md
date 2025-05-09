@@ -1,5 +1,7 @@
 # Artículo 54
 
-La prestación de Pensión de Retiro se otorgará de la forma siguiente:
+Reforma a las características
 
-Treinta y cinco (35%) por ciento del haber ordinario mensual con dieciocho años de servicio activo y efectivo. Cincuenta (50%) por ciento del haber ordinario mensual con veinticuatro años de servicio activo y efectivo. Setenta y cinco (75%) por ciento del haber ordinario mensual con treinta años de servicio activo y efectivo. Para efectos de determinar el haber ordinario mensual, éste corresponderá al promedio del haber ordinario mensual de los últimos tres años inmediatamente anterior al año de retiro. No obstante lo aquí establecido, el Instituto, en común acuerdo con el afiliado podrá establecer una modalidad diferente para el cumplimiento de la obligación de la prestación de Pensión por Retiro, siempre y cuando no se excedan de los plazos y montos que correspondan.
+La reforma a las características y uso de los símbolos militares y la modificación de los nombres de unidades e instalaciones militares será por acuerdo unánime del Consejo Militar, estará regulada por la Normativa Interna Militar.
+
+De producirse la fusión o integración de una o más unidades, prevalecerá el nombre de mayor preeminencia y significado histórico. Cuando se trate de instituir nombres de nuevas unidades e instalaciones militares, se procederá de conformidad a lo previsto en la normativa militar correspondiente.

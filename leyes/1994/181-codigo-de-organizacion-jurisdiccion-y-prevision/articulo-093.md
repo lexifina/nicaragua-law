@@ -1,5 +1,9 @@
 # Artículo 93
 
-Los reiterados del Ejército antes de la entrada en vigencia de este Código, están cubiertos por los compromisos contraídos por el Presidente de la República.
+Auditoría externa
 
-DISPOSICIÓN DEROGATORIA
+Además de lo establecido en el artículo anterior, el Instituto contratará a una firma externa de auditoría de reconocida solvencia y competencia a fin de que elabore informes anuales de las operaciones realizadas por el Instituto y presentarlos a la administración y a la Contraloría General de la República, con sus resultados, comentarios y observaciones.
+
+Capitulo IV
+
+Establecimiento y Estatutos del Instituto

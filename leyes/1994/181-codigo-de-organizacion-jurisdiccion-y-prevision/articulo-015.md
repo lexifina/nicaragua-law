@@ -1,5 +1,19 @@
 # Artículo 15
 
-La Inspectoría General es un Órgano de la Comandancia General, subordinada directamente al Comandante en Jefe del Ejército, del que recibirá las misiones, directivas y órdenes, y a quien informará de su cumplimiento; está designada para la supervisión, evaluación y control del cumplimiento de los Planes de Actividades Principales, Reglamentos, Manuales, Ordenanzas y demás documentos rectores del Ejército. Estará a cargo del Inspector General nombrado por el Comandante en Jefe del Ejército.
+Consejo Militar
 
-AUDITORÍA GENERAL
+El Consejo Militar es el más alto órgano de consulta del Alto Mando para asuntos de doctrina y estrategia del Ejército, relacionados con el desarrollo de la Institución Militar y a los planes de defensa que el Alto Mando estime de importancia para la toma de decisiones.
+
+El Consejo Militar emitirá opinión ante el Comandante en Jefe de las Fuerzas Militares del Ejército de Nicaragua sobre temas relacionados a la Normativa Interna Militar, símbolos militares, emblemas, insignias, distintivos, nombre de unidades e instalaciones militares, de acuerdo con la Constitución Política de la República de Nicaragua, el presente Código y sus tradiciones históricas.
+
+El Consejo Militar prestará juramento de lealtad a la Constitución Política de la República de Nicaragua y a las leyes de la República ante la Presidencia de la República y Jefatura Suprema del Ejército de Nicaragua.
+
+Además de las que le confiere el presente Código, el Consejo Militar tiene las atribuciones siguientes:
+
+1) Elaborar propuesta a la Presidencia de la República y Jefatura Suprema del Ejército de Nicaragua para el nombramiento del oficial general integrante de la Comandancia General que ocupará el cargo de Comandante en Jefe de las Fuerzas Militares del Ejército de Nicaragua;
+
+2) Proponer a la Presidencia de la República y Jefatura Suprema del Ejército de Nicaragua el otorgamiento, a los oficiales generales y superiores que hagan mérito de los Grados Militares de General de Ejército, Coronel General o Almirante, Mayor General o Vicealmirante, General de Brigada o Contralmirante;
+
+3) Proponer las listas de los integrantes de los órganos judiciales militares que serán nombrados por la Corte Suprema de Justicia en cargos de magistrados y jueces militares; y
+
+4) Aprobar por unanimidad la designación de nombres de unidades e instalaciones militares.

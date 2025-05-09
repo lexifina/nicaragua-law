@@ -1,3 +1,9 @@
 # Artículo 56
 
-Los que tuvieren derecho a la prestación de pensiones por retiros podrán establecer su propio beneficiario, quien recibirá la pensión a partir del fallecimiento del afiliado, siempre y cuando éste estuviere gozando de tal beneficio. Tal designación deberá constar por escrito, puesta en conocimiento del Instituto e incorporarse en el expediente individual que aquél deberá llevar de cada afiliado.
+Jurisdicción Militar
+
+La jurisdicción militar como parte integrante de los tribunales de justicia cuyo órgano superior es la Corte Suprema de Justicia, será administrada por la Auditoría General mediante los órganos judiciales militares establecidos por la ley. A dichos órganos corresponde exclusivamente juzgar y ejecutar lo juzgado en los asuntos de su competencia.
+
+En la jurisdicción militar además de los órganos judiciales militares, intervendrá la Fiscalía Militar. Corresponde a la Fiscalía Militar la función acusadora y la representación de los intereses de la sociedad, del Ejército y de la víctima del delito en el proceso penal militar, primando el interés de la institución armada.
+
+La Auditoría General tendrá las facultades de gobierno, disciplinarias y demás funciones del presente Código y la Ley Nº. 523, Ley Orgánica de Tribunales Militares, le encomienden.

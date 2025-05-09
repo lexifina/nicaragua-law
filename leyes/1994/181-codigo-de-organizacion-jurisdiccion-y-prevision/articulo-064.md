@@ -1,3 +1,13 @@
 # Artículo 64
 
-Serán destinatarios de la finalidad, beneficios, planes y programas administrados por el Instituto, los miembros del Ejército que figuren en las listas de la Dirección de Personal y Cuadros y sus beneficiarios que se encuentren registrados como tales. En todo caso los destinatarios deberán llenar los requisitos necesarios que al efecto se establezcan.
+Suspensión de pronunciamiento
+
+Cuando la existencia de un delito, sometido al conocimiento de los Tribunales de la Jurisdicción Ordinaria, hubiere de ser fundamento preciso de una sentencia dictada por un Órgano Judicial Militar, o tuviera en ella influencia notoria, este último tribunal suspenderá el pronunciamiento de la sentencia hasta la terminación del proceso de la jurisdicción ordinaria. La suspensión se decretará en cualquier estado del juicio.
+
+Si en el mismo juicio tramitado por la Jurisdicción Militar se ventilaren otras cuestiones que puedan resolverse sin esperar el fallo del Tribunal de la Jurisdicción Ordinaria, continuará respecto de ellas el juicio sin interrupción.
+
+SEGURIDAD SOCIAL MILITAR
+
+Capítulo I
+
+Disposiciones Generales

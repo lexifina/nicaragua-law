@@ -1,17 +1,21 @@
 # Artículo 42
 
-Los Órganos Judiciales Militares serán competentes para conocer de los delitos y faltas militares cometidos por los miembros del Ejército, de conformidad a la calificación que establezca el Código Penal Militar.
+Deberes
 
-Cuando el delito o falta cometido por los miembros del Ejército fuera común, será conocido por los Tribunales de la jurisdicción ordinaria. La iniciativa de la acción penal, de oficio o a petición de parte, corresponderá a la Procuraduría General de Justicia. En caso de solicitud de parte, la Procuraduría General de Justicia deberá pronunciarse en un plazo no mayor de cinco días.
+Los miembros del Ejército tienen los deberes siguientes:
 
-Si la Procuraduría no emite resolución alguna en el plazo establecido se entenderá como negativa y se procederá conforme quedó establecido.
+1) Guardar protección, respeto y subordinación a la Constitución Política de la República de Nicaragua;
 
-Cuando el militar sea detenido en flagrante delito o en persecución inmediata del mismo, la acción podrá ejercerse directamente ante los Tribunales de la Jurisdicción Ordinaria.
+2) Cumplir con lo dispuesto en la Constitución Política de la República de Nicaragua, leyes, reglamentos, normativas y disposiciones que regulen la carrera militar;
 
-La resolución negativa de la Procuraduría General de Justicia podrá ser recurrida dentro de tercero día para ante el tribunal de apelaciones correspondiente, quien resolverá en un plazo no mayor de ocho días.
+3) Guardar respeto, lealtad y fidelidad a nuestro pueblo y defenderlo hasta con la propia vida si fuese necesario;
 
-En los lugares donde no hubiere Procurador, el Juez local recibirá la demanda o acusación y le dará el trámite correspondiente ante el Procurador de su jurisdicción o el Procurador General en su defecto.
+4) Guardar respeto y fidelidad a la institución militar, a sus mandos y compañeros de armas;
 
-Si la resolución fuera de iniciación de juicio las partes podrán usar todos los derechos que les concede la jurisdicción ordinaria.
+5) Cumplir las órdenes de sus superiores en el marco de sus competencias;
 
-Este trámite será considerado de naturaleza administrativa y de la resolución del Tribunal de Apelaciones, podrá recurrirse ante la Corte Suprema de Justicia, la que deberá pronunciarse en un plazo no mayor de quince días.
+6) Cumplir con patriotismo, disciplina y dedicación las misiones y tareas que derivan del servicio militar;
+
+7) Participar de manera activa en la formación, superación militar y profesional; y
+
+8) Guardar respeto y rendirle los honores correspondientes a los Símbolos Patrios y Símbolos Militares.

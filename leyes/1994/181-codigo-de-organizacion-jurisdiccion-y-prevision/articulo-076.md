@@ -1,3 +1,5 @@
 # Artículo 76
 
-Por las mismas causas establecidas en el artículo anterior, el Instituto podrá liquidar anticipadamente únicamente el plan de pensiones de retiro establecido por el artículo 54 de este Código.
+Designación de beneficiario
+
+Los que tuvieren derecho a la prestación de pensiones por retiros podrán establecer su propio beneficiario, quien recibirá la pensión a partir del fallecimiento del afiliado, siempre y cuando éste estuviere gozando de tal beneficio. Tal designación deberá constar por escrito, puesta en conocimiento del Instituto e incorporarse en el expediente individual que aquel deberá llevar de cada afiliado.

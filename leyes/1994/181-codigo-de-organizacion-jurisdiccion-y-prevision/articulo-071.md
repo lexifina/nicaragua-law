@@ -1,3 +1,5 @@
 # Artículo 71
 
-Sin perjuicio de las facultades que le corresponden por la ley a la Contraloría General de la República, el Instituto contará con una auditoría, a cargo de la cual estará un Contador Público Autorizado.
+Aportes al Instituto
+
+Para dar inicio al cumplimiento de lo dispuesto en el artículo que antecede, el Ejército aportará al Instituto, un monto de dinero suficiente para que permita, de acuerdo a estimaciones técnicas y actuariales, cubrir los aportes que hubiera correspondido realizar al militar afiliado, de conformidad con el artículo siguiente, desde la fecha de su integración al Ejército hasta la entrada en vigencia del presente Código.

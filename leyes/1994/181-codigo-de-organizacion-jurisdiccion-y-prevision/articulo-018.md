@@ -1,11 +1,13 @@
 # Artículo 18
 
-El Ejército se compone de los siguientes tipos de fuerzas específicas:
+Auditoría General
 
-1.- Fuerza Terrestre;
+La Auditoría General del Ejército tiene a su cargo la jurisdicción militar que administra como parte integrante del Órgano Judicial presidido por la Corte Suprema de Justicia, de conformidad con la Constitución Política de la República de Nicaragua, el presente Código y las leyes.
 
-2.- Fuerza Aérea;
+Capítulo III
 
-3.- Fuerza Naval.
+Estructura y Composición del Ejército
 
-1.- FUERZA TERRESTRE
+Sección Primera
+
+Estructura

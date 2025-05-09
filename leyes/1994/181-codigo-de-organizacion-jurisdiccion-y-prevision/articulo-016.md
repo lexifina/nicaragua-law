@@ -1,7 +1,17 @@
 # Artículo 16
 
-La Auditoría General del Ejército tiene a su cargo la jurisdicción militar que administra como parte integrante del Poder Judicial presidido por la Corte Suprema de Justicia del Estado de conformidad con la Constitución Política y las leyes.
+Integración del Consejo Militar
 
-ESTRUCTURA Y COMPOSICIÓN DEL EJÉRCITO
+El Consejo Militar estará integrado por los miembros que componen el Alto Mando y por los:
 
-ESTRUCTURA
+1) Jefes de las Direcciones del Estado Mayor General;
+
+2) Jefes de los Órganos de Apoyo de la Comandancia General con equivalencia jerárquica;
+
+3) Jefes de Fuerza Aérea y Defensa Antiaérea, y Fuerza Naval;
+
+4) Jefes de Grandes Unidades Subordinadas directamente al Alto Mando; y
+
+5) Oficiales Superiores que el Comandante en Jefe de las Fuerzas Militares del Ejército de Nicaragua considere necesario participen de modo permanente o por invitación.
+
+El Consejo Militar será presidido por el Comandante en Jefe de las Fuerzas Militares del Ejército de Nicaragua y será Secretario el Jefe del Estado Mayor General. En caso de ausencia del primero presidirá el segundo actuando de Secretario el Inspector General.

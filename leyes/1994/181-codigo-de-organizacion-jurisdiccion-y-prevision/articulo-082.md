@@ -1,7 +1,5 @@
 # Artículo 82
 
-Concluida la liquidación, la junta liquidadora publicará un balance general y un estado de pérdidas y ganancias, el cual deberá ser certificado por la Contraloría General de la República.
+Indemnización
 
-El acta final de las cuentas de liquidación se publicará en La Gaceta, Diario Oficial durante tres días consecutivos y durante igual plazo, en dos diarios de circulación nacional.
-
-La junta liquidadora hará entrega a la Contraloría General de la República de todos los documentos, libros y demás soportes de la liquidación a fin de que los conserve por un período no menor de tres años.
+En todo caso la indemnización por muerte, accidente, invalidez, incapacidad total o parcial, temporal o permanente, producida como resultado de la participación de cualquier militar en servicio activo del Ejército, en guerra o actos de guerra declarada o no, maniobras o ejercicios militares, operaciones o campañas militares, actos de sabotaje o terrorismo realizados contra militares, sus unidades o medios de transporte; acciones de guerra irregular o guerrilla, actividades insurgentes, homicidio, asesinato o muerte por actividades políticas, huelgas, paros, conmoción civil; será cubierta por el Estado en el monto que corresponda, como si el fallecido hubiere estado cubierto por muerte natural, accidental, invalidez, incapacidad total o permanente.
