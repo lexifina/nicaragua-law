@@ -1,0 +1,9 @@
+# Artículo 169
+
+Sobre la Dirección y Control de la Ejecución del Contrato. La Máxima Autoridad de Entidad del Estado sujeta al ámbito de la Ley, delegará en un equipo colegiado, o al responsable del Área Solicitante la obligación de conducir oportunamente la ejecución contractual, tomar las providencias necesarias para que el contratista se ajuste al estricto cumplimiento de las condiciones, especificaciones y plazos establecidos en el contrato y demás obligaciones implícitas en este.
+
+Corresponde a dicho Órgano verificar el cumplimiento del objeto de la contratación, advertir, a quien corresponda de acuerdo con el régimen interno, la conveniencia de introducir modificaciones, o señalar correcciones en la ejecución, recomendar la ejecución de las garantías o bien la rescisión o resolución del contrato cuando advierta fundamento para ello.
+
+Para este fin, la Entidad del Estado deberá contar con un Manual para la Administración de los Contratos.
+
+La ausencia de ejercicio de las facultades de dirección y control de la fiscalización por parte de la Entidad del Estado, no exime al contratista de cumplir a cabalidad con sus deberes, ni de la responsabilidad que de ello se derive. El contratista se encuentra obligado a ofrecer a la Entidad Contratante las facilidades necesarias para el ejercicio de la dirección y control de la ejecución.

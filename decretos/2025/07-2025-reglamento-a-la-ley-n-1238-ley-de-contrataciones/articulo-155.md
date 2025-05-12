@@ -1,0 +1,3 @@
+# Artículo 155
+
+Recurso de Apelación. La resolución que emita la Dirección General de Contrataciones del Estado admitirá recurso de apelación dentro de los seis (6) días siguientes a la notificación respectiva. El recurso de apelación se interpondrá ante la Dirección General de Contrataciones del Estado quien tendrá que remitir el recurso junto con su informe, al superior jerárquico en un término de diez días. El Ministro de Hacienda y Crédito Público conocerá el recurso de apelación y resolverá en un término de (30) treinta días, a partir de su interposición, agotándose la vía administrativa.
