@@ -1,0 +1,9 @@
+# Artículo 28
+
+De la revocación de la convalidación judicial en los casos de homonimia, error o falso positivo.
+
+La persona o entidad designada por el CSNU, afectada por una medida de inmovilización de fondos u otros activos debido a que su nombre corresponde a un homónimo o un nombre similar al de una persona o entidad designada, o bien que tal identificación haya sido producto de un error, o de un mecanismo de congelamiento que inintencionadamente constituya un falso positivo, podrá solicitar de manera directa ante la Oficina del Ombudsman del CSNU su exclusión o remoción de la lista correspondiente; o bien, realizar dicha solicitud ante la autoridad judicial que dictó la resolución de inmovilización de fondos u otros activos, presentando los documentos necesarios que demuestren que se trata de un homónimo o de un error o de una medida de congelamiento inintencionada, cumpliendo lo previsto en el artículo anterior.
+
+Cuando la acción de inmovilización de fondos u otros activos haya sido convalidada por la autoridad judicial, pero la comunicación del MINREX no se ha remitido al CSNU y la persona o ente afectado ha recurrido ante la autoridad judicial que dictó la medida, este último solicitará el pronunciamiento del Ministerio Público, quien en conjunto con la Secretaría Técnica del Consejo Nacional ALA/CFT/CFP harán las investigaciones pertinentes y de comprobarse la homonimia o el error, el Ministerio Público solicitará al judicial el cese de la inmovilización y la devolución de los fondos u otros activos a su legítimo dueño. La autoridad judicial notificará su decisión al Ministerio Público, a quien mantiene inmovilizado los fondos u otros activos y a la persona o entidad afectada.
+
+Si la convalidación judicial ha sido comunicada por el MINREX al CSNU, la persona o entidad designada deberá cumplir con lo prescrito para estos casos.
