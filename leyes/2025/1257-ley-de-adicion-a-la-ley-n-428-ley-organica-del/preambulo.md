@@ -1,0 +1,27 @@
+LEY Nº. 1257, LEY DE ADICIÓN A LA LEY N°. 428, LEY ORGÁNICA DEL INSTITUTO DE LA VIVIENDA URBANA Y RURAL (INVUR)
+
+Aprobada el 30 de julio de 2025
+
+Publicada en La Gaceta, Diario Oficial N°. 140 del 31 de julio de 2025
+
+LA PRESIDENCIA DE LA REPÚBLICA DE NICARAGUA
+
+A sus habitantes, hace saber:
+
+Que,
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+Ha ordenado lo siguiente:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+HA DICTADO
+
+La siguiente:
+
+LEY N°. 1257
+
+LEY DE ADICIÓN A LA LEY N°. 428 LEY ORGÁNICA DEL INSTITUTO DE LA VIVIENDA URBANA Y RURAL (INVUR)
