@@ -1,0 +1,3 @@
+# Artículo 7
+
+Modifíquese el Artículo 1, de la Ley Nº. 1225, Ley Anual de Presupuesto General de la República 2025, el cual se leerá así: “Apruébese el Presupuesto General de Ingresos para el ejercicio presupuestario 2025 por un monto estimado de C$ 166,124,842,772.00 (CIENTO SESENTA Y SEIS MIL CIENTO VEINTICUATRO MILLONES OCHOCIENTOS CUARENTA Y DOS MIL SETECIENTOS SETENTA Y DOS CÓRDOBAS NETOS), de los cuales corresponden a ingresos corrientes el monto de C$166,122,210,119.00 (CIENTO SESENTA Y SEIS MIL CIENTO VEINTIDÓS MILLONES DOSCIENTOS DIEZ MIL CIENTO DIECINUEVE CÓRDOBAS NETOS) y a ingresos de capital la suma de C$2,632,653.00 (DOS MILLONES SEISCIENTOS TREINTA Y DOS MIL SEISCIENTOS CINCUENTA Y TRES CÓRDOBAS NETOS), que forman parte de la Ley.

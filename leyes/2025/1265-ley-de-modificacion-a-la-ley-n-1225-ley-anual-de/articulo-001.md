@@ -1,0 +1,3 @@
+# Artículo 1
+
+Increméntese el Presupuesto General de Ingresos para el ejercicio presupuestario 2025 en la suma de C$7,394,456,874.00 (SIETE MIL TRESCIENTOS NOVENTA Y CUATRO MILLONES CUATROCIENTOS CINCUENTA Y SEIS MIL OCHOCIENTOS SETENTA Y CUATRO CÓRDOBAS NETOS), de los que C$7,393,780,241.00 (SIETE MIL TRESCIENTOS NOVENTA Y TRES MILLONES SETECIENTOS OCHENTA MIL DOSCIENTOS CUARENTA Y UN CÓRDOBAS NETOS) corresponden a ingresos corrientes y C$676,633.00 (SEISCIENTOS SETENTA Y SEIS MIL SEISCIENTOS TREINTA Y TRES CÓRDOBAS NETOS) a ingresos de capital, de acuerdo a la distribución por fuentes de ingresos contenida en el Anexo Nº. l.

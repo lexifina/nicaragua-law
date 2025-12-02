@@ -1,0 +1,3 @@
+# Artículo 5
+
+Redúzcase el Financiamiento Externo Neto en la suma de C$7,152,380,008.00 (SIETE MIL CIENTO CINCUENTA Y DOS MILLONES TRESCIENTOS OCHENTA MIL OCHO CÓRDOBAS NETOS), producto de reducciones de desembolsos de préstamos externos atados a programas y proyectos por el monto de C$6,734,948,125.00 (SEIS MIL SETECIENTOS TREINTA Y CUATRO MILLONES NOVECIENTOS CUARENTA Y OCHO MIL CIENTO VEINTICINCO CÓRDOBAS NETOS) de conformidad con el Artículo 2 de esta Ley y mayor pago del servicio de amortización de deuda externa en el monto de C$417,431,883.00 (CUATROCIENTOS DIECISIETE MILLONES CUATROCIENTOS TREINTA Y UN MIL OCHOCIENTOS OCHENTA Y TRES CÓRDOBAS NETOS), de conformidad con los aumentos contenidos en Anexo Nº. V.
