@@ -1,0 +1,3 @@
+# Artículo 7
+
+Sin perjuicio de lo establecido en la Ley Nº. 1221, Ley de Reforma a la Ley Nº. 89, Ley de Autonomía de las Instituciones de Educación Superior, se establece como medida temporal para el ejercicio presupuestario 2026, el monto asignado como aporte ordinario del Estado, en la partida de Asignaciones y Subvenciones, denominada Universidades y Centros de Educación Técnica Superior, por la suma de C$9,636,102,000.00 (NUEVE MIL SEISCIENTOS TREINTA Y SEIS MILLONES CIENTO DOS MIL CÓRDOBAS NETOS), y cuya distribución es parte de esta Ley. La programación, entrega de fondos y registro de la ejecución presupuestaria se regirá por lo establecido en las Normas y Procedimientos de Ejecución y Control Presupuestario para el año 2026.

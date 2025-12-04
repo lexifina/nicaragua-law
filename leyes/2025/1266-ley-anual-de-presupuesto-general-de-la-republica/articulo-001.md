@@ -1,0 +1,3 @@
+# Artículo 1
+
+Apruébese el Presupuesto General de Ingresos para el ejercicio presupuestario 2026, por el monto estimado de C$171,701,546,084.00 (CIENTO SETENTA Y UN MIL SETECIENTOS UN MILLONES QUINIENTOS CUARENTA Y SEIS MIL OCHENTA Y CUATRO CÓRDOBAS NETOS), de los que C$171,693,044,625.00 (CIENTO SETENTA Y UN MIL SEISCIENTOS NOVENTA Y TRES MILLONES CUARENTA Y CUATRO MIL SEISCIENTOS VEINTICINCO CÓRDOBAS NETOS) corresponden a ingresos corrientes y C$8,501,459.00 (OCHO MILLONES QUINIENTOS UN MIL CUATROCIENTOS CINCUENTA Y NUEVE CÓRDOBAS NETOS) a ingresos de capital, que forman parte de esta Ley, de acuerdo a la distribución por fuente de ingresos.

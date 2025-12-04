@@ -1,0 +1,9 @@
+# Artículo 2
+
+Apruébese el Presupuesto General de Egresos para el ejercicio presupuestario 2026 en la suma de C$166, 778,869,267.00 (CIENTO SESENTA Y SEIS MIL SETECIENTOS SETENTA Y OCHO MILLONES OCHOCIENTOS SESENTA Y NUEVE MIL DOSCIENTOS SESENTA Y SIETE CÓRDOBAS NETOS), distribuidos en C$107,954,813,631.00 (CIENTO SIETE MIL NOVECIENTOS CINCUENTA Y CUATRO MILLONES OCHOCIENTOS TRECE MIL SEISCIENTOS TREINTA Y UN CÓRDOBAS NETOS) para gastos corrientes y C$58,824,055,636.00 (CINCUENTA Y OCHO MIL OCHOCIENTOS VEINTICUATRO MILLONES CINCUENTA Y CINCO MIL SEISCIENTOS TREINTA Y SEIS CÓRDOBAS NETOS) para gastos de capital. La distribución del Presupuesto General de Egresos será por organismo, programa, proyecto y grupo de gasto en la forma y monto cuyo detalle es parte de esta Ley.
+
+a) Del techo total de gastos establecido en el Proyecto de Presupuesto General de Egresos 2026, redúzcase la suma de C$71,356,000.00, (SETENTA Y UN MILLONES TRESCIENTOS CINCUENTA Y SEIS MIL CÓRDOBAS NETOS), de los cuales C$57,697,000.00, (CINCUENTA Y SIETE MILLONES SEISCIENTOS NOVENTA Y SIETE MIL CÓRDOBAS NETOS), corresponden a gastos corrientes y C$13,659,000.00, (TRECE MILLONES SEISCIENTOS CINCUENTA Y NUEVE MIL CÓRDOBAS NETOS) a gastos de capital, en base al detalle del Anexo Nº. I.
+
+b) Asimismo, del techo total de gasto establecido en el Proyecto de Presupuesto General de Egresos 2026, increméntese la partida presupuestaria de las instituciones en base a detalle de renglones del Anexo Nº. II por la suma de C$71,356,000.00, (SETENTA Y UN MILLONES TRESCIENTOS CINCUENTA Y SEIS MIL CÓRDOBAS NETOS), de los cuales C$66,497,000.00, (SESENTA Y SEIS MILLONES CUATROCIENTOS NOVENTA Y SIETE MIL CÓRDOBAS NETOS) corresponden a gastos corrientes y C$4,859,000.00 (CUATRO MILLONES OCHOCIENTOS CINCUENTA Y NUEVE MIL CÓRDOBAS NETOS) a gastos de capital.
+
+Los Anexos Nº. I, II y II-A, que contienen las modificaciones de la presente Ley, forman parte integral de la misma
