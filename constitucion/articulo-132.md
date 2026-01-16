@@ -10,7 +10,7 @@ Son atribuciones de la Asamblea Nacional:
 7) Elegir a las y los magistrados del Consejo Supremo Electoral a partir de propuestas presentadas por la Presidencia de la República y/o por las y los diputados de la Asamblea Nacional. Cada Magistrada o Magistrado será electo individualmente con el voto favorable de por lo menos el sesenta por ciento de las y los diputados de la Asamblea Nacional.
 8) Elegir con al menos el sesenta por ciento de los votos del total de las y los diputados de la Asamblea Nacional, a partir de propuestas presentadas por la Presidencia de la República y/o por las y los diputados de la Asamblea Nacional:
 a) A la o el Superintendente y la o el Vicesuperintendente General de Bancos y de Otras Instituciones Financieras.
-b) A la o el Fiscal General de la República, quien estará a cargo del Ministerio Público y a la o el Fiscal General Adjunto de la República, quienes deberán tener las mismas calidades que se requieren para ser magistrados de la Corte Suprema de Justicia.
+b) Derogado.
 c) A las y los miembros del Consejo Superior de la Contraloría General de la República.
 Todos estos funcionarios serán elegidos para un período de seis años y gozarán de inmunidad.
 9) Conocer, admitir y decidir sobre las faltas definitivas de las y los diputados ante la Asamblea Nacional, como lo establece la ley. Una vez que la Asamblea Nacional decida la falta definitiva de una o un diputado, será sustituido o sustituida por su suplente, de acuerdo a los criterios establecidos por la Ley.
