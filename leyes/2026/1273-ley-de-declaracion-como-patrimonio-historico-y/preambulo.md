@@ -1,0 +1,27 @@
+LEY N°. 1273, LEY DE DECLARACIÓN COMO PATRIMONIO HISTÓRICO Y CULTURAL DE LA NACIÓN
+
+Aprobada el 18 de enero de 2026
+
+Publicada en La Gaceta, Diario Oficial N°. 11 del 20 de enero de 2026
+
+LA PRESIDENCIA DE LA REPÚBLICA DE NICARAGUA
+
+A sus habitantes, hace saber:
+
+Que,
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+Ha ordenado lo siguiente:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+HA DICTADO
+
+La siguiente:
+
+LEY N°. 1273
+
+LEY DE DECLARACIÓN COMO PATRIMONIO HISTÓRICO Y CULTURAL DE LA NACIÓN
