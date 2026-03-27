@@ -1,0 +1,27 @@
+LEY Nº. 1277, LEY DE REFORMA A LA LEY Nº. 1259, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA
+
+Aprobada el 25 de marzo de 2026
+
+Publicada en La Gaceta, Diario Oficial N°. 58 del 27 de marzo de 2026
+
+LA PRESIDENCIA DE LA REPÚBLICA DE NICARAGUA
+
+A sus habitantes, hace saber:
+
+Que,
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+Ha ordenado lo siguiente:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+HA DICTADO
+
+La siguiente:
+
+LEY Nº. 1277
+
+LEY DE REFORMA A LA LEY Nº. 1259, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA
