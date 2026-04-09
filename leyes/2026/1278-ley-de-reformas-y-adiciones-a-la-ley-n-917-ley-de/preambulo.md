@@ -1,0 +1,27 @@
+LEY N°. 1278, LEY DE REFORMAS Y ADICIONES A LA LEY N°. 917, LEY DE ZONAS FRANCAS DE EXPORTACIÓN
+
+Aprobada el 08 de abril de 2026
+
+Publicada en La Gaceta, Diario Oficial N°. 61 del 09 de abril de 2026
+
+LA PRESIDENCIA DE LA REPÚBLICA DE NICARAGUA
+
+A sus habitantes, hace saber:
+
+Que,
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+Ha ordenado lo siguiente:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+HA DICTADO
+
+La siguiente:
+
+LEY N°. 1278
+
+LEY DE REFORMAS Y ADICIONES A LA LEY N°. 917, LEY DE ZONAS FRANCAS DE EXPORTACIÓN
