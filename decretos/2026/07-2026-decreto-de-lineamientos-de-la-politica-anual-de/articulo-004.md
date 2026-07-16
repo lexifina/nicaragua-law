@@ -1,0 +1,9 @@
+# Artículo 4
+
+Sostenibilidad y Concesionalidad de la Deuda Pública.
+
+La Política de Endeudamiento continuará dentro de los umbrales indicativos de Sostenibilidad de Deuda Pública de mediano y largo plazo, conforme el Marco de Sostenibilidad de Deuda para Países de Bajos Ingresos, utilizando la metodología del Banco Mundial y el FMI; a través de un endeudamiento prudente, que permitan acceder a recursos a un costo de financiamiento menor y mayores plazos de colocación. Las necesidades de financiamiento serán atendidas mediante una combinación de fuentes de financiamiento externas e internas.
+
+Producto del buen desempeño macroeconómico del país, a partir de julio del 2015, el Banco Mundial cambió la clasificación de Nicaragua de país IDA-only a IDA Gap esto permitió la apertura de nuevas fuentes de financiamiento, debido a que con la nueva clasificación Nicaragua no está sujeta a la política sobre límites de concesionalidad.
+
+La Política Fiscal, tiene como prioridad la estabilidad de las finanzas públicas, mediante un crecimiento económico sostenible y la implementación de políticas de lucha contra la pobreza, a través de la continuidad en la asignación de recursos para la ejecución de proyectos de inversión en sectores de infraestructura vial, obras comunitarias, agua y saneamiento, energía, salud y educación que generan impactos significativos en el crecimiento y reducción de la pobreza y la desigualdad, en función de la mejora en la calidad de vida de la población nicaragüense.
