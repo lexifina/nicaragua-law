@@ -1,0 +1,35 @@
+DECRETO DE RATIFICACIÓN DEL “ACUERDO SOBRE EL ESTABLECIMIENTO DE RELACIONES DE AMISTAD ENTRE LA CIUDAD DE MANAGUA DE LA REPÚBLICA DE NICARAGUA Y LA ENTIDAD MUNICIPAL DE DISTRITO URBANO DE DONETSK DE LA REPÚBLICA POPULAR DE DONETSK (FEDERACIÓN DE RUSIA)”
+
+DECRETO PRESIDENCIAL N°. 10-2026, aprobado el 30 de julio de 2026
+
+Publicado en La Gaceta, Diario Oficial N°. 142 del 04 de agosto de 2026
+
+Gobierno de Reconciliación y Unidad Nacional
+
+Unida Nicaragua Triunfa
+
+DECRETO PRESIDENCIAL No. 10-2026
+
+La Presidencia de la República de Nicaragua,
+
+Co-Presidente Daniel Ortega y Co-Presidenta Rosario Murillo
+
+CONSIDERANDO
+
+I
+
+Que el Gobierno de la República de Nicaragua, en fecha cinco (5) de junio del año dos mil veintiséis (2026), en la ciudad de San Petersburgo, Federación de Rusia, suscribió el “ACUERDO SOBRE EL ESTABLECIMIENTO DE RELACIONES DE AMISTAD ENTRE LA CIUDAD DE MANAGUA DE LA REPÚBLICA DE NICARAGUA Y LA ENTIDAD MUNICIPAL DE DISTRITO URBANO DE DONETSK DE LA REPÚBLICA POPULAR DE DONETSK (FEDERACIÓN DE RUSIA)”.
+
+II
+
+Que la Asamblea Nacional aprobó el “ACUERDO SOBRE EL ESTABLECIMIENTO DE RELACIONES DE AMISTAD ENTRE LA CIUDAD DE MANAGUA DE LA REPÚBLICA DE NICARAGUA Y LA ENTIDAD MUNICIPAL DE DISTRITO URBANO DE DONETSK DE LA REPÚBLICA POPULAR DE DONETSK (FEDERACIÓN DE RUSIA)”, mediante Decreto A.N. No. 8932 del veintiocho (28) de julio del año dos mil veintiséis (2026), publicado en La Gaceta, Diario Oficial No. 139 del treinta (30) de julio del año dos mil veintiséis (2026).
+
+POR TANTO,
+
+En uso de las facultades que les confiere la Constitución Política
+
+HAN DICTADO
+
+El siguiente:
+
+DECRETO DE RATIFICACIÓN DEL “ACUERDO SOBRE EL ESTABLECIMIENTO DE RELACIONES DE AMISTAD ENTRE LA CIUDAD DE MANAGUA DE LA REPÚBLICA DE NICARAGUA Y LA ENTIDAD MUNICIPAL DE DISTRITO URBANO DE DONETSK DE LA REPÚBLICA POPULAR DE DONETSK (FEDERACIÓN DE RUSIA)”.
