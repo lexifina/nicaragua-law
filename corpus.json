@@ -1,0 +1,44 @@
+{
+  "corpus": "ni/national/acts",
+  "name": "Nicaraguan law: the Constitución Política (text of 2014 to today)",
+  "label": "Nicaragua",
+  "language": "es",
+  "acts": [
+    "Constitución Política de la República de Nicaragua"
+  ],
+  "history_from": "2014-02-10",
+  "record_to": "2026-01-19",
+  "checked_on": "2026-10-28",
+  "record_note": "From the official text with the reforms incorporated (in force 2014-02-10) to Ley N° 1271 (in force 2026-01-19). Normas Jurídicas de Nicaragua lists no later constitutional reform on 2026-10-28, the day the data was retrieved and checked.",
+  "history": "in-force",
+  "in_force_trailer": "In-force",
+  "baseline_trailer": "Consolidated",
+  "has_future_branch": false,
+  "built": "2026-10-28",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "Enacted",
+      "Published",
+      "In-force-basis"
+    ],
+    "time": "12:00 America/Managua (UTC-6; summer time UTC-5 only in 2005 and 2006)"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "this corpus records no scope notes (no commit carries Applies:); the absence is not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "the law has no retroactive effect, except in criminal matters when it favours the accused",
+      "meaning": "a change applies from its in-force day; a criminal provision that favours the accused also reaches earlier acts",
+      "authority": "Constitución Política (texto de 2014), art. 38: \"La ley no tiene efecto retroactivo, excepto en materia penal cuando favorezca al reo.\"; texto íntegro de 2025, art. 27, numeral 14)",
+      "decided_here": false
+    }
+  },
+  "replayed": "partial: the 2014, 2022, 2024 and 2025 versions are whole official texts; the versions of the reform laws between them are replayed from the words each law quotes, and the next official text checks them (the 2026 reforms have no official text after them yet)",
+  "verification": "every replayed article equals the next official consolidation word for word; the consolidations differ from the replay only in the Digesto's own corrections and typography, credited to the Digesto law in a labelled commit",
+  "tool": "tools/in_force_on.py",
+  "citation": {
+    "file": "(constitucion)/articulo-0*([0-9]+)(-[a-z]+)?\\.md",
+    "cites": "([Aa]rt[ií]culo|[Aa]rto\\.|[Aa]rt\\.) ?{n}([^0-9]|$)"
+  }
+}
