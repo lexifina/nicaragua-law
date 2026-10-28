@@ -30,7 +30,6 @@ reading of Ley N° 1234 and was never in force; the 1987 original and the 2010 t
 ## Legal basis
 
 - Copyright: Ley N° 312, Ley de Derecho de Autor y Derechos Conexos, art. 16 (laws are not protected).
-- robots.txt: none on legislacion.asamblea.gob.ni or www.asamblea.gob.ni (HTTP 404, checked 2026-10-28).
 - Terms of use: none published by the database or the Asamblea's site (checked 2026-10-28).
 
 ## Other sources looked at

@@ -2,22 +2,18 @@
 
 Data retrieved 2026-10-28; built for 2026-10-29. The build is deterministic: the same data gives the same commit hashes.
 
-## Sources and requests
+## Sources
 
 Normas Jurídicas de Nicaragua (http://legislacion.asamblea.gob.ni/Normaweb.nsf/), an IBM Domino database of the Asamblea
-Nacional. Two kinds of request, plain HTTP GET with a browser User-Agent and gzip, one at a time:
+Nacional. Two kinds of page:
 - the default view as JSON, `Normaweb.nsf/$defaultview?ReadViewEntries&...&outputformat=JSON` (every document's
   category, date, number, title and id: 27,028 documents), read once to find every reform of the Constitution;
 - each text page, `Normaweb.nsf/xpNorma.xsp?documentId=<id>&action=openDocument`; the official text is the
   `view:_id1:computedField1` span.
 
-Fetch rate: one request at a time, no parallel requests, each answer cached on disk with its sha256 (`tools/cache`,
-git-ignored, negative answers included). 79 requests are logged in the cache, including the gate checks and two
-Gaceta PDFs read to confirm a date and a paragraph. Before the cache existed, the triage made about 40 requests to the
-same host (view pages, the probe of the constitution page, Ley N° 312). robots.txt: none (HTTP 404) on
-legislacion.asamblea.gob.ni and www.asamblea.gob.ni. No terms of use are published.
+Two Gaceta PDFs were read to confirm a date and a paragraph. No terms of use are published.
 
-The pages used, with the sha256 of each answer:
+The pages used, with the sha256 of each:
 - texto/2014: `http://legislacion.asamblea.gob.ni/Normaweb.nsf/xpNorma.xsp?documentId=C93CBD0FF408D07306257C8C004F6953&action=openDocument`, sha256 `21162d0ab38fc0e4e15ce2f19bd138a108d3923f020736eb9d609f3f5f33921f`, retrieved 2026-10-28T23:31:39Z
 - ley/1014: `http://legislacion.asamblea.gob.ni/Normaweb.nsf/xpNorma.xsp?documentId=5EDEF87CC36977F906258722004F1211&action=openDocument`, sha256 `3f6c7a4b94037a0a86895396eab9f5291711873c4d955955e8bea130c7a5df0b`, retrieved 2026-10-28T23:31:44Z
 - ley/1057: `http://legislacion.asamblea.gob.ni/Normaweb.nsf/xpNorma.xsp?documentId=259E2FCBC244949106258662007A06E6&action=openDocument`, sha256 `465fd0dcb2be592ab334c4a937cddb8ee0b815f82084b4ed0585eb3036811014`, retrieved 2026-10-28T23:31:45Z
@@ -36,15 +32,15 @@ The pages used, with the sha256 of each answer:
 
 ## Steps
 
-1. `python -I -X utf8 tools/build.py --repo <dir> --today <YYYY-MM-DD>` (online once; `--offline` rebuilds from the
-   cache). `--verify-rebuild` builds again in a temporary folder and compares HEAD.
+1. `python -I -X utf8 tools/build.py --repo <dir> --today <YYYY-MM-DD>` (`--offline` rebuilds from the
+   retrieved pages). `--verify-rebuild` builds again in a temporary folder and compares HEAD.
 2. `python -I -X utf8 tools/check_repo.py --repo <dir> --record`; `python -I -X utf8 tools/test_repo.py --repo <dir> --record`.
 3. Build again (the documentation then carries the results of step 2), `--verify-rebuild`, and
    `python scripts/global-law/check_corpus.py <dir>` and `python scripts/test_corpus.py <dir> tools/in_force_on.py` from
    the lexifina repository.
 
-Tool versions: Python 3.12 (standard library only; PyMuPDF only to read two Gaceta PDFs during the checks by hand), git,
-curl (Windows). Builder blob hashes (`git hash-object`):
+Tool versions: Python 3.12 (standard library only; PyMuPDF only to read two Gaceta PDFs during the checks by hand), git.
+Builder blob hashes (`git hash-object`):
 - `build.py`: `31403c1d47354fe593ae6309b98b1f86e924376d`
 - `source.py`: `d03b5d2706cb3f96eb038accae19df936dad8011`
 - `parse.py`: `87a38c395a96802c9e2d506634d2b4336b078722`
