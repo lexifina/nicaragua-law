@@ -1,0 +1,3 @@
+# Artículo 1
+
+Al tenor de lo dispuesto en el artículo 17 y en el artículo 86, ambos de la Constitución Política de la República de Nicaragua, se autoriza el tránsito o estacionamiento en el territorio nacional de efectivos militares, naves y aeronaves de las fuerzas armadas de la Federación de Rusia, República Popular de China, Estados Unidos Mexicanos, Estados Unidos de América y las Fuerzas Armadas y Ejércitos de la Conferencia de las Fuerzas Armadas Centroamericanas (CFAC), con fines de intercambio y asistencia humanitaria de beneficio mutuo en caso de situaciones de emergencia, así como la salida de tropas, naves y aeronaves nicaragüenses fuera del país de conformidad a la planificación de actividades durante el primer semestre del año 2027.
