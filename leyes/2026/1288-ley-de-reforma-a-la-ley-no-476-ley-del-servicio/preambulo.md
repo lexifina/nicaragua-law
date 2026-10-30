@@ -1,0 +1,27 @@
+LEY Nº. 1288, LEY DE REFORMA A LA LEY Nº. 476, LEY DEL SERVICIO CIVIL Y DE LA CARRERA ADMINISTRATIVA
+
+Aprobada el 29 de octubre de 2026
+
+Publicada en La Gaceta, Diario Oficial N°. 200 del 30 de octubre de 2026
+
+LA PRESIDENCIA DE LA REPÚBLICA DE NICARAGUA
+
+A sus habitantes, hace saber:
+
+Que,
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+Ha ordenado lo siguiente:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+HA DICTADO
+
+La siguiente:
+
+LEY Nº. 1288
+
+LEY DE REFORMA A LA LEY Nº. 476, LEY DEL SERVICIO CIVIL Y DE LA CARRERA ADMINISTRATIVA
