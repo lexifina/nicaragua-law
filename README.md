@@ -1,5 +1,7 @@
 # The Constitution of Nicaragua, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Nicaragua's national law, which global-law reads at `nicaragua/national/acts/`.
+
 The Constitución Política de la República de Nicaragua as a git repository, in Spanish, from the official text
 with the reforms incorporated of 2014 to the reforms of January 2026. Each reform law is one commit, credited to that
 law and dated the day it took effect, at noon in Managua. Source: Normas Jurídicas de Nicaragua, the legislation
