@@ -1,121 +1,86 @@
-# The Constitution of Nicaragua, change by change
+# Nicaragua: law history in git
+
+
+The law of Nicaragua as a git history: one file per article, one commit per version on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Nicaragua's national law, which global-law reads at `nicaragua/national/acts/`.
 
-The Constitución Política de la República de Nicaragua as a git repository, in Spanish, from the official text
-with the reforms incorporated of 2014 to the reforms of January 2026. Each reform law is one commit, credited to that
-law and dated the day it took effect, at noon in Managua. Source: Normas Jurídicas de Nicaragua, the legislation
-database of the Asamblea Nacional (legislacion.asamblea.gob.ni).
+**What is in it now:** the Constitución Política de la República de Nicaragua, in 15 versions from the official text of 2014 to Ley N° 1271 (in force 19 January 2026): four official whole texts (2014, the Digesto consolidations of 2022 and 2024, and the Texto Íntegro of 2025) and 11 reform laws between them. No other act yet. [`laws.csv`](laws.csv) lists every version with its Gaceta and its in-force day, and [`SOURCES.md`](SOURCES.md) links each one to its page and its Gaceta issue.
 
-## The questions, as git commands
+Each article is one file in `constitucion/` (`constitucion/articulo-001.md` is Article 1); `preambulo.md`, `estructura.md` (titles and chapters) and `cierre.md` (the closing formula) hold the rest. Ley N° 1234 renumbered the articles on 18 February 2025 (202 became 184): from then on a file holds the article of that number in the new text, so compare texts, not paths, across that commit.
+
+The text is in Spanish, as Normas Jurídicas de Nicaragua prints it, typing errors included. An English translation is not part of this record.
+
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did article 37 say on 1 June 2020? | `python tools/in_force_on.py 2020-06-01 constitucion 37` |
-| ... and on 1 June 2021, after Ley N° 1057? | `python tools/in_force_on.py 2021-06-01 constitucion 37` |
-| The whole Constitution as it stood on 1 March 2024 | `python tools/in_force_on.py 2024-03-01 constitucion` |
-| Which law wrote each line of article 21 in 2024? | `git blame ley/1190 -- constitucion/articulo-021.md` |
-| Every change to articulo-037.md, with its law and day | `git log --format="%an %(trailers:key=In-force,valueonly,separator=)" main -- constitucion/articulo-037.md` |
-| Exactly what Ley N° 1057 changed, word by word | `git show --word-diff ley/1057 -- constitucion/articulo-037.md` |
-| Everything one law changed | `git show --stat ley/1269` |
-| The laws, with their in-force days | `git log --format="%an, in force %(trailers:key=In-force,valueonly,separator=)" main` |
-| One tag per law and per official text | `git tag --list` |
-| How the in-force day of each law was read | `git log --format="%an: %(trailers:key=In-force-basis,valueonly,separator=)" main` |
+| Every change to Article 1 of the Constitution | `git log -p --word-diff -- constitucion/articulo-001.md` |
+| Which law wrote each line of Article 1? | `git blame constitucion/articulo-001.md` |
+| Every version of the Constitution, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- constitucion` |
+| Article 1 as in force on 1 January 2024 | `python tools/in_force_on.py 2024-01-01 constitucion 1` |
 
-PowerShell splits `git show $(...):path`; use `$r = git rev-list -1 main; git show "$($r):constitucion/articulo-037.md"`.
-For a date, prefer `tools/in_force_on.py`, which reads the `In-force:` trailer: `git rev-list --before=DATE` compares
-commit times in your own time zone and flips at noon on the day itself. After a rebuild, `git fetch --force --tags`.
+**Outside git**, we also host this record publicly, for free:
 
-## The laws
+- **[Ask Claude about Nicaraguan law](https://global-law.lexifina.com/v1/try_claude?country=nicaragua)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=nicaragua)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=vacaciones&jurisdictions=nicaragua)**: a search of Nicaraguan law for "vacaciones" (paid leave), returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-| Tag | Author | Kind | Approved | Published | In force | Articles |
-| --- | --- | --- | --- | --- | --- | --- |
-| `texto/2014` | Asamblea Nacional: texto con reformas incorporadas (2014) | baseline | 2014-02-10 | Gaceta N° 32, 2014-02-18 | 2014-02-10 | 202 |
-| `ley/1014` | Ley N° 1014 | amendment | 2020-01-28 | Gaceta N° 22, 2020-02-04 | 2020-02-04 | 202 |
-| `ley/1057` | Ley N° 1057 | amendment | 2021-01-18 | Gaceta N° 12, 2021-01-19 | 2021-01-19 | 202 |
-| `digesto/2022` | Ley N° 1091 | consolidation | 2021-10-27 | Gaceta N° 181, 2022-09-28 | 2022-09-28 | 202 |
-| `ley/1185` | Ley N° 1185 | amendment | 2024-01-16 | Gaceta N° 10, 2024-01-19 | 2024-01-19 | 202 |
-| `ley/1186` | Ley N° 1186 | amendment | 2024-01-16 | Gaceta N° 10, 2024-01-19 | 2024-01-19 | 202 |
-| `ley/1187` | Ley N° 1187 | amendment | 2024-01-17 | Gaceta N° 11, 2024-01-22 | 2024-01-22 | 202 |
-| `ley/1188` | Ley N° 1188 | amendment | 2024-01-17 | Gaceta N° 11, 2024-01-22 | 2024-01-22 | 202 |
-| `ley/1190` | Ley N° 1190 | amendment | 2024-01-18 | Gaceta N° 11, 2024-01-22 | 2024-01-22 | 202 |
-| `digesto/2024` | Ley N° 1196 | consolidation | 2024-03-13 | Gaceta N° 161, 2024-08-30 | 2024-08-30 | 202 |
-| `texto/2025` | Ley N° 1234 | reform | 2025-01-30 | Gaceta N° 32, 2025-02-18 | 2025-02-18 | 184 |
-| `ley/1268` | Ley N° 1268 | amendment | 2026-01-14 | Gaceta N° 09, 2026-01-16 | 2026-01-16 | 184 |
-| `ley/1269` | Ley N° 1269 | amendment | 2026-01-14 | Gaceta N° 09, 2026-01-16 | 2026-01-16 | 184 |
-| `ley/1270` | Ley N° 1270 | amendment | 2026-01-15 | Gaceta N° 10, 2026-01-19 | 2026-01-19 | 184 |
-| `ley/1271` | Ley N° 1271 | amendment | 2026-01-15 | Gaceta N° 10, 2026-01-19 | 2026-01-19 | 184 |
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Spanish or in English.
 
-See [`laws.csv`](laws.csv) and [`SOURCES.md`](SOURCES.md). Normas Jurídicas de Nicaragua lists no constitutional reform
-after Ley N° 1271 (checked 2026-10-28).
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-## The dates, and which one we use
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add nicaragua/national/acts
+python3 tools/law.py show 2026-01-01 nicaragua/national/acts/constitucion/articulo-001.md
+```
 
-Each law has the day the Asamblea approved it (`Enacted:`), the issue of La Gaceta, Diario Oficial that printed it
-(`Published:`), and the day it took effect (`In-force:`). **Commits are dated the day the text took effect**, at noon in
-Managua (UTC-6). Every law here takes effect on its publication in La Gaceta, as its last article says; each commit's
-`In-force-basis:` trailer quotes it. Two laws taking effect on one day are two commits, a second apart, in the order of
-their numbers.
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-- The reforms of January 2024 (Leyes N° 1186, 1187, 1188 and 1190) still carry the clause of their first-reading bill
-  ("Una vez sea aprobada en segunda legislatura, ... entrará en vigencia a partir de la fecha de su publicación"). The
-  publications used here are the promulgated laws ("Téngase como Ley de la República"), and the official consolidation
-  of 2024 incorporates them as published on these days, so they are dated by these publications.
+## Dates
 
-## What "author" means
+Each commit is dated at noon, America/Managua (UTC-6), on the day the version took effect, and carries it in its `In-force:` trailer, beside `Enacted:` (approved by the Asamblea Nacional) and `Published:` (the issue of La Gaceta, Diario Oficial):
 
-The author of a commit is the law that made the text (`Ley N° 1057`, address `ley-1057@asamblea-ni.invalid`), so `git
-blame` names the law. The first commit is the official 2014 text, authored by its publisher. The committer is always
-`Lexifina`.
+- every law here takes effect on its publication in La Gaceta, as its last article says, and the commit's `In-force-basis:` trailer quotes that clause; two laws in force on one day are two commits a second apart, in the order of their numbers;
+- the reforms of January 2024 (Leyes N° 1186, 1187, 1188 and 1190) still carry the clause of their first-reading bill; they are dated by the publication of the promulgated laws, which the 2024 consolidation incorporates;
+- the 2014 text is dated 10 February 2014, the day Ley N° 854, whose reforms it incorporates, took effect: read its lines as in force on that day at the latest.
 
-## Read this before comparing versions
-
-- **The first version is a baseline.** The 2014 text holds the 1987 Constitution with every reform up to Ley N° 854
-  (2014) incorporated; all its lines are credited to that text (`Kind: baseline`). Read them as "in force on 10
-  February 2014 at the latest".
-- **Replayed versions.** Between the official texts, each reform law's version is the previous text with the words the
-  law quotes put in place (`Replayed: yes`). The next official text checks them: every article a law replaced is word
-  for word the same in the Digesto consolidations of 2022 and 2024. The 2026 reforms have no official text after them
-  yet, so they are checked only against the words of the laws.
-- **Digesto consolidations** (`Kind: consolidation`, Leyes N° 1091 and 1196) replace the replayed text with the official
-  consolidated text. They change no rule, but the Digesto corrected typing errors ("fuera atractivo" -> "fuero
-  atractivo"), and changed punctuation, quotation marks and paragraph breaks; those differences are in these commits,
-  credited to the Digesto law that gave the text legal force. `Words-changed:` counts the files whose letters or digits
-  differ.
-- **2025 renumbered the articles.** Ley N° 1234 reformed most of the Constitution and ordered a Texto Íntegro with new
-  numbers (202 articles became 184). From that commit on, a file name holds the article of that number in the new text.
-  Compare texts, not paths, across it.
-- **Ley N° 1269 art. 3** says that wherever the legal order reads "Procuraduría General de la República" it is to be
-  read "Procuraduría General de Justicia". That is a rule of reading, not a textual amendment, so the other articles keep
-  their printed words.
-- **Blame credits whole lines**: one line is one paragraph. Use `--word-diff` for the words.
+Each change is credited to the law that made it (`Ley N° 1057`); the 2014 text, which holds the 1987 Constitution with every reform up to Ley N° 854, to its publisher, and the Digesto consolidations to the laws that gave them legal force (Leyes N° 1091 and 1196). Those consolidations change no rule, but their commits carry the Digesto's corrections of typing errors and punctuation. The committer is Lexifina.
 
 ## How it is checked
 
-`tools/check_repo.py` reads every version back from git and compares it with what the source says, byte for byte, file
-by file: the official texts against their own pages, and each replayed version against the previous version plus the
-words its law quotes. It then compares each official version again as a stream of letters and digits taken straight from
-the page, without the line or article parser, and checks every replayed article against the next official text.
-`tools/test_repo.py` checks that the commands above work. See [`REPRODUCE.md`](REPRODUCE.md).
-- check_repo.py: 15 versions, 2985 files byte-equal; 4 official versions equal their pages as letters and digits; 14 replayed files are runs of their laws; 0 failures
-- test_repo.py: 7/7 passed
-
-## Files
-
-`constitucion/articulo-NNN.md` is one article (`articulo-046-ter.md` an article with a suffix): the `#` line is its
-number, then one line per paragraph, exactly as the database prints it (its typography and typing errors are kept).
-`preambulo.md` is the promulgation formula and the preamble, `estructura.md` the titles and chapters, each with the
-article it opens, and `cierre.md` the closing formula with the list of earlier reforms and the Digesto's notes.
+- `tools/check_repo.py` compares every version in git, byte for byte, with what the source says: the four official texts with their own pages, and each reform law's version with the previous one plus the words the law quotes (15 versions, 2,985 files, 0 failures).
+- Each official text is compared again as letters and digits taken straight from its page, without the parser, and every article a reform law replaced is word for word the same in the next official text. The 2026 reforms have no official text after them yet.
+- `tools/test_repo.py` checks that blame, the dated tool and the commands above work. The results, the sha256 of every page used and the steps to rebuild it with the same hashes are in [`REPRODUCE.md`](REPRODUCE.md).
 
 ## What it does not show
 
-- The Constitution before 2014: the 1987 original and the reforms of 1990-2014 are in the database, but only as a whole
-  2014 text here.
-- Changes in how the Constitution works that leave its words alone, such as the reading rule of Ley N° 1269 art. 3,
-  or rulings of the Corte Suprema de Justicia. Words unchanged does not mean law unchanged.
-- The texts in the languages of the Caribbean Coast (the database holds a Mayangna text of 2012).
+- **Other acts.** Only the Constitution is here; Normas Jurídicas de Nicaragua listed 27,028 documents on 28 October 2026.
+- **The Constitution before 2014.** The 1987 original and the reforms of 1990 to 2014 are here only as the 2014 text.
+- **Changes that leave the words alone**, such as Ley N° 1269 art. 3 (read "Procuraduría General de Justicia" wherever the law says "Procuraduría General de la República") or rulings of the Corte Suprema de Justicia.
+- **Texts in the languages of the Caribbean Coast** (the database holds a Mayangna text of 2012).
+
+## Sources
+
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Normas Jurídicas de Nicaragua](http://legislacion.asamblea.gob.ni/Normaweb.nsf/) (Asamblea Nacional) | Official legislation database | yes, the whole texts of 2014, 2022, 2024 and 2025 and every reform law | Each document links to the scan of the La Gaceta issue that published it |
+| La Gaceta, Diario Oficial | Official gazette, the authoritative text | as published | Two issues read by hand to confirm a date and a paragraph |
 
 ## Licence
 
-Laws are not protected by copyright in Nicaragua (Ley N° 312 art. 16). The database publishes no terms of use. See
-[`LICENSE`](LICENSE). Tools, history and tables: CC0.
+See [`LICENSE`](LICENSE). Laws are not protected by copyright in Nicaragua (Ley N° 312, Ley de Derecho de Autor y Derechos Conexos, art. 16), and the database publishes no terms of use. The history, tables and tools are CC0 1.0.
+
+No AI model wrote legal text or ran at build time; the code was written by Claude Code with Claude Opus 5.5, which also chose the scope and read the in-force clauses (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
