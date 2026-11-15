@@ -321,4 +321,8 @@ No model wrote legal text or ran at build time. The code was written by Claude C
     out['.gitattributes'] = '* text eol=lf\n'
     for n in TOOLS:
         out[f'tools/{n}'] = (here / n).read_bytes()
+    # The README as published (on the serbia-law model since 2026-11-14) is kept in repo/ beside the build and
+    # replaces the generated one above, so a rebuild keeps it.
+    if (here / 'repo' / 'README.md').is_file():
+        out['README.md'] = (here / 'repo' / 'README.md').read_text(encoding='utf-8')
     return out
