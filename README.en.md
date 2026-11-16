@@ -60,6 +60,7 @@ Each change is credited to the law that made it (`Ley N° 1057`); the 2014 text,
 - `tools/check_repo.py` compares every version in git, byte for byte, with what the source says: the four official texts with their own pages, and each reform law's version with the previous one plus the words the law quotes (15 versions, 2,985 files, 0 failures).
 - Each official text is compared again as letters and digits taken straight from its page, without the parser, and every article a reform law replaced is word for word the same in the next official text. The 2026 reforms have no official text after them yet.
 - `tools/test_repo.py` checks that blame, the dated tool and the commands above work. The results, the sha256 of every page used and the steps to rebuild it with the same hashes are in [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -80,6 +81,10 @@ Each change is credited to the law that made it (`Ley N° 1057`); the 2014 text,
 See [`LICENSE`](LICENSE). Laws are not protected by copyright in Nicaragua (Ley N° 312, Ley de Derecho de Autor y Derechos Conexos, art. 16), and the database publishes no terms of use. The history, tables and tools are CC0 1.0.
 
 No AI model wrote legal text or ran at build time; the code was written by Claude Code with Claude Opus 5.5, which also chose the scope and read the in-force clauses (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 

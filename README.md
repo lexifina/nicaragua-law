@@ -60,6 +60,7 @@ Cada cambio se atribuye a la ley que lo hizo (`Ley N° 1057`); el texto de 2014,
 - `tools/check_repo.py` compara cada versión en git, byte a byte, con lo que dice la fuente: los cuatro textos oficiales con sus propias páginas, y la versión de cada ley de reforma con la anterior más las palabras que cita la ley (15 versiones, 2,985 archivos, 0 fallos).
 - Cada texto oficial se compara de nuevo como letras y dígitos tomados directamente de su página, sin el analizador, y cada artículo que una ley de reforma sustituyó es idéntico, palabra por palabra, en el siguiente texto oficial. Las reformas de 2026 todavía no tienen un texto oficial posterior.
 - `tools/test_repo.py` comprueba que funcionan blame, la herramienta por fecha y los comandos anteriores. Los resultados, el sha256 de cada página usada y los pasos para reconstruirlo con los mismos hashes están en [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/): posibles errores de redacción en este derecho, hallados por los detectores de global-law y revisados a mano. Aún no se ha ejecutado.
 
 ## Lo que no muestra
 
@@ -82,6 +83,10 @@ Véase [`LICENSE`](LICENSE). Las leyes no están protegidas por el derecho de au
 Ningún modelo de IA escribió texto jurídico ni se ejecutó al construir el historial; el código lo escribió Claude Code con Claude Opus 5.5, que también eligió el alcance y leyó las cláusulas de entrada en vigencia (véase [`REPRODUCE.md`](REPRODUCE.md)).
 
 Esta es una traducción de la versión inglesa ([README.en.md](README.en.md)); si difieren, prevalece la versión inglesa.
+
+## Visualizaciones
+
+- [visualisations/](visualisations/): gráficos hechos a partir de este repositorio. Aún no se han hecho.
 
 ## Más información
 
