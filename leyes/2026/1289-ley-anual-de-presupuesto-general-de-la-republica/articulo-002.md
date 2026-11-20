@@ -1,0 +1,11 @@
+# Artículo 2
+
+Apruébese el Presupuesto General de Egresos para el ejercicio presupuestario 2027 en la suma de C$168,237,940,162.00 (CIENTO SESENTA Y OCHO MIL DOSCIENTOS TREINTA Y SIETE MILLONES NOVECIENTOS CUARENTA MIL CIENTO SESENTA Y DOS CÓRDOBAS NETOS), distribuidos en C$114,186,933,909.00 (CIENTO CATORCE MIL CIENTO OCHENTA Y SEIS MILLONES NOVECIENTOS TREINTA Y TRES MIL NOVECIENTOS NUEVE CÓRDOBAS NETOS) para gastos corrientes y C$54,051,006,253.00 (CINCUENTA Y CUATRO MIL CINCUENTA Y UN MILLONES SEIS MIL DOSCIENTOS CINCUENTA Y TRES CÓRDOBAS NETOS) para gastos de capital. La distribución del Presupuesto General de Egresos será por organismo, programa, proyecto y grupo de gasto en la forma y monto cuyo detalle es parte de esta Ley.
+
+a) Del techo total de gastos establecido en el Proyecto de Presupuesto General de Egresos 2027, redúzcase la suma de C$233,844,827.00 (DOSCIENTOS TREINTA Y TRES MILLONES OCHOCIENTOS CUARENTA Y CUATRO MIL OCHOCIENTOS VEINTISIETE CÓRDOBAS NETOS), de los cuales C$233,474,827.00 (DOSCIENTOS TREINTA Y TRES MILLONES CUATROCIENTOS SETENTA Y CUATRO MIL OCHOCIENTOS VEINTISIETE CÓRDOBAS NETOS), corresponden a gastos corrientes y C$370,000.00 (TRESCIENTOS SETENTA MIL CÓRDOBAS NETOS) a gasto de capital, en base al detalle del Anexo Nº. I.
+
+b) Asimismo, del techo total de gasto establecido en el Proyecto de Presupuesto General de Egresos 2027, increméntese la partida presupuestaria de las instituciones en base a detalle de renglones del Anexo Nº. II por la suma de C$233,844,827.00 (DOSCIENTOS TREINTA Y TRES MILLONES OCHOCIENTOS CUARENTA Y CUATRO MIL OCHOCIENTOS VEINTISIETE CÓRDOBAS NETOS), de los cuales C$233,474,827.00 (DOSCIENTOS TREINTA Y TRES MILLONES CUATROCIENTOS SETENTA Y CUATRO MIL OCHOCIENTOS VEINTISIETE CÓRDOBAS NETOS), corresponden a gastos corrientes y C$370,000.00 (TRESCIENTOS SETENTA MIL CÓRDOBAS NETOS) a gastos de capital.
+
+c) De igual forma reasígnense la partida presupuestaria por la suma de C$262,000,000.00 (DOSCIENTOS SESENTA Y DOS MILLONES DE CÓRDOBAS NETOS), cuyo monto y detalle se presentan en el Anexo Nº. III.
+
+Los Anexos Nº. I, II y III que contienen las modificaciones de la presente Ley, forman parte integrante de la misma.

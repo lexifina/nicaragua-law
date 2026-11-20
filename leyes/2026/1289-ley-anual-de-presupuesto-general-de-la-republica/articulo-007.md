@@ -1,0 +1,3 @@
+# Artículo 7
+
+Sin perjuicio de lo establecido en la Ley Nº. 1221, Ley de Reforma a la Ley Nº. 89, Ley de Autonomía de las Instituciones de Educación Superior, se establece como medida temporal para el ejercicio presupuestario 2027, el monto asignado como aporte ordinario del Estado, en la partida de Asignaciones y Subvenciones, denominada Universidades y Centros de Educación Técnica Superior, por la suma de C$10,215,250,000.00 (DIEZ MIL DOSCIENTOS QUINCE MILLONES DOSCIENTOS CINCUENTA MIL CÓRDOBAS NETOS), y cuya distribución es parte de esta Ley. La programación, entrega de fondos y registro de la ejecución presupuestaria se regirá por lo establecido en las Normas y Procedimientos de Ejecución y Control Presupuestario para el año 2027.

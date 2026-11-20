@@ -1,0 +1,27 @@
+LEY N°. 1289, LEY ANUAL DE PRESUPUESTO GENERAL DE LA REPÚBLICA 2027
+
+Aprobada el 18 de noviembre de 2026
+
+Publicada en La Gaceta, Diario Oficial N°. 214 del 20 de noviembre de 2026
+
+LA PRESIDENCIA DE LA REPÚBLICA DE NICARAGUA
+
+A sus habitantes, hace saber:
+
+Que,
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+Ha ordenado lo siguiente:
+
+LA ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
+
+En uso de sus facultades,
+
+HA DICTADO
+
+La siguiente:
+
+LEY N°. 1289
+
+LEY ANUAL DE PRESUPUESTO GENERAL DE LA REPÚBLICA 2027

@@ -1,0 +1,3 @@
+# Artículo 1
+
+Apruébese el Presupuesto General de Ingresos para el ejercicio presupuestario 2027, por el monto estimado de C$195,136,661,231.00 (CIENTO NOVENTA Y CINCO MIL CIENTO TREINTA Y SEIS MILLONES SEISCIENTOS SESENTA Y UN MIL DOSCIENTOS TREINTA Y UN CÓRDOBAS NETOS), de los que C$195,121,798,997.00 (CIENTO NOVENTA Y CINCO MIL CIENTO VEINTIÚN MILLONES SETECIENTOS NOVENTA Y OCHO MIL NOVECIENTOS NOVENTA Y SIETE CÓRDOBAS NETOS) corresponden a ingresos corrientes y C$14,862,234.00 (CATORCE MILLONES OCHOCIENTOS SESENTA Y DOS MIL DOSCIENTOS TREINTA Y CUATRO CÓRDOBAS NETOS) a ingresos de capital, que forman parte de esta Ley, de acuerdo a la distribución por fuente de ingresos.
