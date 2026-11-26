@@ -1,10 +1,11 @@
 {
   "corpus": "ni/national/acts",
-  "name": "Nicaraguan law: the Constitución Política (text of 2014 to today)",
+  "name": "Nicaraguan law: the Constitución Política, codes, laws, decree-laws, regulations and decrees in force",
   "label": "Nicaragua",
   "language": "es",
   "acts": [
-    "Constitución Política de la República de Nicaragua"
+    "Constitución Política de la República de Nicaragua",
+    "10 códigos, 849 leyes, 126 decretos-ley, 74 reglamentos and 1,185 decretos in force (normas.csv)"
   ],
   "history_from": "2014-02-10",
   "record_to": "2026-01-19",
