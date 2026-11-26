@@ -82,3 +82,22 @@ No model wrote legal text or ran at build time. The code was written by Claude C
 
 - check_repo.py: 15 versions, 2985 files byte-equal; 4 official versions equal their pages as letters and digits; 14 replayed files are runs of their laws; 0 failures
 - test_repo.py: 7/7 passed
+
+## Códigos, leyes y decretos (2026-11-26 runner)
+
+Source: Normas Jurídicas de Nicaragua, the Asamblea Nacional's database
+(http://legislacion.asamblea.gob.ni/Normaweb.nsf). Plain HTTP; the host does not answer HTTPS.
+
+1. Catalogue: `/Normaweb.nsf/$defaultview?ReadViewEntries&ExpandView&outputformat=JSON`, categories Constituciones,
+   Códigos, Leyes, Decretos - Ley, Reglamentos, Decretos Ejecutivos, Decreto Presidencial (date, number, title,
+   document UNID).
+2. Each document: `/Normaweb.nsf/xpNorma.xsp?documentId=<UNID>&action=openDocument`. The text is the
+   `view:_id1:computedField1` field; the page links the La Gaceta PDF ("Publicación oficial"), the newest official
+   text of the norm ("Ver enlace a última versión de Texto Publicado") and shows its status ("Vigente").
+3. Versions of a norm: the documents joined by those links. Dates come from the text itself ("Aprobada el",
+   "Publicada en La Gaceta ... del", "consolidadas al", the vigencia article), never from the retrieval day.
+4. Split: a new article starts at a line `Artículo N` / `Arto. N` / `Art. N` (with bis, ter, ...) whose number
+   follows the previous one; quoted articles inside reform laws stay in the article that quotes them.
+5. The text is the publisher's HTML text, unchanged except for whitespace. No OCR; images in the source are left out.
+
+The runner is `scripts/nicaragua-law/runner/ni_build.py run` in the Lexifina tools (not part of this repository).
