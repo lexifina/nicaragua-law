@@ -11,7 +11,7 @@ The law of Nicaragua as a git history: one file per article, one commit per vers
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Nicaragua's national law, which global-law reads at `nicaragua/national/acts/`.
 
-**What is in it now:** the Constitución Política de la República de Nicaragua, in 15 versions from the official text of 2014 to Ley N° 1271 (in force 19 January 2026): four official whole texts (2014, the Digesto consolidations of 2022 and 2024, and the Texto Íntegro of 2025) and 11 reform laws between them. No other act yet. [`laws.csv`](laws.csv) lists every version with its Gaceta and its in-force day, and [`SOURCES.md`](SOURCES.md) links each one to its page and its Gaceta issue.
+**What is in it now:** the Constitución Política de la República de Nicaragua, in 15 versions from the official text of 2014 to Ley N° 1271 (in force 19 January 2026): four official whole texts (2014, the Digesto consolidations of 2022 and 2024, and the Texto Íntegro of 2025) and 11 reform laws between them. Also the codes in force in `codigos/` (Civil, Penal with the 2024 Digesto consolidated text, Criminal Procedure, Civil Procedure, Family, Labour, Labour Procedure, Commerce, Military Penal and Military Criminal Procedure), and the laws, decree-laws, regulations and decrees in force, being added under `leyes/`, `decretos-ley/`, `reglamentos/` and `decretos/` by year (see [`STRUCTURE.md`](STRUCTURE.md); [`normas.csv`](normas.csv) lists every norm). [`laws.csv`](laws.csv) lists every version of the Constitution with its Gaceta and its in-force day, and [`SOURCES.md`](SOURCES.md) links each one to its page and its Gaceta issue.
 
 Each article is one file in `constitucion/` (`constitucion/articulo-001.md` is Article 1); `preambulo.md`, `estructura.md` (titles and chapters) and `cierre.md` (the closing formula) hold the rest. Ley N° 1234 renumbered the articles on 18 February 2025 (202 became 184): from then on a file holds the article of that number in the new text, so compare texts, not paths, across that commit.
 
@@ -64,7 +64,7 @@ Each change is credited to the law that made it (`Ley N° 1057`); the 2014 text,
 
 ## What it does not show
 
-- **Other acts.** Only the Constitution is here; Normas Jurídicas de Nicaragua listed 27,028 documents on 28 October 2026.
+- **Repealed norms and the amendments between two official texts.** A norm that Normaweb does not mark as in force stays out until its repeal date is recorded; between the original text and a consolidated text, each amending law is in its own folder, not applied to the text.
 - **The Constitution before 2014.** The 1987 original and the reforms of 1990 to 2014 are here only as the 2014 text.
 - **Changes that leave the words alone**, such as Ley N° 1269 art. 3 (read "Procuraduría General de Justicia" wherever the law says "Procuraduría General de la República") or rulings of the Corte Suprema de Justicia.
 - **Texts in the languages of the Caribbean Coast** (the database holds a Mayangna text of 2012).
